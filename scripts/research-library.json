@@ -1,0 +1,98 @@
+[
+  {
+    "name": "TAAFT",
+    "url": "https://theresanaiforthat.com/",
+    "group": "竞品与需求",
+    "brief": "按任务寻找替代产品，适合拉一份细分赛道的竞品清单。",
+    "question": "先确定用户任务，再比较输入、输出、价格与切换成本。",
+    "assetKey": "taaft"
+  },
+  {
+    "name": "AI 工具集",
+    "url": "https://ai-bot.cn/ai-tools/",
+    "group": "竞品与需求",
+    "brief": "补充中文和国内可体验的 AI 产品样本。",
+    "question": "验证入口是否可用，以及免费额度是否足够完成真实任务。",
+    "assetKey": "aibot"
+  },
+  {
+    "name": "GitHub Trending",
+    "url": "https://github.com/trending",
+    "group": "竞品与需求",
+    "brief": "观察开源项目，寻找可以运行和改造的方案。",
+    "question": "星数不是需求证据；先看说明、许可证和最近维护情况。",
+    "assetKey": "github"
+  },
+  {
+    "name": "Anthropic Engineering",
+    "url": "https://www.anthropic.com/engineering",
+    "group": "能力与方法",
+    "brief": "查 Agent、上下文与系统设计的一手工程文章。",
+    "question": "抽出适用前提，再判断是否能用于你的产品流程。",
+    "assetKey": "anthropicai"
+  },
+  {
+    "name": "OpenAI Developers",
+    "url": "https://developers.openai.com/",
+    "group": "能力与方法",
+    "brief": "核对模型、工具调用、评测与接口限制。",
+    "question": "把宣传能力转成可以验收的产品指标。",
+    "assetKey": "openai"
+  },
+  {
+    "name": "Google AI for Developers",
+    "url": "https://ai.google.dev/",
+    "group": "能力与方法",
+    "brief": "查 Gemini 的能力范围、示例和开发说明。",
+    "question": "用同一任务集比较质量、延迟与费用。",
+    "assetKey": "googledeepmind"
+  },
+  {
+    "name": "Hugging Face Spaces",
+    "url": "https://huggingface.co/spaces",
+    "group": "动手验证",
+    "brief": "直接体验模型 Demo，判断能力是否值得继续研究。",
+    "question": "记录输入限制、失败案例和复现条件。",
+    "assetKey": "huggingface"
+  },
+  {
+    "name": "Arena",
+    "url": "https://arena.ai/",
+    "group": "动手验证",
+    "brief": "用模型比较与榜单发现候选方案。",
+    "question": "榜单只用于初筛，最终用你自己的任务集测试。",
+    "assetKey": "arena"
+  },
+  {
+    "name": "n8n Workflows",
+    "url": "https://n8n.io/workflows/",
+    "group": "动手验证",
+    "brief": "官方工作流目录，按业务任务找可拆解的自动化案例。",
+    "question": "重点看触发条件、数据流、人工确认和错误处理。",
+    "assetKey": "n8n"
+  },
+  {
+    "name": "Hello-Agents",
+    "url": "https://datawhalechina.github.io/hello-agents/#/",
+    "group": "系统学习",
+    "brief": "中文 Agent 学习资料，按当前问题选择章节。",
+    "question": "每次只复现一个例子，留下能解释给别人听的笔记。",
+    "assetKey": "helloagents"
+  },
+  {
+    "name": "a16z",
+    "url": "https://a16z.com/news-content/",
+    "group": "商业判断",
+    "brief": "补充海外创业、产品分发与商业模式的观察。",
+    "question": "把投资机构的判断与其引用证据分开阅读。",
+    "assetKey": "a16z"
+  },
+  {
+    "name": "甲子光年",
+    "url": "https://www.jazzyear.com/study_list.html",
+    "group": "商业判断",
+    "brief": "补充国内科技产业与企业落地的研究。",
+    "question": "核对样本、时间和统计口径，再用于产品判断。",
+    "assetKey": "jazzyear"
+  }
+]

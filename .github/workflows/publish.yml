@@ -1,0 +1,52 @@
+name: Update and publish daily
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: daily-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: news-cache-${{ github.run_id }}
+          restore-keys: news-cache-
+      - name: Read public news sources
+        env:
+          NEWS_SOURCES_JSON: ${{ secrets.NEWS_SOURCES_JSON }}
+        run: npm run sync
+      - run: npm test
+      - name: Save the current edition
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data.json public/api/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public news edition'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,567 @@
+{
+  "accounts": [
+    {
+      "id": "ph",
+      "checkedAt": "2026-09-14T15:46:34.349Z",
+      "lastSuccessAt": "2026-09-14T15:46:34.349Z",
+      "nextCheckAt": 1789404394349,
+      "status": "ok",
+      "failures": 0,
+      "avatar": {
+        "name": "Product Hunt",
+        "asset": null,
+        "tone": "#f0e1d9"
+      },
+      "name": "Product Hunt",
+      "category": "新品与竞品",
+      "focus": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "provider": "站点公开订阅",
+      "platform": "英文产品社区",
+      "sourceUrl": "https://www.producthunt.com/feed",
+      "evidenceUrl": "https://www.producthunt.com/feed",
+      "kind": "atom",
+      "received": 30
+    },
+    {
+      "id": "woshipm",
+      "checkedAt": "2026-09-14T15:46:34.349Z",
+      "lastSuccessAt": "2026-09-14T15:46:34.349Z",
+      "nextCheckAt": 1789404394349,
+      "status": "ok",
+      "failures": 0,
+      "avatar": {
+        "name": "人人都是产品经理",
+        "asset": "/assets/identities/woshipm.png",
+        "tone": "#e1eaf0"
+      },
+      "name": "人人都是产品经理",
+      "category": "产品拆解",
+      "focus": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "provider": "站点公开订阅",
+      "platform": "中文产品社区",
+      "sourceUrl": "https://www.woshipm.com/feed",
+      "evidenceUrl": "https://www.woshipm.com/feed",
+      "kind": "rss",
+      "received": 15
+    },
+    {
+      "id": "sspai",
+      "checkedAt": "2026-09-14T15:46:34.349Z",
+      "lastSuccessAt": "2026-09-14T15:46:34.349Z",
+      "nextCheckAt": 1789404394349,
+      "status": "ok",
+      "failures": 0,
+      "avatar": {
+        "name": "少数派",
+        "asset": null,
+        "tone": "#eee3dc"
+      },
+      "name": "少数派",
+      "category": "工作流与实践",
+      "focus": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "provider": "站点公开订阅",
+      "platform": "中文媒体",
+      "sourceUrl": "https://sspai.com/feed",
+      "evidenceUrl": "https://sspai.com/feed",
+      "kind": "rss",
+      "received": 10
+    },
+    {
+      "id": "n8n",
+      "checkedAt": "2026-09-14T15:46:35.517Z",
+      "lastSuccessAt": "2026-09-14T15:46:35.517Z",
+      "nextCheckAt": 1789404395517,
+      "status": "ok",
+      "failures": 0,
+      "avatar": {
+        "name": "n8n Blog",
+        "asset": "/assets/identities/n8n.png",
+        "tone": "#f2e0df"
+      },
+      "name": "n8n Blog",
+      "category": "工作流与实践",
+      "focus": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "provider": "站点公开订阅",
+      "platform": "英文官方博客",
+      "sourceUrl": "https://blog.n8n.io/rss/",
+      "evidenceUrl": "https://blog.n8n.io/rss/",
+      "kind": "rss",
+      "received": 15
+    }
+  ],
+  "intervalSeconds": 3600,
+  "nextCheckAt": 1789404394349,
+  "refreshing": false,
+  "items": [
+    {
+      "id": "sspai:https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+      "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。查看全文本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/sing",
+      "publishedAt": "2026-09-14T08:35:27.000Z",
+      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。查看全文本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/sing",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/chuangye/6464227.html",
+      "title": "2500万用户，年收入只有 300万美元：这个 AI 爆款主动把自己关了",
+      "summary": "曾用 134 天做到 100 万用户的 AI 演示文稿工具 Tome，在累计 2500 万用户之后选择关停。2024 年底它的年收入只有约 300 万美元，大量用户停在免费版，创始人裁掉两成团队转向企业销售，也没能扭转需求不够深的问题。 之前有小伙伴留言，建议我分享一些“失败”的案例。今天分享的这个产品不算“失败”，但我很想和大家分享：Tome，https://tomeapp.ai/ 2023年初，如果要选一家最能代表第一波生成式 AI",
+      "publishedAt": "2026-09-14T06:03:00.000Z",
+      "url": "https://www.woshipm.com/chuangye/6464227.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/chuangye/6464227.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "曾用 134 天做到 100 万用户的 AI 演示文稿工具 Tome，在累计 2500 万用户之后选择关停。2024 年底它的年收入只有约 300 万美元，大量用户停在免费版，创始人裁掉两成团队转向企业销售，也没能扭转需求不够深的问题。 之前有小伙伴留言，建议我分享一些“失败”的案例。今天分享的这个产品不算“失败”，但我很想和大家分享：Tome，https://tomeapp.ai/ 2023年初，如果要选一家最能代表第一波生成式 AI",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/slashy-3",
+      "title": "Slashy Assistant",
+      "summary": "The AI assistant that does email for you",
+      "publishedAt": "2026-09-14T02:52:46.000Z",
+      "url": "https://www.producthunt.com/products/slashy-3",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/slashy-3",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The AI assistant that does email for you",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/marqly",
+      "title": "Marqly 6.0",
+      "summary": "Ask your bookmarks. Bring them to your AI.",
+      "publishedAt": "2026-09-13T08:34:52.000Z",
+      "url": "https://www.producthunt.com/products/marqly",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/marqly",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Ask your bookmarks. Bring them to your AI.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/aside-6",
+      "title": "Aside",
+      "summary": "AI browser that actually gets work done for you",
+      "publishedAt": "2026-09-12T18:17:02.000Z",
+      "url": "https://www.producthunt.com/products/aside-6",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/aside-6",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI browser that actually gets work done for you",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "sspai:https://sspai.com/post/114461",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "url": "https://sspai.com/post/114461",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/114461",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "n8n:https://blog.n8n.io/process-orchestration/",
+      "title": "Process Orchestration: Execution Models, Observability, and Production Challenges",
+      "summary": "Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.",
+      "publishedAt": "2026-09-11T19:37:53.000Z",
+      "url": "https://blog.n8n.io/process-orchestration/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/process-orchestration/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "normal"
+    },
+    {
+      "id": "n8n:https://blog.n8n.io/reflection-pattern-ai-agents-self-correct-in-production/",
+      "title": "Reflection Pattern: AI Agents Self-Correct in Production",
+      "summary": "Reflection pattern for LLMs: a self-critique loop that improves correctness, clarity, and reliability with measurable quality gates, ROI, and safety controls",
+      "publishedAt": "2026-09-11T19:19:26.000Z",
+      "url": "https://blog.n8n.io/reflection-pattern-ai-agents-self-correct-in-production/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/reflection-pattern-ai-agents-self-correct-in-production/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Reflection pattern for LLMs: a self-critique loop that improves correctness, clarity, and reliability with measurable quality gates, ROI, and safety controls",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "normal"
+    },
+    {
+      "id": "n8n:https://blog.n8n.io/autonomous-ai-agents/",
+      "title": "Autonomous AI Agents: Architecture and Risk Mitigation",
+      "summary": "Discover what autonomous AI agents are and how they work. Learn different levels of autonomy, common use cases, and ways to mitigate risks.",
+      "publishedAt": "2026-09-10T16:24:59.000Z",
+      "url": "https://blog.n8n.io/autonomous-ai-agents/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/autonomous-ai-agents/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Discover what autonomous AI agents are and how they work. Learn different levels of autonomy, common use cases, and ways to mitigate risks.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "normal"
+    }
+  ],
+  "library": [
+    {
+      "name": "TAAFT",
+      "url": "https://theresanaiforthat.com/",
+      "group": "竞品与需求",
+      "brief": "按任务寻找替代产品，适合拉一份细分赛道的竞品清单。",
+      "question": "先确定用户任务，再比较输入、输出、价格与切换成本。",
+      "assetKey": "taaft",
+      "asset": "/assets/identities/taaft.png"
+    },
+    {
+      "name": "AI 工具集",
+      "url": "https://ai-bot.cn/ai-tools/",
+      "group": "竞品与需求",
+      "brief": "补充中文和国内可体验的 AI 产品样本。",
+      "question": "验证入口是否可用，以及免费额度是否足够完成真实任务。",
+      "assetKey": "aibot",
+      "asset": "/assets/identities/aibot.png"
+    },
+    {
+      "name": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "group": "竞品与需求",
+      "brief": "观察开源项目，寻找可以运行和改造的方案。",
+      "question": "星数不是需求证据；先看说明、许可证和最近维护情况。",
+      "assetKey": "github",
+      "asset": "/assets/identities/github.jpg"
+    },
+    {
+      "name": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering",
+      "group": "能力与方法",
+      "brief": "查 Agent、上下文与系统设计的一手工程文章。",
+      "question": "抽出适用前提，再判断是否能用于你的产品流程。",
+      "assetKey": "anthropicai",
+      "asset": "/assets/identities/anthropicai.jpg"
+    },
+    {
+      "name": "OpenAI Developers",
+      "url": "https://developers.openai.com/",
+      "group": "能力与方法",
+      "brief": "核对模型、工具调用、评测与接口限制。",
+      "question": "把宣传能力转成可以验收的产品指标。",
+      "assetKey": "openai",
+      "asset": "/assets/identities/openai.jpg"
+    },
+    {
+      "name": "Google AI for Developers",
+      "url": "https://ai.google.dev/",
+      "group": "能力与方法",
+      "brief": "查 Gemini 的能力范围、示例和开发说明。",
+      "question": "用同一任务集比较质量、延迟与费用。",
+      "assetKey": "googledeepmind",
+      "asset": "/assets/identities/googledeepmind.jpg"
+    },
+    {
+      "name": "Hugging Face Spaces",
+      "url": "https://huggingface.co/spaces",
+      "group": "动手验证",
+      "brief": "直接体验模型 Demo，判断能力是否值得继续研究。",
+      "question": "记录输入限制、失败案例和复现条件。",
+      "assetKey": "huggingface",
+      "asset": "/assets/identities/huggingface.jpg"
+    },
+    {
+      "name": "Arena",
+      "url": "https://arena.ai/",
+      "group": "动手验证",
+      "brief": "用模型比较与榜单发现候选方案。",
+      "question": "榜单只用于初筛，最终用你自己的任务集测试。",
+      "assetKey": "arena",
+      "asset": null
+    },
+    {
+      "name": "n8n Workflows",
+      "url": "https://n8n.io/workflows/",
+      "group": "动手验证",
+      "brief": "官方工作流目录，按业务任务找可拆解的自动化案例。",
+      "question": "重点看触发条件、数据流、人工确认和错误处理。",
+      "assetKey": "n8n",
+      "asset": "/assets/identities/n8n.png"
+    },
+    {
+      "name": "Hello-Agents",
+      "url": "https://datawhalechina.github.io/hello-agents/#/",
+      "group": "系统学习",
+      "brief": "中文 Agent 学习资料，按当前问题选择章节。",
+      "question": "每次只复现一个例子，留下能解释给别人听的笔记。",
+      "assetKey": "helloagents",
+      "asset": null
+    },
+    {
+      "name": "a16z",
+      "url": "https://a16z.com/news-content/",
+      "group": "商业判断",
+      "brief": "补充海外创业、产品分发与商业模式的观察。",
+      "question": "把投资机构的判断与其引用证据分开阅读。",
+      "assetKey": "a16z",
+      "asset": null
+    },
+    {
+      "name": "甲子光年",
+      "url": "https://www.jazzyear.com/study_list.html",
+      "group": "商业判断",
+      "brief": "补充国内科技产业与企业落地的研究。",
+      "question": "核对样本、时间和统计口径，再用于产品判断。",
+      "assetKey": "jazzyear",
+      "asset": null
+    }
+  ]
+}
