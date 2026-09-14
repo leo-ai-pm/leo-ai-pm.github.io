@@ -2,10 +2,10 @@
   "accounts": [
     {
       "id": "ph",
+      "checkedAt": "2026-09-14T20:16:31.911Z",
+      "lastSuccessAt": "2026-09-14T20:16:31.911Z",
+      "nextCheckAt": 1789420591911,
       "status": "ok",
-      "nextCheckAt": 1789404394349,
-      "checkedAt": "2026-09-14T15:46:34.349Z",
-      "lastSuccessAt": "2026-09-14T15:46:34.349Z",
       "failures": 0,
       "avatar": {
         "name": "Product Hunt",
@@ -20,14 +20,14 @@
       "sourceUrl": "https://www.producthunt.com/feed",
       "evidenceUrl": "https://www.producthunt.com/feed",
       "kind": "atom",
-      "received": 3
+      "received": 30
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-14T20:16:31.913Z",
+      "lastSuccessAt": "2026-09-14T20:16:31.913Z",
+      "nextCheckAt": 1789420591913,
       "status": "ok",
-      "nextCheckAt": 1789404394349,
-      "checkedAt": "2026-09-14T15:46:34.349Z",
-      "lastSuccessAt": "2026-09-14T15:46:34.349Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -42,14 +42,14 @@
       "sourceUrl": "https://www.woshipm.com/feed",
       "evidenceUrl": "https://www.woshipm.com/feed",
       "kind": "rss",
-      "received": 1
+      "received": 15
     },
     {
       "id": "sspai",
+      "checkedAt": "2026-09-14T20:16:31.914Z",
+      "lastSuccessAt": "2026-09-14T20:16:31.914Z",
+      "nextCheckAt": 1789420591914,
       "status": "ok",
-      "nextCheckAt": 1789404394349,
-      "checkedAt": "2026-09-14T15:46:34.349Z",
-      "lastSuccessAt": "2026-09-14T15:46:34.349Z",
       "failures": 0,
       "avatar": {
         "name": "少数派",
@@ -64,14 +64,14 @@
       "sourceUrl": "https://sspai.com/feed",
       "evidenceUrl": "https://sspai.com/feed",
       "kind": "rss",
-      "received": 2
+      "received": 10
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-14T20:16:32.137Z",
+      "lastSuccessAt": "2026-09-14T20:16:32.137Z",
+      "nextCheckAt": 1789420592137,
       "status": "ok",
-      "nextCheckAt": 1789404395517,
-      "checkedAt": "2026-09-14T15:46:35.517Z",
-      "lastSuccessAt": "2026-09-14T15:46:35.517Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -86,11 +86,11 @@
       "sourceUrl": "https://blog.n8n.io/rss/",
       "evidenceUrl": "https://blog.n8n.io/rss/",
       "kind": "rss",
-      "received": 3
+      "received": 15
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789404394349,
+  "nextCheckAt": 1789420591911,
   "refreshing": false,
   "items": [
     {
