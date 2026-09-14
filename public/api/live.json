@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月15日",
     "demo": false,
-    "updatedAt": "2026-09-14T20:16:47.282Z",
+    "updatedAt": "2026-09-14T23:11:25.925Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 7,
+      "latestCount": 9,
       "archiveCount": 1
     },
     "sources": {
@@ -74,8 +74,8 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "sherwinwu",
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 4,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 3,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -119,8 +119,8 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "AravSrinivas",
@@ -128,7 +128,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -174,50 +174,79 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 15,
-        "signalCount": 50,
+        "sourceCount": 16,
+        "signalCount": 57,
         "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
       },
       {
-        "id": "aihot-cmtxmd06905q5roi3ds616hwo",
-        "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-        "brief": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。",
-        "summary": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。",
-        "category": "行业观察",
+        "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
+        "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
+        "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
+        "summary": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "important",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Ars Technica：AI（RSS）",
+        "feedName": "Ars Technica：AI（RSS）",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
+        "aggregateUrl": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T19:35:16.307Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Ars Technica：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 2,
+        "sourceCount": 11,
+        "signalCount": 39,
+        "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
+      },
+      {
+        "id": "aihot-cmu1ju3b00pmfrocnhd0s8k0a",
+        "title": "Apple 发布 iOS 27、iPadOS 27、macOS 27 等系统更新，推出 Siri AI 与新一代 Apple Intelligence",
+        "brief": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
+        "summary": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "important",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "IT之家（RSS）",
-        "feedName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/001/488.htm",
-        "aggregateUrl": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "feedName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+        "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmfrocnhd0s8k0a",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-12T00:00:37.059Z",
+        "publishedAt": "2026-09-14T18:00:58.336Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            },
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "Apple：Newsroom（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "IPO",
+          "caption": "产品动态",
           "author": null
         },
-        "hotRank": 2,
-        "sourceCount": 3,
-        "signalCount": 19,
-        "storyUrl": "https://aihot.virxact.com/story/711b39b3-5fe7-4a3c-95f9-f956996a4d7a"
+        "hotRank": 3,
+        "sourceCount": 5,
+        "signalCount": 20,
+        "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
       },
       {
         "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
@@ -226,7 +255,7 @@
         "summary": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
         "category": "产品动态",
         "topic": "AI 产品",
-        "priority": "important",
+        "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -255,10 +284,45 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 3,
-        "sourceCount": 7,
-        "signalCount": 8,
+        "hotRank": 4,
+        "sourceCount": 9,
+        "signalCount": 11,
         "storyUrl": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
+      },
+      {
+        "id": "aihot-cmu1g31xf07frrocnmjfagq29",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "feedName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T16:15:57.841Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "行业观察",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 4,
+        "signalCount": 16,
+        "storyUrl": "https://aihot.virxact.com/story/711b39b3-5fe7-4a3c-95f9-f956996a4d7a"
       },
       {
         "id": "aihot-cmtw0d7oq03imro8sdn2bhe7f",
@@ -290,103 +354,33 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 6,
         "sourceCount": 2,
         "signalCount": 9,
         "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
       {
-        "id": "aihot-cmtszna9e04isro5woti0ixg6",
-        "title": "OpenAI 宣布以内部 AI 系统给出 Navier–Stokes 千禧年问题解答",
-        "brief": "OpenAI 宣布其内部 AI 系统给出 Navier–Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-        "summary": "OpenAI 宣布其内部 AI 系统给出 Navier–Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/navier-stokes-solution",
-        "aggregateUrl": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-08T18:13:41.404Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 5,
-        "sourceCount": 2,
-        "signalCount": 4,
-        "storyUrl": "https://aihot.virxact.com/story/c569fed6-5ad5-4c71-b7f2-6de4d75eb33f"
-      },
-      {
-        "id": "aihot-cmtxnd7fw06wcroi31psxg2c6",
-        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "brief": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2,000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-        "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2,000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
+        "id": "aihot-cmu1amg9d06bbro7zn6v1kszh",
+        "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+        "brief": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
+        "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
         "category": "产品动态",
         "topic": "Agent",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "sourceUrl": "https://www.rubyhack.ai/",
-        "aggregateUrl": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+        "aggregateUrl": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-12T00:28:47.494Z",
+        "publishedAt": "2026-09-14T13:43:07.935Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 6,
-        "sourceCount": 1,
-        "signalCount": 6,
-        "storyUrl": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
-      },
-      {
-        "id": "aihot-cmtym24xb0002rob419mlyhlb",
-        "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-        "brief": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。",
-        "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Baseten 工程博客（网页）",
-        "feedName": "Baseten 工程博客（网页）",
-        "sourceUrl": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-        "aggregateUrl": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-11T22:01:37.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Baseten 工程博客（网页）",
+              "name": "Hacker News：AI 热帖",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -396,9 +390,79 @@
           "author": null
         },
         "hotRank": 7,
+        "sourceCount": 2,
+        "signalCount": 8,
+        "storyUrl": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
+      },
+      {
+        "id": "aihot-cmu06l0dg09hiroryn5e19xp1",
+        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+        "brief": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。",
+        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "sourceUrl": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+        "aggregateUrl": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-13T19:02:16.596Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 8,
+        "sourceCount": 2,
+        "signalCount": 7,
+        "storyUrl": "https://aihot.virxact.com/story/4d69aa4f-90e5-449c-992d-07a3ec84be27"
+      },
+      {
+        "id": "aihot-cmtugou9e1cddrofptz3jwh4j",
+        "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1,999",
+        "brief": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。",
+        "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1,999。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "feedName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+        "aggregateUrl": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-09T18:58:34.686Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Apple：Newsroom（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 9,
         "sourceCount": 0,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/bbf32fc9-61b8-4492-9946-994ef673ab36"
+        "signalCount": 8,
+        "storyUrl": "https://aihot.virxact.com/story/4f40f9dd-bc01-452b-8c1b-d24154208fcf"
       },
       {
         "id": "aihot-cmtuhr1gr1dmxrofp90rc4c6u",
@@ -430,80 +494,10 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 8,
-        "sourceCount": 2,
-        "signalCount": 4,
-        "storyUrl": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
-      },
-      {
-        "id": "aihot-cmttulwa90npwrofpsde4lc0k",
-        "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
-        "brief": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
-        "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "rohanpaul_ai",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-        "aggregateUrl": "https://aihot.news/items/cmttulwa90npwrofpsde4lc0k",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-09T08:40:23.729Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 0,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/212a965c-6fd8-4067-9263-5d5125d5b4fc"
-      },
-      {
-        "id": "aihot-cmtu2qhzo0xb2rofp6eaokqdd",
-        "title": "OpenAI 发布 ChatGPT Images 2.5 双图像模型，主打更快生成与局部编辑",
-        "brief": "OpenAI 发布 ChatGPT Images 2.5，含 GPT-Image-2.5 Flare 和 GPT-Image-2.5 Sunburst 两个模型，主推更自然的光照、更可靠的参考图保留和局部编辑，Flare 延迟较 Images 2.0 降低最多 50%。",
-        "summary": "OpenAI 发布 ChatGPT Images 2.5，含 GPT-Image-2.5 Flare 和 GPT-Image-2.5 Sunburst 两个模型，主推更自然的光照、更可靠的参考图保留和局部编辑，Flare 延迟较 Images 2.0 降低最多 50%。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "feedName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
-        "aggregateUrl": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-09T12:27:56.636Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
         "hotRank": 10,
         "sourceCount": 2,
-        "signalCount": 2,
-        "storyUrl": "https://aihot.virxact.com/story/9a02120a-837d-4a20-987a-4688ac3df838"
+        "signalCount": 5,
+        "storyUrl": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
       },
       {
         "id": "aihot-cmu0whunx03cgro2nlwca0j3t",
@@ -537,6 +531,42 @@
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
             "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmu1m444k136urocnru9ifhxc",
+        "title": "openclaw 推出\"建议任务\"功能",
+        "brief": "这太有用了。",
+        "summary": "这太有用了。我也在推动把这项功能加到 codex 里。\n\n【引用 @Pat_Erichsen】：随着你对编码智能体的要求越来越有雄心，任务委派变得越来越重要\n\n@openclaw 新推出的 \"suggested task\" 功能为你的智能体提供了一个自动委派的工具\n\n如果智能体发现一个范围足够明确的工作项，它会建议开启一个新的会话去处理它",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "steipete",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Peter Steinberger · @steipete",
+        "feedName": "X：Peter Steinberger (@steipete)",
+        "sourceUrl": "https://x.com/steipete/status/2099571935495827761",
+        "aggregateUrl": "https://aihot.news/items/cmu1m444k136urocnru9ifhxc",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T18:52:12.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Peter Steinberger",
+              "asset": "/assets/identities/steipete.png",
+              "assetSource": "https://x.com/steipete",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Peter Steinberger",
+            "asset": "/assets/identities/steipete.png",
+            "assetSource": "https://x.com/steipete",
             "tone": "#e9e4dc"
           }
         }
@@ -578,11 +608,11 @@
         }
       },
       {
-        "id": "aihot-cmu16wuwb04snro9g4hb20ixg",
-        "title": "BorisMPower：AI 每瓦 IQ 效率已超人类",
-        "brief": "BorisMPower 估算，按每瓦 IQ 计算，人类约为 5，AI 达 7-40，当前 AI 在同等智能任务上的服务能效已高于人类。",
-        "summary": "BorisMPower 估算，按每瓦 IQ 计算，人类约为 5，AI 达 7-40，当前 AI 在同等智能任务上的服务能效已高于人类。他基于最新服务硬件和最强开源模型做了粗略测算，并指出更合理的指标应是\"每完成一个同等质量任务消耗的焦耳数\"。举例来说，一次请求运行约分配 60 W，但完成任务耗时约为人类的七分之一。",
-        "category": "产品动态",
+        "id": "aihot-cmu1tf0y802sxro3gnhdq9l9x",
+        "title": "让两大模型互辩破译线形文字A",
+        "brief": "让 Fable 5.1 Max 和 GPT-6 Astra Pro 就著名的未解密米诺斯语言线形文字A（Linear A）的拟译进行互相辩论。",
+        "summary": "让 Fable 5.1 Max 和 GPT-6 Astra Pro 就著名的未解密米诺斯语言线形文字A（Linear A）的拟译进行互相辩论。\n\n（顺便说一句，它们俩看起来都没破解它。）\n\n到目前为止的所有工作都放在这个 GitHub 上：https://github.com/emollick/linear-A",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -590,10 +620,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2099465393857307092",
-        "aggregateUrl": "https://aihot.news/items/cmu16wuwb04snro9g4hb20ixg",
+        "sourceUrl": "https://x.com/emollick/status/2099626476433809819",
+        "aggregateUrl": "https://aihot.news/items/cmu1tf0y802sxro3gnhdq9l9x",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T11:48:50.000Z",
+        "publishedAt": "2026-09-14T22:28:55.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -604,7 +634,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "产品动态",
+          "caption": "模型进展",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -614,22 +644,22 @@
         }
       },
       {
-        "id": "aihot-cmu1j665b0ljyrocn1iqof12o",
-        "title": "自建 agent harness 可大幅降低 token 成本",
-        "brief": "作者认为开箱即用的 agent harness 过于臃肿，为不需要的功能付出高昂溢价，自建 harness 可显著降低成本--引用推文提到停用原 harness 后 token 消耗大幅下降。",
-        "summary": "作者认为开箱即用的 agent harness 过于臃肿，为不需要的功能付出高昂溢价，自建 harness 可显著降低成本--引用推文提到停用原 harness 后 token 消耗大幅下降。关键优化包括：精简系统提示词、更高效的 tool calling、更好的上下文压缩与交接、自定义路由调用不同模型、用自定义 verifier 提升可靠性。",
+        "id": "aihot-cmu1j665b0ljxrocnrxvuk2qn",
+        "title": "Cline 发布 Cline Desktop：面向开放权重模型的原生开源客户端",
+        "brief": "Cline 推出 Cline Desktop，一个面向开放权重模型的开源原生界面，可用 ClinePass 及 DeepSeek-V4.1-Flash、Musespark-1.3 等免费模型，也支持 BYOK 接入任意服务商。",
+        "summary": "Cline 推出 Cline Desktop，一个面向开放权重模型的开源原生界面，可用 ClinePass 及 DeepSeek-V4.1-Flash、Musespark-1.3 等免费模型，也支持 BYOK 接入任意服务商。转发作者 Elvis Saravia 评价它简单易用，具备调度和 forking 功能，并可通过其常用服务商 OpenRouter 切换任意模型。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "omarsar0",
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2099548107327275488",
-        "aggregateUrl": "https://aihot.news/items/cmu1j665b0ljyrocn1iqof12o",
+        "sourceUrl": "https://x.com/omarsar0/status/2099552255733014788",
+        "aggregateUrl": "https://aihot.news/items/cmu1j665b0ljxrocnrxvuk2qn",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T17:17:31.000Z",
+        "publishedAt": "2026-09-14T17:34:00.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -686,22 +716,58 @@
         }
       },
       {
-        "id": "aihot-cmu14737a0022ro0prlg7i040",
-        "title": "Perplexity Computer 支持 @ 提及同事",
-        "brief": "计算机正在变成人类与 AI 的共同工作空间。",
-        "summary": "计算机正在变成人类与 AI 的共同工作空间。\n\n来源：X：Aravind Srinivas（Perplexity CEO） （@AravSrinivas）",
-        "category": "产品动态",
+        "id": "aihot-cmu1qi41i030froyktfmk45c7",
+        "title": "家长用 ChatGPT 助诊女儿罕见病",
+        "brief": "ChatGPT 赋能家长：\n\nOlivia 以前经常生病，从未睡过整觉。",
+        "summary": "ChatGPT 赋能家长：\n\nOlivia 以前经常生病，从未睡过整觉。她的父母用 ChatGPT 准备好要问医生的问题，医生据此确诊了一种罕见遗传病，后来又发现了异常脑活动。\n\n经过治疗，她生病的次数变少了，终于能睡整觉了。\n\n【引用 @BostonGlobe】：这些父母不知道女儿为何生病。他们求助 AI 来解开这个谜团。 https://trib.al/ljM4JmF",
+        "category": "模型进展",
         "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "gdb",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Greg Brockman · @gdb",
+        "feedName": "X：Greg Brockman (@gdb)",
+        "sourceUrl": "https://x.com/gdb/status/2099602912645452021",
+        "aggregateUrl": "https://aihot.news/items/cmu1qi41i030froyktfmk45c7",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T20:55:17.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Greg Brockman",
+              "asset": "/assets/identities/gdb.jpg",
+              "assetSource": "https://x.com/gdb",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "模型进展",
+          "author": {
+            "name": "Greg Brockman",
+            "asset": "/assets/identities/gdb.jpg",
+            "assetSource": "https://x.com/gdb",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmu1ewy0504bvrocn9zuuupvj",
+        "title": "Perplexity 携手 NVIDIA 在 RTX GPU 的 Windows PC 上推出 Portable Computer 本地 AI",
+        "brief": "Perplexity CEO Aravind Srinivas 宣布扩大与 NVIDIA 的合作，在搭载 RTX GPU 的 Windows PC 上提供完全本地化的 AI。",
+        "summary": "Perplexity CEO Aravind Srinivas 宣布扩大与 NVIDIA 的合作，在搭载 RTX GPU 的 Windows PC 上提供完全本地化的 AI。Portable Computer 可在本地运行 harness、Agent 和模型，支持处理本地文件和连接应用而不把任务发送到云端，需要时也可使用前沿云端模型。",
+        "category": "产品动态",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "AravSrinivas",
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2099448289015828607",
-        "aggregateUrl": "https://aihot.news/items/cmu14737a0022ro0prlg7i040",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2099520789221376213",
+        "aggregateUrl": "https://aihot.news/items/cmu1ewy0504bvrocn9zuuupvj",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T10:40:52.000Z",
+        "publishedAt": "2026-09-14T15:28:58.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -710,6 +776,12 @@
               "asset": "/assets/identities/perplexity_ai.jpg",
               "assetSource": "https://x.com/perplexity_ai",
               "tone": "#dcebea"
+            },
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
             }
           ],
           "caption": "产品动态",
@@ -798,8 +870,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-14T20:16:47.282Z",
-    "nextCheckAt": 1789417307282,
+    "checkedAt": "2026-09-14T23:11:25.925Z",
+    "nextCheckAt": 1789427785925,
     "intervalSeconds": 300,
     "message": ""
   }
