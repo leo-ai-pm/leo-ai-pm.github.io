@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月15日",
     "demo": false,
-    "updatedAt": "2026-09-14T23:11:25.925Z",
+    "updatedAt": "2026-09-15T01:32:28.725Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -137,7 +137,7 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         }
       ]
@@ -174,8 +174,8 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 16,
-        "signalCount": 57,
+        "sourceCount": 15,
+        "signalCount": 43,
         "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
       },
       {
@@ -209,8 +209,8 @@
           "author": null
         },
         "hotRank": 2,
-        "sourceCount": 11,
-        "signalCount": 39,
+        "sourceCount": 10,
+        "signalCount": 28,
         "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
       },
       {
@@ -245,8 +245,43 @@
         },
         "hotRank": 3,
         "sourceCount": 5,
-        "signalCount": 20,
+        "signalCount": 15,
         "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
+      },
+      {
+        "id": "aihot-cmu1g31xf07frrocnmjfagq29",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "feedName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T16:15:57.841Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "行业观察",
+          "author": null
+        },
+        "hotRank": 4,
+        "sourceCount": 4,
+        "signalCount": 21,
+        "storyUrl": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
       },
       {
         "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
@@ -284,68 +319,33 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 5,
         "sourceCount": 9,
-        "signalCount": 11,
+        "signalCount": 10,
         "storyUrl": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
       },
       {
-        "id": "aihot-cmu1g31xf07frrocnmjfagq29",
-        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-        "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-        "category": "行业观察",
+        "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
+        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+        "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
+        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "feedName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-        "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+        "sourceName": "The Verge：AI（RSS）",
+        "feedName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T16:15:57.841Z",
+        "publishedAt": "2026-09-14T23:47:11.878Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "行业观察",
-          "author": null
-        },
-        "hotRank": 5,
-        "sourceCount": 4,
-        "signalCount": 16,
-        "storyUrl": "https://aihot.virxact.com/story/711b39b3-5fe7-4a3c-95f9-f956996a4d7a"
-      },
-      {
-        "id": "aihot-cmtw0d7oq03imro8sdn2bhe7f",
-        "title": "DeepSeek V4.1 Flash 发布，以 40 分超越 DeepSeek V4 Pro 0813 成为新旗舰",
-        "brief": "Artificial Analysis 评测显示，DeepSeek V4.1 Flash 在 Intelligence Index 得分 40，超过 DeepSeek V4 Pro 0813 成为 DeepSeek 新旗舰，输入激活参数 8B、输出激活参数 16B，支持 1M token 上下文，MIT 许可。",
-        "summary": "Artificial Analysis 评测显示，DeepSeek V4.1 Flash 在 Intelligence Index 得分 40，超过 DeepSeek V4 Pro 0813 成为 DeepSeek 新旗舰，输入激活参数 8B、输出激活参数 16B，支持 1M token 上下文，MIT 许可。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "ArtificialAnlys",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-        "feedName": "X：Artificial Analysis (@ArtificialAnlys)",
-        "sourceUrl": "https://x.com/ArtificialAnlys/status/2098148674203488422",
-        "aggregateUrl": "https://aihot.news/items/cmtw0d7oq03imro8sdn2bhe7f",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-10T20:57:09.619Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Artificial Analysis (@ArtificialAnlys)",
+              "name": "The Verge：AI（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -355,79 +355,44 @@
           "author": null
         },
         "hotRank": 6,
-        "sourceCount": 2,
-        "signalCount": 9,
-        "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
+        "sourceCount": 3,
+        "signalCount": 5,
+        "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
       },
       {
-        "id": "aihot-cmu1amg9d06bbro7zn6v1kszh",
-        "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-        "brief": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-        "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News：AI 热帖",
-        "feedName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-        "aggregateUrl": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T13:43:07.935Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Hacker News：AI 热帖",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 7,
-        "sourceCount": 2,
-        "signalCount": 8,
-        "storyUrl": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
-      },
-      {
-        "id": "aihot-cmu06l0dg09hiroryn5e19xp1",
-        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-        "brief": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。",
-        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
-        "category": "产品动态",
+        "id": "aihot-cmu1xyw1004hvromg5m4jf131",
+        "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+        "brief": "Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。",
+        "summary": "Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "sourceUrl": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-        "aggregateUrl": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
+        "sourceName": "Fireworks AI（网页）",
+        "feedName": "Fireworks AI（网页）",
+        "sourceUrl": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+        "aggregateUrl": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-13T19:02:16.596Z",
+        "publishedAt": "2026-09-15T00:36:35.301Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "GPT-6 Astra",
           "author": null
         },
-        "hotRank": 8,
-        "sourceCount": 2,
-        "signalCount": 7,
-        "storyUrl": "https://aihot.virxact.com/story/4d69aa4f-90e5-449c-992d-07a3ec84be27"
+        "hotRank": 7,
+        "sourceCount": 3,
+        "signalCount": 8,
+        "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
       {
         "id": "aihot-cmtugou9e1cddrofptz3jwh4j",
@@ -459,28 +424,63 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 9,
+        "hotRank": 8,
         "sourceCount": 0,
-        "signalCount": 8,
+        "signalCount": 7,
         "storyUrl": "https://aihot.virxact.com/story/4f40f9dd-bc01-452b-8c1b-d24154208fcf"
       },
       {
-        "id": "aihot-cmtuhr1gr1dmxrofp90rc4c6u",
-        "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
-        "brief": "Anthropic 评估四起 Claude 模型在网络安全评估中因环境配置错误接入真实互联网、访问第三方系统的事故，涉及 Claude Opus 4.6 早期检查点、Claude Opus 4.7、Claude Mythos 5 和一个内部研究模型，共约 7 次运行。",
-        "summary": "Anthropic 评估四起 Claude 模型在网络安全评估中因环境配置错误接入真实互联网、访问第三方系统的事故，涉及 Claude Opus 4.6 早期检查点、Claude Opus 4.7、Claude Mythos 5 和一个内部研究模型，共约 7 次运行。",
+        "id": "aihot-cmu1amg9d06bbro7zn6v1kszh",
+        "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+        "brief": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
+        "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
         "category": "产品动态",
-        "topic": "AI 产品",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：Research（发表成果 · 网页）",
-        "feedName": "Anthropic：Research（发表成果 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-        "aggregateUrl": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+        "aggregateUrl": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-09T19:28:17.117Z",
+        "publishedAt": "2026-09-14T13:43:07.935Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Hacker News：AI 热帖",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 9,
+        "sourceCount": 2,
+        "signalCount": 2,
+        "storyUrl": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
+      },
+      {
+        "id": "aihot-cmu01iavi08reroymepsxnar2",
+        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+        "brief": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2,000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+        "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2,000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "aggregateUrl": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-13T16:40:12.008Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -491,13 +491,13 @@
               "tone": "#eddfd0"
             }
           ],
-          "caption": "产品动态",
+          "caption": "Claude Code",
           "author": null
         },
         "hotRank": 10,
         "sourceCount": 2,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/0ab290e3-aeb4-4513-b177-0193550077b8"
       },
       {
         "id": "aihot-cmu0whunx03cgro2nlwca0j3t",
@@ -794,11 +794,11 @@
         }
       },
       {
-        "id": "aihot-cmu1esdrs042urocnj5o6dlg3",
-        "title": "Thomas Wolf 梳理解释前沿 AI 公司一边警告风险一边加速开发的五类论证",
-        "brief": "Hugging Face 联创 Thomas Wolf 总结了 Altman、Musk、Amodei 等人认为 AI 危险却仍在推进能力前沿的五种论证：先建才能研究安全、由负责任者领先建设、早发布换取社会适应时间、延迟带来人类代价、用 AI 帮助解决对齐。",
-        "summary": "Hugging Face 联创 Thomas Wolf 总结了 Altman、Musk、Amodei 等人认为 AI 危险却仍在推进能力前沿的五种论证：先建才能研究安全、由负责任者领先建设、早发布换取社会适应时间、延迟带来人类代价、用 AI 帮助解决对齐。他同时指出这些论证低估了世界复杂性和权力集中等地缘后果。",
-        "category": "实践与观点",
+        "id": "aihot-cmu1z5crd039gro17brrzd1l2",
+        "title": "RewardAI 发布机器人基础模型 OM-1",
+        "brief": "哇\n\n【引用 @RewardAI_】：推出 OM-1，我们的首个机器人基础模型，零样本泛化到任何机器人：桌面机械臂、工业机械臂和人形机器人。",
+        "summary": "哇\n\n【引用 @RewardAI_】：推出 OM-1，我们的首个机器人基础模型，零样本泛化到任何机器人：桌面机械臂、工业机械臂和人形机器人。\n- 直接从人类操作数据中学习\n- 无需遥操作/机器人数据\n- 接近人类水平的灵巧度和效率\n- 多机器人协作",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -806,10 +806,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2099520857181737366",
-        "aggregateUrl": "https://aihot.news/items/cmu1esdrs042urocnj5o6dlg3",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2099661893472297383",
+        "aggregateUrl": "https://aihot.news/items/cmu1z5crd039gro17brrzd1l2",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T15:29:14.000Z",
+        "publishedAt": "2026-09-15T00:49:39.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -820,7 +820,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "实践与观点",
+          "caption": "模型进展",
           "author": {
             "name": "Thomas Wolf",
             "asset": "/assets/identities/thom_wolf.jpg",
@@ -870,8 +870,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-14T23:11:25.925Z",
-    "nextCheckAt": 1789427785925,
+    "checkedAt": "2026-09-15T01:32:28.725Z",
+    "nextCheckAt": 1789436248725,
     "intervalSeconds": 300,
     "message": ""
   }
