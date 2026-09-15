@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-15T06:37:20.525Z",
-      "lastSuccessAt": "2026-09-15T06:37:20.525Z",
-      "nextCheckAt": 1789457840525,
+      "checkedAt": "2026-09-15T12:12:59.567Z",
+      "lastSuccessAt": "2026-09-15T12:12:59.567Z",
+      "nextCheckAt": 1789477979567,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-15T06:37:20.526Z",
-      "lastSuccessAt": "2026-09-15T06:37:20.526Z",
-      "nextCheckAt": 1789457840526,
+      "checkedAt": "2026-09-15T12:12:59.568Z",
+      "lastSuccessAt": "2026-09-15T12:12:59.568Z",
+      "nextCheckAt": 1789477979568,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-15T06:37:20.527Z",
-      "lastSuccessAt": "2026-09-15T06:37:20.527Z",
-      "nextCheckAt": 1789457840527,
+      "checkedAt": "2026-09-15T12:12:59.569Z",
+      "lastSuccessAt": "2026-09-15T12:12:59.569Z",
+      "nextCheckAt": 1789477979569,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-15T12:12:59.678Z",
+      "lastSuccessAt": "2026-09-15T12:12:59.678Z",
+      "nextCheckAt": 1789477979678,
       "status": "ok",
-      "nextCheckAt": 1789457840963,
-      "checkedAt": "2026-09-15T06:37:20.963Z",
-      "lastSuccessAt": "2026-09-15T06:37:20.963Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789457840525,
+  "nextCheckAt": 1789477979567,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6464921.html",
+      "title": "只会搜关键词还不够，Agent 需要一套更聪明的本地搜索",
+      "summary": "ripgrep 之外，Agent 还需要语义检索。8 月底开源的 zvec-grep 把语义、BM25 全文、rg 正则和混合检索收进同一个接口，让 CLI 与 Agent 共用一份本地索引。 对于开发者来说，ripgrep，也就是常说的 rg，几乎是本地搜索的标配。它速度快，结果准确，尤其适合查找函数名、配置项、错误信息和一段明确的文本。只要知道要找什么，rg 往往能在很短时间内给出答案。 但 Agent 面对的任务，很多时候并没有这",
+      "publishedAt": "2026-09-15T08:17:52.000Z",
+      "url": "https://www.woshipm.com/ai/6464921.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6464921.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "ripgrep 之外，Agent 还需要语义检索。8 月底开源的 zvec-grep 把语义、BM25 全文、rg 正则和混合检索收进同一个接口，让 CLI 与 Agent 共用一份本地索引。 对于开发者来说，ripgrep，也就是常说的 rg，几乎是本地搜索的标配。它速度快，结果准确，尤其适合查找函数名、配置项、错误信息和一段明确的文本。只要知道要找什么，rg 往往能在很短时间内给出答案。 但 Agent 面对的任务，很多时候并没有这",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6464272.html",
       "title": "读完斯坦福116页AI实施手册，我最大的感受是：别再盯着模型了",
@@ -131,47 +171,127 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6464627.html",
-      "title": "GPT Image 2.5 对比实测：变化与局限",
-      "summary": "GPT Image 2.5 在复杂中文图文任务中表现如何？本文通过十一类任务、72张输出，对比两代模型在海报、安装说明、经营简报等场景下的能力。结果显示，2.5 在商品信息对应和数字复现上有所提升，但在工具接触点、零件数量和图表比例上仍会出现错误，书法风格差异明显。 一张咖啡促销海报，需要同时放下五杯饮品、五组规格价格、活动时间、满减算式和使用规则。一页安装说明，需要让零件清单、四步插图和成品结构相互对应。这样的任务，更接近日常工作对图",
-      "publishedAt": "2026-09-15T01:46:08.000Z",
-      "url": "https://www.woshipm.com/ai/6464627.html",
+      "id": "ph:https://www.producthunt.com/products/sierra",
+      "title": "Multimodal Agents by Sierra",
+      "summary": "AI agents that switch between voice, text, and visuals",
+      "publishedAt": "2026-09-14T19:13:01.000Z",
+      "url": "https://www.producthunt.com/products/sierra",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6464627.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "GPT Image 2.5 在复杂中文图文任务中表现如何？本文通过十一类任务、72张输出，对比两代模型在海报、安装说明、经营简报等场景下的能力。结果显示，2.5 在商品信息对应和数字复现上有所提升，但在工具接触点、零件数量和图表比例上仍会出现错误，书法风格差异明显。 一张咖啡促销海报，需要同时放下五杯饮品、五组规格价格、活动时间、满减算式和使用规则。一页安装说明，需要让零件清单、四步插图和成品结构相互对应。这样的任务，更接近日常工作对图",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/sierra",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI agents that switch between voice, text, and visuals",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
+      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/buddy",
+      "title": "Buddy AI Access (MCP)",
+      "summary": "Your agent needs more than your repo",
+      "publishedAt": "2026-09-14T10:48:06.000Z",
+      "url": "https://www.producthunt.com/products/buddy",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/buddy",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Your agent needs more than your repo",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/jurniti",
+      "title": "jurniti",
+      "summary": "Always-on AI agents in Firecracker microVMs",
+      "publishedAt": "2026-09-14T09:21:05.000Z",
+      "url": "https://www.producthunt.com/products/jurniti",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/jurniti",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Always-on AI agents in Firecracker microVMs",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
@@ -207,166 +327,6 @@
       "category": "工作流与实践",
       "platform": "中文媒体",
       "brief": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。查看全文本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/sing",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/slashy-3",
-      "title": "Slashy Assistant",
-      "summary": "The AI assistant that does email for you",
-      "publishedAt": "2026-09-14T02:52:46.000Z",
-      "url": "https://www.producthunt.com/products/slashy-3",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/slashy-3",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The AI assistant that does email for you",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/marqly",
-      "title": "Marqly 6.0",
-      "summary": "Ask your bookmarks. Bring them to your AI.",
-      "publishedAt": "2026-09-13T08:34:52.000Z",
-      "url": "https://www.producthunt.com/products/marqly",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/marqly",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Ask your bookmarks. Bring them to your AI.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/aside-6",
-      "title": "Aside",
-      "summary": "AI browser that actually gets work done for you",
-      "publishedAt": "2026-09-12T18:17:02.000Z",
-      "url": "https://www.producthunt.com/products/aside-6",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/aside-6",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI browser that actually gets work done for you",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/post/114461",
-      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
-      "publishedAt": "2026-09-12T07:00:00.000Z",
-      "url": "https://sspai.com/post/114461",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/post/114461",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
       "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
