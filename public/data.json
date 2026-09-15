@@ -1,7 +1,7 @@
 {
   "date": "2026年9月16日",
   "demo": false,
-  "updatedAt": "2026-09-15T20:11:04.684Z",
+  "updatedAt": "2026-09-15T22:56:31.954Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 7,
+    "latestCount": 9,
     "archiveCount": 1
   },
   "sources": {
@@ -73,8 +73,8 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "sherwinwu",
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 6,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -118,7 +118,7 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -127,8 +127,8 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "Thom_Wolf",
@@ -174,7 +174,7 @@
       },
       "hotRank": 1,
       "sourceCount": 13,
-      "signalCount": 32,
+      "signalCount": 31,
       "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
     },
     {
@@ -285,43 +285,43 @@
       },
       "hotRank": 4,
       "sourceCount": 4,
-      "signalCount": 14,
+      "signalCount": 13,
       "storyUrl": "https://aihot.virxact.com/story/f6d460c2-3297-4f03-b10d-16951b0ddd13"
     },
     {
-      "id": "aihot-cmu1g31xf07frrocnmjfagq29",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-      "category": "行业观察",
-      "topic": "AI 产品",
+      "id": "aihot-cmu2xqfxz02zhroc1hxuzi6jm",
+      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+      "brief": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+      "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "feedName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+      "sourceGroup": "机构官方",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "feedName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "aggregateUrl": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T16:15:57.841Z",
+      "publishedAt": "2026-09-15T17:17:49.795Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
-        "caption": "行业观察",
+        "caption": "产品动态",
         "author": null
       },
       "hotRank": 5,
-      "sourceCount": 2,
-      "signalCount": 19,
-      "storyUrl": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
+      "sourceCount": 11,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
     },
     {
       "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
@@ -360,9 +360,44 @@
         "author": null
       },
       "hotRank": 6,
-      "sourceCount": 7,
-      "signalCount": 11,
+      "sourceCount": 6,
+      "signalCount": 10,
       "storyUrl": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
+    },
+    {
+      "id": "aihot-cmu1g31xf07frrocnmjfagq29",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+      "category": "行业观察",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "feedName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-14T16:15:57.841Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "行业观察",
+        "author": null
+      },
+      "hotRank": 7,
+      "sourceCount": 4,
+      "signalCount": 15,
+      "storyUrl": "https://aihot.virxact.com/story/711b39b3-5fe7-4a3c-95f9-f956996a4d7a"
     },
     {
       "id": "aihot-cmu1xyw1004hvromg5m4jf131",
@@ -394,45 +429,10 @@
         "caption": "GPT-6 Astra",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 8,
       "sourceCount": 3,
       "signalCount": 10,
       "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
-    },
-    {
-      "id": "aihot-cmu2xqfxz02zhroc1hxuzi6jm",
-      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-      "brief": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
-      "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "feedName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "aggregateUrl": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-15T17:17:49.795Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 8,
-      "sourceCount": 8,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
     },
     {
       "id": "aihot-cmu1ju3b00pmfrocnhd0s8k0a",
@@ -583,6 +583,42 @@
       }
     },
     {
+      "id": "aihot-cmu34rnup08herosau71flegs",
+      "title": "Graham 加入 openclaw 并发布 fly 技能",
+      "brief": "欢迎加入，Graham！",
+      "summary": "欢迎加入，Graham！\n\n【引用 @heyneighbor】：我最近加入了 @openclaw\n\n为了帮我决定先做什么，我把 fly 变成了 ClawHub 上的一个技能\n\nfly 会在你给出的选项之间做选择，如果你不喜欢选的结果，可以用 @bugasalt 把它打死\n\n如果你想让 fly 成为你的同事，可以在这里安装：https://clawhub.ai/grahammcbain/skills/fly-coworker",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "steipete",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Peter Steinberger · @steipete",
+      "feedName": "X：Peter Steinberger (@steipete)",
+      "sourceUrl": "https://x.com/steipete/status/2099960081207242808",
+      "aggregateUrl": "https://aihot.news/items/cmu34rnup08herosau71flegs",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-15T20:34:33.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Peter Steinberger",
+            "asset": "/assets/identities/steipete.png",
+            "assetSource": "https://x.com/steipete",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Peter Steinberger",
+          "asset": "/assets/identities/steipete.png",
+          "assetSource": "https://x.com/steipete",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
       "id": "aihot-cmu2turve06tjro3xj0epykow",
       "title": "Astra 一次性生成像素游戏",
       "brief": "Astra：\"为艺术家（Klimt、Rothko、O'Keefe 等）风格的像素画骑士创建一系列 sprite，带特殊攻击，并构建一个游戏\"\n\n一次完成，这说明了为什么你不能说 AI 没有运用某种\"判断力\"和\"创造力\"，即使它与我们的不同",
@@ -619,22 +655,22 @@
       }
     },
     {
-      "id": "aihot-cmu31tqs202o3roaag0es4w3i",
-      "title": "TypeSafe 发布 Jev：放弃文本生成，响应快 40-200 倍",
-      "brief": "TypeSafe 发布新架构模型 Jev，放弃文本生成，通过并行回答结构化问题，并用 RLCD 训练其概率以反映正确频率，在 System One 查询上响应速度提升 40-200 倍。",
-      "summary": "TypeSafe 发布新架构模型 Jev，放弃文本生成，通过并行回答结构化问题，并用 RLCD 训练其概率以反映正确频率，在 System One 查询上响应速度提升 40-200 倍。据引用推文，Jev 号称快 20-200 倍、便宜 40-400 倍（输出 token 免费），定位为面向决策的前沿可组合智能。",
+      "id": "aihot-cmu376no90ax8rosafsztrwtj",
+      "title": "Elvis Saravia：多数集成场景 MCP 优于 CLI",
+      "brief": "Elvis Saravia 认同 MCP 在多数集成场景中优于 CLI，并建议构建自定义 harness 时使用 MCP 工具，其 meta harness 的所有外部工具均走 MCP。",
+      "summary": "Elvis Saravia 认同 MCP 在多数集成场景中优于 CLI，并建议构建自定义 harness 时使用 MCP 工具，其 meta harness 的所有外部工具均走 MCP。引用推文指出，模型工具调用能力大幅提升、工具可延迟加载且 MCP 已实现无状态，若需组合或过滤数据可在 MCP 工具中加入 query 等参数。",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2099933100440494105",
-      "aggregateUrl": "https://aihot.news/items/cmu31tqs202o3roaag0es4w3i",
+      "sourceUrl": "https://x.com/omarsar0/status/2099970990935867485",
+      "aggregateUrl": "https://aihot.news/items/cmu376no90ax8rosafsztrwtj",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-15T18:47:20.000Z",
+      "publishedAt": "2026-09-15T21:17:54.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -722,6 +758,42 @@
           "name": "Greg Brockman",
           "asset": "/assets/identities/gdb.jpg",
           "assetSource": "https://x.com/gdb",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmu352k2908t9rosaotpsx42c",
+      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
+      "brief": "原文给出成本节省数字和构建方式，图片补充了批次读取延迟的具体对比数据。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
+      "category": "行业观察",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "AravSrinivas",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2099957318935028173",
+      "aggregateUrl": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-15T20:23:34.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
+          }
+        ],
+        "caption": "行业观察",
+        "author": {
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
           "tone": "#e9e4dc"
         }
       }
