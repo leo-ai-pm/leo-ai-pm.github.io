@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-15T01:32:06.605Z",
-      "lastSuccessAt": "2026-09-15T01:32:06.605Z",
-      "nextCheckAt": 1789439526605,
+      "checkedAt": "2026-09-15T06:37:20.525Z",
+      "lastSuccessAt": "2026-09-15T06:37:20.525Z",
+      "nextCheckAt": 1789457840525,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-15T01:32:06.606Z",
-      "lastSuccessAt": "2026-09-15T01:32:06.606Z",
-      "nextCheckAt": 1789439526606,
+      "checkedAt": "2026-09-15T06:37:20.526Z",
+      "lastSuccessAt": "2026-09-15T06:37:20.526Z",
+      "nextCheckAt": 1789457840526,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-15T01:32:06.607Z",
-      "lastSuccessAt": "2026-09-15T01:32:06.607Z",
-      "nextCheckAt": 1789439526607,
+      "checkedAt": "2026-09-15T06:37:20.527Z",
+      "lastSuccessAt": "2026-09-15T06:37:20.527Z",
+      "nextCheckAt": 1789457840527,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-15T01:32:06.854Z",
-      "lastSuccessAt": "2026-09-15T01:32:06.854Z",
-      "nextCheckAt": 1789439526854,
       "status": "ok",
+      "nextCheckAt": 1789457840963,
+      "checkedAt": "2026-09-15T06:37:20.963Z",
+      "lastSuccessAt": "2026-09-15T06:37:20.963Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789439526605,
+  "nextCheckAt": 1789457840525,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6464272.html",
+      "title": "读完斯坦福116页AI实施手册，我最大的感受是：别再盯着模型了",
+      "summary": "斯坦福116页企业AI实施手册调研了51个真实案例：77%最难的问题不是技术而是组织，61%的成功项目此前都失败过；最大阻力来自法务、HR、合规，解法是把他们拉进治理委员会。真正裁员的只有45%。 今年是AI应用的元年，话题热度很高，各路媒体、各路大V，每天都在刷屏。一会儿是这个模型又升级了，一会儿是某个岗位要被淘汰了。 但有一个现象不知道你注意到没有： 真正在用AI赚到钱的公司，反而很少发声；天天喊AI的，大部分还在PPT里。 正好最",
+      "publishedAt": "2026-09-15T04:14:33.000Z",
+      "url": "https://www.woshipm.com/ai/6464272.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6464272.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "斯坦福116页企业AI实施手册调研了51个真实案例：77%最难的问题不是技术而是组织，61%的成功项目此前都失败过；最大阻力来自法务、HR、合规，解法是把他们拉进治理委员会。真正裁员的只有45%。 今年是AI应用的元年，话题热度很高，各路媒体、各路大V，每天都在刷屏。一会儿是这个模型又升级了，一会儿是某个岗位要被淘汰了。 但有一个现象不知道你注意到没有： 真正在用AI赚到钱的公司，反而很少发声；天天喊AI的，大部分还在PPT里。 正好最",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6464627.html",
+      "title": "GPT Image 2.5 对比实测：变化与局限",
+      "summary": "GPT Image 2.5 在复杂中文图文任务中表现如何？本文通过十一类任务、72张输出，对比两代模型在海报、安装说明、经营简报等场景下的能力。结果显示，2.5 在商品信息对应和数字复现上有所提升，但在工具接触点、零件数量和图表比例上仍会出现错误，书法风格差异明显。 一张咖啡促销海报，需要同时放下五杯饮品、五组规格价格、活动时间、满减算式和使用规则。一页安装说明，需要让零件清单、四步插图和成品结构相互对应。这样的任务，更接近日常工作对图",
+      "publishedAt": "2026-09-15T01:46:08.000Z",
+      "url": "https://www.woshipm.com/ai/6464627.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6464627.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "GPT Image 2.5 在复杂中文图文任务中表现如何？本文通过十一类任务、72张输出，对比两代模型在海报、安装说明、经营简报等场景下的能力。结果显示，2.5 在商品信息对应和数字复现上有所提升，但在工具接触点、零件数量和图表比例上仍会出现错误，书法风格差异明显。 一张咖啡促销海报，需要同时放下五杯饮品、五组规格价格、活动时间、满减算式和使用规则。一页安装说明，需要让零件清单、四步插图和成品结构相互对应。这样的任务，更接近日常工作对图",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "sspai:https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
       "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
@@ -131,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/slashy-3",
@@ -171,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/marqly",
@@ -211,7 +291,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/aside-6",

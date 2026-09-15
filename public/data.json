@@ -1,7 +1,7 @@
 {
   "date": "2026年9月15日",
   "demo": false,
-  "updatedAt": "2026-09-15T01:32:28.725Z",
+  "updatedAt": "2026-09-15T06:37:39.118Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 9,
+    "latestCount": 7,
     "archiveCount": 1
   },
   "sources": {
@@ -82,8 +82,8 @@
         "group": "产品与工程",
         "focus": "开发者产品与应用工程",
         "url": "https://x.com/sherwinwu",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "emollick",
@@ -109,8 +109,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 2,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -143,48 +143,13 @@
   },
   "items": [
     {
-      "id": "aihot-cmu1hrr070dycrocndfax0y0c",
-      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
-      "brief": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
-      "summary": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "lead",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Tomer Tunguz 博客（VC 分析）",
-      "feedName": "Tomer Tunguz 博客（VC 分析）",
-      "sourceUrl": "https://tomtunguz.com/what-does-the-pause-mean",
-      "aggregateUrl": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T17:03:10.543Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Tomer Tunguz 博客（VC 分析）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 1,
-      "sourceCount": 15,
-      "signalCount": 43,
-      "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
-    },
-    {
       "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
       "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
       "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
       "summary": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
       "category": "产品动态",
       "topic": "Agent",
-      "priority": "important",
+      "priority": "lead",
       "platform": "网站",
       "authorHandle": "",
       "sourceGroup": "媒体与社区",
@@ -207,16 +172,51 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 2,
+      "hotRank": 1,
       "sourceCount": 10,
-      "signalCount": 28,
+      "signalCount": 43,
       "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
     },
     {
-      "id": "aihot-cmu1ju3b00pmfrocnhd0s8k0a",
-      "title": "Apple 发布 iOS 27、iPadOS 27、macOS 27 等系统更新，推出 Siri AI 与新一代 Apple Intelligence",
-      "brief": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
-      "summary": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
+      "id": "aihot-cmu1hrr070dycrocndfax0y0c",
+      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
+      "brief": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
+      "summary": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "important",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Tomer Tunguz 博客（VC 分析）",
+      "feedName": "Tomer Tunguz 博客（VC 分析）",
+      "sourceUrl": "https://tomtunguz.com/what-does-the-pause-mean",
+      "aggregateUrl": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-14T17:03:10.543Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Tomer Tunguz 博客（VC 分析）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 2,
+      "sourceCount": 14,
+      "signalCount": 46,
+      "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
+    },
+    {
+      "id": "aihot-cmu1ju3b00pmgrocnrgwe6e9e",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "brief": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+      "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "important",
@@ -225,8 +225,8 @@
       "sourceGroup": "媒体与社区",
       "sourceName": "Apple：Newsroom（RSS）",
       "feedName": "Apple：Newsroom（RSS）",
-      "sourceUrl": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
-      "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmfrocnhd0s8k0a",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
       "acquiredVia": "AIHot",
       "publishedAt": "2026-09-14T18:00:58.336Z",
       "verification": "AIHot 摘要 · 原文可查",
@@ -244,7 +244,7 @@
       },
       "hotRank": 3,
       "sourceCount": 5,
-      "signalCount": 15,
+      "signalCount": 28,
       "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
     },
     {
@@ -279,7 +279,7 @@
       },
       "hotRank": 4,
       "sourceCount": 4,
-      "signalCount": 21,
+      "signalCount": 26,
       "storyUrl": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
     },
     {
@@ -320,43 +320,8 @@
       },
       "hotRank": 5,
       "sourceCount": 9,
-      "signalCount": 10,
+      "signalCount": 14,
       "storyUrl": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
-    },
-    {
-      "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
-      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-      "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-      "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "The Verge：AI（RSS）",
-      "feedName": "The Verge：AI（RSS）",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T23:47:11.878Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "The Verge：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 3,
-      "signalCount": 5,
-      "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
     },
     {
       "id": "aihot-cmu1xyw1004hvromg5m4jf131",
@@ -388,10 +353,115 @@
         "caption": "GPT-6 Astra",
         "author": null
       },
-      "hotRank": 7,
-      "sourceCount": 3,
-      "signalCount": 8,
+      "hotRank": 6,
+      "sourceCount": 4,
+      "signalCount": 10,
       "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
+    },
+    {
+      "id": "aihot-cmu1ju3b00pmfrocnhd0s8k0a",
+      "title": "Apple 发布 iOS 27、iPadOS 27、macOS 27 等系统更新，推出 Siri AI 与新一代 Apple Intelligence",
+      "brief": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
+      "summary": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Apple：Newsroom（RSS）",
+      "feedName": "Apple：Newsroom（RSS）",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+      "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmfrocnhd0s8k0a",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-14T18:00:58.336Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Apple：Newsroom（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 7,
+      "sourceCount": 4,
+      "signalCount": 8,
+      "storyUrl": "https://aihot.virxact.com/story/37de8617-5db1-47ff-b221-e2176095fe51"
+    },
+    {
+      "id": "aihot-cmttqzqw30jwkrofpxrj00ngg",
+      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+      "brief": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。",
+      "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
+      "category": "行业观察",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "IT之家（RSS）",
+      "feedName": "IT之家（RSS）",
+      "sourceUrl": "https://www.ithome.com/1/000/188.htm",
+      "aggregateUrl": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-09T06:59:12.167Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "IPO",
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 1,
+      "signalCount": 9,
+      "storyUrl": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
+    },
+    {
+      "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
+      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+      "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
+      "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "The Verge：AI（RSS）",
+      "feedName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-14T23:47:11.878Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "The Verge：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 3,
+      "signalCount": 5,
+      "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
     },
     {
       "id": "aihot-cmtugou9e1cddrofptz3jwh4j",
@@ -423,80 +493,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 8,
-      "sourceCount": 0,
-      "signalCount": 7,
-      "storyUrl": "https://aihot.virxact.com/story/4f40f9dd-bc01-452b-8c1b-d24154208fcf"
-    },
-    {
-      "id": "aihot-cmu1amg9d06bbro7zn6v1kszh",
-      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-      "brief": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-      "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Hacker News：AI 热帖",
-      "feedName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "aggregateUrl": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T13:43:07.935Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Hacker News：AI 热帖",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 9,
-      "sourceCount": 2,
-      "signalCount": 2,
-      "storyUrl": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
-    },
-    {
-      "id": "aihot-cmu01iavi08reroymepsxnar2",
-      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-      "brief": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2,000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-      "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2,000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Hacker News：AI 热帖",
-      "feedName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "aggregateUrl": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-13T16:40:12.008Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      },
       "hotRank": 10,
-      "sourceCount": 2,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/0ab290e3-aeb4-4513-b177-0193550077b8"
+      "sourceCount": 0,
+      "signalCount": 10,
+      "storyUrl": "https://aihot.virxact.com/story/4f40f9dd-bc01-452b-8c1b-d24154208fcf"
     },
     {
       "id": "aihot-cmu0whunx03cgro2nlwca0j3t",
@@ -571,47 +571,11 @@
       }
     },
     {
-      "id": "aihot-cmu0qd5pa06vtrox2junprle9",
-      "title": "GPT Image 2.5 上线 ChatGPT，图像编辑一致性提升",
-      "brief": "OpenAI 员工 Sherwin Wu 宣布 GPT Image 2.5 已在 ChatGPT 上线，称其在所有图像排行榜达到 SOTA，编辑图像时的一致性表现突出。",
-      "summary": "OpenAI 员工 Sherwin Wu 宣布 GPT Image 2.5 已在 ChatGPT 上线，称其在所有图像排行榜达到 SOTA，编辑图像时的一致性表现突出。他建议此前因 GPT Image 2 编辑时人脸轻微变化而失望的用户重新尝试。链接：https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sherwinwu",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Sherwin Wu · @sherwinwu",
-      "feedName": "X：Sherwin Wu（@sherwinwu）",
-      "sourceUrl": "https://x.com/sherwinwu/status/2099347974640038111",
-      "aggregateUrl": "https://aihot.news/items/cmu0qd5pa06vtrox2junprle9",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T04:02:15.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sherwin Wu",
-            "asset": "/assets/identities/sherwinwu.jpg",
-            "assetSource": "https://x.com/sherwinwu",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "模型进展",
-        "author": {
-          "name": "Sherwin Wu",
-          "asset": "/assets/identities/sherwinwu.jpg",
-          "assetSource": "https://x.com/sherwinwu",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmu1tf0y802sxro3gnhdq9l9x",
-      "title": "让两大模型互辩破译线形文字A",
-      "brief": "让 Fable 5.1 Max 和 GPT-6 Astra Pro 就著名的未解密米诺斯语言线形文字A（Linear A）的拟译进行互相辩论。",
-      "summary": "让 Fable 5.1 Max 和 GPT-6 Astra Pro 就著名的未解密米诺斯语言线形文字A（Linear A）的拟译进行互相辩论。\n\n（顺便说一句，它们俩看起来都没破解它。）\n\n到目前为止的所有工作都放在这个 GitHub 上：https://github.com/emollick/linear-A",
-      "category": "模型进展",
+      "id": "aihot-cmu269zx402luro7d4cbbxd4l",
+      "title": "Ethan Mollick：AI 这次真的不同",
+      "brief": "很明显，与以往的创新相比，AI 这次真的不同。",
+      "summary": "很明显，与以往的创新相比，AI 这次真的不同。\n\n这并不意味着它在所有方面都不同于过去的技术（扩散的 S 曲线出奇地普遍），但它在许多方面确实不同，使得套用旧模式变得困难。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -619,10 +583,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2099626476433809819",
-      "aggregateUrl": "https://aihot.news/items/cmu1tf0y802sxro3gnhdq9l9x",
+      "sourceUrl": "https://x.com/emollick/status/2099713891567579575",
+      "aggregateUrl": "https://aihot.news/items/cmu269zx402luro7d4cbbxd4l",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T22:28:55.000Z",
+      "publishedAt": "2026-09-15T04:16:17.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -633,7 +597,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -674,42 +638,6 @@
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
           "assetSource": "https://x.com/omarsar0",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmu0r519f07lxrox2hqytpygt",
-      "title": "Sam Altman 阐述 AI 进展必须避免的两大风险",
-      "brief": "Sam Altman 提出 AI 进展可能走向糟糕的两种方式，一是人类失去对未来的控制，二是权力过度集中导致反乌托邦局面。",
-      "summary": "Sam Altman 提出 AI 进展可能走向糟糕的两种方式，一是人类失去对未来的控制，二是权力过度集中导致反乌托邦局面。他主张对齐与安全技术须领先模型能力进展，并称 OpenAI 已在预计大幅提升能力的前沿强化学习运行前制定明确的安全案例，欢迎联邦层面的统一安全框架。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2099352016988614852",
-      "aggregateUrl": "https://aihot.news/items/cmu0r519f07lxrox2hqytpygt",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T04:18:19.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "实践与观点",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
           "tone": "#e9e4dc"
         }
       }
