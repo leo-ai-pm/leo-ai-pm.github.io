@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月16日",
     "demo": false,
-    "updatedAt": "2026-09-15T17:05:20.679Z",
+    "updatedAt": "2026-09-15T20:11:04.684Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 8,
+      "latestCount": 7,
       "archiveCount": 1
     },
     "sources": {
@@ -74,8 +74,8 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "sherwinwu",
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 4,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -119,7 +119,7 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 1,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -144,48 +144,13 @@
     },
     "items": [
       {
-        "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
-        "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
-        "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
-        "summary": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "lead",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Ars Technica：AI（RSS）",
-        "feedName": "Ars Technica：AI（RSS）",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
-        "aggregateUrl": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T19:35:16.307Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Ars Technica：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 1,
-        "sourceCount": 8,
-        "signalCount": 35,
-        "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
-      },
-      {
         "id": "aihot-cmu1hrr070dycrocndfax0y0c",
         "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
         "brief": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
         "summary": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
         "category": "产品动态",
         "topic": "AI 产品",
-        "priority": "important",
+        "priority": "lead",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -208,10 +173,45 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 2,
-        "sourceCount": 14,
+        "hotRank": 1,
+        "sourceCount": 13,
         "signalCount": 32,
         "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
+      },
+      {
+        "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
+        "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
+        "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
+        "summary": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "important",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Ars Technica：AI（RSS）",
+        "feedName": "Ars Technica：AI（RSS）",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
+        "aggregateUrl": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T19:35:16.307Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Ars Technica：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 2,
+        "sourceCount": 7,
+        "signalCount": 26,
+        "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
       },
       {
         "id": "aihot-cmu1ju3b00pmgrocnrgwe6e9e",
@@ -286,8 +286,43 @@
         },
         "hotRank": 4,
         "sourceCount": 4,
-        "signalCount": 15,
+        "signalCount": 14,
         "storyUrl": "https://aihot.virxact.com/story/f6d460c2-3297-4f03-b10d-16951b0ddd13"
+      },
+      {
+        "id": "aihot-cmu1g31xf07frrocnmjfagq29",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "feedName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T16:15:57.841Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "行业观察",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 2,
+        "signalCount": 19,
+        "storyUrl": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
       },
       {
         "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
@@ -325,45 +360,10 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 5,
-        "sourceCount": 9,
-        "signalCount": 14,
-        "storyUrl": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
-      },
-      {
-        "id": "aihot-cmu1g31xf07frrocnmjfagq29",
-        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-        "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "feedName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-        "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T16:15:57.841Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "行业观察",
-          "author": null
-        },
         "hotRank": 6,
-        "sourceCount": 2,
-        "signalCount": 20,
-        "storyUrl": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
+        "sourceCount": 7,
+        "signalCount": 11,
+        "storyUrl": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
       },
       {
         "id": "aihot-cmu1xyw1004hvromg5m4jf131",
@@ -401,6 +401,41 @@
         "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
       {
+        "id": "aihot-cmu2xqfxz02zhroc1hxuzi6jm",
+        "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+        "brief": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+        "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "feedName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+        "aggregateUrl": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-15T17:17:49.795Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 8,
+        "sourceCount": 8,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
+      },
+      {
         "id": "aihot-cmu1ju3b00pmfrocnhd0s8k0a",
         "title": "Apple 发布 iOS 27、iPadOS 27、macOS 27 等系统更新，推出 Siri AI 与新一代 Apple Intelligence",
         "brief": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
@@ -430,7 +465,7 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 8,
+        "hotRank": 9,
         "sourceCount": 4,
         "signalCount": 8,
         "storyUrl": "https://aihot.virxact.com/story/37de8617-5db1-47ff-b221-e2176095fe51"
@@ -465,45 +500,10 @@
           "caption": "IPO",
           "author": null
         },
-        "hotRank": 9,
+        "hotRank": 10,
         "sourceCount": 2,
         "signalCount": 9,
         "storyUrl": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
-      },
-      {
-        "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
-        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-        "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Verge：AI（RSS）",
-        "feedName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T23:47:11.878Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 10,
-        "sourceCount": 3,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
       },
       {
         "id": "aihot-cmu2av4ja03f5ro25z8k65l7g",
@@ -584,42 +584,6 @@
         }
       },
       {
-        "id": "aihot-cmu1m444k136urocnru9ifhxc",
-        "title": "openclaw 推出\"建议任务\"功能",
-        "brief": "这太有用了。",
-        "summary": "这太有用了。我也在推动把这项功能加到 codex 里。\n\n【引用 @Pat_Erichsen】：随着你对编码智能体的要求越来越有雄心，任务委派变得越来越重要\n\n@openclaw 新推出的 \"suggested task\" 功能为你的智能体提供了一个自动委派的工具\n\n如果智能体发现一个范围足够明确的工作项，它会建议开启一个新的会话去处理它",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "steipete",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Peter Steinberger · @steipete",
-        "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2099571935495827761",
-        "aggregateUrl": "https://aihot.news/items/cmu1m444k136urocnru9ifhxc",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T18:52:12.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Peter Steinberger",
-              "asset": "/assets/identities/steipete.png",
-              "assetSource": "https://x.com/steipete",
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "Peter Steinberger",
-            "asset": "/assets/identities/steipete.png",
-            "assetSource": "https://x.com/steipete",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
         "id": "aihot-cmu2turve06tjro3xj0epykow",
         "title": "Astra 一次性生成像素游戏",
         "brief": "Astra：\"为艺术家（Klimt、Rothko、O'Keefe 等）风格的像素画骑士创建一系列 sprite，带特殊攻击，并构建一个游戏\"\n\n一次完成，这说明了为什么你不能说 AI 没有运用某种\"判断力\"和\"创造力\"，即使它与我们的不同",
@@ -656,22 +620,22 @@
         }
       },
       {
-        "id": "aihot-cmu2wgun404qorowkfkdfnmu9",
-        "title": "Elvis Saravia 将出席 Dreamforce",
-        "brief": "我整个星期都会在 Dreamforce。",
-        "summary": "我整个星期都会在 Dreamforce。这里热闹非凡！非常期待所有关于智能体和领域专用 harness 的会议和讨论。\n\n如果你也在附近，想聊聊，并且正在用 agent harness 做开发，给我发私信。",
+        "id": "aihot-cmu31tqs202o3roaag0es4w3i",
+        "title": "TypeSafe 发布 Jev：放弃文本生成，响应快 40-200 倍",
+        "brief": "TypeSafe 发布新架构模型 Jev，放弃文本生成，通过并行回答结构化问题，并用 RLCD 训练其概率以反映正确频率，在 System One 查询上响应速度提升 40-200 倍。",
+        "summary": "TypeSafe 发布新架构模型 Jev，放弃文本生成，通过并行回答结构化问题，并用 RLCD 训练其概率以反映正确频率，在 System One 查询上响应速度提升 40-200 倍。据引用推文，Jev 号称快 20-200 倍、便宜 40-400 倍（输出 token 免费），定位为面向决策的前沿可组合智能。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "omarsar0",
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2099900124843425992",
-        "aggregateUrl": "https://aihot.news/items/cmu2wgun404qorowkfkdfnmu9",
+        "sourceUrl": "https://x.com/omarsar0/status/2099933100440494105",
+        "aggregateUrl": "https://aihot.news/items/cmu31tqs202o3roaag0es4w3i",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-15T16:36:18.000Z",
+        "publishedAt": "2026-09-15T18:47:20.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -728,10 +692,10 @@
         }
       },
       {
-        "id": "aihot-cmu1qi41i030froyktfmk45c7",
-        "title": "家长用 ChatGPT 助诊女儿罕见病",
-        "brief": "ChatGPT 赋能家长：\n\nOlivia 以前经常生病，从未睡过整觉。",
-        "summary": "ChatGPT 赋能家长：\n\nOlivia 以前经常生病，从未睡过整觉。她的父母用 ChatGPT 准备好要问医生的问题，医生据此确诊了一种罕见遗传病，后来又发现了异常脑活动。\n\n经过治疗，她生病的次数变少了，终于能睡整觉了。\n\n【引用 @BostonGlobe】：这些父母不知道女儿为何生病。他们求助 AI 来解开这个谜团。 https://trib.al/ljM4JmF",
+        "id": "aihot-cmu30l1q1086rroc10xy4jrrl",
+        "title": "Astra 与 Luna 模型热度攀升",
+        "brief": "Astra 和 Luna 正在起飞\n\n【引用 @PeterJ_Walker】：钱包份额（花费金额）vs token 使用份额。",
+        "summary": "Astra 和 Luna 正在起飞\n\n【引用 @PeterJ_Walker】：钱包份额（花费金额）vs token 使用份额。Anthropic vs OpenAI\n\nAstra = 上周花费最高的模型 Luna = token 使用量最高的模型（遥遥领先）",
         "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
@@ -740,18 +704,18 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Greg Brockman · @gdb",
         "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2099602912645452021",
-        "aggregateUrl": "https://aihot.news/items/cmu1qi41i030froyktfmk45c7",
+        "sourceUrl": "https://x.com/gdb/status/2099928683226218570",
+        "aggregateUrl": "https://aihot.news/items/cmu30l1q1086rroc10xy4jrrl",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T20:55:17.000Z",
+        "publishedAt": "2026-09-15T18:29:47.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Greg Brockman",
-              "asset": "/assets/identities/gdb.jpg",
-              "assetSource": "https://x.com/gdb",
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "模型进展",
@@ -840,8 +804,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-15T17:05:20.679Z",
-    "nextCheckAt": 1789492220679,
+    "checkedAt": "2026-09-15T20:11:04.684Z",
+    "nextCheckAt": 1789503364684,
     "intervalSeconds": 300,
     "message": ""
   }
