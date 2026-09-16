@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-16T01:18:16.457Z",
-      "lastSuccessAt": "2026-09-16T01:18:16.457Z",
-      "nextCheckAt": 1789525096457,
+      "checkedAt": "2026-09-16T06:07:52.821Z",
+      "lastSuccessAt": "2026-09-16T06:07:52.821Z",
+      "nextCheckAt": 1789542472821,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-16T01:18:16.458Z",
-      "lastSuccessAt": "2026-09-16T01:18:16.458Z",
-      "nextCheckAt": 1789525096458,
+      "checkedAt": "2026-09-16T06:07:52.822Z",
+      "lastSuccessAt": "2026-09-16T06:07:52.822Z",
+      "nextCheckAt": 1789542472822,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-16T01:18:16.459Z",
-      "lastSuccessAt": "2026-09-16T01:18:16.459Z",
-      "nextCheckAt": 1789525096459,
+      "checkedAt": "2026-09-16T06:07:52.823Z",
+      "lastSuccessAt": "2026-09-16T06:07:52.823Z",
+      "nextCheckAt": 1789542472823,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789525096704,
-      "checkedAt": "2026-09-16T01:18:16.704Z",
-      "lastSuccessAt": "2026-09-16T01:18:16.704Z",
+      "nextCheckAt": 1789542473093,
+      "checkedAt": "2026-09-16T06:07:53.093Z",
+      "lastSuccessAt": "2026-09-16T06:07:53.093Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789525096457,
+  "nextCheckAt": 1789542472821,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6464921.html",
-      "title": "只会搜关键词还不够，Agent 需要一套更聪明的本地搜索",
-      "summary": "ripgrep 之外，Agent 还需要语义检索。8 月底开源的 zvec-grep 把语义、BM25 全文、rg 正则和混合检索收进同一个接口，让 CLI 与 Agent 共用一份本地索引。 对于开发者来说，ripgrep，也就是常说的 rg，几乎是本地搜索的标配。它速度快，结果准确，尤其适合查找函数名、配置项、错误信息和一段明确的文本。只要知道要找什么，rg 往往能在很短时间内给出答案。 但 Agent 面对的任务，很多时候并没有这",
-      "publishedAt": "2026-09-15T08:17:52.000Z",
-      "url": "https://www.woshipm.com/ai/6464921.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6465256.html",
+      "title": "微软 CEO 纳德拉：AI 应用的机会正在变大，模型成本将继续下降",
+      "summary": "9 月 15 日的 All-In Summit 2026 上，纳德拉判断模型层不会长期拿走 AI 产品创造的全部经济价值，随着开源模型提供替代和成本继续下降，记忆、编排以及真正嵌入企业工作流的应用会更有价值空间。 9 月 15 日，微软 CEO 纳德拉在 All-In Summit 2026 谈到了一个对 AI 创业公司和投资人更直接的问题：模型层不会长期拿走 AI 产品创造的全部经济价值，随着模型竞争加剧、成本继续下降，应用层的商业模",
+      "publishedAt": "2026-09-16T03:48:16.000Z",
+      "url": "https://www.woshipm.com/ai/6465256.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6464921.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6465256.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "ripgrep 之外，Agent 还需要语义检索。8 月底开源的 zvec-grep 把语义、BM25 全文、rg 正则和混合检索收进同一个接口，让 CLI 与 Agent 共用一份本地索引。 对于开发者来说，ripgrep，也就是常说的 rg，几乎是本地搜索的标配。它速度快，结果准确，尤其适合查找函数名、配置项、错误信息和一段明确的文本。只要知道要找什么，rg 往往能在很短时间内给出答案。 但 Agent 面对的任务，很多时候并没有这",
+      "brief": "9 月 15 日的 All-In Summit 2026 上，纳德拉判断模型层不会长期拿走 AI 产品创造的全部经济价值，随着开源模型提供替代和成本继续下降，记忆、编排以及真正嵌入企业工作流的应用会更有价值空间。 9 月 15 日，微软 CEO 纳德拉在 All-In Summit 2026 谈到了一个对 AI 创业公司和投资人更直接的问题：模型层不会长期拿走 AI 产品创造的全部经济价值，随着模型竞争加剧、成本继续下降，应用层的商业模",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,11 +134,51 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6464272.html",
-      "title": "读完斯坦福116页AI实施手册，我最大的感受是：别再盯着模型了",
-      "summary": "斯坦福116页企业AI实施手册调研了51个真实案例：77%最难的问题不是技术而是组织，61%的成功项目此前都失败过；最大阻力来自法务、HR、合规，解法是把他们拉进治理委员会。真正裁员的只有45%。 今年是AI应用的元年，话题热度很高，各路媒体、各路大V，每天都在刷屏。一会儿是这个模型又升级了，一会儿是某个岗位要被淘汰了。 但有一个现象不知道你注意到没有： 真正在用AI赚到钱的公司，反而很少发声；天天喊AI的，大部分还在PPT里。 正好最",
-      "publishedAt": "2026-09-15T04:14:33.000Z",
-      "url": "https://www.woshipm.com/ai/6464272.html",
+      "id": "woshipm:https://www.woshipm.com/chuangye/6464913.html",
+      "title": "从200亿收购失败到650亿IPO：Figma如何用“协作”颠覆设计帝国",
+      "summary": "Figma 上市首日暴涨 250%，市值超过 Adobe 当年 200 亿美元报价的三倍。从浏览器协作到 AI 原型工具 Figma Make，它的五个关键决策回答了同一件事：被颠覆的为什么不是它。 今天聊Figma。 你可能用过它，也可能没用过。但如果你身边有做设计、做产品、做前端的人，他们大概率每天都在用。2025年7月31日，Figma在纽交所上市，首日股价暴涨250%，收盘市值超过560亿美元，完全稀释估值逼近650亿美元。 这",
+      "publishedAt": "2026-09-16T03:30:53.000Z",
+      "url": "https://www.woshipm.com/chuangye/6464913.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "IPO",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/chuangye/6464913.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Figma 上市首日暴涨 250%，市值超过 Adobe 当年 200 亿美元报价的三倍。从浏览器协作到 AI 原型工具 Figma Make，它的五个关键决策回答了同一件事：被颠覆的为什么不是它。 今天聊Figma。 你可能用过它，也可能没用过。但如果你身边有做设计、做产品、做前端的人，他们大概率每天都在用。2025年7月31日，Figma在纽交所上市，首日股价暴涨250%，收盘市值超过560亿美元，完全稀释估值逼近650亿美元。 这",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6465216.html",
+      "title": "企业该买模型还是养上下文？",
+      "summary": "过去半年，不少老板都被同一个问题问过，咱们要不要搞一个自己的大模型。「专有模型」四个字实际装着四样东西：自训、微调、私有部署和上下文。前三件是买得到、会贬值的商品，第四件才是买不到、会复利的资产，文章用三笔账给出了不同企业的选择清单。 过去半年，不少老板都被同一个问题问过，咱们要不要搞一个自己的大模型？ 问的人很认真，被问的人心里有点慌，钱不少花，方向看不清。 这个词从哪一年开始流行的，已经记不清了，反正到了今天，方案里、标书里、发布会",
+      "publishedAt": "2026-09-16T02:39:44.000Z",
+      "url": "https://www.woshipm.com/ai/6465216.html",
       "linkKind": "original",
       "opportunity": {
         "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
@@ -162,11 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6464272.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6465216.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "斯坦福116页企业AI实施手册调研了51个真实案例：77%最难的问题不是技术而是组织，61%的成功项目此前都失败过；最大阻力来自法务、HR、合规，解法是把他们拉进治理委员会。真正裁员的只有45%。 今年是AI应用的元年，话题热度很高，各路媒体、各路大V，每天都在刷屏。一会儿是这个模型又升级了，一会儿是某个岗位要被淘汰了。 但有一个现象不知道你注意到没有： 真正在用AI赚到钱的公司，反而很少发声；天天喊AI的，大部分还在PPT里。 正好最",
+      "brief": "过去半年，不少老板都被同一个问题问过，咱们要不要搞一个自己的大模型。「专有模型」四个字实际装着四样东西：自训、微调、私有部署和上下文。前三件是买得到、会贬值的商品，第四件才是买不到、会复利的资产，文章用三笔账给出了不同企业的选择清单。 过去半年，不少老板都被同一个问题问过，咱们要不要搞一个自己的大模型？ 问的人很认真，被问的人心里有点慌，钱不少花，方向看不清。 这个词从哪一年开始流行的，已经记不清了，反正到了今天，方案里、标书里、发布会",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -211,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/buddy",

@@ -1,7 +1,7 @@
 {
   "date": "2026年9月16日",
   "demo": false,
-  "updatedAt": "2026-09-16T01:18:41.467Z",
+  "updatedAt": "2026-09-16T06:08:04.932Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 8,
+    "latestCount": 6,
     "archiveCount": 1
   },
   "sources": {
@@ -37,8 +37,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 7,
+        "matched": 9,
         "status": "本次收录"
       },
       {
@@ -143,13 +143,48 @@
   },
   "items": [
     {
+      "id": "aihot-cmu1ju3b00pmgrocnrgwe6e9e",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "brief": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+      "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "lead",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Apple：Newsroom（RSS）",
+      "feedName": "Apple：Newsroom（RSS）",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-14T18:00:58.336Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Apple：Newsroom（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 1,
+      "sourceCount": 5,
+      "signalCount": 27,
+      "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
+    },
+    {
       "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
       "title": "Anthropic 提出 3 步 Pace the Frontier 放缓计划，获 OpenAI、xAI 和 Microsoft 声援",
       "brief": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
       "summary": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
       "category": "产品动态",
       "topic": "AI 产品",
-      "priority": "lead",
+      "priority": "important",
       "platform": "网站",
       "authorHandle": "",
       "sourceGroup": "媒体与社区",
@@ -178,45 +213,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 1,
-      "sourceCount": 12,
-      "signalCount": 31,
-      "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
-    },
-    {
-      "id": "aihot-cmu1ju3b00pmgrocnrgwe6e9e",
-      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
-      "brief": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
-      "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "important",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Apple：Newsroom（RSS）",
-      "feedName": "Apple：Newsroom（RSS）",
-      "sourceUrl": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-      "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T18:00:58.336Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Apple：Newsroom（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
       "hotRank": 2,
-      "sourceCount": 6,
-      "signalCount": 27,
-      "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
+      "sourceCount": 10,
+      "signalCount": 20,
+      "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
     },
     {
       "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
@@ -249,8 +249,8 @@
         "author": null
       },
       "hotRank": 3,
-      "sourceCount": 6,
-      "signalCount": 25,
+      "sourceCount": 5,
+      "signalCount": 22,
       "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
     },
     {
@@ -330,41 +330,6 @@
       "storyUrl": "https://aihot.virxact.com/story/f6d460c2-3297-4f03-b10d-16951b0ddd13"
     },
     {
-      "id": "aihot-cmu1xyw1004hvromg5m4jf131",
-      "title": "Fireworks 上线 DeepSeek-V4.1-Flash，DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
-      "brief": "Fireworks 发布 DeepSeek-V4.1-Flash，在 DeepSWE 上取得 74.34% pass@1、每任务 $0.43，与 GPT-6 Astra 同一精度区间但成本仅 1/15。",
-      "summary": "Fireworks 发布 DeepSeek-V4.1-Flash，在 DeepSWE 上取得 74.34% pass@1、每任务 $0.43，与 GPT-6 Astra 同一精度区间但成本仅 1/15。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Fireworks AI（网页）",
-      "feedName": "Fireworks AI（网页）",
-      "sourceUrl": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
-      "aggregateUrl": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-15T00:36:35.301Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "GPT-6 Astra",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 3,
-      "signalCount": 10,
-      "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
-    },
-    {
       "id": "aihot-cmu1ju3b00pmfrocnhd0s8k0a",
       "title": "Apple 发布 iOS 27、iPadOS 27、macOS 27 等系统更新，推出 Siri AI 与新一代 Apple Intelligence",
       "brief": "Apple 开始推送 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 更新，引入基于新一代 Apple Intelligence 的 Siri AI。",
@@ -394,8 +359,8 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
-      "sourceCount": 4,
+      "hotRank": 6,
+      "sourceCount": 3,
       "signalCount": 8,
       "storyUrl": "https://aihot.virxact.com/story/37de8617-5db1-47ff-b221-e2176095fe51"
     },
@@ -429,10 +394,45 @@
         "caption": "IPO",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 7,
       "sourceCount": 2,
       "signalCount": 9,
       "storyUrl": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
+    },
+    {
+      "id": "aihot-cmu1xyw1004hvromg5m4jf131",
+      "title": "Fireworks 上线 DeepSeek-V4.1-Flash，DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+      "brief": "Fireworks 发布 DeepSeek-V4.1-Flash，在 DeepSWE 上取得 74.34% pass@1、每任务 $0.43，与 GPT-6 Astra 同一精度区间但成本仅 1/15。",
+      "summary": "Fireworks 发布 DeepSeek-V4.1-Flash，在 DeepSWE 上取得 74.34% pass@1、每任务 $0.43，与 GPT-6 Astra 同一精度区间但成本仅 1/15。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Fireworks AI（网页）",
+      "feedName": "Fireworks AI（网页）",
+      "sourceUrl": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+      "aggregateUrl": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-15T00:36:35.301Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "GPT-6 Astra",
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 3,
+      "signalCount": 6,
+      "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
     },
     {
       "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
@@ -470,75 +470,44 @@
       "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
     },
     {
-      "id": "aihot-cmu1g31xf07frrocnmjfagq29",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "brief": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-      "category": "行业观察",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "feedName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "aggregateUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T16:15:57.841Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "行业观察",
-        "author": null
-      },
-      "hotRank": 10,
-      "sourceCount": 2,
-      "signalCount": 9,
-      "storyUrl": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
-    },
-    {
-      "id": "aihot-cmu2av4ja03f5ro25z8k65l7g",
-      "title": "本周的发布密度也将达到你对 DevDay 2025 所能预期的水平。疯狂",
-      "brief": "本周的发布密度也将达到你对 DevDay 2025 所能预期的水平。",
-      "summary": "本周的发布密度也将达到你对 DevDay 2025 所能预期的水平。疯狂",
+      "id": "aihot-cmu352k2908t9rosaotpsx42c",
+      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2099744972195131850",
-      "aggregateUrl": "https://aihot.news/items/cmu2av4ja03f5ro25z8k65l7g",
+      "authorHandle": "AravSrinivas",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2099957318935028173",
+      "aggregateUrl": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-15T06:19:47.000Z",
+      "publishedAt": "2026-09-15T20:43:13.349Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
           }
         ],
         "caption": "产品动态",
         "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
           "tone": "#e9e4dc"
         }
-      }
+      },
+      "hotRank": 10,
+      "sourceCount": 2,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/1ad61539-0aae-46a5-a72b-7d59c46d3cb4"
     },
     {
       "id": "aihot-cmu2uunzm02u2rowkxbusox15",
@@ -619,11 +588,11 @@
       }
     },
     {
-      "id": "aihot-cmu3b02000hvdrosa1m7owhv3",
-      "title": "实验室会因公关问题囤积知识吗",
-      "brief": "我一般不传播谣言，但：1）这来自有内部消息的人，且听起来合理 2）这是一个我们真正需要思考的政策问题：如果分享的规范变得紧张，实验室会不会为了避免公关问题而开始囤积知识？",
-      "summary": "我一般不传播谣言，但：1）这来自有内部消息的人，且听起来合理 2）这是一个我们真正需要思考的政策问题：如果分享的规范变得紧张，实验室会不会为了避免公关问题而开始囤积知识？\n\n这里 https://scottaaronson.blog/?p=10062",
-      "category": "产品动态",
+      "id": "aihot-cmu3hfjbc08psrotbk8x7heiz",
+      "title": "非LLM快速分类模型演示",
+      "brief": "这是一个出色的演示，展示了一个旨在根据决策规则快速对信息进行分类的 AI 模型，比 LLM 更快、更便宜。",
+      "summary": "这是一个出色的演示，展示了一个旨在根据决策规则快速对信息进行分类的 AI 模型，比 LLM 更快、更便宜。它本身不是 LLM，无法输出文本或代码，但如果有效，在系统中能发挥有用的作用。（我自己还没试过）",
+      "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -631,10 +600,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2099996799750623665",
-      "aggregateUrl": "https://aihot.news/items/cmu3b02000hvdrosa1m7owhv3",
+      "sourceUrl": "https://x.com/emollick/status/2100043071710777527",
+      "aggregateUrl": "https://aihot.news/items/cmu3hfjbc08psrotbk8x7heiz",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-15T23:00:27.000Z",
+      "publishedAt": "2026-09-16T02:04:19.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -645,7 +614,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -655,11 +624,11 @@
       }
     },
     {
-      "id": "aihot-cmu376no90ax8rosafsztrwtj",
-      "title": "Elvis Saravia：多数集成场景 MCP 优于 CLI",
-      "brief": "Elvis Saravia 认同 MCP 在多数集成场景中优于 CLI，并建议构建自定义 harness 时使用 MCP 工具，其 meta harness 的所有外部工具均走 MCP。",
-      "summary": "Elvis Saravia 认同 MCP 在多数集成场景中优于 CLI，并建议构建自定义 harness 时使用 MCP 工具，其 meta harness 的所有外部工具均走 MCP。引用推文指出，模型工具调用能力大幅提升、工具可延迟加载且 MCP 已实现无状态，若需组合或过滤数据可在 MCP 工具中加入 query 等参数。",
-      "category": "产品动态",
+      "id": "aihot-cmu3m6rmy03trroc1wn9htahq",
+      "title": "Salesforce 发布企业智能体模型 Koa",
+      "brief": "Salesforce 基于开源 Nemotron-3-Super-120B 训练出企业智能体模型 Koa，用配置 Agentforce 智能体的 Agent Script 声明式文件扩展成多轮任务与模拟用户角色，并以 GRPO 训练、按工具调用是否正确给予奖励。",
+      "summary": "Salesforce 基于开源 Nemotron-3-Super-120B 训练出企业智能体模型 Koa，用配置 Agentforce 智能体的 Agent Script 声明式文件扩展成多轮任务与模拟用户角色，并以 GRPO 训练、按工具调用是否正确给予奖励。",
+      "category": "模型进展",
       "topic": "Agent",
       "priority": "normal",
       "platform": "X",
@@ -667,10 +636,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2099970990935867485",
-      "aggregateUrl": "https://aihot.news/items/cmu376no90ax8rosafsztrwtj",
+      "sourceUrl": "https://x.com/omarsar0/status/2100080746056777899",
+      "aggregateUrl": "https://aihot.news/items/cmu3m6rmy03trroc1wn9htahq",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-15T21:17:54.000Z",
+      "publishedAt": "2026-09-16T04:34:02.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -681,7 +650,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -758,42 +727,6 @@
           "name": "Greg Brockman",
           "asset": "/assets/identities/gdb.jpg",
           "assetSource": "https://x.com/gdb",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmu352k2908t9rosaotpsx42c",
-      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-      "brief": "原文给出成本节省数字和构建方式，图片补充了批次读取延迟的具体对比数据。",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
-      "category": "行业观察",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "AravSrinivas",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Aravind Srinivas · @AravSrinivas",
-      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2099957318935028173",
-      "aggregateUrl": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-15T20:23:34.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Perplexity",
-            "asset": "/assets/identities/perplexity_ai.jpg",
-            "assetSource": "https://x.com/perplexity_ai",
-            "tone": "#dcebea"
-          }
-        ],
-        "caption": "行业观察",
-        "author": {
-          "name": "Aravind Srinivas",
-          "asset": "/assets/identities/aravsrinivas.jpg",
-          "assetSource": "https://x.com/AravSrinivas",
           "tone": "#e9e4dc"
         }
       }
