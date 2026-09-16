@@ -1,7 +1,7 @@
 {
   "date": "2026年9月17日",
   "demo": false,
-  "updatedAt": "2026-09-16T19:03:07.889Z",
+  "updatedAt": "2026-09-16T22:03:33.133Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 5,
+    "latestCount": 6,
     "archiveCount": 1
   },
   "sources": {
@@ -37,7 +37,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 6,
+        "matched": 8,
         "status": "本次收录"
       },
       {
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -136,47 +136,12 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       }
     ]
   },
   "items": [
-    {
-      "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
-      "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
-      "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
-      "summary": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "lead",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Ars Technica：AI（RSS）",
-      "feedName": "Ars Technica：AI（RSS）",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
-      "aggregateUrl": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-14T19:35:16.307Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Ars Technica：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 1,
-      "sourceCount": 6,
-      "signalCount": 12,
-      "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
-    },
     {
       "id": "aihot-cmu46kvju0bdsro4w0sonrv7q",
       "title": "微软 AI CEO 警告“模型福利”论调",
@@ -184,7 +149,7 @@
       "summary": "微软 AI CEO Mustafa Suleyman 发文反对“模型福利”理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
       "category": "模型进展",
       "topic": "AI 产品",
-      "priority": "important",
+      "priority": "lead",
       "platform": "X",
       "authorHandle": "mustafasuleyman",
       "sourceGroup": "媒体与社区",
@@ -207,8 +172,8 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 2,
-      "sourceCount": 5,
+      "hotRank": 1,
+      "sourceCount": 6,
       "signalCount": 5,
       "storyUrl": "https://aihot.virxact.com/story/f8240408-8a78-46cd-aec6-b84ae9499a0e"
     },
@@ -242,7 +207,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 3,
+      "hotRank": 2,
       "sourceCount": 15,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
@@ -254,7 +219,7 @@
       "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
       "category": "产品动态",
       "topic": "AI 产品",
-      "priority": "normal",
+      "priority": "important",
       "platform": "网站",
       "authorHandle": "",
       "sourceGroup": "媒体与社区",
@@ -277,10 +242,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 4,
-      "sourceCount": 7,
+      "hotRank": 3,
+      "sourceCount": 8,
       "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/07ad0f8b-6577-4a5c-ae7c-198d6b3864d0"
+      "storyUrl": "https://aihot.virxact.com/story/400253f5-96b2-41ad-a94c-388b9accbc55"
     },
     {
       "id": "aihot-cmu1hrr070dycrocndfax0y0c",
@@ -312,9 +277,9 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 5,
-      "sourceCount": 8,
-      "signalCount": 5,
+      "hotRank": 4,
+      "sourceCount": 7,
+      "signalCount": 1,
       "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
     },
     {
@@ -347,9 +312,9 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 6,
-      "sourceCount": 3,
-      "signalCount": 12,
+      "hotRank": 5,
+      "sourceCount": 2,
+      "signalCount": 9,
       "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
     },
     {
@@ -388,10 +353,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 6,
       "sourceCount": 4,
-      "signalCount": 7,
-      "storyUrl": "https://aihot.virxact.com/story/f6d460c2-3297-4f03-b10d-16951b0ddd13"
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
     },
     {
       "id": "aihot-cmu4574wb09w5ro4w7cdwfm7l",
@@ -423,7 +388,7 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 7,
       "sourceCount": 3,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/fc1c06e2-09e0-41ee-ab9e-95681f1b49a1"
@@ -458,7 +423,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 8,
       "sourceCount": 3,
       "signalCount": 2,
       "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
@@ -493,17 +458,57 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 10,
+      "hotRank": 9,
       "sourceCount": 3,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/74b34fd3-0d93-4193-9ac0-d0f977cda3c1"
     },
     {
-      "id": "aihot-cmu3sg5dq0di1roc1ao3wwn1f",
-      "title": "Imagegen 眼中的 Astra",
-      "brief": "Astra，Imagegen 眼中的样子",
-      "summary": "Astra，Imagegen 眼中的样子",
+      "id": "aihot-cmu352k2908t9rosaotpsx42c",
+      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
       "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "AravSrinivas",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2099957318935028173",
+      "aggregateUrl": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-15T20:43:13.349Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      },
+      "hotRank": 10,
+      "sourceCount": 2,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/1ad61539-0aae-46a5-a72b-7d59c46d3cb4"
+    },
+    {
+      "id": "aihot-cmu4h3hbb0qopro4w4b70q1cs",
+      "title": "ChatGPT 是什么",
+      "brief": "ChatGPT 是什么",
+      "summary": "ChatGPT 是什么",
+      "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -511,21 +516,21 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2100122479947817059",
-      "aggregateUrl": "https://aihot.news/items/cmu3sg5dq0di1roc1ao3wwn1f",
+      "sourceUrl": "https://x.com/thsottiaux/status/2100295443620007993",
+      "aggregateUrl": "https://aihot.news/items/cmu4h3hbb0qopro4w4b70q1cs",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-16T07:19:52.000Z",
+      "publishedAt": "2026-09-16T18:47:10.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": {
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
@@ -535,10 +540,10 @@
       }
     },
     {
-      "id": "aihot-cmu4ad7au0fogro4wc9edgx26",
-      "title": "AI 模糊组织内岗位边界",
-      "brief": "当我和高级管理者交流时，越来越多地听到组织内部岗位边界模糊的故事（我们在宝洁的研究中也发现了这一点）：编程、设计、产品管理，全都在崩塌与重叠，因为每个人都在用 AI\n\n我们需要新的工作组织模式，而且要快。",
-      "summary": "当我和高级管理者交流时，越来越多地听到组织内部岗位边界模糊的故事（我们在宝洁的研究中也发现了这一点）：编程、设计、产品管理，全都在崩塌与重叠，因为每个人都在用 AI\n\n我们需要新的工作组织模式，而且要快。",
+      "id": "aihot-cmu4m5jw70vzjro4wudxogpy6",
+      "title": "AI 恐惧与 AI 普及的现实张力",
+      "brief": "关于 AI 的存在性讨论主导了新闻，而 AI 在个人和企业中却被广泛且日益热情地采用，两者之间存在真实的张力\n\n未来的 AI 令人恐惧，而当前的 AI 正迅速成为生活的一部分",
+      "summary": "关于 AI 的存在性讨论主导了新闻，而 AI 在个人和企业中却被广泛且日益热情地采用，两者之间存在真实的张力\n\n未来的 AI 令人恐惧，而当前的 AI 正迅速成为生活的一部分",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -547,10 +552,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2100246695766307171",
-      "aggregateUrl": "https://aihot.news/items/cmu4ad7au0fogro4wc9edgx26",
+      "sourceUrl": "https://x.com/emollick/status/2100329505571426525",
+      "aggregateUrl": "https://aihot.news/items/cmu4m5jw70vzjro4wudxogpy6",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-16T15:33:27.000Z",
+      "publishedAt": "2026-09-16T21:02:31.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -571,10 +576,10 @@
       }
     },
     {
-      "id": "aihot-cmu49rjmy0f1xro4wda7xdx53",
-      "title": "Einsia AI 开源 AgentGit 平台，支持保存、恢复与交接 Agent 会话",
-      "brief": "Einsia AI 推出开源平台 AgentGit，用于协作 Agent 会话，让工作可保存、交接并由下一个人继续，网址 https://agent-git.com。",
-      "summary": "Einsia AI 推出开源平台 AgentGit，用于协作 Agent 会话，让工作可保存、交接并由下一个人继续，网址 https://agent-git.com。作者 Elvia Saravia 评论称，代码已有版本控制，下一步是保存代码背后的会话，AgentGit 支持保存、恢复、分享和交接会话以实现上下文协作，这在 Agent 工作日益复杂时尤为重要。",
+      "id": "aihot-cmu4mmikr03jsrodczpno3bob",
+      "title": "小米MiMo-V2.6开源RL训练细节，已投入超100万美元",
+      "brief": "小米MiMo-V2.6正进行大规模RL训练，从三个维度扩展：计算（每步约2B tokens、1568 prompts×16 rollouts、全异步）、环境与harness（多任务智能体RL，单次运行混合多个harness）以及评分计算（组内智能体信用分配，结合测试用例与rubric奖励）。",
+      "summary": "小米MiMo-V2.6正进行大规模RL训练，从三个维度扩展：计算（每步约2B tokens、1568 prompts×16 rollouts、全异步）、环境与harness（多任务智能体RL，单次运行混合多个harness）以及评分计算（组内智能体信用分配，结合测试用例与rubric奖励）。团队表示将在未来数周逐步开源细节，目前投入已超100万美元。",
       "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
@@ -583,10 +588,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2100245953278279715",
-      "aggregateUrl": "https://aihot.news/items/cmu49rjmy0f1xro4wda7xdx53",
+      "sourceUrl": "https://x.com/omarsar0/status/2100337683277173009",
+      "aggregateUrl": "https://aihot.news/items/cmu4mmikr03jsrodczpno3bob",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-16T15:30:30.000Z",
+      "publishedAt": "2026-09-16T21:35:00.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -643,22 +648,22 @@
       }
     },
     {
-      "id": "aihot-cmu4d0cnx0ivpro4w3dgrzqr0",
-      "title": "Perplexity iOS 应用兼容 iOS 27",
-      "brief": "Duo\n\n【引用 @peymankh】：🚨 @perplexity_ai iOS 应用现已完全兼容新的 iOS 27（iOS 26.7？",
-      "summary": "Duo\n\n【引用 @peymankh】：🚨 @perplexity_ai iOS 应用现已完全兼容新的 iOS 27（iOS 26.7？👀）。如有任何问题请告诉我们。iPhone Duo 的改进也将在 27.1 beta 发布后尽快推出！",
+      "id": "aihot-cmu4id8w70s1ero4wqwjwg73d",
+      "title": "Perplexity 发布 Search SDK cookbook 支持编码智能体并行检索官方文档",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布 pplx-search-sdk 上线新 cookbook，面向编码智能体提供并行搜索文档、过滤官方文档结果和提取详细片段的能力。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布 pplx-search-sdk 上线新 cookbook，面向编码智能体提供并行搜索文档、过滤官方文档结果和提取详细片段的能力。cookbook 配方会展开聚焦搜索、筛出官方文档、提取相关段落并生成带来源链接的简报，入口为 https://pplx.ai/pplx-srch-sdk。",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2100270150280995300",
-      "aggregateUrl": "https://aihot.news/items/cmu4d0cnx0ivpro4w3dgrzqr0",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2100303192219385906",
+      "aggregateUrl": "https://aihot.news/items/cmu4id8w70s1ero4wqwjwg73d",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-16T17:06:39.000Z",
+      "publishedAt": "2026-09-16T19:17:57.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -674,6 +679,42 @@
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmu4lgexo0v6dro4wvsw4a6ri",
+      "title": "Hugging Face 联手 Baseten、Goodfire 推进开源模型安全研究",
+      "brief": "Hugging Face 联合创始人 Thomas Wolf 宣布与 Baseten 旗下 Baselabs 及 GoodfireAI 合作，推进开源模型的安全与可解释性研究。",
+      "summary": "Hugging Face 联合创始人 Thomas Wolf 宣布与 Baseten 旗下 Baselabs 及 GoodfireAI 合作，推进开源模型的安全与可解释性研究。合作方将把安全研究直接构建进 Baseten 的推理基础设施，包括训练模型遵循明确策略、运行时检测故障，并将信号接入可干预的控制机制，目标向所有客户开放。Wolf 强调开源与安全部署并不矛盾，正如 Linux 所证明的那样。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2100327168421277779",
+      "aggregateUrl": "https://aihot.news/items/cmu4lgexo0v6dro4wvsw4a6ri",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-16T20:53:13.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
+          }
+        ],
+        "caption": "模型进展",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }

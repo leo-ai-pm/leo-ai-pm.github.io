@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-16T19:02:50.628Z",
-      "lastSuccessAt": "2026-09-16T19:02:50.628Z",
-      "nextCheckAt": 1789588970628,
+      "checkedAt": "2026-09-16T22:03:17.940Z",
+      "lastSuccessAt": "2026-09-16T22:03:17.940Z",
+      "nextCheckAt": 1789599797940,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1789588970629,
-      "checkedAt": "2026-09-16T19:02:50.629Z",
-      "lastSuccessAt": "2026-09-16T19:02:50.629Z",
+      "nextCheckAt": 1789599797941,
+      "checkedAt": "2026-09-16T22:03:17.941Z",
+      "lastSuccessAt": "2026-09-16T22:03:17.941Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-16T19:02:50.629Z",
-      "lastSuccessAt": "2026-09-16T19:02:50.629Z",
-      "nextCheckAt": 1789588970629,
+      "checkedAt": "2026-09-16T22:03:17.944Z",
+      "lastSuccessAt": "2026-09-16T22:03:17.944Z",
+      "nextCheckAt": 1789599797944,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789588971215,
-      "checkedAt": "2026-09-16T19:02:51.215Z",
-      "lastSuccessAt": "2026-09-16T19:02:51.215Z",
+      "nextCheckAt": 1789599798264,
+      "checkedAt": "2026-09-16T22:03:18.264Z",
+      "lastSuccessAt": "2026-09-16T22:03:18.264Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789588970628,
+  "nextCheckAt": 1789599797940,
   "refreshing": false,
   "items": [
     {
@@ -174,6 +174,46 @@
       "priority": "important"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/zeroclick",
+      "title": "ZeroClick",
+      "summary": "Sell your product to AI agents",
+      "publishedAt": "2026-09-16T00:01:56.000Z",
+      "url": "https://www.producthunt.com/products/zeroclick",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/zeroclick",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Sell your product to AI agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
       "id": "ph:https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking",
       "title": "Gemini 3.8 & 3.8 Live Extended Thinking",
       "summary": "Our most advanced Gemini Audio models yet",
@@ -212,7 +252,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/thread-ai-journal-memory",
@@ -248,46 +288,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "AI journal that connects your thoughts into something bigger",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/appwrite",
-      "title": "Appwrite 2.0",
-      "summary": "The open-source cloud for agents and developers",
-      "publishedAt": "2026-09-15T09:56:57.000Z",
-      "url": "https://www.producthunt.com/products/appwrite",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/appwrite",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The open-source cloud for agents and developers",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
