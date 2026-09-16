@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月16日",
     "demo": false,
-    "updatedAt": "2026-09-16T11:44:40.135Z",
+    "updatedAt": "2026-09-16T15:35:13.716Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 7,
+      "latestCount": 5,
       "archiveCount": 1
     },
     "sources": {
@@ -56,8 +56,8 @@
           "group": "产品与工程",
           "focus": "AI 工程与开发者生态",
           "url": "https://x.com/swyx",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "simonw",
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 9,
+          "matched": 10,
           "status": "本次收录"
         },
         {
@@ -110,8 +110,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "gdb",
@@ -174,44 +174,9 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 5,
-        "signalCount": 27,
+        "sourceCount": 6,
+        "signalCount": 26,
         "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
-      },
-      {
-        "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
-        "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
-        "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
-        "summary": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Ars Technica：AI（RSS）",
-        "feedName": "Ars Technica：AI（RSS）",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
-        "aggregateUrl": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T19:35:16.307Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Ars Technica：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 2,
-        "sourceCount": 5,
-        "signalCount": 17,
-        "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
       },
       {
         "id": "aihot-cmu2xqfxz02zhroc1hxuzi6jm",
@@ -243,42 +208,71 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 3,
-        "sourceCount": 14,
+        "hotRank": 2,
+        "sourceCount": 15,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
       },
       {
-        "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
-        "title": "Anthropic 提出 3 步 Pace the Frontier 放缓计划，获 OpenAI、xAI 和 Microsoft 声援",
-        "brief": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
-        "summary": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
+        "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
+        "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
+        "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
+        "summary": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "important",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Ars Technica：AI（RSS）",
+        "feedName": "Ars Technica：AI（RSS）",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
+        "aggregateUrl": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T19:35:16.307Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Ars Technica：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 3,
+        "sourceCount": 5,
+        "signalCount": 13,
+        "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
+      },
+      {
+        "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
+        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+        "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
+        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "MarkTechPost（RSS）",
-        "feedName": "MarkTechPost（RSS）",
-        "sourceUrl": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down",
-        "aggregateUrl": "https://aihot.news/items/cmu0kxqno0swyrory88jvk2pn",
+        "sourceName": "The Verge：AI（RSS）",
+        "feedName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T01:43:54.773Z",
+        "publishedAt": "2026-09-14T23:47:11.878Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "The Verge：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "产品动态",
@@ -286,7 +280,7 @@
         },
         "hotRank": 4,
         "sourceCount": 8,
-        "signalCount": 8,
+        "signalCount": 6,
         "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
       },
       {
@@ -327,7 +321,7 @@
         },
         "hotRank": 5,
         "sourceCount": 4,
-        "signalCount": 11,
+        "signalCount": 7,
         "storyUrl": "https://aihot.virxact.com/story/f6d460c2-3297-4f03-b10d-16951b0ddd13"
       },
       {
@@ -362,96 +356,61 @@
         },
         "hotRank": 6,
         "sourceCount": 3,
-        "signalCount": 8,
+        "signalCount": 7,
         "storyUrl": "https://aihot.virxact.com/story/37de8617-5db1-47ff-b221-e2176095fe51"
       },
       {
-        "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
-        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-        "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Verge：AI（RSS）",
-        "feedName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T23:47:11.878Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 7,
-        "sourceCount": 3,
-        "signalCount": 4,
-        "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
-      },
-      {
-        "id": "aihot-cmttqzqw30jwkrofpxrj00ngg",
-        "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "brief": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。",
-        "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "IT之家（RSS）",
-        "feedName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/000/188.htm",
-        "aggregateUrl": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-09T06:59:12.167Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "IPO",
-          "author": null
-        },
-        "hotRank": 8,
-        "sourceCount": 2,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
-      },
-      {
-        "id": "aihot-cmu1xyw1004hvromg5m4jf131",
-        "title": "Fireworks 上线 DeepSeek-V4.1-Flash，DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
-        "brief": "Fireworks 发布 DeepSeek-V4.1-Flash，在 DeepSWE 上取得 74.34% pass@1、每任务 $0.43，与 GPT-6 Astra 同一精度区间但成本仅 1/15。",
-        "summary": "Fireworks 发布 DeepSeek-V4.1-Flash，在 DeepSWE 上取得 74.34% pass@1、每任务 $0.43，与 GPT-6 Astra 同一精度区间但成本仅 1/15。",
+        "id": "aihot-cmu46kvju0bdsro4w0sonrv7q",
+        "title": "微软 AI CEO 警告“模型福利”论调",
+        "brief": "微软 AI CEO Mustafa Suleyman 发文反对“模型福利”理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+        "summary": "微软 AI CEO Mustafa Suleyman 发文反对“模型福利”理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
         "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
+        "platform": "X",
+        "authorHandle": "mustafasuleyman",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "feedName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "sourceUrl": "https://x.com/mustafasuleyman/status/2100223594534150428",
+        "aggregateUrl": "https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-16T14:13:13.562Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 1,
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/daa561c2-f353-4559-bc7e-63c929b992b7"
+      },
+      {
+        "id": "aihot-cmu4574wb09w5ro4w7cdwfm7l",
+        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+        "brief": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。",
+        "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
+        "category": "模型进展",
+        "topic": "Agent",
+        "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Fireworks AI（网页）",
-        "feedName": "Fireworks AI（网页）",
-        "sourceUrl": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
-        "aggregateUrl": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
+        "sourceGroup": "机构官方",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
+        "aggregateUrl": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-15T00:36:35.301Z",
+        "publishedAt": "2026-09-16T13:34:31.714Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -462,13 +421,13 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "GPT-6 Astra",
+          "caption": "模型进展",
           "author": null
         },
-        "hotRank": 9,
+        "hotRank": 8,
         "sourceCount": 2,
-        "signalCount": 4,
-        "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/fc1c06e2-09e0-41ee-ab9e-95681f1b49a1"
       },
       {
         "id": "aihot-cmu352k2908t9rosaotpsx42c",
@@ -505,10 +464,45 @@
             "tone": "#e9e4dc"
           }
         },
-        "hotRank": 10,
+        "hotRank": 9,
         "sourceCount": 2,
         "signalCount": 1,
         "storyUrl": "https://aihot.virxact.com/story/1ad61539-0aae-46a5-a72b-7d59c46d3cb4"
+      },
+      {
+        "id": "aihot-cmtv7kmzk02vdrok9y0y8njiv",
+        "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+        "brief": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+        "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "MarkTechPost（RSS）",
+        "feedName": "MarkTechPost（RSS）",
+        "sourceUrl": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+        "aggregateUrl": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-10T07:31:07.541Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "MarkTechPost（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 10,
+        "sourceCount": 2,
+        "signalCount": 3,
+        "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
       {
         "id": "aihot-cmu3sg5dq0di1roc1ao3wwn1f",
@@ -542,48 +536,6 @@
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
             "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-cmu2uunzm02u2rowkxbusox15",
-        "title": "swyx 喊话 OpenAI 造手机",
-        "brief": "要来了！",
-        "summary": "要来了！\n\nswyx 喊话 OpenAI：干脆做一款新手机吧，大家都想要 openaiphone。我们阅读速度是说话和朗读的 2-4 倍。OpenAI 的 Alexa、Reachy 混合形态也行，但请只把它当作通往手机的一块垫脚石。我们想要手机。署名：所有人。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "swyx",
-        "sourceGroup": "产品与工程",
-        "sourceName": "swyx · @swyx",
-        "feedName": "X：swyx (@swyx)",
-        "sourceUrl": "https://x.com/swyx/status/2099888258591429075",
-        "aggregateUrl": "https://aihot.news/items/cmu2uunzm02u2rowkxbusox15",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-15T15:49:09.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "swyx",
-              "asset": "/assets/identities/swyx.jpg",
-              "assetSource": "https://x.com/swyx",
-              "tone": "#e9e4dc"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "swyx",
-            "asset": "/assets/identities/swyx.jpg",
-            "assetSource": "https://x.com/swyx",
             "tone": "#e9e4dc"
           }
         }
@@ -625,11 +577,11 @@
         }
       },
       {
-        "id": "aihot-cmu3q060b0atjroc1j1aagb06",
-        "title": "Google 研究：AI 加速科研但改变工作性质",
-        "brief": "Google 关于 AI 在科学中应用的研究，影响复杂：加速（每周节省 7 小时），同时工作类型发生转变（更多验证），以及研究选题的变化（可能更偏安全的话题）。",
-        "summary": "Google 关于 AI 在科学中应用的研究，影响复杂：加速（每周节省 7 小时），同时工作类型发生转变（更多验证），以及研究选题的变化（可能更偏安全的话题）。\n\n还有一张关于锯齿状前沿的好图 https://ai.google/static/documents/AI-in-Science.pdf",
-        "category": "研究进展",
+        "id": "aihot-cmu4881ws0d9sro4w1lo7441z",
+        "title": "公共AI基准测试现状堪忧",
+        "brief": "公共AI基准测试的现状堪忧，正在削弱我们理解AI当前水平的能力。",
+        "summary": "公共AI基准测试的现状堪忧，正在削弱我们理解AI当前水平的能力。\n\n大多数知名指标已经饱和，而正如这篇论文所示，尚未饱和的基准测试充斥着大量错误，以至于严重低估了AI的能力。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -637,21 +589,21 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2100102316447670677",
-        "aggregateUrl": "https://aihot.news/items/cmu3q060b0atjroc1j1aagb06",
+        "sourceUrl": "https://x.com/emollick/status/2100233342494925257",
+        "aggregateUrl": "https://aihot.news/items/cmu4881ws0d9sro4w1lo7441z",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T05:59:44.000Z",
+        "publishedAt": "2026-09-16T14:40:23.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "Ethan Mollick",
+              "asset": "/assets/identities/emollick.jpg",
+              "assetSource": "https://x.com/emollick",
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "研究进展",
+          "caption": "产品动态",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -661,10 +613,10 @@
         }
       },
       {
-        "id": "aihot-cmu3m6rmy03trroc1wn9htahq",
-        "title": "Salesforce 发布企业智能体模型 Koa",
-        "brief": "Salesforce 基于开源 Nemotron-3-Super-120B 训练出企业智能体模型 Koa，用配置 Agentforce 智能体的 Agent Script 声明式文件扩展成多轮任务与模拟用户角色，并以 GRPO 训练、按工具调用是否正确给予奖励。",
-        "summary": "Salesforce 基于开源 Nemotron-3-Super-120B 训练出企业智能体模型 Koa，用配置 Agentforce 智能体的 Agent Script 声明式文件扩展成多轮任务与模拟用户角色，并以 GRPO 训练、按工具调用是否正确给予奖励。",
+        "id": "aihot-cmu48ozgg0ducro4wq29kat7t",
+        "title": "NVIDIA 论文：多智能体系统如何选模型池",
+        "brief": "NVIDIA 论文对比了 8 种模型选择策略，在路由、多数投票和 LLM-as-judge 三种设置下测试模型池对多智能体系统的影响。",
+        "summary": "NVIDIA 论文对比了 8 种模型选择策略，在路由、多数投票和 LLM-as-judge 三种设置下测试模型池对多智能体系统的影响。结果显示，混用不同开源模型虽能提高理论最优准确率，但实际表现常低于池中单一最佳模型；用同一模型的多个副本反而更好。多数投票将 HLE 准确率从 29.4% 提升至 32.2%，而几乎每个混合模型组合都出现下降；从单一模型家族中选候选模型带来的提升最大。",
         "category": "模型进展",
         "topic": "Agent",
         "priority": "normal",
@@ -673,18 +625,18 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2100080746056777899",
-        "aggregateUrl": "https://aihot.news/items/cmu3m6rmy03trroc1wn9htahq",
+        "sourceUrl": "https://x.com/omarsar0/status/2100235516918849661",
+        "aggregateUrl": "https://aihot.news/items/cmu48ozgg0ducro4wq29kat7t",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T04:34:02.000Z",
+        "publishedAt": "2026-09-16T14:49:02.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Elvis Saravia",
-              "asset": "/assets/identities/omarsar0.jpg",
-              "assetSource": "https://x.com/omarsar0",
-              "tone": "#e9e4dc"
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
             }
           ],
           "caption": "模型进展",
@@ -692,42 +644,6 @@
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
             "assetSource": "https://x.com/omarsar0",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-cmu2t2z8y05siro3xfr18hqia",
-        "title": "Sam Altman 预告本周大量发布",
-        "brief": "本周有大 🚢\n\n然后是为 devday\n\n🚢🚢🚢🚢🚢🚢",
-        "summary": "本周有大 🚢\n\n然后是为 devday\n\n🚢🚢🚢🚢🚢🚢",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "sama",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Sam Altman · @sama",
-        "feedName": "X：Sam Altman (@sama)",
-        "sourceUrl": "https://x.com/sama/status/2099872600977760451",
-        "aggregateUrl": "https://aihot.news/items/cmu2t2z8y05siro3xfr18hqia",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-15T14:46:56.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Sam Altman",
-              "asset": "/assets/identities/sama.jpg",
-              "assetSource": "https://x.com/sama",
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
             "tone": "#e9e4dc"
           }
         }
@@ -809,8 +725,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-16T11:44:40.135Z",
-    "nextCheckAt": 1789559380135,
+    "checkedAt": "2026-09-16T15:35:13.716Z",
+    "nextCheckAt": 1789573213716,
     "intervalSeconds": 300,
     "message": ""
   }

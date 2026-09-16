@@ -296,9 +296,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-16T11:44:12.728Z",
-      "lastSuccessAt": "2026-09-16T11:44:12.728Z",
-      "nextCheckAt": 1789559952728,
+      "checkedAt": "2026-09-16T15:34:41.721Z",
+      "lastSuccessAt": "2026-09-16T15:34:41.721Z",
+      "nextCheckAt": 1789573781721,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -318,6 +318,64 @@
     {
       "id": "xpin",
       "items": [
+        {
+          "id": "xpin:https://www.thexpin.com/p/why-china-rejects-us-ai-rules",
+          "creatorId": "xpin",
+          "title": "China Is Told It’s Behind in AI. Now It’s Being Asked to Slow Down.",
+          "summary": "An analysis of the US-China AI safety debate: why Beijing views American-led slowdown calls as technological containment rather than safety.",
+          "publishedAt": "2026-09-16T14:30:39.000Z",
+          "url": "https://www.thexpin.com/p/why-china-rejects-us-ai-rules",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "差评 X.PIN",
+                "asset": "/assets/identities/creator_xpin.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "科技媒体",
+            "author": {
+              "name": "差评 X.PIN",
+              "asset": "/assets/identities/creator_xpin.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
+        {
+          "id": "xpin:https://www.thexpin.com/p/deepseek-engineer-take-on-ai-warnings",
+          "creatorId": "xpin",
+          "title": "They Quit AI Labs to Warn About the Future. This DeepSeek Engineer Stayed.",
+          "summary": "A DeepSeek developer mourns the end of handwritten code as AI scales, arguing for open-source AI to prevent a dystopian corporate monopoly.",
+          "publishedAt": "2026-09-16T11:45:17.000Z",
+          "url": "https://www.thexpin.com/p/deepseek-engineer-take-on-ai-warnings",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "差评 X.PIN",
+                "asset": "/assets/identities/creator_xpin.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "科技媒体",
+            "author": {
+              "name": "差评 X.PIN",
+              "asset": "/assets/identities/creator_xpin.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "xpin:https://www.thexpin.com/p/weekly-dose-of-china-tech-091426",
           "creatorId": "xpin",
@@ -549,69 +607,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "xpin:https://www.thexpin.com/p/how-china-beat-neuralink-to-market",
-          "creatorId": "xpin",
-          "title": "China Didn't Out-Engineer Neuralink. It Out-Paperworked It.",
-          "summary": "As China approves its first commercial BCI device, learn how its fast-track playbook aims to scale brain implants faster than Neuralink.",
-          "publishedAt": "2026-08-28T16:18:32.000Z",
-          "url": "https://www.thexpin.com/p/how-china-beat-neuralink-to-market",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "差评 X.PIN",
-                "asset": "/assets/identities/creator_xpin.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "科技媒体",
-            "author": {
-              "name": "差评 X.PIN",
-              "asset": "/assets/identities/creator_xpin.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
-        },
-        {
-          "id": "xpin:https://www.thexpin.com/p/is-unitree-robotics-a-bubble",
-          "creatorId": "xpin",
-          "title": "Unitree’s Robots Are Real. China’s Robotics Valuations Are the Problem.",
-          "summary": "Unitree Robotics dominates market share, yet stock volatility highlights speculative risks and the long road to true commercial robot AI.",
-          "publishedAt": "2026-08-26T13:53:00.000Z",
-          "url": "https://www.thexpin.com/p/is-unitree-robotics-a-bubble",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "差评 X.PIN",
-                "asset": "/assets/identities/creator_xpin.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "科技媒体",
-            "author": {
-              "name": "差评 X.PIN",
-              "asset": "/assets/identities/creator_xpin.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-09-16T11:44:12.729Z",
-      "lastSuccessAt": "2026-09-16T11:44:12.729Z",
-      "nextCheckAt": 1789559952729,
+      "checkedAt": "2026-09-16T15:34:41.722Z",
+      "lastSuccessAt": "2026-09-16T15:34:41.722Z",
+      "nextCheckAt": 1789573781722,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -924,9 +924,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-16T11:44:12.730Z",
-      "lastSuccessAt": "2026-09-16T11:44:12.730Z",
-      "nextCheckAt": 1789559952730,
+      "checkedAt": "2026-09-16T15:34:41.723Z",
+      "lastSuccessAt": "2026-09-16T15:34:41.723Z",
+      "nextCheckAt": 1789573781723,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1239,9 +1239,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-16T11:44:13.123Z",
-      "lastSuccessAt": "2026-09-16T11:44:13.123Z",
-      "nextCheckAt": 1789559953123,
+      "checkedAt": "2026-09-16T15:34:42.128Z",
+      "lastSuccessAt": "2026-09-16T15:34:42.128Z",
+      "nextCheckAt": 1789573782128,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1558,9 +1558,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-16T11:44:13.286Z",
-      "lastSuccessAt": "2026-09-16T11:44:13.286Z",
-      "nextCheckAt": 1789559953286,
+      "checkedAt": "2026-09-16T15:34:42.213Z",
+      "lastSuccessAt": "2026-09-16T15:34:42.213Z",
+      "nextCheckAt": 1789573782213,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1878,9 +1878,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-16T11:44:13.533Z",
-      "lastSuccessAt": "2026-09-16T11:44:13.533Z",
-      "nextCheckAt": 1789559953533,
+      "checkedAt": "2026-09-16T15:34:42.219Z",
+      "lastSuccessAt": "2026-09-16T15:34:42.219Z",
+      "nextCheckAt": 1789573782219,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1899,6 +1899,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1789559952728,
+  "nextCheckAt": 1789573781721,
   "refreshing": false
 }
