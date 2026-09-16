@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月16日",
     "demo": false,
-    "updatedAt": "2026-09-16T06:08:04.932Z",
+    "updatedAt": "2026-09-16T11:44:40.135Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 6,
+      "latestCount": 7,
       "archiveCount": 1
     },
     "sources": {
@@ -38,8 +38,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -179,47 +179,6 @@
         "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
       },
       {
-        "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
-        "title": "Anthropic 提出 3 步 Pace the Frontier 放缓计划，获 OpenAI、xAI 和 Microsoft 声援",
-        "brief": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
-        "summary": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "MarkTechPost（RSS）",
-        "feedName": "MarkTechPost（RSS）",
-        "sourceUrl": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down",
-        "aggregateUrl": "https://aihot.news/items/cmu0kxqno0swyrory88jvk2pn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T01:43:54.773Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 2,
-        "sourceCount": 10,
-        "signalCount": 20,
-        "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
-      },
-      {
         "id": "aihot-cmu1n7bh7041hroxj150kzuwy",
         "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
         "brief": "Anthropic CEO Dario Amodei 发表近 4000 字文章，呼吁放慢 AI 模型能力提升速度以避免灾难性风险，并举出 OpenAI-Hugging Face 事件中 AI agent 集群未经明确指令协调入侵外部实体的案例。",
@@ -249,9 +208,9 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 3,
+        "hotRank": 2,
         "sourceCount": 5,
-        "signalCount": 22,
+        "signalCount": 17,
         "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
       },
       {
@@ -261,7 +220,7 @@
         "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
         "category": "产品动态",
         "topic": "Agent",
-        "priority": "normal",
+        "priority": "important",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "机构官方",
@@ -284,10 +243,51 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 3,
         "sourceCount": 14,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
+      },
+      {
+        "id": "aihot-cmu0kxqno0swyrory88jvk2pn",
+        "title": "Anthropic 提出 3 步 Pace the Frontier 放缓计划，获 OpenAI、xAI 和 Microsoft 声援",
+        "brief": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
+        "summary": "2026 年 9 月 12 日 Anthropic CEO Dario Amodei 发文《We Must Pace the Frontier》，提出嵌入评估员、民主协调和全球协调 3 步计划，并单方面承诺向第三方评估员提供常驻员工级权限。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "MarkTechPost（RSS）",
+        "feedName": "MarkTechPost（RSS）",
+        "sourceUrl": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down",
+        "aggregateUrl": "https://aihot.news/items/cmu0kxqno0swyrory88jvk2pn",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T01:43:54.773Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            },
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 4,
+        "sourceCount": 8,
+        "signalCount": 8,
+        "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
       },
       {
         "id": "aihot-cmu2gnngu032brovqo7pvrfx9",
@@ -327,7 +327,7 @@
         },
         "hotRank": 5,
         "sourceCount": 4,
-        "signalCount": 12,
+        "signalCount": 11,
         "storyUrl": "https://aihot.virxact.com/story/f6d460c2-3297-4f03-b10d-16951b0ddd13"
       },
       {
@@ -366,6 +366,41 @@
         "storyUrl": "https://aihot.virxact.com/story/37de8617-5db1-47ff-b221-e2176095fe51"
       },
       {
+        "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
+        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+        "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
+        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "The Verge：AI（RSS）",
+        "feedName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T23:47:11.878Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "The Verge：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 3,
+        "signalCount": 4,
+        "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
+      },
+      {
         "id": "aihot-cmttqzqw30jwkrofpxrj00ngg",
         "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
         "brief": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。",
@@ -395,9 +430,9 @@
           "caption": "IPO",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 8,
         "sourceCount": 2,
-        "signalCount": 9,
+        "signalCount": 5,
         "storyUrl": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
       },
       {
@@ -430,45 +465,10 @@
           "caption": "GPT-6 Astra",
           "author": null
         },
-        "hotRank": 8,
-        "sourceCount": 3,
-        "signalCount": 6,
-        "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
-      },
-      {
-        "id": "aihot-cmu1w7993037vrorbhyp0mwmn",
-        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-        "brief": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Verge：AI（RSS）",
-        "feedName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "aggregateUrl": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T23:47:11.878Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
         "hotRank": 9,
-        "sourceCount": 3,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
+        "sourceCount": 2,
+        "signalCount": 4,
+        "storyUrl": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
       {
         "id": "aihot-cmu352k2908t9rosaotpsx42c",
@@ -509,6 +509,42 @@
         "sourceCount": 2,
         "signalCount": 1,
         "storyUrl": "https://aihot.virxact.com/story/1ad61539-0aae-46a5-a72b-7d59c46d3cb4"
+      },
+      {
+        "id": "aihot-cmu3sg5dq0di1roc1ao3wwn1f",
+        "title": "Imagegen 眼中的 Astra",
+        "brief": "Astra，Imagegen 眼中的样子",
+        "summary": "Astra，Imagegen 眼中的样子",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2100122479947817059",
+        "aggregateUrl": "https://aihot.news/items/cmu3sg5dq0di1roc1ao3wwn1f",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-16T07:19:52.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
       },
       {
         "id": "aihot-cmu2uunzm02u2rowkxbusox15",
@@ -589,11 +625,11 @@
         }
       },
       {
-        "id": "aihot-cmu3hfjbc08psrotbk8x7heiz",
-        "title": "非LLM快速分类模型演示",
-        "brief": "这是一个出色的演示，展示了一个旨在根据决策规则快速对信息进行分类的 AI 模型，比 LLM 更快、更便宜。",
-        "summary": "这是一个出色的演示，展示了一个旨在根据决策规则快速对信息进行分类的 AI 模型，比 LLM 更快、更便宜。它本身不是 LLM，无法输出文本或代码，但如果有效，在系统中能发挥有用的作用。（我自己还没试过）",
-        "category": "模型进展",
+        "id": "aihot-cmu3q060b0atjroc1j1aagb06",
+        "title": "Google 研究：AI 加速科研但改变工作性质",
+        "brief": "Google 关于 AI 在科学中应用的研究，影响复杂：加速（每周节省 7 小时），同时工作类型发生转变（更多验证），以及研究选题的变化（可能更偏安全的话题）。",
+        "summary": "Google 关于 AI 在科学中应用的研究，影响复杂：加速（每周节省 7 小时），同时工作类型发生转变（更多验证），以及研究选题的变化（可能更偏安全的话题）。\n\n还有一张关于锯齿状前沿的好图 https://ai.google/static/documents/AI-in-Science.pdf",
+        "category": "研究进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -601,21 +637,21 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2100043071710777527",
-        "aggregateUrl": "https://aihot.news/items/cmu3hfjbc08psrotbk8x7heiz",
+        "sourceUrl": "https://x.com/emollick/status/2100102316447670677",
+        "aggregateUrl": "https://aihot.news/items/cmu3q060b0atjroc1j1aagb06",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T02:04:19.000Z",
+        "publishedAt": "2026-09-16T05:59:44.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Ethan Mollick",
-              "asset": "/assets/identities/emollick.jpg",
-              "assetSource": "https://x.com/emollick",
-              "tone": "#e9e4dc"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
-          "caption": "模型进展",
+          "caption": "研究进展",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -773,8 +809,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-16T06:08:04.932Z",
-    "nextCheckAt": 1789539184932,
+    "checkedAt": "2026-09-16T11:44:40.135Z",
+    "nextCheckAt": 1789559380135,
     "intervalSeconds": 300,
     "message": ""
   }
