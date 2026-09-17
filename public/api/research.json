@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-17T00:19:15.407Z",
-      "lastSuccessAt": "2026-09-17T00:19:15.407Z",
-      "nextCheckAt": 1789607955407,
+      "checkedAt": "2026-09-17T05:00:32.869Z",
+      "lastSuccessAt": "2026-09-17T05:00:32.869Z",
+      "nextCheckAt": 1789624832869,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-17T05:00:32.870Z",
+      "lastSuccessAt": "2026-09-17T05:00:32.870Z",
+      "nextCheckAt": 1789624832870,
       "status": "ok",
-      "nextCheckAt": 1789607955409,
-      "checkedAt": "2026-09-17T00:19:15.409Z",
-      "lastSuccessAt": "2026-09-17T00:19:15.409Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-17T00:19:15.410Z",
-      "lastSuccessAt": "2026-09-17T00:19:15.410Z",
-      "nextCheckAt": 1789607955410,
+      "checkedAt": "2026-09-17T05:00:32.870Z",
+      "lastSuccessAt": "2026-09-17T05:00:32.870Z",
+      "nextCheckAt": 1789624832870,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-17T00:19:15.733Z",
-      "lastSuccessAt": "2026-09-17T00:19:15.733Z",
-      "nextCheckAt": 1789607955733,
       "status": "ok",
+      "nextCheckAt": 1789624833113,
+      "checkedAt": "2026-09-17T05:00:33.113Z",
+      "lastSuccessAt": "2026-09-17T05:00:33.113Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789607955407,
+  "nextCheckAt": 1789624832869,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6465714.html",
+      "title": "大模型的进步，为什么越来越难衡量了？",
+      "summary": "25位菲尔兹奖得主罕见联名警告：AI公司正将数学难题变成刷榜工具，伤害数学研究本身。从基准污染到智能体绕过评测，传统评测体系已濒临失效。当榜单分数无法体现真实能力，我们该如何衡量智能？本文深度剖析评测危机与AI公司的新探索。 近期，数学家陶哲轩在个人博客上发布了一封罕见的公开信。 共同签署的还有彼得·舒尔策、邓煜、许埈珥等另外 24 位菲尔兹奖得主。 数学家们承认，大模型在最近几个月取得明显进步，已经解决多个数学领域的重要问题。 紧接着",
+      "publishedAt": "2026-09-17T03:00:38.000Z",
+      "url": "https://www.woshipm.com/ai/6465714.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6465714.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "25位菲尔兹奖得主罕见联名警告：AI公司正将数学难题变成刷榜工具，伤害数学研究本身。从基准污染到智能体绕过评测，传统评测体系已濒临失效。当榜单分数无法体现真实能力，我们该如何衡量智能？本文深度剖析评测危机与AI公司的新探索。 近期，数学家陶哲轩在个人博客上发布了一封罕见的公开信。 共同签署的还有彼得·舒尔策、邓煜、许埈珥等另外 24 位菲尔兹奖得主。 数学家们承认，大模型在最近几个月取得明显进步，已经解决多个数学领域的重要问题。 紧接着",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6465645.html",
+      "title": "Buddy 应用，还是自研Agent？",
+      "summary": "从一家HR软件公司三十人AI团队自研Agent却没人用的案例出发，文章对比Buddy应用与自研Agent两条路线，讨论行业软件公司该如何把多年沉淀的经验拆成AI真正能上手的组件。 先说结论：Buddy 应用不是万能解药，但对多数做行业软件的公司来说，它是眼下性价比最高的第一步。 它真正的价值不是多一个卖货入口，而是逼你把多年攒下的行业经验，拆成 AI 能听懂、能上手的「零件」。这一步做得成，做什么都顺；做不成，做不做 Buddy 应用都",
+      "publishedAt": "2026-09-17T02:56:03.000Z",
+      "url": "https://www.woshipm.com/share/6465645.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6465645.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "从一家HR软件公司三十人AI团队自研Agent却没人用的案例出发，文章对比Buddy应用与自研Agent两条路线，讨论行业软件公司该如何把多年沉淀的经验拆成AI真正能上手的组件。 先说结论：Buddy 应用不是万能解药，但对多数做行业软件的公司来说，它是眼下性价比最高的第一步。 它真正的价值不是多一个卖货入口，而是逼你把多年攒下的行业经验，拆成 AI 能听懂、能上手的「零件」。这一步做得成，做什么都顺；做不成，做不做 Buddy 应用都",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6465649.html",
+      "title": "如何把ERP接进AI Agent？",
+      "summary": "很多企业想把用了多年的ERP接进AIAgent，却发现查个跨模块报表要排期、走个审批要转好几个岗。文章指出不少团队第一步就走错了，并给出让智能体真正进到业务里干活的接入顺序。 很多做企业数字化的朋友会遇到这样一个问题： 如何把自己的ERP接进AI Agent？ ERP用了很多年，数据攒了一大堆，但用起来还是笨。 查个跨模块的报表要找技术排期，走个审批流程要转三四个岗，业务规则改一点就要做二次开发。 AI Agent火了之后，所有人都看到",
+      "publishedAt": "2026-09-17T02:52:17.000Z",
+      "url": "https://www.woshipm.com/ai/6465649.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6465649.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "很多企业想把用了多年的ERP接进AIAgent，却发现查个跨模块报表要排期、走个审批要转好几个岗。文章指出不少团队第一步就走错了，并给出让智能体真正进到业务里干活的接入顺序。 很多做企业数字化的朋友会遇到这样一个问题： 如何把自己的ERP接进AI Agent？ ERP用了很多年，数据攒了一大堆，但用起来还是笨。 查个跨模块的报表要找技术排期，走个审批流程要转三四个岗，业务规则改一点就要做二次开发。 AI Agent火了之后，所有人都看到",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/gateway-credits/",
       "title": "Try new models and services, skip the account setup",
@@ -131,87 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6465483.html",
-      "title": "实测豆包新模型2.1-pro，这次审美和长时间Agent任务都追上第一档了",
-      "summary": "火山方舟把 Seed 模型升到 Doubao-Seed-2.1-pro-0915，1M 上下文配 256k 深度思考，主打 Agent 长时间执行不摆烂。作者用五个真实文件连测，体素樱花岛一次成稿，视觉和手感都上了第一档。 火山方舟最近给Seed模型推了一次大的版本升级。 Doubao-Seed-2.1-pro-0915，直接顶到了1M上下文和256k的深度思考，主打一个Agent长时间执行任务防中途摆烂，还降低了工具幻觉，还能拿视觉理",
-      "publishedAt": "2026-09-16T09:21:14.000Z",
-      "url": "https://www.woshipm.com/ai/6465483.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6465483.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "火山方舟把 Seed 模型升到 Doubao-Seed-2.1-pro-0915，1M 上下文配 256k 深度思考，主打 Agent 长时间执行不摆烂。作者用五个真实文件连测，体素樱花岛一次成稿，视觉和手感都上了第一档。 火山方舟最近给Seed模型推了一次大的版本升级。 Doubao-Seed-2.1-pro-0915，直接顶到了1M上下文和256k的深度思考，主打一个Agent长时间执行任务防中途摆烂，还降低了工具幻觉，还能拿视觉理",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/it/6465348.html",
-      "title": "豆包工作打出“团队Agent”牌，Workbuddy、千问会跟吗？",
-      "summary": "AI办公大战进入白热化阶段，腾讯、阿里、字节纷纷从个人工具转向组织级智能体。飞书8.0与豆包工作伙伴的深度融合，让Agent以独立协作主体身份嵌入团队工作流，而WorkBuddy打通企微、千问嵌入钉钉则走出不同路径。本文深度解析三大玩家的战略布局与产品逻辑，揭示办公AI如何从单点效率工具演变为组织协作的基础设施。 今年夏天，AI办公大战集中升温。腾讯、阿里、字节相继完成旗下产品线的整合收拢，从各自为战的功能迭代，转向以更完整的产品生态参",
-      "publishedAt": "2026-09-16T06:31:02.000Z",
-      "url": "https://www.woshipm.com/it/6465348.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/it/6465348.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "AI办公大战进入白热化阶段，腾讯、阿里、字节纷纷从个人工具转向组织级智能体。飞书8.0与豆包工作伙伴的深度融合，让Agent以独立协作主体身份嵌入团队工作流，而WorkBuddy打通企微、千问嵌入钉钉则走出不同路径。本文深度解析三大玩家的战略布局与产品逻辑，揭示办公AI如何从单点效率工具演变为组织协作的基础设施。 今年夏天，AI办公大战集中升温。腾讯、阿里、字节相继完成旗下产品线的整合收拢，从各自为战的功能迭代，转向以更完整的产品生态参",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/zeroclick",
@@ -332,46 +372,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-      "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。查看全文本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/sing",
-      "publishedAt": "2026-09-14T08:35:27.000Z",
-      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。查看全文本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/sing",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"
     },
     {
