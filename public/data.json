@@ -1,19 +1,19 @@
 {
   "date": "2026年9月18日",
   "demo": false,
-  "updatedAt": "2026-09-17T18:37:55.376Z",
+  "updatedAt": "2026-09-17T21:48:24.067Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
     "status": "success",
     "method": "定时同步公开热点榜",
     "window": "48h 热点榜 + 24h 人物补充",
-    "hotCount": 7,
+    "hotCount": 10,
     "rankingUrl": "https://aihot.virxact.com/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 7,
+    "latestCount": 6,
     "archiveCount": 1
   },
   "sources": {
@@ -37,7 +37,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 8,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -109,8 +109,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -118,7 +118,7 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -136,7 +136,7 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       }
     ]
@@ -208,9 +208,9 @@
         "author": null
       },
       "hotRank": 2,
-      "sourceCount": 10,
+      "sourceCount": 13,
       "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/bfd9b0de-a99a-413b-9cf0-508b0f88af3f"
+      "storyUrl": "https://aihot.virxact.com/story/4cec0a59-6586-4066-b953-13a3c574a006"
     },
     {
       "id": "aihot-cmu5tujnp0jvoroqoq64oqnjr",
@@ -244,7 +244,7 @@
       },
       "hotRank": 3,
       "sourceCount": 5,
-      "signalCount": 1,
+      "signalCount": 3,
       "storyUrl": "https://aihot.virxact.com/story/398df8ad-78bf-4da3-921d-8853b06fe41d"
     },
     {
@@ -283,74 +283,39 @@
       "storyUrl": "https://aihot.virxact.com/story/f8240408-8a78-46cd-aec6-b84ae9499a0e"
     },
     {
-      "id": "aihot-cmu48q7gn0dwtro4wp12lkplz",
-      "title": "Google 发布 Gemini 3.8 Live 与 3.5 Transcribe 实时语音模型",
-      "brief": "Google 在 Gemini API 和 Google AI Studio 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking 语音模型，支持异步函数调用、视觉上下文、97+ 语言和可配置思考，Extended Thinking 版位列 Artificial Analysis 语音到语音榜单第一。",
-      "summary": "Google 在 Gemini API 和 Google AI Studio 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking 语音模型，支持异步函数调用、视觉上下文、97+ 语言和可配置思考，Extended Thinking 版位列 Artificial Analysis 语音到语音榜单第一。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Google AI：DEV 作者专属（RSS）",
-      "feedName": "Google AI：DEV 作者专属（RSS）",
-      "sourceUrl": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
-      "aggregateUrl": "https://aihot.news/items/cmu48q7gn0dwtro4wp12lkplz",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-16T15:13:22.434Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 5,
-      "sourceCount": 8,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
-    },
-    {
-      "id": "aihot-cmu5qsx2y0gpfroqonmogw4sk",
-      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-      "brief": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
-      "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+      "id": "aihot-cmu5z60qg07n0roiq06x24vut",
+      "title": "Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据",
+      "brief": "Anthropic 发布测量框架，公开三项内部指标以帮助外界了解前沿实验室的 AI 开发节奏。",
+      "summary": "Anthropic 发布测量框架，公开三项内部指标以帮助外界了解前沿实验室的 AI 开发节奏。截至 2026 年 8 月，Claude 在 26% 的 Anthropic AI 研发工作中处于主导角色，90% 以上的工作至少达到协作级；内部平台约有 3 万个 Agent，10 亿多次决策中 0.002% 被在线监控拦截；7 月一周内约 6% 的 AI 研发算力用于安全工作。",
       "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "feedName": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "sourceUrl": "https://www.dwarkesh.com/p/noam-brown",
-      "aggregateUrl": "https://aihot.news/items/cmu5qsx2y0gpfroqonmogw4sk",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "feedName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "aggregateUrl": "https://aihot.news/items/cmu5z60qg07n0roiq06x24vut",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T16:27:03.558Z",
+      "publishedAt": "2026-09-17T20:21:17.196Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Dwarkesh Patel：Podcast & Blog（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 6,
-      "sourceCount": 4,
+      "hotRank": 5,
+      "sourceCount": 5,
       "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/ea887e07-c133-4acf-a801-2745b8453053"
+      "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
     },
     {
       "id": "aihot-cmu4574wb09w5ro4w7cdwfm7l",
@@ -382,10 +347,150 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 6,
       "sourceCount": 4,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/2c49e7cf-e54b-499a-8486-ae9dd3f5fbef"
+    },
+    {
+      "id": "aihot-cmu5qsx2y0gpfroqonmogw4sk",
+      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+      "brief": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+      "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "feedName": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "sourceUrl": "https://www.dwarkesh.com/p/noam-brown",
+      "aggregateUrl": "https://aihot.news/items/cmu5qsx2y0gpfroqonmogw4sk",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-17T16:27:03.558Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Dwarkesh Patel：Podcast & Blog（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 7,
+      "sourceCount": 3,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/ea887e07-c133-4acf-a801-2745b8453053"
+    },
+    {
+      "id": "aihot-cmu605ozy000arok0lxr4x1y8",
+      "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
+      "brief": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+      "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-17T20:49:01.866Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 3,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/69730cd2-c7b6-472b-9f88-0f421cde6021"
+    },
+    {
+      "id": "aihot-cmu5y1e61069vroiq1klswjin",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+      "brief": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是“人类历史上最大规模的劳动窃取”，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成“生存威胁”。",
+      "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是“人类历史上最大规模的劳动窃取”，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成“生存威胁”。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "feedName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "aggregateUrl": "https://aihot.news/items/cmu5y1e61069vroiq1klswjin",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-17T19:49:42.283Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 2,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/28b3a652-09dd-4de7-bd7d-1033467dea7b"
+    },
+    {
+      "id": "aihot-cmu48q7gn0dwtro4wp12lkplz",
+      "title": "Google 发布 Gemini 3.8 Live 与 3.5 Transcribe 实时语音模型",
+      "brief": "Google 在 Gemini API 和 Google AI Studio 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking 语音模型，支持异步函数调用、视觉上下文、97+ 语言和可配置思考，Extended Thinking 版位列 Artificial Analysis 语音到语音榜单第一。",
+      "summary": "Google 在 Gemini API 和 Google AI Studio 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking 语音模型，支持异步函数调用、视觉上下文、97+ 语言和可配置思考，Extended Thinking 版位列 Artificial Analysis 语音到语音榜单第一。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Google AI：DEV 作者专属（RSS）",
+      "feedName": "Google AI：DEV 作者专属（RSS）",
+      "sourceUrl": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
+      "aggregateUrl": "https://aihot.news/items/cmu48q7gn0dwtro4wp12lkplz",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-16T15:13:22.434Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
     },
     {
       "id": "aihot-cmu5ue8070nucroqo6hlokagy",
@@ -430,22 +535,22 @@
       }
     },
     {
-      "id": "aihot-cmu5v5y8x0op4roqo61arsic3",
-      "title": "Claude Projects 重建翁贝托·埃科图书馆",
-      "brief": "我拿到了新版 Claude Projects 的访问权限，完成了一些非常复杂的工作。",
-      "summary": "我拿到了新版 Claude Projects 的访问权限，完成了一些非常复杂的工作。\n\n在这里，我让它梳理所有关于翁贝托·埃科著名的 33，000 册藏书的图片、视频和记录，并尝试以 3D 形式重建这座图书馆，包括书籍的位置。https://eco-library-map.netlify.app/",
+      "id": "aihot-cmu5xb4ha05n6roiq59vebyk9",
+      "title": "Claude Projects 多智能体协作机制解析",
+      "brief": "Claude Projects 能像组织一样调度智能体团队：用户对接主编排智能体，它按需启动专家智能体，并混合使用昂贵与廉价模型。",
+      "summary": "Claude Projects 能像组织一样调度智能体团队：用户对接主编排智能体，它按需启动专家智能体，并混合使用昂贵与廉价模型。Ethan Mollick 让 Fable 挑选历史谜案，系统自动启动研究智能体、开出 18 条独立线程，每条线程再派生更多智能体模拟雪崩、破译密码，并交由写作与怀疑型智能体核查，全程耗时一天。结果仅供娱乐，不保证无误。",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "emollick",
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2100651315617800358",
-      "aggregateUrl": "https://aihot.news/items/cmu5v5y8x0op4roqo61arsic3",
+      "sourceUrl": "https://x.com/emollick/status/2100665801800093959",
+      "aggregateUrl": "https://aihot.news/items/cmu5xb4ha05n6roiq59vebyk9",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T18:21:16.000Z",
+      "publishedAt": "2026-09-17T19:18:50.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -466,11 +571,11 @@
       }
     },
     {
-      "id": "aihot-cmu5thpzp0jj9roqokbyyuq8p",
-      "title": "Jev 或成构建可靠 AI 系统的重要原语",
-      "brief": "好观点！",
-      "summary": "好观点！测试之后，Jev 感觉像是构建可靠 AI 系统的一个重要原语。我认为还有更多原语等待被发现，它们能让基于 LLM 的智能体变得更好、更快。",
-      "category": "产品动态",
+      "id": "aihot-cmu60zs02039brofjvtyo7zqm",
+      "title": "Jev 模型四大智能体应用场景盘点",
+      "brief": "Elvis Saravia 列出 Jev 的四个应用方向：LLM-as-a-Judge 评估、agent harness 路由、通过 SOTA 分类能力实现更智能的子智能体创建以扩展编排、以及增强动态 harness 生成。",
+      "summary": "Elvis Saravia 列出 Jev 的四个应用方向：LLM-as-a-Judge 评估、agent harness 路由、通过 SOTA 分类能力实现更智能的子智能体创建以扩展编排、以及增强动态 harness 生成。前三个在成本和效率上 ROI 极高，他正将 Jev 用作元 harness 的智能路由器，第四个尚在测试但潜力巨大。",
+      "category": "模型进展",
       "topic": "Agent",
       "priority": "normal",
       "platform": "X",
@@ -478,10 +583,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2100638430229357046",
-      "aggregateUrl": "https://aihot.news/items/cmu5thpzp0jj9roqokbyyuq8p",
+      "sourceUrl": "https://x.com/omarsar0/status/2100693601021997193",
+      "aggregateUrl": "https://aihot.news/items/cmu60zs02039brofjvtyo7zqm",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T17:30:04.000Z",
+      "publishedAt": "2026-09-17T21:09:18.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -492,7 +597,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -502,46 +607,10 @@
       }
     },
     {
-      "id": "aihot-cmu4oljgt087srodcqndzco3f",
-      "title": "Sam Altman 预告本周发布推迟至下周",
-      "brief": "我本周最期待发布的那件事，要推迟到下周了，但我觉得值得等！",
-      "summary": "我本周最期待发布的那件事，要推迟到下周了，但我觉得值得等！\n\n【引用 @sama】：本周有大🚢\n\n然后还有 devday\n\n🚢🚢🚢🚢🚢🚢",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2100351958167220547",
-      "aggregateUrl": "https://aihot.news/items/cmu4oljgt087srodcqndzco3f",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-16T22:31:44.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmu4rta8405morokco1e8d4km",
-      "title": "Shopify 上线 ChatGPT Ads，成为 OpenAI 首个商业合作伙伴",
-      "brief": "ChatGPT Ads for Shopify 已上线，Shopify 成为 OpenAI 的首个商业合作伙伴。",
-      "summary": "ChatGPT Ads for Shopify 已上线，Shopify 成为 OpenAI 的首个商业合作伙伴。OpenAI 直接从 Shopify Catalog 拉取商品数据，商家可在 Shopify 后台免费安装、自行设置广告活动和预算，入口为 https://apps.shopify.com/chatgptads。",
+      "id": "aihot-cmu61w8b2047hrofj38dck74z",
+      "title": "OpenAI 推出 Astra for Law 法律工具",
+      "brief": "Astra for Law - 为律所大幅提速的工具与技能。",
+      "summary": "Astra for Law - 为律所大幅提速的工具与技能。\n\n将数据隐私作为核心功能，并在 ChatGPT 中提供 26 个合作伙伴构建的插件和 47 个社区插件，用于法律工作。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -550,10 +619,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Greg Brockman · @gdb",
       "feedName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2100369354319884703",
-      "aggregateUrl": "https://aihot.news/items/cmu4rta8405morokco1e8d4km",
+      "sourceUrl": "https://x.com/gdb/status/2100699190448042165",
+      "aggregateUrl": "https://aihot.news/items/cmu61w8b2047hrofj38dck74z",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-16T23:40:51.000Z",
+      "publishedAt": "2026-09-17T21:31:30.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
