@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月17日",
     "demo": false,
-    "updatedAt": "2026-09-16T22:03:33.133Z",
+    "updatedAt": "2026-09-17T00:19:30.887Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 6,
+      "latestCount": 7,
       "archiveCount": 1
     },
     "sources": {
@@ -38,7 +38,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 2,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 5,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -110,8 +110,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "gdb",
@@ -119,7 +119,7 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 1,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -175,7 +175,7 @@
         },
         "hotRank": 1,
         "sourceCount": 6,
-        "signalCount": 5,
+        "signalCount": 4,
         "storyUrl": "https://aihot.virxact.com/story/f8240408-8a78-46cd-aec6-b84ae9499a0e"
       },
       {
@@ -249,74 +249,39 @@
         "storyUrl": "https://aihot.virxact.com/story/400253f5-96b2-41ad-a94c-388b9accbc55"
       },
       {
-        "id": "aihot-cmu1hrr070dycrocndfax0y0c",
-        "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
-        "brief": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
-        "summary": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
-        "category": "产品动态",
+        "id": "aihot-cmu4nyoxd07n9rodcxgc06f52",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "brief": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
+        "summary": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Tomer Tunguz 博客（VC 分析）",
-        "feedName": "Tomer Tunguz 博客（VC 分析）",
-        "sourceUrl": "https://tomtunguz.com/what-does-the-pause-mean",
-        "aggregateUrl": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
+        "sourceGroup": "机构官方",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+        "aggregateUrl": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T17:03:10.543Z",
+        "publishedAt": "2026-09-16T22:19:52.517Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Tomer Tunguz 博客（VC 分析）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "模型进展",
           "author": null
         },
         "hotRank": 4,
-        "sourceCount": 7,
-        "signalCount": 1,
-        "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
-      },
-      {
-        "id": "aihot-cmu1ju3b00pmgrocnrgwe6e9e",
-        "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
-        "brief": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
-        "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Apple：Newsroom（RSS）",
-        "feedName": "Apple：Newsroom（RSS）",
-        "sourceUrl": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-        "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-14T18:00:58.336Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Apple：Newsroom（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 5,
-        "sourceCount": 2,
-        "signalCount": 9,
-        "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
+        "sourceCount": 5,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/bfd9b0de-a99a-413b-9cf0-508b0f88af3f"
       },
       {
         "id": "aihot-cmu2gnngu032brovqo7pvrfx9",
@@ -354,10 +319,45 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 6,
-        "sourceCount": 4,
+        "hotRank": 5,
+        "sourceCount": 5,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
+      },
+      {
+        "id": "aihot-cmu1ju3b00pmgrocnrgwe6e9e",
+        "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+        "brief": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+        "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "feedName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+        "aggregateUrl": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-14T18:00:58.336Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Apple：Newsroom（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 6,
+        "sourceCount": 2,
+        "signalCount": 4,
+        "storyUrl": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
       },
       {
         "id": "aihot-cmu4574wb09w5ro4w7cdwfm7l",
@@ -505,11 +505,11 @@
         "storyUrl": "https://aihot.virxact.com/story/1ad61539-0aae-46a5-a72b-7d59c46d3cb4"
       },
       {
-        "id": "aihot-cmu4h3hbb0qopro4w4b70q1cs",
-        "title": "ChatGPT 是什么",
-        "brief": "ChatGPT 是什么",
-        "summary": "ChatGPT 是什么",
-        "category": "模型进展",
+        "id": "aihot-cmu4qqpq404jgrokc58fjc2wh",
+        "title": "Sam Altman 预告的重磅发布推迟至下周",
+        "brief": "有时候物理规律是骗不了人的\n\n【@sama】：我原本很期待本周发布的重头戏，将推迟到下周，但我觉得值得等待！",
+        "summary": "有时候物理规律是骗不了人的\n\n【@sama】：我原本很期待本周发布的重头戏，将推迟到下周，但我觉得值得等待！",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -517,10 +517,10 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2100295443620007993",
-        "aggregateUrl": "https://aihot.news/items/cmu4h3hbb0qopro4w4b70q1cs",
+        "sourceUrl": "https://x.com/thsottiaux/status/2100363668051603608",
+        "aggregateUrl": "https://aihot.news/items/cmu4qqpq404jgrokc58fjc2wh",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T18:47:10.000Z",
+        "publishedAt": "2026-09-16T23:18:15.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -531,7 +531,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": {
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
@@ -577,11 +577,11 @@
         }
       },
       {
-        "id": "aihot-cmu4mmikr03jsrodczpno3bob",
-        "title": "小米MiMo-V2.6开源RL训练细节，已投入超100万美元",
-        "brief": "小米MiMo-V2.6正进行大规模RL训练，从三个维度扩展：计算（每步约2B tokens、1568 prompts×16 rollouts、全异步）、环境与harness（多任务智能体RL，单次运行混合多个harness）以及评分计算（组内智能体信用分配，结合测试用例与rubric奖励）。",
-        "summary": "小米MiMo-V2.6正进行大规模RL训练，从三个维度扩展：计算（每步约2B tokens、1568 prompts×16 rollouts、全异步）、环境与harness（多任务智能体RL，单次运行混合多个harness）以及评分计算（组内智能体信用分配，结合测试用例与rubric奖励）。团队表示将在未来数周逐步开源细节，目前投入已超100万美元。",
-        "category": "产品动态",
+        "id": "aihot-cmu4qwtnz04ojrokcavg9jl2o",
+        "title": "Elvis Saravia 点评 NousResearch 用 Hermes Agent 与 1393 个子代理重构百万行 Python",
+        "brief": "NousResearch 于 9 月 2 日让 Hermes Agent 清理约一百万行 Python，动用 1393 个子代理、耗时十九小时，代码库缩小 34.4%，节省近 200 万美元工程时间。",
+        "summary": "NousResearch 于 9 月 2 日让 Hermes Agent 清理约一百万行 Python，动用 1393 个子代理、耗时十九小时，代码库缩小 34.4%，节省近 200 万美元工程时间。Elvis Saravia 转发并点评这是规模较大的子代理运行案例，关注自进化技能与工程复利，指出该方法未必适用于其他 harness，并质疑用更少子代理能否更省地完成。",
+        "category": "实践与观点",
         "topic": "Agent",
         "priority": "normal",
         "platform": "X",
@@ -589,10 +589,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2100337683277173009",
-        "aggregateUrl": "https://aihot.news/items/cmu4mmikr03jsrodczpno3bob",
+        "sourceUrl": "https://x.com/omarsar0/status/2100362936057561114",
+        "aggregateUrl": "https://aihot.news/items/cmu4qwtnz04ojrokcavg9jl2o",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T21:35:00.000Z",
+        "publishedAt": "2026-09-16T23:15:21.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -603,7 +603,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "产品动态",
+          "caption": "Hermes Agent",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
@@ -613,22 +613,58 @@
         }
       },
       {
-        "id": "aihot-cmu4dvqf70ju0ro4wjs09c9lx",
-        "title": "Codex 语音登陆 CarPlay 实测",
-        "brief": "公路旅行用的 Codex 语音：\n\n有人在 CarPlay 里用上了 Codex（语音），体验非常棒。",
-        "summary": "公路旅行用的 Codex 语音：\n\n有人在 CarPlay 里用上了 Codex（语音），体验非常棒。现在可以在公路旅行途中构建东西，而 5 个孩子吵吵闹闹，妻子还问他为什么跟 AI 说话比跟她说话还多。它通过他的 Nightblood iOS 应用运行，为 ChatGPT Voice 赋予了形象、个性，并能完全访问 Codex、他的 Mac 以及所有原生工具。",
+        "id": "aihot-cmu4oljgt087srodcqndzco3f",
+        "title": "Sam Altman 预告本周发布推迟至下周",
+        "brief": "我本周最期待发布的那件事，要推迟到下周了，但我觉得值得等！",
+        "summary": "我本周最期待发布的那件事，要推迟到下周了，但我觉得值得等！\n\n【引用 @sama】：本周有大🚢\n\n然后还有 devday\n\n🚢🚢🚢🚢🚢🚢",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sama",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Sam Altman · @sama",
+        "feedName": "X：Sam Altman (@sama)",
+        "sourceUrl": "https://x.com/sama/status/2100351958167220547",
+        "aggregateUrl": "https://aihot.news/items/cmu4oljgt087srodcqndzco3f",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-16T22:31:44.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Sam Altman",
+              "asset": "/assets/identities/sama.jpg",
+              "assetSource": "https://x.com/sama",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Sam Altman",
+            "asset": "/assets/identities/sama.jpg",
+            "assetSource": "https://x.com/sama",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmu4rta8405morokco1e8d4km",
+        "title": "Shopify 上线 ChatGPT Ads，成为 OpenAI 首个商业合作伙伴",
+        "brief": "ChatGPT Ads for Shopify 已上线，Shopify 成为 OpenAI 的首个商业合作伙伴。",
+        "summary": "ChatGPT Ads for Shopify 已上线，Shopify 成为 OpenAI 的首个商业合作伙伴。OpenAI 直接从 Shopify Catalog 拉取商品数据，商家可在 Shopify 后台免费安装、自行设置广告活动和预算，入口为 https://apps.shopify.com/chatgptads。",
+        "category": "产品动态",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "gdb",
         "sourceGroup": "行业与创业",
         "sourceName": "Greg Brockman · @gdb",
         "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2100272869704097819",
-        "aggregateUrl": "https://aihot.news/items/cmu4dvqf70ju0ro4wjs09c9lx",
+        "sourceUrl": "https://x.com/gdb/status/2100369354319884703",
+        "aggregateUrl": "https://aihot.news/items/cmu4rta8405morokco1e8d4km",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T17:17:27.000Z",
+        "publishedAt": "2026-09-16T23:40:51.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -761,8 +797,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-16T22:03:33.133Z",
-    "nextCheckAt": 1789596513133,
+    "checkedAt": "2026-09-17T00:19:30.887Z",
+    "nextCheckAt": 1789604670887,
     "intervalSeconds": 300,
     "message": ""
   }
