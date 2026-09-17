@@ -2,14 +2,14 @@
   "data": {
     "date": "2026年9月17日",
     "demo": false,
-    "updatedAt": "2026-09-17T09:56:11.217Z",
+    "updatedAt": "2026-09-17T14:51:34.069Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
       "status": "success",
       "method": "定时同步公开热点榜",
       "window": "48h 热点榜 + 24h 人物补充",
-      "hotCount": 6,
+      "hotCount": 5,
       "rankingUrl": "https://aihot.virxact.com/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 7,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 7,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -137,7 +137,7 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 3,
+          "matched": 5,
           "status": "本次收录"
         }
       ]
@@ -174,7 +174,7 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 8,
+        "sourceCount": 9,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/bfd9b0de-a99a-413b-9cf0-508b0f88af3f"
       },
@@ -314,49 +314,9 @@
           "author": null
         },
         "hotRank": 5,
-        "sourceCount": 3,
+        "sourceCount": 4,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/fc1c06e2-09e0-41ee-ab9e-95681f1b49a1"
-      },
-      {
-        "id": "aihot-cmu352k2908t9rosaotpsx42c",
-        "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-        "brief": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。",
-        "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "AravSrinivas",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Aravind Srinivas · @AravSrinivas",
-        "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2099957318935028173",
-        "aggregateUrl": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-15T20:43:13.349Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Perplexity",
-              "asset": "/assets/identities/perplexity_ai.jpg",
-              "assetSource": "https://x.com/perplexity_ai",
-              "tone": "#dcebea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "Aravind Srinivas",
-            "asset": "/assets/identities/aravsrinivas.jpg",
-            "assetSource": "https://x.com/AravSrinivas",
-            "tone": "#e9e4dc"
-          }
-        },
-        "hotRank": 6,
-        "sourceCount": 2,
-        "signalCount": 1,
-        "storyUrl": "https://aihot.virxact.com/story/1ad61539-0aae-46a5-a72b-7d59c46d3cb4"
+        "storyUrl": "https://aihot.virxact.com/story/2c49e7cf-e54b-499a-8486-ae9dd3f5fbef"
       },
       {
         "id": "aihot-cmu4qqpq404jgrokc58fjc2wh",
@@ -575,11 +535,11 @@
         }
       },
       {
-        "id": "aihot-cmu5b6bx006g0ro8tfrmkae5w",
-        "title": "Gowers 谈 AI 时代数学界的挑战",
-        "brief": "@wtgowers 发了一篇平衡的博文，谈当今 AI 世界中数学领域面临的挑战--激励机制、存在的理由以及未来。",
-        "summary": "@wtgowers 发了一篇平衡的博文，谈当今 AI 世界中数学领域面临的挑战--激励机制、存在的理由以及未来。\n\n【引用 @wtgowers】：我写了一篇博文，回应 25 位菲尔兹奖得主签署的关于数学与 AI 的公开信。和《莱顿宣言》一样，我没有签署，但我认同其中大部分内容，也乐见它的存在。\n\nhttps://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-        "category": "产品动态",
+        "id": "aihot-cmu5lw6ey0b1droqoqftpzecn",
+        "title": "Thomas Wolf 评价 OpenAI 模型失准报告框架：朝正确方向迈出一步",
+        "brief": "Thomas Wolf 转发并评价 OpenAI 新发布的模型失准追踪、调查与披露框架，称其为\"朝正确方向迈出的一步\"。",
+        "summary": "Thomas Wolf 转发并评价 OpenAI 新发布的模型失准追踪、调查与披露框架，称其为\"朝正确方向迈出的一步\"。OpenAI 框架设定了公开披露的标准和时间线，并同步发布了过去六个月观察到的六份失准行为报告。",
+        "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -587,10 +547,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2100511942238523847",
-        "aggregateUrl": "https://aihot.news/items/cmu5b6bx006g0ro8tfrmkae5w",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2100582349486305584",
+        "aggregateUrl": "https://aihot.news/items/cmu5lw6ey0b1droqoqftpzecn",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T09:07:27.000Z",
+        "publishedAt": "2026-09-17T13:47:13.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -599,9 +559,15 @@
               "asset": "/assets/identities/thom_wolf.jpg",
               "assetSource": "https://x.com/Thom_Wolf",
               "tone": "#e9e4dc"
+            },
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "实践与观点",
           "author": {
             "name": "Thomas Wolf",
             "asset": "/assets/identities/thom_wolf.jpg",
@@ -651,8 +617,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-17T09:56:11.217Z",
-    "nextCheckAt": 1789639271217,
+    "checkedAt": "2026-09-17T14:51:34.069Z",
+    "nextCheckAt": 1789656994069,
     "intervalSeconds": 300,
     "message": ""
   }

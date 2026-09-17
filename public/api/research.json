@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-17T09:55:58.330Z",
-      "lastSuccessAt": "2026-09-17T09:55:58.330Z",
-      "nextCheckAt": 1789642558330,
+      "checkedAt": "2026-09-17T14:51:21.200Z",
+      "lastSuccessAt": "2026-09-17T14:51:21.200Z",
+      "nextCheckAt": 1789660281200,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-17T09:55:58.331Z",
-      "lastSuccessAt": "2026-09-17T09:55:58.331Z",
-      "nextCheckAt": 1789642558331,
+      "checkedAt": "2026-09-17T14:51:21.201Z",
+      "lastSuccessAt": "2026-09-17T14:51:21.201Z",
+      "nextCheckAt": 1789660281201,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-17T09:55:58.332Z",
-      "lastSuccessAt": "2026-09-17T09:55:58.332Z",
-      "nextCheckAt": 1789642558332,
+      "checkedAt": "2026-09-17T14:51:21.202Z",
+      "lastSuccessAt": "2026-09-17T14:51:21.202Z",
+      "nextCheckAt": 1789660281202,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-17T14:51:21.522Z",
+      "lastSuccessAt": "2026-09-17T14:51:21.522Z",
+      "nextCheckAt": 1789660281522,
       "status": "ok",
-      "nextCheckAt": 1789642558573,
-      "checkedAt": "2026-09-17T09:55:58.573Z",
-      "lastSuccessAt": "2026-09-17T09:55:58.573Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789642558330,
+  "nextCheckAt": 1789660281200,
   "refreshing": false,
   "items": [
     {
@@ -212,46 +212,6 @@
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6465613.html",
-      "title": "腾讯文档「AI工作台」上线，和 WorkBuddy 同源，实测效果惊人",
-      "summary": "腾讯文档上线新版AI工作台，底层Agent由WorkBuddy驱动，可生成PPT、撰写文档、生成表格与网页，并支持数据分析。文章记录了这轮更新在垂直办公任务上的实际效果，也点出了短板。 近日，腾讯文档上线了最新版「AI 工作台」。 Agent底层由WorkBuddy驱动，和WorkBuddy同源。 从任务对话框下的气泡胶囊可知道。 腾讯文档「AI 工作台」，擅长生成 PPT、撰写文档、生成表格、生成网页、进行数据分析等办公任务。 要做专",
-      "publishedAt": "2026-09-17T06:31:26.000Z",
-      "url": "https://www.woshipm.com/ai/6465613.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6465613.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "腾讯文档上线新版AI工作台，底层Agent由WorkBuddy驱动，可生成PPT、撰写文档、生成表格与网页，并支持数据分析。文章记录了这轮更新在垂直办公任务上的实际效果，也点出了短板。 近日，腾讯文档上线了最新版「AI 工作台」。 Agent底层由WorkBuddy驱动，和WorkBuddy同源。 从任务对话框下的气泡胶囊可知道。 腾讯文档「AI 工作台」，擅长生成 PPT、撰写文档、生成表格、生成网页、进行数据分析等办公任务。 要做专",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
