@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-18T11:44:33.407Z",
-      "lastSuccessAt": "2026-09-18T11:44:33.407Z",
-      "nextCheckAt": 1789735473407,
+      "checkedAt": "2026-09-18T15:12:12.673Z",
+      "lastSuccessAt": "2026-09-18T15:12:12.673Z",
+      "nextCheckAt": 1789747932673,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-18T11:44:33.409Z",
-      "lastSuccessAt": "2026-09-18T11:44:33.409Z",
-      "nextCheckAt": 1789735473409,
       "status": "ok",
+      "nextCheckAt": 1789747932675,
+      "checkedAt": "2026-09-18T15:12:12.675Z",
+      "lastSuccessAt": "2026-09-18T15:12:12.675Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-18T11:44:33.409Z",
-      "lastSuccessAt": "2026-09-18T11:44:33.409Z",
-      "nextCheckAt": 1789735473409,
+      "checkedAt": "2026-09-18T15:12:12.675Z",
+      "lastSuccessAt": "2026-09-18T15:12:12.675Z",
+      "nextCheckAt": 1789747932675,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789735473721,
-      "checkedAt": "2026-09-18T11:44:33.721Z",
-      "lastSuccessAt": "2026-09-18T11:44:33.721Z",
+      "nextCheckAt": 1789747932956,
+      "checkedAt": "2026-09-18T15:12:12.956Z",
+      "lastSuccessAt": "2026-09-18T15:12:12.956Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789735473407,
+  "nextCheckAt": 1789747932673,
   "refreshing": false,
   "items": [
     {
@@ -214,15 +214,15 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/mantle-f52466f6-7b01-4f3c-b7de-a2e445d1f2e3",
-      "title": "Mantle",
-      "summary": "Open-source service runtime configured by agents via WebMCP",
-      "publishedAt": "2026-09-18T03:44:43.000Z",
-      "url": "https://www.producthunt.com/products/mantle-f52466f6-7b01-4f3c-b7de-a2e445d1f2e3",
+      "id": "ph:https://www.producthunt.com/products/citizen404",
+      "title": "citizen404",
+      "summary": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+      "publishedAt": "2026-09-18T07:00:29.000Z",
+      "url": "https://www.producthunt.com/products/citizen404",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -242,11 +242,91 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/mantle-f52466f6-7b01-4f3c-b7de-a2e445d1f2e3",
+      "sourceUrl": "https://www.producthunt.com/products/citizen404",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Open-source service runtime configured by agents via WebMCP",
+      "brief": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/aexgrid",
+      "title": "AEXGrid",
+      "summary": "Coordinate AI agents. From anywhere.",
+      "publishedAt": "2026-09-18T05:42:36.000Z",
+      "url": "https://www.producthunt.com/products/aexgrid",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/aexgrid",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Coordinate AI agents. From anywhere.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "title": "Wombo",
+      "summary": "AI game studio for 2D graphics assets, sounds, and sfx",
+      "publishedAt": "2026-09-18T05:40:02.000Z",
+      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI game studio for 2D graphics assets, sounds, and sfx",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -291,86 +371,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/polishory",
-      "title": "Polishory",
-      "summary": "Get a clear plan to improve your website and prevent AI slop",
-      "publishedAt": "2026-09-18T03:00:06.000Z",
-      "url": "https://www.producthunt.com/products/polishory",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/polishory",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Get a clear plan to improve your website and prevent AI slop",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/ai-class-by-kanary",
-      "title": "AI Class by Kanary",
-      "summary": "Knight or Ninja? Your Codex & Claude logs decide",
-      "publishedAt": "2026-09-18T02:00:46.000Z",
-      "url": "https://www.producthunt.com/products/ai-class-by-kanary",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/ai-class-by-kanary",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Knight or Ninja? Your Codex & Claude logs decide",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
