@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-18T18:32:02.421Z",
-      "lastSuccessAt": "2026-09-18T18:32:02.421Z",
-      "nextCheckAt": 1789759922421,
+      "checkedAt": "2026-09-18T21:10:40.864Z",
+      "lastSuccessAt": "2026-09-18T21:10:40.864Z",
+      "nextCheckAt": 1789769440864,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1789759922422,
-      "checkedAt": "2026-09-18T18:32:02.422Z",
-      "lastSuccessAt": "2026-09-18T18:32:02.422Z",
+      "nextCheckAt": 1789769440865,
+      "checkedAt": "2026-09-18T21:10:40.865Z",
+      "lastSuccessAt": "2026-09-18T21:10:40.865Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-18T18:32:02.423Z",
-      "lastSuccessAt": "2026-09-18T18:32:02.423Z",
-      "nextCheckAt": 1789759922423,
+      "checkedAt": "2026-09-18T21:10:40.866Z",
+      "lastSuccessAt": "2026-09-18T21:10:40.866Z",
+      "nextCheckAt": 1789769440866,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-18T18:32:02.885Z",
-      "lastSuccessAt": "2026-09-18T18:32:02.885Z",
-      "nextCheckAt": 1789759922885,
       "status": "ok",
+      "nextCheckAt": 1789769441227,
+      "checkedAt": "2026-09-18T21:10:41.227Z",
+      "lastSuccessAt": "2026-09-18T21:10:41.227Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789759922421,
+  "nextCheckAt": 1789769440864,
   "refreshing": false,
   "items": [
     {
@@ -294,6 +294,46 @@
       "priority": "normal"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/aexgrid",
+      "title": "AEXGrid",
+      "summary": "Coordinate AI agents. From anywhere.",
+      "publishedAt": "2026-09-18T05:42:36.000Z",
+      "url": "https://www.producthunt.com/products/aexgrid",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/aexgrid",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Coordinate AI agents. From anywhere.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
       "id": "ph:https://www.producthunt.com/products/wombo-the-ai-game-studio",
       "title": "Wombo",
       "summary": "AI game studio for 2D graphics assets, sounds, and sfx",
@@ -374,46 +414,6 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/polishory",
-      "title": "Polishory",
-      "summary": "Get a clear plan to improve your website and prevent AI slop",
-      "publishedAt": "2026-09-18T03:00:06.000Z",
-      "url": "https://www.producthunt.com/products/polishory",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/polishory",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Get a clear plan to improve your website and prevent AI slop",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "n8n:https://blog.n8n.io/gateway-credits/",
       "title": "Try new models and services, skip the account setup",
       "summary": "Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential",
@@ -488,7 +488,7 @@
       "platform": "英文官方博客",
       "brief": "Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
