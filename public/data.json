@@ -1,7 +1,7 @@
 {
   "date": "2026年9月18日",
   "demo": false,
-  "updatedAt": "2026-09-18T01:35:28.427Z",
+  "updatedAt": "2026-09-18T06:35:46.462Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 8,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -136,7 +136,7 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       }
     ]
@@ -283,6 +283,41 @@
       "storyUrl": "https://aihot.virxact.com/story/69730cd2-c7b6-472b-9f88-0f421cde6021"
     },
     {
+      "id": "aihot-cmu5smj860insroqokcuh0u9v",
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+      "brief": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+      "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+      "category": "模型进展",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Qwen：Blog Retrieval（API）",
+      "feedName": "Qwen：Blog Retrieval（API）",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "aggregateUrl": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-17T17:18:08.568Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Qwen：Blog Retrieval（API）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 5,
+      "sourceCount": 7,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/819c8ab5-d20e-4b40-808e-5ae0c245f89f"
+    },
+    {
       "id": "aihot-cmu648ktv0a7hrofjha0nxsmr",
       "title": "Meta 发布 muse for Mac，智能体可直接操作电脑上的文件、消息和日程",
       "brief": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。",
@@ -312,10 +347,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 5,
+      "hotRank": 6,
       "sourceCount": 5,
       "signalCount": 1,
       "storyUrl": "https://aihot.virxact.com/story/6f062228-275f-4258-8b66-2e8fb36b16f3"
+    },
+    {
+      "id": "aihot-cmu6h4gdc0oh9rofjwfl983n6",
+      "title": "Hacktron 披露利用 libheif 漏洞与 OpenAI SSO 缺陷接管员工 ChatGPT 账户的过程",
+      "brief": "Hacktron 团队于 2026 年 7 月 25 日在 72 小时内串联两个漏洞，通过 community.openai.com 论坛的 libheif 堆缓冲区溢出实现 RCE，再借 OpenAI SSO 缺陷接管员工 ChatGPT/Codex 账户，并用员工 Codex 在 OpenAI 内部 monorepo 打开 PR #1186742 作为证明。",
+      "summary": "Hacktron 团队于 2026 年 7 月 25 日在 72 小时内串联两个漏洞，通过 community.openai.com 论坛的 libheif 堆缓冲区溢出实现 RCE，再借 OpenAI SSO 缺陷接管员工 ChatGPT/Codex 账户，并用员工 Codex 在 OpenAI 内部 monorepo 打开 PR #1186742 作为证明。",
+      "category": "模型进展",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Hacker News：AI 热帖",
+      "feedName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
+      "aggregateUrl": "https://aihot.news/items/cmu6h4gdc0oh9rofjwfl983n6",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-18T04:43:55.447Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 7,
+      "sourceCount": 4,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/265b4403-343d-418b-b8cc-2e6d8de7f906"
     },
     {
       "id": "aihot-cmu46kvju0bdsro4w0sonrv7q",
@@ -347,7 +417,7 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 6,
+      "hotRank": 8,
       "sourceCount": 6,
       "signalCount": 2,
       "storyUrl": "https://aihot.virxact.com/story/f8240408-8a78-46cd-aec6-b84ae9499a0e"
@@ -382,7 +452,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 9,
       "sourceCount": 5,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
@@ -422,80 +492,10 @@
           "tone": "#e9e4dc"
         }
       },
-      "hotRank": 8,
+      "hotRank": 10,
       "sourceCount": 4,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/63715edd-a37c-4e71-ac57-1002e04dc805"
-    },
-    {
-      "id": "aihot-cmu5y1e61069vroiq1klswjin",
-      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-      "brief": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是“人类历史上最大规模的劳动窃取”，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成“生存威胁”。",
-      "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是“人类历史上最大规模的劳动窃取”，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成“生存威胁”。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "feedName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "aggregateUrl": "https://aihot.news/items/cmu5y1e61069vroiq1klswjin",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T19:49:42.283Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 9,
-      "sourceCount": 3,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/28b3a652-09dd-4de7-bd7d-1033467dea7b"
-    },
-    {
-      "id": "aihot-cmu606l6o02m3rok0vzsehmvd",
-      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-      "brief": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。",
-      "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
-      "category": "模型进展",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "feedName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "aggregateUrl": "https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T20:49:43.252Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 10,
-      "sourceCount": 2,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/af1a11db-87e2-4c4b-a23e-6dd9c4ce4c8f"
     },
     {
       "id": "aihot-cmu5ue8070nucroqo6hlokagy",
@@ -540,10 +540,10 @@
       }
     },
     {
-      "id": "aihot-cmu693hrc0fk9rofji5ns9fyw",
-      "title": "Epoch AI 推出基准审查计划",
-      "brief": "Epoch 持续做着 AI 领域最优秀的公共基准测试工作之一。",
-      "summary": "Epoch 持续做着 AI 领域最优秀的公共基准测试工作之一。这很有帮助（也告诉我们基准测试的现状有多糟糕，以及我们最爱的一些基准有多差）\n\nEpoch AI 推出 Benchmark Reviews：一项审查 AI 基准测试的新计划。首批覆盖 15 个基准：4 个通过验证，9 个存在缺陷，2 个信息不足无法审查。",
+      "id": "aihot-cmu6cb7qi0j7vrofjzlj79ig0",
+      "title": "Claude 挑战伏尼契手稿并制作影片",
+      "brief": "嘿 Claude，\"挑一个让你着迷的问题或谜团，尽你所能去解决它，并做一部我们可以在社交媒体上分享的影片\"\n\n于是它尝试破解了伏尼契手稿，失败了。",
+      "summary": "嘿 Claude，\"挑一个让你着迷的问题或谜团，尽你所能去解决它，并做一部我们可以在社交媒体上分享的影片\"\n\n于是它尝试破解了伏尼契手稿，失败了。然后它做了这部影片，看起来挺有意思，也是一部不错的讲解。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -552,18 +552,18 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2100744220562673683",
-      "aggregateUrl": "https://aihot.news/items/cmu693hrc0fk9rofji5ns9fyw",
+      "sourceUrl": "https://x.com/emollick/status/2100767116819325141",
+      "aggregateUrl": "https://aihot.news/items/cmu6cb7qi0j7vrofjzlj79ig0",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T00:30:26.000Z",
+      "publishedAt": "2026-09-18T02:01:25.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Ethan Mollick",
-            "asset": "/assets/identities/emollick.jpg",
-            "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "产品动态",

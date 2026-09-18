@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-18T01:35:12.791Z",
-      "lastSuccessAt": "2026-09-18T01:35:12.791Z",
-      "nextCheckAt": 1789698912791,
+      "checkedAt": "2026-09-18T06:35:18.582Z",
+      "lastSuccessAt": "2026-09-18T06:35:18.582Z",
+      "nextCheckAt": 1789716918582,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-18T01:35:12.792Z",
-      "lastSuccessAt": "2026-09-18T01:35:12.792Z",
-      "nextCheckAt": 1789698912792,
+      "checkedAt": "2026-09-18T06:35:18.584Z",
+      "lastSuccessAt": "2026-09-18T06:35:18.584Z",
+      "nextCheckAt": 1789716918584,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-18T01:35:12.793Z",
-      "lastSuccessAt": "2026-09-18T01:35:12.793Z",
-      "nextCheckAt": 1789698912793,
+      "checkedAt": "2026-09-18T06:35:18.585Z",
+      "lastSuccessAt": "2026-09-18T06:35:18.585Z",
+      "nextCheckAt": 1789716918585,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789698912964,
-      "checkedAt": "2026-09-18T01:35:12.964Z",
-      "lastSuccessAt": "2026-09-18T01:35:12.964Z",
+      "nextCheckAt": 1789716918964,
+      "checkedAt": "2026-09-18T06:35:18.964Z",
+      "lastSuccessAt": "2026-09-18T06:35:18.964Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789698912791,
+  "nextCheckAt": 1789716918582,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6465993.html",
-      "title": "实战部署腾讯 Agent 记忆项目：从自动记住到管理团队经验",
-      "summary": "腾讯把Agent记忆做成了可部署的TencentDBAgentMemory，提示词、工具调用与执行结果被分层存下，还能在团队之间共享。文章记录了从环境配置到建团队、配Agent资产的完整部署过程。 Agent 已经能读代码、改文件、跑测试，真正影响连续使用体验的，却是会话结束之后的「失忆」——昨天刚解释过的项目结构，今天还要重新介绍；已经确认过的技术方案，换一个 Agent 又要重新说明。问题明明解决过，下一次遇到类似情况，仍然要从头排",
-      "publishedAt": "2026-09-18T00:47:26.000Z",
-      "url": "https://www.woshipm.com/ai/6465993.html",
+      "id": "woshipm:https://www.woshipm.com/share/6466187.html",
+      "title": "拆完34家AI公司，我发现：模型能力很重要，但模型能力并不直接等于商业能力",
+      "summary": "看完《AI全球商业版图》里 34 家 AI 公司的案例后最大的感受：模型是入场券，真正决定一家公司能不能把技术变成生意的，是它站在产业链的什么位置、解决了什么问题。卖算力、卖模型、卖平台、卖消费品，赚钱难度完全不同。 看完《AI全球商业版图》这本书，学到了不少，过去我一直以为，AI竞争就是模型竞赛，比如谁参数更大、谁榜单更高、谁更接近AGI（通用人工智能），谁就更有机会赢。 但这本书把海外19家、国内15家，一共34家AI公司放在一起分",
+      "publishedAt": "2026-09-18T05:49:51.000Z",
+      "url": "https://www.woshipm.com/share/6466187.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,16 +122,136 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6465993.html",
+      "sourceUrl": "https://www.woshipm.com/share/6466187.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "腾讯把Agent记忆做成了可部署的TencentDBAgentMemory，提示词、工具调用与执行结果被分层存下，还能在团队之间共享。文章记录了从环境配置到建团队、配Agent资产的完整部署过程。 Agent 已经能读代码、改文件、跑测试，真正影响连续使用体验的，却是会话结束之后的「失忆」——昨天刚解释过的项目结构，今天还要重新介绍；已经确认过的技术方案，换一个 Agent 又要重新说明。问题明明解决过，下一次遇到类似情况，仍然要从头排",
+      "brief": "看完《AI全球商业版图》里 34 家 AI 公司的案例后最大的感受：模型是入场券，真正决定一家公司能不能把技术变成生意的，是它站在产业链的什么位置、解决了什么问题。卖算力、卖模型、卖平台、卖消费品，赚钱难度完全不同。 看完《AI全球商业版图》这本书，学到了不少，过去我一直以为，AI竞争就是模型竞赛，比如谁参数更大、谁榜单更高、谁更接近AGI（通用人工智能），谁就更有机会赢。 但这本书把海外19家、国内15家，一共34家AI公司放在一起分",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6466175.html",
+      "title": "四大前沿AI模型72小时内密集发布：产品经理该盯成本曲线",
+      "summary": "72 小时内 Anthropic、Google、Meta、OpenAI 四家接连发布前沿模型，真正的信号不是跑分，而是成本曲线正在加速下行：Claude 缓存读取价砍掉 75%。盯住成本曲线、在它下行的时候做加法才有意义。 2026年9月的第一周，可能是AI行业有史以来最密集的一次模型发布潮。 72小时内，四家头部厂商先后推出前沿大模型：Anthropic的Claude Fable 5.1、Google的Gemini 3.8 Flash",
+      "publishedAt": "2026-09-18T03:50:40.000Z",
+      "url": "https://www.woshipm.com/ai/6466175.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6466175.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "72 小时内 Anthropic、Google、Meta、OpenAI 四家接连发布前沿模型，真正的信号不是跑分，而是成本曲线正在加速下行：Claude 缓存读取价砍掉 75%。盯住成本曲线、在它下行的时候做加法才有意义。 2026年9月的第一周，可能是AI行业有史以来最密集的一次模型发布潮。 72小时内，四家头部厂商先后推出前沿大模型：Anthropic的Claude Fable 5.1、Google的Gemini 3.8 Flash",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "sspai:https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "title": "让 Agent 读懂你的身体：数据获取篇",
+      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...查看全文本文为会员文章，出自<",
+      "publishedAt": "2026-09-18T03:19:13.000Z",
+      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...查看全文本文为会员文章，出自<",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6464241.html",
+      "title": "如果 ChatGPT 发现用户可能伤人，到底该不该报警？",
+      "summary": "30 名原告在加州联邦法院起诉 OpenAI 和 Sam Altman：加拿大 Tumbler Ridge 校园枪击案发生前 8 个月，ChatGPT 已经发现并封禁了该用户的账号，却判断风险未达到「迫近且可信」的标准，最终没有报警。 今天想和大家分享和讨论一个“社会新闻”，想借此和大家讨论一下 AI 的产品边界问题。 OpenAI 最近遇到了一个比 AI 会不会抢工作更难回答的问题： 如果 ChatGPT 发现一个用户可能伤害别人，它",
+      "publishedAt": "2026-09-18T02:49:38.000Z",
+      "url": "https://www.woshipm.com/ai/6464241.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6464241.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "30 名原告在加州联邦法院起诉 OpenAI 和 Sam Altman：加拿大 Tumbler Ridge 校园枪击案发生前 8 个月，ChatGPT 已经发现并封禁了该用户的账号，却判断风险未达到「迫近且可信」的标准，最终没有报警。 今天想和大家分享和讨论一个“社会新闻”，想借此和大家讨论一下 AI 的产品边界问题。 OpenAI 最近遇到了一个比 AI 会不会抢工作更难回答的问题： 如果 ChatGPT 发现一个用户可能伤害别人，它",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/s-roll",
@@ -171,7 +291,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
@@ -211,7 +331,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/amy-by-jellyfish",
