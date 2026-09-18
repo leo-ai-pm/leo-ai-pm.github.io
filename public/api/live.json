@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月18日",
     "demo": false,
-    "updatedAt": "2026-09-18T06:35:46.462Z",
+    "updatedAt": "2026-09-18T11:44:52.002Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 6,
+      "latestCount": 7,
       "archiveCount": 1
     },
     "sources": {
@@ -137,152 +137,12 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 3,
+          "matched": 1,
           "status": "本次收录"
         }
       ]
     },
     "items": [
-      {
-        "id": "aihot-cmu4nyoxd07n9rodcxgc06f52",
-        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-        "brief": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
-        "summary": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "lead",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
-        "aggregateUrl": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T22:19:52.517Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
-        "hotRank": 1,
-        "sourceCount": 13,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/4cec0a59-6586-4066-b953-13a3c574a006"
-      },
-      {
-        "id": "aihot-cmu4e3eba0k1oro4wqa10kw30",
-        "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs、Slides",
-        "brief": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、技能和连接器。",
-        "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、技能和连接器。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News：AI 热帖",
-        "feedName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://claude.com/blog/cowork-is-now-claude",
-        "aggregateUrl": "https://aihot.news/items/cmu4e3eba0k1oro4wqa10kw30",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-16T17:43:36.312Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 2,
-        "sourceCount": 10,
-        "signalCount": 9,
-        "storyUrl": "https://aihot.virxact.com/story/07ad0f8b-6577-4a5c-ae7c-198d6b3864d0"
-      },
-      {
-        "id": "aihot-cmu5tujnp0jvoroqoq64oqnjr",
-        "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-        "brief": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-        "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Claude：Blog（网页）",
-        "feedName": "Claude：Blog（网页）",
-        "sourceUrl": "https://claude.com/blog/projects-redesigned",
-        "aggregateUrl": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T17:52:08.951Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "Claude Code",
-          "author": null
-        },
-        "hotRank": 3,
-        "sourceCount": 5,
-        "signalCount": 3,
-        "storyUrl": "https://aihot.virxact.com/story/398df8ad-78bf-4da3-921d-8853b06fe41d"
-      },
-      {
-        "id": "aihot-cmu605ozy000arok0lxr4x1y8",
-        "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
-        "brief": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
-        "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-        "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T20:49:01.866Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 4,
-        "sourceCount": 3,
-        "signalCount": 2,
-        "storyUrl": "https://aihot.virxact.com/story/69730cd2-c7b6-472b-9f88-0f421cde6021"
-      },
       {
         "id": "aihot-cmu5smj860insroqokcuh0u9v",
         "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
@@ -290,7 +150,7 @@
         "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
         "category": "模型进展",
         "topic": "Agent",
-        "priority": "normal",
+        "priority": "lead",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -313,45 +173,150 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 5,
-        "sourceCount": 7,
+        "hotRank": 1,
+        "sourceCount": 9,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/819c8ab5-d20e-4b40-808e-5ae0c245f89f"
       },
       {
-        "id": "aihot-cmu648ktv0a7hrofjha0nxsmr",
-        "title": "Meta 发布 muse for Mac，智能体可直接操作电脑上的文件、消息和日程",
-        "brief": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。",
-        "summary": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。用户可控制其访问权限，执行敏感操作前会先询问。下载地址：https://ai.meta.com/muse/download/",
+        "id": "aihot-cmu605ozy000arok0lxr4x1y8",
+        "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
+        "brief": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+        "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
         "category": "产品动态",
         "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "alexandr_wang",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "feedName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "sourceUrl": "https://x.com/alexandr_wang/status/2100714048329580957",
-        "aggregateUrl": "https://aihot.news/items/cmu648ktv0a7hrofjha0nxsmr",
+        "priority": "important",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+        "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T22:43:13.318Z",
+        "publishedAt": "2026-09-17T20:49:01.866Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 6,
+        "hotRank": 2,
+        "sourceCount": 7,
+        "signalCount": 3,
+        "storyUrl": "https://aihot.virxact.com/story/69730cd2-c7b6-472b-9f88-0f421cde6021"
+      },
+      {
+        "id": "aihot-cmu4nyoxd07n9rodcxgc06f52",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "brief": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
+        "summary": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "important",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+        "aggregateUrl": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-16T22:19:52.517Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 3,
+        "sourceCount": 13,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/4cec0a59-6586-4066-b953-13a3c574a006"
+      },
+      {
+        "id": "aihot-cmu4e3eba0k1oro4wqa10kw30",
+        "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs、Slides",
+        "brief": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、技能和连接器。",
+        "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、技能和连接器。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://claude.com/blog/cowork-is-now-claude",
+        "aggregateUrl": "https://aihot.news/items/cmu4e3eba0k1oro4wqa10kw30",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-16T17:43:36.312Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 4,
+        "sourceCount": 10,
+        "signalCount": 9,
+        "storyUrl": "https://aihot.virxact.com/story/07ad0f8b-6577-4a5c-ae7c-198d6b3864d0"
+      },
+      {
+        "id": "aihot-cmu5tujnp0jvoroqoq64oqnjr",
+        "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
+        "brief": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
+        "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Claude：Blog（网页）",
+        "feedName": "Claude：Blog（网页）",
+        "sourceUrl": "https://claude.com/blog/projects-redesigned",
+        "aggregateUrl": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-17T17:52:08.951Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "Claude Code",
+          "author": null
+        },
+        "hotRank": 5,
         "sourceCount": 5,
-        "signalCount": 1,
-        "storyUrl": "https://aihot.virxact.com/story/6f062228-275f-4258-8b66-2e8fb36b16f3"
+        "signalCount": 3,
+        "storyUrl": "https://aihot.virxact.com/story/398df8ad-78bf-4da3-921d-8853b06fe41d"
       },
       {
         "id": "aihot-cmu6h4gdc0oh9rofjwfl983n6",
@@ -383,10 +348,45 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 7,
-        "sourceCount": 4,
+        "hotRank": 6,
+        "sourceCount": 5,
         "signalCount": 1,
         "storyUrl": "https://aihot.virxact.com/story/265b4403-343d-418b-b8cc-2e6d8de7f906"
+      },
+      {
+        "id": "aihot-cmu648ktv0a7hrofjha0nxsmr",
+        "title": "Meta 发布 muse for Mac，智能体可直接操作电脑上的文件、消息和日程",
+        "brief": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。",
+        "summary": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。用户可控制其访问权限，执行敏感操作前会先询问。下载地址：https://ai.meta.com/muse/download/",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "alexandr_wang",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "feedName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "sourceUrl": "https://x.com/alexandr_wang/status/2100714048329580957",
+        "aggregateUrl": "https://aihot.news/items/cmu648ktv0a7hrofjha0nxsmr",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-17T22:43:13.318Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 5,
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/6f062228-275f-4258-8b66-2e8fb36b16f3"
       },
       {
         "id": "aihot-cmu46kvju0bdsro4w0sonrv7q",
@@ -419,7 +419,7 @@
           "author": null
         },
         "hotRank": 8,
-        "sourceCount": 6,
+        "sourceCount": 8,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/f8240408-8a78-46cd-aec6-b84ae9499a0e"
       },
@@ -454,27 +454,27 @@
           "author": null
         },
         "hotRank": 9,
-        "sourceCount": 5,
+        "sourceCount": 6,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
+        "storyUrl": "https://aihot.virxact.com/story/426d681a-7d7b-4e7f-9110-b7aa3a3eedba"
       },
       {
-        "id": "aihot-cmu66hcff0ci8rofjhs1az9qz",
-        "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
-        "brief": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。",
-        "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
-        "category": "模型进展",
+        "id": "aihot-cmu6tzgek0bcnrowkqeq9cxet",
+        "title": "纽约时报诉 OpenAI 与微软案新解封文件披露高管承认 AI 抓取是史上最大劳动盗窃",
+        "brief": "纽约时报诉 OpenAI 和微软版权案的解封文件披露，微软高管 Brent Hecht 称 AI 抓取是史上最大劳动盗窃，OpenAI 高管承认聊天机器人对出版商构成生存威胁。",
+        "summary": "纽约时报诉 OpenAI 和微软版权案的解封文件披露，微软高管 Brent Hecht 称 AI 抓取是史上最大劳动盗窃，OpenAI 高管承认聊天机器人对出版商构成生存威胁。文件显示双方曾绕过付费墙抓取内容、剥离版权声明，微软数据显示 Copilot 使纽约时报域名点击率下降最多 93%；Nadella 作证称付费墙内容应获授权，若知情会要求 OpenAI 重新训练模型。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
-        "platform": "X",
-        "authorHandle": "sherwinwu",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Sherwin Wu · @sherwinwu",
-        "feedName": "X：Sherwin Wu（@sherwinwu）",
-        "sourceUrl": "https://x.com/sherwinwu/status/2100730628673065040",
-        "aggregateUrl": "https://aihot.news/items/cmu66hcff0ci8rofjhs1az9qz",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+        "aggregateUrl": "https://aihot.news/items/cmu6tzgek0bcnrowkqeq9cxet",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T23:46:01.000Z",
+        "publishedAt": "2026-09-18T10:43:58.562Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -485,18 +485,13 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "模型进展",
-          "author": {
-            "name": "Sherwin Wu",
-            "asset": "/assets/identities/sherwinwu.jpg",
-            "assetSource": "https://x.com/sherwinwu",
-            "tone": "#e9e4dc"
-          }
+          "caption": "产品动态",
+          "author": null
         },
         "hotRank": 10,
         "sourceCount": 4,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/63715edd-a37c-4e71-ac57-1002e04dc805"
+        "storyUrl": "https://aihot.virxact.com/story/28b3a652-09dd-4de7-bd7d-1033467dea7b"
       },
       {
         "id": "aihot-cmu5ue8070nucroqo6hlokagy",
@@ -536,6 +531,42 @@
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
             "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmu66hcff0ci8rofjhs1az9qz",
+        "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+        "brief": "作者作为当事方宣布上线，并补充了 Excel 和 PowerPoint 用量激增的背景，读者可据此了解 Office 全家桶集成的推进节奏。",
+        "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sherwinwu",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Sherwin Wu · @sherwinwu",
+        "feedName": "X：Sherwin Wu（@sherwinwu）",
+        "sourceUrl": "https://x.com/sherwinwu/status/2100730628673065040",
+        "aggregateUrl": "https://aihot.news/items/cmu66hcff0ci8rofjhs1az9qz",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-17T23:36:26.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Sherwin Wu",
+            "asset": "/assets/identities/sherwinwu.jpg",
+            "assetSource": "https://x.com/sherwinwu",
             "tone": "#e9e4dc"
           }
         }
@@ -685,11 +716,11 @@
         }
       },
       {
-        "id": "aihot-cmu5lw6ey0b1droqoqftpzecn",
-        "title": "Thomas Wolf 评价 OpenAI 模型失准报告框架：朝正确方向迈出一步",
-        "brief": "Thomas Wolf 转发并评价 OpenAI 新发布的模型失准追踪、调查与披露框架，称其为\"朝正确方向迈出的一步\"。",
-        "summary": "Thomas Wolf 转发并评价 OpenAI 新发布的模型失准追踪、调查与披露框架，称其为\"朝正确方向迈出的一步\"。OpenAI 框架设定了公开披露的标准和时间线，并同步发布了过去六个月观察到的六份失准行为报告。",
-        "category": "实践与观点",
+        "id": "aihot-cmu6qm7fj07brrowke145qkdw",
+        "title": "Thomas Wolf 迭代机器人头部",
+        "brief": "迭代机器人头部",
+        "summary": "迭代机器人头部",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -697,10 +728,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2100582349486305584",
-        "aggregateUrl": "https://aihot.news/items/cmu5lw6ey0b1droqoqftpzecn",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2100873791085666418",
+        "aggregateUrl": "https://aihot.news/items/cmu6qm7fj07brrowke145qkdw",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T13:47:13.000Z",
+        "publishedAt": "2026-09-18T09:05:18.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -709,15 +740,9 @@
               "asset": "/assets/identities/thom_wolf.jpg",
               "assetSource": "https://x.com/Thom_Wolf",
               "tone": "#e9e4dc"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
             }
           ],
-          "caption": "实践与观点",
+          "caption": "产品动态",
           "author": {
             "name": "Thomas Wolf",
             "asset": "/assets/identities/thom_wolf.jpg",
@@ -767,8 +792,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-18T06:35:46.462Z",
-    "nextCheckAt": 1789713646462,
+    "checkedAt": "2026-09-18T11:44:52.002Z",
+    "nextCheckAt": 1789732192002,
     "intervalSeconds": 300,
     "message": ""
   }
