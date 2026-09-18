@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-17T23:44:11.459Z",
-      "lastSuccessAt": "2026-09-17T23:44:11.459Z",
-      "nextCheckAt": 1789692251459,
+      "checkedAt": "2026-09-18T01:35:12.791Z",
+      "lastSuccessAt": "2026-09-18T01:35:12.791Z",
+      "nextCheckAt": 1789698912791,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-18T01:35:12.792Z",
+      "lastSuccessAt": "2026-09-18T01:35:12.792Z",
+      "nextCheckAt": 1789698912792,
       "status": "ok",
-      "nextCheckAt": 1789692251460,
-      "checkedAt": "2026-09-17T23:44:11.460Z",
-      "lastSuccessAt": "2026-09-17T23:44:11.460Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-17T23:44:11.460Z",
-      "lastSuccessAt": "2026-09-17T23:44:11.460Z",
-      "nextCheckAt": 1789692251460,
+      "checkedAt": "2026-09-18T01:35:12.793Z",
+      "lastSuccessAt": "2026-09-18T01:35:12.793Z",
+      "nextCheckAt": 1789698912793,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789692251738,
-      "checkedAt": "2026-09-17T23:44:11.738Z",
-      "lastSuccessAt": "2026-09-17T23:44:11.738Z",
+      "nextCheckAt": 1789698912964,
+      "checkedAt": "2026-09-18T01:35:12.964Z",
+      "lastSuccessAt": "2026-09-18T01:35:12.964Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789692251459,
+  "nextCheckAt": 1789698912791,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6465867.html",
-      "title": "豆包悄悄升级2.1 Pro，实测夯爆了！【附5个神仙玩法】",
-      "summary": "豆包迎来 Seed-2.1-Pro 升级，作者拿到内测后用三种环境跑了五个 Case：连接 Godot 做完整游戏、3D T 恤定制 web、Methy 加 Blender 做海洋动物、飞机地球航线 web 和电台音乐播放器。 经过一段时间的无限进步，豆包迎来了Seed-2.1-Pro的全新升级，我也早早拿到了内测。 前天才参加了飞书未来无限大会，豆包工作也正式开工了。不得不说，字节的产品力真的超强，飞书确实是AI时代最好的协同办公产品",
-      "publishedAt": "2026-09-17T07:02:24.000Z",
-      "url": "https://www.woshipm.com/ai/6465867.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6465993.html",
+      "title": "实战部署腾讯 Agent 记忆项目：从自动记住到管理团队经验",
+      "summary": "腾讯把Agent记忆做成了可部署的TencentDBAgentMemory，提示词、工具调用与执行结果被分层存下，还能在团队之间共享。文章记录了从环境配置到建团队、配Agent资产的完整部署过程。 Agent 已经能读代码、改文件、跑测试，真正影响连续使用体验的，却是会话结束之后的「失忆」——昨天刚解释过的项目结构，今天还要重新介绍；已经确认过的技术方案，换一个 Agent 又要重新说明。问题明明解决过，下一次遇到类似情况，仍然要从头排",
+      "publishedAt": "2026-09-18T00:47:26.000Z",
+      "url": "https://www.woshipm.com/ai/6465993.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6465867.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6465993.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "豆包迎来 Seed-2.1-Pro 升级，作者拿到内测后用三种环境跑了五个 Case：连接 Godot 做完整游戏、3D T 恤定制 web、Methy 加 Blender 做海洋动物、飞机地球航线 web 和电台音乐播放器。 经过一段时间的无限进步，豆包迎来了Seed-2.1-Pro的全新升级，我也早早拿到了内测。 前天才参加了飞书未来无限大会，豆包工作也正式开工了。不得不说，字节的产品力真的超强，飞书确实是AI时代最好的协同办公产品",
+      "brief": "腾讯把Agent记忆做成了可部署的TencentDBAgentMemory，提示词、工具调用与执行结果被分层存下，还能在团队之间共享。文章记录了从环境配置到建团队、配Agent资产的完整部署过程。 Agent 已经能读代码、改文件、跑测试，真正影响连续使用体验的，却是会话结束之后的「失忆」——昨天刚解释过的项目结构，今天还要重新介绍；已经确认过的技术方案，换一个 Agent 又要重新说明。问题明明解决过，下一次遇到类似情况，仍然要从头排",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,46 +174,6 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/share/6465671.html",
-      "title": "AI+用户运营：可落地的用户分群模型",
-      "summary": "把用户明细表丢给AI，几分钟就能分出六七个群并自动起好名字，但一个新信息都没有产生。文章讨论用户分群为什么常被一句能提升多少业绩问死，以及怎样让分群结果真正落到业务动作上。 一听到用户分群呀，很多同学都来劲了，把用户明细表丢给 AI，一句话让它“帮我做个用户分群”。几分钟就分出六七个群，还自动给每个群起好名字——高价值活跃用户、价格敏感型、沉睡待唤醒。 看着挺合理，其实一个新信息都没产生，只是把“谁买得多”换个说法又讲了一遍。可实际工作",
-      "publishedAt": "2026-09-17T06:32:46.000Z",
-      "url": "https://www.woshipm.com/share/6465671.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6465671.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "把用户明细表丢给AI，几分钟就能分出六七个群并自动起好名字，但一个新信息都没有产生。文章讨论用户分群为什么常被一句能提升多少业绩问死，以及怎样让分群结果真正落到业务动作上。 一听到用户分群呀，很多同学都来劲了，把用户明细表丢给 AI，一句话让它“帮我做个用户分群”。几分钟就分出六七个群，还自动给每个群起好名字——高价值活跃用户、价格敏感型、沉睡待唤醒。 看着挺合理，其实一个新信息都没产生，只是把“谁买得多”换个说法又讲了一遍。可实际工作",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
       "id": "ph:https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
       "title": "Compute:Arena",
       "summary": "Community submitted benchmarks for Local AI",
@@ -251,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/amy-by-jellyfish",
