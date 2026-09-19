@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-19T10:47:25.146Z",
-      "lastSuccessAt": "2026-09-19T10:47:25.146Z",
-      "nextCheckAt": 1789818445146,
+      "checkedAt": "2026-09-19T14:00:03.262Z",
+      "lastSuccessAt": "2026-09-19T14:00:03.262Z",
+      "nextCheckAt": 1789830003262,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-19T10:47:25.148Z",
-      "lastSuccessAt": "2026-09-19T10:47:25.148Z",
-      "nextCheckAt": 1789818445148,
       "status": "ok",
+      "nextCheckAt": 1789830003263,
+      "checkedAt": "2026-09-19T14:00:03.263Z",
+      "lastSuccessAt": "2026-09-19T14:00:03.263Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-19T10:47:25.148Z",
-      "lastSuccessAt": "2026-09-19T10:47:25.148Z",
-      "nextCheckAt": 1789818445148,
+      "checkedAt": "2026-09-19T14:00:03.264Z",
+      "lastSuccessAt": "2026-09-19T14:00:03.264Z",
+      "nextCheckAt": 1789830003264,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789818445450,
-      "checkedAt": "2026-09-19T10:47:25.450Z",
-      "lastSuccessAt": "2026-09-19T10:47:25.450Z",
+      "nextCheckAt": 1789830003872,
+      "checkedAt": "2026-09-19T14:00:03.872Z",
+      "lastSuccessAt": "2026-09-19T14:00:03.872Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789818445146,
+  "nextCheckAt": 1789830003262,
   "refreshing": false,
   "items": [
     {
@@ -335,6 +335,86 @@
       "priority": "normal"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/aexgrid",
+      "title": "AEXGrid",
+      "summary": "Coordinate AI agents. From anywhere.",
+      "publishedAt": "2026-09-18T05:42:36.000Z",
+      "url": "https://www.producthunt.com/products/aexgrid",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/aexgrid",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Coordinate AI agents. From anywhere.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "title": "Wombo",
+      "summary": "AI game studio for 2D graphics assets, sounds, and sfx",
+      "publishedAt": "2026-09-18T05:40:02.000Z",
+      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI game studio for 2D graphics assets, sounds, and sfx",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
       "id": "sspai:https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
       "title": "让 Agent 读懂你的身体：数据获取篇",
       "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...查看全文本文为会员文章，出自<",
@@ -372,86 +452,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/polishory",
-      "title": "Polishory",
-      "summary": "Get a clear plan to improve your website and prevent AI slop",
-      "publishedAt": "2026-09-18T03:00:06.000Z",
-      "url": "https://www.producthunt.com/products/polishory",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/polishory",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Get a clear plan to improve your website and prevent AI slop",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/verity-score-geo-ai-visibility",
-      "title": "Verity Score",
-      "summary": "Track what AI says about your store, fix it, generate blog",
-      "publishedAt": "2026-09-18T01:28:31.000Z",
-      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Track what AI says about your store, fix it, generate blog",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {

@@ -1,7 +1,7 @@
 {
   "date": "2026年9月19日",
   "demo": false,
-  "updatedAt": "2026-09-19T10:47:45.545Z",
+  "updatedAt": "2026-09-19T14:00:48.041Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 6,
+    "latestCount": 7,
     "archiveCount": 1
   },
   "sources": {
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 4,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -136,81 +136,46 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-cmu7emdec07qmrogrh8tfpg5n",
-      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-      "brief": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-      "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-      "category": "产品动态",
-      "topic": "AI 产品",
+      "id": "aihot-cmu6idvti04i9ro0fktczvi9g",
+      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+      "brief": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+      "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+      "category": "模型进展",
+      "topic": "Agent",
       "priority": "lead",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "feedName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "aggregateUrl": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
+      "aggregateUrl": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T20:21:40.477Z",
+      "publishedAt": "2026-09-18T05:19:16.734Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": null
       },
       "hotRank": 1,
-      "sourceCount": 4,
-      "signalCount": 5,
-      "storyUrl": "https://aihot.virxact.com/story/cf369e22-adb4-4be9-890e-ed3db619c16c"
-    },
-    {
-      "id": "aihot-cmu7zc3h30zcqrogr2dx8w8w6",
-      "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-      "brief": "WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。",
-      "summary": "WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "important",
-      "platform": "X",
-      "authorHandle": "haider1",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Haider (@haider1)",
-      "feedName": "X：Haider (@haider1)",
-      "sourceUrl": "https://x.com/haider1/status/2101187073990611232",
-      "aggregateUrl": "https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-19T06:01:31.211Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 2,
-      "sourceCount": 7,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/222cc736-9709-4651-8278-145aca06220a"
+      "sourceCount": 10,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/265b4403-343d-418b-b8cc-2e6d8de7f906"
     },
     {
       "id": "aihot-cmu605ozy000arok0lxr4x1y8",
@@ -242,45 +207,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 3,
+      "hotRank": 2,
       "sourceCount": 9,
-      "signalCount": 4,
+      "signalCount": 3,
       "storyUrl": "https://aihot.virxact.com/story/69730cd2-c7b6-472b-9f88-0f421cde6021"
     },
     {
-      "id": "aihot-cmu6idvti04i9ro0fktczvi9g",
-      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-      "brief": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-      "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-      "category": "模型进展",
-      "topic": "Agent",
-      "priority": "normal",
+      "id": "aihot-cmu7emdec07qmrogrh8tfpg5n",
+      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+      "brief": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+      "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "important",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
-      "aggregateUrl": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "feedName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "aggregateUrl": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T05:19:16.734Z",
+      "publishedAt": "2026-09-18T20:21:40.477Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": null
       },
-      "hotRank": 4,
-      "sourceCount": 10,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/265b4403-343d-418b-b8cc-2e6d8de7f906"
+      "hotRank": 3,
+      "sourceCount": 3,
+      "signalCount": 4,
+      "storyUrl": "https://aihot.virxact.com/story/cf369e22-adb4-4be9-890e-ed3db619c16c"
     },
     {
       "id": "aihot-cmu7e0dly06xdrogro9rq1x6d",
@@ -312,45 +277,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 5,
-      "sourceCount": 7,
+      "hotRank": 4,
+      "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/af832b7e-d33b-4d35-8f12-3f0b66ded3bc"
-    },
-    {
-      "id": "aihot-cmu648ktv0a7hrofjha0nxsmr",
-      "title": "Meta 发布 muse for Mac，智能体可直接操作电脑上的文件、消息和日程",
-      "brief": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。",
-      "summary": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。用户可控制其访问权限，执行敏感操作前会先询问。下载地址：https://ai.meta.com/muse/download/",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "alexandr_wang",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "feedName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "sourceUrl": "https://x.com/alexandr_wang/status/2100714048329580957",
-      "aggregateUrl": "https://aihot.news/items/cmu648ktv0a7hrofjha0nxsmr",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T22:43:13.318Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 6,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/6f062228-275f-4258-8b66-2e8fb36b16f3"
     },
     {
       "id": "aihot-cmu5tujnp0jvoroqoq64oqnjr",
@@ -382,7 +312,7 @@
         "caption": "Claude Code",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 5,
       "sourceCount": 8,
       "signalCount": 3,
       "storyUrl": "https://aihot.virxact.com/story/85ca3656-c2ff-4092-a758-0f4216034e6f"
@@ -417,7 +347,7 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 6,
       "sourceCount": 9,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/819c8ab5-d20e-4b40-808e-5ae0c245f89f"
@@ -452,45 +382,115 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 7,
       "sourceCount": 7,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/28b3a652-09dd-4de7-bd7d-1033467dea7b"
     },
     {
-      "id": "aihot-cmu74vaqy0qeerowkch23r6nd",
-      "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
-      "brief": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker–Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-      "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker–Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-      "category": "模型进展",
-      "topic": "AI 产品",
+      "id": "aihot-cmu648ktv0a7hrofjha0nxsmr",
+      "title": "Meta 发布 muse for Mac，智能体可直接操作电脑上的文件、消息和日程",
+      "brief": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。",
+      "summary": "Alexandr Wang 宣布 muse for Mac 上线，智能体可直接在用户电脑上处理文件、消息、日历和笔记等事务。用户可控制其访问权限，执行敏感操作前会先询问。下载地址：https://ai.meta.com/muse/download/",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
+      "platform": "X",
+      "authorHandle": "alexandr_wang",
       "sourceGroup": "媒体与社区",
-      "sourceName": "Qwen：Blog Retrieval（API）",
-      "feedName": "Qwen：Blog Retrieval（API）",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-      "aggregateUrl": "https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd",
+      "sourceName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "feedName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "sourceUrl": "https://x.com/alexandr_wang/status/2100714048329580957",
+      "aggregateUrl": "https://aihot.news/items/cmu648ktv0a7hrofjha0nxsmr",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T15:48:38.050Z",
+      "publishedAt": "2026-09-17T22:43:13.318Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Qwen：Blog Retrieval（API）",
+            "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
           }
         ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 5,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/6f062228-275f-4258-8b66-2e8fb36b16f3"
+    },
+    {
+      "id": "aihot-cmu606l6o02m3rok0vzsehmvd",
+      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+      "brief": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。",
+      "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+      "category": "模型进展",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "feedName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+      "aggregateUrl": "https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-17T20:49:43.252Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
         "caption": "模型进展",
         "author": null
       },
+      "hotRank": 9,
+      "sourceCount": 8,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/4cec0a59-6586-4066-b953-13a3c574a006"
+    },
+    {
+      "id": "aihot-cmu5z60qg07n0roiq06x24vut",
+      "title": "Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据",
+      "brief": "Anthropic 发布测量框架，公开三项内部指标以帮助外界了解前沿实验室的 AI 开发节奏。",
+      "summary": "Anthropic 发布测量框架，公开三项内部指标以帮助外界了解前沿实验室的 AI 开发节奏。截至 2026 年 8 月，Claude 在 26% 的 Anthropic AI 研发工作中处于主导角色，90% 以上的工作至少达到协作级；内部平台约有 3 万个 Agent，10 亿多次决策中 0.002% 被在线监控拦截；7 月一周内约 6% 的 AI 研发算力用于安全工作。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "feedName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "aggregateUrl": "https://aihot.news/items/cmu5z60qg07n0roiq06x24vut",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-17T20:21:17.196Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
       "hotRank": 10,
-      "sourceCount": 3,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/47997f93-fa9d-42cf-ab3c-93d3fdb6c544"
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/426d681a-7d7b-4e7f-9110-b7aa3a3eedba"
     },
     {
       "id": "aihot-cmu7v9lxu0rxtrogrf3a110nf",
@@ -565,10 +565,10 @@
       }
     },
     {
-      "id": "aihot-cmu7ojby80l09rogrz3m2rlpm",
-      "title": "万物皆可为麦克风：从芯片袋振动到灯泡光线",
-      "brief": "鉴于有人讨论 AI 通过 CPU 温度波动进行通信，我想到了这个帖子--世界上可恢复的信息比你想象的要多。",
-      "summary": "鉴于有人讨论 AI 通过 CPU 温度波动进行通信，我想到了这个帖子--世界上可恢复的信息比你想象的要多。\n\n【引用 @emollick】：隐私很难。一切都可以是麦克风。你可以从以下来源恢复音频数据：\n🛍️视频中芯片袋的振动\n💡悬挂灯泡被语音移动时的光线微小波动\n🤖扫地机器人的激光雷达光束\n🤳手机照片中的自动对焦",
+      "id": "aihot-cmu8fbuci1jckrogrnjftretp",
+      "title": "AI 生成电影引发艺术之争",
+      "brief": "开始出现一些真正有趣的 AI 创作电影作品（在大量垃圾内容之中），我猜这只会加速。",
+      "summary": "开始出现一些真正有趣的 AI 创作电影作品（在大量垃圾内容之中），我猜这只会加速。关于\"这是不是艺术？\"的争论会越来越多\n\n本雅明 1935 年的文章《机械复制时代的艺术作品》说，这本身就是个错误的问题。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -577,10 +577,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2101106479411687489",
-      "aggregateUrl": "https://aihot.news/items/cmu7ojby80l09rogrz3m2rlpm",
+      "sourceUrl": "https://x.com/emollick/status/2101301629320310871",
+      "aggregateUrl": "https://aihot.news/items/cmu8fbuci1jckrogrnjftretp",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-19T00:29:56.000Z",
+      "publishedAt": "2026-09-19T13:25:23.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -704,6 +704,42 @@
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmu8emp3o1iiirogr66c54nvw",
+      "title": "大实验室间的人才流动与信息交换",
+      "brief": "各大实验室彼此隔离，但研究人员过热后跳槽到另一个实验室，信息仍在交换\n\n信息的小颗粒在空中流动",
+      "summary": "各大实验室彼此隔离，但研究人员过热后跳槽到另一个实验室，信息仍在交换\n\n信息的小颗粒在空中流动",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2101290915876807108",
+      "aggregateUrl": "https://aihot.news/items/cmu8emp3o1iiirogr66c54nvw",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-19T12:42:49.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
