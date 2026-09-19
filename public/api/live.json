@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月19日",
     "demo": false,
-    "updatedAt": "2026-09-19T01:17:27.334Z",
+    "updatedAt": "2026-09-19T05:58:16.924Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 6,
+      "latestCount": 7,
       "archiveCount": 1
     },
     "sources": {
@@ -38,8 +38,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -74,7 +74,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 5,
+          "matched": 8,
           "status": "本次收录"
         },
         {
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 5,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -128,7 +128,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -144,39 +144,39 @@
     },
     "items": [
       {
-        "id": "aihot-cmu6idvti04i9ro0fktczvi9g",
-        "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-        "brief": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-        "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-        "category": "模型进展",
-        "topic": "Agent",
+        "id": "aihot-cmu7emdec07qmrogrh8tfpg5n",
+        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+        "brief": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+        "category": "产品动态",
+        "topic": "AI 产品",
         "priority": "lead",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
-        "aggregateUrl": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g",
+        "sourceGroup": "机构官方",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "feedName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "aggregateUrl": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T05:19:16.734Z",
+        "publishedAt": "2026-09-18T20:21:40.477Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 10,
-        "signalCount": 1,
-        "storyUrl": "https://aihot.virxact.com/story/265b4403-343d-418b-b8cc-2e6d8de7f906"
+        "sourceCount": 4,
+        "signalCount": 5,
+        "storyUrl": "https://aihot.virxact.com/story/cf369e22-adb4-4be9-890e-ed3db619c16c"
       },
       {
         "id": "aihot-cmu605ozy000arok0lxr4x1y8",
@@ -210,43 +210,43 @@
         },
         "hotRank": 2,
         "sourceCount": 9,
-        "signalCount": 3,
+        "signalCount": 4,
         "storyUrl": "https://aihot.virxact.com/story/69730cd2-c7b6-472b-9f88-0f421cde6021"
       },
       {
-        "id": "aihot-cmu7emdec07qmrogrh8tfpg5n",
-        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-        "brief": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-        "category": "产品动态",
-        "topic": "AI 产品",
+        "id": "aihot-cmu6idvti04i9ro0fktczvi9g",
+        "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+        "brief": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+        "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+        "category": "模型进展",
+        "topic": "Agent",
         "priority": "important",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "feedName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "aggregateUrl": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
+        "aggregateUrl": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T20:21:40.477Z",
+        "publishedAt": "2026-09-18T05:19:16.734Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "模型进展",
           "author": null
         },
         "hotRank": 3,
-        "sourceCount": 3,
-        "signalCount": 4,
-        "storyUrl": "https://aihot.virxact.com/story/cf369e22-adb4-4be9-890e-ed3db619c16c"
+        "sourceCount": 10,
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/265b4403-343d-418b-b8cc-2e6d8de7f906"
       },
       {
         "id": "aihot-cmu7e0dly06xdrogro9rq1x6d",
@@ -494,10 +494,46 @@
         "storyUrl": "https://aihot.virxact.com/story/222cc736-9709-4651-8278-145aca06220a"
       },
       {
-        "id": "aihot-cmu7omk580l35rogr03p6hqrv",
-        "title": "Peter Steinberger 发推：终于摆脱了",
-        "brief": "终于摆脱了。",
-        "summary": "终于摆脱了。",
+        "id": "aihot-cmu7v9lxu0rxtrogrf3a110nf",
+        "title": "主题演讲预告新内容",
+        "brief": "今天我们在和 @romainhuet 以及 @sama 一起筹备主题演讲，最有意思的部分是想办法把这一切讲给你们听，因为里面有太多好东西，一个接一个，简直有点离谱。",
+        "summary": "今天我们在和 @romainhuet 以及 @sama 一起筹备主题演讲，最有意思的部分是想办法把这一切讲给你们听，因为里面有太多好东西，一个接一个，简直有点离谱。\n\n下周我们就会先放出一些东西，不让你们等太久，但非常兴奋能向大家展示我们一直在做的新东西，以及它们在未来几个月里如何汇聚到一起。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2101157729037586694",
+        "aggregateUrl": "https://aihot.news/items/cmu7v9lxu0rxtrogrf3a110nf",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-19T03:53:34.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Tibo Sottiaux",
+              "asset": "/assets/identities/thsottiaux.jpg",
+              "assetSource": "https://x.com/thsottiaux",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmu7sx2ew0pf3rogrkvdxa7jc",
+        "title": "roboclaw 运行团队服务器并接入 Discord",
+        "brief": "最酷的部分：roboclaw 运行着我们的团队服务器，已在 Discord 上线，能与 gpt-live 对话，并了解它正在处理的所有会话。",
+        "summary": "最酷的部分：roboclaw 运行着我们的团队服务器，已在 Discord 上线，能与 gpt-live 对话，并了解它正在处理的所有会话。\n\n我们可以在开会时直接向它询问当前和过往会话的上下文。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -506,10 +542,10 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Peter Steinberger · @steipete",
         "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2101113900632772732",
-        "aggregateUrl": "https://aihot.news/items/cmu7omk580l35rogr03p6hqrv",
+        "sourceUrl": "https://x.com/steipete/status/2101141707375227372",
+        "aggregateUrl": "https://aihot.news/items/cmu7sx2ew0pf3rogrkvdxa7jc",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-19T00:59:25.000Z",
+        "publishedAt": "2026-09-19T02:49:55.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -638,10 +674,10 @@
         }
       },
       {
-        "id": "aihot-cmu74objw0q9growkp1arnsrp",
-        "title": "Perplexity CEO 称赞设计简洁",
-        "brief": "设计简洁流畅\n\n来源：X：Aravind Srinivas（Perplexity CEO） （@AravSrinivas）",
-        "summary": "设计简洁流畅\n\n来源：X：Aravind Srinivas（Perplexity CEO） （@AravSrinivas）",
+        "id": "aihot-cmu7ue8w40qzjrogrpggs5w59",
+        "title": "Perplexity Computer 支持连接应用",
+        "brief": "AI 就是操作系统。",
+        "summary": "AI 就是操作系统。\n\n【引用 @AskPerplexity】：现在可以从 Computer 主页的输入框连接应用。\n\n面向所有 Computer 用户，网页版已上线。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -650,10 +686,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2100968764804354529",
-        "aggregateUrl": "https://aihot.news/items/cmu74objw0q9growkp1arnsrp",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2101149706235834829",
+        "aggregateUrl": "https://aihot.news/items/cmu7ue8w40qzjrogrpggs5w59",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T15:22:42.000Z",
+        "publishedAt": "2026-09-19T03:21:42.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -750,8 +786,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-19T01:17:27.334Z",
-    "nextCheckAt": 1789780947334,
+    "checkedAt": "2026-09-19T05:58:16.924Z",
+    "nextCheckAt": 1789797796924,
     "intervalSeconds": 300,
     "message": ""
   }

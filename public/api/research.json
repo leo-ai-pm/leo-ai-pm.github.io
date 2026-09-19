@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-19T01:17:11.977Z",
-      "lastSuccessAt": "2026-09-19T01:17:11.977Z",
-      "nextCheckAt": 1789784231977,
+      "checkedAt": "2026-09-19T05:57:59.288Z",
+      "lastSuccessAt": "2026-09-19T05:57:59.288Z",
+      "nextCheckAt": 1789801079288,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-19T05:57:59.289Z",
+      "lastSuccessAt": "2026-09-19T05:57:59.289Z",
+      "nextCheckAt": 1789801079289,
       "status": "ok",
-      "nextCheckAt": 1789784231978,
-      "checkedAt": "2026-09-19T01:17:11.978Z",
-      "lastSuccessAt": "2026-09-19T01:17:11.978Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-19T01:17:11.979Z",
-      "lastSuccessAt": "2026-09-19T01:17:11.979Z",
-      "nextCheckAt": 1789784231979,
+      "checkedAt": "2026-09-19T05:57:59.290Z",
+      "lastSuccessAt": "2026-09-19T05:57:59.290Z",
+      "nextCheckAt": 1789801079290,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-19T05:57:59.538Z",
+      "lastSuccessAt": "2026-09-19T05:57:59.538Z",
+      "nextCheckAt": 1789801079538,
       "status": "ok",
-      "nextCheckAt": 1789784232070,
-      "checkedAt": "2026-09-19T01:17:12.070Z",
-      "lastSuccessAt": "2026-09-19T01:17:12.070Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789784231977,
+  "nextCheckAt": 1789801079288,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6466620.html",
+      "title": "Seed 2.1 pro升级实测，字节基模的后劲来了",
+      "summary": "作者把三款小游戏交给 Claude Code 接 Seed-2.1-pro：一句话出 Flappy Bird，照着截图补完八关的黄油猫，还有地下通道找异常。随后用参考图建模、Seedance 做白模运镜，最后让豆包工作产出产业链报告与可编辑 PPT。 前两天，我和几位好朋友去飞书未来无限大会探了个展。企业端 Agent 应用一大片，有很多不错的案例。 豆包工作接手的活越来越具体，背后的模型能不能持续进步，也就越来越重要 今年 6 月，字",
+      "publishedAt": "2026-09-19T03:43:59.000Z",
+      "url": "https://www.woshipm.com/ai/6466620.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6466620.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "作者把三款小游戏交给 Claude Code 接 Seed-2.1-pro：一句话出 Flappy Bird，照着截图补完八关的黄油猫，还有地下通道找异常。随后用参考图建模、Seedance 做白模运镜，最后让豆包工作产出产业链报告与可编辑 PPT。 前两天，我和几位好朋友去飞书未来无限大会探了个展。企业端 Agent 应用一大片，有很多不错的案例。 豆包工作接手的活越来越具体，背后的模型能不能持续进步，也就越来越重要 今年 6 月，字",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "n8n:https://blog.n8n.io/reducing-ai-workflow-latency/",
+      "title": "Reducing AI Workflow Latency: Patterns That Actually Work",
+      "summary": "Learn how to reduce AI workflow latency with production patterns for latency optimization: model routing, caching, parallel execution, timeouts, and budgets.",
+      "publishedAt": "2026-09-19T02:23:59.000Z",
+      "url": "https://blog.n8n.io/reducing-ai-workflow-latency/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/reducing-ai-workflow-latency/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Learn how to reduce AI workflow latency with production patterns for latency optimization: model routing, caching, parallel execution, timeouts, and budgets.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6466421.html",
+      "title": "不写一个字，却可能是 AI 时代最重要的模型",
+      "summary": "TypeSafe AI 发布的 Jev 不生成任何文字，只在几百毫秒内并行给出带概率值的结构化决策。创始人 Diogo Almeida 是 ChatGPT 的联合发明人之一、RLHF 的重要贡献者，他用两年时间回答一个问题：模型这么聪明，自动化为什么还难落地。 你有没有想过，AI 模型最大的问题从来不是不够聪明，而是不够可靠？我们已经用了好几年的 ChatGPT、Claude、Gemini，它们能写文章、写代码、解释任何概念，聪明得让人",
+      "publishedAt": "2026-09-19T01:33:11.000Z",
+      "url": "https://www.woshipm.com/ai/6466421.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6466421.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "TypeSafe AI 发布的 Jev 不生成任何文字，只在几百毫秒内并行给出带概率值的结构化决策。创始人 Diogo Almeida 是 ChatGPT 的联合发明人之一、RLHF 的重要贡献者，他用两年时间回答一个问题：模型这么聪明，自动化为什么还难落地。 你有没有想过，AI 模型最大的问题从来不是不够聪明，而是不够可靠？我们已经用了好几年的 ChatGPT、Claude、Gemini，它们能写文章、写代码、解释任何概念，聪明得让人",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/api-rate-limiting/",
       "title": "API Rate Limiting for More Reliable Workflows",
@@ -131,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6466487.html",
@@ -171,86 +291,46 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6466441.html",
-      "title": "从卖工具到收”过路费”：SAP、Salesforce 殊途同归的 Agent 生意",
-      "summary": "SAP 今年 4 月收紧 API 政策，外部 AI 智能体不能直连接口，必须走自家助手 Joule，集成网关也开始按调用次数计费，圈里管这叫「代理税」。Salesforce 走的是相反的路，把整个平台的能力拆成 60 多个工具、30 多项技能。 我要先分享一个数： 平均每家企业眼下大概跑着12个以上AI智能体。其中有一半呢？是在单干的；也就是说，他们谁不挨着谁，那这批员工很多公司连智能体的名字都没有，乱不乱？ 肯定很乱的，但是老牌厂商们",
-      "publishedAt": "2026-09-18T07:30:11.000Z",
-      "url": "https://www.woshipm.com/ai/6466441.html",
+      "id": "ph:https://www.producthunt.com/products/citizen404",
+      "title": "citizen404",
+      "summary": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+      "publishedAt": "2026-09-18T07:00:29.000Z",
+      "url": "https://www.producthunt.com/products/citizen404",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466441.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "SAP 今年 4 月收紧 API 政策，外部 AI 智能体不能直连接口，必须走自家助手 Joule，集成网关也开始按调用次数计费，圈里管这叫「代理税」。Salesforce 走的是相反的路，把整个平台的能力拆成 60 多个工具、30 多项技能。 我要先分享一个数： 平均每家企业眼下大概跑着12个以上AI智能体。其中有一半呢？是在单干的；也就是说，他们谁不挨着谁，那这批员工很多公司连智能体的名字都没有，乱不乱？ 肯定很乱的，但是老牌厂商们",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/citizen404",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6466451.html",
-      "title": "详情页秒变16 秒宣传片，Flova做电商设计夯爆了！",
-      "summary": "作者把一张写好商品参数与卖点的详情页交给豆包工作，再经已连接的 Flova AI 依次产出参考视觉、四镜分镜、配乐与时间线，最后导出 1920×1080、30fps 的 MP4。这条链路把原本分散的确认节点串成可检查、可修改的工作流。 9 月 8 日，Adobe 把视频与音效生成直接放进 Premiere 时间线，并让 AI Assistant 承接多步骤工作流。它释放出一个很明确的信号：AI 视频工具开始争夺的，不只是“生成一次”，而",
-      "publishedAt": "2026-09-18T07:11:10.000Z",
-      "url": "https://www.woshipm.com/ai/6466451.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466451.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "作者把一张写好商品参数与卖点的详情页交给豆包工作，再经已连接的 Flova AI 依次产出参考视觉、四镜分镜、配乐与时间线，最后导出 1920×1080、30fps 的 MP4。这条链路把原本分散的确认节点串成可检查、可修改的工作流。 9 月 8 日，Adobe 把视频与音效生成直接放进 Premiere 时间线，并让 AI Assistant 承接多步骤工作流。它释放出一个很明确的信号：AI 视频工具开始争夺的，不只是“生成一次”，而",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
+      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
@@ -374,46 +454,6 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/verity-score-geo-ai-visibility",
-      "title": "Verity Score",
-      "summary": "Track what AI says about your store, fix it, generate blog",
-      "publishedAt": "2026-09-18T01:28:31.000Z",
-      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Track what AI says about your store, fix it, generate blog",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "n8n:https://blog.n8n.io/gateway-credits/",
       "title": "Try new models and services, skip the account setup",
       "summary": "Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential",
@@ -449,46 +489,6 @@
       "brief": "Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/process-orchestration/",
-      "title": "Process Orchestration: Execution Models, Observability, and Production Challenges",
-      "summary": "Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.",
-      "publishedAt": "2026-09-11T19:37:53.000Z",
-      "url": "https://blog.n8n.io/process-orchestration/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/process-orchestration/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
