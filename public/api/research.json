@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-18T23:20:57.036Z",
-      "lastSuccessAt": "2026-09-18T23:20:57.036Z",
-      "nextCheckAt": 1789777257036,
+      "checkedAt": "2026-09-19T01:17:11.977Z",
+      "lastSuccessAt": "2026-09-19T01:17:11.977Z",
+      "nextCheckAt": 1789784231977,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1789777257037,
-      "checkedAt": "2026-09-18T23:20:57.037Z",
-      "lastSuccessAt": "2026-09-18T23:20:57.037Z",
+      "nextCheckAt": 1789784231978,
+      "checkedAt": "2026-09-19T01:17:11.978Z",
+      "lastSuccessAt": "2026-09-19T01:17:11.978Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-18T23:20:57.038Z",
-      "lastSuccessAt": "2026-09-18T23:20:57.038Z",
-      "nextCheckAt": 1789777257038,
+      "checkedAt": "2026-09-19T01:17:11.979Z",
+      "lastSuccessAt": "2026-09-19T01:17:11.979Z",
+      "nextCheckAt": 1789784231979,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789777257403,
-      "checkedAt": "2026-09-18T23:20:57.403Z",
-      "lastSuccessAt": "2026-09-18T23:20:57.403Z",
+      "nextCheckAt": 1789784232070,
+      "checkedAt": "2026-09-19T01:17:12.070Z",
+      "lastSuccessAt": "2026-09-19T01:17:12.070Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789777257036,
+  "nextCheckAt": 1789784231977,
   "refreshing": false,
   "items": [
     {
@@ -254,15 +254,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/citizen404",
-      "title": "citizen404",
-      "summary": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
-      "publishedAt": "2026-09-18T07:00:29.000Z",
-      "url": "https://www.producthunt.com/products/citizen404",
+      "id": "ph:https://www.producthunt.com/products/aexgrid",
+      "title": "AEXGrid",
+      "summary": "Coordinate AI agents. From anywhere.",
+      "publishedAt": "2026-09-18T05:42:36.000Z",
+      "url": "https://www.producthunt.com/products/aexgrid",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +282,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/citizen404",
+      "sourceUrl": "https://www.producthunt.com/products/aexgrid",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+      "brief": "Coordinate AI agents. From anywhere.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "title": "Wombo",
+      "summary": "AI game studio for 2D graphics assets, sounds, and sfx",
+      "publishedAt": "2026-09-18T05:40:02.000Z",
+      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI game studio for 2D graphics assets, sounds, and sfx",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -334,11 +374,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/polishory",
-      "title": "Polishory",
-      "summary": "Get a clear plan to improve your website and prevent AI slop",
-      "publishedAt": "2026-09-18T03:00:06.000Z",
-      "url": "https://www.producthunt.com/products/polishory",
+      "id": "ph:https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "title": "Verity Score",
+      "summary": "Track what AI says about your store, fix it, generate blog",
+      "publishedAt": "2026-09-18T01:28:31.000Z",
+      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -362,51 +402,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/polishory",
+      "sourceUrl": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Get a clear plan to improve your website and prevent AI slop",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/m9r",
-      "title": "M9R",
-      "summary": "Multiplayer space for your AI coding agents and teams",
-      "publishedAt": "2026-09-18T00:39:11.000Z",
-      "url": "https://www.producthunt.com/products/m9r",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/m9r",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Multiplayer space for your AI coding agents and teams",
+      "brief": "Track what AI says about your store, fix it, generate blog",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
