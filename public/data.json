@@ -1,7 +1,7 @@
 {
   "date": "2026年9月20日",
   "demo": false,
-  "updatedAt": "2026-09-19T17:10:32.892Z",
+  "updatedAt": "2026-09-19T19:21:31.486Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -173,7 +173,7 @@
         "author": null
       },
       "hotRank": 1,
-      "sourceCount": 8,
+      "sourceCount": 9,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/222cc736-9709-4651-8278-145aca06220a"
     },
@@ -318,27 +318,27 @@
       "storyUrl": "https://aihot.virxact.com/story/af832b7e-d33b-4d35-8f12-3f0b66ded3bc"
     },
     {
-      "id": "aihot-cmu5smj860insroqokcuh0u9v",
-      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-      "brief": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
-      "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+      "id": "aihot-cmu6er7ar0lxirofjo827zhtw",
+      "title": "通义千问发布 Qwen3.8-Omni-Flash 全模态模型",
+      "brief": "通义千问发布 Qwen3.8-Omni-Flash，是 Qwen 首个以智能体能力为核心构建的全模态模型，支持原生音视频理解、推理和工具调用。",
+      "summary": "通义千问发布 Qwen3.8-Omni-Flash，是 Qwen 首个以智能体能力为核心构建的全模态模型，支持原生音视频理解、推理和工具调用。",
       "category": "模型进展",
       "topic": "Agent",
       "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
+      "platform": "X",
+      "authorHandle": "Alibaba_Qwen",
       "sourceGroup": "媒体与社区",
-      "sourceName": "Qwen：Blog Retrieval（API）",
-      "feedName": "Qwen：Blog Retrieval（API）",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "aggregateUrl": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v",
+      "sourceName": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "feedName": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "sourceUrl": "https://x.com/Alibaba_Qwen/status/2100785962414702599",
+      "aggregateUrl": "https://aihot.news/items/cmu6er7ar0lxirofjo827zhtw",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T17:18:08.568Z",
+      "publishedAt": "2026-09-18T03:37:37.974Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Qwen：Blog Retrieval（API）",
+            "name": "X：通义千问 / Qwen (@Alibaba_Qwen)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -348,44 +348,9 @@
         "author": null
       },
       "hotRank": 6,
-      "sourceCount": 10,
+      "sourceCount": 9,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/819c8ab5-d20e-4b40-808e-5ae0c245f89f"
-    },
-    {
-      "id": "aihot-cmu5tujnp0jvoroqoq64oqnjr",
-      "title": "Claude Code Projects 改版：从文件夹到对话式协调",
-      "brief": "Anthropic 宣布 Claude Code 的 Projects 改版，用户设定目标后由 Claude 拆解任务、协调并行线程、审查输出并汇总结果。",
-      "summary": "Anthropic 宣布 Claude Code 的 Projects 改版，用户设定目标后由 Claude 拆解任务、协调并行线程、审查输出并汇总结果。每个线程是一个独立的 Claude Code 云会话，各占一个分支跑测试、开 PR，项目还带随时间积累的共享记忆和文件库。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Claude：Blog（网页）",
-      "feedName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/projects-redesigned",
-      "aggregateUrl": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T17:52:08.951Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      },
-      "hotRank": 7,
-      "sourceCount": 7,
-      "signalCount": 3,
-      "storyUrl": "https://aihot.virxact.com/story/85ca3656-c2ff-4092-a758-0f4216034e6f"
     },
     {
       "id": "aihot-cmu7hs2il0apzrogrc9oz1nty",
@@ -417,7 +382,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 7,
       "sourceCount": 7,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/28b3a652-09dd-4de7-bd7d-1033467dea7b"
@@ -452,7 +417,7 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 8,
       "sourceCount": 3,
       "signalCount": 1,
       "storyUrl": "https://aihot.virxact.com/story/47997f93-fa9d-42cf-ab3c-93d3fdb6c544"
@@ -487,10 +452,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 10,
+      "hotRank": 9,
       "sourceCount": 3,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/784a141d-eaf8-407c-94f7-f6d1c68a5a77"
+    },
+    {
+      "id": "aihot-cmu606l6o02m3rok0vzsehmvd",
+      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+      "brief": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。",
+      "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+      "category": "模型进展",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "feedName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+      "aggregateUrl": "https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-17T20:49:43.252Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/4cec0a59-6586-4066-b953-13a3c574a006"
     },
     {
       "id": "aihot-cmu7v9lxu0rxtrogrf3a110nf",
