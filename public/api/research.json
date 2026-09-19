@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-19T05:57:59.288Z",
-      "lastSuccessAt": "2026-09-19T05:57:59.288Z",
-      "nextCheckAt": 1789801079288,
+      "checkedAt": "2026-09-19T10:47:25.146Z",
+      "lastSuccessAt": "2026-09-19T10:47:25.146Z",
+      "nextCheckAt": 1789818445146,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-19T05:57:59.289Z",
-      "lastSuccessAt": "2026-09-19T05:57:59.289Z",
-      "nextCheckAt": 1789801079289,
+      "checkedAt": "2026-09-19T10:47:25.148Z",
+      "lastSuccessAt": "2026-09-19T10:47:25.148Z",
+      "nextCheckAt": 1789818445148,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-19T05:57:59.290Z",
-      "lastSuccessAt": "2026-09-19T05:57:59.290Z",
-      "nextCheckAt": 1789801079290,
+      "checkedAt": "2026-09-19T10:47:25.148Z",
+      "lastSuccessAt": "2026-09-19T10:47:25.148Z",
+      "nextCheckAt": 1789818445148,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-19T05:57:59.538Z",
-      "lastSuccessAt": "2026-09-19T05:57:59.538Z",
-      "nextCheckAt": 1789801079538,
       "status": "ok",
+      "nextCheckAt": 1789818445450,
+      "checkedAt": "2026-09-19T10:47:25.450Z",
+      "lastSuccessAt": "2026-09-19T10:47:25.450Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,90 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789801079288,
+  "nextCheckAt": 1789818445146,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6466931.html",
+      "title": "阿里内测 Qovest，一个面向个人投资者的AI Agent，要帮你赚钱",
+      "summary": "近日，阿里正在内测一个叫做 Qovest 的 AI 金融 Agent产品。 这是一个面向专业个人投资者的 AI 金融投研助手。 Qovest，这个名字，和阿里的Qoder如出一辙，属于invest（投资）的变体。 产品 Slogan：你负责判断，研究交给 Qovest。 产品 logo ，是沉稳的金融蓝风格。 做金融投研时，很费劲的一个事是，关键资料分散在各处，整理耗时。 在Qovest上，支持你对感兴趣的公司、行业、主题、市场，进行深",
+      "publishedAt": "2026-09-19T09:24:00.000Z",
+      "url": "https://www.woshipm.com/ai/6466931.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6466931.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "近日，阿里正在内测一个叫做 Qovest 的 AI 金融 Agent产品。 这是一个面向专业个人投资者的 AI 金融投研助手。 Qovest，这个名字，和阿里的Qoder如出一辙，属于invest（投资）的变体。 产品 Slogan：你负责判断，研究交给 Qovest。 产品 logo ，是沉稳的金融蓝风格。 做金融投研时，很费劲的一个事是，关键资料分散在各处，整理耗时。 在Qovest上，支持你对感兴趣的公司、行业、主题、市场，进行深",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6466624.html",
+      "title": "Anthropic 优化 30 多个生物模型，蛋白质设计成本最高降 98%",
+      "summary": "Anthropic 让 Claude 用不到四周优化了 30 多个生物研究开源模型，覆盖蛋白结构预测、蛋白设计与基因组学，平均提速数倍，并把大型分子系统压到单张 GPU 节点上推理。此前要花上万美元算力的蛋白设计流程，如今约 150 美元即可完成计算设计。 9 月 17 日，Anthropic 公布 Claude 在生物分子建模上的一组新结果：不到四周，Claude 优化了 30 多个用于生物研究的开源深度学习模型，覆盖蛋白结构预测、蛋",
+      "publishedAt": "2026-09-19T06:24:01.000Z",
+      "url": "https://www.woshipm.com/ai/6466624.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6466624.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Anthropic 让 Claude 用不到四周优化了 30 多个生物研究开源模型，覆盖蛋白结构预测、蛋白设计与基因组学，平均提速数倍，并把大型分子系统压到单张 GPU 节点上推理。此前要花上万美元算力的蛋白设计流程，如今约 150 美元即可完成计算设计。 9 月 17 日，Anthropic 公布 Claude 在生物分子建模上的一组新结果：不到四周，Claude 优化了 30 多个用于生物研究的开源深度学习模型，覆盖蛋白结构预测、蛋",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6466620.html",
       "title": "Seed 2.1 pro升级实测，字节基模的后劲来了",
@@ -131,7 +212,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "n8n:https://blog.n8n.io/reducing-ai-workflow-latency/",
@@ -171,47 +252,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6466421.html",
-      "title": "不写一个字，却可能是 AI 时代最重要的模型",
-      "summary": "TypeSafe AI 发布的 Jev 不生成任何文字，只在几百毫秒内并行给出带概率值的结构化决策。创始人 Diogo Almeida 是 ChatGPT 的联合发明人之一、RLHF 的重要贡献者，他用两年时间回答一个问题：模型这么聪明，自动化为什么还难落地。 你有没有想过，AI 模型最大的问题从来不是不够聪明，而是不够可靠？我们已经用了好几年的 ChatGPT、Claude、Gemini，它们能写文章、写代码、解释任何概念，聪明得让人",
-      "publishedAt": "2026-09-19T01:33:11.000Z",
-      "url": "https://www.woshipm.com/ai/6466421.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466421.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "TypeSafe AI 发布的 Jev 不生成任何文字，只在几百毫秒内并行给出带概率值的结构化决策。创始人 Diogo Almeida 是 ChatGPT 的联合发明人之一、RLHF 的重要贡献者，他用两年时间回答一个问题：模型这么聪明，自动化为什么还难落地。 你有没有想过，AI 模型最大的问题从来不是不够聪明，而是不够可靠？我们已经用了好几年的 ChatGPT、Claude、Gemini，它们能写文章、写代码、解释任何概念，聪明得让人",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/api-rate-limiting/",
@@ -254,46 +295,6 @@
       "priority": "normal"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6466487.html",
-      "title": "为什么中美头部Agent，不约而同走向开放？",
-      "summary": "Agent 竞争白热化之际，OpenAI、Anthropic 和腾讯却纷纷开放自家 Agent 底座。从 Codex Harness 到 Claude Agent SDK，再到 WorkBuddy 生态，一场围绕 Context 与平台化的暗战已然打响。本文深度拆解三巨头的开放逻辑与差异化路径，揭示 Agent 从 coding 走向通用平台的必然趋势。 Agent 战场打得最凶的时候，跑在最前面的三家公司，却不约而同地打开了自己的“引",
-      "publishedAt": "2026-09-18T08:05:50.000Z",
-      "url": "https://www.woshipm.com/ai/6466487.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466487.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Agent 竞争白热化之际，OpenAI、Anthropic 和腾讯却纷纷开放自家 Agent 底座。从 Codex Harness 到 Claude Agent SDK，再到 WorkBuddy 生态，一场围绕 Context 与平台化的暗战已然打响。本文深度拆解三巨头的开放逻辑与差异化路径，揭示 Agent 从 coding 走向通用平台的必然趋势。 Agent 战场打得最凶的时候，跑在最前面的三家公司，却不约而同地打开了自己的“引",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "ph:https://www.producthunt.com/products/citizen404",
       "title": "citizen404",
       "summary": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
@@ -327,86 +328,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/aexgrid",
-      "title": "AEXGrid",
-      "summary": "Coordinate AI agents. From anywhere.",
-      "publishedAt": "2026-09-18T05:42:36.000Z",
-      "url": "https://www.producthunt.com/products/aexgrid",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/aexgrid",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Coordinate AI agents. From anywhere.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/wombo-the-ai-game-studio",
-      "title": "Wombo",
-      "summary": "AI game studio for 2D graphics assets, sounds, and sfx",
-      "publishedAt": "2026-09-18T05:40:02.000Z",
-      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI game studio for 2D graphics assets, sounds, and sfx",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -451,6 +372,86 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/polishory",
+      "title": "Polishory",
+      "summary": "Get a clear plan to improve your website and prevent AI slop",
+      "publishedAt": "2026-09-18T03:00:06.000Z",
+      "url": "https://www.producthunt.com/products/polishory",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/polishory",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Get a clear plan to improve your website and prevent AI slop",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "title": "Verity Score",
+      "summary": "Track what AI says about your store, fix it, generate blog",
+      "publishedAt": "2026-09-18T01:28:31.000Z",
+      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Track what AI says about your store, fix it, generate blog",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
