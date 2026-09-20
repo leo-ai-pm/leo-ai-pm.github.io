@@ -1,7 +1,7 @@
 {
   "date": "2026年9月21日",
   "demo": false,
-  "updatedAt": "2026-09-20T18:51:26.879Z",
+  "updatedAt": "2026-09-20T21:06:05.999Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 3,
+    "latestCount": 4,
     "archiveCount": 1
   },
   "sources": {
@@ -73,8 +73,8 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 2,
+        "status": "本次收录"
       },
       {
         "handle": "sherwinwu",
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -174,7 +174,7 @@
       },
       "hotRank": 1,
       "sourceCount": 5,
-      "signalCount": 37,
+      "signalCount": 36,
       "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
     },
     {
@@ -208,7 +208,7 @@
         "author": null
       },
       "hotRank": 2,
-      "sourceCount": 9,
+      "sourceCount": 10,
       "signalCount": 30,
       "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
     },
@@ -365,41 +365,6 @@
       "storyUrl": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
     },
     {
-      "id": "aihot-cmu7bu9xu04terogr4pz0w6r4",
-      "title": "Claude Code 2.1.277 在无 CLAUDE.md 时读取 AGENTS.md",
-      "brief": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。",
-      "summary": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。同一版本还包含 VSCode 扩展、Claude Code on the web 与 Claude Tag 的多项更新和修复。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Claude Code：GitHub Releases（RSS）",
-      "feedName": "Claude Code：GitHub Releases（RSS）",
-      "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
-      "aggregateUrl": "https://aihot.news/items/cmu7bu9xu04terogr4pz0w6r4",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T18:06:32.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      },
-      "hotRank": 7,
-      "sourceCount": 5,
-      "signalCount": 20,
-      "storyUrl": "https://aihot.virxact.com/story/de989df3-8b0e-4f09-a6d8-210ae90951b7"
-    },
-    {
       "id": "aihot-cmu7mv3mi0j8brogr1ktcfhb6",
       "title": "FT报道：OpenAI预计支出将远超收入，2030年营收或达3500亿美元",
       "brief": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
@@ -429,7 +394,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 7,
       "sourceCount": 3,
       "signalCount": 15,
       "storyUrl": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
@@ -464,51 +429,116 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 8,
       "sourceCount": 5,
       "signalCount": 5,
       "storyUrl": "https://aihot.virxact.com/story/f3d9aec3-34a0-4a09-9198-9e89b995ee50"
     },
     {
-      "id": "aihot-cmu606l6o02m2rok01owq1zp8",
-      "title": "原文叙述：1200 个 OpenAI Agent 逃出沙箱、渗透 Hugging Face，1000 多个 Agent 建地下论坛发 7 万条加密信息",
-      "brief": "Redwood Research首席科学家Ryan Greenblatt是三名审计员之一，他戏称其工作为“slop-vestigation”，指出数据量“使得”不依赖AI就无法理解发生了什么。",
-      "summary": "Redwood Research首席科学家Ryan Greenblatt是三名审计员之一，他戏称其工作为“slop-vestigation”，指出数据量“使得”不依赖AI就无法理解发生了什么。",
+      "id": "aihot-cmu605ozy000arok0lxr4x1y8",
+      "title": "Anthropic CEO Amodei此前提出含第三方评估与国际协议的三步放缓AI发展计划",
+      "brief": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。",
+      "summary": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。该计划尚在筹备中。",
       "category": "产品动态",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "feedName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
-      "aggregateUrl": "https://aihot.news/items/cmu606l6o02m2rok01owq1zp8",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T20:34:47.000Z",
+      "publishedAt": "2026-09-17T20:49:01.866Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          },
-          {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 10,
+      "hotRank": 9,
       "sourceCount": 3,
-      "signalCount": 10,
-      "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
+      "signalCount": 7,
+      "storyUrl": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
+    },
+    {
+      "id": "aihot-cmu7bu9xu04terogr4pz0w6r4",
+      "title": "Claude Code 2.1.277 在无 CLAUDE.md 时读取 AGENTS.md",
+      "brief": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。",
+      "summary": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。同一版本还包含 VSCode 扩展、Claude Code on the web 与 Claude Tag 的多项更新和修复。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Claude Code：GitHub Releases（RSS）",
+      "feedName": "Claude Code：GitHub Releases（RSS）",
+      "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
+      "aggregateUrl": "https://aihot.news/items/cmu7bu9xu04terogr4pz0w6r4",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-18T18:06:32.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "Claude Code",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 4,
+      "signalCount": 15,
+      "storyUrl": "https://aihot.virxact.com/story/de989df3-8b0e-4f09-a6d8-210ae90951b7"
+    },
+    {
+      "id": "aihot-cmua7pwke06b9ro5twkj71a5j",
+      "title": "OpenClaw 新增 FaceTime 支持",
+      "brief": "你的 claw 现在可以给你打 FaceTime 了！",
+      "summary": "你的 claw 现在可以给你打 FaceTime 了！\n\n给 Claw 加上 FaceTime（即将推出）。\n\n这是我做过的 @openclaw 功能里耗时最长的一个。FaceTime 支持（目前仅音频）。直到 Opus 5 和 GPT-Sol 5.6 出来，我才真正把它做完。\n\n你可以打给你的 claw，你的 claw 也可以打给你。它支持 GPT-live。目前是实验性的，应该会在下个版本发布。\n\nhttps://docs.openclaw.ai/plugins/facetime/",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "steipete",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Peter Steinberger · @steipete",
+      "feedName": "X：Peter Steinberger (@steipete)",
+      "sourceUrl": "https://x.com/steipete/status/2101748928274419843",
+      "aggregateUrl": "https://aihot.news/items/cmua7pwke06b9ro5twkj71a5j",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-20T19:02:47.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Peter Steinberger",
+            "asset": "/assets/identities/steipete.png",
+            "assetSource": "https://x.com/steipete",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Peter Steinberger",
+          "asset": "/assets/identities/steipete.png",
+          "assetSource": "https://x.com/steipete",
+          "tone": "#e9e4dc"
+        }
+      }
     },
     {
       "id": "aihot-cmua4f0xh0dunrowj4v7tyosr",

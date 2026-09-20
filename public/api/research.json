@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-20T18:51:06.512Z",
-      "lastSuccessAt": "2026-09-20T18:51:06.512Z",
-      "nextCheckAt": 1789933866512,
+      "checkedAt": "2026-09-20T21:05:45.006Z",
+      "lastSuccessAt": "2026-09-20T21:05:45.006Z",
+      "nextCheckAt": 1789941945006,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1789933866513,
-      "checkedAt": "2026-09-20T18:51:06.513Z",
-      "lastSuccessAt": "2026-09-20T18:51:06.513Z",
+      "nextCheckAt": 1789941945007,
+      "checkedAt": "2026-09-20T21:05:45.007Z",
+      "lastSuccessAt": "2026-09-20T21:05:45.007Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-20T18:51:06.514Z",
-      "lastSuccessAt": "2026-09-20T18:51:06.514Z",
-      "nextCheckAt": 1789933866514,
+      "checkedAt": "2026-09-20T21:05:45.008Z",
+      "lastSuccessAt": "2026-09-20T21:05:45.008Z",
+      "nextCheckAt": 1789941945008,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789933866681,
-      "checkedAt": "2026-09-20T18:51:06.681Z",
-      "lastSuccessAt": "2026-09-20T18:51:06.681Z",
+      "nextCheckAt": 1789941945160,
+      "checkedAt": "2026-09-20T21:05:45.160Z",
+      "lastSuccessAt": "2026-09-20T21:05:45.160Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789933866512,
+  "nextCheckAt": 1789941945006,
   "refreshing": false,
   "items": [
     {
@@ -375,11 +375,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/lastbox",
-      "title": "Lastbox",
-      "summary": "Put your AI to work on physical junk mail",
-      "publishedAt": "2026-09-17T18:31:54.000Z",
-      "url": "https://www.producthunt.com/products/lastbox",
+      "id": "ph:https://www.producthunt.com/products/polishory",
+      "title": "Polishory",
+      "summary": "Get a clear plan to improve your website and prevent AI slop",
+      "publishedAt": "2026-09-18T03:00:06.000Z",
+      "url": "https://www.producthunt.com/products/polishory",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -403,11 +403,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/lastbox",
+      "sourceUrl": "https://www.producthunt.com/products/polishory",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Put your AI to work on physical junk mail",
+      "brief": "Get a clear plan to improve your website and prevent AI slop",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -415,15 +415,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/proto-mind",
-      "title": "Proto-Mind",
-      "summary": "A floating AI workspace for your Mac",
-      "publishedAt": "2026-09-17T16:57:25.000Z",
-      "url": "https://www.producthunt.com/products/proto-mind",
+      "id": "ph:https://www.producthunt.com/products/contextsbase",
+      "title": "ContextsBase - Backlog for Coding Agents",
+      "summary": "From chat prompts to AI backlog Platform.",
+      "publishedAt": "2026-09-17T19:38:27.000Z",
+      "url": "https://www.producthunt.com/products/contextsbase",
       "linkKind": "original",
       "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -443,11 +443,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/proto-mind",
+      "sourceUrl": "https://www.producthunt.com/products/contextsbase",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "A floating AI workspace for your Mac",
+      "brief": "From chat prompts to AI backlog Platform.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
