@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年9月20日",
+    "date": "2026年9月21日",
     "demo": false,
-    "updatedAt": "2026-09-20T12:14:03.548Z",
+    "updatedAt": "2026-09-20T16:13:14.002Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 3,
+      "latestCount": 2,
       "archiveCount": 1
     },
     "sources": {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 4,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -137,8 +137,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         }
       ]
     },
@@ -174,8 +174,8 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 7,
-        "signalCount": 37,
+        "sourceCount": 6,
+        "signalCount": 39,
         "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
       },
       {
@@ -210,7 +210,7 @@
         },
         "hotRank": 2,
         "sourceCount": 9,
-        "signalCount": 28,
+        "signalCount": 29,
         "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
       },
       {
@@ -244,7 +244,7 @@
           "author": null
         },
         "hotRank": 3,
-        "sourceCount": 3,
+        "sourceCount": 4,
         "signalCount": 12,
         "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
       },
@@ -366,6 +366,41 @@
         "storyUrl": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
       },
       {
+        "id": "aihot-cmu9tfhu904turokx2vfjy34f",
+        "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
+        "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+        "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Qwen：Blog Retrieval（API）",
+        "feedName": "Qwen：Blog Retrieval（API）",
+        "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-20T12:00:00.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Qwen：Blog Retrieval（API）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 5,
+        "signalCount": 4,
+        "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
+      },
+      {
         "id": "aihot-cmu7mv3mi0j8brogr1ktcfhb6",
         "title": "FT报道：OpenAI预计支出将远超收入，2030年营收或达3500亿美元",
         "brief": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
@@ -395,7 +430,7 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 8,
         "sourceCount": 3,
         "signalCount": 15,
         "storyUrl": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
@@ -436,68 +471,33 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 8,
+        "hotRank": 9,
         "sourceCount": 3,
         "signalCount": 11,
         "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
       },
       {
-        "id": "aihot-cmu605ozy000arok0lxr4x1y8",
-        "title": "Anthropic CEO Amodei此前提出含第三方评估与国际协议的三步放缓AI发展计划",
-        "brief": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。",
-        "summary": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。该计划尚在筹备中。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-        "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T20:49:01.866Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 4,
-        "signalCount": 11,
-        "storyUrl": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
-      },
-      {
-        "id": "aihot-cmu6y9sjz0jbyrowkh7tus28l",
-        "title": "ZCode：作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
-        "brief": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。",
-        "summary": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。ZCode 团队关联账号回复被解读为默认，Z.ai 官方截至发稿未回应。",
+        "id": "aihot-cmu9dh37f08gtro8iyj3e3v8x",
+        "title": "硅基流动完成B+轮二期与C轮融资，2026年度累计股权融资额近29亿元",
+        "brief": "据报道，硅基流动近日完成B+轮二期和C轮融资，公司2026年度累计股权融资额近29亿元，投资方包括多只国家级基金、央地国资及产业资本，老股东耀途资本、盛奕资本和国泰创投集团追加投资。",
+        "summary": "据报道，硅基流动近日完成B+轮二期和C轮融资，公司2026年度累计股权融资额近29亿元，投资方包括多只国家级基金、央地国资及产业资本，老股东耀途资本、盛奕资本和国泰创投集团追加投资。资金将用于加大推理引擎、异构算力调度、模型与芯片适配等核心技术研发，强化Token供应平台能力建设并加快全球市场拓展。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News：AI 热帖",
-        "feedName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-        "aggregateUrl": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
+        "sourceName": "IT之家（RSS）",
+        "feedName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/004/727.htm",
+        "aggregateUrl": "https://aihot.news/items/cmu9dh37f08gtro8iyj3e3v8x",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T10:35:28.000Z",
+        "publishedAt": "2026-09-20T04:30:33.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Hacker News：AI 热帖",
+              "name": "IT之家（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -507,41 +507,35 @@
           "author": null
         },
         "hotRank": 10,
-        "sourceCount": 2,
-        "signalCount": 12,
-        "storyUrl": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
+        "sourceCount": 1,
+        "signalCount": 7,
+        "storyUrl": "https://aihot.virxact.com/story/01e9a561-1008-400b-b764-6d0a42d630c2"
       },
       {
-        "id": "aihot-cmu9aeo0h053zro8i3kcdb1gl",
-        "title": "Ethan Mollick 测试 Astra 解谜并生成视频",
-        "brief": "Ethan Mollick 向 Astra 提出与 Claude 相同的问题--选一个困扰自己的谜题并尽力解决，再生成一段可分享的视频，Astra 给出了流畅的结果。",
-        "summary": "Ethan Mollick 向 Astra 提出与 Claude 相同的问题--选一个困扰自己的谜题并尽力解决，再生成一段可分享的视频，Astra 给出了流畅的结果。Astra 的展示内容均来自其实际模拟，但相比 Fable，它表现出更少的模拟好奇心，似乎对结果不那么\"感兴趣\"。",
+        "id": "aihot-cmu9xzgbz074yrowjljttr9f2",
+        "title": "Claude 缺图像生成器的短板",
+        "brief": "Claude 没有图像生成器，这是涉及知识工作的智能体项目中的一大缺口。",
+        "summary": "Claude 没有图像生成器，这是涉及知识工作的智能体项目中的一大缺口。它很擅长用代码来绘制或建模物体，但 Google 和 OpenAI 的图像生成器为其 AI 提供了更多选项，可用于制作 PowerPoint、模型图、信息图等。",
         "category": "产品动态",
-        "topic": "AI 产品",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "emollick",
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2101517626954436623",
-        "aggregateUrl": "https://aihot.news/items/cmu9aeo0h053zro8i3kcdb1gl",
+        "sourceUrl": "https://x.com/emollick/status/2101683717571784879",
+        "aggregateUrl": "https://aihot.news/items/cmu9xzgbz074yrowjljttr9f2",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T03:43:41.000Z",
+        "publishedAt": "2026-09-20T14:43:40.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Ethan Mollick",
-              "asset": "/assets/identities/emollick.jpg",
-              "assetSource": "https://x.com/emollick",
-              "tone": "#e9e4dc"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "产品动态",
@@ -554,73 +548,37 @@
         }
       },
       {
-        "id": "aihot-cmu9llf1x03smro9b3a15u83p",
-        "title": "NVIDIA 全双工语音模型工具调用新架构",
-        "brief": "NVIDIA 提出一种前后端架构，让全双工语音模型通过发出委托 token，将流式转录转发给文本后端 LLM 执行工具调用，再经轻量 prefill-and-repeat 机制回传结果并由 TTS 播报。",
-        "summary": "NVIDIA 提出一种前后端架构，让全双工语音模型通过发出委托 token，将流式转录转发给文本后端 LLM 执行工具调用，再经轻量 prefill-and-repeat 机制回传结果并由 TTS 播报。",
-        "category": "模型进展",
-        "topic": "Agent",
+        "id": "aihot-cmu9zixvm08yvrowjdrrd6n41",
+        "title": "Jev 用例合集自动更新",
+        "brief": "🔥 Awesome Jev Collection 🔥\n\n在我的新 Jev 合集里找灵感吧。",
+        "summary": "🔥 Awesome Jev Collection 🔥\n\n在我的新 Jev 合集里找灵感吧。\n\n（记得收藏）\n\n它会自动更新从 X 上抓取的最新热门 Jev 用例和演示。\n\n由 Jev 自己完成策展。\n\n意外的是，我发现 Jev 在策展方面也很擅长。\n\n链接在此：https://academy.dair.ai/resources/jev-field-notes",
+        "category": "产品动态",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "omarsar0",
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2101597276242325864",
-        "aggregateUrl": "https://aihot.news/items/cmu9llf1x03smro9b3a15u83p",
+        "sourceUrl": "https://x.com/omarsar0/status/2101696753749655863",
+        "aggregateUrl": "https://aihot.news/items/cmu9zixvm08yvrowjdrrd6n41",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T09:00:11.000Z",
+        "publishedAt": "2026-09-20T15:35:28.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "模型进展",
-          "author": {
-            "name": "Elvis Saravia",
-            "asset": "/assets/identities/omarsar0.jpg",
-            "assetSource": "https://x.com/omarsar0",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-cmu8emp3o1iiirogr66c54nvw",
-        "title": "大实验室间的人才流动与信息交换",
-        "brief": "各大实验室彼此隔离，但研究人员过热后跳槽到另一个实验室，信息仍在交换\n\n信息的小颗粒在空中流动",
-        "summary": "各大实验室彼此隔离，但研究人员过热后跳槽到另一个实验室，信息仍在交换\n\n信息的小颗粒在空中流动",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "Thom_Wolf",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Thomas Wolf · @Thom_Wolf",
-        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2101290915876807108",
-        "aggregateUrl": "https://aihot.news/items/cmu8emp3o1iiirogr66c54nvw",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-19T12:42:49.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Thomas Wolf",
-              "asset": "/assets/identities/thom_wolf.jpg",
-              "assetSource": "https://x.com/Thom_Wolf",
+              "name": "Elvis Saravia",
+              "asset": "/assets/identities/omarsar0.jpg",
+              "assetSource": "https://x.com/omarsar0",
               "tone": "#e9e4dc"
             }
           ],
           "caption": "产品动态",
           "author": {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
+            "name": "Elvis Saravia",
+            "asset": "/assets/identities/omarsar0.jpg",
+            "assetSource": "https://x.com/omarsar0",
             "tone": "#e9e4dc"
           }
         }
@@ -666,8 +624,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-20T12:14:03.548Z",
-    "nextCheckAt": 1789906743548,
+    "checkedAt": "2026-09-20T16:13:14.002Z",
+    "nextCheckAt": 1789921094002,
     "intervalSeconds": 300,
     "message": ""
   }

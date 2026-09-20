@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-20T12:13:39.608Z",
-      "lastSuccessAt": "2026-09-20T12:13:39.608Z",
-      "nextCheckAt": 1789910019608,
+      "checkedAt": "2026-09-20T16:12:47.686Z",
+      "lastSuccessAt": "2026-09-20T16:12:47.686Z",
+      "nextCheckAt": 1789924367686,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-20T12:13:39.610Z",
-      "lastSuccessAt": "2026-09-20T12:13:39.610Z",
-      "nextCheckAt": 1789910019610,
       "status": "ok",
+      "nextCheckAt": 1789924367688,
+      "checkedAt": "2026-09-20T16:12:47.688Z",
+      "lastSuccessAt": "2026-09-20T16:12:47.688Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-20T12:13:39.610Z",
-      "lastSuccessAt": "2026-09-20T12:13:39.610Z",
-      "nextCheckAt": 1789910019610,
+      "checkedAt": "2026-09-20T16:12:47.689Z",
+      "lastSuccessAt": "2026-09-20T16:12:47.689Z",
+      "nextCheckAt": 1789924367689,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789910019866,
-      "checkedAt": "2026-09-20T12:13:39.866Z",
-      "lastSuccessAt": "2026-09-20T12:13:39.866Z",
+      "nextCheckAt": 1789924367970,
+      "checkedAt": "2026-09-20T16:12:47.970Z",
+      "lastSuccessAt": "2026-09-20T16:12:47.970Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789910019608,
+  "nextCheckAt": 1789924367686,
   "refreshing": false,
   "items": [
     {
@@ -335,46 +335,6 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/wombo-the-ai-game-studio",
-      "title": "Wombo",
-      "summary": "AI game studio for 2D graphics assets, sounds, and sfx",
-      "publishedAt": "2026-09-18T05:40:02.000Z",
-      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI game studio for 2D graphics assets, sounds, and sfx",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "sspai:https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
       "title": "让 Agent 读懂你的身体：数据获取篇",
       "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...查看全文本文为会员文章，出自<",
@@ -415,11 +375,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/polishory",
-      "title": "Polishory",
-      "summary": "Get a clear plan to improve your website and prevent AI slop",
-      "publishedAt": "2026-09-18T03:00:06.000Z",
-      "url": "https://www.producthunt.com/products/polishory",
+      "id": "ph:https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "title": "Verity Score",
+      "summary": "Track what AI says about your store, fix it, generate blog",
+      "publishedAt": "2026-09-18T01:28:31.000Z",
+      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -443,11 +403,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/polishory",
+      "sourceUrl": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Get a clear plan to improve your website and prevent AI slop",
+      "brief": "Track what AI says about your store, fix it, generate blog",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/lastbox",
+      "title": "Lastbox",
+      "summary": "Put your AI to work on physical junk mail",
+      "publishedAt": "2026-09-17T18:31:54.000Z",
+      "url": "https://www.producthunt.com/products/lastbox",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/lastbox",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Put your AI to work on physical junk mail",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
