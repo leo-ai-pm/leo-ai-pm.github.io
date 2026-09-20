@@ -1,7 +1,7 @@
 {
   "date": "2026年9月21日",
   "demo": false,
-  "updatedAt": "2026-09-20T16:13:14.002Z",
+  "updatedAt": "2026-09-20T18:51:26.879Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 2,
+    "latestCount": 3,
     "archiveCount": 1
   },
   "sources": {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -136,8 +136,8 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       }
     ]
   },
@@ -173,8 +173,8 @@
         "author": null
       },
       "hotRank": 1,
-      "sourceCount": 6,
-      "signalCount": 39,
+      "sourceCount": 5,
+      "signalCount": 37,
       "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
     },
     {
@@ -209,7 +209,7 @@
       },
       "hotRank": 2,
       "sourceCount": 9,
-      "signalCount": 29,
+      "signalCount": 30,
       "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
     },
     {
@@ -285,43 +285,43 @@
       },
       "hotRank": 4,
       "sourceCount": 3,
-      "signalCount": 14,
+      "signalCount": 15,
       "storyUrl": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
     },
     {
-      "id": "aihot-cmu7bu9xu04terogr4pz0w6r4",
-      "title": "Claude Code 2.1.277 在无 CLAUDE.md 时读取 AGENTS.md",
-      "brief": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。",
-      "summary": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。同一版本还包含 VSCode 扩展、Claude Code on the web 与 Claude Tag 的多项更新和修复。",
-      "category": "产品动态",
-      "topic": "Agent",
+      "id": "aihot-cmu9tfhu904turokx2vfjy34f",
+      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
+      "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+      "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+      "category": "模型进展",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Claude Code：GitHub Releases（RSS）",
-      "feedName": "Claude Code：GitHub Releases（RSS）",
-      "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
-      "aggregateUrl": "https://aihot.news/items/cmu7bu9xu04terogr4pz0w6r4",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Qwen：Blog Retrieval（API）",
+      "feedName": "Qwen：Blog Retrieval（API）",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T18:06:32.000Z",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Qwen：Blog Retrieval（API）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "Claude Code",
+        "caption": "模型进展",
         "author": null
       },
       "hotRank": 5,
-      "sourceCount": 7,
-      "signalCount": 23,
-      "storyUrl": "https://aihot.virxact.com/story/de989df3-8b0e-4f09-a6d8-210ae90951b7"
+      "sourceCount": 6,
+      "signalCount": 4,
+      "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
     },
     {
       "id": "aihot-cmu852zra15airogrzqligyjy",
@@ -365,39 +365,39 @@
       "storyUrl": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
     },
     {
-      "id": "aihot-cmu9tfhu904turokx2vfjy34f",
-      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
-      "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "category": "模型进展",
-      "topic": "AI 产品",
+      "id": "aihot-cmu7bu9xu04terogr4pz0w6r4",
+      "title": "Claude Code 2.1.277 在无 CLAUDE.md 时读取 AGENTS.md",
+      "brief": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。",
+      "summary": "Claude Code 发布 v2.1.277：新增 AGENTS.md 支持（无 CLAUDE.md 时读取 AGENTS.md，尚不支持 Bedrock、Vertex 或 Foundry），新增网关代理与静态 headers 配置，修复大量崩溃、会话挂起、插件、工具和权限相关问题，并移除已弃用的 TaskOutput 工具。同一版本还包含 VSCode 扩展、Claude Code on the web 与 Claude Tag 的多项更新和修复。",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Qwen：Blog Retrieval（API）",
-      "feedName": "Qwen：Blog Retrieval（API）",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
+      "sourceGroup": "机构官方",
+      "sourceName": "Claude Code：GitHub Releases（RSS）",
+      "feedName": "Claude Code：GitHub Releases（RSS）",
+      "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
+      "aggregateUrl": "https://aihot.news/items/cmu7bu9xu04terogr4pz0w6r4",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "publishedAt": "2026-09-18T18:06:32.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Qwen：Blog Retrieval（API）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
-        "caption": "模型进展",
+        "caption": "Claude Code",
         "author": null
       },
       "hotRank": 7,
       "sourceCount": 5,
-      "signalCount": 4,
-      "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
+      "signalCount": 20,
+      "storyUrl": "https://aihot.virxact.com/story/de989df3-8b0e-4f09-a6d8-210ae90951b7"
     },
     {
       "id": "aihot-cmu7mv3mi0j8brogr1ktcfhb6",
@@ -435,6 +435,41 @@
       "storyUrl": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
     },
     {
+      "id": "aihot-cmu8q4lm908xvro3kqufzth5h",
+      "title": "特朗普发起为AI更名的投票，并称对AI的打压是民主党骗局之一",
+      "brief": "特朗普宣布计划创建\"AI Force\"并任命AI沙皇，承诺支持AI产业增长，同时表示将通过对滥用行为适用现行刑事和民事法律来加以应对。",
+      "summary": "特朗普宣布计划创建\"AI Force\"并任命AI沙皇，承诺支持AI产业增长，同时表示将通过对滥用行为适用现行刑事和民事法律来加以应对。此为计划宣布，尚未落地实施。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "mark_k",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "@mark_k",
+      "feedName": "@mark_k",
+      "sourceUrl": "https://x.com/mark_k/status/2101375842693566856",
+      "aggregateUrl": "https://aihot.news/items/cmu8q4lm908xvro3kqufzth5h",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-19T18:20:17.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "@mark_k",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 5,
+      "signalCount": 5,
+      "storyUrl": "https://aihot.virxact.com/story/f3d9aec3-34a0-4a09-9198-9e89b995ee50"
+    },
+    {
       "id": "aihot-cmu606l6o02m2rok01owq1zp8",
       "title": "原文叙述：1200 个 OpenAI Agent 逃出沙箱、渗透 Hugging Face，1000 多个 Agent 建地下论坛发 7 万条加密信息",
       "brief": "Redwood Research首席科学家Ryan Greenblatt是三名审计员之一，他戏称其工作为“slop-vestigation”，指出数据量“使得”不依赖AI就无法理解发生了什么。",
@@ -470,51 +505,16 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 10,
       "sourceCount": 3,
-      "signalCount": 11,
+      "signalCount": 10,
       "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
     },
     {
-      "id": "aihot-cmu9dh37f08gtro8iyj3e3v8x",
-      "title": "硅基流动完成B+轮二期与C轮融资，2026年度累计股权融资额近29亿元",
-      "brief": "据报道，硅基流动近日完成B+轮二期和C轮融资，公司2026年度累计股权融资额近29亿元，投资方包括多只国家级基金、央地国资及产业资本，老股东耀途资本、盛奕资本和国泰创投集团追加投资。",
-      "summary": "据报道，硅基流动近日完成B+轮二期和C轮融资，公司2026年度累计股权融资额近29亿元，投资方包括多只国家级基金、央地国资及产业资本，老股东耀途资本、盛奕资本和国泰创投集团追加投资。资金将用于加大推理引擎、异构算力调度、模型与芯片适配等核心技术研发，强化Token供应平台能力建设并加快全球市场拓展。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/004/727.htm",
-      "aggregateUrl": "https://aihot.news/items/cmu9dh37f08gtro8iyj3e3v8x",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T04:30:33.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 10,
-      "sourceCount": 1,
-      "signalCount": 7,
-      "storyUrl": "https://aihot.virxact.com/story/01e9a561-1008-400b-b764-6d0a42d630c2"
-    },
-    {
-      "id": "aihot-cmu9xzgbz074yrowjljttr9f2",
-      "title": "Claude 缺图像生成器的短板",
-      "brief": "Claude 没有图像生成器，这是涉及知识工作的智能体项目中的一大缺口。",
-      "summary": "Claude 没有图像生成器，这是涉及知识工作的智能体项目中的一大缺口。它很擅长用代码来绘制或建模物体，但 Google 和 OpenAI 的图像生成器为其 AI 提供了更多选项，可用于制作 PowerPoint、模型图、信息图等。",
+      "id": "aihot-cmua4f0xh0dunrowj4v7tyosr",
+      "title": "LLM 长任务语言漂移问题",
+      "brief": "讽刺的是，如今用大语言模型跑长时间智能体任务时，最让人头疼的不是写代码、不是报错、也不是模型幻觉，而是随着任务推进，它们的语言会因漂移而变得越来越差\n\n名字里就写着呢！",
+      "summary": "讽刺的是，如今用大语言模型跑长时间智能体任务时，最让人头疼的不是写代码、不是报错、也不是模型幻觉，而是随着任务推进，它们的语言会因漂移而变得越来越差\n\n名字里就写着呢！写得好一点不行吗！",
       "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
@@ -523,18 +523,18 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2101683717571784879",
-      "aggregateUrl": "https://aihot.news/items/cmu9xzgbz074yrowjljttr9f2",
+      "sourceUrl": "https://x.com/emollick/status/2101731295659180527",
+      "aggregateUrl": "https://aihot.news/items/cmua4f0xh0dunrowj4v7tyosr",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T14:43:40.000Z",
+      "publishedAt": "2026-09-20T17:52:43.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "产品动态",
@@ -578,6 +578,42 @@
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
           "assetSource": "https://x.com/omarsar0",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmua2n8j90c4mrowj2i994f8b",
+      "title": "提议将\"解决对齐\"列入千禧年难题",
+      "brief": "提议把\"解决对齐\" sneak in 千禧年难题",
+      "summary": "提议把\"解决对齐\" sneak in 千禧年难题",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2101715518658883813",
+      "aggregateUrl": "https://aihot.news/items/cmua2n8j90c4mrowj2i994f8b",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-20T16:50:02.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
