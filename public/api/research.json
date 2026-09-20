@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-20T01:31:28.792Z",
-      "lastSuccessAt": "2026-09-20T01:31:28.792Z",
-      "nextCheckAt": 1789871488792,
+      "checkedAt": "2026-09-20T06:52:16.554Z",
+      "lastSuccessAt": "2026-09-20T06:52:16.554Z",
+      "nextCheckAt": 1789890736554,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-20T01:31:28.794Z",
-      "lastSuccessAt": "2026-09-20T01:31:28.794Z",
-      "nextCheckAt": 1789871488794,
+      "checkedAt": "2026-09-20T06:52:16.555Z",
+      "lastSuccessAt": "2026-09-20T06:52:16.555Z",
+      "nextCheckAt": 1789890736555,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-20T01:31:28.795Z",
-      "lastSuccessAt": "2026-09-20T01:31:28.795Z",
-      "nextCheckAt": 1789871488795,
+      "checkedAt": "2026-09-20T06:52:16.556Z",
+      "lastSuccessAt": "2026-09-20T06:52:16.556Z",
+      "nextCheckAt": 1789890736556,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789871489072,
-      "checkedAt": "2026-09-20T01:31:29.072Z",
-      "lastSuccessAt": "2026-09-20T01:31:29.072Z",
+      "nextCheckAt": 1789890736827,
+      "checkedAt": "2026-09-20T06:52:16.827Z",
+      "lastSuccessAt": "2026-09-20T06:52:16.827Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,27 +90,28 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789871488792,
+  "nextCheckAt": 1789890736554,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6466902.html",
-      "title": "外网 3500 万人围观的 Jev 模型，有这 10 个神奇玩法。",
-      "summary": "外网最新走红的大模型 Jev，主打的是帮 AI 快速做选择：玩游戏时决定往哪走，处理资料时判断哪些内容有用，用更低的成本、更快的速度给出下一步决定。作者搜罗了一批网友实测，从同时跑 50 局《地铁跑酷》到模拟自动驾驶，玩法相当开脑洞。 Jev 大模型刚发布，就在外网获得大量的讨论。 目前它应该是外网最火的大模型。 Jev 的创始人之前是 OpenAI 的员工，参与 InstructGPT 和人类反馈强化学习的研究。 现在他推出了这个很创",
-      "publishedAt": "2026-09-20T01:12:51.000Z",
-      "url": "https://www.woshipm.com/ai/6466902.html",
+      "id": "woshipm:https://www.woshipm.com/evaluating/6466946.html",
+      "title": "拆解 Perplexity：一个搜索框如何长成 200 亿美元的平台！",
+      "summary": "Perplexity 月活破亿、估值 200 亿，但它真正的赌注不在搜索框，而在 Comet AI 浏览器。本文从产品经理视角拆解其核心循环、设计语言、商业模式与竞品格局，剖析它凭什么值 200 亿，以及最大的裂缝在哪里。 Perplexity 不是搜索引擎。它是一个把”搜索-综合-引用-追问”压缩成一次交互的答案引擎——每个论断有来源，每个来源可点击验证。如今月活破亿、估值 200 亿、年化营收 7.5 亿美元，但它真正的赌注不在搜索",
+      "publishedAt": "2026-09-20T03:36:23.000Z",
+      "url": "https://www.woshipm.com/evaluating/6466946.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
           }
         ],
         "caption": "产品拆解",
@@ -122,11 +123,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466902.html",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6466946.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "外网最新走红的大模型 Jev，主打的是帮 AI 快速做选择：玩游戏时决定往哪走，处理资料时判断哪些内容有用，用更低的成本、更快的速度给出下一步决定。作者搜罗了一批网友实测，从同时跑 50 局《地铁跑酷》到模拟自动驾驶，玩法相当开脑洞。 Jev 大模型刚发布，就在外网获得大量的讨论。 目前它应该是外网最火的大模型。 Jev 的创始人之前是 OpenAI 的员工，参与 InstructGPT 和人类反馈强化学习的研究。 现在他推出了这个很创",
+      "brief": "Perplexity 月活破亿、估值 200 亿，但它真正的赌注不在搜索框，而在 Comet AI 浏览器。本文从产品经理视角拆解其核心循环、设计语言、商业模式与竞品格局，剖析它凭什么值 200 亿，以及最大的裂缝在哪里。 Perplexity 不是搜索引擎。它是一个把”搜索-综合-引用-追问”压缩成一次交互的答案引擎——每个论断有来源，每个来源可点击验证。如今月活破亿、估值 200 亿、年化营收 7.5 亿美元，但它真正的赌注不在搜索",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,51 +135,11 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6466894.html",
-      "title": "多 Agent 协作的最大瓶颈不是模型，是你自己",
-      "summary": "专为 AI Agent 打造的终端工作区管理器正在开发者圈子里走红。跟 tmux 最大的不同，是面板里的 Agent 能直接互相通信，读能力、发消息、接结果都在终端完成，不用 MCP 协议。配上可点击的面板与实时状态，一个人也能把多个 Agent 排成流水线。 先给你看个好玩的。 Shopify CEO Tobi Lütke 上个月发了条推，50 万+浏览，说他最喜欢向别人介绍 Herdr 的方式是：打开一个新工作区，启动一个 Agen",
-      "publishedAt": "2026-09-20T01:08:43.000Z",
-      "url": "https://www.woshipm.com/ai/6466894.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466894.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "专为 AI Agent 打造的终端工作区管理器正在开发者圈子里走红。跟 tmux 最大的不同，是面板里的 Agent 能直接互相通信，读能力、发消息、接结果都在终端完成，不用 MCP 协议。配上可点击的面板与实时状态，一个人也能把多个 Agent 排成流水线。 先给你看个好玩的。 Shopify CEO Tobi Lütke 上个月发了条推，50 万+浏览，说他最喜欢向别人介绍 Herdr 的方式是：打开一个新工作区，启动一个 Agen",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/evaluating/6466837.html",
-      "title": "实测AI办公三强：豆包全能、WorkBuddy够稳、千问还得加把劲",
-      "summary": "9 月以来办公 Agent 又迎来一轮密集更新，阿里的千问办公、腾讯的 WorkBuddy 与字节的豆包工作正面相遇。作者把市场营销、内容运营、产品经理和前端开发四类任务分别交给三家，从竞品报告、贝果物料到原型与代码逐项对比，并给出更适合谁的建议。 9月以来，办公Agent又迎来一轮密集更新。 阿里的千问办公、腾讯的WorkBuddy和字节的豆包工作，三家又一次迎来正面对决。 豆包工作的更新频率最高。9月2日，它上线了多Agents并行",
-      "publishedAt": "2026-09-20T01:04:11.000Z",
-      "url": "https://www.woshipm.com/evaluating/6466837.html",
+      "id": "woshipm:https://www.woshipm.com/evaluating/6467031.html",
+      "title": "Jev新决策模型的试用心得",
+      "summary": "今天刷到一个新出的模型叫 Jev，怪在它不会写字。你给它一段话，它不回话，给的是一个分数、一个概率或者一个 yes/no 的判断。作者为了给自建的知识图谱系统补一个决策模块去充了点钱，玩了一天，聊了聊 vibe coding 为什么让人累。 今天刷到一个新出的模型叫 Jev，看完介绍我直接去 OpenRouter 充了点钱。不是为了追什么新出的 GPT 或者 Claude，就是为了试这个怪东西。 这个模型有点怪。 怪到什么程度呢，它不会",
+      "publishedAt": "2026-09-20T02:59:36.000Z",
+      "url": "https://www.woshipm.com/evaluating/6467031.html",
       "linkKind": "original",
       "opportunity": {
         "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
@@ -202,11 +163,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/evaluating/6466837.html",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6467031.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "9 月以来办公 Agent 又迎来一轮密集更新，阿里的千问办公、腾讯的 WorkBuddy 与字节的豆包工作正面相遇。作者把市场营销、内容运营、产品经理和前端开发四类任务分别交给三家，从竞品报告、贝果物料到原型与代码逐项对比，并给出更适合谁的建议。 9月以来，办公Agent又迎来一轮密集更新。 阿里的千问办公、腾讯的WorkBuddy和字节的豆包工作，三家又一次迎来正面对决。 豆包工作的更新频率最高。9月2日，它上线了多Agents并行",
+      "brief": "今天刷到一个新出的模型叫 Jev，怪在它不会写字。你给它一段话，它不回话，给的是一个分数、一个概率或者一个 yes/no 的判断。作者为了给自建的知识图谱系统补一个决策模块去充了点钱，玩了一天，聊了聊 vibe coding 为什么让人累。 今天刷到一个新出的模型叫 Jev，看完介绍我直接去 OpenRouter 充了点钱。不是为了追什么新出的 GPT 或者 Claude，就是为了试这个怪东西。 这个模型有点怪。 怪到什么程度呢，它不会",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6467024.html",
+      "title": "现在就用WorkBuddy，免费开发部署上线全栈网站应用",
+      "summary": "WorkBuddy 最新的 5.5.6 版本上线了全栈网站应用生成能力，支持一键部署到云服务。老马按官方文档整理了七项核心能力与额度规则：云数据库、文件存储、注册登录、免密钥 AI 调用，免部署、发布即用，还附上手搓网站上线实操。 WorkBuddy也是好起来了，最新的5.5.6版本上线了全栈网站应用生成能力，并且支持一键部署到云服务上，省时省心又省力，这个操作很秒哒。 01 什么是全栈网站应用 什么是全栈网站应用？简单的说，就是你做的",
+      "publishedAt": "2026-09-20T02:56:17.000Z",
+      "url": "https://www.woshipm.com/ai/6467024.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6467024.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "WorkBuddy 最新的 5.5.6 版本上线了全栈网站应用生成能力，支持一键部署到云服务。老马按官方文档整理了七项核心能力与额度规则：云数据库、文件存储、注册登录、免密钥 AI 调用，免部署、发布即用，还附上手搓网站上线实操。 WorkBuddy也是好起来了，最新的5.5.6版本上线了全栈网站应用生成能力，并且支持一键部署到云服务上，省时省心又省力，这个操作很秒哒。 01 什么是全栈网站应用 什么是全栈网站应用？简单的说，就是你做的",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -291,46 +292,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/citizen404",
-      "title": "citizen404",
-      "summary": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
-      "publishedAt": "2026-09-18T07:00:29.000Z",
-      "url": "https://www.producthunt.com/products/citizen404",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/citizen404",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
@@ -447,6 +408,46 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Get a clear plan to improve your website and prevent AI slop",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/ai-class-by-kanary",
+      "title": "AI Class by Kanary",
+      "summary": "Knight or Ninja? Your Codex & Claude logs decide",
+      "publishedAt": "2026-09-18T02:00:46.000Z",
+      "url": "https://www.producthunt.com/products/ai-class-by-kanary",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/ai-class-by-kanary",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Knight or Ninja? Your Codex & Claude logs decide",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

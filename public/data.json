@@ -1,7 +1,7 @@
 {
   "date": "2026年9月20日",
   "demo": false,
-  "updatedAt": "2026-09-20T01:31:37.243Z",
+  "updatedAt": "2026-09-20T06:52:31.075Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 6,
+    "latestCount": 3,
     "archiveCount": 1
   },
   "sources": {
@@ -37,8 +37,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -73,8 +73,8 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 2,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "sherwinwu",
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 4,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -127,8 +127,8 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "Thom_Wolf",
@@ -174,7 +174,7 @@
       },
       "hotRank": 1,
       "sourceCount": 7,
-      "signalCount": 27,
+      "signalCount": 35,
       "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
     },
     {
@@ -209,7 +209,7 @@
       },
       "hotRank": 2,
       "sourceCount": 9,
-      "signalCount": 20,
+      "signalCount": 26,
       "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
     },
     {
@@ -248,117 +248,6 @@
       "storyUrl": "https://aihot.virxact.com/story/de989df3-8b0e-4f09-a6d8-210ae90951b7"
     },
     {
-      "id": "aihot-cmu77kvz00tf6rowk9kl5o4k0",
-      "title": "安全研究人员利用Claude模型攻入OpenAI内部系统",
-      "brief": "s1r1us发推称，7月25日利用两个漏洞接管了OpenAI员工（及部分非关联用户）的ChatGPT/Codex账号，并能访问Outlook、Slack、GitHub等连接服务，通过在OpenAI内部代码库提交PR加以证明，整个过程耗时不到72小时；该推文发布于2026年9月18日。",
-      "summary": "s1r1us发推称，7月25日利用两个漏洞接管了OpenAI员工（及部分非关联用户）的ChatGPT/Codex账号，并能访问Outlook、Slack、GitHub等连接服务，通过在OpenAI内部代码库提交PR加以证明，整个过程耗时不到72小时；该推文发布于2026年9月18日。",
-      "category": "模型进展",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "sourceUrl": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-      "aggregateUrl": "https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T16:29:57.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 4,
-      "sourceCount": 9,
-      "signalCount": 22,
-      "storyUrl": "https://aihot.virxact.com/story/78519df1-3fb1-41fe-8d6a-ffb21373dabc"
-    },
-    {
-      "id": "aihot-cmu7mv3mi0j8brogr1ktcfhb6",
-      "title": "FT报道：OpenAI预计支出将远超收入，2030年营收或达3500亿美元",
-      "brief": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
-      "summary": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "rohanpaul_ai",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "aggregateUrl": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T23:47:57.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 5,
-      "sourceCount": 3,
-      "signalCount": 13,
-      "storyUrl": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
-    },
-    {
-      "id": "aihot-cmu7e0dly06xdrogro9rq1x6d",
-      "title": "报道称AI幻觉情报使美军准备拦截中国船只，险些引发冲突",
-      "brief": "据记者 Katie Bo Lillis 报道，一份 AI 辅助情报报告错误认定中东一艘中国船只运载核武器项目部件，导致美军准备拦截；该信息后被认定为幻觉，报道称此事“险些引发战争”。",
-      "summary": "据记者 Katie Bo Lillis 报道，一份 AI 辅助情报报告错误认定中东一艘中国船只运载核武器项目部件，导致美军准备拦截；该信息后被认定为幻觉，报道称此事“险些引发战争”。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "sourceUrl": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-      "aggregateUrl": "https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T19:52:12.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 7,
-      "signalCount": 9,
-      "storyUrl": "https://aihot.virxact.com/story/99ddcf86-a46c-4413-bce3-cb6fdbcc9465"
-    },
-    {
       "id": "aihot-cmu7vvrzj0snnrogr298gqllj",
       "title": "美国法院受理针对 Anthropic、OpenAI、SpaceXAI、谷歌指控其协调放缓 AI 研发的反垄断集体诉讼",
       "brief": "加州北区联邦法院于9月18日受理一宗由AI服务消费者提起的集体诉讼，指控四家AI巨头高管公开支持放缓AI进展的呼吁，构成违反《谢尔曼反垄断法》的协调行为；原告寻求集体诉讼认证、禁令及违法宣告，目前仅是诉讼指控，尚未有判决。",
@@ -394,63 +283,28 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 4,
       "sourceCount": 2,
-      "signalCount": 8,
+      "signalCount": 13,
       "storyUrl": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
     },
     {
-      "id": "aihot-cmu7emdec07qmrogrh8tfpg5n",
-      "title": "Anthropic 与 Accenture 合作开展嵌入式前沿评测",
-      "brief": "Anthropic宣布与Accenture合作，对前沿AI进行独立嵌入式评估，由Accenture旗下Faculty牵头，包括评估与红队测试模型、开展对齐评估和测试模型保障措施。",
-      "summary": "Anthropic宣布与Accenture合作，对前沿AI进行独立嵌入式评估，由Accenture旗下Faculty牵头，包括评估与红队测试模型、开展对齐评估和测试模型保障措施。双方各自预计未来五年投入至少10亿美元；合作非排他，Anthropic还在与METR等非营利评估方对话。",
-      "category": "产品动态",
-      "topic": "AI 产品",
+      "id": "aihot-cmu77kvz00tf6rowk9kl5o4k0",
+      "title": "安全研究人员利用Claude模型攻入OpenAI内部系统",
+      "brief": "s1r1us发推称，7月25日利用两个漏洞接管了OpenAI员工（及部分非关联用户）的ChatGPT/Codex账号，并能访问Outlook、Slack、GitHub等连接服务，通过在OpenAI内部代码库提交PR加以证明，整个过程耗时不到72小时；该推文发布于2026年9月18日。",
+      "summary": "s1r1us发推称，7月25日利用两个漏洞接管了OpenAI员工（及部分非关联用户）的ChatGPT/Codex账号，并能访问Outlook、Slack、GitHub等连接服务，通过在OpenAI内部代码库提交PR加以证明，整个过程耗时不到72小时；该推文发布于2026年9月18日。",
+      "category": "模型进展",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "feedName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "aggregateUrl": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T16:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 8,
-      "sourceCount": 4,
-      "signalCount": 9,
-      "storyUrl": "https://aihot.virxact.com/story/2383993d-c799-4482-b3c4-03d228176c21"
-    },
-    {
-      "id": "aihot-cmu6w2md70dn6rowkhrozztyv",
-      "title": "据路透社报道，Anthropic悄然建立湿生物学实验室，将Claude与真实生物实验结合",
-      "brief": "据路透社报道，Anthropic已在湾区悄然建成一个生物湿实验室，作为其向实体实验扩展的一步。",
-      "summary": "据路透社报道，Anthropic已在湾区悄然建成一个生物湿实验室，作为其向实体实验扩展的一步。其生命科学负责人确认了该实验室的存在，公司 reportedly 希望让Claude指挥实验室机器人；发言人澄清该实验室并非专门用于药物发现，具体用途未作说明。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "kimmonismus",
       "sourceGroup": "媒体与社区",
-      "sourceName": "X：Kim (@kimmonismus)",
-      "feedName": "X：Kim (@kimmonismus)",
-      "sourceUrl": "https://x.com/kimmonismus/status/2100909694759936384",
-      "aggregateUrl": "https://aihot.news/items/cmu6w2md70dn6rowkhrozztyv",
+      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "sourceUrl": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+      "aggregateUrl": "https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T11:27:58.000Z",
+      "publishedAt": "2026-09-18T16:29:57.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -459,15 +313,21 @@
             "asset": "/assets/identities/anthropicai.jpg",
             "assetSource": "https://x.com/AnthropicAI",
             "tone": "#eddfd0"
+          },
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": null
       },
-      "hotRank": 9,
-      "sourceCount": 5,
-      "signalCount": 9,
-      "storyUrl": "https://aihot.virxact.com/story/37962126-0791-462c-ae01-a1c7f052eaf3"
+      "hotRank": 5,
+      "sourceCount": 7,
+      "signalCount": 20,
+      "storyUrl": "https://aihot.virxact.com/story/78519df1-3fb1-41fe-8d6a-ffb21373dabc"
     },
     {
       "id": "aihot-cmu606l6o02m2rok01owq1zp8",
@@ -505,100 +365,98 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 10,
+      "hotRank": 6,
       "sourceCount": 3,
-      "signalCount": 11,
+      "signalCount": 14,
       "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
     },
     {
-      "id": "aihot-cmu7v9lxu0rxtrogrf3a110nf",
-      "title": "主题演讲预告新内容",
-      "brief": "今天我们在和 @romainhuet 以及 @sama 一起筹备主题演讲，最有意思的部分是想办法把这一切讲给你们听，因为里面有太多好东西，一个接一个，简直有点离谱。",
-      "summary": "今天我们在和 @romainhuet 以及 @sama 一起筹备主题演讲，最有意思的部分是想办法把这一切讲给你们听，因为里面有太多好东西，一个接一个，简直有点离谱。\n\n下周我们就会先放出一些东西，不让你们等太久，但非常兴奋能向大家展示我们一直在做的新东西，以及它们在未来几个月里如何汇聚到一起。",
-      "category": "产品动态",
-      "topic": "AI 产品",
+      "id": "aihot-cmu99pi3604g2ro8iyt4qb7p7",
+      "title": "阶跃发布旗舰模型 Step 5 Preview，跻身 AA 榜单全球开源模型前三，10 月 15 日开源完整权重",
+      "brief": "原文发布 Step 5 Preview 预览版，称其为面向智能体工作的新旗舰模型，在软件工程与专业知识工作（尤其金融）达到前沿水平；采用 600B 总参/27B 激活 MoE，支持 1M 上下文与视觉，称同等智能下任务成本更低，并计划于 10 月 15 日开放权重。",
+      "summary": "原文发布 Step 5 Preview 预览版，称其为面向智能体工作的新旗舰模型，在软件工程与专业知识工作（尤其金融）达到前沿水平；采用 600B 总参/27B 激活 MoE，支持 1M 上下文与视觉，称同等智能下任务成本更低，并计划于 10 月 15 日开放权重。",
+      "category": "模型进展",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2101157729037586694",
-      "aggregateUrl": "https://aihot.news/items/cmu7v9lxu0rxtrogrf3a110nf",
+      "authorHandle": "StepFun_ai",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "feedName": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "sourceUrl": "https://x.com/StepFun_ai/status/2101510462685003786",
+      "aggregateUrl": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-19T03:53:34.000Z",
+      "publishedAt": "2026-09-20T03:15:13.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
+            "name": "X：阶跃星辰 StepFun (@StepFun_ai)",
+            "asset": null,
+            "assetSource": null,
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 7,
+      "sourceCount": 2,
+      "signalCount": 8,
+      "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
     },
     {
-      "id": "aihot-cmu7sx2ew0pf3rogrkvdxa7jc",
-      "title": "roboclaw 运行团队服务器并接入 Discord",
-      "brief": "最酷的部分：roboclaw 运行着我们的团队服务器，已在 Discord 上线，能与 gpt-live 对话，并了解它正在处理的所有会话。",
-      "summary": "最酷的部分：roboclaw 运行着我们的团队服务器，已在 Discord 上线，能与 gpt-live 对话，并了解它正在处理的所有会话。\n\n我们可以在开会时直接向它询问当前和过往会话的上下文。",
+      "id": "aihot-cmu7mv3mi0j8brogr1ktcfhb6",
+      "title": "FT报道：OpenAI预计支出将远超收入，2030年营收或达3500亿美元",
+      "brief": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
+      "summary": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "steipete",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Peter Steinberger · @steipete",
-      "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2101141707375227372",
-      "aggregateUrl": "https://aihot.news/items/cmu7sx2ew0pf3rogrkvdxa7jc",
+      "authorHandle": "rohanpaul_ai",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "aggregateUrl": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-19T02:49:55.000Z",
+      "publishedAt": "2026-09-18T23:47:57.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Peter Steinberger",
-            "asset": "/assets/identities/steipete.png",
-            "assetSource": "https://x.com/steipete",
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "产品动态",
-        "author": {
-          "name": "Peter Steinberger",
-          "asset": "/assets/identities/steipete.png",
-          "assetSource": "https://x.com/steipete",
-          "tone": "#e9e4dc"
-        }
-      }
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 3,
+      "signalCount": 14,
+      "storyUrl": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
     },
     {
-      "id": "aihot-cmu8xjox003x2rodlz60uptb8",
-      "title": "Fable 生成缩放解谜游戏 Umbra",
-      "brief": "值得在不看剧透的情况下试试。",
-      "summary": "值得在不看剧透的情况下试试。我让 Fable：\"我想让你做一个画面精美的游戏，主题是不断缩小视野……让游戏在缩小时带来意想不到的揭示\"\n\n我没给其他任何指示，结果既吸引人又古怪（虽然参差不齐）。试玩：https://play-umbra.netlify.app/",
+      "id": "aihot-cmu605ozy000arok0lxr4x1y8",
+      "title": "Anthropic CEO Amodei此前提出含第三方评估与国际协议的三步放缓AI发展计划",
+      "brief": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。",
+      "summary": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。该计划尚在筹备中。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
-      "platform": "X",
-      "authorHandle": "emollick",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Ethan Mollick · @emollick",
-      "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2101426783430074758",
-      "aggregateUrl": "https://aihot.news/items/cmu8xjox003x2rodlz60uptb8",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-19T21:42:42.000Z",
+      "publishedAt": "2026-09-17T20:49:01.866Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -607,6 +465,88 @@
             "asset": "/assets/identities/anthropicai.jpg",
             "assetSource": "https://x.com/AnthropicAI",
             "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 4,
+      "signalCount": 12,
+      "storyUrl": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
+    },
+    {
+      "id": "aihot-cmu852zra15airogrzqligyjy",
+      "title": "路透：GPT-6 Astra挤压其企业业务领先地位，Anthropic可能推出新模型",
+      "brief": "Anthropic的新模型获得确认，可能是已测试并路由的Opus 5.2和Fable 5.2；但由于IPO已推迟到11月，模型发布时间可能被略微推迟，不过不一定要等到11月。",
+      "summary": "Anthropic的新模型获得确认，可能是已测试并路由的Opus 5.2和Fable 5.2；但由于IPO已推迟到11月，模型发布时间可能被略微推迟，不过不一定要等到11月。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "kimmonismus",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Kim (@kimmonismus)",
+      "feedName": "X：Kim (@kimmonismus)",
+      "sourceUrl": "https://x.com/kimmonismus/status/2101226451861180711",
+      "aggregateUrl": "https://aihot.news/items/cmu852zra15airogrzqligyjy",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-19T08:26:39.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          },
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "GPT-6 Astra",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 3,
+      "signalCount": 10,
+      "storyUrl": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
+    },
+    {
+      "id": "aihot-cmu9aeo0h053zro8i3kcdb1gl",
+      "title": "Ethan Mollick 测试 Astra 解谜并生成视频",
+      "brief": "Ethan Mollick 向 Astra 提出与 Claude 相同的问题--选一个困扰自己的谜题并尽力解决，再生成一段可分享的视频，Astra 给出了流畅的结果。",
+      "summary": "Ethan Mollick 向 Astra 提出与 Claude 相同的问题--选一个困扰自己的谜题并尽力解决，再生成一段可分享的视频，Astra 给出了流畅的结果。Astra 的展示内容均来自其实际模拟，但相比 Fable，它表现出更少的模拟好奇心，似乎对结果不那么\"感兴趣\"。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "emollick",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Ethan Mollick · @emollick",
+      "feedName": "X：Ethan Mollick (@emollick)",
+      "sourceUrl": "https://x.com/emollick/status/2101517626954436623",
+      "aggregateUrl": "https://aihot.news/items/cmu9aeo0h053zro8i3kcdb1gl",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-20T03:43:41.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
+          },
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "产品动态",
@@ -650,42 +590,6 @@
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
           "assetSource": "https://x.com/omarsar0",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmu7ue8w40qzjrogrpggs5w59",
-      "title": "Perplexity Computer 支持连接应用",
-      "brief": "AI 就是操作系统。",
-      "summary": "AI 就是操作系统。\n\n【引用 @AskPerplexity】：现在可以从 Computer 主页的输入框连接应用。\n\n面向所有 Computer 用户，网页版已上线。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "AravSrinivas",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Aravind Srinivas · @AravSrinivas",
-      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2101149706235834829",
-      "aggregateUrl": "https://aihot.news/items/cmu7ue8w40qzjrogrpggs5w59",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-19T03:21:42.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Perplexity",
-            "asset": "/assets/identities/perplexity_ai.jpg",
-            "assetSource": "https://x.com/perplexity_ai",
-            "tone": "#dcebea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Aravind Srinivas",
-          "asset": "/assets/identities/aravsrinivas.jpg",
-          "assetSource": "https://x.com/AravSrinivas",
           "tone": "#e9e4dc"
         }
       }
