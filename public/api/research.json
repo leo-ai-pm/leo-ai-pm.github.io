@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-19T23:26:50.216Z",
-      "lastSuccessAt": "2026-09-19T23:26:50.216Z",
-      "nextCheckAt": 1789864010216,
+      "checkedAt": "2026-09-20T01:31:28.792Z",
+      "lastSuccessAt": "2026-09-20T01:31:28.792Z",
+      "nextCheckAt": 1789871488792,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-20T01:31:28.794Z",
+      "lastSuccessAt": "2026-09-20T01:31:28.794Z",
+      "nextCheckAt": 1789871488794,
       "status": "ok",
-      "nextCheckAt": 1789864010217,
-      "checkedAt": "2026-09-19T23:26:50.217Z",
-      "lastSuccessAt": "2026-09-19T23:26:50.217Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-19T23:26:50.218Z",
-      "lastSuccessAt": "2026-09-19T23:26:50.218Z",
-      "nextCheckAt": 1789864010218,
+      "checkedAt": "2026-09-20T01:31:28.795Z",
+      "lastSuccessAt": "2026-09-20T01:31:28.795Z",
+      "nextCheckAt": 1789871488795,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789864010698,
-      "checkedAt": "2026-09-19T23:26:50.698Z",
-      "lastSuccessAt": "2026-09-19T23:26:50.698Z",
+      "nextCheckAt": 1789871489072,
+      "checkedAt": "2026-09-20T01:31:29.072Z",
+      "lastSuccessAt": "2026-09-20T01:31:29.072Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,55 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789864010216,
+  "nextCheckAt": 1789871488792,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6466931.html",
-      "title": "阿里内测 Qovest，一个面向个人投资者的AI Agent，要帮你赚钱",
-      "summary": "近日，阿里正在内测一个叫做 Qovest 的 AI 金融 Agent产品。 这是一个面向专业个人投资者的 AI 金融投研助手。 Qovest，这个名字，和阿里的Qoder如出一辙，属于invest（投资）的变体。 产品 Slogan：你负责判断，研究交给 Qovest。 产品 logo ，是沉稳的金融蓝风格。 做金融投研时，很费劲的一个事是，关键资料分散在各处，整理耗时。 在Qovest上，支持你对感兴趣的公司、行业、主题、市场，进行深",
-      "publishedAt": "2026-09-19T09:24:00.000Z",
-      "url": "https://www.woshipm.com/ai/6466931.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466931.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "近日，阿里正在内测一个叫做 Qovest 的 AI 金融 Agent产品。 这是一个面向专业个人投资者的 AI 金融投研助手。 Qovest，这个名字，和阿里的Qoder如出一辙，属于invest（投资）的变体。 产品 Slogan：你负责判断，研究交给 Qovest。 产品 logo ，是沉稳的金融蓝风格。 做金融投研时，很费劲的一个事是，关键资料分散在各处，整理耗时。 在Qovest上，支持你对感兴趣的公司、行业、主题、市场，进行深",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6466624.html",
-      "title": "Anthropic 优化 30 多个生物模型，蛋白质设计成本最高降 98%",
-      "summary": "Anthropic 让 Claude 用不到四周优化了 30 多个生物研究开源模型，覆盖蛋白结构预测、蛋白设计与基因组学，平均提速数倍，并把大型分子系统压到单张 GPU 节点上推理。此前要花上万美元算力的蛋白设计流程，如今约 150 美元即可完成计算设计。 9 月 17 日，Anthropic 公布 Claude 在生物分子建模上的一组新结果：不到四周，Claude 优化了 30 多个用于生物研究的开源深度学习模型，覆盖蛋白结构预测、蛋",
-      "publishedAt": "2026-09-19T06:24:01.000Z",
-      "url": "https://www.woshipm.com/ai/6466624.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6466902.html",
+      "title": "外网 3500 万人围观的 Jev 模型，有这 10 个神奇玩法。",
+      "summary": "外网最新走红的大模型 Jev，主打的是帮 AI 快速做选择：玩游戏时决定往哪走，处理资料时判断哪些内容有用，用更低的成本、更快的速度给出下一步决定。作者搜罗了一批网友实测，从同时跑 50 局《地铁跑酷》到模拟自动驾驶，玩法相当开脑洞。 Jev 大模型刚发布，就在外网获得大量的讨论。 目前它应该是外网最火的大模型。 Jev 的创始人之前是 OpenAI 的员工，参与 InstructGPT 和人类反馈强化学习的研究。 现在他推出了这个很创",
+      "publishedAt": "2026-09-20T01:12:51.000Z",
+      "url": "https://www.woshipm.com/ai/6466902.html",
       "linkKind": "original",
       "opportunity": {
         "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
@@ -148,10 +108,9 @@
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -163,23 +122,23 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466624.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6466902.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Anthropic 让 Claude 用不到四周优化了 30 多个生物研究开源模型，覆盖蛋白结构预测、蛋白设计与基因组学，平均提速数倍，并把大型分子系统压到单张 GPU 节点上推理。此前要花上万美元算力的蛋白设计流程，如今约 150 美元即可完成计算设计。 9 月 17 日，Anthropic 公布 Claude 在生物分子建模上的一组新结果：不到四周，Claude 优化了 30 多个用于生物研究的开源深度学习模型，覆盖蛋白结构预测、蛋",
+      "brief": "外网最新走红的大模型 Jev，主打的是帮 AI 快速做选择：玩游戏时决定往哪走，处理资料时判断哪些内容有用，用更低的成本、更快的速度给出下一步决定。作者搜罗了一批网友实测，从同时跑 50 局《地铁跑酷》到模拟自动驾驶，玩法相当开脑洞。 Jev 大模型刚发布，就在外网获得大量的讨论。 目前它应该是外网最火的大模型。 Jev 的创始人之前是 OpenAI 的员工，参与 InstructGPT 和人类反馈强化学习的研究。 现在他推出了这个很创",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6466620.html",
-      "title": "Seed 2.1 pro升级实测，字节基模的后劲来了",
-      "summary": "作者把三款小游戏交给 Claude Code 接 Seed-2.1-pro：一句话出 Flappy Bird，照着截图补完八关的黄油猫，还有地下通道找异常。随后用参考图建模、Seedance 做白模运镜，最后让豆包工作产出产业链报告与可编辑 PPT。 前两天，我和几位好朋友去飞书未来无限大会探了个展。企业端 Agent 应用一大片，有很多不错的案例。 豆包工作接手的活越来越具体，背后的模型能不能持续进步，也就越来越重要 今年 6 月，字",
-      "publishedAt": "2026-09-19T03:43:59.000Z",
-      "url": "https://www.woshipm.com/ai/6466620.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6466894.html",
+      "title": "多 Agent 协作的最大瓶颈不是模型，是你自己",
+      "summary": "专为 AI Agent 打造的终端工作区管理器正在开发者圈子里走红。跟 tmux 最大的不同，是面板里的 Agent 能直接互相通信，读能力、发消息、接结果都在终端完成，不用 MCP 协议。配上可点击的面板与实时状态，一个人也能把多个 Agent 排成流水线。 先给你看个好玩的。 Shopify CEO Tobi Lütke 上个月发了条推，50 万+浏览，说他最喜欢向别人介绍 Herdr 的方式是：打开一个新工作区，启动一个 Agen",
+      "publishedAt": "2026-09-20T01:08:43.000Z",
+      "url": "https://www.woshipm.com/ai/6466894.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -203,11 +162,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6466620.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6466894.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "作者把三款小游戏交给 Claude Code 接 Seed-2.1-pro：一句话出 Flappy Bird，照着截图补完八关的黄油猫，还有地下通道找异常。随后用参考图建模、Seedance 做白模运镜，最后让豆包工作产出产业链报告与可编辑 PPT。 前两天，我和几位好朋友去飞书未来无限大会探了个展。企业端 Agent 应用一大片，有很多不错的案例。 豆包工作接手的活越来越具体，背后的模型能不能持续进步，也就越来越重要 今年 6 月，字",
+      "brief": "专为 AI Agent 打造的终端工作区管理器正在开发者圈子里走红。跟 tmux 最大的不同，是面板里的 Agent 能直接互相通信，读能力、发消息、接结果都在终端完成，不用 MCP 协议。配上可点击的面板与实时状态，一个人也能把多个 Agent 排成流水线。 先给你看个好玩的。 Shopify CEO Tobi Lütke 上个月发了条推，50 万+浏览，说他最喜欢向别人介绍 Herdr 的方式是：打开一个新工作区，启动一个 Agen",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/evaluating/6466837.html",
+      "title": "实测AI办公三强：豆包全能、WorkBuddy够稳、千问还得加把劲",
+      "summary": "9 月以来办公 Agent 又迎来一轮密集更新，阿里的千问办公、腾讯的 WorkBuddy 与字节的豆包工作正面相遇。作者把市场营销、内容运营、产品经理和前端开发四类任务分别交给三家，从竞品报告、贝果物料到原型与代码逐项对比，并给出更适合谁的建议。 9月以来，办公Agent又迎来一轮密集更新。 阿里的千问办公、腾讯的WorkBuddy和字节的豆包工作，三家又一次迎来正面对决。 豆包工作的更新频率最高。9月2日，它上线了多Agents并行",
+      "publishedAt": "2026-09-20T01:04:11.000Z",
+      "url": "https://www.woshipm.com/evaluating/6466837.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6466837.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "9 月以来办公 Agent 又迎来一轮密集更新，阿里的千问办公、腾讯的 WorkBuddy 与字节的豆包工作正面相遇。作者把市场营销、内容运营、产品经理和前端开发四类任务分别交给三家，从竞品报告、贝果物料到原型与代码逐项对比，并给出更适合谁的建议。 9月以来，办公Agent又迎来一轮密集更新。 阿里的千问办公、腾讯的WorkBuddy和字节的豆包工作，三家又一次迎来正面对决。 豆包工作的更新频率最高。9月2日，它上线了多Agents并行",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -295,6 +294,86 @@
       "priority": "normal"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/citizen404",
+      "title": "citizen404",
+      "summary": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+      "publishedAt": "2026-09-18T07:00:29.000Z",
+      "url": "https://www.producthunt.com/products/citizen404",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/citizen404",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "title": "Wombo",
+      "summary": "AI game studio for 2D graphics assets, sounds, and sfx",
+      "publishedAt": "2026-09-18T05:40:02.000Z",
+      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI game studio for 2D graphics assets, sounds, and sfx",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
       "id": "sspai:https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
       "title": "让 Agent 读懂你的身体：数据获取篇",
       "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...查看全文本文为会员文章，出自<",
@@ -368,86 +447,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Get a clear plan to improve your website and prevent AI slop",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/ai-class-by-kanary",
-      "title": "AI Class by Kanary",
-      "summary": "Knight or Ninja? Your Codex & Claude logs decide",
-      "publishedAt": "2026-09-18T02:00:46.000Z",
-      "url": "https://www.producthunt.com/products/ai-class-by-kanary",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/ai-class-by-kanary",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Knight or Ninja? Your Codex & Claude logs decide",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/m9r",
-      "title": "M9R",
-      "summary": "Multiplayer space for your AI coding agents and teams",
-      "publishedAt": "2026-09-18T00:39:11.000Z",
-      "url": "https://www.producthunt.com/products/m9r",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/m9r",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Multiplayer space for your AI coding agents and teams",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
