@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-20T06:52:16.554Z",
-      "lastSuccessAt": "2026-09-20T06:52:16.554Z",
-      "nextCheckAt": 1789890736554,
+      "checkedAt": "2026-09-20T12:13:39.608Z",
+      "lastSuccessAt": "2026-09-20T12:13:39.608Z",
+      "nextCheckAt": 1789910019608,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-20T06:52:16.555Z",
-      "lastSuccessAt": "2026-09-20T06:52:16.555Z",
-      "nextCheckAt": 1789890736555,
+      "checkedAt": "2026-09-20T12:13:39.610Z",
+      "lastSuccessAt": "2026-09-20T12:13:39.610Z",
+      "nextCheckAt": 1789910019610,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-20T06:52:16.556Z",
-      "lastSuccessAt": "2026-09-20T06:52:16.556Z",
-      "nextCheckAt": 1789890736556,
+      "checkedAt": "2026-09-20T12:13:39.610Z",
+      "lastSuccessAt": "2026-09-20T12:13:39.610Z",
+      "nextCheckAt": 1789910019610,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789890736827,
-      "checkedAt": "2026-09-20T06:52:16.827Z",
-      "lastSuccessAt": "2026-09-20T06:52:16.827Z",
+      "nextCheckAt": 1789910019866,
+      "checkedAt": "2026-09-20T12:13:39.866Z",
+      "lastSuccessAt": "2026-09-20T12:13:39.866Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789890736554,
+  "nextCheckAt": 1789910019608,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6467184.html",
+      "title": "比 LLM 快 193 倍、输出 token 免费：Jev 的“判断模型”路线靠谱吗？",
+      "summary": "一个不会写字、只做判断的新模型，来自前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI。这篇笔记梳理了它的 RLCD 训练法、把智能塞进旧壳子的四个比喻，以及十八个行业用例，也如实列出自测数字与「零幻觉」两处可疑的地方。 We’re building prod, not God. 我们要造能投入生产的东西，不是造神。 ——TypeSafe AI 这两天听到不少人提Jev，好奇去官网看了下，特别是他们的宣",
+      "publishedAt": "2026-09-20T08:16:47.000Z",
+      "url": "https://www.woshipm.com/ai/6467184.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6467184.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "一个不会写字、只做判断的新模型，来自前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI。这篇笔记梳理了它的 RLCD 训练法、把智能塞进旧壳子的四个比喻，以及十八个行业用例，也如实列出自测数字与「零幻觉」两处可疑的地方。 We’re building prod, not God. 我们要造能投入生产的东西，不是造神。 ——TypeSafe AI 这两天听到不少人提Jev，好奇去官网看了下，特别是他们的宣",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/evaluating/6466946.html",
       "title": "拆解 Perplexity：一个搜索框如何长成 200 亿美元的平台！",
@@ -132,7 +172,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/evaluating/6467031.html",
@@ -175,44 +215,44 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6467024.html",
-      "title": "现在就用WorkBuddy，免费开发部署上线全栈网站应用",
-      "summary": "WorkBuddy 最新的 5.5.6 版本上线了全栈网站应用生成能力，支持一键部署到云服务。老马按官方文档整理了七项核心能力与额度规则：云数据库、文件存储、注册登录、免密钥 AI 调用，免部署、发布即用，还附上手搓网站上线实操。 WorkBuddy也是好起来了，最新的5.5.6版本上线了全栈网站应用生成能力，并且支持一键部署到云服务上，省时省心又省力，这个操作很秒哒。 01 什么是全栈网站应用 什么是全栈网站应用？简单的说，就是你做的",
-      "publishedAt": "2026-09-20T02:56:17.000Z",
-      "url": "https://www.woshipm.com/ai/6467024.html",
+      "id": "ph:https://www.producthunt.com/products/epismo",
+      "title": "Epismo OS",
+      "summary": "Keep your work when you switch AI tools",
+      "publishedAt": "2026-09-19T20:05:33.000Z",
+      "url": "https://www.producthunt.com/products/epismo",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6467024.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "WorkBuddy 最新的 5.5.6 版本上线了全栈网站应用生成能力，支持一键部署到云服务。老马按官方文档整理了七项核心能力与额度规则：云数据库、文件存储、注册登录、免密钥 AI 调用，免部署、发布即用，还附上手搓网站上线实操。 WorkBuddy也是好起来了，最新的5.5.6版本上线了全栈网站应用生成能力，并且支持一键部署到云服务上，省时省心又省力，这个操作很秒哒。 01 什么是全栈网站应用 什么是全栈网站应用？简单的说，就是你做的",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/epismo",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Keep your work when you switch AI tools",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/reducing-ai-workflow-latency/",
@@ -408,46 +448,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Get a clear plan to improve your website and prevent AI slop",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/ai-class-by-kanary",
-      "title": "AI Class by Kanary",
-      "summary": "Knight or Ninja? Your Codex & Claude logs decide",
-      "publishedAt": "2026-09-18T02:00:46.000Z",
-      "url": "https://www.producthunt.com/products/ai-class-by-kanary",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/ai-class-by-kanary",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Knight or Ninja? Your Codex & Claude logs decide",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
