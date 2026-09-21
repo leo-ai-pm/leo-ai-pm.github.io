@@ -1,7 +1,7 @@
 {
   "date": "2026年9月21日",
   "demo": false,
-  "updatedAt": "2026-09-20T23:11:16.651Z",
+  "updatedAt": "2026-09-21T06:27:23.344Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 4,
+    "latestCount": 5,
     "archiveCount": 1
   },
   "sources": {
@@ -55,8 +55,8 @@
         "group": "产品与工程",
         "focus": "AI 工程与开发者生态",
         "url": "https://x.com/swyx",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "simonw",
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -173,8 +173,8 @@
         "author": null
       },
       "hotRank": 1,
-      "sourceCount": 5,
-      "signalCount": 35,
+      "sourceCount": 4,
+      "signalCount": 31,
       "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
     },
     {
@@ -208,8 +208,8 @@
         "author": null
       },
       "hotRank": 2,
-      "sourceCount": 9,
-      "signalCount": 28,
+      "sourceCount": 5,
+      "signalCount": 17,
       "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
     },
     {
@@ -243,9 +243,44 @@
         "author": null
       },
       "hotRank": 3,
-      "sourceCount": 4,
-      "signalCount": 12,
+      "sourceCount": 5,
+      "signalCount": 11,
       "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
+    },
+    {
+      "id": "aihot-cmu9tfhu904turokx2vfjy34f",
+      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
+      "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+      "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Qwen：Blog Retrieval（API）",
+      "feedName": "Qwen：Blog Retrieval（API）",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Qwen：Blog Retrieval（API）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 4,
+      "sourceCount": 6,
+      "signalCount": 5,
+      "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
     },
     {
       "id": "aihot-cmu7vvrzj0snnrogr298gqllj",
@@ -283,45 +318,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 4,
-      "sourceCount": 3,
-      "signalCount": 15,
-      "storyUrl": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
-    },
-    {
-      "id": "aihot-cmu9tfhu904turokx2vfjy34f",
-      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
-      "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Qwen：Blog Retrieval（API）",
-      "feedName": "Qwen：Blog Retrieval（API）",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Qwen：Blog Retrieval（API）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
       "hotRank": 5,
-      "sourceCount": 6,
-      "signalCount": 4,
-      "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
+      "sourceCount": 2,
+      "signalCount": 12,
+      "storyUrl": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
     },
     {
       "id": "aihot-cmu852zra15airogrzqligyjy",
@@ -361,43 +361,43 @@
       },
       "hotRank": 6,
       "sourceCount": 4,
-      "signalCount": 13,
+      "signalCount": 10,
       "storyUrl": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
     },
     {
-      "id": "aihot-cmu7mv3mi0j8brogr1ktcfhb6",
-      "title": "FT报道：OpenAI预计支出将远超收入，2030年营收或达3500亿美元",
-      "brief": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
-      "summary": "据FT报道，OpenAI预计其支出将远超收入，尽管营收预计从今年360亿美元增长10倍至2030年的3500亿美元；2026-2030年总营收约8400亿美元，而算力支出8560亿美元，累计现金消耗2780亿美元。",
+      "id": "aihot-cmu605ozy000arok0lxr4x1y8",
+      "title": "Anthropic CEO Amodei此前提出含第三方评估与国际协议的三步放缓AI发展计划",
+      "brief": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。",
+      "summary": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。该计划尚在筹备中。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
-      "platform": "X",
-      "authorHandle": "rohanpaul_ai",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "aggregateUrl": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T23:47:57.000Z",
+      "publishedAt": "2026-09-17T20:49:01.866Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "产品动态",
         "author": null
       },
       "hotRank": 7,
-      "sourceCount": 3,
-      "signalCount": 15,
-      "storyUrl": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
+      "sourceCount": 4,
+      "signalCount": 6,
+      "storyUrl": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
     },
     {
       "id": "aihot-cmu8q4lm908xvro3kqufzth5h",
@@ -435,62 +435,62 @@
       "storyUrl": "https://aihot.virxact.com/story/f3d9aec3-34a0-4a09-9198-9e89b995ee50"
     },
     {
-      "id": "aihot-cmu605ozy000arok0lxr4x1y8",
-      "title": "Anthropic CEO Amodei此前提出含第三方评估与国际协议的三步放缓AI发展计划",
-      "brief": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。",
-      "summary": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。该计划尚在筹备中。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-      "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T20:49:01.866Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 9,
-      "sourceCount": 3,
-      "signalCount": 7,
-      "storyUrl": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
-    },
-    {
-      "id": "aihot-cmu9dh37f08gtro8iyj3e3v8x",
-      "title": "硅基流动完成B+轮二期与C轮融资，2026年度累计股权融资额近29亿元",
-      "brief": "据报道，硅基流动近日完成B+轮二期和C轮融资，公司2026年度累计股权融资额近29亿元，投资方包括多只国家级基金、央地国资及产业资本，老股东耀途资本、盛奕资本和国泰创投集团追加投资。",
-      "summary": "据报道，硅基流动近日完成B+轮二期和C轮融资，公司2026年度累计股权融资额近29亿元，投资方包括多只国家级基金、央地国资及产业资本，老股东耀途资本、盛奕资本和国泰创投集团追加投资。资金将用于加大推理引擎、异构算力调度、模型与芯片适配等核心技术研发，强化Token供应平台能力建设并加快全球市场拓展。",
+      "id": "aihot-cmu6y9sjz0jbyrowkh7tus28l",
+      "title": "ZCode：作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
+      "brief": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。",
+      "summary": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。ZCode 团队关联账号回复被解读为默认，Z.ai 官方截至发稿未回应。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
       "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/004/727.htm",
-      "aggregateUrl": "https://aihot.news/items/cmu9dh37f08gtro8iyj3e3v8x",
+      "sourceName": "Hacker News：AI 热帖",
+      "feedName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "aggregateUrl": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T04:30:33.000Z",
+      "publishedAt": "2026-09-18T10:35:28.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "IT之家（RSS）",
+            "name": "Hacker News：AI 热帖",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 2,
+      "signalCount": 6,
+      "storyUrl": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
+    },
+    {
+      "id": "aihot-cmuacp46v0b19ro5tzymtz1qh",
+      "title": "作者称Jev现已向所有人开放，无需候补名单",
+      "brief": "原文称AI产品Jev现已向所有人开放，无候补名单，用户可通过 https://console.typesafe.ai 开始使用。",
+      "summary": "原文称AI产品Jev现已向所有人开放，无候补名单，用户可通过 https://console.typesafe.ai 开始使用。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "typesafeai",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "@typesafeai",
+      "feedName": "@typesafeai",
+      "sourceUrl": "https://x.com/typesafeai/status/2101786156572823624",
+      "aggregateUrl": "https://aihot.news/items/cmuacp46v0b19ro5tzymtz1qh",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-20T21:30:43.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "@typesafeai",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -501,8 +501,44 @@
       },
       "hotRank": 10,
       "sourceCount": 1,
-      "signalCount": 7,
-      "storyUrl": "https://aihot.virxact.com/story/01e9a561-1008-400b-b764-6d0a42d630c2"
+      "signalCount": 4,
+      "storyUrl": "https://aihot.virxact.com/story/0bfc4192-bcb9-4e76-ab63-c7772c0d1a0e"
+    },
+    {
+      "id": "aihot-cmuaopakd0r90ro5t6y64dgck",
+      "title": "Jev 新模型明日发布",
+      "brief": "Jev 明天发布\n\n【引用 @CompleteSkeptic】：在联合发明 ChatGPT 之后，我一直在问自己：为什么超人类水平的聊天模型没有带来 AGI？",
+      "summary": "Jev 明天发布\n\n【引用 @CompleteSkeptic】：在联合发明 ChatGPT 之后，我一直在问自己：为什么超人类水平的聊天模型没有带来 AGI？\n\n过去两年我一直在 stealth 模式下构建一种新的模型训练方式（RLCD），以及一种新型前沿 AI 模型，今天正式发布：Jev\n\n• 快 20-200 倍 • 便宜 40-400 倍（输出 token 免费）• 为决策优化的前沿可组合智能\n\n据我所知，这是通往 AI 驱动的经济革命的最短路径",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "swyx",
+      "sourceGroup": "产品与工程",
+      "sourceName": "swyx · @swyx",
+      "feedName": "X：swyx (@swyx)",
+      "sourceUrl": "https://x.com/swyx/status/2101873256097804529",
+      "aggregateUrl": "https://aihot.news/items/cmuaopakd0r90ro5t6y64dgck",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T03:16:49.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "swyx",
+            "asset": "/assets/identities/swyx.jpg",
+            "assetSource": "https://x.com/swyx",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "模型进展",
+        "author": {
+          "name": "swyx",
+          "asset": "/assets/identities/swyx.jpg",
+          "assetSource": "https://x.com/swyx",
+          "tone": "#e9e4dc"
+        }
+      }
     },
     {
       "id": "aihot-cmua7pwke06b9ro5twkj71a5j",
