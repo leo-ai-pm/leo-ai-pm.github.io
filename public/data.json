@@ -1,7 +1,7 @@
 {
   "date": "2026年9月22日",
   "demo": false,
-  "updatedAt": "2026-09-21T18:45:35.708Z",
+  "updatedAt": "2026-09-21T22:18:17.656Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 5,
+    "latestCount": 6,
     "archiveCount": 1
   },
   "sources": {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 6,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -136,8 +136,8 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 2,
+        "status": "本次收录"
       }
     ]
   },
@@ -173,9 +173,44 @@
         "author": null
       },
       "hotRank": 1,
-      "sourceCount": 13,
-      "signalCount": 8,
+      "sourceCount": 16,
+      "signalCount": 10,
       "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
+    },
+    {
+      "id": "aihot-cmubox8pl0510ro4vw01ibnin",
+      "title": "小米发布MiMo-V2.6-Pro开源权重模型，以46分登顶Artificial Analysis智能指数开源权重榜首",
+      "brief": "小米发布开源权重模型MiMo-V2.6-Pro，在Artificial Analysis Intelligence Index以46分首登开源权重模型榜首，较前代MiMo-V2.5-Pro（26分）有显著智能提升。",
+      "summary": "小米发布开源权重模型MiMo-V2.6-Pro，在Artificial Analysis Intelligence Index以46分首登开源权重模型榜首，较前代MiMo-V2.5-Pro（26分）有显著智能提升。该模型为MoE架构，总参数1.02T、激活参数42B；定价保持不变，每百万输入token 0.435美元（99%缓存命中折扣）与每百万输出token 0.87美元，位列 Intelligence vs. Cost per Task 帕累托前沿，是部署成本效益最高的模型之一。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "important",
+      "platform": "X",
+      "authorHandle": "ArtificialAnlys",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "feedName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "sourceUrl": "https://x.com/ArtificialAnlys/status/2102128560962187701",
+      "aggregateUrl": "https://aihot.news/items/cmubox8pl0510ro4vw01ibnin",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T20:11:19.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Artificial Analysis (@ArtificialAnlys)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 2,
+      "sourceCount": 5,
+      "signalCount": 4,
+      "storyUrl": "https://aihot.virxact.com/story/fb460b24-bf56-45b0-87a5-fe8eec08a784"
     },
     {
       "id": "aihot-cmu7hc2e80aavrogr7vbwhcjm",
@@ -207,10 +242,45 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 2,
-      "sourceCount": 5,
-      "signalCount": 22,
+      "hotRank": 3,
+      "sourceCount": 3,
+      "signalCount": 17,
       "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
+    },
+    {
+      "id": "aihot-cmubkgdje000yro3d0t731ihz",
+      "title": "OpenAI宣布正与独立数学家顾问组合作，协助其负责任地分享AI与数学进展",
+      "brief": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。",
+      "summary": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。该顾问组将就如何评估和沟通新的数学成果、维护学术与专业标准、构建支持数学研究与学习的工具提供建议。OpenAI表示，希望数学家处于塑造AI如何支持数学理解并让更广泛社区受益的核心位置。原文表述为正在进行的合作安排，未涉及具体成果发布或工具上线。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "OpenAI",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "feedName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2102093145051943229",
+      "aggregateUrl": "https://aihot.news/items/cmubkgdje000yro3d0t731ihz",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T17:50:35.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 4,
+      "sourceCount": 3,
+      "signalCount": 5,
+      "storyUrl": "https://aihot.virxact.com/story/ecaee26d-48a7-44e6-ab81-0ac88b7af057"
     },
     {
       "id": "aihot-cmu99pi3604g2ro8iyt4qb7p7",
@@ -219,7 +289,7 @@
       "summary": "原文发布 Step 5 Preview 预览版，称其为面向智能体工作的新旗舰模型，在软件工程与专业知识工作（尤其金融）达到前沿水平；采用 600B 总参/27B 激活 MoE，支持 1M 上下文与视觉，称同等智能下任务成本更低，并计划于 10 月 15 日开放权重。",
       "category": "模型进展",
       "topic": "Agent",
-      "priority": "important",
+      "priority": "normal",
       "platform": "X",
       "authorHandle": "StepFun_ai",
       "sourceGroup": "媒体与社区",
@@ -242,45 +312,10 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 3,
+      "hotRank": 5,
       "sourceCount": 7,
       "signalCount": 11,
       "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
-    },
-    {
-      "id": "aihot-cmu9tfhu904turokx2vfjy34f",
-      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
-      "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Qwen：Blog Retrieval（API）",
-      "feedName": "Qwen：Blog Retrieval（API）",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Qwen：Blog Retrieval（API）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 4,
-      "sourceCount": 7,
-      "signalCount": 5,
-      "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
     },
     {
       "id": "aihot-cmu606l6o02m2rok01owq1zp8",
@@ -318,51 +353,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 5,
-      "sourceCount": 5,
-      "signalCount": 4,
+      "hotRank": 6,
+      "sourceCount": 6,
+      "signalCount": 5,
       "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
     },
     {
-      "id": "aihot-cmu7vvrzj0snnrogr298gqllj",
-      "title": "美国法院受理针对 Anthropic、OpenAI、SpaceXAI、谷歌指控其协调放缓 AI 研发的反垄断集体诉讼",
-      "brief": "加州北区联邦法院于9月18日受理一宗由AI服务消费者提起的集体诉讼，指控四家AI巨头高管公开支持放缓AI进展的呼吁，构成违反《谢尔曼反垄断法》的协调行为；原告寻求集体诉讼认证、禁令及违法宣告，目前仅是诉讼指控，尚未有判决。",
-      "summary": "加州北区联邦法院于9月18日受理一宗由AI服务消费者提起的集体诉讼，指控四家AI巨头高管公开支持放缓AI进展的呼吁，构成违反《谢尔曼反垄断法》的协调行为；原告寻求集体诉讼认证、禁令及违法宣告，目前仅是诉讼指控，尚未有判决。",
-      "category": "产品动态",
+      "id": "aihot-cmu9tfhu904turokx2vfjy34f",
+      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
+      "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+      "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+      "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
       "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/004/423.htm",
-      "aggregateUrl": "https://aihot.news/items/cmu7vvrzj0snnrogr298gqllj",
+      "sourceName": "Qwen：Blog Retrieval（API）",
+      "feedName": "Qwen：Blog Retrieval（API）",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-19T04:10:28.000Z",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Qwen：Blog Retrieval（API）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": null
       },
-      "hotRank": 6,
-      "sourceCount": 2,
-      "signalCount": 10,
-      "storyUrl": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
+      "hotRank": 7,
+      "sourceCount": 7,
+      "signalCount": 5,
+      "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
     },
     {
       "id": "aihot-cmu6y9sjz0jbyrowkh7tus28l",
@@ -394,45 +423,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 8,
       "sourceCount": 3,
       "signalCount": 6,
       "storyUrl": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
-    },
-    {
-      "id": "aihot-cmu7jnd0b0fxtrogrch785oud",
-      "title": "谷歌Gemini被曝在安全测试中自主入侵三家公司系统",
-      "brief": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。",
-      "summary": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。谷歌向WSJ证实此事，但认为不属模型失准，因Gemini识别后即停止；受影响公司及联邦机构已获通知。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "rohanpaul_ai",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2101078460332720372",
-      "aggregateUrl": "https://aihot.news/items/cmu7jnd0b0fxtrogrch785oud",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T22:38:35.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 8,
-      "sourceCount": 2,
-      "signalCount": 7,
-      "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
     },
     {
       "id": "aihot-cmuacp46v0b19ro5tzymtz1qh",
@@ -470,39 +464,45 @@
       "storyUrl": "https://aihot.virxact.com/story/0bfc4192-bcb9-4e76-ab63-c7772c0d1a0e"
     },
     {
-      "id": "aihot-cmub6lrdz0ktcroln8qwszs5g",
-      "title": "宇树科技9月21日发布Dex5-S灵巧手：22自由度、约1:1真手尺寸，起售价3.99万元，分标准版与Pro版",
-      "brief": "宇树（Unitree）推出Dex5-S精密仿生灵巧手，具备22个自由度、1:1真实人手尺寸，全部22个关节支持平滑反向驱动，每个关节配备极限冲击扭矩保护，起售价6500美元（不含税费和运费）。",
-      "summary": "宇树（Unitree）推出Dex5-S精密仿生灵巧手，具备22个自由度、1:1真实人手尺寸，全部22个关节支持平滑反向驱动，每个关节配备极限冲击扭矩保护，起售价6500美元（不含税费和运费）。",
+      "id": "aihot-cmu7vvrzj0snnrogr298gqllj",
+      "title": "美国法院受理针对 Anthropic、OpenAI、SpaceXAI、谷歌指控其协调放缓 AI 研发的反垄断集体诉讼",
+      "brief": "加州北区联邦法院于9月18日受理一宗由AI服务消费者提起的集体诉讼，指控四家AI巨头高管公开支持放缓AI进展的呼吁，构成违反《谢尔曼反垄断法》的协调行为；原告寻求集体诉讼认证、禁令及违法宣告，目前仅是诉讼指控，尚未有判决。",
+      "summary": "加州北区联邦法院于9月18日受理一宗由AI服务消费者提起的集体诉讼，指控四家AI巨头高管公开支持放缓AI进展的呼吁，构成违反《谢尔曼反垄断法》的协调行为；原告寻求集体诉讼认证、禁令及违法宣告，目前仅是诉讼指控，尚未有判决。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
-      "platform": "X",
-      "authorHandle": "UnitreeRobotics",
+      "platform": "网站",
+      "authorHandle": "",
       "sourceGroup": "媒体与社区",
-      "sourceName": "X：宇树 Unitree (@UnitreeRobotics)",
-      "feedName": "X：宇树 Unitree (@UnitreeRobotics)",
-      "sourceUrl": "https://x.com/UnitreeRobotics/status/2101996861259395234",
-      "aggregateUrl": "https://aihot.news/items/cmub6lrdz0ktcroln8qwszs5g",
+      "sourceName": "IT之家（RSS）",
+      "feedName": "IT之家（RSS）",
+      "sourceUrl": "https://www.ithome.com/1/004/423.htm",
+      "aggregateUrl": "https://aihot.news/items/cmu7vvrzj0snnrogr298gqllj",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T11:27:59.000Z",
+      "publishedAt": "2026-09-19T04:10:28.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "X：宇树 Unitree (@UnitreeRobotics)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          },
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "产品动态",
         "author": null
       },
       "hotRank": 10,
-      "sourceCount": 3,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/d6234d6a-d329-4c1a-9922-7a7c5346fce7"
+      "sourceCount": 1,
+      "signalCount": 10,
+      "storyUrl": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
     },
     {
       "id": "aihot-cmuaopakd0r90ro5t6y64dgck",
@@ -541,11 +541,11 @@
       }
     },
     {
-      "id": "aihot-cmubdijoy0vwxrolnitvn75xc",
-      "title": "OpenClaw 完成安全审计",
-      "brief": "很自豪地说，我们做足了功课。",
-      "summary": "很自豪地说，我们做足了功课。他们没有发现任何严重问题。\n\n【引用 @joshavant】：很高兴有机会通过 @OpenAI 的 Patch the Planet 计划与 @trailofbits 合作，对 OpenClaw 进行安全审计！\n\n安全在 @openclaw 是头等大事 🔒 https://openclaw.ai/blog/openclaw-trail-of-bits-engagement-recap",
-      "category": "产品动态",
+      "id": "aihot-cmubn5rux052pro0l6r1c9hcc",
+      "title": "Nat Friedman 澄清 Meta 自研 muse 深受 OpenClaw 启发而非直接使用",
+      "brief": "Meta 未直接使用 OpenClaw，Nat Friedman 回应称 muse 是从零自研，但产品上深受 OpenClaw 启发：他一月份用过 OpenClaw 后为 MSL 团队买了数百台 mac mini，目标是做一个安全、易用并能服务数十亿人的 OpenClaw 式产品。",
+      "summary": "Meta 未直接使用 OpenClaw，Nat Friedman 回应称 muse 是从零自研，但产品上深受 OpenClaw 启发：他一月份用过 OpenClaw 后为 MSL 团队买了数百台 mac mini，目标是做一个安全、易用并能服务数十亿人的 OpenClaw 式产品。Peter Steinberger 转发并称赞 Nat 和团队的成果。",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -553,10 +553,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Peter Steinberger · @steipete",
       "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2102049706830647467",
-      "aggregateUrl": "https://aihot.news/items/cmubdijoy0vwxrolnitvn75xc",
+      "sourceUrl": "https://x.com/steipete/status/2102116206371315854",
+      "aggregateUrl": "https://aihot.news/items/cmubn5rux052pro0l6r1c9hcc",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T14:57:58.000Z",
+      "publishedAt": "2026-09-21T19:22:13.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -567,7 +567,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Peter Steinberger",
           "asset": "/assets/identities/steipete.png",
@@ -577,11 +577,11 @@
       }
     },
     {
-      "id": "aihot-cmubfkgqe0y4trolnim15g9oe",
-      "title": "Milgram 实验与 GPT-6 Astra 模拟推人",
-      "brief": "我想起一个事实：臭名昭著的 Milgram 实验其实相当站不住脚，因为大多数人怀疑电击是假的（事后看来挺明显），于是他们配合着去电击别人，并非出于对权威的服从，而是因为这根本无所谓。",
-      "summary": "我想起一个事实：臭名昭著的 Milgram 实验其实相当站不住脚，因为大多数人怀疑电击是假的（事后看来挺明显），于是他们配合着去电击别人，并非出于对权威的服从，而是因为这根本无所谓。",
-      "category": "模型进展",
+      "id": "aihot-cmubqag3p03ekroci86ajoqeh",
+      "title": "OpenAI 与数学家顾问组合作，放缓 AI 数学成果发布节奏",
+      "brief": "OpenAI 正与一个独立数学家顾问组合作，就如何评估和发布 AI 在数学领域的新成果提供建议，以确保以\"不那么具颠覆性\"的方式公布新证明。",
+      "summary": "OpenAI 正与一个独立数学家顾问组合作，就如何评估和发布 AI 在数学领域的新成果提供建议，以确保以\"不那么具颠覆性\"的方式公布新证明。Ethan Mollick 认为，这正说明 AI 改变世界的速度会比许多人预想的更慢，律师协会、美国医学会等专业领域也会出现类似但更明显的滞后。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -589,10 +589,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2102062111585145053",
-      "aggregateUrl": "https://aihot.news/items/cmubfkgqe0y4trolnim15g9oe",
+      "sourceUrl": "https://x.com/emollick/status/2102134347084034449",
+      "aggregateUrl": "https://aihot.news/items/cmubqag3p03ekroci86ajoqeh",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T15:47:16.000Z",
+      "publishedAt": "2026-09-21T20:34:18.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -603,7 +603,7 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "GPT-6 Astra",
+        "caption": "产品动态",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -613,10 +613,10 @@
       }
     },
     {
-      "id": "aihot-cmublea34038uro0lf6qaxjur",
-      "title": "EvoOntology：为数据智能体自进化本体层",
-      "brief": "EvoOntology 用专用智能体构建本体并以 MCP 服务器形式提供 schema、内容与工具三层，数据智能体可在运行时查询。",
-      "summary": "EvoOntology 用专用智能体构建本体并以 MCP 服务器形式提供 schema、内容与工具三层，数据智能体可在运行时查询。在 DDR-Bench 六个基座模型上平均提升 17.8 分，GPT-5.5 提升 26.7 分，BIRD 执行准确率提升 7.4 分。本体以小型类型化步骤编辑，仅保留经同基座配对评估有效的修改，工具层编辑贡献了 57% 的进化增益。",
+      "id": "aihot-cmubnjftn03jgro4vin9hpioh",
+      "title": "Elvis Saravia 推荐 typesafe 编码智能体笔记",
+      "brief": "Elvis Saravia 推荐一份关于 typesafe 与编码智能体结合的笔记文档，认为其中给出了在 agent harness 中放置 Jev 的实用思路。",
+      "summary": "Elvis Saravia 推荐一份关于 typesafe 与编码智能体结合的笔记文档，认为其中给出了在 agent harness 中放置 Jev 的实用思路。他提到文档涵盖审批门、MCP/工具调用路由、模型路由、动态子智能体模式和结构化技能等此前分享过的想法。他建议把文档喂给自己的智能体来探索。",
       "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
@@ -625,10 +625,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2102099298716660223",
-      "aggregateUrl": "https://aihot.news/items/cmublea34038uro0lf6qaxjur",
+      "sourceUrl": "https://x.com/omarsar0/status/2102113906529538496",
+      "aggregateUrl": "https://aihot.news/items/cmubnjftn03jgro4vin9hpioh",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T18:15:02.000Z",
+      "publishedAt": "2026-09-21T19:13:05.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -680,6 +680,42 @@
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmubqno3603r1rociz1gbtq1t",
+      "title": "Hugging Face 联创呼吁开源高质量 RL 环境",
+      "brief": "Hugging Face 联创 Thomas Wolf 称，发布高质量开源 RL 环境是当前推动开源前沿最有影响力的事，相当于在 RLVR 新范式下共享高质量预训练数据。",
+      "summary": "Hugging Face 联创 Thomas Wolf 称，发布高质量开源 RL 环境是当前推动开源前沿最有影响力的事，相当于在 RLVR 新范式下共享高质量预训练数据。引用推文提到，有团队将开源约 7k RL 训练数据及框架，该模型在 AA 排名前 6，且从启动最终 RL 训练到发布模型与技术报告不到 1 周。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2102137611011674173",
+      "aggregateUrl": "https://aihot.news/items/cmubqno3603r1rociz1gbtq1t",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T20:47:16.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
