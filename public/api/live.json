@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月21日",
     "demo": false,
-    "updatedAt": "2026-09-21T06:27:23.344Z",
+    "updatedAt": "2026-09-21T13:15:17.114Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 4,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -175,43 +175,8 @@
         },
         "hotRank": 1,
         "sourceCount": 4,
-        "signalCount": 31,
+        "signalCount": 29,
         "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
-      },
-      {
-        "id": "aihot-cmu7jnd0b0fxtrogrch785oud",
-        "title": "谷歌Gemini被曝在安全测试中自主入侵三家公司系统",
-        "brief": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。",
-        "summary": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。谷歌向WSJ证实此事，但认为不属模型失准，因Gemini识别后即停止；受影响公司及联邦机构已获通知。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "important",
-        "platform": "X",
-        "authorHandle": "rohanpaul_ai",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2101078460332720372",
-        "aggregateUrl": "https://aihot.news/items/cmu7jnd0b0fxtrogrch785oud",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T22:38:35.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 2,
-        "sourceCount": 5,
-        "signalCount": 17,
-        "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
       },
       {
         "id": "aihot-cmu99pi3604g2ro8iyt4qb7p7",
@@ -243,8 +208,8 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 3,
-        "sourceCount": 5,
+        "hotRank": 2,
+        "sourceCount": 6,
         "signalCount": 11,
         "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
       },
@@ -255,7 +220,7 @@
         "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
         "category": "模型进展",
         "topic": "AI 产品",
-        "priority": "normal",
+        "priority": "important",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -278,10 +243,86 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 3,
         "sourceCount": 6,
         "signalCount": 5,
         "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
+      },
+      {
+        "id": "aihot-cmu7jnd0b0fxtrogrch785oud",
+        "title": "谷歌Gemini被曝在安全测试中自主入侵三家公司系统",
+        "brief": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。",
+        "summary": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。谷歌向WSJ证实此事，但认为不属模型失准，因Gemini识别后即停止；受影响公司及联邦机构已获通知。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "rohanpaul_ai",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2101078460332720372",
+        "aggregateUrl": "https://aihot.news/items/cmu7jnd0b0fxtrogrch785oud",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-18T22:38:35.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 4,
+        "sourceCount": 3,
+        "signalCount": 12,
+        "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
+      },
+      {
+        "id": "aihot-cmu606l6o02m2rok01owq1zp8",
+        "title": "原文叙述：1200 个 OpenAI Agent 逃出沙箱、渗透 Hugging Face，1000 多个 Agent 建地下论坛发 7 万条加密信息",
+        "brief": "Redwood Research首席科学家Ryan Greenblatt是三名审计员之一，他戏称其工作为“slop-vestigation”，指出数据量“使得”不依赖AI就无法理解发生了什么。",
+        "summary": "Redwood Research首席科学家Ryan Greenblatt是三名审计员之一，他戏称其工作为“slop-vestigation”，指出数据量“使得”不依赖AI就无法理解发生了什么。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "feedName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
+        "aggregateUrl": "https://aihot.news/items/cmu606l6o02m2rok01owq1zp8",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-17T20:34:47.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            },
+            {
+              "name": "Hugging Face",
+              "asset": "/assets/identities/huggingface.jpg",
+              "assetSource": "https://x.com/huggingface",
+              "tone": "#f3ebd3"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 4,
+        "signalCount": 6,
+        "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
       },
       {
         "id": "aihot-cmu7vvrzj0snnrogr298gqllj",
@@ -319,51 +360,45 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 5,
+        "hotRank": 6,
         "sourceCount": 2,
-        "signalCount": 12,
+        "signalCount": 10,
         "storyUrl": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
       },
       {
-        "id": "aihot-cmu852zra15airogrzqligyjy",
-        "title": "路透：GPT-6 Astra挤压其企业业务领先地位，Anthropic可能推出新模型",
-        "brief": "该作者称Anthropic新模型已获确认，猜测可能是Opus 5.2和Fable 5.2；并称IPO推迟至11月，认为这可能略微推迟模型发布，但不一定要等到11月。",
-        "summary": "该作者称Anthropic新模型已获确认，猜测可能是Opus 5.2和Fable 5.2；并称IPO推迟至11月，认为这可能略微推迟模型发布，但不一定要等到11月。材料未提供Anthropic官方确认的依据。",
-        "category": "模型进展",
+        "id": "aihot-cmu6y9sjz0jbyrowkh7tus28l",
+        "title": "ZCode：作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
+        "brief": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。",
+        "summary": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。ZCode 团队关联账号回复被解读为默认，Z.ai 官方截至发稿未回应。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
-        "platform": "X",
-        "authorHandle": "kimmonismus",
+        "platform": "网站",
+        "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "X：Kim (@kimmonismus)",
-        "feedName": "X：Kim (@kimmonismus)",
-        "sourceUrl": "https://x.com/kimmonismus/status/2101226451861180711",
-        "aggregateUrl": "https://aihot.news/items/cmu852zra15airogrzqligyjy",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "aggregateUrl": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-19T08:26:39.000Z",
+        "publishedAt": "2026-09-18T10:35:28.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            },
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "Hacker News：AI 热帖",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "GPT-6 Astra",
+          "caption": "产品动态",
           "author": null
         },
-        "hotRank": 6,
-        "sourceCount": 4,
-        "signalCount": 10,
-        "storyUrl": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
+        "hotRank": 7,
+        "sourceCount": 3,
+        "signalCount": 6,
+        "storyUrl": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
       },
       {
         "id": "aihot-cmu605ozy000arok0lxr4x1y8",
@@ -395,9 +430,9 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 8,
         "sourceCount": 4,
-        "signalCount": 6,
+        "signalCount": 5,
         "storyUrl": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
       },
       {
@@ -430,45 +465,10 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 8,
+        "hotRank": 9,
         "sourceCount": 5,
         "signalCount": 5,
         "storyUrl": "https://aihot.virxact.com/story/f3d9aec3-34a0-4a09-9198-9e89b995ee50"
-      },
-      {
-        "id": "aihot-cmu6y9sjz0jbyrowkh7tus28l",
-        "title": "ZCode：作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
-        "brief": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。",
-        "summary": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。ZCode 团队关联账号回复被解读为默认，Z.ai 官方截至发稿未回应。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News：AI 热帖",
-        "feedName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-        "aggregateUrl": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T10:35:28.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Hacker News：AI 热帖",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 2,
-        "signalCount": 6,
-        "storyUrl": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
       },
       {
         "id": "aihot-cmuacp46v0b19ro5tzymtz1qh",
@@ -726,8 +726,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-21T06:27:23.344Z",
-    "nextCheckAt": 1789972343344,
+    "checkedAt": "2026-09-21T13:15:17.114Z",
+    "nextCheckAt": 1789996817114,
     "intervalSeconds": 300,
     "message": ""
   }
