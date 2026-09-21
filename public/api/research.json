@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-20T23:10:57.110Z",
-      "lastSuccessAt": "2026-09-20T23:10:57.110Z",
-      "nextCheckAt": 1789949457110,
+      "checkedAt": "2026-09-21T01:10:46.430Z",
+      "lastSuccessAt": "2026-09-21T01:10:46.430Z",
+      "nextCheckAt": 1789956646430,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-21T01:10:46.431Z",
+      "lastSuccessAt": "2026-09-21T01:10:46.431Z",
+      "nextCheckAt": 1789956646431,
       "status": "ok",
-      "nextCheckAt": 1789949457111,
-      "checkedAt": "2026-09-20T23:10:57.111Z",
-      "lastSuccessAt": "2026-09-20T23:10:57.111Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-20T23:10:57.112Z",
-      "lastSuccessAt": "2026-09-20T23:10:57.112Z",
-      "nextCheckAt": 1789949457112,
+      "checkedAt": "2026-09-21T01:10:46.432Z",
+      "lastSuccessAt": "2026-09-21T01:10:46.432Z",
+      "nextCheckAt": 1789956646432,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1789949457509,
-      "checkedAt": "2026-09-20T23:10:57.509Z",
-      "lastSuccessAt": "2026-09-20T23:10:57.509Z",
+      "nextCheckAt": 1789956646586,
+      "checkedAt": "2026-09-21T01:10:46.586Z",
+      "lastSuccessAt": "2026-09-21T01:10:46.586Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1789949457110,
+  "nextCheckAt": 1789956646430,
   "refreshing": false,
   "items": [
     {
@@ -375,11 +375,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/proto-mind",
-      "title": "Proto-Mind",
-      "summary": "A floating AI workspace for your Mac",
-      "publishedAt": "2026-09-17T16:57:25.000Z",
-      "url": "https://www.producthunt.com/products/proto-mind",
+      "id": "ph:https://www.producthunt.com/products/polishory",
+      "title": "Polishory",
+      "summary": "Get a clear plan to improve your website and prevent AI slop",
+      "publishedAt": "2026-09-18T03:00:06.000Z",
+      "url": "https://www.producthunt.com/products/polishory",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -403,11 +403,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/proto-mind",
+      "sourceUrl": "https://www.producthunt.com/products/polishory",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "A floating AI workspace for your Mac",
+      "brief": "Get a clear plan to improve your website and prevent AI slop",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -415,15 +415,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/morsa-signals",
-      "title": "Morsa Signals",
-      "summary": "GTM and AI visibility workflows for developer tools",
-      "publishedAt": "2026-09-17T15:07:28.000Z",
-      "url": "https://www.producthunt.com/products/morsa-signals",
+      "id": "ph:https://www.producthunt.com/products/contextsbase",
+      "title": "ContextsBase - Backlog for Coding Agents",
+      "summary": "From chat prompts to AI backlog Platform.",
+      "publishedAt": "2026-09-17T19:38:27.000Z",
+      "url": "https://www.producthunt.com/products/contextsbase",
       "linkKind": "original",
       "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -443,11 +443,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/morsa-signals",
+      "sourceUrl": "https://www.producthunt.com/products/contextsbase",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "GTM and AI visibility workflows for developer tools",
+      "brief": "From chat prompts to AI backlog Platform.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
