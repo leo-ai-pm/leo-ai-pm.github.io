@@ -296,9 +296,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-21T13:14:54.159Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.159Z",
-      "nextCheckAt": 1789997394159,
+      "checkedAt": "2026-09-21T18:45:12.629Z",
+      "lastSuccessAt": "2026-09-21T18:45:12.629Z",
+      "nextCheckAt": 1790017212629,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -318,6 +318,35 @@
     {
       "id": "xpin",
       "items": [
+        {
+          "id": "xpin:https://www.thexpin.com/p/weekly-dose-of-china-tech-092126",
+          "creatorId": "xpin",
+          "title": "Weekly Dose of China Tech [9.21.2026]",
+          "summary": "China-US AI Safety Debate, iPhone Duo China Supply Chain, BYD's European Truck Expansion, Z.ai's Data Security Controversy + One More Thing",
+          "publishedAt": "2026-09-21T14:31:38.000Z",
+          "url": "https://www.thexpin.com/p/weekly-dose-of-china-tech-092126",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "差评 X.PIN",
+                "asset": "/assets/identities/creator_xpin.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "科技媒体",
+            "author": {
+              "name": "差评 X.PIN",
+              "asset": "/assets/identities/creator_xpin.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "xpin:https://www.thexpin.com/p/iphone-duo-in-china-foldable-war",
           "creatorId": "xpin",
@@ -578,40 +607,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "xpin:https://www.thexpin.com/p/cxmt-lpddr6-china-ai-bet",
-          "creatorId": "xpin",
-          "title": "CXMT’s LPDDR6 Gambit Is Bigger Than Smartphones",
-          "summary": "CXMT’s LPDDR6 debut in Xiaomi 18 Fold is just the start. Discover how China’s top memory chip maker is taking on AI servers and PCs.",
-          "publishedAt": "2026-09-02T16:30:46.000Z",
-          "url": "https://www.thexpin.com/p/cxmt-lpddr6-china-ai-bet",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-            "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "差评 X.PIN",
-                "asset": "/assets/identities/creator_xpin.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "科技媒体",
-            "author": {
-              "name": "差评 X.PIN",
-              "asset": "/assets/identities/creator_xpin.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-09-21T13:14:54.160Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.160Z",
-      "nextCheckAt": 1789997394160,
+      "checkedAt": "2026-09-21T18:45:12.629Z",
+      "lastSuccessAt": "2026-09-21T18:45:12.629Z",
+      "nextCheckAt": 1790017212629,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -924,9 +924,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-21T13:14:54.161Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.161Z",
-      "nextCheckAt": 1789997394161,
+      "checkedAt": "2026-09-21T18:45:12.630Z",
+      "lastSuccessAt": "2026-09-21T18:45:12.630Z",
+      "nextCheckAt": 1790017212630,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -946,6 +946,35 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520828&idx=1&sn=9a0c20764ccc8e1b024ede816a667fda",
+          "creatorId": "cyber",
+          "title": "简单讲讲 Agent 的工作原理",
+          "summary": "各类 Agent 产品，背后原理大致相同",
+          "publishedAt": "2026-09-21T10:23:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520828&idx=1&sn=9a0c20764ccc8e1b024ede816a667fda",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "赛博禅心",
+                "asset": "/assets/identities/creator_cyber.jpg",
+                "tone": "#dcebea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520812&idx=1&sn=502fb89a944d2a89c06bfc9da539a249",
           "creatorId": "cyber",
@@ -1206,40 +1235,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520463&idx=1&sn=bca80398b1980b2c670d6097e246735e",
-          "creatorId": "cyber",
-          "title": "DeepSeek 大幅降价",
-          "summary": "缓存价格 -60%",
-          "publishedAt": "2026-09-08T15:25:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520463&idx=1&sn=bca80398b1980b2c670d6097e246735e",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-            "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-09-21T13:14:54.529Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.529Z",
-      "nextCheckAt": 1789997394529,
+      "checkedAt": "2026-09-21T18:45:13.015Z",
+      "lastSuccessAt": "2026-09-21T18:45:13.015Z",
+      "nextCheckAt": 1790017213015,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1555,9 +1555,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-21T13:14:54.616Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.616Z",
-      "nextCheckAt": 1789997394616,
+      "checkedAt": "2026-09-21T18:45:13.039Z",
+      "lastSuccessAt": "2026-09-21T18:45:13.039Z",
+      "nextCheckAt": 1790017213039,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1875,9 +1875,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-21T13:14:54.653Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.653Z",
-      "nextCheckAt": 1789997394653,
+      "checkedAt": "2026-09-21T18:45:13.094Z",
+      "lastSuccessAt": "2026-09-21T18:45:13.094Z",
+      "nextCheckAt": 1790017213094,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1896,6 +1896,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1789997394159,
+  "nextCheckAt": 1790017212629,
   "refreshing": false
 }

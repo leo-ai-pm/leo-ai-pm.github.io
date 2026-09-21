@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-21T13:14:54.162Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.162Z",
-      "nextCheckAt": 1790000094162,
+      "checkedAt": "2026-09-21T18:45:12.631Z",
+      "lastSuccessAt": "2026-09-21T18:45:12.631Z",
+      "nextCheckAt": 1790019912631,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-21T13:14:54.164Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.164Z",
-      "nextCheckAt": 1790000094164,
+      "checkedAt": "2026-09-21T18:45:12.632Z",
+      "lastSuccessAt": "2026-09-21T18:45:12.632Z",
+      "nextCheckAt": 1790019912632,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-21T13:14:54.165Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.165Z",
-      "nextCheckAt": 1790000094165,
+      "checkedAt": "2026-09-21T18:45:12.632Z",
+      "lastSuccessAt": "2026-09-21T18:45:12.632Z",
+      "nextCheckAt": 1790019912632,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-21T13:14:54.647Z",
-      "lastSuccessAt": "2026-09-21T13:14:54.647Z",
-      "nextCheckAt": 1790000094647,
+      "checkedAt": "2026-09-21T18:45:12.920Z",
+      "lastSuccessAt": "2026-09-21T18:45:12.920Z",
+      "nextCheckAt": 1790019912920,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790000094162,
+  "nextCheckAt": 1790019912631,
   "refreshing": false,
   "items": [
+    {
+      "id": "n8n:https://blog.n8n.io/prompt-testing-frameworks/",
+      "title": "Prompt Testing Frameworks for Production AI Workflows",
+      "summary": "Still guessing if your prompts work? Learn how to build a systematic prompt testing framework that catches regressions before they reach production.",
+      "publishedAt": "2026-09-21T17:28:51.000Z",
+      "url": "https://blog.n8n.io/prompt-testing-frameworks/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/prompt-testing-frameworks/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Still guessing if your prompts work? Learn how to build a systematic prompt testing framework that catches regressions before they reach production.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "lead"
+    },
+    {
+      "id": "sspai:https://sspai.com/post/114829",
+      "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+      "summary": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...",
+      "publishedAt": "2026-09-21T13:02:58.000Z",
+      "url": "https://sspai.com/post/114829",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/114829",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6467980.html",
       "title": "一万字Jev 工程实践长文：把 Agent 的“判断题”从大模型里拆出来",
@@ -131,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6467737.html",
@@ -172,7 +252,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/google",
@@ -213,7 +293,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/post/114519",
@@ -409,46 +489,6 @@
       "category": "工作流与实践",
       "platform": "英文官方博客",
       "brief": "API rate limiting doesn't have to mean failed workflows. Learn how limits work and how to handle 429s with retries, batching, and smart pacing.",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/gateway-credits/",
-      "title": "Try new models and services, skip the account setup",
-      "summary": "Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential",
-      "publishedAt": "2026-09-16T23:39:42.000Z",
-      "url": "https://blog.n8n.io/gateway-credits/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/gateway-credits/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

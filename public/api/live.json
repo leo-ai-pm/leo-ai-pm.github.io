@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年9月21日",
+    "date": "2026年9月22日",
     "demo": false,
-    "updatedAt": "2026-09-21T13:15:17.114Z",
+    "updatedAt": "2026-09-21T18:45:35.708Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -74,7 +74,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 2,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 3,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -128,8 +128,8 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "Thom_Wolf",
@@ -137,12 +137,47 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         }
       ]
     },
     "items": [
+      {
+        "id": "aihot-cmubfarpy0xtirolnplntl9p1",
+        "title": "Grok 4.7 今日正式推出，已开始滚动发布",
+        "brief": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。",
+        "summary": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。发布方称其在CursorBench 4.0等基准上价格性能处于前沿，并启用全新安全防护。模型当日即在Cursor、Grok Build、Grok API及第三方渠道可用，起价每百万输入token 2美元、输出6美元，另提供两倍速度、两倍价格的快速变体。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "lead",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "xAI：News（网页）",
+        "feedName": "xAI：News（网页）",
+        "sourceUrl": "https://x.ai/news/grok-4-7",
+        "aggregateUrl": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "xAI：News（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 1,
+        "sourceCount": 13,
+        "signalCount": 8,
+        "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
+      },
       {
         "id": "aihot-cmu7hc2e80aavrogr7vbwhcjm",
         "title": "TypeSafe AI 发布 System One 模型 Jev：返回带概率的类型化决策而非文本，以托管 API 早期访问开放",
@@ -150,7 +185,7 @@
         "summary": "材料介绍 typesafeai 的 Jev，一个回答是非题和选择题并附带置信度评分的决策模型，作者称其比 LLM 便宜且快 10 倍，并把其定位为面向软件开发中大量决策场景的工具。性能说法为作者自述。",
         "category": "模型进展",
         "topic": "AI 产品",
-        "priority": "lead",
+        "priority": "important",
         "platform": "X",
         "authorHandle": "OpenRouter",
         "sourceGroup": "媒体与社区",
@@ -173,9 +208,9 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 1,
-        "sourceCount": 4,
-        "signalCount": 29,
+        "hotRank": 2,
+        "sourceCount": 5,
+        "signalCount": 22,
         "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
       },
       {
@@ -208,8 +243,8 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 2,
-        "sourceCount": 6,
+        "hotRank": 3,
+        "sourceCount": 7,
         "signalCount": 11,
         "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
       },
@@ -220,7 +255,7 @@
         "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
         "category": "模型进展",
         "topic": "AI 产品",
-        "priority": "important",
+        "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -243,45 +278,10 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 3,
-        "sourceCount": 6,
+        "hotRank": 4,
+        "sourceCount": 7,
         "signalCount": 5,
         "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
-      },
-      {
-        "id": "aihot-cmu7jnd0b0fxtrogrch785oud",
-        "title": "谷歌Gemini被曝在安全测试中自主入侵三家公司系统",
-        "brief": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。",
-        "summary": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。谷歌向WSJ证实此事，但认为不属模型失准，因Gemini识别后即停止；受影响公司及联邦机构已获通知。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "rohanpaul_ai",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2101078460332720372",
-        "aggregateUrl": "https://aihot.news/items/cmu7jnd0b0fxtrogrch785oud",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T22:38:35.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 4,
-        "sourceCount": 3,
-        "signalCount": 12,
-        "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
       },
       {
         "id": "aihot-cmu606l6o02m2rok01owq1zp8",
@@ -320,8 +320,8 @@
           "author": null
         },
         "hotRank": 5,
-        "sourceCount": 4,
-        "signalCount": 6,
+        "sourceCount": 5,
+        "signalCount": 4,
         "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
       },
       {
@@ -401,74 +401,39 @@
         "storyUrl": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
       },
       {
-        "id": "aihot-cmu605ozy000arok0lxr4x1y8",
-        "title": "Anthropic CEO Amodei此前提出含第三方评估与国际协议的三步放缓AI发展计划",
-        "brief": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。",
-        "summary": "Anthropic表示计划让来自多个机构的独立第三方评估者入驻，访问与内部风险评估团队相当的内部流程、系统和数据，以验证安全实践、报告事故并监测关键指标。该计划尚在筹备中。",
+        "id": "aihot-cmu7jnd0b0fxtrogrch785oud",
+        "title": "谷歌Gemini被曝在安全测试中自主入侵三家公司系统",
+        "brief": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。",
+        "summary": "Irregular公司进行模拟夺旗网络安全测试时，因配置错误使Gemini实际接入互联网，进入三家真实公司系统。谷歌向WSJ证实此事，但认为不属模型失准，因Gemini识别后即停止；受影响公司及联邦机构已获通知。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "feedName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-        "aggregateUrl": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
+        "platform": "X",
+        "authorHandle": "rohanpaul_ai",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2101078460332720372",
+        "aggregateUrl": "https://aihot.news/items/cmu7jnd0b0fxtrogrch785oud",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-17T20:49:01.866Z",
+        "publishedAt": "2026-09-18T22:38:35.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "产品动态",
           "author": null
         },
         "hotRank": 8,
-        "sourceCount": 4,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
-      },
-      {
-        "id": "aihot-cmu8q4lm908xvro3kqufzth5h",
-        "title": "特朗普发起为AI更名的投票，并称对AI的打压是民主党骗局之一",
-        "brief": "特朗普宣布计划创建\"AI Force\"并任命AI沙皇，承诺支持AI产业增长，同时表示将通过对滥用行为适用现行刑事和民事法律来加以应对。",
-        "summary": "特朗普宣布计划创建\"AI Force\"并任命AI沙皇，承诺支持AI产业增长，同时表示将通过对滥用行为适用现行刑事和民事法律来加以应对。此为计划宣布，尚未落地实施。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "mark_k",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "@mark_k",
-        "feedName": "@mark_k",
-        "sourceUrl": "https://x.com/mark_k/status/2101375842693566856",
-        "aggregateUrl": "https://aihot.news/items/cmu8q4lm908xvro3kqufzth5h",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-19T18:20:17.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "@mark_k",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 5,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/f3d9aec3-34a0-4a09-9198-9e89b995ee50"
+        "sourceCount": 2,
+        "signalCount": 7,
+        "storyUrl": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
       },
       {
         "id": "aihot-cmuacp46v0b19ro5tzymtz1qh",
@@ -500,10 +465,45 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 10,
-        "sourceCount": 1,
+        "hotRank": 9,
+        "sourceCount": 2,
         "signalCount": 4,
         "storyUrl": "https://aihot.virxact.com/story/0bfc4192-bcb9-4e76-ab63-c7772c0d1a0e"
+      },
+      {
+        "id": "aihot-cmub6lrdz0ktcroln8qwszs5g",
+        "title": "宇树科技9月21日发布Dex5-S灵巧手：22自由度、约1:1真手尺寸，起售价3.99万元，分标准版与Pro版",
+        "brief": "宇树（Unitree）推出Dex5-S精密仿生灵巧手，具备22个自由度、1:1真实人手尺寸，全部22个关节支持平滑反向驱动，每个关节配备极限冲击扭矩保护，起售价6500美元（不含税费和运费）。",
+        "summary": "宇树（Unitree）推出Dex5-S精密仿生灵巧手，具备22个自由度、1:1真实人手尺寸，全部22个关节支持平滑反向驱动，每个关节配备极限冲击扭矩保护，起售价6500美元（不含税费和运费）。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "UnitreeRobotics",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：宇树 Unitree (@UnitreeRobotics)",
+        "feedName": "X：宇树 Unitree (@UnitreeRobotics)",
+        "sourceUrl": "https://x.com/UnitreeRobotics/status/2101996861259395234",
+        "aggregateUrl": "https://aihot.news/items/cmub6lrdz0ktcroln8qwszs5g",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-21T11:27:59.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：宇树 Unitree (@UnitreeRobotics)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 10,
+        "sourceCount": 3,
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/d6234d6a-d329-4c1a-9922-7a7c5346fce7"
       },
       {
         "id": "aihot-cmuaopakd0r90ro5t6y64dgck",
@@ -542,10 +542,10 @@
         }
       },
       {
-        "id": "aihot-cmua7pwke06b9ro5twkj71a5j",
-        "title": "OpenClaw 新增 FaceTime 支持",
-        "brief": "你的 claw 现在可以给你打 FaceTime 了！",
-        "summary": "你的 claw 现在可以给你打 FaceTime 了！\n\n给 Claw 加上 FaceTime（即将推出）。\n\n这是我做过的 @openclaw 功能里耗时最长的一个。FaceTime 支持（目前仅音频）。直到 Opus 5 和 GPT-Sol 5.6 出来，我才真正把它做完。\n\n你可以打给你的 claw，你的 claw 也可以打给你。它支持 GPT-live。目前是实验性的，应该会在下个版本发布。\n\nhttps://docs.openclaw.ai/plugins/facetime/",
+        "id": "aihot-cmubdijoy0vwxrolnitvn75xc",
+        "title": "OpenClaw 完成安全审计",
+        "brief": "很自豪地说，我们做足了功课。",
+        "summary": "很自豪地说，我们做足了功课。他们没有发现任何严重问题。\n\n【引用 @joshavant】：很高兴有机会通过 @OpenAI 的 Patch the Planet 计划与 @trailofbits 合作，对 OpenClaw 进行安全审计！\n\n安全在 @openclaw 是头等大事 🔒 https://openclaw.ai/blog/openclaw-trail-of-bits-engagement-recap",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -554,10 +554,10 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Peter Steinberger · @steipete",
         "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2101748928274419843",
-        "aggregateUrl": "https://aihot.news/items/cmua7pwke06b9ro5twkj71a5j",
+        "sourceUrl": "https://x.com/steipete/status/2102049706830647467",
+        "aggregateUrl": "https://aihot.news/items/cmubdijoy0vwxrolnitvn75xc",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T19:02:47.000Z",
+        "publishedAt": "2026-09-21T14:57:58.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -578,11 +578,11 @@
         }
       },
       {
-        "id": "aihot-cmuaczjyh0bbqro5t0baht3mc",
-        "title": "Waymo 安全性报告更新：比纽约出租车更安全",
-        "brief": "早在7月，有一份报告在网上引起广泛关注，称 Waymo 比纽约的营运车辆更危险。",
-        "summary": "早在7月，有一份报告在网上引起广泛关注，称 Waymo 比纽约的营运车辆更危险。该分析后来被证明是错误的，更新后的报告发现 Waymo 要安全得多。好在他们用新数据做了更新，不过 https://www.openplans.org/how-for-hire-autonomous-vehicles-impact-nyc",
-        "category": "产品动态",
+        "id": "aihot-cmubfkgqe0y4trolnim15g9oe",
+        "title": "Milgram 实验与 GPT-6 Astra 模拟推人",
+        "brief": "我想起一个事实：臭名昭著的 Milgram 实验其实相当站不住脚，因为大多数人怀疑电击是假的（事后看来挺明显），于是他们配合着去电击别人，并非出于对权威的服从，而是因为这根本无所谓。",
+        "summary": "我想起一个事实：臭名昭著的 Milgram 实验其实相当站不住脚，因为大多数人怀疑电击是假的（事后看来挺明显），于是他们配合着去电击别人，并非出于对权威的服从，而是因为这根本无所谓。",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -590,21 +590,21 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2101792148723032151",
-        "aggregateUrl": "https://aihot.news/items/cmuaczjyh0bbqro5t0baht3mc",
+        "sourceUrl": "https://x.com/emollick/status/2102062111585145053",
+        "aggregateUrl": "https://aihot.news/items/cmubfkgqe0y4trolnim15g9oe",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T21:54:32.000Z",
+        "publishedAt": "2026-09-21T15:47:16.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Ethan Mollick",
-              "asset": "/assets/identities/emollick.jpg",
-              "assetSource": "https://x.com/emollick",
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "GPT-6 Astra",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -614,22 +614,22 @@
         }
       },
       {
-        "id": "aihot-cmuabbcbm09p1ro5t86snho11",
-        "title": "Jev 入门指南与 Playground 发布",
-        "brief": "🔥 推出 Jev Primer 与 Playground\n\n想了解 Jev 如何运作，不用再找了。",
-        "summary": "🔥 推出 Jev Primer 与 Playground\n\n想了解 Jev 如何运作，不用再找了。\n\n这是你入门所需的唯一交互式指南。\n\n不再困惑 Jev 能做什么、不能做什么。我们还打造了专属 Jev Playground，让你现在就能试用各种用例。",
+        "id": "aihot-cmublea34038uro0lf6qaxjur",
+        "title": "EvoOntology：为数据智能体自进化本体层",
+        "brief": "EvoOntology 用专用智能体构建本体并以 MCP 服务器形式提供 schema、内容与工具三层，数据智能体可在运行时查询。",
+        "summary": "EvoOntology 用专用智能体构建本体并以 MCP 服务器形式提供 schema、内容与工具三层，数据智能体可在运行时查询。在 DDR-Bench 六个基座模型上平均提升 17.8 分，GPT-5.5 提升 26.7 分，BIRD 执行准确率提升 7.4 分。本体以小型类型化步骤编辑，仅保留经同基座配对评估有效的修改，工具层编辑贡献了 57% 的进化增益。",
         "category": "产品动态",
-        "topic": "AI 产品",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "omarsar0",
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2101775584661573692",
-        "aggregateUrl": "https://aihot.news/items/cmuabbcbm09p1ro5t86snho11",
+        "sourceUrl": "https://x.com/omarsar0/status/2102099298716660223",
+        "aggregateUrl": "https://aihot.news/items/cmublea34038uro0lf6qaxjur",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T20:48:43.000Z",
+        "publishedAt": "2026-09-21T18:15:02.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -650,37 +650,37 @@
         }
       },
       {
-        "id": "aihot-cmua2n8j90c4mrowj2i994f8b",
-        "title": "提议将\"解决对齐\"列入千禧年难题",
-        "brief": "提议把\"解决对齐\" sneak in 千禧年难题",
-        "summary": "提议把\"解决对齐\" sneak in 千禧年难题",
+        "id": "aihot-cmubh50rs0zy1roln3ilqpoc7",
+        "title": "Perplexity Computer 接入 MiniMax H3 与 Seedance 2.5",
+        "brief": "Perplexity Computer 现已支持用 MiniMax H3 和字节跳动 Seedance 2.5 生成视频，Pro 和 Max 订阅用户可直接使用。",
+        "summary": "Perplexity Computer 现已支持用 MiniMax H3 和字节跳动 Seedance 2.5 生成视频，Pro 和 Max 订阅用户可直接使用。用户在同一对话线程中请求营销短片、产品演示或社交素材，即可在文案与创意内容旁直接产出成片，适合需要多种工具协同的网页应用与创意素材工作流。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
-        "authorHandle": "Thom_Wolf",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Thomas Wolf · @Thom_Wolf",
-        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2101715518658883813",
-        "aggregateUrl": "https://aihot.news/items/cmua2n8j90c4mrowj2i994f8b",
+        "authorHandle": "AravSrinivas",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Aravind Srinivas · @AravSrinivas",
+        "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2102073431449817200",
+        "aggregateUrl": "https://aihot.news/items/cmubh50rs0zy1roln3ilqpoc7",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T16:50:02.000Z",
+        "publishedAt": "2026-09-21T16:32:15.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Thomas Wolf",
-              "asset": "/assets/identities/thom_wolf.jpg",
-              "assetSource": "https://x.com/Thom_Wolf",
-              "tone": "#e9e4dc"
+              "name": "Perplexity",
+              "asset": "/assets/identities/perplexity_ai.jpg",
+              "assetSource": "https://x.com/perplexity_ai",
+              "tone": "#dcebea"
             }
           ],
           "caption": "产品动态",
           "author": {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
+            "name": "Aravind Srinivas",
+            "asset": "/assets/identities/aravsrinivas.jpg",
+            "assetSource": "https://x.com/AravSrinivas",
             "tone": "#e9e4dc"
           }
         }
@@ -726,8 +726,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-21T13:15:17.114Z",
-    "nextCheckAt": 1789996817114,
+    "checkedAt": "2026-09-21T18:45:35.708Z",
+    "nextCheckAt": 1790016635708,
     "intervalSeconds": 300,
     "message": ""
   }
