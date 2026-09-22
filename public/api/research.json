@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-22T00:53:39.982Z",
-      "lastSuccessAt": "2026-09-22T00:53:39.982Z",
-      "nextCheckAt": 1790042019982,
+      "checkedAt": "2026-09-22T06:01:12.363Z",
+      "lastSuccessAt": "2026-09-22T06:01:12.363Z",
+      "nextCheckAt": 1790060472363,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-22T06:01:12.364Z",
+      "lastSuccessAt": "2026-09-22T06:01:12.364Z",
+      "nextCheckAt": 1790060472364,
       "status": "ok",
-      "nextCheckAt": 1790042019983,
-      "checkedAt": "2026-09-22T00:53:39.983Z",
-      "lastSuccessAt": "2026-09-22T00:53:39.983Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-22T00:53:39.984Z",
-      "lastSuccessAt": "2026-09-22T00:53:39.984Z",
-      "nextCheckAt": 1790042019984,
+      "checkedAt": "2026-09-22T06:01:12.366Z",
+      "lastSuccessAt": "2026-09-22T06:01:12.366Z",
+      "nextCheckAt": 1790060472366,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790042020263,
-      "checkedAt": "2026-09-22T00:53:40.263Z",
-      "lastSuccessAt": "2026-09-22T00:53:40.263Z",
+      "nextCheckAt": 1790060472650,
+      "checkedAt": "2026-09-22T06:01:12.650Z",
+      "lastSuccessAt": "2026-09-22T06:01:12.650Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790042019982,
+  "nextCheckAt": 1790060472363,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6468052.html",
+      "title": "刘大一恒接棒林俊旸，阿里重新明确 Qwen 模型负责人",
+      "summary": "据 The Information 报道，阿里已任命刘大一恒担任 Qwen 大语言模型负责人，完整头衔为 ATH 事业群 Token Foundry Qwen LLM 项目负责人。文章梳理了半年内从林俊旸离职到组织重组的这条线。 9 月 21 日，阿里 Qwen 团队持续半年的负责人调整有了更明确的结果。据 The Information 援引两名知情员工消息，阿里巴巴已经任命刘大一恒担任 Qwen 大语言模型负责人。 几乎同时，阿里官",
+      "publishedAt": "2026-09-22T03:06:34.000Z",
+      "url": "https://www.woshipm.com/ai/6468052.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6468052.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "据 The Information 报道，阿里已任命刘大一恒担任 Qwen 大语言模型负责人，完整头衔为 ATH 事业群 Token Foundry Qwen LLM 项目负责人。文章梳理了半年内从林俊旸离职到组织重组的这条线。 9 月 21 日，阿里 Qwen 团队持续半年的负责人调整有了更明确的结果。据 The Information 援引两名知情员工消息，阿里巴巴已经任命刘大一恒担任 Qwen 大语言模型负责人。 几乎同时，阿里官",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6468050.html",
+      "title": "简单讲讲 Agent 的工作原理",
+      "summary": "Agent 产品的用途各不相同，底层却是同一套 Harness 对上下文的自动化编排。文章从上下文来源与请求组装讲起，说明模型每次判断前系统准备了什么，以及工具调用怎样与请求配对，让任务一步步走完。 现在的 Agent 的产品越来越多，有些主打 Coding，有些事做日常办公，也有些用于情感陪伴虽然这些产品的用途不同，背后的工作原理其实都大同小异，便是 Harness 对上下文的自动化编排 本文则是以原理的角度，给大家讲一下 Agent",
+      "publishedAt": "2026-09-22T03:05:56.000Z",
+      "url": "https://www.woshipm.com/ai/6468050.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6468050.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Agent 产品的用途各不相同，底层却是同一套 Harness 对上下文的自动化编排。文章从上下文来源与请求组装讲起，说明模型每次判断前系统准备了什么，以及工具调用怎样与请求配对，让任务一步步走完。 现在的 Agent 的产品越来越多，有些主打 Coding，有些事做日常办公，也有些用于情感陪伴虽然这些产品的用途不同，背后的工作原理其实都大同小异，便是 Harness 对上下文的自动化编排 本文则是以原理的角度，给大家讲一下 Agent",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6468025.html",
+      "title": "大模型+用户生命周期：指标划分、成长路径、业务应用",
+      "summary": "理论把用户生命周期分成引入期、成长期、成熟期、衰退期和流失期，可真实人群是混在一起的。文章指出问题常出在分母上：把压根不是目标群体的用户一直算进来，转化率会被系统性低估，所以要先把这批人摘出去。 “识别用户生命周期”是精细化运营的基础，是体现数据分析价值的重要手段。你让 AI 讲用户生命周期，它能把五个阶段的定义、每个阶段的运营策略写得比教科书还完整——引入期做什么、成长期做什么、衰退期怎么召回，一条不落。 但它没讲清楚：到底怎么衡量生",
+      "publishedAt": "2026-09-22T03:04:30.000Z",
+      "url": "https://www.woshipm.com/share/6468025.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6468025.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "理论把用户生命周期分成引入期、成长期、成熟期、衰退期和流失期，可真实人群是混在一起的。文章指出问题常出在分母上：把压根不是目标群体的用户一直算进来，转化率会被系统性低估，所以要先把这批人摘出去。 “识别用户生命周期”是精细化运营的基础，是体现数据分析价值的重要手段。你让 AI 讲用户生命周期，它能把五个阶段的定义、每个阶段的运营策略写得比教科书还完整——引入期做什么、成长期做什么、衰退期怎么召回，一条不落。 但它没讲清楚：到底怎么衡量生",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/prompt-testing-frameworks/",
       "title": "Prompt Testing Frameworks for Production AI Workflows",
@@ -131,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/post/114829",
@@ -171,87 +291,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6467980.html",
-      "title": "一万字Jev 工程实践长文：把 Agent 的“判断题”从大模型里拆出来",
-      "summary": "最近 Jev 很火。它的传播路径很典型：先是 TypeSafe AI 发布一个听起来有点反常识的新模型，再是 Hacker News、知乎、Reddit 开始争论，接着 GitHub 上很快出现一批 Demo。有人拿它玩 Doom，有人拿它跑 Mario，也有人拿它接进浏览器自动化、代码审查、Agent 路由和上下文压缩里。 我一开始对它也有点怀疑。一个“不生成文本”的模型，能有多大空间？现在 GPT、Claude 已经能做 struc",
-      "publishedAt": "2026-09-21T09:35:49.000Z",
-      "url": "https://www.woshipm.com/ai/6467980.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6467980.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "最近 Jev 很火。它的传播路径很典型：先是 TypeSafe AI 发布一个听起来有点反常识的新模型，再是 Hacker News、知乎、Reddit 开始争论，接着 GitHub 上很快出现一批 Demo。有人拿它玩 Doom，有人拿它跑 Mario，也有人拿它接进浏览器自动化、代码审查、Agent 路由和上下文压缩里。 我一开始对它也有点怀疑。一个“不生成文本”的模型，能有多大空间？现在 GPT、Claude 已经能做 struc",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6467737.html",
-      "title": "被 Copilot 引用了 1.5 万次，为什么换不来一个 19 刀的付费用户？",
-      "summary": "很多人以为“做产品卡在最后一环：有流量没变现”。但残酷的真相是：很多时候，那根本不是你的流量。 本文通过一个真实的海外独立开发案例，拆解在 AEO/AI 搜索时代，产品人与独立开发者最容易踩入的“虚荣流量陷阱”，并给出不用重度运营社区也能破局冷启动的实操路径。 01 一个极其典型的真实案例 最近在独立开发圈看到一个非常有代表性的案例： 一位纯文科背景的开发者，自学全栈，做了一款女性健康工具 PeriodHub。产品主打“隐私优先、不卖用",
-      "publishedAt": "2026-09-21T07:59:13.000Z",
-      "url": "https://www.woshipm.com/ai/6467737.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "GitHub",
-            "asset": "/assets/identities/github.jpg",
-            "assetSource": "https://x.com/github",
-            "tone": "#e7e6ec"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6467737.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "很多人以为“做产品卡在最后一环：有流量没变现”。但残酷的真相是：很多时候，那根本不是你的流量。 本文通过一个真实的海外独立开发案例，拆解在 AEO/AI 搜索时代，产品人与独立开发者最容易踩入的“虚荣流量陷阱”，并给出不用重度运营社区也能破局冷启动的实操路径。 01 一个极其典型的真实案例 最近在独立开发圈看到一个非常有代表性的案例： 一位纯文科背景的开发者，自学全栈，做了一款女性健康工具 PeriodHub。产品主打“隐私优先、不卖用",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {

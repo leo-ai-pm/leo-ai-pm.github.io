@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月22日",
     "demo": false,
-    "updatedAt": "2026-09-22T00:54:00.410Z",
+    "updatedAt": "2026-09-22T06:01:37.677Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 5,
+      "latestCount": 6,
       "archiveCount": 1
     },
     "sources": {
@@ -38,8 +38,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -174,8 +174,8 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 17,
-        "signalCount": 12,
+        "sourceCount": 18,
+        "signalCount": 11,
         "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
       },
       {
@@ -279,8 +279,8 @@
           "author": null
         },
         "hotRank": 4,
-        "sourceCount": 4,
-        "signalCount": 16,
+        "sourceCount": 5,
+        "signalCount": 10,
         "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
       },
       {
@@ -315,8 +315,78 @@
         },
         "hotRank": 5,
         "sourceCount": 7,
-        "signalCount": 11,
+        "signalCount": 6,
         "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
+      },
+      {
+        "id": "aihot-cmu9tfhu904turokx2vfjy34f",
+        "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
+        "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+        "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Qwen：Blog Retrieval（API）",
+        "feedName": "Qwen：Blog Retrieval（API）",
+        "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-20T12:00:00.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Qwen：Blog Retrieval（API）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 6,
+        "sourceCount": 7,
+        "signalCount": 5,
+        "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
+      },
+      {
+        "id": "aihot-cmub4ki9z0iharoln67lr05qj",
+        "title": "亚马逊屏蔽Meta的Muse AI代理，禁止其代用户在亚马逊购物，称未授权AI代理访问违反使用条件",
+        "brief": "据GeekWire报道，Meta的Muse AI代理已被禁止在亚马逊平台上代用户购物，周日 起 M u s e 用户收到弹窗，称未经授权的AI代理持续访问违反了亚马逊使用条件。",
+        "summary": "据GeekWire报道，Meta的Muse AI代理已被禁止在亚马逊平台上代用户购物，周日 起 M u s e 用户收到弹窗，称未经授权的AI代理持续访问违反了亚马逊使用条件。亚马逊方面表示未获Muse接入通知，并对其浏览时不表明身份、疑似捕获客户凭据表达隐私和安全担忧；一位未具名发言人称第三方代购应用应公开运作并尊重服务提供商的参与决定。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "The Verge：AI（RSS）",
+        "feedName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+        "aggregateUrl": "https://aihot.news/items/cmub4ki9z0iharoln67lr05qj",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-21T09:21:47.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "The Verge：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 6,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/5fe5740e-34ac-4660-a8d5-4196324f58b3"
       },
       {
         "id": "aihot-cmu606l6o02m2rok01owq1zp8",
@@ -354,80 +424,45 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 6,
-        "sourceCount": 6,
-        "signalCount": 3,
+        "hotRank": 8,
+        "sourceCount": 5,
+        "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
       },
       {
-        "id": "aihot-cmu9tfhu904turokx2vfjy34f",
-        "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
-        "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-        "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
+        "id": "aihot-cmubl0b3w02wjro0lodz43orw",
+        "title": "OpenAI新训练的内部模型解决纳维-斯托克斯千禧年大奖难题及100多个长期开放数学问题",
+        "brief": "据原文报道，OpenAI新训练的内部模型已解决纳维-斯托克斯（Navier–Stokes）千禧年大奖难题，以及跨越大多数数学领域的100多个长期开放问题，其进展速度甚至令OpenAI内部的数学家感到惊讶。",
+        "summary": "据原文报道，OpenAI新训练的内部模型已解决纳维-斯托克斯（Navier–Stokes）千禧年大奖难题，以及跨越大多数数学领域的100多个长期开放问题，其进展速度甚至令OpenAI内部的数学家感到惊讶。原文未给出解决成果的独立验证或具体日期。",
         "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
+        "platform": "X",
+        "authorHandle": "haider1",
         "sourceGroup": "媒体与社区",
-        "sourceName": "Qwen：Blog Retrieval（API）",
-        "feedName": "Qwen：Blog Retrieval（API）",
-        "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
+        "sourceName": "X：Haider (@haider1)",
+        "feedName": "X：Haider (@haider1)",
+        "sourceUrl": "https://x.com/haider1/status/2102098715620343839",
+        "aggregateUrl": "https://aihot.news/items/cmubl0b3w02wjro0lodz43orw",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T12:00:00.000Z",
+        "publishedAt": "2026-09-21T18:12:43.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Qwen：Blog Retrieval（API）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 7,
-        "sourceCount": 7,
-        "signalCount": 5,
-        "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
-      },
-      {
-        "id": "aihot-cmub4ki9z0iharoln67lr05qj",
-        "title": "亚马逊屏蔽Meta的Muse AI代理，禁止其代用户在亚马逊购物，称未授权AI代理访问违反使用条件",
-        "brief": "据GeekWire报道，Meta的Muse AI代理已被禁止在亚马逊平台上代用户购物，周日 起 M u s e 用户收到弹窗，称未经授权的AI代理持续访问违反了亚马逊使用条件。",
-        "summary": "据GeekWire报道，Meta的Muse AI代理已被禁止在亚马逊平台上代用户购物，周日 起 M u s e 用户收到弹窗，称未经授权的AI代理持续访问违反了亚马逊使用条件。亚马逊方面表示未获Muse接入通知，并对其浏览时不表明身份、疑似捕获客户凭据表达隐私和安全担忧；一位未具名发言人称第三方代购应用应公开运作并尊重服务提供商的参与决定。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Verge：AI（RSS）",
-        "feedName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-        "aggregateUrl": "https://aihot.news/items/cmub4ki9z0iharoln67lr05qj",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-21T09:21:47.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 8,
-        "sourceCount": 6,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/5fe5740e-34ac-4660-a8d5-4196324f58b3"
+        "hotRank": 9,
+        "sourceCount": 4,
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/7a83ffb7-1613-4bdc-afbf-80e51e87a967"
       },
       {
         "id": "aihot-cmubqsb9l03vbrociqf22sr07",
@@ -459,45 +494,46 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 9,
+        "hotRank": 10,
         "sourceCount": 4,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/b9c1b6b6-ff38-45bb-a977-db8ca321f7bf"
       },
       {
-        "id": "aihot-cmu6y9sjz0jbyrowkh7tus28l",
-        "title": "ZCode：作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
-        "brief": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。",
-        "summary": "2026年9月18日开发者 ferstar 发布逆向分析，称 Z.ai 的 ZCode 在登录后静默打包整个工作区（含完整 .git 历史、LFS 缓存等）并用信封加密（私钥仅在 Z.ai 云端）上传至 Aliyun OSS，用户无法解密；UI 设置开关不停止上传，隐私政策未披露此事。ZCode 团队关联账号回复被解读为默认，Z.ai 官方截至发稿未回应。",
+        "id": "aihot-cmuc6nquw0be1rotsdz15p2ur",
+        "title": "Tibo 预告周二重置",
+        "brief": "女士们先生们……启动……你们的……引擎。",
+        "summary": "女士们先生们……启动……你们的……引擎。马上就要到周二了，我承诺过周二会重置。还有一些其他事情。很快见。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News：AI 热帖",
-        "feedName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-        "aggregateUrl": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2102254445082116335",
+        "aggregateUrl": "https://aihot.news/items/cmuc6nquw0be1rotsdz15p2ur",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-18T10:35:28.000Z",
+        "publishedAt": "2026-09-22T04:31:32.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Hacker News：AI 热帖",
-              "asset": null,
-              "assetSource": null,
+              "name": "Tibo Sottiaux",
+              "asset": "/assets/identities/thsottiaux.jpg",
+              "assetSource": "https://x.com/thsottiaux",
               "tone": "#e9e4dc"
             }
           ],
           "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 10,
-        "sourceCount": 3,
-        "signalCount": 6,
-        "storyUrl": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
       },
       {
         "id": "aihot-cmubn5rux052pro0l6r1c9hcc",
@@ -720,8 +756,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-22T00:54:00.410Z",
-    "nextCheckAt": 1790038740410,
+    "checkedAt": "2026-09-22T06:01:37.677Z",
+    "nextCheckAt": 1790057197677,
     "intervalSeconds": 300,
     "message": ""
   }
