@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-22T11:25:28.753Z",
-      "lastSuccessAt": "2026-09-22T11:25:28.753Z",
-      "nextCheckAt": 1790079928753,
+      "checkedAt": "2026-09-22T15:38:17.379Z",
+      "lastSuccessAt": "2026-09-22T15:38:17.379Z",
+      "nextCheckAt": 1790095097379,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-22T11:25:28.754Z",
-      "lastSuccessAt": "2026-09-22T11:25:28.754Z",
-      "nextCheckAt": 1790079928754,
       "status": "ok",
+      "nextCheckAt": 1790095097380,
+      "checkedAt": "2026-09-22T15:38:17.380Z",
+      "lastSuccessAt": "2026-09-22T15:38:17.380Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-22T11:25:28.755Z",
-      "lastSuccessAt": "2026-09-22T11:25:28.755Z",
-      "nextCheckAt": 1790079928755,
+      "checkedAt": "2026-09-22T15:38:17.381Z",
+      "lastSuccessAt": "2026-09-22T15:38:17.381Z",
+      "nextCheckAt": 1790095097381,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-22T11:25:29.032Z",
-      "lastSuccessAt": "2026-09-22T11:25:29.032Z",
-      "nextCheckAt": 1790079929032,
       "status": "ok",
+      "nextCheckAt": 1790095097841,
+      "checkedAt": "2026-09-22T15:38:17.841Z",
+      "lastSuccessAt": "2026-09-22T15:38:17.841Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790079928753,
+  "nextCheckAt": 1790095097379,
   "refreshing": false,
   "items": [
     {
@@ -214,46 +214,6 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/vgpu",
-      "title": "vgpu",
-      "summary": "The WebGPU library, designed for agents",
-      "publishedAt": "2026-09-22T03:05:59.000Z",
-      "url": "https://www.producthunt.com/products/vgpu",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/vgpu",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The WebGPU library, designed for agents",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "ph:https://www.producthunt.com/products/hola-ai",
       "title": "Hola AI",
       "summary": "An AI voicemail assistant that answers calls when you can’t.",
@@ -327,6 +287,46 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Advertise to 500k developers in our coding agent",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/fez-2",
+      "title": "Fez",
+      "summary": "AI agents that work as a team and make decisions together",
+      "publishedAt": "2026-09-21T18:50:10.000Z",
+      "url": "https://www.producthunt.com/products/fez-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/fez-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI agents that work as a team and make decisions together",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

@@ -1,7 +1,7 @@
 {
   "date": "2026年9月22日",
   "demo": false,
-  "updatedAt": "2026-09-22T11:25:46.289Z",
+  "updatedAt": "2026-09-22T15:38:43.847Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 6,
+    "latestCount": 7,
     "archiveCount": 1
   },
   "sources": {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 6,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -109,8 +109,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "gdb",
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -208,8 +208,8 @@
         "author": null
       },
       "hotRank": 2,
-      "sourceCount": 8,
-      "signalCount": 4,
+      "sourceCount": 10,
+      "signalCount": 5,
       "storyUrl": "https://aihot.virxact.com/story/fb460b24-bf56-45b0-87a5-fe8eec08a784"
     },
     {
@@ -289,74 +289,39 @@
       "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
     },
     {
-      "id": "aihot-cmu7hc2e80aavrogr7vbwhcjm",
-      "title": "TypeSafe AI 发布 System One 模型 Jev：返回带概率的类型化决策而非文本，以托管 API 早期访问开放",
-      "brief": "材料介绍 typesafeai 的 Jev，一个回答是非题和选择题并附带置信度评分的决策模型，作者称其比 LLM 便宜且快 10 倍，并把其定位为面向软件开发中大量决策场景的工具。",
-      "summary": "材料介绍 typesafeai 的 Jev，一个回答是非题和选择题并附带置信度评分的决策模型，作者称其比 LLM 便宜且快 10 倍，并把其定位为面向软件开发中大量决策场景的工具。性能说法为作者自述。",
-      "category": "模型进展",
+      "id": "aihot-cmubqsb9l03vbrociqf22sr07",
+      "title": "作者发布MiMo-V2.6-Flash：310B总参数、15B激活",
+      "brief": "小米宣布推出MiMo-V2.6系列中的Flash模型，为公告中两款全模态模型之一，与Pro一同通过规模化强化学习推进、公开构建。",
+      "summary": "小米宣布推出MiMo-V2.6系列中的Flash模型，为公告中两款全模态模型之一，与Pro一同通过规模化强化学习推进、公开构建。小米同时开源系列模型权重、技术报告、RL环境及训练代码。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "OpenRouter",
+      "authorHandle": "XiaomiMiMo",
       "sourceGroup": "媒体与社区",
-      "sourceName": "X：OpenRouter (@OpenRouter)",
-      "feedName": "X：OpenRouter (@OpenRouter)",
-      "sourceUrl": "https://x.com/OpenRouter/status/2101061688338575739",
-      "aggregateUrl": "https://aihot.news/items/cmu7hc2e80aavrogr7vbwhcjm",
+      "sourceName": "X：小米 MiMo (@XiaomiMiMo)",
+      "feedName": "X：小米 MiMo (@XiaomiMiMo)",
+      "sourceUrl": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "aggregateUrl": "https://aihot.news/items/cmubqsb9l03vbrociqf22sr07",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-18T21:31:56.000Z",
+      "publishedAt": "2026-09-21T20:51:03.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "X：OpenRouter (@OpenRouter)",
+            "name": "X：小米 MiMo (@XiaomiMiMo)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": null
       },
       "hotRank": 5,
-      "sourceCount": 4,
-      "signalCount": 7,
-      "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
-    },
-    {
-      "id": "aihot-cmu9tfhu904turokx2vfjy34f",
-      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
-      "brief": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "summary": "原文称Qwen团队开源Qwen-Image-2.1，视觉生成组件仅7B参数，统一文生图与图像编辑，原生支持透明图像生成与编辑、最多10张参考图、局部编辑、人物产品保真，并称通过混合粒度注意力架构与KV缓存复用提升推理效率。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Qwen：Blog Retrieval（API）",
-      "feedName": "Qwen：Blog Retrieval（API）",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "aggregateUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Qwen：Blog Retrieval（API）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 6,
-      "signalCount": 6,
-      "storyUrl": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/b9c1b6b6-ff38-45bb-a977-db8ca321f7bf"
     },
     {
       "id": "aihot-cmub4ki9z0iharoln67lr05qj",
@@ -388,33 +353,68 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 6,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/5fe5740e-34ac-4660-a8d5-4196324f58b3"
     },
     {
-      "id": "aihot-cmu99pi3604g2ro8iyt4qb7p7",
-      "title": "阶跃发布旗舰模型 Step 5 Preview，跻身 AA 榜单全球开源模型前三，10 月 15 日开源完整权重",
-      "brief": "原文发布 Step 5 Preview 预览版，称其为面向智能体工作的新旗舰模型，在软件工程与专业知识工作（尤其金融）达到前沿水平；采用 600B 总参/27B 激活 MoE，支持 1M 上下文与视觉，称同等智能下任务成本更低，并计划于 10 月 15 日开放权重。",
-      "summary": "原文发布 Step 5 Preview 预览版，称其为面向智能体工作的新旗舰模型，在软件工程与专业知识工作（尤其金融）达到前沿水平；采用 600B 总参/27B 激活 MoE，支持 1M 上下文与视觉，称同等智能下任务成本更低，并计划于 10 月 15 日开放权重。",
-      "category": "模型进展",
-      "topic": "Agent",
+      "id": "aihot-cmucsffpd0mdiroedx9ljankc",
+      "title": "发布方今日推出 DIFFUSE 平台，供代理机构、品牌和工作室搜索、联系并雇用AI原生创意人才",
+      "brief": "据公告，发布方今日推出 DIFFUSE 平台，帮助代理机构、品牌和工作室搜索、联系并雇用AI原生创意人才。",
+      "summary": "据公告，发布方今日推出 DIFFUSE 平台，帮助代理机构、品牌和工作室搜索、联系并雇用AI原生创意人才。公告称，尽管存在AI取代创意人员的担忧，但一个全新的创意劳动力正在出现且需求加速增长，DIFFUSE 旨在将这类人才与新的机会对接。发布方在原文中未具名，仅以'we'自称。",
+      "category": "产品动态",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "StepFun_ai",
+      "authorHandle": "runwayml",
       "sourceGroup": "媒体与社区",
-      "sourceName": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "feedName": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "sourceUrl": "https://x.com/StepFun_ai/status/2101510462685003786",
-      "aggregateUrl": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7",
+      "sourceName": "X：Runway (@runwayml)",
+      "feedName": "X：Runway (@runwayml)",
+      "sourceUrl": "https://x.com/runwayml/status/2102404968850301030",
+      "aggregateUrl": "https://aihot.news/items/cmucsffpd0mdiroedx9ljankc",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-20T03:15:13.000Z",
+      "publishedAt": "2026-09-22T14:29:40.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "X：阶跃星辰 StepFun (@StepFun_ai)",
+            "name": "X：Runway (@runwayml)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 7,
+      "sourceCount": 2,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/660fdeb2-0436-4215-a404-4f544adc1964"
+    },
+    {
+      "id": "aihot-cmu7hc2e80aavrogr7vbwhcjm",
+      "title": "TypeSafe AI 发布 System One 模型 Jev：返回带概率的类型化决策而非文本，以托管 API 早期访问开放",
+      "brief": "材料介绍 typesafeai 的 Jev，一个回答是非题和选择题并附带置信度评分的决策模型，作者称其比 LLM 便宜且快 10 倍，并把其定位为面向软件开发中大量决策场景的工具。",
+      "summary": "材料介绍 typesafeai 的 Jev，一个回答是非题和选择题并附带置信度评分的决策模型，作者称其比 LLM 便宜且快 10 倍，并把其定位为面向软件开发中大量决策场景的工具。性能说法为作者自述。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "OpenRouter",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：OpenRouter (@OpenRouter)",
+      "feedName": "X：OpenRouter (@OpenRouter)",
+      "sourceUrl": "https://x.com/OpenRouter/status/2101061688338575739",
+      "aggregateUrl": "https://aihot.news/items/cmu7hc2e80aavrogr7vbwhcjm",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-18T21:31:56.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：OpenRouter (@OpenRouter)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -424,9 +424,9 @@
         "author": null
       },
       "hotRank": 8,
-      "sourceCount": 6,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
+      "sourceCount": 4,
+      "signalCount": 3,
+      "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
     },
     {
       "id": "aihot-cmub6lrdz0ktcroln8qwszs5g",
@@ -571,10 +571,10 @@
       }
     },
     {
-      "id": "aihot-cmubwpr7l02r1rokierah6yuq",
-      "title": "Claude 生成《荒原》注释指南",
-      "brief": "AI 可以成为探索远离编程话题的绝佳工具。",
-      "summary": "AI 可以成为探索远离编程话题的绝佳工具。\n\n我让 Claude Fable 5.1 整理了一份艾略特诗作《荒原》的注释指南，包含多条穿行诗歌的路径、录音、学术资料等。我相当 impressed。https://the-waste-land.netlify.app/",
+      "id": "aihot-cmuctxpf40oderoed3n22x7y7",
+      "title": "Ethan Mollick 谈 AI 作为艺术欣赏桥梁",
+      "brief": "尽管 AI 与艺术之间充满张力，但我从 William Carlos Williams 协会、TS Eliot 协会等机构收到了热烈的反馈，关于我在这里发布的对其作品的 AI 解读。",
+      "summary": "尽管 AI 与艺术之间充满张力，但我从 William Carlos Williams 协会、TS Eliot 协会等机构收到了热烈的反馈，关于我在这里发布的对其作品的 AI 解读。用 AI 作为通往艺术欣赏的桥梁是可能的。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -583,18 +583,18 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2102179283737158019",
-      "aggregateUrl": "https://aihot.news/items/cmubwpr7l02r1rokierah6yuq",
+      "sourceUrl": "https://x.com/emollick/status/2102414040178036740",
+      "aggregateUrl": "https://aihot.news/items/cmuctxpf40oderoed3n22x7y7",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T23:32:52.000Z",
+      "publishedAt": "2026-09-22T15:05:42.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "产品动态",
@@ -607,11 +607,11 @@
       }
     },
     {
-      "id": "aihot-cmubv1i0s041mro99r894mq2b",
-      "title": "Question's Gambit：首个检索步骤提升深度研究智能体",
-      "brief": "论文提出 Question's Gambit，在智能体开始搜索前运行一次：将问题拆成线索、转为互补搜索、汇总并重排结果，让智能体以已排序的上下文启动循环。",
-      "summary": "论文提出 Question's Gambit，在智能体开始搜索前运行一次：将问题拆成线索、转为互补搜索、汇总并重排结果，让智能体以已排序的上下文启动循环。",
-      "category": "研究进展",
+      "id": "aihot-cmuctc3dp0nebroed39zwaod4",
+      "title": "Agent Memory Challenge 2026 第二轮开放报名",
+      "brief": "Agent Memory Challenge 2026 第二轮现已开放，设 Textual、Coding、Multimodal 三条赛道，面向开源方法与商业产品，符合资格的开源团队可分享超 USD 22，000 奖金池。",
+      "summary": "Agent Memory Challenge 2026 第二轮现已开放，设 Textual、Coding、Multimodal 三条赛道，面向开源方法与商业产品，符合资格的开源团队可分享超 USD 22，000 奖金池。",
+      "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
       "platform": "X",
@@ -619,10 +619,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2102171057612566585",
-      "aggregateUrl": "https://aihot.news/items/cmubv1i0s041mro99r894mq2b",
+      "sourceUrl": "https://x.com/omarsar0/status/2102409612486230074",
+      "aggregateUrl": "https://aihot.news/items/cmuctc3dp0nebroed39zwaod4",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T23:00:11.000Z",
+      "publishedAt": "2026-09-22T14:48:07.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -633,7 +633,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "研究进展",
+        "caption": "产品动态",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -643,22 +643,58 @@
       }
     },
     {
-      "id": "aihot-cmuca2pho0j24rotsbg4s1p9k",
-      "title": "Perplexity CEO：AI 即操作系统，多数非 AI 应用将无头化",
-      "brief": "Perplexity CEO Aravind Srinivas 提出\"AI 就是操作系统\"，应用将围绕 AI 所在之处构建，多数非 AI 应用会走向无头化，只有需要人与人协作连接的社交应用例外。",
-      "summary": "Perplexity CEO Aravind Srinivas 提出\"AI 就是操作系统\"，应用将围绕 AI 所在之处构建，多数非 AI 应用会走向无头化，只有需要人与人协作连接的社交应用例外。他引用 Vinod Khosla 的观点称\"正确的智能体不会是应用\"，因为用户主要生活在邮件、短信和 Slack 里，应用即便存在也只是在后台。",
+      "id": "aihot-cmuctfhqs0nlgroed0ytqnv6k",
+      "title": "OpenAI 提出 AI 标准制定提案",
+      "brief": "AI 实验室之外的人应当对这项技术的发展拥有真正的话语权，并有明确的途径来判断它是否在安全地推进。",
+      "summary": "AI 实验室之外的人应当对这项技术的发展拥有真正的话语权，并有明确的途径来判断它是否在安全地推进。\n\n标准应当有助于防止权力集中，包括确保新公司和开放模型公司能够参与竞争。\n\n标准还应当帮助各国和各公司比对证据、从失败中学习。\n\n我们认为美国应当引领这项工作。以下是我们的提案：\n\nhttps://openai.com/index/building-standards-next-phase-ai/",
       "category": "产品动态",
-      "topic": "Agent",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "sama",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Sam Altman · @sama",
+      "feedName": "X：Sam Altman (@sama)",
+      "sourceUrl": "https://x.com/sama/status/2102414347364335917",
+      "aggregateUrl": "https://aihot.news/items/cmuctfhqs0nlgroed0ytqnv6k",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T15:06:56.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Sam Altman",
+          "asset": "/assets/identities/sama.jpg",
+          "assetSource": "https://x.com/sama",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmuctegd80nijroedf4qpt5zt",
+      "title": "Perplexity 推出研究奖学金计划",
+      "brief": "推出 Perplexity Research Fellowship：一个面向任何技术或定量学科方向的早期研究人员、工程师和分析师的计划，让他们从事 AI 研究。",
+      "summary": "推出 Perplexity Research Fellowship：一个面向任何技术或定量学科方向的早期研究人员、工程师和分析师的计划，让他们从事 AI 研究。https://www.perplexity.ai/hub/research/fellowship",
+      "category": "研究进展",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2102275735348273605",
-      "aggregateUrl": "https://aihot.news/items/cmuca2pho0j24rotsbg4s1p9k",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2102410932945334717",
+      "aggregateUrl": "https://aihot.news/items/cmuctegd80nijroedf4qpt5zt",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T05:56:08.000Z",
+      "publishedAt": "2026-09-22T14:53:21.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -669,7 +705,7 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "产品动态",
+        "caption": "研究进展",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
