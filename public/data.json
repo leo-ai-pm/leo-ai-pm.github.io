@@ -1,7 +1,7 @@
 {
   "date": "2026年9月23日",
   "demo": false,
-  "updatedAt": "2026-09-22T19:16:12.473Z",
+  "updatedAt": "2026-09-22T22:15:43.733Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -37,7 +37,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 3,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -73,8 +73,8 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "sherwinwu",
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 5,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 5,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -136,8 +136,8 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       }
     ]
   },
@@ -173,9 +173,44 @@
         "author": null
       },
       "hotRank": 1,
-      "sourceCount": 18,
+      "sourceCount": 23,
       "signalCount": 16,
       "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
+    },
+    {
+      "id": "aihot-cmuczxsyt03k4ro7nep4vsmez",
+      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
+      "brief": "发布公告推出新模型GPT-6 Sol。",
+      "summary": "发布公告推出新模型GPT-6 Sol。该模型建立在GPT-6 Astra的技术进展之上，将其优势带入更快、更实惠的模型，以支持大规模工作。发布方还称通过提升缓存和推理效率降低成本，Sol的API价格较GPT-5.6促销定价降低50%。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "important",
+      "platform": "X",
+      "authorHandle": "OpenAI",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "feedName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2102460975790137662",
+      "aggregateUrl": "https://aihot.news/items/cmuczxsyt03k4ro7nep4vsmez",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T18:12:13.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 2,
+      "sourceCount": 13,
+      "signalCount": 2,
+      "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
     },
     {
       "id": "aihot-cmubfarpy0xtirolnplntl9p1",
@@ -207,10 +242,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 2,
+      "hotRank": 3,
       "sourceCount": 14,
       "signalCount": 12,
       "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
+    },
+    {
+      "id": "aihot-cmuczxsyt03k4ro7nep4vsmez",
+      "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
+      "brief": "同一次公告中还推出新模型GPT-6 Luna。",
+      "summary": "同一次公告中还推出新模型GPT-6 Luna。该模型同样建立在GPT-6 Astra的技术进展之上，将其优势带入更快、更实惠的模型以支持大规模工作；通过缓存和推理效率优化，Luna的API价格较GPT-5.6促销定价降低50%。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "OpenAI",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "feedName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2102460975790137662",
+      "aggregateUrl": "https://aihot.news/items/cmuczxsyt03k4ro7nep4vsmez",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T18:12:13.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 4,
+      "sourceCount": 11,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
     },
     {
       "id": "aihot-cmubox8pl0510ro4vw01ibnin",
@@ -219,7 +289,7 @@
       "summary": "小米发布开源权重模型MiMo-V2.6-Pro，在Artificial Analysis Intelligence Index以46分首登开源权重模型榜首，较前代MiMo-V2.5-Pro（26分）有显著智能提升。该模型为MoE架构，总参数1.02T、激活参数42B；定价保持不变，每百万输入token 0.435美元（99%缓存命中折扣）与每百万输出token 0.87美元，位列 Intelligence vs. Cost per Task 帕累托前沿，是部署成本效益最高的模型之一。",
       "category": "模型进展",
       "topic": "AI 产品",
-      "priority": "important",
+      "priority": "normal",
       "platform": "X",
       "authorHandle": "ArtificialAnlys",
       "sourceGroup": "媒体与社区",
@@ -242,115 +312,10 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 3,
+      "hotRank": 5,
       "sourceCount": 11,
       "signalCount": 5,
       "storyUrl": "https://aihot.virxact.com/story/fb460b24-bf56-45b0-87a5-fe8eec08a784"
-    },
-    {
-      "id": "aihot-cmud0ng5n001gro1fb8xe3oji",
-      "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
-      "brief": "宣布 GPT-6 Luna 模型今日起在 ChatGPT Work 和 Codex 中推出，面向 Plus、Pro、Business、Enterprise 和 Edu 用户开放。",
-      "summary": "宣布 GPT-6 Luna 模型今日起在 ChatGPT Work 和 Codex 中推出，面向 Plus、Pro、Business、Enterprise 和 Edu 用户开放。原文未具名发布方。",
-      "category": "模型进展",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "ChatGPT",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：ChatGPT (@ChatGPT)",
-      "feedName": "X：ChatGPT (@ChatGPT)",
-      "sourceUrl": "https://x.com/ChatGPT/status/2102462020339613966",
-      "aggregateUrl": "https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T18:16:22.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 4,
-      "sourceCount": 6,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
-    },
-    {
-      "id": "aihot-cmubkgdje000yro3d0t731ihz",
-      "title": "OpenAI宣布正与独立数学家顾问组合作，协助其负责任地分享AI与数学进展",
-      "brief": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。",
-      "summary": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。该顾问组将就如何评估和沟通新的数学成果、维护学术与专业标准、构建支持数学研究与学习的工具提供建议。OpenAI表示，希望数学家处于塑造AI如何支持数学理解并让更广泛社区受益的核心位置。原文表述为正在进行的合作安排，未涉及具体成果发布或工具上线。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "OpenAI",
-      "sourceGroup": "机构官方",
-      "sourceName": "X：OpenAI (@OpenAI)",
-      "feedName": "X：OpenAI (@OpenAI)",
-      "sourceUrl": "https://x.com/OpenAI/status/2102093145051943229",
-      "aggregateUrl": "https://aihot.news/items/cmubkgdje000yro3d0t731ihz",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T17:50:35.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 5,
-      "sourceCount": 4,
-      "signalCount": 6,
-      "storyUrl": "https://aihot.virxact.com/story/ecaee26d-48a7-44e6-ab81-0ac88b7af057"
-    },
-    {
-      "id": "aihot-cmud02r5503swro7nhqpu7dgu",
-      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
-      "brief": "Artificial Analysis报道OpenAI发布GPT-6 Sol：定价约为GPT-5.6 Sol一半，每百万输入/输出tokens由$4/$20降至$2/$10，缓存读9折、写加价25%，跑智力指数每任务成本$1.06、约降50%。",
-      "summary": "Artificial Analysis报道OpenAI发布GPT-6 Sol：定价约为GPT-5.6 Sol一半，每百万输入/输出tokens由$4/$20降至$2/$10，缓存读9折、写加价25%，跑智力指数每任务成本$1.06、约降50%。AA测试显示智力指数与编码代理指数（57分，升2分）整体与GPT-5.6持平，AA-Omniscience幻觉率由92%降至60%（因更常拒答，准确率由59%降至54%，指数22升至27），AutomationBench-AA与Terminal-Bench 4.0提升，但在GDPval-AA v2.1退步约100 Elo，AA-Briefcase v1.1持平。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "ArtificialAnlys",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-      "feedName": "X：Artificial Analysis (@ArtificialAnlys)",
-      "sourceUrl": "https://x.com/ArtificialAnlys/status/2102462962758033624",
-      "aggregateUrl": "https://aihot.news/items/cmud02r5503swro7nhqpu7dgu",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T18:20:06.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 4,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
     },
     {
       "id": "aihot-cmucwn00k0rglroed55jw9pqk",
@@ -382,8 +347,8 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
-      "sourceCount": 5,
+      "hotRank": 6,
+      "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/7339a97b-3f94-4475-a3b7-18817f09f6fd"
     },
@@ -417,10 +382,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 8,
-      "sourceCount": 5,
+      "hotRank": 7,
+      "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/b9d5ce95-abe0-4f9f-9f68-7cec9d72d805"
+    },
+    {
+      "id": "aihot-cmubkgdje000yro3d0t731ihz",
+      "title": "OpenAI宣布正与独立数学家顾问组合作，协助其负责任地分享AI与数学进展",
+      "brief": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。",
+      "summary": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。该顾问组将就如何评估和沟通新的数学成果、维护学术与专业标准、构建支持数学研究与学习的工具提供建议。OpenAI表示，希望数学家处于塑造AI如何支持数学理解并让更广泛社区受益的核心位置。原文表述为正在进行的合作安排，未涉及具体成果发布或工具上线。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "OpenAI",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "feedName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2102093145051943229",
+      "aggregateUrl": "https://aihot.news/items/cmubkgdje000yro3d0t731ihz",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T17:50:35.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 4,
+      "signalCount": 6,
+      "storyUrl": "https://aihot.virxact.com/story/ecaee26d-48a7-44e6-ab81-0ac88b7af057"
     },
     {
       "id": "aihot-cmu606l6o02m2rok01owq1zp8",
@@ -499,10 +499,10 @@
       "storyUrl": "https://aihot.virxact.com/story/830487aa-e26f-4dbd-9180-d69042dba802"
     },
     {
-      "id": "aihot-cmud0p2ts03isro1frqqop86m",
-      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 价格永久下调 50%",
-      "brief": "OpenAI 发布 GPT-6 Sol 和 Luna，作者称两款模型全面提升，并在写作和整体体感质量上有明显改进。",
-      "summary": "OpenAI 发布 GPT-6 Sol 和 Luna，作者称两款模型全面提升，并在写作和整体体感质量上有明显改进。API 价格永久下调 50%，Plus、Pro 和 Business 用户账户将获得一次存入的重置额度。",
+      "id": "aihot-cmud73hd204tvrora52lp47l0",
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
+      "brief": "OpenAI 在 GPT-6 系列中加入 Sol 和 Luna 两个更快更便宜的型号，并给出相对 GPT-5.6 促销价降 50% 的 API 价格。",
+      "summary": "OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。",
       "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
@@ -511,10 +511,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2102463847714247142",
-      "aggregateUrl": "https://aihot.news/items/cmud0p2ts03isro1frqqop86m",
+      "sourceUrl": "https://x.com/thsottiaux/status/2102509507415048245",
+      "aggregateUrl": "https://aihot.news/items/cmud73hd204tvrora52lp47l0",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T18:23:37.000Z",
+      "publishedAt": "2026-09-22T21:25:03.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -530,6 +530,42 @@
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
           "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmud5yh1903iarorahi0vox9u",
+      "title": "ChatGPT 在 macOS 27 崩溃，Astra 发现 libuv 旧 bug",
+      "brief": "更新到 macOS 27 后，ChatGPT 有时会崩溃，然后……Astra 在 libuv 里发现了一个约 14 年前的 bug。",
+      "summary": "更新到 macOS 27 后，ChatGPT 有时会崩溃，然后……Astra 在 libuv 里发现了一个约 14 年前的 bug。https://github.com/libuv/libuv/pull/5283",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "steipete",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Peter Steinberger · @steipete",
+      "feedName": "X：Peter Steinberger (@steipete)",
+      "sourceUrl": "https://x.com/steipete/status/2102501642176528743",
+      "aggregateUrl": "https://aihot.news/items/cmud5yh1903iarorahi0vox9u",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T20:53:48.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": {
+          "name": "Peter Steinberger",
+          "asset": "/assets/identities/steipete.png",
+          "assetSource": "https://x.com/steipete",
           "tone": "#e9e4dc"
         }
       }
@@ -607,10 +643,10 @@
       }
     },
     {
-      "id": "aihot-cmucvh8cb0pvuroed1vgk0zyo",
-      "title": "DigitalOcean Managed Agents 开启公开预览",
-      "brief": "DigitalOcean 宣布 Managed Agents 进入公开预览，可运行 Claude Code、Codex 或自己的 LangGraph 智能体，空闲时暂停、仅按活跃时间计费。",
-      "summary": "DigitalOcean 宣布 Managed Agents 进入公开预览，可运行 Claude Code、Codex 或自己的 LangGraph 智能体，空闲时暂停、仅按活跃时间计费。",
+      "id": "aihot-cmud771ii04vzrora6infmli1",
+      "title": "Anthropic 提示词助 Claude Code 长任务",
+      "brief": "Anthropic 的提示词很棒。",
+      "summary": "Anthropic 的提示词很棒。\n\n它有助于在使用 Claude Code 中的 Opus 5.5 时引导长时间运行。\n\n显然，在长时间运行的任务中，模型有时会停下来汇报，而不是继续执行。我注意到这种情况在前沿模型中经常发生。",
       "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
@@ -619,21 +655,21 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2102430254535233981",
-      "aggregateUrl": "https://aihot.news/items/cmucvh8cb0pvuroed1vgk0zyo",
+      "sourceUrl": "https://x.com/omarsar0/status/2102506755037306925",
+      "aggregateUrl": "https://aihot.news/items/cmud771ii04vzrora6infmli1",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T16:10:08.000Z",
+      "publishedAt": "2026-09-22T21:14:07.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Elvis Saravia",
-            "asset": "/assets/identities/omarsar0.jpg",
-            "assetSource": "https://x.com/omarsar0",
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
-        "caption": "产品动态",
+        "caption": "Claude Code",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -721,22 +757,22 @@
       }
     },
     {
-      "id": "aihot-cmud1z1zn03b3ro5ykjia7vjq",
-      "title": "Perplexity 向全部用户开放 GPT-6 Sol，WANDR 评测显示以五分之一价格超过 Opus 5",
-      "brief": "Perplexity CEO Aravind Srinivas 宣布 GPT-6 Sol 现已向所有 Perplexity 用户开放。",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布 GPT-6 Sol 现已向所有 Perplexity 用户开放。在其 Wide-And-Deep-Research（WANDR）评测中，GPT-6 Sol 得分 0.566、单任务成本 $2.23，以约五分之一的价格超过 Claude Opus 5（0.537、$11.60）。Sol 将成为 Computer 用户 Light Effort 的编排器，High Effort 仍由 GPT-6 Astra（0.682、$11.98）担任。",
-      "category": "模型进展",
-      "topic": "AI 产品",
+      "id": "aihot-cmud56t5w02seroraj6zqq31v",
+      "title": "Perplexity 后训练新研究：工具调用失败降 21%",
+      "brief": "Perplexity 公布其 Computer 智能体后训练方法，通过模仿优质轨迹并显式纠正可避免错误（如错误工具调用），结合拒绝采样微调（RFT）与提示引导自蒸馏，在线上 A/B 测试中将工具调用失败率降低约 21%。",
+      "summary": "Perplexity 公布其 Computer 智能体后训练方法，通过模仿优质轨迹并显式纠正可避免错误（如错误工具调用），结合拒绝采样微调（RFT）与提示引导自蒸馏，在线上 A/B 测试中将工具调用失败率降低约 21%。引用推文补充，较晚训练的 checkpoint 相对早期 checkpoint 工具调用失败率下降 21.2%。",
+      "category": "研究进展",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2102474729127022799",
-      "aggregateUrl": "https://aihot.news/items/cmud1z1zn03b3ro5ykjia7vjq",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2102497917185802737",
+      "aggregateUrl": "https://aihot.news/items/cmud56t5w02seroraj6zqq31v",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T19:06:52.000Z",
+      "publishedAt": "2026-09-22T20:39:00.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -745,55 +781,13 @@
             "asset": "/assets/identities/perplexity_ai.jpg",
             "assetSource": "https://x.com/perplexity_ai",
             "tone": "#dcebea"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
           }
         ],
-        "caption": "模型进展",
+        "caption": "研究进展",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmubw0lc6056fro9986ltslk4",
-      "title": "Aikido 推出开源安全模型 Altar-1",
-      "brief": "很高兴开始看到更多具备防御能力的开放权重安全模型，性能接近前沿水平\n\nAikido 的 altar-1 是开放 SOTA 的 GLM 5.3 经过剪枝和量化的版本，轻量到足以在单个 4-H200s 节点上运行",
-      "summary": "很高兴开始看到更多具备防御能力的开放权重安全模型，性能接近前沿水平\n\nAikido 的 altar-1 是开放 SOTA 的 GLM 5.3 经过剪枝和量化的版本，轻量到足以在单个 4-H200s 节点上运行",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "Thom_Wolf",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Thomas Wolf · @Thom_Wolf",
-      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2102177501250273748",
-      "aggregateUrl": "https://aihot.news/items/cmubw0lc6056fro9986ltslk4",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T23:25:47.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "模型进展",
-        "author": {
-          "name": "Thomas Wolf",
-          "asset": "/assets/identities/thom_wolf.jpg",
-          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
