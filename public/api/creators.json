@@ -296,9 +296,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-22T06:01:12.357Z",
-      "lastSuccessAt": "2026-09-22T06:01:12.357Z",
-      "nextCheckAt": 1790057772357,
+      "checkedAt": "2026-09-22T11:25:28.749Z",
+      "lastSuccessAt": "2026-09-22T11:25:28.749Z",
+      "nextCheckAt": 1790077228749,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -609,9 +609,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-22T06:01:12.359Z",
-      "lastSuccessAt": "2026-09-22T06:01:12.359Z",
-      "nextCheckAt": 1790057772359,
+      "checkedAt": "2026-09-22T11:25:28.750Z",
+      "lastSuccessAt": "2026-09-22T11:25:28.750Z",
+      "nextCheckAt": 1790077228750,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -924,9 +924,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-22T06:01:12.360Z",
-      "lastSuccessAt": "2026-09-22T06:01:12.360Z",
-      "nextCheckAt": 1790057772360,
+      "checkedAt": "2026-09-22T11:25:28.751Z",
+      "lastSuccessAt": "2026-09-22T11:25:28.751Z",
+      "nextCheckAt": 1790077228751,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1237,9 +1237,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-22T06:01:12.599Z",
-      "lastSuccessAt": "2026-09-22T06:01:12.599Z",
-      "nextCheckAt": 1790057772599,
+      "checkedAt": "2026-09-22T11:25:28.983Z",
+      "lastSuccessAt": "2026-09-22T11:25:28.983Z",
+      "nextCheckAt": 1790077228983,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1259,6 +1259,35 @@
     {
       "id": "khazix",
       "items": [
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "creatorId": "khazix",
+          "title": "今夜的荣光属于MiMo V2.6。",
+          "summary": "新一代源神",
+          "publishedAt": "2026-09-22T02:02:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "数字生命卡兹克",
+                "asset": "/assets/identities/creator_khazix.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "产品与热点",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
           "creatorId": "khazix",
@@ -1523,41 +1552,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "creatorId": "khazix",
-          "title": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
-          "summary": "那些未来的传承",
-          "publishedAt": "2026-09-07T00:08:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "OpenAI",
-                "asset": "/assets/identities/openai.jpg",
-                "assetSource": "https://x.com/OpenAI",
-                "tone": "#e6eeea"
-              }
-            ],
-            "caption": "GPT-6 Astra",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-09-22T06:01:12.643Z",
-      "lastSuccessAt": "2026-09-22T06:01:12.643Z",
-      "nextCheckAt": 1790057772643,
+      "checkedAt": "2026-09-22T11:25:29.025Z",
+      "lastSuccessAt": "2026-09-22T11:25:29.025Z",
+      "nextCheckAt": 1790077229025,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1875,9 +1874,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-22T06:01:12.709Z",
-      "lastSuccessAt": "2026-09-22T06:01:12.709Z",
-      "nextCheckAt": 1790057772709,
+      "checkedAt": "2026-09-22T11:25:29.056Z",
+      "lastSuccessAt": "2026-09-22T11:25:29.056Z",
+      "nextCheckAt": 1790077229056,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1896,6 +1895,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1790057772357,
+  "nextCheckAt": 1790077228749,
   "refreshing": false
 }
