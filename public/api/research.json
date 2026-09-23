@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-23T00:39:04.008Z",
-      "lastSuccessAt": "2026-09-23T00:39:04.008Z",
-      "nextCheckAt": 1790127544008,
+      "checkedAt": "2026-09-23T05:15:24.142Z",
+      "lastSuccessAt": "2026-09-23T05:15:24.142Z",
+      "nextCheckAt": 1790144124142,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-23T00:39:04.009Z",
-      "lastSuccessAt": "2026-09-23T00:39:04.009Z",
-      "nextCheckAt": 1790127544009,
+      "checkedAt": "2026-09-23T05:15:24.143Z",
+      "lastSuccessAt": "2026-09-23T05:15:24.143Z",
+      "nextCheckAt": 1790144124143,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-23T00:39:04.010Z",
-      "lastSuccessAt": "2026-09-23T00:39:04.010Z",
-      "nextCheckAt": 1790127544010,
+      "checkedAt": "2026-09-23T05:15:24.144Z",
+      "lastSuccessAt": "2026-09-23T05:15:24.144Z",
+      "nextCheckAt": 1790144124144,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790127544147,
-      "checkedAt": "2026-09-23T00:39:04.147Z",
-      "lastSuccessAt": "2026-09-23T00:39:04.147Z",
+      "nextCheckAt": 1790144124316,
+      "checkedAt": "2026-09-23T05:15:24.316Z",
+      "lastSuccessAt": "2026-09-23T05:15:24.316Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,55 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790127544008,
+  "nextCheckAt": 1790144124142,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6468328.html",
-      "title": "部署TradingAgents：把一家公司“装进”大模型里，自动完成股票研究",
-      "summary": "TradingAgents把真实机构的研究、讨论与风控流程拆成可协作的角色：基本面、技术、新闻与情绪分析师各自处理数据，多空研究员辩论，交易员形成计划，风控与组合经理审核。项目在GitHub已获超10.8万Star，四条命令即可启动。 今天和大家分享一个股票研究类的开源项目：TradingAgents。 它是一个面向金融研究的多智能体开源框架。它尝试把真实交易机构中的研究、讨论和风控流程，组织成一套可以由大模型协作完成的工作流。 目前，",
-      "publishedAt": "2026-09-22T10:47:21.000Z",
-      "url": "https://www.woshipm.com/ai/6468328.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6468328.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "TradingAgents把真实机构的研究、讨论与风控流程拆成可协作的角色：基本面、技术、新闻与情绪分析师各自处理数据，多空研究员辩论，交易员形成计划，风控与组合经理审核。项目在GitHub已获超10.8万Star，四条命令即可启动。 今天和大家分享一个股票研究类的开源项目：TradingAgents。 它是一个面向金融研究的多智能体开源框架。它尝试把真实交易机构中的研究、讨论和风控流程，组织成一套可以由大模型协作完成的工作流。 目前，",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6468130.html",
-      "title": "大厂后训练视角看Jev模型的更新（大白话）",
-      "summary": "Jev 的爆火并非因为“读懂潜台词”的趣味截图，而是它试图用 RLCD 取代 RLHF，让大模型从“会聊天”转向“能决策”。本文用大白话拆解预训练、RLHF 到 RLCD 的演进，结合客服等场景，客观分析 Jev 的价值、局限与待验证之处。 Jev 最近因为各种“读懂潜台词”的趣味截图爆火，但它真正值得关注的，并不是会不会分析老板和对象，而是它尝试改变大模型的后训练目标。 本文将用大白话讲清从预训练、RLHF到 RLCD 的变化，同时也",
-      "publishedAt": "2026-09-22T09:21:07.000Z",
-      "url": "https://www.woshipm.com/ai/6468130.html",
+      "id": "woshipm:https://www.woshipm.com/evaluating/6468918.html",
+      "title": "快速实测：腾讯 Hy Image3.5 preview 和阿里 Qwen-Image-2.1 的文生图表现",
+      "summary": "阿里 Qwen-Image-2.1 与腾讯 Hy Image3.5 preview 相继发布，两款都把中文文字生成和画面质感作为重点。作者用同一组提示词覆盖人像、信息图、UI 界面等场景各生成一次，不筛图也不改词，只比较文生图这一环节的直观表现。 这两天，阿里发布了 Qwen-Image-2.1，腾讯也推出了 Hy Image3.5 preview。两款模型都把文字理解、画面质感和中文文字生成作为重点能力，刚发布就受到不少关注。 模型更",
+      "publishedAt": "2026-09-23T03:21:50.000Z",
+      "url": "https://www.woshipm.com/evaluating/6468918.html",
       "linkKind": "original",
       "opportunity": {
         "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
@@ -162,27 +122,27 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6468130.html",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6468918.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Jev 的爆火并非因为“读懂潜台词”的趣味截图，而是它试图用 RLCD 取代 RLHF，让大模型从“会聊天”转向“能决策”。本文用大白话拆解预训练、RLHF 到 RLCD 的演进，结合客服等场景，客观分析 Jev 的价值、局限与待验证之处。 Jev 最近因为各种“读懂潜台词”的趣味截图爆火，但它真正值得关注的，并不是会不会分析老板和对象，而是它尝试改变大模型的后训练目标。 本文将用大白话讲清从预训练、RLHF到 RLCD 的变化，同时也",
+      "brief": "阿里 Qwen-Image-2.1 与腾讯 Hy Image3.5 preview 相继发布，两款都把中文文字生成和画面质感作为重点。作者用同一组提示词覆盖人像、信息图、UI 界面等场景各生成一次，不筛图也不改词，只比较文生图这一环节的直观表现。 这两天，阿里发布了 Qwen-Image-2.1，腾讯也推出了 Hy Image3.5 preview。两款模型都把文字理解、画面质感和中文文字生成作为重点能力，刚发布就受到不少关注。 模型更",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6468340.html",
-      "title": "新模型Jev爆火：曾帮ChatGPT学会聊天的人，为啥做个不聊天AI？",
-      "summary": "Jev主动砍掉了大模型最核心的能力——生成文本，不写文章、不写代码、也不聊天，只做判断。作者是前OpenAI研究员、InstructGPT论文共同作者之一。它火得很快，发布帖两天获超3000万次浏览，DCVC领投4000万美元种子轮。 大量中间步骤，并不需要AI会说话。 不少朋友可能发现，虽然最近这两三个月新的大模型层出不穷，但我却很少聊这些。 原因很简单，我觉得现阶段，这几个顶尖大模型的能力虽然有差别，但整体都已经非常强了。 比起纠结",
-      "publishedAt": "2026-09-22T08:51:41.000Z",
-      "url": "https://www.woshipm.com/ai/6468340.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6468788.html",
+      "title": "Al部署不是装上模型，关键是五个连接要做到位",
+      "summary": "每次有人问我 AI 到底怎么落地，我都会先反问一句：你想要的“落地”，到底是 PPT 上画一画，还是真的让它坐在流程里天天干活？文章把 AI 部署拆成五个连接，任何一个没接上，都是失败的一种现成姿势。 每次有人问我“AI 到底怎么落地”，我都会先反问一句： “你想要的‘落地’，到底是哪一种？” 是 PPT 上画一画、跑个 demo 拿到一阵掌声？还是真的让它坐在流程里，天天干活不出事？ 这两种「落地」，中间隔着一片沙漠。 今天这篇，是想",
+      "publishedAt": "2026-09-23T02:54:49.000Z",
+      "url": "https://www.woshipm.com/ai/6468788.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -202,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6468340.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6468788.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Jev主动砍掉了大模型最核心的能力——生成文本，不写文章、不写代码、也不聊天，只做判断。作者是前OpenAI研究员、InstructGPT论文共同作者之一。它火得很快，发布帖两天获超3000万次浏览，DCVC领投4000万美元种子轮。 大量中间步骤，并不需要AI会说话。 不少朋友可能发现，虽然最近这两三个月新的大模型层出不穷，但我却很少聊这些。 原因很简单，我觉得现阶段，这几个顶尖大模型的能力虽然有差别，但整体都已经非常强了。 比起纠结",
+      "brief": "每次有人问我 AI 到底怎么落地，我都会先反问一句：你想要的“落地”，到底是 PPT 上画一画，还是真的让它坐在流程里天天干活？文章把 AI 部署拆成五个连接，任何一个没接上，都是失败的一种现成姿势。 每次有人问我“AI 到底怎么落地”，我都会先反问一句： “你想要的‘落地’，到底是哪一种？” 是 PPT 上画一画、跑个 demo 拿到一阵掌声？还是真的让它坐在流程里，天天干活不出事？ 这两种「落地」，中间隔着一片沙漠。 今天这篇，是想",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -251,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/freebuff-2",
