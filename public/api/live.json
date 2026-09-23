@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月23日",
     "demo": false,
-    "updatedAt": "2026-09-22T22:15:43.733Z",
+    "updatedAt": "2026-09-23T10:03:58.440Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 8,
+      "latestCount": 9,
       "archiveCount": 1
     },
     "sources": {
@@ -56,8 +56,8 @@
           "group": "产品与工程",
           "focus": "AI 工程与开发者生态",
           "url": "https://x.com/swyx",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "simonw",
@@ -74,7 +74,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 1,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 7,
+          "matched": 9,
           "status": "本次收录"
         },
         {
@@ -128,7 +128,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 6,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -536,22 +536,58 @@
         }
       },
       {
-        "id": "aihot-cmud5yh1903iarorahi0vox9u",
-        "title": "ChatGPT 在 macOS 27 崩溃，Astra 发现 libuv 旧 bug",
-        "brief": "更新到 macOS 27 后，ChatGPT 有时会崩溃，然后……Astra 在 libuv 里发现了一个约 14 年前的 bug。",
-        "summary": "更新到 macOS 27 后，ChatGPT 有时会崩溃，然后……Astra 在 libuv 里发现了一个约 14 年前的 bug。https://github.com/libuv/libuv/pull/5283",
+        "id": "aihot-cmudr32ic049vroghwzfa0dul",
+        "title": "AINews 默认模型换用 Claude Opus 5.5",
+        "brief": "可以确认。",
+        "summary": "可以确认。把 @latentspacepod AINews 和 6 Sol 并排跑了一遍，差别天壤之别：https://www.latent.space/p/ainews-claude-opus-55-the-new-default\n\n5.5 Opus 今后成为 AINews 的新默认模型。报道简洁得多、有品味得多，slopese 也比 5 Opus 少了很多。",
         "category": "模型进展",
         "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "swyx",
+        "sourceGroup": "产品与工程",
+        "sourceName": "swyx · @swyx",
+        "feedName": "X：swyx (@swyx)",
+        "sourceUrl": "https://x.com/swyx/status/2102650014552182920",
+        "aggregateUrl": "https://aihot.news/items/cmudr32ic049vroghwzfa0dul",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-23T06:43:23.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "模型进展",
+          "author": {
+            "name": "swyx",
+            "asset": "/assets/identities/swyx.jpg",
+            "assetSource": "https://x.com/swyx",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmudulu4i08agroghyej9c5m3",
+        "title": "CodexBar 新增多项服务集成",
+        "brief": "CodexBar 在过去几周学会了几项新技能！",
+        "summary": "CodexBar 在过去几周学会了几项新技能！\n\nTypeSafe、Nous Portal、Muse Code、CodeRabbit、Replicate、HuggingFace、Pi、Helmcode、v0、Charm Hyper、GitKraken AI、Bifrost\n\n我对这个应用的野心真的已经远超这个应用名字了。（哦对了，这些钥匙串弹窗也不再有了）http://codex.bar",
+        "category": "产品动态",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "steipete",
         "sourceGroup": "产品与工程",
         "sourceName": "Peter Steinberger · @steipete",
         "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2102501642176528743",
-        "aggregateUrl": "https://aihot.news/items/cmud5yh1903iarorahi0vox9u",
+        "sourceUrl": "https://x.com/steipete/status/2102672670689275965",
+        "aggregateUrl": "https://aihot.news/items/cmudulu4i08agroghyej9c5m3",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T20:53:48.000Z",
+        "publishedAt": "2026-09-23T08:13:25.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -562,7 +598,7 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": {
             "name": "Peter Steinberger",
             "asset": "/assets/identities/steipete.png",
@@ -608,11 +644,11 @@
         }
       },
       {
-        "id": "aihot-cmucx5fy40s3kroedemlvm7ld",
-        "title": "Ethan Mollick 测试 Opus 5.5 模型表现",
-        "brief": "Opus 5.5 在我早期测试中是个不错的模型，是首个非 Fable/Astra 却感觉像 Fable 级别的模型，但仍未完全解决近期 Claude 模型的密集语言问题。",
-        "summary": "Opus 5.5 在我早期测试中是个不错的模型，是首个非 Fable/Astra 却感觉像 Fable 级别的模型，但仍未完全解决近期 Claude 模型的密集语言问题。\n\n它生成的同一 shader 版本（破碎的塔是个不错的细节）：https://twigl.app?ol=true&ss=-P291BpUn5JvZhohk-c0",
-        "category": "模型进展",
+        "id": "aihot-cmudjnmwp0diprogg1qtap2ua",
+        "title": "Fable/Opus 打造硬科幻星舰对战游戏",
+        "brief": "我让 Fable/Opus 做了一个硬科幻星舰对战游戏，包含轨道力学、delta-v、热量和真实战术，但简化为 2D 空间，硬核数学由游戏来完成。",
+        "summary": "我让 Fable/Opus 做了一个硬科幻星舰对战游戏，包含轨道力学、delta-v、热量和真实战术，但简化为 2D 空间，硬核数学由游戏来完成。\n\n玩起来挺有趣的（如果你喜欢这类东西的话）：https://orbital-declaration.netlify.app/",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -620,46 +656,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2102441628661080384",
-        "aggregateUrl": "https://aihot.news/items/cmucx5fy40s3kroedemlvm7ld",
+        "sourceUrl": "https://x.com/emollick/status/2102593821376696785",
+        "aggregateUrl": "https://aihot.news/items/cmudjnmwp0diprogg1qtap2ua",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T16:55:20.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Ethan Mollick",
-              "asset": "/assets/identities/emollick.jpg",
-              "assetSource": "https://x.com/emollick",
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "模型进展",
-          "author": {
-            "name": "Ethan Mollick",
-            "asset": "/assets/identities/emollick.jpg",
-            "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-cmud771ii04vzrora6infmli1",
-        "title": "Anthropic 提示词助 Claude Code 长任务",
-        "brief": "Anthropic 的提示词很棒。",
-        "summary": "Anthropic 的提示词很棒。\n\n它有助于在使用 Claude Code 中的 Opus 5.5 时引导长时间运行。\n\n显然，在长时间运行的任务中，模型有时会停下来汇报，而不是继续执行。我注意到这种情况在前沿模型中经常发生。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "omarsar0",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Elvis Saravia · @omarsar0",
-        "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2102506755037306925",
-        "aggregateUrl": "https://aihot.news/items/cmud771ii04vzrora6infmli1",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T21:14:07.000Z",
+        "publishedAt": "2026-09-23T03:00:05.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -670,7 +670,43 @@
               "tone": "#eddfd0"
             }
           ],
-          "caption": "Claude Code",
+          "caption": "产品动态",
+          "author": {
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmudhwucq0bd7roggvacpimdm",
+        "title": "Opus 5.5 写作体验更像 Opus 4.5",
+        "brief": "Opus 5.5 感觉更像 Opus 4.5。",
+        "summary": "Opus 5.5 感觉更像 Opus 4.5。\n\n是我一个人的感觉，还是它写作真的好了很多？\n\nClaudese 的感觉基本消失了。\n\n回复读起来也更轻松了。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "omarsar0",
+        "sourceGroup": "研究与方法",
+        "sourceName": "Elvis Saravia · @omarsar0",
+        "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "sourceUrl": "https://x.com/omarsar0/status/2102583221732921826",
+        "aggregateUrl": "https://aihot.news/items/cmudhwucq0bd7roggvacpimdm",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-23T02:17:58.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Elvis Saravia",
+              "asset": "/assets/identities/omarsar0.jpg",
+              "assetSource": "https://x.com/omarsar0",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
@@ -833,10 +869,10 @@
     ]
   },
   "live": {
-    "status": "error",
-    "checkedAt": "2026-09-23T00:39:21.191Z",
-    "nextCheckAt": 1790140882686,
+    "status": "ok",
+    "checkedAt": "2026-09-23T10:03:58.440Z",
+    "nextCheckAt": 1790158138440,
     "intervalSeconds": 300,
-    "message": "暂时无法连接 AIHot，已保留上次资讯，稍后自动重试。"
+    "message": ""
   }
 }

@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-23T05:15:24.142Z",
-      "lastSuccessAt": "2026-09-23T05:15:24.142Z",
-      "nextCheckAt": 1790144124142,
+      "checkedAt": "2026-09-23T10:03:33.315Z",
+      "lastSuccessAt": "2026-09-23T10:03:33.315Z",
+      "nextCheckAt": 1790161413315,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-23T05:15:24.143Z",
-      "lastSuccessAt": "2026-09-23T05:15:24.143Z",
-      "nextCheckAt": 1790144124143,
+      "checkedAt": "2026-09-23T10:03:33.317Z",
+      "lastSuccessAt": "2026-09-23T10:03:33.317Z",
+      "nextCheckAt": 1790161413317,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-23T05:15:24.144Z",
-      "lastSuccessAt": "2026-09-23T05:15:24.144Z",
-      "nextCheckAt": 1790144124144,
+      "checkedAt": "2026-09-23T10:03:33.317Z",
+      "lastSuccessAt": "2026-09-23T10:03:33.317Z",
+      "nextCheckAt": 1790161413317,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-23T10:03:33.621Z",
+      "lastSuccessAt": "2026-09-23T10:03:33.621Z",
+      "nextCheckAt": 1790161413621,
       "status": "ok",
-      "nextCheckAt": 1790144124316,
-      "checkedAt": "2026-09-23T05:15:24.316Z",
-      "lastSuccessAt": "2026-09-23T05:15:24.316Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790144124142,
+  "nextCheckAt": 1790161413315,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/evaluating/6468918.html",
-      "title": "快速实测：腾讯 Hy Image3.5 preview 和阿里 Qwen-Image-2.1 的文生图表现",
-      "summary": "阿里 Qwen-Image-2.1 与腾讯 Hy Image3.5 preview 相继发布，两款都把中文文字生成和画面质感作为重点。作者用同一组提示词覆盖人像、信息图、UI 界面等场景各生成一次，不筛图也不改词，只比较文生图这一环节的直观表现。 这两天，阿里发布了 Qwen-Image-2.1，腾讯也推出了 Hy Image3.5 preview。两款模型都把文字理解、画面质感和中文文字生成作为重点能力，刚发布就受到不少关注。 模型更",
-      "publishedAt": "2026-09-23T03:21:50.000Z",
-      "url": "https://www.woshipm.com/evaluating/6468918.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6468767.html",
+      "title": "盘点产品经理WorkBuddy的5个工作流：原型绘制、架构和流程图、PRD、汇报、求职AI知识库等",
+      "summary": "腾讯 WorkBuddy 加一套专属 Skill，能把原型、架构图、PRD、汇报材料和求职知识库串成本地流水线。画原型不必再拖组件，输入业务场景就吐出自适应 HTML 原型，多页面交易链路能联动跳转；流程图交给 drawio 出可编辑文件。 事情是这样的。 正赶上金九银十求职季，最近不少找我聊跳槽的产品朋友都在焦虑。大厂面试真正考的是什么啊？ 是深度的业务闭环、复杂的系统推演，以及核心的业务决策力。 但现实中，绝大多数产品经理白天在公司",
+      "publishedAt": "2026-09-23T07:37:05.000Z",
+      "url": "https://www.woshipm.com/ai/6468767.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/evaluating/6468918.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6468767.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "阿里 Qwen-Image-2.1 与腾讯 Hy Image3.5 preview 相继发布，两款都把中文文字生成和画面质感作为重点。作者用同一组提示词覆盖人像、信息图、UI 界面等场景各生成一次，不筛图也不改词，只比较文生图这一环节的直观表现。 这两天，阿里发布了 Qwen-Image-2.1，腾讯也推出了 Hy Image3.5 preview。两款模型都把文字理解、画面质感和中文文字生成作为重点能力，刚发布就受到不少关注。 模型更",
+      "brief": "腾讯 WorkBuddy 加一套专属 Skill，能把原型、架构图、PRD、汇报材料和求职知识库串成本地流水线。画原型不必再拖组件，输入业务场景就吐出自适应 HTML 原型，多页面交易链路能联动跳转；流程图交给 drawio 出可编辑文件。 事情是这样的。 正赶上金九银十求职季，最近不少找我聊跳槽的产品朋友都在焦虑。大厂面试真正考的是什么啊？ 是深度的业务闭环、复杂的系统推演，以及核心的业务决策力。 但现实中，绝大多数产品经理白天在公司",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,15 +134,56 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6468788.html",
-      "title": "Al部署不是装上模型，关键是五个连接要做到位",
-      "summary": "每次有人问我 AI 到底怎么落地，我都会先反问一句：你想要的“落地”，到底是 PPT 上画一画，还是真的让它坐在流程里天天干活？文章把 AI 部署拆成五个连接，任何一个没接上，都是失败的一种现成姿势。 每次有人问我“AI 到底怎么落地”，我都会先反问一句： “你想要的‘落地’，到底是哪一种？” 是 PPT 上画一画、跑个 demo 拿到一阵掌声？还是真的让它坐在流程里，天天干活不出事？ 这两种「落地」，中间隔着一片沙漠。 今天这篇，是想",
-      "publishedAt": "2026-09-23T02:54:49.000Z",
-      "url": "https://www.woshipm.com/ai/6468788.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6469118.html",
+      "title": "突发！Claude、GPT发布新模型，大降价对标DeepSeek？",
+      "summary": "今天凌晨，OpenAI和Anthropic几乎前后脚更新了模型。 Anthropic 发布 Claude Opus 5.5，OpenAI 则一口气发布 GPT-6 Sol 和 GPT-6 Luna。 有点像约好了。 而且两边这次升级的方向都很一致：能力继续涨，但重点开始放在速度、价格和实际干活效率上。 先看Claude Opus 5.5。 这次主要升级了几个地方： 1、Coding 更强了。 Anthropic 重点强调了Agent C",
+      "publishedAt": "2026-09-23T06:28:05.000Z",
+      "url": "https://www.woshipm.com/ai/6469118.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6469118.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "今天凌晨，OpenAI和Anthropic几乎前后脚更新了模型。 Anthropic 发布 Claude Opus 5.5，OpenAI 则一口气发布 GPT-6 Sol 和 GPT-6 Luna。 有点像约好了。 而且两边这次升级的方向都很一致：能力继续涨，但重点开始放在速度、价格和实际干活效率上。 先看Claude Opus 5.5。 这次主要升级了几个地方： 1、Coding 更强了。 Anthropic 重点强调了Agent C",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6469108.html",
+      "title": "蚂蚁阿福，跑去超市抢用户了！",
+      "summary": "这两天，蚂蚁阿福干了一件挺接地气的事。 它跑去超市了。 昨天，全国已有2000多家超市门店陆续推出“蚂蚁阿福健康专区”，包括盒马、物美、Olé、重庆百货等。 图片来自aibase 以后买牛奶、零食、海鲜、粮油，拿手机拍一下包装或者标签，阿福就可以帮你分析营养成分、热量，并提供升糖指数等相关科普和健康参考。 这事听起来没什么技术含量，但我觉得挺值得聊。 因为我们一年可能去不了几次医院，却每天都要吃饭。 AI健康，开始从“生病了再问”，往“",
+      "publishedAt": "2026-09-23T06:20:50.000Z",
+      "url": "https://www.woshipm.com/ai/6469108.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,11 +203,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6468788.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6469108.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "每次有人问我 AI 到底怎么落地，我都会先反问一句：你想要的“落地”，到底是 PPT 上画一画，还是真的让它坐在流程里天天干活？文章把 AI 部署拆成五个连接，任何一个没接上，都是失败的一种现成姿势。 每次有人问我“AI 到底怎么落地”，我都会先反问一句： “你想要的‘落地’，到底是哪一种？” 是 PPT 上画一画、跑个 demo 拿到一阵掌声？还是真的让它坐在流程里，天天干活不出事？ 这两种「落地」，中间隔着一片沙漠。 今天这篇，是想",
+      "brief": "这两天，蚂蚁阿福干了一件挺接地气的事。 它跑去超市了。 昨天，全国已有2000多家超市门店陆续推出“蚂蚁阿福健康专区”，包括盒马、物美、Olé、重庆百货等。 图片来自aibase 以后买牛奶、零食、海鲜、粮油，拿手机拍一下包装或者标签，阿福就可以帮你分析营养成分、热量，并提供升糖指数等相关科普和健康参考。 这事听起来没什么技术含量，但我觉得挺值得聊。 因为我们一年可能去不了几次医院，却每天都要吃饭。 AI健康，开始从“生病了再问”，往“",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,11 +215,11 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/hola-ai",
-      "title": "Hola AI",
-      "summary": "An AI voicemail assistant that answers calls when you can’t.",
-      "publishedAt": "2026-09-21T21:42:18.000Z",
-      "url": "https://www.producthunt.com/products/hola-ai",
+      "id": "ph:https://www.producthunt.com/products/jev-state",
+      "title": "Jev State",
+      "summary": "Turn AI conversations into tests and runnable code",
+      "publishedAt": "2026-09-22T18:53:46.000Z",
+      "url": "https://www.producthunt.com/products/jev-state",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -202,35 +243,36 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/hola-ai",
+      "sourceUrl": "https://www.producthunt.com/products/jev-state",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "An AI voicemail assistant that answers calls when you can’t.",
+      "brief": "Turn AI conversations into tests and runnable code",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/freebuff-2",
-      "title": "Freebuff Ads",
-      "summary": "Advertise to 500k developers in our coding agent",
-      "publishedAt": "2026-09-21T20:56:02.000Z",
-      "url": "https://www.producthunt.com/products/freebuff-2",
+      "id": "ph:https://www.producthunt.com/products/claude-fable-5-1",
+      "title": "Claude Opus 5.5",
+      "summary": "Anthropic's first model in their new Claude 5.5 family",
+      "publishedAt": "2026-09-22T16:36:09.000Z",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "新品与竞品",
@@ -242,11 +284,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/freebuff-2",
+      "sourceUrl": "https://www.producthunt.com/products/claude-fable-5-1",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Advertise to 500k developers in our coding agent",
+      "brief": "Anthropic's first model in their new Claude 5.5 family",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -254,11 +296,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/fez-2",
-      "title": "Fez",
-      "summary": "AI agents that work as a team and make decisions together",
-      "publishedAt": "2026-09-21T18:50:10.000Z",
-      "url": "https://www.producthunt.com/products/fez-2",
+      "id": "ph:https://www.producthunt.com/products/koreshield",
+      "title": "Koreshield",
+      "summary": "Security and evidence for AI support agents",
+      "publishedAt": "2026-09-22T12:47:36.000Z",
+      "url": "https://www.producthunt.com/products/koreshield",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -282,11 +324,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/fez-2",
+      "sourceUrl": "https://www.producthunt.com/products/koreshield",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "AI agents that work as a team and make decisions together",
+      "brief": "Security and evidence for AI support agents",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
