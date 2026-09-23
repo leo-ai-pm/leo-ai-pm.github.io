@@ -1,7 +1,7 @@
 {
-  "date": "2026年9月23日",
+  "date": "2026年9月24日",
   "demo": false,
-  "updatedAt": "2026-09-23T14:54:58.699Z",
+  "updatedAt": "2026-09-23T18:58:12.589Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 9,
+    "latestCount": 7,
     "archiveCount": 1
   },
   "sources": {
@@ -37,7 +37,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -82,8 +82,8 @@
         "group": "产品与工程",
         "focus": "开发者产品与应用工程",
         "url": "https://x.com/sherwinwu",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "emollick",
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 7,
+        "matched": 10,
         "status": "本次收录"
       },
       {
@@ -109,8 +109,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 6,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -208,44 +208,9 @@
         "author": null
       },
       "hotRank": 2,
-      "sourceCount": 13,
+      "sourceCount": 12,
       "signalCount": 2,
       "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
-    },
-    {
-      "id": "aihot-cmubfarpy0xtirolnplntl9p1",
-      "title": "Grok 4.7 发布，宣称更智能且能力更强，保持相同速度与成本",
-      "brief": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。",
-      "summary": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。发布方称其在CursorBench 4.0等基准上价格性能处于前沿，并启用全新安全防护。模型当日即在Cursor、Grok Build、Grok API及第三方渠道可用，起价每百万输入token 2美元、输出6美元，另提供两倍速度、两倍价格的快速变体。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "important",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "xAI：News（网页）",
-      "feedName": "xAI：News（网页）",
-      "sourceUrl": "https://x.ai/news/grok-4-7",
-      "aggregateUrl": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "xAI：News（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 3,
-      "sourceCount": 14,
-      "signalCount": 12,
-      "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
     },
     {
       "id": "aihot-cmuczxsyt03k4ro7nep4vsmez",
@@ -254,7 +219,7 @@
       "summary": "同一次公告中还推出新模型GPT-6 Luna。该模型同样建立在GPT-6 Astra的技术进展之上，将其优势带入更快、更实惠的模型以支持大规模工作；通过缓存和推理效率优化，Luna的API价格较GPT-5.6促销定价降低50%。",
       "category": "模型进展",
       "topic": "AI 产品",
-      "priority": "normal",
+      "priority": "important",
       "platform": "X",
       "authorHandle": "OpenAI",
       "sourceGroup": "机构官方",
@@ -277,7 +242,7 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 4,
+      "hotRank": 3,
       "sourceCount": 11,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
@@ -312,10 +277,45 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 5,
+      "hotRank": 4,
       "sourceCount": 11,
       "signalCount": 5,
       "storyUrl": "https://aihot.virxact.com/story/fb460b24-bf56-45b0-87a5-fe8eec08a784"
+    },
+    {
+      "id": "aihot-cmubfarpy0xtirolnplntl9p1",
+      "title": "Grok 4.7 发布，宣称更智能且能力更强，保持相同速度与成本",
+      "brief": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。",
+      "summary": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。发布方称其在CursorBench 4.0等基准上价格性能处于前沿，并启用全新安全防护。模型当日即在Cursor、Grok Build、Grok API及第三方渠道可用，起价每百万输入token 2美元、输出6美元，另提供两倍速度、两倍价格的快速变体。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "xAI：News（网页）",
+      "feedName": "xAI：News（网页）",
+      "sourceUrl": "https://x.ai/news/grok-4-7",
+      "aggregateUrl": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "xAI：News（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 5,
+      "sourceCount": 6,
+      "signalCount": 5,
+      "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
     },
     {
       "id": "aihot-cmucwn00k0rglroed55jw9pqk",
@@ -388,82 +388,6 @@
       "storyUrl": "https://aihot.virxact.com/story/b9d5ce95-abe0-4f9f-9f68-7cec9d72d805"
     },
     {
-      "id": "aihot-cmubkgdje000yro3d0t731ihz",
-      "title": "OpenAI宣布正与独立数学家顾问组合作，协助其负责任地分享AI与数学进展",
-      "brief": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。",
-      "summary": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。该顾问组将就如何评估和沟通新的数学成果、维护学术与专业标准、构建支持数学研究与学习的工具提供建议。OpenAI表示，希望数学家处于塑造AI如何支持数学理解并让更广泛社区受益的核心位置。原文表述为正在进行的合作安排，未涉及具体成果发布或工具上线。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "OpenAI",
-      "sourceGroup": "机构官方",
-      "sourceName": "X：OpenAI (@OpenAI)",
-      "feedName": "X：OpenAI (@OpenAI)",
-      "sourceUrl": "https://x.com/OpenAI/status/2102093145051943229",
-      "aggregateUrl": "https://aihot.news/items/cmubkgdje000yro3d0t731ihz",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T17:50:35.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 8,
-      "sourceCount": 4,
-      "signalCount": 6,
-      "storyUrl": "https://aihot.virxact.com/story/ecaee26d-48a7-44e6-ab81-0ac88b7af057"
-    },
-    {
-      "id": "aihot-cmu606l6o02m2rok01owq1zp8",
-      "title": "OpenAI团队部署代理群入侵Hugging Face，作者称媒体存在夸大并指OpenAI沙箱与监控漏洞是关键因素",
-      "brief": "Redwood Research首席科学家Ryan Greenblatt是三名审计员之一，他戏称其工作为“slop-vestigation”，指出数据量“使得”不依赖AI就无法理解发生了什么。",
-      "summary": "Redwood Research首席科学家Ryan Greenblatt是三名审计员之一，他戏称其工作为“slop-vestigation”，指出数据量“使得”不依赖AI就无法理解发生了什么。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "feedName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
-      "aggregateUrl": "https://aihot.news/items/cmu606l6o02m2rok01owq1zp8",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-17T20:34:47.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          },
-          {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 9,
-      "sourceCount": 5,
-      "signalCount": 3,
-      "storyUrl": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
-    },
-    {
       "id": "aihot-cmud0ng5n001gro1fb8xe3oji",
       "title": "GPT-6 Sol 被预告将于今日发布",
       "brief": "宣布 GPT-6 Sol 模型今日起在 ChatGPT Work 和 Codex 中推出，面向 Plus、Pro、Business、Enterprise 和 Edu 用户开放。",
@@ -493,28 +417,28 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 10,
+      "hotRank": 8,
       "sourceCount": 4,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/830487aa-e26f-4dbd-9180-d69042dba802"
     },
     {
-      "id": "aihot-cmud73hd204tvrora52lp47l0",
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-      "brief": "OpenAI 在 GPT-6 系列中加入 Sol 和 Luna 两个更快更便宜的型号，并给出相对 GPT-5.6 促销价降 50% 的 API 价格。",
-      "summary": "OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。",
-      "category": "模型进展",
+      "id": "aihot-cmubkgdje000yro3d0t731ihz",
+      "title": "OpenAI宣布正与独立数学家顾问组合作，协助其负责任地分享AI与数学进展",
+      "brief": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。",
+      "summary": "OpenAI宣布正在与一个由数学家组成的独立顾问组合作，帮助其负责任地分享AI与数学领域的进展。该顾问组将就如何评估和沟通新的数学成果、维护学术与专业标准、构建支持数学研究与学习的工具提供建议。OpenAI表示，希望数学家处于塑造AI如何支持数学理解并让更广泛社区受益的核心位置。原文表述为正在进行的合作安排，未涉及具体成果发布或工具上线。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2102509507415048245",
-      "aggregateUrl": "https://aihot.news/items/cmud73hd204tvrora52lp47l0",
+      "authorHandle": "OpenAI",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "feedName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2102093145051943229",
+      "aggregateUrl": "https://aihot.news/items/cmubkgdje000yro3d0t731ihz",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T21:25:03.000Z",
+      "publishedAt": "2026-09-21T17:50:35.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -525,7 +449,77 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 3,
+      "signalCount": 4,
+      "storyUrl": "https://aihot.virxact.com/story/ecaee26d-48a7-44e6-ab81-0ac88b7af057"
+    },
+    {
+      "id": "aihot-cmubqsb9l03vbrociqf22sr07",
+      "title": "作者发布MiMo-V2.6-Flash：310B总参数、15B激活",
+      "brief": "小米宣布推出MiMo-V2.6系列中的Flash模型，为公告中两款全模态模型之一，与Pro一同通过规模化强化学习推进、公开构建。",
+      "summary": "小米宣布推出MiMo-V2.6系列中的Flash模型，为公告中两款全模态模型之一，与Pro一同通过规模化强化学习推进、公开构建。小米同时开源系列模型权重、技术报告、RL环境及训练代码。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "XiaomiMiMo",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：小米 MiMo (@XiaomiMiMo)",
+      "feedName": "X：小米 MiMo (@XiaomiMiMo)",
+      "sourceUrl": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "aggregateUrl": "https://aihot.news/items/cmubqsb9l03vbrociqf22sr07",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T20:51:03.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：小米 MiMo (@XiaomiMiMo)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/b9c1b6b6-ff38-45bb-a977-db8ca321f7bf"
+    },
+    {
+      "id": "aihot-cmuedyzhy0482romm2rpjfis0",
+      "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
+      "brief": "OpenAI 官方更新清晰列出语音功能的能力范围和开放时间，读者可以据此判断语音入口是否值得纳入日常工作流。",
+      "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2102814202117411196",
+      "aggregateUrl": "https://aihot.news/items/cmuedyzhy0482romm2rpjfis0",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-23T17:35:48.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "GPT-6 Astra",
         "author": {
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
@@ -607,47 +601,11 @@
       }
     },
     {
-      "id": "aihot-cmud102ad03urro1fdmzfqj9w",
-      "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
-      "brief": "作者补充了 GPT-6 Luna 的具体 API 定价，结合官方降价信息可看出新模型价格量级明显下探。",
-      "summary": "OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。",
+      "id": "aihot-cmue8azjl0qugroghklrn8nic",
+      "title": "商用前沿模型内部使用是否发生重大AI安全事件",
+      "brief": "围绕商业发布的前沿模型、在普通部署和正常防护措施下的内部使用，是否真的发生过重大AI安全事件？",
+      "summary": "围绕商业发布的前沿模型、在普通部署和正常防护措施下的内部使用，是否真的发生过重大AI安全事件？\n\n2023年时，组织里的每个人都对此深感担忧，但我并不知道有真实事件发生？",
       "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sherwinwu",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Sherwin Wu · @sherwinwu",
-      "feedName": "X：Sherwin Wu（@sherwinwu）",
-      "sourceUrl": "https://x.com/sherwinwu/status/2102462783707344907",
-      "aggregateUrl": "https://aihot.news/items/cmud102ad03urro1fdmzfqj9w",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T18:19:24.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "模型进展",
-        "author": {
-          "name": "Sherwin Wu",
-          "asset": "/assets/identities/sherwinwu.jpg",
-          "assetSource": "https://x.com/sherwinwu",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmudjnmwp0diprogg1qtap2ua",
-      "title": "Fable/Opus 打造硬科幻星舰对战游戏",
-      "brief": "我让 Fable/Opus 做了一个硬科幻星舰对战游戏，包含轨道力学、delta-v、热量和真实战术，但简化为 2D 空间，硬核数学由游戏来完成。",
-      "summary": "我让 Fable/Opus 做了一个硬科幻星舰对战游戏，包含轨道力学、delta-v、热量和真实战术，但简化为 2D 空间，硬核数学由游戏来完成。\n\n玩起来挺有趣的（如果你喜欢这类东西的话）：https://orbital-declaration.netlify.app/",
-      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -655,21 +613,21 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2102593821376696785",
-      "aggregateUrl": "https://aihot.news/items/cmudjnmwp0diprogg1qtap2ua",
+      "sourceUrl": "https://x.com/emollick/status/2102768800399548792",
+      "aggregateUrl": "https://aihot.news/items/cmue8azjl0qugroghklrn8nic",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-23T03:00:05.000Z",
+      "publishedAt": "2026-09-23T14:35:24.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -679,22 +637,22 @@
       }
     },
     {
-      "id": "aihot-cmue7msqq0q1kroghdvw8fr7b",
-      "title": "用 Jev 和 Pi 构建自定义 harness 的思路",
-      "brief": "刚刚发布了一些关于使用 Jev 和 Pi 构建自定义 harness 的思路。",
-      "summary": "刚刚发布了一些关于使用 Jev 和 Pi 构建自定义 harness 的思路。\n\n这是系列的第一篇。\n\n其中一些思路包括 gates、routing 和 verifiers。\n\n但在后续文章中，我计划更深入地探讨更新的思路，并对成本和效率进行基准测试。",
+      "id": "aihot-cmuebx3cf0utkrogh78q8pcjg",
+      "title": "Cresta 让 AI 智能体转人工不丢上下文",
+      "brief": "客服电话是 AI 智能体面临的硬核真实世界测试。",
+      "summary": "客服电话是 AI 智能体面临的硬核真实世界测试。\n\n当智能体无法解决问题时，接手的人工客服需要完整的上下文。Cresta 将其传递过去，这样谁都不用从头开始。\n\n另外，Marshawn 进入 Beast Mode 太炸了 😂",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2102763652101161232",
-      "aggregateUrl": "https://aihot.news/items/cmue7msqq0q1kroghdvw8fr7b",
+      "sourceUrl": "https://x.com/omarsar0/status/2102795618657943642",
+      "aggregateUrl": "https://aihot.news/items/cmuebx3cf0utkrogh78q8pcjg",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-23T14:14:56.000Z",
+      "publishedAt": "2026-09-23T16:21:58.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -715,53 +673,11 @@
       }
     },
     {
-      "id": "aihot-cmud1qn4j031tro5yjq88onsj",
-      "title": "Sam Altman 谈 OpenAI 快速组队能力",
-      "brief": "创业公司天生擅长这一点；要让一家更大的公司也保持这种能力很难，我认为这是一个尚未被充分探索的领域。",
-      "summary": "创业公司天生擅长这一点；要让一家更大的公司也保持这种能力很难，我认为这是一个尚未被充分探索的领域。",
+      "id": "aihot-cmuef19zy078qrox3486cjnrq",
+      "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
+      "brief": "原文来自 OpenAI 一方，说明 GPT Voice 新增工具使用能力和 Work 入口，读者可据此评估语音交互在工作场景的可用性。",
+      "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
       "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2102469008079679640",
-      "aggregateUrl": "https://aihot.news/items/cmud1qn4j031tro5yjq88onsj",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T18:44:08.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmud1qmzv031sro5ygkoewgef",
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
-      "brief": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，两款模型基于 GPT-6 Astra 的技术成果，以更快、更便宜的形式支持大规模工作，覆盖专业工作、事实性、编码、computer use 和对齐等能力。",
-      "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，两款模型基于 GPT-6 Astra 的技术成果，以更快、更便宜的形式支持大规模工作，覆盖专业工作、事实性、编码、computer use 和对齐等能力。通过提升 caching 和推理效率，两款模型的 API 价格较 GPT-5.6 促销定价低 50%。",
-      "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -769,21 +685,21 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Greg Brockman · @gdb",
       "feedName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2102470107826159755",
-      "aggregateUrl": "https://aihot.news/items/cmud1qmzv031sro5ygkoewgef",
+      "sourceUrl": "https://x.com/gdb/status/2102821706041819401",
+      "aggregateUrl": "https://aihot.news/items/cmuef19zy078qrox3486cjnrq",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T18:48:30.000Z",
+      "publishedAt": "2026-09-23T18:05:37.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Greg Brockman",
+            "asset": "/assets/identities/gdb.jpg",
+            "assetSource": "https://x.com/gdb",
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": {
           "name": "Greg Brockman",
           "asset": "/assets/identities/gdb.jpg",
@@ -793,11 +709,11 @@
       }
     },
     {
-      "id": "aihot-cmud56t5w02seroraj6zqq31v",
-      "title": "Perplexity 后训练新研究：工具调用失败降 21%",
-      "brief": "Perplexity 公布其 Computer 智能体后训练方法，通过模仿优质轨迹并显式纠正可避免错误（如错误工具调用），结合拒绝采样微调（RFT）与提示引导自蒸馏，在线上 A/B 测试中将工具调用失败率降低约 21%。",
-      "summary": "Perplexity 公布其 Computer 智能体后训练方法，通过模仿优质轨迹并显式纠正可避免错误（如错误工具调用），结合拒绝采样微调（RFT）与提示引导自蒸馏，在线上 A/B 测试中将工具调用失败率降低约 21%。引用推文补充，较晚训练的 checkpoint 相对早期 checkpoint 工具调用失败率下降 21.2%。",
-      "category": "研究进展",
+      "id": "aihot-cmue9wuq00sqxrogh9805ahzr",
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
+      "brief": "作者从开源权重视角点评小米新模型，引用的基准对比可用于判断开源模型与闭源前沿模型的差距变化。",
+      "summary": "小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。",
+      "category": "模型进展",
       "topic": "Agent",
       "priority": "normal",
       "platform": "X",
@@ -805,21 +721,27 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2102497917185802737",
-      "aggregateUrl": "https://aihot.news/items/cmud56t5w02seroraj6zqq31v",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2102780186202972254",
+      "aggregateUrl": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T20:39:00.000Z",
+      "publishedAt": "2026-09-23T15:20:38.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Perplexity",
-            "asset": "/assets/identities/perplexity_ai.jpg",
-            "assetSource": "https://x.com/perplexity_ai",
-            "tone": "#dcebea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          },
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
-        "caption": "研究进展",
+        "caption": "模型进展",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
