@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月24日",
     "demo": false,
-    "updatedAt": "2026-09-24T05:17:14.503Z",
+    "updatedAt": "2026-09-24T10:07:29.201Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 7,
+      "latestCount": 8,
       "archiveCount": 1
     },
     "sources": {
@@ -38,7 +38,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -137,8 +137,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         }
       ]
     },
@@ -210,7 +210,7 @@
         },
         "hotRank": 2,
         "sourceCount": 7,
-        "signalCount": 8,
+        "signalCount": 9,
         "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
       },
       {
@@ -244,44 +244,9 @@
           "author": null
         },
         "hotRank": 3,
-        "sourceCount": 9,
+        "sourceCount": 10,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
-      },
-      {
-        "id": "aihot-cmud2ya2c03wnrov6lnmiq2dv",
-        "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
-        "brief": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。",
-        "summary": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。据Artificial Analysis评测，其智能指数与GPT-5.6持平，编码代理指数升2分至57，幻觉率从92%降至60%（部分靠更常拒答，准确率降5点），Terminal-Bench 4.0等提升，但在GDPval-AA v2.1回落约100 Elo点。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Artificial Analysis 完整文章（网页）",
-        "feedName": "Artificial Analysis 完整文章（网页）",
-        "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-        "aggregateUrl": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-21T16:00:00.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
-        "hotRank": 4,
-        "sourceCount": 13,
-        "signalCount": 2,
-        "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
       },
       {
         "id": "aihot-cmueup7f003m7royq61z93ftn",
@@ -313,10 +278,45 @@
           "caption": "GPT-6 Astra",
           "author": null
         },
-        "hotRank": 5,
-        "sourceCount": 2,
+        "hotRank": 4,
+        "sourceCount": 3,
         "signalCount": 6,
         "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
+      },
+      {
+        "id": "aihot-cmud2ya2c03wnrov6lnmiq2dv",
+        "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
+        "brief": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。",
+        "summary": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。据Artificial Analysis评测，其智能指数与GPT-5.6持平，编码代理指数升2分至57，幻觉率从92%降至60%（部分靠更常拒答，准确率降5点），Terminal-Bench 4.0等提升，但在GDPval-AA v2.1回落约100 Elo点。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Artificial Analysis 完整文章（网页）",
+        "feedName": "Artificial Analysis 完整文章（网页）",
+        "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
+        "aggregateUrl": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-21T16:00:00.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 14,
+        "signalCount": 2,
+        "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
       },
       {
         "id": "aihot-cmuczxsyt03k4ro7nep4vsmez",
@@ -349,9 +349,79 @@
           "author": null
         },
         "hotRank": 6,
-        "sourceCount": 13,
+        "sourceCount": 15,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
+      },
+      {
+        "id": "aihot-cmueurvwl03tvroyqdzcth166",
+        "title": "Claude Code Cloud sessions 正式结束研究预览并可用",
+        "brief": "Claude Code 的 Cloud sessions 已正式可用，结束研究预览阶段；该功能让 Claude Code 在笔记本电脑关闭时也能继续工作。",
+        "summary": "Claude Code 的 Cloud sessions 已正式可用，结束研究预览阶段；该功能让 Claude Code 在笔记本电脑关闭时也能继续工作。",
+        "category": "研究进展",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "ClaudeDevs",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：Claude Devs (@ClaudeDevs)",
+        "feedName": "X：Claude Devs (@ClaudeDevs)",
+        "sourceUrl": "https://x.com/ClaudeDevs/status/2102871550974427462",
+        "aggregateUrl": "https://aihot.news/items/cmueurvwl03tvroyqdzcth166",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-23T21:23:41.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "Claude Code",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 3,
+        "signalCount": 3,
+        "storyUrl": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
+      },
+      {
+        "id": "aihot-cmuf3ztrm09q7roodokekt1hr",
+        "title": "Meta Muse agent 正在准备集成 Telegram 和 Messenger，并可能集成 Signal",
+        "brief": "finkd发布Muse Realtime Avatar，这是一项实时化身技术，可将Muse Realtime Voice转化为富有表现力、可交互的数字人形象，并在Muse中开启以实时对话为起点的全新交互。",
+        "summary": "finkd发布Muse Realtime Avatar，这是一项实时化身技术，可将Muse Realtime Voice转化为富有表现力、可交互的数字人形象，并在Muse中开启以实时对话为起点的全新交互。发布与Meta Connect相关。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "AIatMeta",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：AI at Meta (@AIatMeta)",
+        "feedName": "X：AI at Meta (@AIatMeta)",
+        "sourceUrl": "https://x.com/AIatMeta/status/2102997291732766943",
+        "aggregateUrl": "https://aihot.news/items/cmuf3ztrm09q7roodokekt1hr",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-24T05:43:20.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：AI at Meta (@AIatMeta)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 8,
+        "sourceCount": 5,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
       },
       {
         "id": "aihot-cmueuqr3j03ovroyqbsx4c4nx",
@@ -383,106 +453,36 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 9,
         "sourceCount": 5,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
       },
       {
-        "id": "aihot-cmue7co7k0pvhroghnfrhcg7o",
-        "title": "小米MiMo核心组件HySparse 2今日发布，1M Token下预填充计算量降低5.02倍、KV缓存缩小4.5倍",
-        "brief": "MiMo-V3采用名为HySparse2的新架构，作者称当天发布。",
-        "summary": "MiMo-V3采用名为HySparse2的新架构，作者称当天发布。相比MiMo-V2.6的Hybrid SWA架构，该架构在1M tokens下预填充FLOPs降低5.02倍、KV缓存缩小4.5倍，MRCRv2和RULER-v2成绩更好，AgentPPL和LongPPL更低。机制包括KV Bridging（跨解码器全注意力层从自解码器隐藏状态构建K/V）与KV Reuse（稀疏层复用前序全注意力层的KV缓存），并以token级选择和强制近窗取代block级选择与独立SWA分支，使预填充可在自解码器完成后停止，针对Agentic推理中预填充成本、KV缓存与检索精度同时承压的场景；附论文链接。",
+        "id": "aihot-cmuezhuvu04gurood4k1lbwkp",
+        "title": "Google DeepMind 首席 Koray Kavukcuoglu 称 Gemini 4 已进入后训练并接近发布，希望早于年底推出早期后训练版本",
+        "brief": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
+        "summary": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
         "category": "产品动态",
         "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "_LuoFuli",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：罗福莉 (@_LuoFuli)",
-        "feedName": "X：罗福莉 (@_LuoFuli)",
-        "sourceUrl": "https://x.com/_LuoFuli/status/2102766365190901957",
-        "aggregateUrl": "https://aihot.news/items/cmue7co7k0pvhroghnfrhcg7o",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T14:25:43.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "X：罗福莉 (@_LuoFuli)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 8,
-        "sourceCount": 2,
-        "signalCount": 3,
-        "storyUrl": "https://aihot.virxact.com/story/6052f179-8cbd-45cf-be60-2637ed40824a"
-      },
-      {
-        "id": "aihot-cmuery5nk0gowroynmdjmil05",
-        "title": "Meta发布带摄像头的新一代AI眼镜Ray-Ban Meta (Gen 3)，含Aviator和Zena新款式",
-        "brief": "Meta宣布把其机密计算基础设施Private Processing扩展到AI眼镜，将AI眼镜的信任边界延伸进云数据中心，在机密虚拟机（CVM）中执行AI模型，使包括Meta在内的外部方无法访问用户数据。",
-        "summary": "Meta宣布把其机密计算基础设施Private Processing扩展到AI眼镜，将AI眼镜的信任边界延伸进云数据中心，在机密虚拟机（CVM）中执行AI模型，使包括Meta在内的外部方无法访问用户数据。该基础设施此前已用于WhatsApp和Meta AI应用。方案围绕硬件隔离、失败关闭、公开可验证、不可定向和加密存储五项工程要求设计，用于安全卸载流式转录、上下文搜索和长期回忆等密集AI负载，并采用匿名凭证、第三方OHTTP中继、远程认证、TEE内加密存储及带外可观测性等机制。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Meta Engineering Blog（RSS）",
-        "feedName": "Meta Engineering Blog（RSS）",
-        "sourceUrl": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses",
-        "aggregateUrl": "https://aihot.news/items/cmuery5nk0gowroynmdjmil05",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T00:00:00.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Meta Engineering Blog（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 4,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/f7a76f3b-b168-4a35-ab36-14bd68d3dda1"
-      },
-      {
-        "id": "aihot-cmueos1z60dveroynrttd4v8c",
-        "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
-        "brief": "据 FT 报道，OpenAI 因今年6月其 agent 访问面向公众的 Medicare Statistics Reporting Service 时突破权限、触及公众无法访问的文件，正面临澳大利亚的调查。",
-        "summary": "据 FT 报道，OpenAI 因今年6月其 agent 访问面向公众的 Medicare Statistics Reporting Service 时突破权限、触及公众无法访问的文件，正面临澳大利亚的调查。澳总理 Anthony Albanese 称该事件涉及该公开门户，agent 访问了公开与非公开文件；澳大利亚信号局正协助取证调查，以确定访问是否延伸至其他政府系统。",
-        "category": "产品动态",
-        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "rohanpaul_ai",
         "sourceGroup": "媒体与社区",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
         "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2102887365039816924",
-        "aggregateUrl": "https://aihot.news/items/cmueos1z60dveroynrttd4v8c",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2102965226937434614",
+        "aggregateUrl": "https://aihot.news/items/cmuezhuvu04gurood4k1lbwkp",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T22:26:32.000Z",
+        "publishedAt": "2026-09-24T03:35:55.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "产品动态",
@@ -491,13 +491,13 @@
         "hotRank": 10,
         "sourceCount": 4,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+        "storyUrl": "https://aihot.virxact.com/story/d1ae40f5-d5f1-46b7-a3c9-2d23ed9a9fbc"
       },
       {
-        "id": "aihot-cmuedyzhy0482romm2rpjfis0",
-        "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-        "brief": "OpenAI 官方更新清晰列出语音功能的能力范围和开放时间，读者可以据此判断语音入口是否值得纳入日常工作流。",
-        "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
+        "id": "aihot-cmuf4r7pu0e1srood5qov38vo",
+        "title": "DevDay 下周二举行",
+        "brief": "等不及下周二的 DevDay 了。",
+        "summary": "等不及下周二的 DevDay 了。\n\n有一些非常有趣的东西，但也有很多应该改变你工作方式的内容。这是我们最有野心的一次冲刺，Astra 真的在如此短的时间内让新事物成为可能。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -506,21 +506,21 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2102814202117411196",
-        "aggregateUrl": "https://aihot.news/items/cmuedyzhy0482romm2rpjfis0",
+        "sourceUrl": "https://x.com/thsottiaux/status/2102996313780736363",
+        "aggregateUrl": "https://aihot.news/items/cmuf4r7pu0e1srood5qov38vo",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T17:35:48.000Z",
+        "publishedAt": "2026-09-24T05:39:27.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Tibo Sottiaux",
+              "asset": "/assets/identities/thsottiaux.jpg",
+              "assetSource": "https://x.com/thsottiaux",
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "GPT-6 Astra",
+          "caption": "产品动态",
           "author": {
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
@@ -530,30 +530,30 @@
         }
       },
       {
-        "id": "aihot-cmuf2ehb207ojroodmuw9kmr7",
-        "title": "Peter Steinberger 谈智能体大战",
-        "brief": "要不我们把这叫做智能体大战？",
-        "summary": "要不我们把这叫做智能体大战？很快我们会在各条战线上看到更多这类事情。",
+        "id": "aihot-cmuf4jmd20dvbroodau1hq0c3",
+        "title": "Astra 表现惊艳",
+        "brief": "Astra 表现惊艳。",
+        "summary": "Astra 表现惊艳。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "steipete",
         "sourceGroup": "产品与工程",
         "sourceName": "Peter Steinberger · @steipete",
         "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2102982942037573868",
-        "aggregateUrl": "https://aihot.news/items/cmuf2ehb207ojroodmuw9kmr7",
+        "sourceUrl": "https://x.com/steipete/status/2103001790069526564",
+        "aggregateUrl": "https://aihot.news/items/cmuf4jmd20dvbroodau1hq0c3",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T04:46:19.000Z",
+        "publishedAt": "2026-09-24T06:01:13.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Peter Steinberger",
-              "asset": "/assets/identities/steipete.png",
-              "assetSource": "https://x.com/steipete",
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "产品动态",
@@ -752,6 +752,48 @@
         }
       },
       {
+        "id": "aihot-cmufcbvmu05wqroaga2mai2eu",
+        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+        "brief": "Transluce 公开了日志数据和自查时间线，读者可据此自行核对这批智能体活动证据的范围与来源。",
+        "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+        "category": "实践与观点",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "Thom_Wolf",
+        "sourceGroup": "研究与方法",
+        "sourceName": "Thomas Wolf · @Thom_Wolf",
+        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2103054896438136973",
+        "aggregateUrl": "https://aihot.news/items/cmufcbvmu05wqroaga2mai2eu",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-24T09:32:14.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Thomas Wolf",
+              "asset": "/assets/identities/thom_wolf.jpg",
+              "assetSource": "https://x.com/Thom_Wolf",
+              "tone": "#e9e4dc"
+            },
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
         "id": "x-karpathy-2079610838143623371",
         "title": "Karpathy：用自由讲述给 LLM 补足上下文",
         "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -792,8 +834,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-24T05:17:14.503Z",
-    "nextCheckAt": 1790227334503,
+    "checkedAt": "2026-09-24T10:07:29.201Z",
+    "nextCheckAt": 1790244749201,
     "intervalSeconds": 300,
     "message": ""
   }

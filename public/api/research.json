@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-24T05:16:25.496Z",
-      "lastSuccessAt": "2026-09-24T05:16:25.496Z",
-      "nextCheckAt": 1790230585496,
+      "checkedAt": "2026-09-24T10:07:02.583Z",
+      "lastSuccessAt": "2026-09-24T10:07:02.583Z",
+      "nextCheckAt": 1790248022583,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-24T05:16:25.498Z",
-      "lastSuccessAt": "2026-09-24T05:16:25.498Z",
-      "nextCheckAt": 1790230585498,
+      "checkedAt": "2026-09-24T10:07:02.584Z",
+      "lastSuccessAt": "2026-09-24T10:07:02.584Z",
+      "nextCheckAt": 1790248022584,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-24T05:16:25.499Z",
-      "lastSuccessAt": "2026-09-24T05:16:25.499Z",
-      "nextCheckAt": 1790230585499,
+      "checkedAt": "2026-09-24T10:07:02.585Z",
+      "lastSuccessAt": "2026-09-24T10:07:02.585Z",
+      "nextCheckAt": 1790248022585,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790230585776,
-      "checkedAt": "2026-09-24T05:16:25.776Z",
-      "lastSuccessAt": "2026-09-24T05:16:25.776Z",
+      "nextCheckAt": 1790248022986,
+      "checkedAt": "2026-09-24T10:07:02.986Z",
+      "lastSuccessAt": "2026-09-24T10:07:02.986Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,95 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790230585496,
+  "nextCheckAt": 1790248022583,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6469518.html",
-      "title": "大模型效率竞赛加速：MiMo V2.6 双登顶，「单位智能成本」成为新价值锚",
-      "summary": "2026 年，能力上限不再是唯一焦点：Google 密集迭代 Flash，OpenAI 给旗舰分档并大幅降价，Anthropic 发布 Claude Opus 5.5 时也把效率放到了核心位置，行业开始用智能与成本的帕累托前沿描述这场竞赛。 2022 年末，ChatGPT 把大模型推到聚光灯下。此后的三年多里，最吸引注意力的始终是能力上限：模型还能变得多聪明，还能解决多难的问题。Scaling Law 驱动参数、数据和算力不断扩张，推理",
-      "publishedAt": "2026-09-24T03:19:42.000Z",
-      "url": "https://www.woshipm.com/ai/6469518.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6470044.html",
+      "title": "WorkBuddy，提个需求就能做产品了？",
+      "summary": "AI办公赛道卷到飞起，WorkBuddy却拿下中国个人端和企业级桌面智能体双榜第一。本文用“一句话需求”实测：让WorkBuddy从0到1开发一个面向英语老师的教育产品，不拆任务、不替它定流程，结果它真的做到了。功能丰富只是基础，能把模糊想法推进到可用成果，才是Agent的硬实力。 过去一段时间，AI 办公可以说是卷得最狠的赛道之一：写文档的、做 PPT 的、管项目的，隔三差五就冒出一个新产品，大家能做的事情也越来越像。 所以前几天看到",
+      "publishedAt": "2026-09-24T09:18:14.000Z",
+      "url": "https://www.woshipm.com/ai/6470044.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6470044.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "AI办公赛道卷到飞起，WorkBuddy却拿下中国个人端和企业级桌面智能体双榜第一。本文用“一句话需求”实测：让WorkBuddy从0到1开发一个面向英语老师的教育产品，不拆任务、不替它定流程，结果它真的做到了。功能丰富只是基础，能把模糊想法推进到可用成果，才是Agent的硬实力。 过去一段时间，AI 办公可以说是卷得最狠的赛道之一：写文档的、做 PPT 的、管项目的，隔三差五就冒出一个新产品，大家能做的事情也越来越像。 所以前几天看到",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6469837.html",
+      "title": "设计师自己做分析：我把8张竞品图丢给豆包工作",
+      "summary": "约 6200 人样本的报告显示，用 AI 处理本职之外任务的比例从 13.1% 涨到 25.9%。作者把 8 张同品类主图丢给豆包工作，让它逐图拆视觉要素、整成对比表格、画出频次图，再一键生成汇报 PPT。本文记录这条链每一步的准确度，以及设计师省下的时间。 前几天我刷到海外一份工作前沿报告：约6200名持续被跟踪的员工里，用AI处理本职之外任务的比例，从13.1%涨到了25.9%。 在国内的环境下辅助工作比较好的产品我觉得首先要说豆包",
+      "publishedAt": "2026-09-24T08:38:08.000Z",
+      "url": "https://www.woshipm.com/ai/6469837.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6469837.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "约 6200 人样本的报告显示，用 AI 处理本职之外任务的比例从 13.1% 涨到 25.9%。作者把 8 张同品类主图丢给豆包工作，让它逐图拆视觉要素、整成对比表格、画出频次图，再一键生成汇报 PPT。本文记录这条链每一步的准确度，以及设计师省下的时间。 前几天我刷到海外一份工作前沿报告：约6200名持续被跟踪的员工里，用AI处理本职之外任务的比例，从13.1%涨到了25.9%。 在国内的环境下辅助工作比较好的产品我觉得首先要说豆包",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/evaluating/6469834.html",
+      "title": "体验完Meta的Muse，原来这才是我们想要的AI助理",
+      "summary": "9 月 8 日发布，12 天约 280 万下载，Meta 的 Muse 被叫作美版豆包，但它的定位是 Personal AI Agent：记住偏好、连邮件日历、跑几小时到几天的任务。Meta 承认思路受了 OpenClaw 影响。本文讲清它把哪些老能力重新包了一遍。 AI助理开始进入日常。 这几天Meta的Muse火得有点夸张。 9月8日发布以后，它很快冲到美国App Store免费榜前列，并且发布 12 天后下载量已经达到约280万，",
+      "publishedAt": "2026-09-24T08:37:43.000Z",
+      "url": "https://www.woshipm.com/evaluating/6469834.html",
       "linkKind": "original",
       "opportunity": {
         "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
@@ -122,51 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6469518.html",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6469834.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "2026 年，能力上限不再是唯一焦点：Google 密集迭代 Flash，OpenAI 给旗舰分档并大幅降价，Anthropic 发布 Claude Opus 5.5 时也把效率放到了核心位置，行业开始用智能与成本的帕累托前沿描述这场竞赛。 2022 年末，ChatGPT 把大模型推到聚光灯下。此后的三年多里，最吸引注意力的始终是能力上限：模型还能变得多聪明，还能解决多难的问题。Scaling Law 驱动参数、数据和算力不断扩张，推理",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6469656.html",
-      "title": "AI视频会议产品设计思考：如何围绕会议全链路落地智能化能力",
-      "summary": "AI 融入视频会议，不是堆砌字幕和纪要就能成功。用户使用率低的根源在于功能浮于表面，未击中会前准备繁琐、会中信息过载、会后执行断层的真实痛点。本文从产品设计视角，拆解全链路 AI 功能的设计思路与落地坑点，并指出底层音视频能力与安全集成才是企业级产品的准入门槛。 作为产品经理，在做企业协作类产品时，视频会议是一个非常经典的场景。随着大模型能力普及，很多团队都在思考：怎么把 AI 融入视频会议，而不是简单堆砌字幕、纪要这类功能。很多产品上",
-      "publishedAt": "2026-09-24T02:26:02.000Z",
-      "url": "https://www.woshipm.com/ai/6469656.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6469656.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "AI 融入视频会议，不是堆砌字幕和纪要就能成功。用户使用率低的根源在于功能浮于表面，未击中会前准备繁琐、会中信息过载、会后执行断层的真实痛点。本文从产品设计视角，拆解全链路 AI 功能的设计思路与落地坑点，并指出底层音视频能力与安全集成才是企业级产品的准入门槛。 作为产品经理，在做企业协作类产品时，视频会议是一个非常经典的场景。随着大模型能力普及，很多团队都在思考：怎么把 AI 融入视频会议，而不是简单堆砌字幕、纪要这类功能。很多产品上",
+      "brief": "9 月 8 日发布，12 天约 280 万下载，Meta 的 Muse 被叫作美版豆包，但它的定位是 Personal AI Agent：记住偏好、连邮件日历、跑几小时到几天的任务。Meta 承认思路受了 OpenClaw 影响。本文讲清它把哪些老能力重新包了一遍。 AI助理开始进入日常。 这几天Meta的Muse火得有点夸张。 9月8日发布以后，它很快冲到美国App Store免费榜前列，并且发布 12 天后下载量已经达到约280万，",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,91 +214,51 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6202150.html",
-      "title": "武装押运遇上大模型：我拆解了7个AI落地场景",
-      "summary": "当AI落地讨论聚焦客服、营销时，武装押运这个高风险、强合规、人力密集的行业却成为大模型的天然试验田。本文按押运业务全流程拆解七个落地场景，从岗前检测到金库管理，给出产品经理视角的痛点、方案与PM要点，并附上500辆规模的落地账本与风险应对。 聊 AI 落地，大家谈得多的是客服、营销、代码。但有一个行业很少被讨论，却是大模型天然的优质试验田——武装押运。 为什么说它优质？三个特征： 高风险，出一次事故就是重大损失，为 AI 付费的意愿强；",
-      "publishedAt": "2026-09-24T02:05:06.000Z",
-      "url": "https://www.woshipm.com/ai/6202150.html",
+      "id": "sspai:https://sspai.com/prime/story/home-made-beverages-5",
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自<a href=\"https://",
+      "publishedAt": "2026-09-24T08:20:39.000Z",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6202150.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当AI落地讨论聚焦客服、营销时，武装押运这个高风险、强合规、人力密集的行业却成为大模型的天然试验田。本文按押运业务全流程拆解七个落地场景，从岗前检测到金库管理，给出产品经理视角的痛点、方案与PM要点，并附上500辆规模的落地账本与风险应对。 聊 AI 落地，大家谈得多的是客服、营销、代码。但有一个行业很少被讨论，却是大模型天然的优质试验田——武装押运。 为什么说它优质？三个特征： 高风险，出一次事故就是重大损失，为 AI 付费的意愿强；",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/jev-state",
-      "title": "Jev State",
-      "summary": "Turn AI conversations into tests and runnable code",
-      "publishedAt": "2026-09-22T18:53:46.000Z",
-      "url": "https://www.producthunt.com/products/jev-state",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
+            "name": "少数派",
             "asset": null,
-            "tone": "#f0e1d9"
+            "tone": "#eee3dc"
           }
         ],
-        "caption": "新品与竞品",
+        "caption": "工作流与实践",
         "author": {
-          "name": "Product Hunt",
+          "name": "少数派",
           "asset": null,
-          "tone": "#f0e1d9"
+          "tone": "#eee3dc"
         }
       },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/jev-state",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Turn AI conversations into tests and runnable code",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/prime/story/home-made-beverages-5",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自<a href=\"https://",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
+      "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/claude-fable-5-1",
-      "title": "Claude Opus 5.5",
-      "summary": "Anthropic's first model in their new Claude 5.5 family",
-      "publishedAt": "2026-09-22T16:36:09.000Z",
-      "url": "https://www.producthunt.com/products/claude-fable-5-1",
+      "id": "ph:https://www.producthunt.com/products/floot",
+      "title": "Floot MCP",
+      "summary": "Build and ship web and mobile apps inside Claude or ChatGPT",
+      "publishedAt": "2026-09-23T20:54:45.000Z",
+      "url": "https://www.producthunt.com/products/floot",
       "linkKind": "original",
       "opportunity": {
         "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
@@ -268,10 +268,9 @@
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
         "caption": "新品与竞品",
@@ -283,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/claude-fable-5-1",
+      "sourceUrl": "https://www.producthunt.com/products/floot",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Anthropic's first model in their new Claude 5.5 family",
+      "brief": "Build and ship web and mobile apps inside Claude or ChatGPT",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -295,15 +294,56 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/koreshield",
-      "title": "Koreshield",
-      "summary": "Security and evidence for AI support agents",
-      "publishedAt": "2026-09-22T12:47:36.000Z",
-      "url": "https://www.producthunt.com/products/koreshield",
+      "id": "ph:https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
+      "title": "Gemini 3.8 text-to-speech models",
+      "summary": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS",
+      "publishedAt": "2026-09-23T19:11:12.000Z",
+      "url": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/harness-manager",
+      "title": "Harness Manager",
+      "summary": "Your AI coding stack manager, all in one place",
+      "publishedAt": "2026-09-23T18:17:40.000Z",
+      "url": "https://www.producthunt.com/products/harness-manager",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -323,11 +363,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/koreshield",
+      "sourceUrl": "https://www.producthunt.com/products/harness-manager",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Security and evidence for AI support agents",
+      "brief": "Your AI coding stack manager, all in one place",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -372,46 +412,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/post/114829",
-      "title": "一台主机，多重角色：新款 Mac mini 首发体验",
-      "summary": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...",
-      "publishedAt": "2026-09-21T13:02:58.000Z",
-      "url": "https://sspai.com/post/114829",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/post/114829",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"
     },
     {
