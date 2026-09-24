@@ -1,7 +1,7 @@
 {
-  "date": "2026年9月24日",
+  "date": "2026年9月25日",
   "demo": false,
-  "updatedAt": "2026-09-24T14:59:36.807Z",
+  "updatedAt": "2026-09-24T19:00:50.574Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -37,7 +37,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 5,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 7,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 6,
+        "matched": 9,
         "status": "本次收录"
       },
       {
@@ -118,8 +118,8 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "AravSrinivas",
@@ -127,8 +127,8 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "Thom_Wolf",
@@ -136,18 +136,18 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-cmucwy58v0rskroedmv35n8ji",
-      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-      "brief": "发布方（原文未具名）推出 Claude Opus 5.5，称其是新 Claude 5.5 系列首款模型，多数工作达到 Claude Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
-      "summary": "发布方（原文未具名）推出 Claude Opus 5.5，称其是新 Claude 5.5 系列首款模型，多数工作达到 Claude Fable 5.1 水平，运行成本比 Opus 5 低 40%。该模型经外部评估，在自动化行为审计等安全测试中表现强于近期 Claude 模型，并在代理编码、计算机使用、知识工作等基准领先；输入/输出 token 定价为每百万 4/20 美元，现已登陆 Amazon Web Services、Google Cloud、Microsoft Azure 及 Claude Platform。",
-      "category": "产品动态",
+      "id": "aihot-cmuefqp730041rovxbpewc3gn",
+      "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
+      "brief": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。",
+      "summary": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。ART主要存在于噬菌体，由RT、邻近伙伴基因和间隔均匀的DNA重复序列组成，功能尚不明确；首次实验显示ART阵列表达为不同短RNA，进一步实验正在进行，相关预印本已发布。",
+      "category": "研究进展",
       "topic": "Agent",
       "priority": "lead",
       "platform": "网站",
@@ -155,45 +155,10 @@
       "sourceGroup": "机构官方",
       "sourceName": "Anthropic：Newsroom（网页）",
       "feedName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
-      "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "aggregateUrl": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      },
-      "hotRank": 1,
-      "sourceCount": 28,
-      "signalCount": 20,
-      "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
-    },
-    {
-      "id": "aihot-cmuexzypj03j9roow55c4teir",
-      "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
-      "brief": "Claude发现了一种此前未知的酶系统，隐藏在噬菌体的DNA中；该酶基因旁有一段长重复DNA阵列，结构上有些类似CRISPR。",
-      "summary": "Claude发现了一种此前未知的酶系统，隐藏在噬菌体的DNA中；该酶基因旁有一段长重复DNA阵列，结构上有些类似CRISPR。目前尚不清楚该系统的作用，只有少数已知系统具有相似特征，且它们都能切割、复制和粘贴DNA。要弄清该系统做什么、能否有类似用途，还需大量后续研究。",
-      "category": "研究进展",
-      "topic": "AI 产品",
-      "priority": "important",
-      "platform": "X",
-      "authorHandle": "AnthropicAI",
-      "sourceGroup": "机构官方",
-      "sourceName": "X：Anthropic (@AnthropicAI)",
-      "feedName": "X：Anthropic (@AnthropicAI)",
-      "sourceUrl": "https://x.com/AnthropicAI/status/2102824959827742916",
-      "aggregateUrl": "https://aihot.news/items/cmuexzypj03j9roow55c4teir",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-23T18:18:33.000Z",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -207,10 +172,45 @@
         "caption": "研究进展",
         "author": null
       },
-      "hotRank": 2,
-      "sourceCount": 7,
+      "hotRank": 1,
+      "sourceCount": 8,
       "signalCount": 9,
       "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
+    },
+    {
+      "id": "aihot-cmucwy58v0rskroedmv35n8ji",
+      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+      "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
+      "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "important",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "feedName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T16:51:25.134Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "Claude Code",
+        "author": null
+      },
+      "hotRank": 2,
+      "sourceCount": 16,
+      "signalCount": 4,
+      "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
     },
     {
       "id": "aihot-cmuea8xrm0t1nroghhxj2y3eg",
@@ -243,44 +243,9 @@
         "author": null
       },
       "hotRank": 3,
-      "sourceCount": 10,
+      "sourceCount": 11,
       "signalCount": 2,
       "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
-    },
-    {
-      "id": "aihot-cmud2ya2c03wnrov6lnmiq2dv",
-      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
-      "brief": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。",
-      "summary": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。据Artificial Analysis评测，其智能指数与GPT-5.6持平，编码代理指数升2分至57，幻觉率从92%降至60%（部分靠更常拒答，准确率降5点），Terminal-Bench 4.0等提升，但在GDPval-AA v2.1回落约100 Elo点。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Artificial Analysis 完整文章（网页）",
-      "feedName": "Artificial Analysis 完整文章（网页）",
-      "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-      "aggregateUrl": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 4,
-      "sourceCount": 16,
-      "signalCount": 2,
-      "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
     },
     {
       "id": "aihot-cmufjyocz04u6ro6ohojge69s",
@@ -312,8 +277,8 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 5,
-      "sourceCount": 7,
+      "hotRank": 4,
+      "sourceCount": 8,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
     },
@@ -347,45 +312,45 @@
         "caption": "GPT-6 Astra",
         "author": null
       },
-      "hotRank": 6,
+      "hotRank": 5,
       "sourceCount": 3,
       "signalCount": 6,
       "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
     },
     {
-      "id": "aihot-cmud1y2ku039iro5ysl7pq6d3",
-      "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
-      "brief": "OpenAI推出GPT-6 Luna，作为GPT-6系列中侧重成本效率的新模型，与Sol共享类似训练方法和多项评测。",
-      "summary": "OpenAI推出GPT-6 Luna，作为GPT-6系列中侧重成本效率的新模型，与Sol共享类似训练方法和多项评测。其API价格较GPT-5.6 Luna促销价降低50%（输入$0.20→$0.10、输出$1.20→$0.50，按每百万token计）。自发布当日起在ChatGPT Work和Codex向Plus、Pro、Business、Enterprise、Edu用户开放，免费和Go用户可在桌面应用中访问；API中名为gpt-6-luna；尚未在Chat中提供，ChatGPT内逐步推出。",
-      "category": "模型进展",
+      "id": "aihot-cmufvfq7y02yiro1964jtdq3v",
+      "title": "Agora-2 现可让最多20个人类与智能体实时共享一个模拟世界",
+      "brief": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
+      "summary": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
+      "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "aggregateUrl": "https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3",
+      "platform": "X",
+      "authorHandle": "odysseyml",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Odyssey (@odysseyml)",
+      "feedName": "X：Odyssey (@odysseyml)",
+      "sourceUrl": "https://x.com/odysseyml/status/2103146841378586820",
+      "aggregateUrl": "https://aihot.news/items/cmufvfq7y02yiro1964jtdq3v",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T18:00:00.000Z",
+      "publishedAt": "2026-09-24T15:37:36.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "X：Odyssey (@odysseyml)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
-      "sourceCount": 16,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
+      "hotRank": 6,
+      "sourceCount": 4,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
     },
     {
       "id": "aihot-cmueuqr3j03ovroyqbsx4c4nx",
@@ -417,7 +382,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 7,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
@@ -452,7 +417,7 @@
         "caption": "Claude Code",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 8,
       "sourceCount": 3,
       "signalCount": 3,
       "storyUrl": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
@@ -487,10 +452,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 10,
+      "hotRank": 9,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
+    },
+    {
+      "id": "aihot-cmud2ya2c03wnrov6lnmiq2dv",
+      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
+      "brief": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。",
+      "summary": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。据Artificial Analysis评测，其智能指数与GPT-5.6持平，编码代理指数升2分至57，幻觉率从92%降至60%（部分靠更常拒答，准确率降5点），Terminal-Bench 4.0等提升，但在GDPval-AA v2.1回落约100 Elo点。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Artificial Analysis 完整文章（网页）",
+      "feedName": "Artificial Analysis 完整文章（网页）",
+      "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
+      "aggregateUrl": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 9,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
     },
     {
       "id": "aihot-cmuf4r7pu0e1srood5qov38vo",
@@ -529,10 +529,10 @@
       }
     },
     {
-      "id": "aihot-cmuf4jmd20dvbroodau1hq0c3",
-      "title": "Astra 表现惊艳",
-      "brief": "Astra 表现惊艳。",
-      "summary": "Astra 表现惊艳。",
+      "id": "aihot-cmufpzblx03xrroxz01r9jcv7",
+      "title": "Gallup 民调：全球 72% 对 AI 感到好奇兴奋",
+      "brief": "Peter Steinberger 引用 Nick Gillespie 分享的 Gallup 民调数据：平均 72% 的受访者对 AI 感到好奇、开心或兴奋，41% 感到担忧、难过或愤怒，并调侃阿富汗对 AI 的热情比我们还高。",
+      "summary": "Peter Steinberger 引用 Nick Gillespie 分享的 Gallup 民调数据：平均 72% 的受访者对 AI 感到好奇、开心或兴奋，41% 感到担忧、难过或愤怒，并调侃阿富汗对 AI 的热情比我们还高。该数据由 NYT 的 Damien Cave 引用，NYT 未直接链接 Gallup 原文。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -541,18 +541,18 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Peter Steinberger · @steipete",
       "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2103001790069526564",
-      "aggregateUrl": "https://aihot.news/items/cmuf4jmd20dvbroodau1hq0c3",
+      "sourceUrl": "https://x.com/steipete/status/2103150483062014436",
+      "aggregateUrl": "https://aihot.news/items/cmufpzblx03xrroxz01r9jcv7",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T06:01:13.000Z",
+      "publishedAt": "2026-09-24T15:52:04.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Peter Steinberger",
+            "asset": "/assets/identities/steipete.png",
+            "assetSource": "https://x.com/steipete",
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "产品动态",
@@ -601,10 +601,10 @@
       }
     },
     {
-      "id": "aihot-cmufjgjp104c8ro6o6qh0aq4w",
-      "title": "Ethan Mollick 新书《Co-Existence》预售",
-      "brief": "我刚拿到新书《Co-Existence》的第一批样书（10 月 20 日发售），看起来很棒！",
-      "summary": "我刚拿到新书《Co-Existence》的第一批样书（10 月 20 日发售），看起来很棒！\n\n另外还有一个有趣的预售福利：如果你预购，就能获得一个 AI 访谈的兑换码，帮你弄清楚如何在 AI 时代发挥你的人类优势。https://co-existence.ai/",
+      "id": "aihot-cmufu6bh308vwroxzlbhlefqj",
+      "title": "METR 长任务时间跨度图表替代方案",
+      "brief": "我提议用这个来正式替代那张著名的（如今已饱和的）METR 长任务时间跨度图表--它以前出现在每一场 AI 演讲里。",
+      "summary": "我提议用这个来正式替代那张著名的（如今已饱和的）METR 长任务时间跨度图表--它以前出现在每一场 AI 演讲里。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -613,10 +613,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2103103429782716702",
-      "aggregateUrl": "https://aihot.news/items/cmufjgjp104c8ro6o6qh0aq4w",
+      "sourceUrl": "https://x.com/emollick/status/2103180095930196037",
+      "aggregateUrl": "https://aihot.news/items/cmufu6bh308vwroxzlbhlefqj",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T12:45:06.000Z",
+      "publishedAt": "2026-09-24T17:49:44.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -637,22 +637,22 @@
       }
     },
     {
-      "id": "aihot-cmufisajc03opro6owzj4r56e",
-      "title": "Harness-Zero 论文提出 agent-as-harness 方法，将专用 harness 能力蒸馏进模型",
-      "brief": "北京大学、Google 和 HKUST 等机构的论文 Harness-Zero 研究 agent harness 蒸馏，通过 agent-as-harness 在训练时用优化后的 harness 纠正学生模型在目标动作空间的响应，生成训练示范后微调。",
-      "summary": "北京大学、Google 和 HKUST 等机构的论文 Harness-Zero 研究 agent harness 蒸馏，通过 agent-as-harness 在训练时用优化后的 harness 纠正学生模型在目标动作空间的响应，生成训练示范后微调。",
-      "category": "研究进展",
-      "topic": "Agent",
+      "id": "aihot-cmufti67z087froxz8ud6d6hr",
+      "title": "Space Bunny 模型视觉与 3D 生成实测",
+      "brief": "Elvis Saravia 测试了 Space Bunny 模型，其在 OpenCode 中免费开放一周，支持 1M token 上下文窗口和图像输入。",
+      "summary": "Elvis Saravia 测试了 Space Bunny 模型，其在 OpenCode 中免费开放一周，支持 1M token 上下文窗口和图像输入。该模型视觉理解与设计能力出色，能自我验证工作成果，可从草图生成完整落地页、3D 模型、动画和可玩游戏。作者推荐将其用于图像转代码、交互原型和 3D 创意编程。",
+      "category": "模型进展",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2103095360239636666",
-      "aggregateUrl": "https://aihot.news/items/cmufisajc03opro6owzj4r56e",
+      "sourceUrl": "https://x.com/omarsar0/status/2103174241654837649",
+      "aggregateUrl": "https://aihot.news/items/cmufti67z087froxz8ud6d6hr",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T12:13:02.000Z",
+      "publishedAt": "2026-09-24T17:26:28.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -663,7 +663,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "研究进展",
+        "caption": "模型进展",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -673,75 +673,69 @@
       }
     },
     {
-      "id": "aihot-cmuef19zy078qrox3486cjnrq",
-      "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-      "brief": "原文来自 OpenAI 一方，说明 GPT Voice 新增工具使用能力和 Work 入口，读者可据此评估语音交互在工作场景的可用性。",
-      "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
+      "id": "aihot-cmuftn1na08g3roxzktcf0oex",
+      "title": "Perplexity Computer 支持 AMD 本地 AI",
+      "brief": "欢迎 @AMD 加入 Perplexity Computer 本地 AI 生态！",
+      "summary": "欢迎 @AMD 加入 Perplexity Computer 本地 AI 生态！\n\n【引用 @perplexity_ai】：Portable Computer for Windows 现已在 @AMD Ryzen AI Max 系列处理器上线。\n\n它可以轻松运行本地 AI 智能体，与你连接的应用程序和本地文件协同工作。启动任务或安排完全在你的设备上运行的周期性工作。",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "gdb",
+      "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
-      "sourceName": "Greg Brockman · @gdb",
-      "feedName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2102821706041819401",
-      "aggregateUrl": "https://aihot.news/items/cmuef19zy078qrox3486cjnrq",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2103178649851843016",
+      "aggregateUrl": "https://aihot.news/items/cmuftn1na08g3roxzktcf0oex",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-23T18:05:37.000Z",
+      "publishedAt": "2026-09-24T17:43:59.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Greg Brockman",
-            "asset": "/assets/identities/gdb.jpg",
-            "assetSource": "https://x.com/gdb",
-            "tone": "#e9e4dc"
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
           }
         ],
         "caption": "产品动态",
         "author": {
-          "name": "Greg Brockman",
-          "asset": "/assets/identities/gdb.jpg",
-          "assetSource": "https://x.com/gdb",
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
           "tone": "#e9e4dc"
         }
       }
     },
     {
-      "id": "aihot-cmufcbvmu05wqroaga2mai2eu",
-      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-      "brief": "Transluce 公开了日志数据和自查时间线，读者可据此自行核对这批智能体活动证据的范围与来源。",
-      "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
-      "category": "实践与观点",
-      "topic": "Agent",
+      "id": "aihot-cmufq9gbi049hroxzodra6smx",
+      "title": "Hugging Face 联创 Thomas Wolf：智能价格下降可能是宇宙历史尺度上最深刻的事件之一",
+      "brief": "Hugging Face 联创 Thomas Wolf 认为，智能价格持续下降可能是宇宙历史尺度上最深刻的事件之一。",
+      "summary": "Hugging Face 联创 Thomas Wolf 认为，智能价格持续下降可能是宇宙历史尺度上最深刻的事件之一。他引用 Epoch AI 数据：自 2023 年以来，同等性能下 AI 成本每季度下降约 47%，比 DNA 测序快 4 倍、比算力快 6 倍、比锂电池快 18 倍、比电力（至 1973 年）快 54 倍。",
+      "category": "产品动态",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "Thom_Wolf",
       "sourceGroup": "研究与方法",
       "sourceName": "Thomas Wolf · @Thom_Wolf",
       "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2103054896438136973",
-      "aggregateUrl": "https://aihot.news/items/cmufcbvmu05wqroaga2mai2eu",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2103148544982999044",
+      "aggregateUrl": "https://aihot.news/items/cmufq9gbi049hroxzodra6smx",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T09:32:14.000Z",
+      "publishedAt": "2026-09-24T15:44:22.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
-            "tone": "#e9e4dc"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "产品动态",
         "author": {
           "name": "Thomas Wolf",
           "asset": "/assets/identities/thom_wolf.jpg",
