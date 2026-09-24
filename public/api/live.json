@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月24日",
     "demo": false,
-    "updatedAt": "2026-09-24T00:32:57.924Z",
+    "updatedAt": "2026-09-24T05:17:14.503Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -56,8 +56,8 @@
           "group": "产品与工程",
           "focus": "AI 工程与开发者生态",
           "url": "https://x.com/swyx",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "simonw",
@@ -74,7 +74,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 2,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -83,8 +83,8 @@
           "group": "产品与工程",
           "focus": "开发者产品与应用工程",
           "url": "https://x.com/sherwinwu",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "emollick",
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 7,
           "status": "本次收录"
         },
         {
@@ -175,8 +175,43 @@
         },
         "hotRank": 1,
         "sourceCount": 27,
-        "signalCount": 19,
+        "signalCount": 20,
         "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
+      },
+      {
+        "id": "aihot-cmuexzypj03j9roow55c4teir",
+        "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
+        "brief": "Claude发现了一种此前未知的酶系统，隐藏在噬菌体的DNA中；该酶基因旁有一段长重复DNA阵列，结构上有些类似CRISPR。",
+        "summary": "Claude发现了一种此前未知的酶系统，隐藏在噬菌体的DNA中；该酶基因旁有一段长重复DNA阵列，结构上有些类似CRISPR。目前尚不清楚该系统的作用，只有少数已知系统具有相似特征，且它们都能切割、复制和粘贴DNA。要弄清该系统做什么、能否有类似用途，还需大量后续研究。",
+        "category": "研究进展",
+        "topic": "AI 产品",
+        "priority": "important",
+        "platform": "X",
+        "authorHandle": "AnthropicAI",
+        "sourceGroup": "机构官方",
+        "sourceName": "X：Anthropic (@AnthropicAI)",
+        "feedName": "X：Anthropic (@AnthropicAI)",
+        "sourceUrl": "https://x.com/AnthropicAI/status/2102824959827742916",
+        "aggregateUrl": "https://aihot.news/items/cmuexzypj03j9roow55c4teir",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-23T18:18:33.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "研究进展",
+          "author": null
+        },
+        "hotRank": 2,
+        "sourceCount": 7,
+        "signalCount": 8,
+        "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
       },
       {
         "id": "aihot-cmuea8xrm0t1nroghhxj2y3eg",
@@ -208,8 +243,8 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 2,
-        "sourceCount": 8,
+        "hotRank": 3,
+        "sourceCount": 9,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
       },
@@ -220,7 +255,7 @@
         "summary": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。据Artificial Analysis评测，其智能指数与GPT-5.6持平，编码代理指数升2分至57，幻觉率从92%降至60%（部分靠更常拒答，准确率降5点），Terminal-Bench 4.0等提升，但在GDPval-AA v2.1回落约100 Elo点。",
         "category": "模型进展",
         "topic": "AI 产品",
-        "priority": "important",
+        "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -243,10 +278,45 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 3,
+        "hotRank": 4,
         "sourceCount": 13,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
+      },
+      {
+        "id": "aihot-cmueup7f003m7royq61z93ftn",
+        "title": "ChatGPT Voice升级为运行GPT-6 Astra、Sol、Luna模型并首次可访问邮件、日历和Slack插件",
+        "brief": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。",
+        "summary": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。该功能今日随最新版应用在全球范围推出。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "OpenAI",
+        "sourceGroup": "机构官方",
+        "sourceName": "X：OpenAI (@OpenAI)",
+        "feedName": "X：OpenAI (@OpenAI)",
+        "sourceUrl": "https://x.com/OpenAI/status/2102808325742322002",
+        "aggregateUrl": "https://aihot.news/items/cmueup7f003m7royq61z93ftn",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-23T17:12:27.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "GPT-6 Astra",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 2,
+        "signalCount": 6,
+        "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
       },
       {
         "id": "aihot-cmuczxsyt03k4ro7nep4vsmez",
@@ -278,103 +348,33 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 6,
         "sourceCount": 13,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
       },
       {
-        "id": "aihot-cmuefqp730041rovxbpewc3gn",
-        "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
-        "brief": "Anthropic分享首个研究计划的早期结果：Claude自主发现一种与DNA重复序列阵列相关的新型酶系统，命名为阵列相关逆转录酶（ART）。",
-        "summary": "Anthropic分享首个研究计划的早期结果：Claude自主发现一种与DNA重复序列阵列相关的新型酶系统，命名为阵列相关逆转录酶（ART）。该系统基于一种在巨型噬菌体中发现的逆转录酶（RT），Claude似乎是首个注意到其定义性特征——关联的非编码DNA序列阵列和一个功能未知的附加蛋白。约950个Claude代理用210万token搜索21小时，从超过20万个RT中筛选出3500个新候选系统，最终聚焦20个最有希望的候选。ART主要存在于噬菌体中，由RT、相邻伙伴基因和等间距DNA重复序列阵列三部分组成，初步实验显示该阵列表达为一组不同的短RNA。其功能尚不清楚，研究仍在进行中，Anthropic已发布预印本。",
-        "category": "研究进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "feedName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "aggregateUrl": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T18:27:25.203Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "研究进展",
-          "author": null
-        },
-        "hotRank": 5,
-        "sourceCount": 6,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
-      },
-      {
-        "id": "aihot-cmubox8pl0510ro4vw01ibnin",
-        "title": "小米发布MiMo-V2.6-Pro开源权重模型，以46分登顶Artificial Analysis智能指数开源权重榜首",
-        "brief": "小米发布开源权重模型MiMo-V2.6-Pro，在Artificial Analysis Intelligence Index以46分首登开源权重模型榜首，较前代MiMo-V2.5-Pro（26分）有显著智能提升。",
-        "summary": "小米发布开源权重模型MiMo-V2.6-Pro，在Artificial Analysis Intelligence Index以46分首登开源权重模型榜首，较前代MiMo-V2.5-Pro（26分）有显著智能提升。该模型为MoE架构，总参数1.02T、激活参数42B；定价保持不变，每百万输入token 0.435美元（99%缓存命中折扣）与每百万输出token 0.87美元，位列 Intelligence vs. Cost per Task 帕累托前沿，是部署成本效益最高的模型之一。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "ArtificialAnlys",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-        "feedName": "X：Artificial Analysis (@ArtificialAnlys)",
-        "sourceUrl": "https://x.com/ArtificialAnlys/status/2102128560962187701",
-        "aggregateUrl": "https://aihot.news/items/cmubox8pl0510ro4vw01ibnin",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-21T20:11:19.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Artificial Analysis (@ArtificialAnlys)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
-        "hotRank": 6,
-        "sourceCount": 7,
-        "signalCount": 1,
-        "storyUrl": "https://aihot.virxact.com/story/fb460b24-bf56-45b0-87a5-fe8eec08a784"
-      },
-      {
-        "id": "aihot-cmue83o0m0qjiroghk2uk1gyw",
-        "title": "YouTube的AI功能Ask YouTube获得多项新功能并更突出展示",
-        "brief": "YouTube在Made on YouTube年度活动上宣布为创作者管理频道的YouTube Studio应用推出多项AI功能：将AI问答功能Ask Studio扩展至iOS和Android；新增草稿反馈功能，用AI分析未发布视频并就节奏、结构和叙事提供建议；新增研究信息流展示平台上什么内容有效；可依据视频内容生成匹配创作者风格的缩略图与标题，动态缩略图功能可生成三个选项分别展示给不同受众群体。",
-        "summary": "YouTube在Made on YouTube年度活动上宣布为创作者管理频道的YouTube Studio应用推出多项AI功能：将AI问答功能Ask Studio扩展至iOS和Android；新增草稿反馈功能，用AI分析未发布视频并就节奏、结构和叙事提供建议；新增研究信息流展示平台上什么内容有效；可依据视频内容生成匹配创作者风格的缩略图与标题，动态缩略图功能可生成三个选项分别展示给不同受众群体。YouTube还表示将允许用户测试最多三个视频剪辑以比较开场效果，并计划今年晚些时候让Studio自动监控缩略图表现、在表现不佳时主动更换；分析功能也将更新为超越原始数据、解释视频表现原因并给出优化建议。",
+        "id": "aihot-cmueuqr3j03ovroyqbsx4c4nx",
+        "title": "Meta在Connect大会发布AI可穿戴设备Muse Charm，尚未发货，计划12月假期前发货",
+        "brief": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
+        "summary": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
+        "platform": "X",
+        "authorHandle": "testingcatalog",
         "sourceGroup": "媒体与社区",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "feedName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
-        "aggregateUrl": "https://aihot.news/items/cmue83o0m0qjiroghk2uk1gyw",
+        "sourceName": "X：Testing Catalog (@testingcatalog)",
+        "feedName": "X：Testing Catalog (@testingcatalog)",
+        "sourceUrl": "https://x.com/testingcatalog/status/2102913764248998337",
+        "aggregateUrl": "https://aihot.news/items/cmueuqr3j03ovroyqbsx4c4nx",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T14:30:00.000Z",
+        "publishedAt": "2026-09-24T00:11:26.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "TechCrunch：AI（RSS）",
+              "name": "X：Testing Catalog (@testingcatalog)",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -384,9 +384,79 @@
           "author": null
         },
         "hotRank": 7,
+        "sourceCount": 5,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
+      },
+      {
+        "id": "aihot-cmue7co7k0pvhroghnfrhcg7o",
+        "title": "小米MiMo核心组件HySparse 2今日发布，1M Token下预填充计算量降低5.02倍、KV缓存缩小4.5倍",
+        "brief": "MiMo-V3采用名为HySparse2的新架构，作者称当天发布。",
+        "summary": "MiMo-V3采用名为HySparse2的新架构，作者称当天发布。相比MiMo-V2.6的Hybrid SWA架构，该架构在1M tokens下预填充FLOPs降低5.02倍、KV缓存缩小4.5倍，MRCRv2和RULER-v2成绩更好，AgentPPL和LongPPL更低。机制包括KV Bridging（跨解码器全注意力层从自解码器隐藏状态构建K/V）与KV Reuse（稀疏层复用前序全注意力层的KV缓存），并以token级选择和强制近窗取代block级选择与独立SWA分支，使预填充可在自解码器完成后停止，针对Agentic推理中预填充成本、KV缓存与检索精度同时承压的场景；附论文链接。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "_LuoFuli",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：罗福莉 (@_LuoFuli)",
+        "feedName": "X：罗福莉 (@_LuoFuli)",
+        "sourceUrl": "https://x.com/_LuoFuli/status/2102766365190901957",
+        "aggregateUrl": "https://aihot.news/items/cmue7co7k0pvhroghnfrhcg7o",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-23T14:25:43.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：罗福莉 (@_LuoFuli)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 8,
+        "sourceCount": 2,
+        "signalCount": 3,
+        "storyUrl": "https://aihot.virxact.com/story/6052f179-8cbd-45cf-be60-2637ed40824a"
+      },
+      {
+        "id": "aihot-cmuery5nk0gowroynmdjmil05",
+        "title": "Meta发布带摄像头的新一代AI眼镜Ray-Ban Meta (Gen 3)，含Aviator和Zena新款式",
+        "brief": "Meta宣布把其机密计算基础设施Private Processing扩展到AI眼镜，将AI眼镜的信任边界延伸进云数据中心，在机密虚拟机（CVM）中执行AI模型，使包括Meta在内的外部方无法访问用户数据。",
+        "summary": "Meta宣布把其机密计算基础设施Private Processing扩展到AI眼镜，将AI眼镜的信任边界延伸进云数据中心，在机密虚拟机（CVM）中执行AI模型，使包括Meta在内的外部方无法访问用户数据。该基础设施此前已用于WhatsApp和Meta AI应用。方案围绕硬件隔离、失败关闭、公开可验证、不可定向和加密存储五项工程要求设计，用于安全卸载流式转录、上下文搜索和长期回忆等密集AI负载，并采用匿名凭证、第三方OHTTP中继、远程认证、TEE内加密存储及带外可观测性等机制。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Meta Engineering Blog（RSS）",
+        "feedName": "Meta Engineering Blog（RSS）",
+        "sourceUrl": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses",
+        "aggregateUrl": "https://aihot.news/items/cmuery5nk0gowroynmdjmil05",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-24T00:00:00.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Meta Engineering Blog（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 9,
         "sourceCount": 4,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/a33b7fa3-9092-4c79-a4a3-26b212eb4b99"
+        "storyUrl": "https://aihot.virxact.com/story/f7a76f3b-b168-4a35-ab36-14bd68d3dda1"
       },
       {
         "id": "aihot-cmueos1z60dveroynrttd4v8c",
@@ -418,80 +488,10 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 8,
-        "sourceCount": 3,
+        "hotRank": 10,
+        "sourceCount": 4,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
-      },
-      {
-        "id": "aihot-cmubfarpy0xtirolnplntl9p1",
-        "title": "Grok 4.7 发布，宣称更智能且能力更强，保持相同速度与成本",
-        "brief": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。",
-        "summary": "SpaceXAI于2026年9月21日发布Grok 4.7，称其为编程和知识工作方面最强大的模型，采用比Grok 4.6更大的基座并经更长强化学习训练，自我检查能力更强。发布方称其在CursorBench 4.0等基准上价格性能处于前沿，并启用全新安全防护。模型当日即在Cursor、Grok Build、Grok API及第三方渠道可用，起价每百万输入token 2美元、输出6美元，另提供两倍速度、两倍价格的快速变体。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "xAI：News（网页）",
-        "feedName": "xAI：News（网页）",
-        "sourceUrl": "https://x.ai/news/grok-4-7",
-        "aggregateUrl": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-21T00:00:00.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "xAI：News（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 4,
-        "signalCount": 1,
-        "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
-      },
-      {
-        "id": "aihot-cmucwn00k0rglroed55jw9pqk",
-        "title": "Anthropic称Claude Sonnet 5.5预计未来数周发布，将带来类似性能、效率与安全提升",
-        "brief": "Anthropic在Opus 5.5发布公告中预告，Claude Sonnet 5.5将在未来数周内跟进发布，带来性能、效率与安全方面的诸多同类改进；该型号尚未发布，仅为计划。",
-        "summary": "Anthropic在Opus 5.5发布公告中预告，Claude Sonnet 5.5将在未来数周内跟进发布，带来性能、效率与安全方面的诸多同类改进；该型号尚未发布，仅为计划。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Hacker News：AI 热帖",
-        "feedName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
-        "aggregateUrl": "https://aihot.news/items/cmucwn00k0rglroed55jw9pqk",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T16:29:05.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 10,
-        "sourceCount": 6,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/7339a97b-3f94-4475-a3b7-18817f09f6fd"
       },
       {
         "id": "aihot-cmuedyzhy0482romm2rpjfis0",
@@ -530,46 +530,10 @@
         }
       },
       {
-        "id": "aihot-cmudr32ic049vroghwzfa0dul",
-        "title": "AINews 默认模型换用 Claude Opus 5.5",
-        "brief": "可以确认。",
-        "summary": "可以确认。把 @latentspacepod AINews 和 6 Sol 并排跑了一遍，差别天壤之别：https://www.latent.space/p/ainews-claude-opus-55-the-new-default\n\n5.5 Opus 今后成为 AINews 的新默认模型。报道简洁得多、有品味得多，slopese 也比 5 Opus 少了很多。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "swyx",
-        "sourceGroup": "产品与工程",
-        "sourceName": "swyx · @swyx",
-        "feedName": "X：swyx (@swyx)",
-        "sourceUrl": "https://x.com/swyx/status/2102650014552182920",
-        "aggregateUrl": "https://aihot.news/items/cmudr32ic049vroghwzfa0dul",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T06:43:23.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "模型进展",
-          "author": {
-            "name": "swyx",
-            "asset": "/assets/identities/swyx.jpg",
-            "assetSource": "https://x.com/swyx",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-cmudulu4i08agroghyej9c5m3",
-        "title": "CodexBar 新增多项服务集成",
-        "brief": "CodexBar 在过去几周学会了几项新技能！",
-        "summary": "CodexBar 在过去几周学会了几项新技能！\n\nTypeSafe、Nous Portal、Muse Code、CodeRabbit、Replicate、HuggingFace、Pi、Helmcode、v0、Charm Hyper、GitKraken AI、Bifrost\n\n我对这个应用的野心真的已经远超这个应用名字了。（哦对了，这些钥匙串弹窗也不再有了）http://codex.bar",
+        "id": "aihot-cmuf2ehb207ojroodmuw9kmr7",
+        "title": "Peter Steinberger 谈智能体大战",
+        "brief": "要不我们把这叫做智能体大战？",
+        "summary": "要不我们把这叫做智能体大战？很快我们会在各条战线上看到更多这类事情。",
         "category": "产品动态",
         "topic": "Agent",
         "priority": "normal",
@@ -578,18 +542,18 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Peter Steinberger · @steipete",
         "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2102672670689275965",
-        "aggregateUrl": "https://aihot.news/items/cmudulu4i08agroghyej9c5m3",
+        "sourceUrl": "https://x.com/steipete/status/2102982942037573868",
+        "aggregateUrl": "https://aihot.news/items/cmuf2ehb207ojroodmuw9kmr7",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T08:13:25.000Z",
+        "publishedAt": "2026-09-24T04:46:19.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Peter Steinberger",
+              "asset": "/assets/identities/steipete.png",
+              "assetSource": "https://x.com/steipete",
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "产品动态",
@@ -602,11 +566,47 @@
         }
       },
       {
-        "id": "aihot-cmue8azjl0qugroghklrn8nic",
-        "title": "商用前沿模型内部使用是否发生重大AI安全事件",
-        "brief": "围绕商业发布的前沿模型、在普通部署和正常防护措施下的内部使用，是否真的发生过重大AI安全事件？",
-        "summary": "围绕商业发布的前沿模型、在普通部署和正常防护措施下的内部使用，是否真的发生过重大AI安全事件？\n\n2023年时，组织里的每个人都对此深感担忧，但我并不知道有真实事件发生？",
-        "category": "模型进展",
+        "id": "aihot-cmueup7g003maroyqx3bh6939",
+        "title": "Jeffrey Katzenberg 发文谈 AI 与创造力：工具不是重点，条款才是关键",
+        "brief": "Jeffrey Katzenberg 发文回顾动画行业从手绘赛璐璐到 CAPS 与 Pixar 全 CG 的技术变迁，指出 AI 当前强于推理而非创造，历史从来由条款而非技术定胜负。",
+        "summary": "Jeffrey Katzenberg 发文回顾动画行业从手绘赛璐璐到 CAPS 与 Pixar 全 CG 的技术变迁，指出 AI 当前强于推理而非创造，历史从来由条款而非技术定胜负。",
+        "category": "实践与观点",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sherwinwu",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Sherwin Wu · @sherwinwu",
+        "feedName": "X：Sherwin Wu（@sherwinwu）",
+        "sourceUrl": "https://x.com/sherwinwu/status/2102905445602197961",
+        "aggregateUrl": "https://aihot.news/items/cmueup7g003maroyqx3bh6939",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-23T23:38:22.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Sherwin Wu",
+              "asset": "/assets/identities/sherwinwu.jpg",
+              "assetSource": "https://x.com/sherwinwu",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Sherwin Wu",
+            "asset": "/assets/identities/sherwinwu.jpg",
+            "assetSource": "https://x.com/sherwinwu",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmuez3kni0453roodawzmx69g",
+        "title": "Opus，请制作一系列全动画/电影感的天际加载界面",
+        "brief": "\"Opus，请制作一系列全动画/电影感的天际加载界面，但要用你最喜欢的东西。",
+        "summary": "\"Opus，请制作一系列全动画/电影感的天际加载界面，但要用你最喜欢的东西。\"\n\n（就这些）你可以在这里看到：https://elder-favorites.netlify.app/",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -614,10 +614,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2102768800399548792",
-        "aggregateUrl": "https://aihot.news/items/cmue8azjl0qugroghklrn8nic",
+        "sourceUrl": "https://x.com/emollick/status/2102959636450013456",
+        "aggregateUrl": "https://aihot.news/items/cmuez3kni0453roodawzmx69g",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T14:35:24.000Z",
+        "publishedAt": "2026-09-24T03:13:43.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -628,7 +628,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -638,10 +638,10 @@
         }
       },
       {
-        "id": "aihot-cmuenprvy0cxyroyns5xdrgm3",
-        "title": "Almanac 推出医疗协作 AI 智能体",
-        "brief": "Almanac Health 推出面向医生的协作式 AI 智能体 Almanac，可跨 EHR 和工作区帮医生委派行政与研究工作。",
-        "summary": "Almanac Health 推出面向医生的协作式 AI 智能体 Almanac，可跨 EHR 和工作区帮医生委派行政与研究工作。该智能体每项任务在独立沙箱中运行，调用专科医学知识，并在执行前请求授权。公司已累计融资 1200 万美元，包括 General Catalyst 领投的 200 万美元 pre-seed 和 FPrime Capital 领投的 1000 万美元种子轮。",
+        "id": "aihot-cmuf2pmni07yaroodi60jr26o",
+        "title": "生产环境智能体低成本重评估方法",
+        "brief": "一项研究用200道题（仅为完整基准的38.5%）复现了生产级分析智能体的完整评分，误差在1.03分以内。",
+        "summary": "一项研究用200道题（仅为完整基准的38.5%）复现了生产级分析智能体的完整评分，误差在1.03分以内。作者基于574次历史基准运行，对比了随机采样、缓存结果、固定代表性子集和基于项目反应理论的自适应测试，其中多维2PL自适应测试保真度最高。团队最终部署了难度分层的固定子集，因其更易运行，且无需重新校准即可迁移到五个其他智能体家族，校准窗口短至一天仍保持稳定。",
         "category": "产品动态",
         "topic": "Agent",
         "priority": "normal",
@@ -650,10 +650,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2102880008947552572",
-        "aggregateUrl": "https://aihot.news/items/cmuenprvy0cxyroyns5xdrgm3",
+        "sourceUrl": "https://x.com/omarsar0/status/2102986414724096037",
+        "aggregateUrl": "https://aihot.news/items/cmuf2pmni07yaroodi60jr26o",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T21:57:18.000Z",
+        "publishedAt": "2026-09-24T05:00:07.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -792,8 +792,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-24T00:32:57.924Z",
-    "nextCheckAt": 1790210277924,
+    "checkedAt": "2026-09-24T05:17:14.503Z",
+    "nextCheckAt": 1790227334503,
     "intervalSeconds": 300,
     "message": ""
   }
