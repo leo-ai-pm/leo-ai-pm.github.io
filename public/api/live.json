@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月24日",
     "demo": false,
-    "updatedAt": "2026-09-24T10:07:29.201Z",
+    "updatedAt": "2026-09-24T14:59:36.807Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 8,
+      "latestCount": 7,
       "archiveCount": 1
     },
     "sources": {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 9,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -128,8 +128,8 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "Thom_Wolf",
@@ -144,20 +144,20 @@
     },
     "items": [
       {
-        "id": "aihot-cmucyny580521roni2aiyh9xj",
+        "id": "aihot-cmucwy58v0rskroedmv35n8ji",
         "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-        "brief": "Artificial Analysis的评测显示，Claude Opus 5.5在最大努力档取得58分，登顶Artificial Analysis Intelligence Index，为其测得的最高分、领先此前最好成绩数分。",
-        "summary": "Artificial Analysis的评测显示，Claude Opus 5.5在最大努力档取得58分，登顶Artificial Analysis Intelligence Index，为其测得的最高分、领先此前最好成绩数分。该模型在Terminal-Bench 4.0上与GPT-6 Astra持平，在Humanity's Last Exam、SciCode、AA-Briefcase等十项评估中六项居首，AA-Briefcase达1822 Elo并在代理知识工作上保持领先，但仍在CritPt、AA-LCR和GDP.pdf上落后。",
+        "brief": "发布方（原文未具名）推出 Claude Opus 5.5，称其是新 Claude 5.5 系列首款模型，多数工作达到 Claude Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+        "summary": "发布方（原文未具名）推出 Claude Opus 5.5，称其是新 Claude 5.5 系列首款模型，多数工作达到 Claude Fable 5.1 水平，运行成本比 Opus 5 低 40%。该模型经外部评估，在自动化行为审计等安全测试中表现强于近期 Claude 模型，并在代理编码、计算机使用、知识工作等基准领先；输入/输出 token 定价为每百万 4/20 美元，现已登陆 Amazon Web Services、Google Cloud、Microsoft Azure 及 Claude Platform。",
         "category": "产品动态",
         "topic": "Agent",
         "priority": "lead",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Artificial Analysis 完整文章（网页）",
-        "feedName": "Artificial Analysis 完整文章（网页）",
-        "sourceUrl": "https://artificialanalysis.ai/articles/claude-opus-5-5",
-        "aggregateUrl": "https://aihot.news/items/cmucyny580521roni2aiyh9xj",
+        "sourceGroup": "机构官方",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "feedName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+        "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-21T16:00:00.000Z",
         "verification": "AIHot 摘要 · 原文可查",
@@ -174,7 +174,7 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 27,
+        "sourceCount": 28,
         "signalCount": 20,
         "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
       },
@@ -249,41 +249,6 @@
         "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
       },
       {
-        "id": "aihot-cmueup7f003m7royq61z93ftn",
-        "title": "ChatGPT Voice升级为运行GPT-6 Astra、Sol、Luna模型并首次可访问邮件、日历和Slack插件",
-        "brief": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。",
-        "summary": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。该功能今日随最新版应用在全球范围推出。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "OpenAI",
-        "sourceGroup": "机构官方",
-        "sourceName": "X：OpenAI (@OpenAI)",
-        "feedName": "X：OpenAI (@OpenAI)",
-        "sourceUrl": "https://x.com/OpenAI/status/2102808325742322002",
-        "aggregateUrl": "https://aihot.news/items/cmueup7f003m7royq61z93ftn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T17:12:27.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "GPT-6 Astra",
-          "author": null
-        },
-        "hotRank": 4,
-        "sourceCount": 3,
-        "signalCount": 6,
-        "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
-      },
-      {
         "id": "aihot-cmud2ya2c03wnrov6lnmiq2dv",
         "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
         "brief": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。",
@@ -313,16 +278,51 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 5,
-        "sourceCount": 14,
+        "hotRank": 4,
+        "sourceCount": 16,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
       },
       {
-        "id": "aihot-cmuczxsyt03k4ro7nep4vsmez",
-        "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
-        "brief": "同一次公告中还推出新模型GPT-6 Luna。",
-        "summary": "同一次公告中还推出新模型GPT-6 Luna。该模型同样建立在GPT-6 Astra的技术进展之上，将其优势带入更快、更实惠的模型以支持大规模工作；通过缓存和推理效率优化，Luna的API价格较GPT-5.6促销定价降低50%。",
+        "id": "aihot-cmufjyocz04u6ro6ohojge69s",
+        "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
+        "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+        "summary": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "sourceUrl": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+        "aggregateUrl": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-24T12:27:50.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 7,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+      },
+      {
+        "id": "aihot-cmueup7f003m7royq61z93ftn",
+        "title": "ChatGPT Voice升级为运行GPT-6 Astra、Sol、Luna模型并首次可访问邮件、日历和Slack插件",
+        "brief": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。",
+        "summary": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。该功能今日随最新版应用在全球范围推出。",
         "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
@@ -331,10 +331,45 @@
         "sourceGroup": "机构官方",
         "sourceName": "X：OpenAI (@OpenAI)",
         "feedName": "X：OpenAI (@OpenAI)",
-        "sourceUrl": "https://x.com/OpenAI/status/2102460975790137662",
-        "aggregateUrl": "https://aihot.news/items/cmuczxsyt03k4ro7nep4vsmez",
+        "sourceUrl": "https://x.com/OpenAI/status/2102808325742322002",
+        "aggregateUrl": "https://aihot.news/items/cmueup7f003m7royq61z93ftn",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T18:12:13.000Z",
+        "publishedAt": "2026-09-23T17:12:27.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "GPT-6 Astra",
+          "author": null
+        },
+        "hotRank": 6,
+        "sourceCount": 3,
+        "signalCount": 6,
+        "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
+      },
+      {
+        "id": "aihot-cmud1y2ku039iro5ysl7pq6d3",
+        "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
+        "brief": "OpenAI推出GPT-6 Luna，作为GPT-6系列中侧重成本效率的新模型，与Sol共享类似训练方法和多项评测。",
+        "summary": "OpenAI推出GPT-6 Luna，作为GPT-6系列中侧重成本效率的新模型，与Sol共享类似训练方法和多项评测。其API价格较GPT-5.6 Luna促销价降低50%（输入$0.20→$0.10、输出$1.20→$0.50，按每百万token计）。自发布当日起在ChatGPT Work和Codex向Plus、Pro、Business、Enterprise、Edu用户开放，免费和Go用户可在桌面应用中访问；API中名为gpt-6-luna；尚未在Chat中提供，ChatGPT内逐步推出。",
+        "category": "模型进展",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "aggregateUrl": "https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-22T18:00:00.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -348,10 +383,45 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 6,
-        "sourceCount": 15,
+        "hotRank": 7,
+        "sourceCount": 16,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
+      },
+      {
+        "id": "aihot-cmueuqr3j03ovroyqbsx4c4nx",
+        "title": "Meta在Connect大会发布AI可穿戴设备Muse Charm，尚未发货，计划12月假期前发货",
+        "brief": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
+        "summary": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "testingcatalog",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：Testing Catalog (@testingcatalog)",
+        "feedName": "X：Testing Catalog (@testingcatalog)",
+        "sourceUrl": "https://x.com/testingcatalog/status/2102913764248998337",
+        "aggregateUrl": "https://aihot.news/items/cmueuqr3j03ovroyqbsx4c4nx",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-24T00:11:26.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Testing Catalog (@testingcatalog)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 8,
+        "sourceCount": 6,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
       },
       {
         "id": "aihot-cmueurvwl03tvroyqdzcth166",
@@ -383,7 +453,7 @@
           "caption": "Claude Code",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 9,
         "sourceCount": 3,
         "signalCount": 3,
         "storyUrl": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
@@ -418,80 +488,10 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 8,
-        "sourceCount": 5,
+        "hotRank": 10,
+        "sourceCount": 6,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
-      },
-      {
-        "id": "aihot-cmueuqr3j03ovroyqbsx4c4nx",
-        "title": "Meta在Connect大会发布AI可穿戴设备Muse Charm，尚未发货，计划12月假期前发货",
-        "brief": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
-        "summary": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "testingcatalog",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Testing Catalog (@testingcatalog)",
-        "feedName": "X：Testing Catalog (@testingcatalog)",
-        "sourceUrl": "https://x.com/testingcatalog/status/2102913764248998337",
-        "aggregateUrl": "https://aihot.news/items/cmueuqr3j03ovroyqbsx4c4nx",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T00:11:26.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Testing Catalog (@testingcatalog)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 5,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
-      },
-      {
-        "id": "aihot-cmuezhuvu04gurood4k1lbwkp",
-        "title": "Google DeepMind 首席 Koray Kavukcuoglu 称 Gemini 4 已进入后训练并接近发布，希望早于年底推出早期后训练版本",
-        "brief": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
-        "summary": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "rohanpaul_ai",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2102965226937434614",
-        "aggregateUrl": "https://aihot.news/items/cmuezhuvu04gurood4k1lbwkp",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T03:35:55.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 10,
-        "sourceCount": 4,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/d1ae40f5-d5f1-46b7-a3c9-2d23ed9a9fbc"
       },
       {
         "id": "aihot-cmuf4r7pu0e1srood5qov38vo",
@@ -602,10 +602,10 @@
         }
       },
       {
-        "id": "aihot-cmuez3kni0453roodawzmx69g",
-        "title": "Opus，请制作一系列全动画/电影感的天际加载界面",
-        "brief": "\"Opus，请制作一系列全动画/电影感的天际加载界面，但要用你最喜欢的东西。",
-        "summary": "\"Opus，请制作一系列全动画/电影感的天际加载界面，但要用你最喜欢的东西。\"\n\n（就这些）你可以在这里看到：https://elder-favorites.netlify.app/",
+        "id": "aihot-cmufjgjp104c8ro6o6qh0aq4w",
+        "title": "Ethan Mollick 新书《Co-Existence》预售",
+        "brief": "我刚拿到新书《Co-Existence》的第一批样书（10 月 20 日发售），看起来很棒！",
+        "summary": "我刚拿到新书《Co-Existence》的第一批样书（10 月 20 日发售），看起来很棒！\n\n另外还有一个有趣的预售福利：如果你预购，就能获得一个 AI 访谈的兑换码，帮你弄清楚如何在 AI 时代发挥你的人类优势。https://co-existence.ai/",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -614,10 +614,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2102959636450013456",
-        "aggregateUrl": "https://aihot.news/items/cmuez3kni0453roodawzmx69g",
+        "sourceUrl": "https://x.com/emollick/status/2103103429782716702",
+        "aggregateUrl": "https://aihot.news/items/cmufjgjp104c8ro6o6qh0aq4w",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T03:13:43.000Z",
+        "publishedAt": "2026-09-24T12:45:06.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -638,11 +638,11 @@
         }
       },
       {
-        "id": "aihot-cmuf2pmni07yaroodi60jr26o",
-        "title": "生产环境智能体低成本重评估方法",
-        "brief": "一项研究用200道题（仅为完整基准的38.5%）复现了生产级分析智能体的完整评分，误差在1.03分以内。",
-        "summary": "一项研究用200道题（仅为完整基准的38.5%）复现了生产级分析智能体的完整评分，误差在1.03分以内。作者基于574次历史基准运行，对比了随机采样、缓存结果、固定代表性子集和基于项目反应理论的自适应测试，其中多维2PL自适应测试保真度最高。团队最终部署了难度分层的固定子集，因其更易运行，且无需重新校准即可迁移到五个其他智能体家族，校准窗口短至一天仍保持稳定。",
-        "category": "产品动态",
+        "id": "aihot-cmufisajc03opro6owzj4r56e",
+        "title": "Harness-Zero 论文提出 agent-as-harness 方法，将专用 harness 能力蒸馏进模型",
+        "brief": "北京大学、Google 和 HKUST 等机构的论文 Harness-Zero 研究 agent harness 蒸馏，通过 agent-as-harness 在训练时用优化后的 harness 纠正学生模型在目标动作空间的响应，生成训练示范后微调。",
+        "summary": "北京大学、Google 和 HKUST 等机构的论文 Harness-Zero 研究 agent harness 蒸馏，通过 agent-as-harness 在训练时用优化后的 harness 纠正学生模型在目标动作空间的响应，生成训练示范后微调。",
+        "category": "研究进展",
         "topic": "Agent",
         "priority": "normal",
         "platform": "X",
@@ -650,10 +650,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2102986414724096037",
-        "aggregateUrl": "https://aihot.news/items/cmuf2pmni07yaroodi60jr26o",
+        "sourceUrl": "https://x.com/omarsar0/status/2103095360239636666",
+        "aggregateUrl": "https://aihot.news/items/cmufisajc03opro6owzj4r56e",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T05:00:07.000Z",
+        "publishedAt": "2026-09-24T12:13:02.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -664,7 +664,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "产品动态",
+          "caption": "研究进展",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
@@ -705,48 +705,6 @@
             "name": "Greg Brockman",
             "asset": "/assets/identities/gdb.jpg",
             "assetSource": "https://x.com/gdb",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-cmue9wuq00sqxrogh9805ahzr",
-        "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
-        "brief": "作者从开源权重视角点评小米新模型，引用的基准对比可用于判断开源模型与闭源前沿模型的差距变化。",
-        "summary": "小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。",
-        "category": "模型进展",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "AravSrinivas",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Aravind Srinivas · @AravSrinivas",
-        "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2102780186202972254",
-        "aggregateUrl": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T15:20:38.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": {
-            "name": "Aravind Srinivas",
-            "asset": "/assets/identities/aravsrinivas.jpg",
-            "assetSource": "https://x.com/AravSrinivas",
             "tone": "#e9e4dc"
           }
         }
@@ -834,8 +792,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-24T10:07:29.201Z",
-    "nextCheckAt": 1790244749201,
+    "checkedAt": "2026-09-24T14:59:36.807Z",
+    "nextCheckAt": 1790262276807,
     "intervalSeconds": 300,
     "message": ""
   }
