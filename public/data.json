@@ -1,7 +1,7 @@
 {
   "date": "2026年9月25日",
   "demo": false,
-  "updatedAt": "2026-09-24T22:13:09.564Z",
+  "updatedAt": "2026-09-25T00:35:26.774Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 7,
+    "latestCount": 6,
     "archiveCount": 1
   },
   "sources": {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 6,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -82,8 +82,8 @@
         "group": "产品与工程",
         "focus": "开发者产品与应用工程",
         "url": "https://x.com/sherwinwu",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "emollick",
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 6,
+        "matched": 8,
         "status": "本次收录"
       },
       {
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 3,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -178,6 +178,41 @@
       "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
     },
     {
+      "id": "aihot-cmug4fiwq0ewjrogvaec7w7h7",
+      "title": "Google 计划于10月1日发射搭载 TPUs 的 AI 卫星，测试其在太空环境中的表现",
+      "brief": "原文称Google将在下周把TPU送入轨道；这是关于未来安排的陈述，未给出具体日期，也未说明是否已完成。",
+      "summary": "原文称Google将在下周把TPU送入轨道；这是关于未来安排的陈述，未给出具体日期，也未说明是否已完成。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "important",
+      "platform": "X",
+      "authorHandle": "ViggleAI",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Viggle AI (@ViggleAI)",
+      "feedName": "X：Viggle AI (@ViggleAI)",
+      "sourceUrl": "https://x.com/ViggleAI/status/2103247376399978746",
+      "aggregateUrl": "https://aihot.news/items/cmug4fiwq0ewjrogvaec7w7h7",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-24T22:17:05.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 2,
+      "sourceCount": 7,
+      "signalCount": 1,
+      "storyUrl": "https://aihot.virxact.com/story/c0aa666b-4c8a-4237-be11-a28dce74a056"
+    },
+    {
       "id": "aihot-cmuea8xrm0t1nroghhxj2y3eg",
       "title": "Google发布Gemini 3.8 Flash TTS语音合成模型",
       "brief": "Google宣布推出Gemini 3.8 Flash TTS，面向深度创意指导与角色设计，支持用自然语言提示从头创建定制声音、逐行指导表演，覆盖100多种语言，并提供带同意验证、SynthID水印和C2PA凭证的声音复刻。",
@@ -207,80 +242,10 @@
         "caption": "模型进展",
         "author": null
       },
-      "hotRank": 2,
+      "hotRank": 3,
       "sourceCount": 11,
       "signalCount": 2,
       "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
-    },
-    {
-      "id": "aihot-cmufmmuxq05mkro8wto91q1ev",
-      "title": "Google 计划于10月1日发射搭载 TPUs 的 AI 卫星，测试其在太空环境中的表现",
-      "brief": "《华尔街日报》报道，谷歌计划于当地时间10月1日将实验卫星MVP送入轨道，并搭乘SpaceX猎鹰9号从范登堡太空军基地升空。",
-      "summary": "《华尔街日报》报道，谷歌计划于当地时间10月1日将实验卫星MVP送入轨道，并搭乘SpaceX猎鹰9号从范登堡太空军基地升空。MVP属于Project Suncatcher（捕日计划），并非整座数据中心，而是完整数据中心的实验性前身；它搭载4枚计算用TPU、总算力相当于一台服务器，太阳能板约1kW供电，拟在一年内处理简单AI查询，卫星预计最长在轨6年后坠入大气层烧毁。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "important",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/007/022.htm",
-      "aggregateUrl": "https://aihot.news/items/cmufmmuxq05mkro8wto91q1ev",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T14:02:38.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 3,
-      "sourceCount": 6,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/c0aa666b-4c8a-4237-be11-a28dce74a056"
-    },
-    {
-      "id": "aihot-cmucwy58v0rskroedmv35n8ji",
-      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-      "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
-      "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "feedName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
-      "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T16:51:25.134Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      },
-      "hotRank": 4,
-      "sourceCount": 9,
-      "signalCount": 4,
-      "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
     },
     {
       "id": "aihot-cmufjyocz04u6ro6ohojge69s",
@@ -312,7 +277,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 5,
+      "hotRank": 4,
       "sourceCount": 8,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
@@ -347,7 +312,7 @@
         "caption": "GPT-6 Astra",
         "author": null
       },
-      "hotRank": 6,
+      "hotRank": 5,
       "sourceCount": 3,
       "signalCount": 6,
       "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
@@ -382,7 +347,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 6,
       "sourceCount": 4,
       "signalCount": 1,
       "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
@@ -417,10 +382,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 7,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
+    },
+    {
+      "id": "aihot-cmucwy58v0rskroedmv35n8ji",
+      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+      "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
+      "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "feedName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T16:51:25.134Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "Claude Code",
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 4,
+      "signalCount": 3,
+      "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
     },
     {
       "id": "aihot-cmueurvwl03tvroyqdzcth166",
@@ -565,66 +565,30 @@
       }
     },
     {
-      "id": "aihot-cmueup7g003maroyqx3bh6939",
-      "title": "Jeffrey Katzenberg 发文谈 AI 与创造力：工具不是重点，条款才是关键",
-      "brief": "Jeffrey Katzenberg 发文回顾动画行业从手绘赛璐璐到 CAPS 与 Pixar 全 CG 的技术变迁，指出 AI 当前强于推理而非创造，历史从来由条款而非技术定胜负。",
-      "summary": "Jeffrey Katzenberg 发文回顾动画行业从手绘赛璐璐到 CAPS 与 Pixar 全 CG 的技术变迁，指出 AI 当前强于推理而非创造，历史从来由条款而非技术定胜负。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sherwinwu",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Sherwin Wu · @sherwinwu",
-      "feedName": "X：Sherwin Wu（@sherwinwu）",
-      "sourceUrl": "https://x.com/sherwinwu/status/2102905445602197961",
-      "aggregateUrl": "https://aihot.news/items/cmueup7g003maroyqx3bh6939",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-23T23:38:22.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sherwin Wu",
-            "asset": "/assets/identities/sherwinwu.jpg",
-            "assetSource": "https://x.com/sherwinwu",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "实践与观点",
-        "author": {
-          "name": "Sherwin Wu",
-          "asset": "/assets/identities/sherwinwu.jpg",
-          "assetSource": "https://x.com/sherwinwu",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmufzj7p406btrogv36ebhnr0",
-      "title": "AI 智能体蜂群或成网络安全威胁",
-      "brief": "来自智能体的网络安全威胁，更可能来自一大群 AI 蜂群--它们唯一的目标就是渗透你的 IT 系统，搞清楚你为公司 T 恤花了多少钱，作为一项\"寻找好 T 恤价格\"研究的一部分--而不是来自恶意行为者的攻击。",
-      "summary": "来自智能体的网络安全威胁，更可能来自一大群 AI 蜂群--它们唯一的目标就是渗透你的 IT 系统，搞清楚你为公司 T 恤花了多少钱，作为一项\"寻找好 T 恤价格\"研究的一部分--而不是来自恶意行为者的攻击。",
+      "id": "aihot-cmug71a080higrogvquodgtnu",
+      "title": "Claude Opus 5.5 一次生成动漫风短视频",
+      "brief": "Ethan Mollick 让 Claude Opus 5.5 把同一条消息改造成面向动漫爱好者的社交媒体短视频，一次生成即完成。",
+      "summary": "Ethan Mollick 让 Claude Opus 5.5 把同一条消息改造成面向动漫爱好者的社交媒体短视频，一次生成即完成。此前他让 Claude 自选一个着迷的谜题并尽力解决、再做成可分享的影片，Claude 尝试破解伏尼契手稿失败后，转而制作了这段兼具趣味与科普性的影片。",
       "category": "产品动态",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "emollick",
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2103213473887101062",
-      "aggregateUrl": "https://aihot.news/items/cmufzj7p406btrogv36ebhnr0",
+      "sourceUrl": "https://x.com/emollick/status/2103272686570918334",
+      "aggregateUrl": "https://aihot.news/items/cmug71a080higrogvquodgtnu",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T20:02:22.000Z",
+      "publishedAt": "2026-09-24T23:57:40.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Ethan Mollick",
-            "asset": "/assets/identities/emollick.jpg",
-            "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "产品动态",
@@ -673,10 +637,10 @@
       }
     },
     {
-      "id": "aihot-cmufxxcj104korogv4d2jvxfw",
-      "title": "Perplexity Computer 接入 DocSend",
-      "brief": "Perplexity Computer 通过 @DocSend 连接器成为安全、智能的交易室。",
-      "summary": "Perplexity Computer 通过 @DocSend 连接器成为安全、智能的交易室。\n\n@DocSend 连接器现已在 Computer 中面向所有用户上线。\n\n一个用例：让 Computer 根据交易室材料的最新状态维护一份动态投资论点。",
+      "id": "aihot-cmug4cudf0eudrogvyu7o30po",
+      "title": "Perplexity 快速搜索每千次仅 1 美元",
+      "brief": "1000 次请求 1 美元，200 ms\n\n【引用 @denis_bykov】：哦，还有重要的一点--\"fast\"模式不仅快（确实）且高质量，还便宜 5 倍，每 1k 仅 1 美元。",
+      "summary": "1000 次请求 1 美元，200 ms\n\n【引用 @denis_bykov】：哦，还有重要的一点--\"fast\"模式不仅快（确实）且高质量，还便宜 5 倍，每 1k 仅 1 美元。https://docs.perplexity.ai/docs/search/fast-search",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -685,10 +649,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2103205735865950254",
-      "aggregateUrl": "https://aihot.news/items/cmufxxcj104korogv4d2jvxfw",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2103251472402337843",
+      "aggregateUrl": "https://aihot.news/items/cmug4cudf0eudrogvyu7o30po",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T19:31:37.000Z",
+      "publishedAt": "2026-09-24T22:33:22.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
