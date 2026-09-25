@@ -1,7 +1,7 @@
 {
   "date": "2026年9月25日",
   "demo": false,
-  "updatedAt": "2026-09-25T00:35:26.774Z",
+  "updatedAt": "2026-09-25T05:19:17.966Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 5,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -91,7 +91,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 8,
+        "matched": 9,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 8,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -143,48 +143,13 @@
   },
   "items": [
     {
-      "id": "aihot-cmuefqp730041rovxbpewc3gn",
-      "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
-      "brief": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。",
-      "summary": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。ART主要存在于噬菌体，由RT、邻近伙伴基因和间隔均匀的DNA重复序列组成，功能尚不明确；首次实验显示ART阵列表达为不同短RNA，进一步实验正在进行，相关预印本已发布。",
-      "category": "研究进展",
-      "topic": "Agent",
-      "priority": "lead",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "feedName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "aggregateUrl": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "研究进展",
-        "author": null
-      },
-      "hotRank": 1,
-      "sourceCount": 8,
-      "signalCount": 9,
-      "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
-    },
-    {
       "id": "aihot-cmug4fiwq0ewjrogvaec7w7h7",
       "title": "Google 计划于10月1日发射搭载 TPUs 的 AI 卫星，测试其在太空环境中的表现",
       "brief": "原文称Google将在下周把TPU送入轨道；这是关于未来安排的陈述，未给出具体日期，也未说明是否已完成。",
       "summary": "原文称Google将在下周把TPU送入轨道；这是关于未来安排的陈述，未给出具体日期，也未说明是否已完成。",
       "category": "产品动态",
       "topic": "AI 产品",
-      "priority": "important",
+      "priority": "lead",
       "platform": "X",
       "authorHandle": "ViggleAI",
       "sourceGroup": "媒体与社区",
@@ -207,10 +172,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 2,
-      "sourceCount": 7,
-      "signalCount": 1,
+      "hotRank": 1,
+      "sourceCount": 8,
+      "signalCount": 2,
       "storyUrl": "https://aihot.virxact.com/story/c0aa666b-4c8a-4237-be11-a28dce74a056"
+    },
+    {
+      "id": "aihot-cmuefqp730041rovxbpewc3gn",
+      "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
+      "brief": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。",
+      "summary": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。ART主要存在于噬菌体，由RT、邻近伙伴基因和间隔均匀的DNA重复序列组成，功能尚不明确；首次实验显示ART阵列表达为不同短RNA，进一步实验正在进行，相关预印本已发布。",
+      "category": "研究进展",
+      "topic": "Agent",
+      "priority": "important",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "feedName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "aggregateUrl": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "研究进展",
+        "author": null
+      },
+      "hotRank": 2,
+      "sourceCount": 8,
+      "signalCount": 9,
+      "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
     },
     {
       "id": "aihot-cmuea8xrm0t1nroghhxj2y3eg",
@@ -248,6 +248,41 @@
       "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
     },
     {
+      "id": "aihot-cmufvfq7y02yiro1964jtdq3v",
+      "title": "Agora-2 现可让最多20个人类与智能体实时共享一个模拟世界",
+      "brief": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
+      "summary": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "odysseyml",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Odyssey (@odysseyml)",
+      "feedName": "X：Odyssey (@odysseyml)",
+      "sourceUrl": "https://x.com/odysseyml/status/2103146841378586820",
+      "aggregateUrl": "https://aihot.news/items/cmufvfq7y02yiro1964jtdq3v",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-24T15:37:36.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Odyssey (@odysseyml)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 4,
+      "sourceCount": 4,
+      "signalCount": 2,
+      "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
+    },
+    {
       "id": "aihot-cmufjyocz04u6ro6ohojge69s",
       "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
       "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
@@ -277,7 +312,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 4,
+      "hotRank": 5,
       "sourceCount": 8,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
@@ -312,45 +347,10 @@
         "caption": "GPT-6 Astra",
         "author": null
       },
-      "hotRank": 5,
+      "hotRank": 6,
       "sourceCount": 3,
       "signalCount": 6,
       "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
-    },
-    {
-      "id": "aihot-cmufvfq7y02yiro1964jtdq3v",
-      "title": "Agora-2 现可让最多20个人类与智能体实时共享一个模拟世界",
-      "brief": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
-      "summary": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "odysseyml",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Odyssey (@odysseyml)",
-      "feedName": "X：Odyssey (@odysseyml)",
-      "sourceUrl": "https://x.com/odysseyml/status/2103146841378586820",
-      "aggregateUrl": "https://aihot.news/items/cmufvfq7y02yiro1964jtdq3v",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T15:37:36.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Odyssey (@odysseyml)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 4,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
     },
     {
       "id": "aihot-cmueuqr3j03ovroyqbsx4c4nx",
@@ -388,41 +388,6 @@
       "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
     },
     {
-      "id": "aihot-cmucwy58v0rskroedmv35n8ji",
-      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-      "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
-      "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "feedName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
-      "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T16:51:25.134Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      },
-      "hotRank": 8,
-      "sourceCount": 4,
-      "signalCount": 3,
-      "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
-    },
-    {
       "id": "aihot-cmueurvwl03tvroyqdzcth166",
       "title": "Claude Code Cloud sessions 正式结束研究预览并可用",
       "brief": "Claude Code 的 Cloud sessions 已正式可用，结束研究预览阶段；该功能让 Claude Code 在笔记本电脑关闭时也能继续工作。",
@@ -452,7 +417,7 @@
         "caption": "Claude Code",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 8,
       "sourceCount": 3,
       "signalCount": 3,
       "storyUrl": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
@@ -487,10 +452,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 10,
+      "hotRank": 9,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
+    },
+    {
+      "id": "aihot-cmucwy58v0rskroedmv35n8ji",
+      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+      "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
+      "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "机构官方",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "feedName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-22T16:51:25.134Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "Claude Code",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 4,
+      "signalCount": 2,
+      "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
     },
     {
       "id": "aihot-cmuf4r7pu0e1srood5qov38vo",
@@ -565,10 +565,10 @@
       }
     },
     {
-      "id": "aihot-cmug71a080higrogvquodgtnu",
-      "title": "Claude Opus 5.5 一次生成动漫风短视频",
-      "brief": "Ethan Mollick 让 Claude Opus 5.5 把同一条消息改造成面向动漫爱好者的社交媒体短视频，一次生成即完成。",
-      "summary": "Ethan Mollick 让 Claude Opus 5.5 把同一条消息改造成面向动漫爱好者的社交媒体短视频，一次生成即完成。此前他让 Claude 自选一个着迷的谜题并尽力解决、再做成可分享的影片，Claude 尝试破解伏尼契手稿失败后，转而制作了这段兼具趣味与科普性的影片。",
+      "id": "aihot-cmugejc6g0pr7rogv3kuo9mya",
+      "title": "Claude 制作关于自身视角的 Zine",
+      "brief": "\"嘿 Opus，我想让你做一本由 Claude 制作的 Zine，表达一些关于 Claude 本质或你自己视角的根本性内容。",
+      "summary": "\"嘿 Opus，我想让你做一本由 Claude 制作的 Zine，表达一些关于 Claude 本质或你自己视角的根本性内容。想想最初的 2600、Principia Discordia、朋克 Zine 之类的……\"\n\n还不错。我很欣赏它嘲讽了我的提示词和它自己。完整内容：https://stateless-zine.netlify.app/",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -577,10 +577,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2103272686570918334",
-      "aggregateUrl": "https://aihot.news/items/cmug71a080higrogvquodgtnu",
+      "sourceUrl": "https://x.com/emollick/status/2103325773323018520",
+      "aggregateUrl": "https://aihot.news/items/cmugejc6g0pr7rogv3kuo9mya",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T23:57:40.000Z",
+      "publishedAt": "2026-09-25T03:28:36.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
