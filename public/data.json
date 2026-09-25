@@ -1,7 +1,7 @@
 {
   "date": "2026年9月25日",
   "demo": false,
-  "updatedAt": "2026-09-25T10:16:37.819Z",
+  "updatedAt": "2026-09-25T15:19:28.918Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 5,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -318,6 +318,41 @@
       "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
     },
     {
+      "id": "aihot-cmugxssng1h79rogvb7o30o9u",
+      "title": "宣布 Copilot 迄今最大更新，将 Autopilot、Code、Home 和 Office 整合在一起，并可在 Teams 中调用 Copilot",
+      "brief": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。",
+      "summary": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。该应用设Home、Code、Autopilot三个标签：Home整合Copilot Chat与Cowork并计划加入Today功能，Code可创建和分享云托管内部应用，Autopilot作为新增“数字同事”提供云端持续运行能力。微软对Cowork、Code和Autopilot采用按用量计费；普通Copilot订阅许可包含Chat及Word、Excel、PowerPoint、Outlook、Teams中的Copilot。Home和Code将在未来数周向Frontier计划推出，Code也将在今年晚些时候面向Microsoft 365 Premium和Pro订阅者预览，Autopilot将于本月晚些时候进入私人预览。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "The Verge：AI（RSS）",
+      "feedName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "aggregateUrl": "https://aihot.news/items/cmugxssng1h79rogvb7o30o9u",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "GitHub",
+            "asset": "/assets/identities/github.jpg",
+            "assetSource": "https://x.com/github",
+            "tone": "#e7e6ec"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 6,
+      "sourceCount": 3,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
+    },
+    {
       "id": "aihot-cmueup7f003m7royq61z93ftn",
       "title": "ChatGPT Voice升级为运行GPT-6 Astra、Sol、Luna模型并首次可访问邮件、日历和Slack插件",
       "brief": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。",
@@ -347,7 +382,7 @@
         "caption": "GPT-6 Astra",
         "author": null
       },
-      "hotRank": 6,
+      "hotRank": 7,
       "sourceCount": 3,
       "signalCount": 6,
       "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
@@ -382,7 +417,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 8,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
@@ -417,7 +452,7 @@
         "caption": "Claude Code",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 9,
       "sourceCount": 3,
       "signalCount": 3,
       "storyUrl": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
@@ -452,45 +487,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 9,
+      "hotRank": 10,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
-    },
-    {
-      "id": "aihot-cmuezhuvu04gurood4k1lbwkp",
-      "title": "Google DeepMind 首席 Koray Kavukcuoglu 称 Gemini 4 已进入后训练并接近发布，希望早于年底推出早期后训练版本",
-      "brief": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
-      "summary": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "rohanpaul_ai",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2102965226937434614",
-      "aggregateUrl": "https://aihot.news/items/cmuezhuvu04gurood4k1lbwkp",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T03:35:55.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 10,
-      "sourceCount": 5,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/d1ae40f5-d5f1-46b7-a3c9-2d23ed9a9fbc"
     },
     {
       "id": "aihot-cmugmc7w011h2rogvt26lfg5h",
@@ -565,22 +565,22 @@
       }
     },
     {
-      "id": "aihot-cmufpzblx03xrroxz01r9jcv7",
-      "title": "Gallup 民调：全球 72% 对 AI 感到好奇兴奋",
-      "brief": "Peter Steinberger 引用 Nick Gillespie 分享的 Gallup 民调数据：平均 72% 的受访者对 AI 感到好奇、开心或兴奋，41% 感到担忧、难过或愤怒，并调侃阿富汗对 AI 的热情比我们还高。",
-      "summary": "Peter Steinberger 引用 Nick Gillespie 分享的 Gallup 民调数据：平均 72% 的受访者对 AI 感到好奇、开心或兴奋，41% 感到担忧、难过或愤怒，并调侃阿富汗对 AI 的热情比我们还高。该数据由 NYT 的 Damien Cave 引用，NYT 未直接链接 Gallup 原文。",
+      "id": "aihot-cmuh27e3a06jurolzyub136r4",
+      "title": "Microsoft Autopilot 预览版面向首批客户推出，基于 OpenClaw 构建",
+      "brief": "Microsoft 宣布 Autopilot 预览版向首批客户推出，定位为在你不在时也能持续工作的持久、主动的个人智能体，由原 First Scout 团队负责构建。",
+      "summary": "Microsoft 宣布 Autopilot 预览版向首批客户推出，定位为在你不在时也能持续工作的持久、主动的个人智能体，由原 First Scout 团队负责构建。",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "steipete",
       "sourceGroup": "产品与工程",
       "sourceName": "Peter Steinberger · @steipete",
       "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2103150483062014436",
-      "aggregateUrl": "https://aihot.news/items/cmufpzblx03xrroxz01r9jcv7",
+      "sourceUrl": "https://x.com/steipete/status/2103491173927272531",
+      "aggregateUrl": "https://aihot.news/items/cmuh27e3a06jurolzyub136r4",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T15:52:04.000Z",
+      "publishedAt": "2026-09-25T14:25:51.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -601,11 +601,11 @@
       }
     },
     {
-      "id": "aihot-cmugejc6g0pr7rogv3kuo9mya",
-      "title": "Claude 制作关于自身视角的 Zine",
-      "brief": "\"嘿 Opus，我想让你做一本由 Claude 制作的 Zine，表达一些关于 Claude 本质或你自己视角的根本性内容。",
-      "summary": "\"嘿 Opus，我想让你做一本由 Claude 制作的 Zine，表达一些关于 Claude 本质或你自己视角的根本性内容。想想最初的 2600、Principia Discordia、朋克 Zine 之类的……\"\n\n还不错。我很欣赏它嘲讽了我的提示词和它自己。完整内容：https://stateless-zine.netlify.app/",
-      "category": "产品动态",
+      "id": "aihot-cmuh244eo06fhrolzxwthf21c",
+      "title": "Ethan Mollick 评 Microsoft Copilot 大更新：模型路由是隐患",
+      "brief": "Ethan Mollick 转发并评论 Satya Nadella 宣布的 Copilot 史上最大更新，包括 Autopilot、Code、Home、Office 四部分，以及在 Teams 中调用 Copilot 和主动呈现 M365 重要信息的 Today 功能。",
+      "summary": "Ethan Mollick 转发并评论 Satya Nadella 宣布的 Copilot 史上最大更新，包括 Autopilot、Code、Home、Office 四部分，以及在 Teams 中调用 Copilot 和主动呈现 M365 重要信息的 Today 功能。",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -613,21 +613,27 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2103325773323018520",
-      "aggregateUrl": "https://aihot.news/items/cmugejc6g0pr7rogv3kuo9mya",
+      "sourceUrl": "https://x.com/emollick/status/2103485857147617393",
+      "aggregateUrl": "https://aihot.news/items/cmuh244eo06fhrolzxwthf21c",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-25T03:28:36.000Z",
+      "publishedAt": "2026-09-25T14:04:43.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
+          },
+          {
+            "name": "GitHub",
+            "asset": "/assets/identities/github.jpg",
+            "assetSource": "https://x.com/github",
+            "tone": "#e7e6ec"
           }
         ],
-        "caption": "产品动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -637,22 +643,22 @@
       }
     },
     {
-      "id": "aihot-cmufwpu7i032hrogvz718i543",
-      "title": "Pareto 26.9 混合模型智能体评测并列第一",
-      "brief": "Pareto 26.9 通过将请求分发至多个前沿与开源模型并保留最佳答案，在 30 项智能体任务评测中与 GPT-6 Astra 并列第一，每成功任务成本约为后者 1/3，且完成任务速度快于 DeepSeek V4 Pro 和 GLM 5.3 Flash。",
-      "summary": "Pareto 26.9 通过将请求分发至多个前沿与开源模型并保留最佳答案，在 30 项智能体任务评测中与 GPT-6 Astra 并列第一，每成功任务成本约为后者 1/3，且完成任务速度快于 DeepSeek V4 Pro 和 GLM 5.3 Flash。同一评测中，GPT-6 Sol 得分追平 Opus 5.5，速度更快，每成功任务成本约为其 1/4。",
-      "category": "模型进展",
-      "topic": "Agent",
+      "id": "aihot-cmuh3l6op07serolzqdhmbe2t",
+      "title": "Humyn Labs 推出 BRIDGE ASR 2.0 语音识别基准",
+      "brief": "Humyn Labs 推出 BRIDGE ASR 2.0，用真实双人对话评测 23 个语音识别模型，覆盖 18 种印度语言及西班牙语、葡萄牙语、越南语。",
+      "summary": "Humyn Labs 推出 BRIDGE ASR 2.0，用真实双人对话评测 23 个语音识别模型，覆盖 18 种印度语言及西班牙语、葡萄牙语、越南语。其核心指标 code-switch F1 检验句中混用的英文词是否保持英文，排行榜支持按语言和指标筛选，方法论与评测数据公开。",
+      "category": "产品动态",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2103199158207484164",
-      "aggregateUrl": "https://aihot.news/items/cmufwpu7i032hrogvz718i543",
+      "sourceUrl": "https://x.com/omarsar0/status/2103496639855865871",
+      "aggregateUrl": "https://aihot.news/items/cmuh3l6op07serolzqdhmbe2t",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T19:05:29.000Z",
+      "publishedAt": "2026-09-25T14:47:34.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -663,7 +669,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -673,10 +679,10 @@
       }
     },
     {
-      "id": "aihot-cmug4cudf0eudrogvyu7o30po",
-      "title": "Perplexity 快速搜索每千次仅 1 美元",
-      "brief": "1000 次请求 1 美元，200 ms\n\n【引用 @denis_bykov】：哦，还有重要的一点--\"fast\"模式不仅快（确实）且高质量，还便宜 5 倍，每 1k 仅 1 美元。",
-      "summary": "1000 次请求 1 美元，200 ms\n\n【引用 @denis_bykov】：哦，还有重要的一点--\"fast\"模式不仅快（确实）且高质量，还便宜 5 倍，每 1k 仅 1 美元。https://docs.perplexity.ai/docs/search/fast-search",
+      "id": "aihot-cmuh2nepn06z6rolzg93m663l",
+      "title": "Perplexity Astra 编排电脑玩游戏",
+      "brief": "用 Astra 作为编排器在电脑上玩游戏。",
+      "summary": "用 Astra 作为编排器在电脑上玩游戏。效果非常好。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -685,10 +691,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2103251472402337843",
-      "aggregateUrl": "https://aihot.news/items/cmug4cudf0eudrogvyu7o30po",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2103490798214123684",
+      "aggregateUrl": "https://aihot.news/items/cmuh2nepn06z6rolzg93m663l",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T22:33:22.000Z",
+      "publishedAt": "2026-09-25T14:24:21.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -697,6 +703,12 @@
             "asset": "/assets/identities/perplexity_ai.jpg",
             "assetSource": "https://x.com/perplexity_ai",
             "tone": "#dcebea"
+          },
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "产品动态",
