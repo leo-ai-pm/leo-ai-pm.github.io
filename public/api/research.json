@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-25T19:19:21.026Z",
-      "lastSuccessAt": "2026-09-25T19:19:21.026Z",
-      "nextCheckAt": 1790367561026,
+      "checkedAt": "2026-09-25T22:29:12.603Z",
+      "lastSuccessAt": "2026-09-25T22:29:12.603Z",
+      "nextCheckAt": 1790378952603,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-25T19:19:21.027Z",
-      "lastSuccessAt": "2026-09-25T19:19:21.027Z",
-      "nextCheckAt": 1790367561027,
       "status": "ok",
+      "nextCheckAt": 1790378952604,
+      "checkedAt": "2026-09-25T22:29:12.604Z",
+      "lastSuccessAt": "2026-09-25T22:29:12.604Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-25T19:19:21.028Z",
-      "lastSuccessAt": "2026-09-25T19:19:21.028Z",
-      "nextCheckAt": 1790367561028,
+      "checkedAt": "2026-09-25T22:29:12.605Z",
+      "lastSuccessAt": "2026-09-25T22:29:12.605Z",
+      "nextCheckAt": 1790378952605,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790367561328,
-      "checkedAt": "2026-09-25T19:19:21.328Z",
-      "lastSuccessAt": "2026-09-25T19:19:21.328Z",
+      "nextCheckAt": 1790378952823,
+      "checkedAt": "2026-09-25T22:29:12.823Z",
+      "lastSuccessAt": "2026-09-25T22:29:12.823Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790367561026,
+  "nextCheckAt": 1790378952603,
   "refreshing": false,
   "items": [
     {
@@ -254,46 +254,6 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/token-forecaster",
-      "title": "Token Forecaster",
-      "summary": "Forecast how long an LLM reply will run, before Enter",
-      "publishedAt": "2026-09-25T04:40:57.000Z",
-      "url": "https://www.producthunt.com/products/token-forecaster",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/token-forecaster",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Forecast how long an LLM reply will run, before Enter",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "ph:https://www.producthunt.com/products/jango",
       "title": "Jango",
       "summary": "Test multi-user apps with AI agents that act like real users",
@@ -367,6 +327,46 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Edit videos by chatting with your timeline",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/once-ui-for-figma",
+      "title": "Once UI 2.0",
+      "summary": "Builds consistent React apps for developers and AI agents",
+      "publishedAt": "2026-09-24T23:05:08.000Z",
+      "url": "https://www.producthunt.com/products/once-ui-for-figma",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/once-ui-for-figma",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Builds consistent React apps for developers and AI agents",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

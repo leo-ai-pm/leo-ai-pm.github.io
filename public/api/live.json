@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月26日",
     "demo": false,
-    "updatedAt": "2026-09-25T19:19:40.757Z",
+    "updatedAt": "2026-09-25T22:29:25.459Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 7,
+      "latestCount": 8,
       "archiveCount": 1
     },
     "sources": {
@@ -74,7 +74,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 5,
+          "matched": 7,
           "status": "本次收录"
         },
         {
@@ -110,8 +110,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "gdb",
@@ -128,7 +128,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 4,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -214,22 +214,22 @@
         "storyUrl": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
       },
       {
-        "id": "aihot-cmuefqp730041rovxbpewc3gn",
-        "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
-        "brief": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。",
-        "summary": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。ART主要存在于噬菌体，由RT、邻近伙伴基因和间隔均匀的DNA重复序列组成，功能尚不明确；首次实验显示ART阵列表达为不同短RNA，进一步实验正在进行，相关预印本已发布。",
-        "category": "研究进展",
-        "topic": "Agent",
+        "id": "aihot-cmuh6zqk806pfro55mzok81xo",
+        "title": "美国联邦上诉法院小组周五以2比1维持五角大楼对Anthropic的供应链风险列名，并推迟裁决立即生效",
+        "brief": "华盛顿特区联邦上诉法院小组周五以2比1维持五角大楼对Anthropic的供应链风险列名，驳回Anthropic关于国防部禁用其Claude模型属武断、未经授权且违宪的主张。",
+        "summary": "华盛顿特区联邦上诉法院小组周五以2比1维持五角大楼对Anthropic的供应链风险列名，驳回Anthropic关于国防部禁用其Claude模型属武断、未经授权且违宪的主张。多数意见认为国防部有充分依据认定继续将Claude整合进其信息系统构成国家安全风险；法院推迟裁决立即生效，以便Anthropic申请重审或向最高法院寻求救济。Anthropic表示不同意，并称另一联邦法院已认定平行列名违法。",
+        "category": "产品动态",
+        "topic": "AI 产品",
         "priority": "important",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "feedName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "aggregateUrl": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "aggregateUrl": "https://aihot.news/items/cmuh6zqk806pfro55mzok81xo",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T16:00:00.000Z",
+        "publishedAt": "2026-09-25T15:29:25.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -240,13 +240,48 @@
               "tone": "#eddfd0"
             }
           ],
-          "caption": "研究进展",
+          "caption": "产品动态",
           "author": null
         },
         "hotRank": 3,
-        "sourceCount": 5,
-        "signalCount": 6,
-        "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
+        "sourceCount": 4,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/c9cf5db4-0072-401f-928b-d5b3f93fdd5e"
+      },
+      {
+        "id": "aihot-cmufjyocz04u6ro6ohojge69s",
+        "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
+        "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+        "summary": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "sourceUrl": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+        "aggregateUrl": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-24T12:27:50.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 4,
+        "sourceCount": 8,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
       },
       {
         "id": "aihot-cmuh2q4570711rolzphy03l0t",
@@ -278,7 +313,7 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 5,
         "sourceCount": 2,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/d7237818-cfb3-4919-adbd-310a3e787937"
@@ -313,45 +348,80 @@
           "caption": "Claude Code",
           "author": null
         },
-        "hotRank": 5,
+        "hotRank": 6,
         "sourceCount": 4,
         "signalCount": 1,
         "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
       },
       {
-        "id": "aihot-cmufjyocz04u6ro6ohojge69s",
-        "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
-        "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
-        "summary": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
-        "category": "产品动态",
+        "id": "aihot-cmuefqp730041rovxbpewc3gn",
+        "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
+        "brief": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。",
+        "summary": "Anthropic分享早期结果：Claude agents在21小时内以约950个agent和2.1亿token搜索DNA数据库，汇集超过20万个逆转录酶（RT），筛选出3,500个新候选系统并最终分析20个最受关注候选，发现一种与DNA重复阵列相关的新型酶系统；Anthropic进一步分析和实验室测试后将其命名为array-associated reverse transcriptases（ART）。ART主要存在于噬菌体，由RT、邻近伙伴基因和间隔均匀的DNA重复序列组成，功能尚不明确；首次实验显示ART阵列表达为不同短RNA，进一步实验正在进行，相关预印本已发布。",
+        "category": "研究进展",
         "topic": "Agent",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "sourceUrl": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-        "aggregateUrl": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+        "sourceGroup": "机构官方",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "feedName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "aggregateUrl": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T12:27:50.000Z",
+        "publishedAt": "2026-09-22T16:00:00.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
-          "caption": "产品动态",
+          "caption": "研究进展",
           "author": null
         },
-        "hotRank": 6,
-        "sourceCount": 8,
+        "hotRank": 7,
+        "sourceCount": 3,
+        "signalCount": 5,
+        "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
+      },
+      {
+        "id": "aihot-cmuh9l75q02v8ro3brr0wv9o8",
+        "title": "Anthropic 已推出面向研究人员的 AI 工作区 Claude Science 以支持实验室计划",
+        "brief": "在@4gravitons提出“仅用学术可合理获取的算力预算”挑战后，Claude在Claude Science中根据一个描述九圈问题的提示，基本无监督运行数天，用Dixon及其同事开发的方法解决了平面N=4超杨-米尔斯模型的九圈散射振幅计算，总成本约几千美元；Dixon独立验证了结果。",
+        "summary": "在@4gravitons提出“仅用学术可合理获取的算力预算”挑战后，Claude在Claude Science中根据一个描述九圈问题的提示，基本无监督运行数天，用Dixon及其同事开发的方法解决了平面N=4超杨-米尔斯模型的九圈散射振幅计算，总成本约几千美元；Dixon独立验证了结果。此前该模型的八圈纪录由SLAC的Lance Dixon及其合作者保持。",
+        "category": "研究进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "AnthropicAI",
+        "sourceGroup": "机构官方",
+        "sourceName": "X：Anthropic (@AnthropicAI)",
+        "feedName": "X：Anthropic (@AnthropicAI)",
+        "sourceUrl": "https://x.com/AnthropicAI/status/2103541577083719888",
+        "aggregateUrl": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-25T17:46:08.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "研究进展",
+          "author": null
+        },
+        "hotRank": 8,
+        "sourceCount": 3,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+        "storyUrl": "https://aihot.virxact.com/story/1c8a62f9-28a0-4404-ba0d-e13e6b728c9e"
       },
       {
         "id": "aihot-cmufvfq7y02yiro1964jtdq3v",
@@ -383,45 +453,10 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 9,
         "sourceCount": 4,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
-      },
-      {
-        "id": "aihot-cmugxssng1h79rogvb7o30o9u",
-        "title": "微软将AI个人助手Scout更名为Autopilot并作为新版Copilot体验的一部分推出",
-        "brief": "微软在发布新版Copilot应用时，将今年Build上发布的AI个人助手Scout正式更名为Autopilot，并把它作为Copilot体验的新增“数字同事”。",
-        "summary": "微软在发布新版Copilot应用时，将今年Build上发布的AI个人助手Scout正式更名为Autopilot，并把它作为Copilot体验的新增“数字同事”。Autopilot此前最初以桌面应用形式提供，现在是可在用户租户内持续运行的云端个人AI助手，拥有独立身份、记忆、计算机和工作区，可执行监控Teams频道、重复性工作任务和跟进等任务，并强调企业级权限、审计和治理。用户可为其命名和设置外观，其用量按使用量计费，并将在本月晚些时候进入私人预览。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Verge：AI（RSS）",
-        "feedName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-        "aggregateUrl": "https://aihot.news/items/cmugxssng1h79rogvb7o30o9u",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T12:00:00.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "GitHub",
-              "asset": "/assets/identities/github.jpg",
-              "assetSource": "https://x.com/github",
-              "tone": "#e7e6ec"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 8,
-        "sourceCount": 3,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/b7813122-1cce-46c6-97e4-6fa234127fc2"
       },
       {
         "id": "aihot-cmucrnucw0ln4roedrq1tusia",
@@ -453,45 +488,10 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 9,
+        "hotRank": 10,
         "sourceCount": 4,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/3ebe955f-c18f-4d6a-a576-553f9f51f263"
-      },
-      {
-        "id": "aihot-cmufyiehi0532rogvkbiwraol",
-        "title": "DHH在Rails World 2026开幕主题演讲中讲解AI代理时代，并说明37signals停止手写代码、Rails约定优于配置为何契合当下及完全乐观论调",
-        "brief": "DHH在奥斯汀的Rails World 2026发表开幕主题演讲，主题涉及AI代理时代，解释37signals为何已在手写代码上“放下铅笔”、Rails的约定优于配置为何适合当下，以及为何唯一可做的事是完全乐观。",
-        "summary": "DHH在奥斯汀的Rails World 2026发表开幕主题演讲，主题涉及AI代理时代，解释37signals为何已在手写代码上“放下铅笔”、Rails的约定优于配置为何适合当下，以及为何唯一可做的事是完全乐观。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "sourceUrl": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-        "aggregateUrl": "https://aihot.news/items/cmufyiehi0532rogvkbiwraol",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T19:26:32.723Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Hacker News 热门（buzzing.cc 中文翻译）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 10,
-        "sourceCount": 3,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/1ebac922-4f91-4569-957a-db7a55211e5a"
       },
       {
         "id": "aihot-cmugmc7w011h2rogvt26lfg5h",
@@ -566,22 +566,22 @@
         }
       },
       {
-        "id": "aihot-cmuh27e3a06jurolzyub136r4",
-        "title": "Microsoft Autopilot 预览版面向首批客户推出，基于 OpenClaw 构建",
-        "brief": "Microsoft 宣布 Autopilot 预览版向首批客户推出，定位为在你不在时也能持续工作的持久、主动的个人智能体，由原 First Scout 团队负责构建。",
-        "summary": "Microsoft 宣布 Autopilot 预览版向首批客户推出，定位为在你不在时也能持续工作的持久、主动的个人智能体，由原 First Scout 团队负责构建。",
+        "id": "aihot-cmuhf2ayr03i4rojnfgpqgg0x",
+        "title": "Muse 遭遇想象力瓶颈",
+        "brief": "这听起来完全就是 8 个月前那波 OC 炒作周期。",
+        "summary": "这听起来完全就是 8 个月前那波 OC 炒作周期。\n\n最大的限制不是技术，而是想象力和创造力。\n\n【引用 @Crussian17】：CNBC 民调：\"人们用 muse，对头两三件事特别兴奋，然后就不知道还能拿它做什么了，热情逐渐消退。\"\n\n不得不说，这也是我目前的体验。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "steipete",
         "sourceGroup": "产品与工程",
         "sourceName": "Peter Steinberger · @steipete",
         "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2103491173927272531",
-        "aggregateUrl": "https://aihot.news/items/cmuh27e3a06jurolzyub136r4",
+        "sourceUrl": "https://x.com/steipete/status/2103580623239827941",
+        "aggregateUrl": "https://aihot.news/items/cmuhf2ayr03i4rojnfgpqgg0x",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T14:25:51.000Z",
+        "publishedAt": "2026-09-25T20:21:17.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -602,22 +602,22 @@
         }
       },
       {
-        "id": "aihot-cmuh7h0qs0751ro5587xrp7a9",
-        "title": "智能体应叫\"flocks\"而非\"swarm\"",
-        "brief": "我说得没错，他们应该叫它 flocks of agents。",
-        "summary": "我说得没错，他们应该叫它 flocks of agents。没人想 invoke 一个 swarm，但显然它就是 swarm。\n\n【引用 @emollick】：行吧，如果你需要它有趣一点，就叫它 flock of agents 或 pride of agents 或 party of agents 之类的。就是别叫 swarm、murder 或 horde。我现在甚至愿意接受一个 OpenAI 式的名字：GPT-multiagent-5.2HighCodex-ProMax-Latest 可以当官方术语。",
+        "id": "aihot-cmuhh48gr05l0rojnn1hx2t1r",
+        "title": "Ethan Mollick：别把输入当产出",
+        "brief": "撇开其他一切不谈，这混淆了输入与产出。",
+        "summary": "撇开其他一切不谈，这混淆了输入与产出。你要的是高效完成任务，而不是只盯着输入（公司若只专注于最小化 token 成本，也有类似风险）\n\n而且\"保持提示词简短\"对于获得好的 AI 产出是个糟糕的建议。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "emollick",
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2103525721289486777",
-        "aggregateUrl": "https://aihot.news/items/cmuh7h0qs0751ro5587xrp7a9",
+        "sourceUrl": "https://x.com/emollick/status/2103593301240602645",
+        "aggregateUrl": "https://aihot.news/items/cmuhh48gr05l0rojnn1hx2t1r",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T16:43:08.000Z",
+        "publishedAt": "2026-09-25T21:11:40.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -638,11 +638,11 @@
         }
       },
       {
-        "id": "aihot-cmuh7vel607jjro55rdyowkhu",
-        "title": "DSPy 3.4.0 原生支持 Jev 与 System One 模型",
-        "brief": "DSPy 3.4.0 发布，原生支持 Jev 和 System One 模型，并新增专为置信度校准输出设计的优化器 ReAnchor。",
-        "summary": "DSPy 3.4.0 发布，原生支持 Jev 和 System One 模型，并新增专为置信度校准输出设计的优化器 ReAnchor。Elvis Saravia 称用 Jev 构建自定义 harness 在 guardrails、路由和验证器上效果良好，并看好其在技能结构化、工具调用、动态工作流与上下文工程中的应用。",
-        "category": "模型进展",
+        "id": "aihot-cmuhilhcs0ahbrojntvlypdr2",
+        "title": "Jev-Mem：受 System-One/System-Two 启发的智能体记忆架构",
+        "brief": "Jev-Mem 是一种受 System-One/System-Two 认知启发的新型智能体记忆架构，将记忆构建提速 6.6 倍、查询延迟降低 36.7%。",
+        "summary": "Jev-Mem 是一种受 System-One/System-Two 认知启发的新型智能体记忆架构，将记忆构建提速 6.6 倍、查询延迟降低 36.7%。在 LoCoMo 上，它以 LLM 评审 0.777 的总分较最强基线相对提升 11.0%，记忆构建耗时 158 秒，平均查询延迟降至 0.93 秒。",
+        "category": "产品动态",
         "topic": "Agent",
         "priority": "normal",
         "platform": "X",
@@ -650,10 +650,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2103529287676567888",
-        "aggregateUrl": "https://aihot.news/items/cmuh7vel607jjro55rdyowkhu",
+        "sourceUrl": "https://x.com/omarsar0/status/2103603205821366311",
+        "aggregateUrl": "https://aihot.news/items/cmuhilhcs0ahbrojntvlypdr2",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T16:57:18.000Z",
+        "publishedAt": "2026-09-25T21:51:01.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -664,11 +664,53 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
             "assetSource": "https://x.com/omarsar0",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-cmuhd4pc909lwro3bb3fcr4ep",
+        "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+        "brief": "Sam Altman 亲自回应 OpenAI 智能体训练期联网行为审查的进展、严重度排序与披露原则，提供了官方一手口径。",
+        "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+        "category": "实践与观点",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sama",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Sam Altman · @sama",
+        "feedName": "X：Sam Altman (@sama)",
+        "sourceUrl": "https://x.com/sama/status/2103567198690349362",
+        "aggregateUrl": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-25T19:27:57.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Sam Altman",
+              "asset": "/assets/identities/sama.jpg",
+              "assetSource": "https://x.com/sama",
+              "tone": "#e9e4dc"
+            },
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Sam Altman",
+            "asset": "/assets/identities/sama.jpg",
+            "assetSource": "https://x.com/sama",
             "tone": "#e9e4dc"
           }
         }
@@ -792,8 +834,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-25T19:19:40.757Z",
-    "nextCheckAt": 1790364280757,
+    "checkedAt": "2026-09-25T22:29:25.459Z",
+    "nextCheckAt": 1790375665459,
     "intervalSeconds": 300,
     "message": ""
   }
