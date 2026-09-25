@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年9月25日",
+    "date": "2026年9月26日",
     "demo": false,
-    "updatedAt": "2026-09-25T15:19:28.918Z",
+    "updatedAt": "2026-09-25T19:19:40.757Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -74,7 +74,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 3,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 6,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -128,7 +128,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 6,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -137,7 +137,7 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         }
       ]
@@ -174,9 +174,44 @@
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 8,
+        "sourceCount": 9,
         "signalCount": 3,
         "storyUrl": "https://aihot.virxact.com/story/c0aa666b-4c8a-4237-be11-a28dce74a056"
+      },
+      {
+        "id": "aihot-cmugxssng1h79rogvb7o30o9u",
+        "title": "宣布 Copilot 迄今最大更新，将 Autopilot、Code、Home 和 Office 整合在一起，并可在 Teams 中调用 Copilot",
+        "brief": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。",
+        "summary": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。该应用设Home、Code、Autopilot三个标签：Home整合Copilot Chat与Cowork并计划加入Today功能，Code可创建和分享云托管内部应用，Autopilot作为新增“数字同事”提供云端持续运行能力。微软对Cowork、Code和Autopilot采用按用量计费；普通Copilot订阅许可包含Chat及Word、Excel、PowerPoint、Outlook、Teams中的Copilot。Home和Code将在未来数周向Frontier计划推出，Code也将在今年晚些时候面向Microsoft 365 Premium和Pro订阅者预览，Autopilot将于本月晚些时候进入私人预览。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "important",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "The Verge：AI（RSS）",
+        "feedName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+        "aggregateUrl": "https://aihot.news/items/cmugxssng1h79rogvb7o30o9u",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-25T12:00:00.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "GitHub",
+              "asset": "/assets/identities/github.jpg",
+              "assetSource": "https://x.com/github",
+              "tone": "#e7e6ec"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 2,
+        "sourceCount": 7,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
       },
       {
         "id": "aihot-cmuefqp730041rovxbpewc3gn",
@@ -208,45 +243,80 @@
           "caption": "研究进展",
           "author": null
         },
-        "hotRank": 2,
-        "sourceCount": 9,
-        "signalCount": 9,
+        "hotRank": 3,
+        "sourceCount": 5,
+        "signalCount": 6,
         "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
       },
       {
-        "id": "aihot-cmuea8xrm0t1nroghhxj2y3eg",
-        "title": "Google发布Gemini 3.8 Flash TTS语音合成模型",
-        "brief": "Google宣布推出Gemini 3.8 Flash TTS，面向深度创意指导与角色设计，支持用自然语言提示从头创建定制声音、逐行指导表演，覆盖100多种语言，并提供带同意验证、SynthID水印和C2PA凭证的声音复刻。",
-        "summary": "Google宣布推出Gemini 3.8 Flash TTS，面向深度创意指导与角色设计，支持用自然语言提示从头创建定制声音、逐行指导表演，覆盖100多种语言，并提供带同意验证、SynthID水印和C2PA凭证的声音复刻。该模型在Hume AI Voice Design Benchmark获总榜第一（71.4），在Voice Arena盲测多语种中居前列。发布即面向开发者开放Gemini API和Google AI Studio；通过API进入Gemini Enterprise的企业渠道为即将推出，同时面向所有用户登陆Gemini Notebook；声音重混音功能亦为即将推出。",
-        "category": "模型进展",
+        "id": "aihot-cmuh2q4570711rolzphy03l0t",
+        "title": "LongCat-2.5-Preview现已上线，含1.6T参数、约48B活跃参数、1M token上下文窗口，原生多模态",
+        "brief": "LongCat-2.5-Preview现已上线。",
+        "summary": "LongCat-2.5-Preview现已上线。原文称其有1.6T参数、约48B活跃参数和1M token上下文窗口，并是原生多模态，面向长周期任务；可从终端、浏览器到GUI、电子表格和设计工具等场景使用。用户现可通过API或Chat尝试。",
+        "category": "产品动态",
         "topic": "AI 产品",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "feedName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-        "aggregateUrl": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "Meituan_LongCat",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：美团 LongCat (@Meituan_LongCat)",
+        "feedName": "X：美团 LongCat (@Meituan_LongCat)",
+        "sourceUrl": "https://x.com/Meituan_LongCat/status/2103488918788411728",
+        "aggregateUrl": "https://aihot.news/items/cmuh2q4570711rolzphy03l0t",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T15:25:14.000Z",
+        "publishedAt": "2026-09-25T14:16:53.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "X：美团 LongCat (@Meituan_LongCat)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": null
         },
-        "hotRank": 3,
-        "sourceCount": 11,
+        "hotRank": 4,
+        "sourceCount": 2,
         "signalCount": 2,
-        "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
+        "storyUrl": "https://aihot.virxact.com/story/d7237818-cfb3-4919-adbd-310a3e787937"
+      },
+      {
+        "id": "aihot-cmucwy58v0rskroedmv35n8ji",
+        "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+        "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
+        "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "feedName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+        "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-22T16:51:25.134Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "Claude Code",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 4,
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
       },
       {
         "id": "aihot-cmufjyocz04u6ro6ohojge69s",
@@ -278,7 +348,7 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 6,
         "sourceCount": 8,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
@@ -313,18 +383,18 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 5,
+        "hotRank": 7,
         "sourceCount": 4,
         "signalCount": 2,
         "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
       },
       {
         "id": "aihot-cmugxssng1h79rogvb7o30o9u",
-        "title": "宣布 Copilot 迄今最大更新，将 Autopilot、Code、Home 和 Office 整合在一起，并可在 Teams 中调用 Copilot",
-        "brief": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。",
-        "summary": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。该应用设Home、Code、Autopilot三个标签：Home整合Copilot Chat与Cowork并计划加入Today功能，Code可创建和分享云托管内部应用，Autopilot作为新增“数字同事”提供云端持续运行能力。微软对Cowork、Code和Autopilot采用按用量计费；普通Copilot订阅许可包含Chat及Word、Excel、PowerPoint、Outlook、Teams中的Copilot。Home和Code将在未来数周向Frontier计划推出，Code也将在今年晚些时候面向Microsoft 365 Premium和Pro订阅者预览，Autopilot将于本月晚些时候进入私人预览。",
+        "title": "微软将AI个人助手Scout更名为Autopilot并作为新版Copilot体验的一部分推出",
+        "brief": "微软在发布新版Copilot应用时，将今年Build上发布的AI个人助手Scout正式更名为Autopilot，并把它作为Copilot体验的新增“数字同事”。",
+        "summary": "微软在发布新版Copilot应用时，将今年Build上发布的AI个人助手Scout正式更名为Autopilot，并把它作为Copilot体验的新增“数字同事”。Autopilot此前最初以桌面应用形式提供，现在是可在用户租户内持续运行的云端个人AI助手，拥有独立身份、记忆、计算机和工作区，可执行监控Teams频道、重复性工作任务和跟进等任务，并强调企业级权限、审计和治理。用户可为其命名和设置外观，其用量按使用量计费，并将在本月晚些时候进入私人预览。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
@@ -348,68 +418,33 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 6,
+        "hotRank": 8,
         "sourceCount": 3,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
+        "storyUrl": "https://aihot.virxact.com/story/b7813122-1cce-46c6-97e4-6fa234127fc2"
       },
       {
-        "id": "aihot-cmueup7f003m7royq61z93ftn",
-        "title": "ChatGPT Voice升级为运行GPT-6 Astra、Sol、Luna模型并首次可访问邮件、日历和Slack插件",
-        "brief": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。",
-        "summary": "ChatGPT Voice现已支持使用电子邮件、日历和Slack等插件，并由GPT-6 Astra、Sol和Luna模型驱动；还可在网页和移动端的ChatGPT Work中使用，通过语音创建文档、演示文稿、网站和电子表格或处理浏览器中的复杂任务。该功能今日随最新版应用在全球范围推出。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "OpenAI",
-        "sourceGroup": "机构官方",
-        "sourceName": "X：OpenAI (@OpenAI)",
-        "feedName": "X：OpenAI (@OpenAI)",
-        "sourceUrl": "https://x.com/OpenAI/status/2102808325742322002",
-        "aggregateUrl": "https://aihot.news/items/cmueup7f003m7royq61z93ftn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T17:12:27.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "GPT-6 Astra",
-          "author": null
-        },
-        "hotRank": 7,
-        "sourceCount": 3,
-        "signalCount": 6,
-        "storyUrl": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
-      },
-      {
-        "id": "aihot-cmueuqr3j03ovroyqbsx4c4nx",
-        "title": "Meta在Connect大会发布AI可穿戴设备Muse Charm，尚未发货，计划12月假期前发货",
-        "brief": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
-        "summary": "Meta发布名为Muse Charm的新型AI Pin硬件设备，允许用户随时随地与其Muse代理进行交流。",
+        "id": "aihot-cmucrnucw0ln4roedrq1tusia",
+        "title": "Meta 9月8日上线AI智能体Muse，基础版免费并提供每月20/100美元订阅，目前仅面向美加用户",
+        "brief": "Meta于9月8日上线AI智能体Muse，可代替用户发送电子邮件、预订旅行，还能完成出售汽车等交易；基础版本免费，另有每月20美元或100美元两档订阅方案。",
+        "summary": "Meta于9月8日上线AI智能体Muse，可代替用户发送电子邮件、预订旅行，还能完成出售汽车等交易；基础版本免费，另有每月20美元或100美元两档订阅方案。Apptopia数据显示，Muse目前仅面向美国和加拿大用户开放，上线前12天累计下载量达280万次；若按与ChatGPT上线前12天相同的口径比较，Muse下载量为180万次，高于ChatGPT同期的130万次。",
         "category": "产品动态",
-        "topic": "AI 产品",
+        "topic": "Agent",
         "priority": "normal",
-        "platform": "X",
-        "authorHandle": "testingcatalog",
+        "platform": "网站",
+        "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "X：Testing Catalog (@testingcatalog)",
-        "feedName": "X：Testing Catalog (@testingcatalog)",
-        "sourceUrl": "https://x.com/testingcatalog/status/2102913764248998337",
-        "aggregateUrl": "https://aihot.news/items/cmueuqr3j03ovroyqbsx4c4nx",
+        "sourceName": "IT之家（RSS）",
+        "feedName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/005/972.htm",
+        "aggregateUrl": "https://aihot.news/items/cmucrnucw0ln4roedrq1tusia",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T00:11:26.000Z",
+        "publishedAt": "2026-09-22T14:11:24.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "X：Testing Catalog (@testingcatalog)",
+              "name": "IT之家（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -418,68 +453,33 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 8,
-        "sourceCount": 6,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
-      },
-      {
-        "id": "aihot-cmueurvwl03tvroyqdzcth166",
-        "title": "Claude Code Cloud sessions 正式结束研究预览并可用",
-        "brief": "Claude Code 的 Cloud sessions 已正式可用，结束研究预览阶段；该功能让 Claude Code 在笔记本电脑关闭时也能继续工作。",
-        "summary": "Claude Code 的 Cloud sessions 已正式可用，结束研究预览阶段；该功能让 Claude Code 在笔记本电脑关闭时也能继续工作。",
-        "category": "研究进展",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "ClaudeDevs",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Claude Devs (@ClaudeDevs)",
-        "feedName": "X：Claude Devs (@ClaudeDevs)",
-        "sourceUrl": "https://x.com/ClaudeDevs/status/2102871550974427462",
-        "aggregateUrl": "https://aihot.news/items/cmueurvwl03tvroyqdzcth166",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T21:23:41.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "Claude Code",
-          "author": null
-        },
         "hotRank": 9,
-        "sourceCount": 3,
-        "signalCount": 3,
-        "storyUrl": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
+        "sourceCount": 4,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/3ebe955f-c18f-4d6a-a576-553f9f51f263"
       },
       {
-        "id": "aihot-cmuf3ztrm09q7roodokekt1hr",
-        "title": "Meta Muse agent 正在准备集成 Telegram 和 Messenger，并可能集成 Signal",
-        "brief": "finkd发布Muse Realtime Avatar，这是一项实时化身技术，可将Muse Realtime Voice转化为富有表现力、可交互的数字人形象，并在Muse中开启以实时对话为起点的全新交互。",
-        "summary": "finkd发布Muse Realtime Avatar，这是一项实时化身技术，可将Muse Realtime Voice转化为富有表现力、可交互的数字人形象，并在Muse中开启以实时对话为起点的全新交互。发布与Meta Connect相关。",
+        "id": "aihot-cmufyiehi0532rogvkbiwraol",
+        "title": "DHH在Rails World 2026开幕主题演讲中讲解AI代理时代，并说明37signals停止手写代码、Rails约定优于配置为何契合当下及完全乐观论调",
+        "brief": "DHH在奥斯汀的Rails World 2026发表开幕主题演讲，主题涉及AI代理时代，解释37signals为何已在手写代码上“放下铅笔”、Rails的约定优于配置为何适合当下，以及为何唯一可做的事是完全乐观。",
+        "summary": "DHH在奥斯汀的Rails World 2026发表开幕主题演讲，主题涉及AI代理时代，解释37signals为何已在手写代码上“放下铅笔”、Rails的约定优于配置为何适合当下，以及为何唯一可做的事是完全乐观。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
-        "platform": "X",
-        "authorHandle": "AIatMeta",
+        "platform": "网站",
+        "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "X：AI at Meta (@AIatMeta)",
-        "feedName": "X：AI at Meta (@AIatMeta)",
-        "sourceUrl": "https://x.com/AIatMeta/status/2102997291732766943",
-        "aggregateUrl": "https://aihot.news/items/cmuf3ztrm09q7roodokekt1hr",
+        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "sourceUrl": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+        "aggregateUrl": "https://aihot.news/items/cmufyiehi0532rogvkbiwraol",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T05:43:20.000Z",
+        "publishedAt": "2026-09-24T19:26:32.723Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "X：AI at Meta (@AIatMeta)",
+              "name": "Hacker News 热门（buzzing.cc 中文翻译）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -489,9 +489,9 @@
           "author": null
         },
         "hotRank": 10,
-        "sourceCount": 6,
+        "sourceCount": 3,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
+        "storyUrl": "https://aihot.virxact.com/story/1ebac922-4f91-4569-957a-db7a55211e5a"
       },
       {
         "id": "aihot-cmugmc7w011h2rogvt26lfg5h",
@@ -602,22 +602,22 @@
         }
       },
       {
-        "id": "aihot-cmuh244eo06fhrolzxwthf21c",
-        "title": "Ethan Mollick 评 Microsoft Copilot 大更新：模型路由是隐患",
-        "brief": "Ethan Mollick 转发并评论 Satya Nadella 宣布的 Copilot 史上最大更新，包括 Autopilot、Code、Home、Office 四部分，以及在 Teams 中调用 Copilot 和主动呈现 M365 重要信息的 Today 功能。",
-        "summary": "Ethan Mollick 转发并评论 Satya Nadella 宣布的 Copilot 史上最大更新，包括 Autopilot、Code、Home、Office 四部分，以及在 Teams 中调用 Copilot 和主动呈现 M365 重要信息的 Today 功能。",
-        "category": "实践与观点",
-        "topic": "AI 产品",
+        "id": "aihot-cmuh7h0qs0751ro5587xrp7a9",
+        "title": "智能体应叫\"flocks\"而非\"swarm\"",
+        "brief": "我说得没错，他们应该叫它 flocks of agents。",
+        "summary": "我说得没错，他们应该叫它 flocks of agents。没人想 invoke 一个 swarm，但显然它就是 swarm。\n\n【引用 @emollick】：行吧，如果你需要它有趣一点，就叫它 flock of agents 或 pride of agents 或 party of agents 之类的。就是别叫 swarm、murder 或 horde。我现在甚至愿意接受一个 OpenAI 式的名字：GPT-multiagent-5.2HighCodex-ProMax-Latest 可以当官方术语。",
+        "category": "产品动态",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "emollick",
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2103485857147617393",
-        "aggregateUrl": "https://aihot.news/items/cmuh244eo06fhrolzxwthf21c",
+        "sourceUrl": "https://x.com/emollick/status/2103525721289486777",
+        "aggregateUrl": "https://aihot.news/items/cmuh7h0qs0751ro5587xrp7a9",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T14:04:43.000Z",
+        "publishedAt": "2026-09-25T16:43:08.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -626,15 +626,9 @@
               "asset": "/assets/identities/emollick.jpg",
               "assetSource": "https://x.com/emollick",
               "tone": "#e9e4dc"
-            },
-            {
-              "name": "GitHub",
-              "asset": "/assets/identities/github.jpg",
-              "assetSource": "https://x.com/github",
-              "tone": "#e7e6ec"
             }
           ],
-          "caption": "实践与观点",
+          "caption": "产品动态",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -644,22 +638,22 @@
         }
       },
       {
-        "id": "aihot-cmuh3l6op07serolzqdhmbe2t",
-        "title": "Humyn Labs 推出 BRIDGE ASR 2.0 语音识别基准",
-        "brief": "Humyn Labs 推出 BRIDGE ASR 2.0，用真实双人对话评测 23 个语音识别模型，覆盖 18 种印度语言及西班牙语、葡萄牙语、越南语。",
-        "summary": "Humyn Labs 推出 BRIDGE ASR 2.0，用真实双人对话评测 23 个语音识别模型，覆盖 18 种印度语言及西班牙语、葡萄牙语、越南语。其核心指标 code-switch F1 检验句中混用的英文词是否保持英文，排行榜支持按语言和指标筛选，方法论与评测数据公开。",
-        "category": "产品动态",
-        "topic": "AI 产品",
+        "id": "aihot-cmuh7vel607jjro55rdyowkhu",
+        "title": "DSPy 3.4.0 原生支持 Jev 与 System One 模型",
+        "brief": "DSPy 3.4.0 发布，原生支持 Jev 和 System One 模型，并新增专为置信度校准输出设计的优化器 ReAnchor。",
+        "summary": "DSPy 3.4.0 发布，原生支持 Jev 和 System One 模型，并新增专为置信度校准输出设计的优化器 ReAnchor。Elvis Saravia 称用 Jev 构建自定义 harness 在 guardrails、路由和验证器上效果良好，并看好其在技能结构化、工具调用、动态工作流与上下文工程中的应用。",
+        "category": "模型进展",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "omarsar0",
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2103496639855865871",
-        "aggregateUrl": "https://aihot.news/items/cmuh3l6op07serolzqdhmbe2t",
+        "sourceUrl": "https://x.com/omarsar0/status/2103529287676567888",
+        "aggregateUrl": "https://aihot.news/items/cmuh7vel607jjro55rdyowkhu",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T14:47:34.000Z",
+        "publishedAt": "2026-09-25T16:57:18.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -670,7 +664,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "产品动态",
+          "caption": "模型进展",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
@@ -722,10 +716,10 @@
         }
       },
       {
-        "id": "aihot-cmufq9gbi049hroxzodra6smx",
-        "title": "Hugging Face 联创 Thomas Wolf：智能价格下降可能是宇宙历史尺度上最深刻的事件之一",
-        "brief": "Hugging Face 联创 Thomas Wolf 认为，智能价格持续下降可能是宇宙历史尺度上最深刻的事件之一。",
-        "summary": "Hugging Face 联创 Thomas Wolf 认为，智能价格持续下降可能是宇宙历史尺度上最深刻的事件之一。他引用 Epoch AI 数据：自 2023 年以来，同等性能下 AI 成本每季度下降约 47%，比 DNA 测序快 4 倍、比算力快 6 倍、比锂电池快 18 倍、比电力（至 1973 年）快 54 倍。",
+        "id": "aihot-cmuh9zndt05zmro3bu9m3pvwp",
+        "title": "Opus 5.5 将 Google Doc 变成视频",
+        "brief": "好吧，什么鬼。",
+        "summary": "好吧，什么鬼。刚才这还只是一份干巴巴的 Google Doc\n\n我把我的 Open Alignment 头脑风暴 gdoc 给了 Opus 5.5，让它做个视频。现在我想把我写过的每一份文档都做成视频哈哈哈",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -734,18 +728,18 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2103148544982999044",
-        "aggregateUrl": "https://aihot.news/items/cmufq9gbi049hroxzodra6smx",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2103545533474206118",
+        "aggregateUrl": "https://aihot.news/items/cmuh9zndt05zmro3bu9m3pvwp",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-24T15:44:22.000Z",
+        "publishedAt": "2026-09-25T18:01:51.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "产品动态",
@@ -798,8 +792,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-25T15:19:28.918Z",
-    "nextCheckAt": 1790349868918,
+    "checkedAt": "2026-09-25T19:19:40.757Z",
+    "nextCheckAt": 1790364280757,
     "intervalSeconds": 300,
     "message": ""
   }

@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-25T15:19:08.182Z",
-      "lastSuccessAt": "2026-09-25T15:19:08.182Z",
-      "nextCheckAt": 1790353148182,
+      "checkedAt": "2026-09-25T19:19:21.026Z",
+      "lastSuccessAt": "2026-09-25T19:19:21.026Z",
+      "nextCheckAt": 1790367561026,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-25T15:19:08.183Z",
-      "lastSuccessAt": "2026-09-25T15:19:08.183Z",
-      "nextCheckAt": 1790353148183,
+      "checkedAt": "2026-09-25T19:19:21.027Z",
+      "lastSuccessAt": "2026-09-25T19:19:21.027Z",
+      "nextCheckAt": 1790367561027,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-25T15:19:08.184Z",
-      "lastSuccessAt": "2026-09-25T15:19:08.184Z",
-      "nextCheckAt": 1790353148184,
+      "checkedAt": "2026-09-25T19:19:21.028Z",
+      "lastSuccessAt": "2026-09-25T19:19:21.028Z",
+      "nextCheckAt": 1790367561028,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-25T15:19:08.530Z",
-      "lastSuccessAt": "2026-09-25T15:19:08.530Z",
-      "nextCheckAt": 1790353148530,
       "status": "ok",
+      "nextCheckAt": 1790367561328,
+      "checkedAt": "2026-09-25T19:19:21.328Z",
+      "lastSuccessAt": "2026-09-25T19:19:21.328Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790353148182,
+  "nextCheckAt": 1790367561026,
   "refreshing": false,
   "items": [
     {
@@ -135,7 +135,7 @@
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6470225.html",
-      "title": "体验 PixVerse R2 后，我发现世界模型的产品流程已经有所变化",
+      "title": "体验 PixVerse R2：世界模型的产品流程已经变了",
       "summary": "PixVerse R2 将 AI 视频生成从“提交任务”推向“实时交互”，但十几秒的响应延迟让用户陷入等待与操作的模糊地带。本文从产品体验视角出发，探讨世界模型下反馈机制、状态记忆与用户控制感的设计挑战，为生成式产品的交互设计提供新思路。 PixVerse R2：实时世界模型生成的世界，你可以实时走入、操控、并通过自然语言实时改变画面和剧情。我体验了一下，点开 PixVerse R2 的一个世界，等了大概7-8秒，画面出现。然后按下方向",
       "publishedAt": "2026-09-25T10:35:47.000Z",
       "url": "https://www.woshipm.com/ai/6470225.html",
@@ -214,11 +214,11 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6469962.html",
-      "title": "做 Agent 半年才醒悟：对话框只是入口，真正的核心是任务闭环",
-      "summary": "过去一年身边很多团队都在冲 Agent，踩完坑后看到一个扎心的现状：九成产品只是套了对话壳的升级版聊天机器人，加了工具调用、写满自主执行，却没有进度、没有留存、没有结果交付。文章复盘这四大通病，并给出一套可复用的五层任务闭环模型。 过去一年，身边很多团队都在冲 AI Agent，踩完项目坑后我发现一个很扎心的现状： 90% 的 Agent 产品，只是「套了对话壳的升级版聊天机器人」。 界面换成智能体、加了工具调用、写满自主执行，但核心逻",
-      "publishedAt": "2026-09-25T07:10:17.000Z",
-      "url": "https://www.woshipm.com/ai/6469962.html",
+      "id": "woshipm:https://www.woshipm.com/pd/6468264.html",
+      "title": "支付宝鱼来拆解：C端消费Agent如何跨越「信任鸿沟」？",
+      "summary": "当AI Agent从对话框走向真实消费，效率与信任的矛盾便浮出水面。本文以支付宝「鱼来」为样本，拆解生活消费类Agent的市场分层、商业模式与产品三问，剖析自动化执行中「太保守没价值，太自动不敢用」的底层困局，为C端Agent产品经理提供一份清醒的避坑指南。 很多人只看见 AI 炫酷的能力，却忽略了一个产品底层矛盾：自动化程度越高，效率越强，但用户的信任风险同步指数级放大；自动化做的太保守，又会直接消解 Agent 全部价值。太保守，没",
+      "publishedAt": "2026-09-25T08:31:05.000Z",
+      "url": "https://www.woshipm.com/pd/6468264.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -242,11 +242,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6469962.html",
+      "sourceUrl": "https://www.woshipm.com/pd/6468264.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "过去一年身边很多团队都在冲 Agent，踩完坑后看到一个扎心的现状：九成产品只是套了对话壳的升级版聊天机器人，加了工具调用、写满自主执行，却没有进度、没有留存、没有结果交付。文章复盘这四大通病，并给出一套可复用的五层任务闭环模型。 过去一年，身边很多团队都在冲 AI Agent，踩完项目坑后我发现一个很扎心的现状： 90% 的 Agent 产品，只是「套了对话壳的升级版聊天机器人」。 界面换成智能体、加了工具调用、写满自主执行，但核心逻",
+      "brief": "当AI Agent从对话框走向真实消费，效率与信任的矛盾便浮出水面。本文以支付宝「鱼来」为样本，拆解生活消费类Agent的市场分层、商业模式与产品三问，剖析自动化执行中「太保守没价值，太自动不敢用」的底层困局，为C端Agent产品经理提供一份清醒的避坑指南。 很多人只看见 AI 炫酷的能力，却忽略了一个产品底层矛盾：自动化程度越高，效率越强，但用户的信任风险同步指数级放大；自动化做的太保守，又会直接消解 Agent 全部价值。太保守，没",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
