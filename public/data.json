@@ -1,7 +1,7 @@
 {
   "date": "2026年9月25日",
   "demo": false,
-  "updatedAt": "2026-09-25T05:19:17.966Z",
+  "updatedAt": "2026-09-25T10:16:37.819Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 6,
+    "latestCount": 7,
     "archiveCount": 1
   },
   "sources": {
@@ -55,8 +55,8 @@
         "group": "产品与工程",
         "focus": "AI 工程与开发者生态",
         "url": "https://x.com/swyx",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "simonw",
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -136,7 +136,7 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       }
     ]
@@ -174,7 +174,7 @@
       },
       "hotRank": 1,
       "sourceCount": 8,
-      "signalCount": 2,
+      "signalCount": 3,
       "storyUrl": "https://aihot.virxact.com/story/c0aa666b-4c8a-4237-be11-a28dce74a056"
     },
     {
@@ -208,7 +208,7 @@
         "author": null
       },
       "hotRank": 2,
-      "sourceCount": 8,
+      "sourceCount": 9,
       "signalCount": 9,
       "storyUrl": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
     },
@@ -248,41 +248,6 @@
       "storyUrl": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
     },
     {
-      "id": "aihot-cmufvfq7y02yiro1964jtdq3v",
-      "title": "Agora-2 现可让最多20个人类与智能体实时共享一个模拟世界",
-      "brief": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
-      "summary": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "odysseyml",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Odyssey (@odysseyml)",
-      "feedName": "X：Odyssey (@odysseyml)",
-      "sourceUrl": "https://x.com/odysseyml/status/2103146841378586820",
-      "aggregateUrl": "https://aihot.news/items/cmufvfq7y02yiro1964jtdq3v",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T15:37:36.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Odyssey (@odysseyml)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 4,
-      "sourceCount": 4,
-      "signalCount": 2,
-      "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
-    },
-    {
       "id": "aihot-cmufjyocz04u6ro6ohojge69s",
       "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
       "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
@@ -312,10 +277,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 5,
+      "hotRank": 4,
       "sourceCount": 8,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+    },
+    {
+      "id": "aihot-cmufvfq7y02yiro1964jtdq3v",
+      "title": "Agora-2 现可让最多20个人类与智能体实时共享一个模拟世界",
+      "brief": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
+      "summary": "下一代多智能体世界模型 Agora-2 发布，支持最多20名人类与智能体在共享环境中实时模拟交互；多人研究预览版已开放试用。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "odysseyml",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Odyssey (@odysseyml)",
+      "feedName": "X：Odyssey (@odysseyml)",
+      "sourceUrl": "https://x.com/odysseyml/status/2103146841378586820",
+      "aggregateUrl": "https://aihot.news/items/cmufvfq7y02yiro1964jtdq3v",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-24T15:37:36.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Odyssey (@odysseyml)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 5,
+      "sourceCount": 4,
+      "signalCount": 2,
+      "storyUrl": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
     },
     {
       "id": "aihot-cmueup7f003m7royq61z93ftn",
@@ -458,45 +458,45 @@
       "storyUrl": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
     },
     {
-      "id": "aihot-cmucwy58v0rskroedmv35n8ji",
-      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-      "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
-      "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
+      "id": "aihot-cmuezhuvu04gurood4k1lbwkp",
+      "title": "Google DeepMind 首席 Koray Kavukcuoglu 称 Gemini 4 已进入后训练并接近发布，希望早于年底推出早期后训练版本",
+      "brief": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
+      "summary": "Google DeepMind 首席 Koray Kavukcuoglu 表示，Gemini 4 目前处于后训练阶段并接近发布；他告诉 The Information，希望比年底“早得多”推出一个早期后训练版本，随后快速迭代。",
       "category": "产品动态",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "机构官方",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "feedName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
-      "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+      "platform": "X",
+      "authorHandle": "rohanpaul_ai",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2102965226937434614",
+      "aggregateUrl": "https://aihot.news/items/cmuezhuvu04gurood4k1lbwkp",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-22T16:51:25.134Z",
+      "publishedAt": "2026-09-24T03:35:55.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
-        "caption": "Claude Code",
+        "caption": "产品动态",
         "author": null
       },
       "hotRank": 10,
-      "sourceCount": 4,
-      "signalCount": 2,
-      "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/d1ae40f5-d5f1-46b7-a3c9-2d23ed9a9fbc"
     },
     {
-      "id": "aihot-cmuf4r7pu0e1srood5qov38vo",
-      "title": "DevDay 下周二举行",
-      "brief": "等不及下周二的 DevDay 了。",
-      "summary": "等不及下周二的 DevDay 了。\n\n有一些非常有趣的东西，但也有很多应该改变你工作方式的内容。这是我们最有野心的一次冲刺，Astra 真的在如此短的时间内让新事物成为可能。",
+      "id": "aihot-cmugmc7w011h2rogvt26lfg5h",
+      "title": "DevDay 周二见",
+      "brief": "最近这里有点安静，因为内部 Slack 最近太好笑了，也因为我们都全力投入 DevDay。",
+      "summary": "最近这里有点安静，因为内部 Slack 最近太好笑了，也因为我们都全力投入 DevDay。周二会很有趣。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -505,10 +505,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2102996313780736363",
-      "aggregateUrl": "https://aihot.news/items/cmuf4r7pu0e1srood5qov38vo",
+      "sourceUrl": "https://x.com/thsottiaux/status/2103375711797211460",
+      "aggregateUrl": "https://aihot.news/items/cmugmc7w011h2rogvt26lfg5h",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T05:39:27.000Z",
+      "publishedAt": "2026-09-25T06:47:03.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -524,6 +524,42 @@
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
           "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-cmugjtllt0v3krogvlsvqk6uz",
+      "title": "swyx 宣布 Latent Space 与 AINews 进入新阶段",
+      "brief": "swyx 宣布 Latent Space、AINews 及 swyx inc 进入下一阶段，并公布 AINews v3 计划、新站点规划，以及 @supabase 成为首个赞助商。",
+      "summary": "swyx 宣布 Latent Space、AINews 及 swyx inc 进入下一阶段，并公布 AINews v3 计划、新站点规划，以及 @supabase 成为首个赞助商。他称\"Scaling without Slop\"内容策略开始见效：YouTube 首个 10 万订阅用了 3 年，第二个 10 万仅用 1.2 个月，AEO/SEO/订阅等指标也有类似增长。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "swyx",
+      "sourceGroup": "产品与工程",
+      "sourceName": "swyx · @swyx",
+      "feedName": "X：swyx (@swyx)",
+      "sourceUrl": "https://x.com/swyx/status/2103361254433993165",
+      "aggregateUrl": "https://aihot.news/items/cmugjtllt0v3krogvlsvqk6uz",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-25T05:49:36.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "swyx",
+            "asset": "/assets/identities/swyx.jpg",
+            "assetSource": "https://x.com/swyx",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "swyx",
+          "asset": "/assets/identities/swyx.jpg",
+          "assetSource": "https://x.com/swyx",
           "tone": "#e9e4dc"
         }
       }

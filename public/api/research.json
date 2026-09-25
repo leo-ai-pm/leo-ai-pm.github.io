@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-25T05:18:53.406Z",
-      "lastSuccessAt": "2026-09-25T05:18:53.406Z",
-      "nextCheckAt": 1790317133406,
+      "checkedAt": "2026-09-25T10:16:17.500Z",
+      "lastSuccessAt": "2026-09-25T10:16:17.500Z",
+      "nextCheckAt": 1790334977500,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-25T05:18:53.407Z",
-      "lastSuccessAt": "2026-09-25T05:18:53.407Z",
-      "nextCheckAt": 1790317133407,
+      "checkedAt": "2026-09-25T10:16:17.501Z",
+      "lastSuccessAt": "2026-09-25T10:16:17.501Z",
+      "nextCheckAt": 1790334977501,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-25T05:18:53.409Z",
-      "lastSuccessAt": "2026-09-25T05:18:53.409Z",
-      "nextCheckAt": 1790317133409,
+      "checkedAt": "2026-09-25T10:16:17.502Z",
+      "lastSuccessAt": "2026-09-25T10:16:17.502Z",
+      "nextCheckAt": 1790334977502,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790317133613,
-      "checkedAt": "2026-09-25T05:18:53.613Z",
-      "lastSuccessAt": "2026-09-25T05:18:53.613Z",
+      "nextCheckAt": 1790334977858,
+      "checkedAt": "2026-09-25T10:16:17.858Z",
+      "lastSuccessAt": "2026-09-25T10:16:17.858Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,209 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790317133406,
+  "nextCheckAt": 1790334977500,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6470240.html",
+      "title": "扎克伯格谈Muse：个人Agent必须从预训练开始设计，虚拟机、记忆和权限系统是巨头的全栈护城河",
+      "summary": "Muse上线后，Meta久违地拥有了一款迅速出圈的AI产品。不到两周，它登上美国应用下载榜首。据Sensor Tower统计，截至9月22日，累计下载量已超过250万次。 为了让Agent真正替人行动，Meta给它配置了云端虚拟机。为了让用户敢把邮件、账户和私人信息交给它，又必须设计记忆、凭据存储和逐项授权的权限系统。扎克伯格认为，这些能力不能靠给现成模型增加一个产品界面完成；模型从预训练开始，就要学会理解个人目标，判断哪些信息可以使用",
+      "publishedAt": "2026-09-25T08:45:25.000Z",
+      "url": "https://www.woshipm.com/ai/6470240.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6470240.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Muse上线后，Meta久违地拥有了一款迅速出圈的AI产品。不到两周，它登上美国应用下载榜首。据Sensor Tower统计，截至9月22日，累计下载量已超过250万次。 为了让Agent真正替人行动，Meta给它配置了云端虚拟机。为了让用户敢把邮件、账户和私人信息交给它，又必须设计记忆、凭据存储和逐项授权的权限系统。扎克伯格认为，这些能力不能靠给现成模型增加一个产品界面完成；模型从预训练开始，就要学会理解个人目标，判断哪些信息可以使用",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6469962.html",
+      "title": "做 Agent 半年才醒悟：对话框只是入口，真正的核心是任务闭环",
+      "summary": "过去一年身边很多团队都在冲 Agent，踩完坑后看到一个扎心的现状：九成产品只是套了对话壳的升级版聊天机器人，加了工具调用、写满自主执行，却没有进度、没有留存、没有结果交付。文章复盘这四大通病，并给出一套可复用的五层任务闭环模型。 过去一年，身边很多团队都在冲 AI Agent，踩完项目坑后我发现一个很扎心的现状： 90% 的 Agent 产品，只是「套了对话壳的升级版聊天机器人」。 界面换成智能体、加了工具调用、写满自主执行，但核心逻",
+      "publishedAt": "2026-09-25T07:10:17.000Z",
+      "url": "https://www.woshipm.com/ai/6469962.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6469962.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "过去一年身边很多团队都在冲 Agent，踩完坑后看到一个扎心的现状：九成产品只是套了对话壳的升级版聊天机器人，加了工具调用、写满自主执行，却没有进度、没有留存、没有结果交付。文章复盘这四大通病，并给出一套可复用的五层任务闭环模型。 过去一年，身边很多团队都在冲 AI Agent，踩完项目坑后我发现一个很扎心的现状： 90% 的 Agent 产品，只是「套了对话壳的升级版聊天机器人」。 界面换成智能体、加了工具调用、写满自主执行，但核心逻",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/token-forecaster",
+      "title": "Token Forecaster",
+      "summary": "Forecast how long an LLM reply will run, before Enter",
+      "publishedAt": "2026-09-25T04:40:57.000Z",
+      "url": "https://www.producthunt.com/products/token-forecaster",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/token-forecaster",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Forecast how long an LLM reply will run, before Enter",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/jango",
+      "title": "Jango",
+      "summary": "Test multi-user apps with AI agents that act like real users",
+      "publishedAt": "2026-09-25T02:16:38.000Z",
+      "url": "https://www.producthunt.com/products/jango",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/jango",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Test multi-user apps with AI agents that act like real users",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/socialgpt",
+      "title": "SocialGPT",
+      "summary": "Edit videos by chatting with your timeline",
+      "publishedAt": "2026-09-25T00:50:36.000Z",
+      "url": "https://www.producthunt.com/products/socialgpt",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/socialgpt",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Edit videos by chatting with your timeline",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6470044.html",
       "title": "WorkBuddy，提个需求就能做产品了？",
@@ -131,87 +331,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6469837.html",
-      "title": "设计师自己做分析：我把8张竞品图丢给豆包工作",
-      "summary": "约 6200 人样本的报告显示，用 AI 处理本职之外任务的比例从 13.1% 涨到 25.9%。作者把 8 张同品类主图丢给豆包工作，让它逐图拆视觉要素、整成对比表格、画出频次图，再一键生成汇报 PPT。本文记录这条链每一步的准确度，以及设计师省下的时间。 前几天我刷到海外一份工作前沿报告：约6200名持续被跟踪的员工里，用AI处理本职之外任务的比例，从13.1%涨到了25.9%。 在国内的环境下辅助工作比较好的产品我觉得首先要说豆包",
-      "publishedAt": "2026-09-24T08:38:08.000Z",
-      "url": "https://www.woshipm.com/ai/6469837.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6469837.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "约 6200 人样本的报告显示，用 AI 处理本职之外任务的比例从 13.1% 涨到 25.9%。作者把 8 张同品类主图丢给豆包工作，让它逐图拆视觉要素、整成对比表格、画出频次图，再一键生成汇报 PPT。本文记录这条链每一步的准确度，以及设计师省下的时间。 前几天我刷到海外一份工作前沿报告：约6200名持续被跟踪的员工里，用AI处理本职之外任务的比例，从13.1%涨到了25.9%。 在国内的环境下辅助工作比较好的产品我觉得首先要说豆包",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/evaluating/6469834.html",
-      "title": "体验完Meta的Muse，原来这才是我们想要的AI助理",
-      "summary": "9 月 8 日发布，12 天约 280 万下载，Meta 的 Muse 被叫作美版豆包，但它的定位是 Personal AI Agent：记住偏好、连邮件日历、跑几小时到几天的任务。Meta 承认思路受了 OpenClaw 影响。本文讲清它把哪些老能力重新包了一遍。 AI助理开始进入日常。 这几天Meta的Muse火得有点夸张。 9月8日发布以后，它很快冲到美国App Store免费榜前列，并且发布 12 天后下载量已经达到约280万，",
-      "publishedAt": "2026-09-24T08:37:43.000Z",
-      "url": "https://www.woshipm.com/evaluating/6469834.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/evaluating/6469834.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "9 月 8 日发布，12 天约 280 万下载，Meta 的 Muse 被叫作美版豆包，但它的定位是 Personal AI Agent：记住偏好、连邮件日历、跑几小时到几天的任务。Meta 承认思路受了 OpenClaw 影响。本文讲清它把哪些老能力重新包了一遍。 AI助理开始进入日常。 这几天Meta的Muse火得有点夸张。 9月8日发布以后，它很快冲到美国App Store免费榜前列，并且发布 12 天后下载量已经达到约280万，",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/prime/story/home-made-beverages-5",
@@ -251,127 +371,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/floot",
-      "title": "Floot MCP",
-      "summary": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "publishedAt": "2026-09-23T20:54:45.000Z",
-      "url": "https://www.producthunt.com/products/floot",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/floot",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/bitrise",
-      "title": "Bitrise Build Hub",
-      "summary": "GitHub Actions runners that build 2x faster for your agents",
-      "publishedAt": "2026-09-23T19:34:15.000Z",
-      "url": "https://www.producthunt.com/products/bitrise",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/bitrise",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "GitHub Actions runners that build 2x faster for your agents",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
-      "title": "Gemini 3.8 text-to-speech models",
-      "summary": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS",
-      "publishedAt": "2026-09-23T19:11:12.000Z",
-      "url": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
