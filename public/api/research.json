@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-26T21:00:52.550Z",
-      "lastSuccessAt": "2026-09-26T21:00:52.550Z",
-      "nextCheckAt": 1790460052550,
+      "checkedAt": "2026-09-26T23:30:32.375Z",
+      "lastSuccessAt": "2026-09-26T23:30:32.375Z",
+      "nextCheckAt": 1790469032375,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1790460052551,
-      "checkedAt": "2026-09-26T21:00:52.551Z",
-      "lastSuccessAt": "2026-09-26T21:00:52.551Z",
+      "nextCheckAt": 1790469032376,
+      "checkedAt": "2026-09-26T23:30:32.376Z",
+      "lastSuccessAt": "2026-09-26T23:30:32.376Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-26T21:00:52.552Z",
-      "lastSuccessAt": "2026-09-26T21:00:52.552Z",
-      "nextCheckAt": 1790460052552,
+      "checkedAt": "2026-09-26T23:30:32.377Z",
+      "lastSuccessAt": "2026-09-26T23:30:32.377Z",
+      "nextCheckAt": 1790469032377,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790460052761,
-      "checkedAt": "2026-09-26T21:00:52.761Z",
-      "lastSuccessAt": "2026-09-26T21:00:52.761Z",
+      "nextCheckAt": 1790469032610,
+      "checkedAt": "2026-09-26T23:30:32.610Z",
+      "lastSuccessAt": "2026-09-26T23:30:32.610Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790460052550,
+  "nextCheckAt": 1790469032375,
   "refreshing": false,
   "items": [
     {
@@ -334,15 +334,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/jango",
-      "title": "Jango",
-      "summary": "Test multi-user apps with AI agents that act like real users",
-      "publishedAt": "2026-09-25T02:16:38.000Z",
-      "url": "https://www.producthunt.com/products/jango",
+      "id": "ph:https://www.producthunt.com/products/socialgpt",
+      "title": "SocialGPT",
+      "summary": "Edit videos by chatting with your timeline",
+      "publishedAt": "2026-09-25T00:50:36.000Z",
+      "url": "https://www.producthunt.com/products/socialgpt",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -362,11 +362,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/jango",
+      "sourceUrl": "https://www.producthunt.com/products/socialgpt",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Test multi-user apps with AI agents that act like real users",
+      "brief": "Edit videos by chatting with your timeline",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
