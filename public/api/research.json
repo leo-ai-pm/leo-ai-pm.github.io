@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-26T14:33:16.295Z",
-      "lastSuccessAt": "2026-09-26T14:33:16.295Z",
-      "nextCheckAt": 1790436796295,
+      "checkedAt": "2026-09-26T17:57:17.393Z",
+      "lastSuccessAt": "2026-09-26T17:57:17.393Z",
+      "nextCheckAt": 1790449037393,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1790436796296,
-      "checkedAt": "2026-09-26T14:33:16.296Z",
-      "lastSuccessAt": "2026-09-26T14:33:16.296Z",
+      "nextCheckAt": 1790449037394,
+      "checkedAt": "2026-09-26T17:57:17.394Z",
+      "lastSuccessAt": "2026-09-26T17:57:17.394Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-26T14:33:16.297Z",
-      "lastSuccessAt": "2026-09-26T14:33:16.297Z",
-      "nextCheckAt": 1790436796297,
+      "checkedAt": "2026-09-26T17:57:17.395Z",
+      "lastSuccessAt": "2026-09-26T17:57:17.395Z",
+      "nextCheckAt": 1790449037395,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790436796655,
-      "checkedAt": "2026-09-26T14:33:16.655Z",
-      "lastSuccessAt": "2026-09-26T14:33:16.655Z",
+      "nextCheckAt": 1790449037599,
+      "checkedAt": "2026-09-26T17:57:17.599Z",
+      "lastSuccessAt": "2026-09-26T17:57:17.599Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790436796295,
+  "nextCheckAt": 1790449037393,
   "refreshing": false,
   "items": [
     {
@@ -294,46 +294,6 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/jango",
-      "title": "Jango",
-      "summary": "Test multi-user apps with AI agents that act like real users",
-      "publishedAt": "2026-09-25T02:16:38.000Z",
-      "url": "https://www.producthunt.com/products/jango",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/jango",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Test multi-user apps with AI agents that act like real users",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "ph:https://www.producthunt.com/products/socialgpt",
       "title": "SocialGPT",
       "summary": "Edit videos by chatting with your timeline",
@@ -367,6 +327,46 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Edit videos by chatting with your timeline",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/once-ui-for-figma",
+      "title": "Once UI 2.0",
+      "summary": "Builds consistent React apps for developers and AI agents",
+      "publishedAt": "2026-09-24T23:05:08.000Z",
+      "url": "https://www.producthunt.com/products/once-ui-for-figma",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/once-ui-for-figma",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Builds consistent React apps for developers and AI agents",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
