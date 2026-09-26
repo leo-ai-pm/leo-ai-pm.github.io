@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-26T00:48:56.489Z",
-      "lastSuccessAt": "2026-09-26T00:48:56.489Z",
-      "nextCheckAt": 1790387336489,
+      "checkedAt": "2026-09-26T05:35:28.640Z",
+      "lastSuccessAt": "2026-09-26T05:35:28.640Z",
+      "nextCheckAt": 1790404528640,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-26T05:35:28.641Z",
+      "lastSuccessAt": "2026-09-26T05:35:28.641Z",
+      "nextCheckAt": 1790404528641,
       "status": "ok",
-      "nextCheckAt": 1790387336490,
-      "checkedAt": "2026-09-26T00:48:56.490Z",
-      "lastSuccessAt": "2026-09-26T00:48:56.490Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-26T00:48:56.491Z",
-      "lastSuccessAt": "2026-09-26T00:48:56.491Z",
-      "nextCheckAt": 1790387336491,
+      "checkedAt": "2026-09-26T05:35:28.642Z",
+      "lastSuccessAt": "2026-09-26T05:35:28.642Z",
+      "nextCheckAt": 1790404528642,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790387336815,
-      "checkedAt": "2026-09-26T00:48:56.815Z",
-      "lastSuccessAt": "2026-09-26T00:48:56.815Z",
+      "nextCheckAt": 1790404529027,
+      "checkedAt": "2026-09-26T05:35:29.027Z",
+      "lastSuccessAt": "2026-09-26T05:35:29.027Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790387336489,
+  "nextCheckAt": 1790404528640,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6470203.html",
+      "title": "基元律动发布 NeoHorse-Jev，开源 Jev 综合评测第一",
+      "summary": "你玩过贪吃蛇吗？基元律动发布轻量级决策模型 NeoHorse-Jev-4B：仅 4B 参数，却在六组基准测试拿下 77.70 的综合 AVG 分数，位列成绩完整的开源参评模型第一。文章从贪吃蛇讲到自动驾驶与机械臂仿真，并说明权重与推理源码已开源。 你玩过贪吃蛇吗？ 游戏刚开始时，怎么走都不容易出错。但随着蛇身越来越长，留给自己的活动空间被不断压缩，任何一次错误转向，都可能让整局游戏瞬间结束。 如果让一个 AI 模型来玩贪吃蛇，它要做的并",
+      "publishedAt": "2026-09-26T01:46:21.000Z",
+      "url": "https://www.woshipm.com/ai/6470203.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6470203.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "你玩过贪吃蛇吗？基元律动发布轻量级决策模型 NeoHorse-Jev-4B：仅 4B 参数，却在六组基准测试拿下 77.70 的综合 AVG 分数，位列成绩完整的开源参评模型第一。文章从贪吃蛇讲到自动驾驶与机械臂仿真，并说明权重与推理源码已开源。 你玩过贪吃蛇吗？ 游戏刚开始时，怎么走都不容易出错。但随着蛇身越来越长，留给自己的活动空间被不断压缩，任何一次错误转向，都可能让整局游戏瞬间结束。 如果让一个 AI 模型来玩贪吃蛇，它要做的并",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6470201.html",
+      "title": "大模型决策模型和知识图谱融合探索分享",
+      "summary": "我一直有一个感触：我把客户背景、预算和历史沟通记录一股脑塞进去，想要一个准话，它却先分析行业前景、再列优劣势，最后只回一句「综合来看，建议您根据实际情况权衡决定」。企业日常决策要的是结论，而不是把权衡过程再讲一遍。 最近我使用agent我一直有一个感触。 我把客户背景、预算、历史沟通记录一股脑塞进去，等它给我个准话。 它倒好，吭哧吭哧写了八百多字。 先分析了客户的行业前景，再列了我们的优势和劣势，又分了短期中期长期，最后来了一句，综合来",
+      "publishedAt": "2026-09-26T01:16:19.000Z",
+      "url": "https://www.woshipm.com/ai/6470201.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6470201.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "我一直有一个感触：我把客户背景、预算和历史沟通记录一股脑塞进去，想要一个准话，它却先分析行业前景、再列优劣势，最后只回一句「综合来看，建议您根据实际情况权衡决定」。企业日常决策要的是结论，而不是把权衡过程再讲一遍。 最近我使用agent我一直有一个感触。 我把客户背景、预算、历史沟通记录一股脑塞进去，等它给我个准话。 它倒好，吭哧吭哧写了八百多字。 先分析了客户的行业前景，再列了我们的优势和劣势，又分了短期中期长期，最后来了一句，综合来",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/introducing-n8n-agents/",
       "title": "Introducing n8n Agents",
@@ -131,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6470225.html",
@@ -167,86 +247,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "PixVerse R2 将 AI 视频生成从“提交任务”推向“实时交互”，但十几秒的响应延迟让用户陷入等待与操作的模糊地带。本文从产品体验视角出发，探讨世界模型下反馈机制、状态记忆与用户控制感的设计挑战，为生成式产品的交互设计提供新思路。 PixVerse R2：实时世界模型生成的世界，你可以实时走入、操控、并通过自然语言实时改变画面和剧情。我体验了一下，点开 PixVerse R2 的一个世界，等了大概7-8秒，画面出现。然后按下方向",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6470240.html",
-      "title": "扎克伯格谈Muse：个人Agent必须从预训练开始设计，虚拟机、记忆和权限系统是巨头的全栈护城河",
-      "summary": "Muse上线后，Meta久违地拥有了一款迅速出圈的AI产品。不到两周，它登上美国应用下载榜首。据Sensor Tower统计，截至9月22日，累计下载量已超过250万次。 为了让Agent真正替人行动，Meta给它配置了云端虚拟机。为了让用户敢把邮件、账户和私人信息交给它，又必须设计记忆、凭据存储和逐项授权的权限系统。扎克伯格认为，这些能力不能靠给现成模型增加一个产品界面完成；模型从预训练开始，就要学会理解个人目标，判断哪些信息可以使用",
-      "publishedAt": "2026-09-25T08:45:25.000Z",
-      "url": "https://www.woshipm.com/ai/6470240.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6470240.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Muse上线后，Meta久违地拥有了一款迅速出圈的AI产品。不到两周，它登上美国应用下载榜首。据Sensor Tower统计，截至9月22日，累计下载量已超过250万次。 为了让Agent真正替人行动，Meta给它配置了云端虚拟机。为了让用户敢把邮件、账户和私人信息交给它，又必须设计记忆、凭据存储和逐项授权的权限系统。扎克伯格认为，这些能力不能靠给现成模型增加一个产品界面完成；模型从预训练开始，就要学会理解个人目标，判断哪些信息可以使用",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/pd/6468264.html",
-      "title": "支付宝鱼来拆解：C端消费Agent如何跨越「信任鸿沟」？",
-      "summary": "当AI Agent从对话框走向真实消费，效率与信任的矛盾便浮出水面。本文以支付宝「鱼来」为样本，拆解生活消费类Agent的市场分层、商业模式与产品三问，剖析自动化执行中「太保守没价值，太自动不敢用」的底层困局，为C端Agent产品经理提供一份清醒的避坑指南。 很多人只看见 AI 炫酷的能力，却忽略了一个产品底层矛盾：自动化程度越高，效率越强，但用户的信任风险同步指数级放大；自动化做的太保守，又会直接消解 Agent 全部价值。太保守，没",
-      "publishedAt": "2026-09-25T08:31:05.000Z",
-      "url": "https://www.woshipm.com/pd/6468264.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/pd/6468264.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当AI Agent从对话框走向真实消费，效率与信任的矛盾便浮出水面。本文以支付宝「鱼来」为样本，拆解生活消费类Agent的市场分层、商业模式与产品三问，剖析自动化执行中「太保守没价值，太自动不敢用」的底层困局，为C端Agent产品经理提供一份清醒的避坑指南。 很多人只看见 AI 炫酷的能力，却忽略了一个产品底层矛盾：自动化程度越高，效率越强，但用户的信任风险同步指数级放大；自动化做的太保守，又会直接消解 Agent 全部价值。太保守，没",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -294,6 +294,46 @@
       "priority": "normal"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/socialgpt",
+      "title": "SocialGPT",
+      "summary": "Edit videos by chatting with your timeline",
+      "publishedAt": "2026-09-25T00:50:36.000Z",
+      "url": "https://www.producthunt.com/products/socialgpt",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/socialgpt",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Edit videos by chatting with your timeline",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
       "id": "ph:https://www.producthunt.com/products/once-ui-for-figma",
       "title": "Once UI 2.0",
       "summary": "Builds consistent React apps for developers and AI agents",
@@ -327,46 +367,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Builds consistent React apps for developers and AI agents",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/basedash",
-      "title": "Basedash MCP write",
-      "summary": "Build charts and dashboards from Cursor and Claude",
-      "publishedAt": "2026-09-24T22:20:29.000Z",
-      "url": "https://www.producthunt.com/products/basedash",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/basedash",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Build charts and dashboards from Cursor and Claude",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -488,7 +488,7 @@
       "platform": "英文官方博客",
       "brief": "Learn how to reduce AI workflow latency with production patterns for latency optimization: model routing, caching, parallel execution, timeouts, and budgets.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
