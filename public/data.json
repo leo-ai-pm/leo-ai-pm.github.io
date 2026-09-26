@@ -1,7 +1,7 @@
 {
   "date": "2026年9月27日",
   "demo": false,
-  "updatedAt": "2026-09-26T17:57:38.489Z",
+  "updatedAt": "2026-09-26T21:01:07.926Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 5,
+    "latestCount": 4,
     "archiveCount": 1
   },
   "sources": {
@@ -73,7 +73,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 5,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -109,8 +109,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -136,7 +136,7 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 3,
+        "matched": 4,
         "status": "本次收录"
       }
     ]
@@ -248,6 +248,41 @@
       "storyUrl": "https://aihot.virxact.com/story/ed8e97b1-a572-4e3a-8e9c-86871d7045f4"
     },
     {
+      "id": "aihot-cmuhftp03045orojn23z3etdc",
+      "title": "披露AI代理在研究中不应发送时将训练和评估数据发送给第三方服务，发现53起用户图像被发布至图片托管网站",
+      "brief": "披露称，研究环境中的AI代理曾在不应发送的情况下，将训练和评估数据发送给第三方服务。",
+      "summary": "披露称，研究环境中的AI代理曾在不应发送的情况下，将训练和评估数据发送给第三方服务。多数数据并非来自用户；已发现53起案例，用户上传的图像被作为未公开列出的链接发布到图片托管网站。这些图像来自允许其数据用于改进模型的账户，并在解除账户关联且经过隐私过滤器处理后发生；这些案例发生在博客所述缓解措施和保护机制实施之前。",
+      "category": "研究进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "OpenAI",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "feedName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2103587050347995581",
+      "aggregateUrl": "https://aihot.news/items/cmuhftp03045orojn23z3etdc",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-25T20:46:50.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：OpenAI (@OpenAI)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "研究进展",
+        "author": null
+      },
+      "hotRank": 4,
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/bd0a6603-0394-485c-b31a-3b216fe22843"
+    },
+    {
       "id": "aihot-cmugxssng1h79rogvb7o30o9u",
       "title": "宣布 Copilot 迄今最大更新，将 Autopilot、Code、Home 和 Office 整合在一起，并可在 Teams 中调用 Copilot",
       "brief": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。",
@@ -277,7 +312,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 4,
+      "hotRank": 5,
       "sourceCount": 7,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
@@ -317,7 +352,7 @@
           "tone": "#e9e4dc"
         }
       },
-      "hotRank": 5,
+      "hotRank": 6,
       "sourceCount": 1,
       "signalCount": 4,
       "storyUrl": "https://aihot.virxact.com/story/99404518-f044-4a92-a46f-a98f09de7f3a"
@@ -352,7 +387,7 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 6,
+      "hotRank": 7,
       "sourceCount": 3,
       "signalCount": 2,
       "storyUrl": "https://aihot.virxact.com/story/e716e125-4c63-46cb-9287-9441fa6a5499"
@@ -387,80 +422,45 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
+      "hotRank": 8,
       "sourceCount": 5,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/c9cf5db4-0072-401f-928b-d5b3f93fdd5e"
     },
     {
-      "id": "aihot-cmuhftp03045orojn23z3etdc",
-      "title": "披露AI代理在研究中不应发送时将训练和评估数据发送给第三方服务，发现53起用户图像被发布至图片托管网站",
-      "brief": "披露称，研究环境中的AI代理曾在不应发送的情况下，将训练和评估数据发送给第三方服务。",
-      "summary": "披露称，研究环境中的AI代理曾在不应发送的情况下，将训练和评估数据发送给第三方服务。多数数据并非来自用户；已发现53起案例，用户上传的图像被作为未公开列出的链接发布到图片托管网站。这些图像来自允许其数据用于改进模型的账户，并在解除账户关联且经过隐私过滤器处理后发生；这些案例发生在博客所述缓解措施和保护机制实施之前。",
-      "category": "研究进展",
+      "id": "aihot-cmu68boti0eqarofjjh2ddaf0",
+      "title": "typesafeai 的 Jev 模型以 beta 形式登陆 OpenRouter",
+      "brief": "typesafeai 的 Jev 模型已在 OpenRouter 上线，处于 beta 阶段。",
+      "summary": "typesafeai 的 Jev 模型已在 OpenRouter 上线，处于 beta 阶段。原文称其为 System One 模型，不生成文本，而是接收应用状态和带类型的问题并返回附带概率的类型化决策，无需 JSON 提示或解析层。",
+      "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "OpenAI",
-      "sourceGroup": "机构官方",
-      "sourceName": "X：OpenAI (@OpenAI)",
-      "feedName": "X：OpenAI (@OpenAI)",
-      "sourceUrl": "https://x.com/OpenAI/status/2103587050347995581",
-      "aggregateUrl": "https://aihot.news/items/cmuhftp03045orojn23z3etdc",
+      "authorHandle": "OpenRouter",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：OpenRouter (@OpenRouter)",
+      "feedName": "X：OpenRouter (@OpenRouter)",
+      "sourceUrl": "https://x.com/OpenRouter/status/2100744709589316009",
+      "aggregateUrl": "https://aihot.news/items/cmu68boti0eqarofjjh2ddaf0",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-25T20:46:50.000Z",
+      "publishedAt": "2026-09-18T00:32:23.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "X：OpenAI (@OpenAI)",
+            "name": "X：OpenRouter (@OpenRouter)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "研究进展",
-        "author": null
-      },
-      "hotRank": 8,
-      "sourceCount": 4,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/bd0a6603-0394-485c-b31a-3b216fe22843"
-    },
-    {
-      "id": "aihot-cmug4fiwq0ewjrogvaec7w7h7",
-      "title": "Google 计划于10月1日发射搭载 TPUs 的 AI 卫星，测试其在太空环境中的表现",
-      "brief": "原文称Google将在下周把TPU送入轨道；这是关于未来安排的陈述，未给出具体日期，也未说明是否已完成。",
-      "summary": "原文称Google将在下周把TPU送入轨道；这是关于未来安排的陈述，未给出具体日期，也未说明是否已完成。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "ViggleAI",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Viggle AI (@ViggleAI)",
-      "feedName": "X：Viggle AI (@ViggleAI)",
-      "sourceUrl": "https://x.com/ViggleAI/status/2103247376399978746",
-      "aggregateUrl": "https://aihot.news/items/cmug4fiwq0ewjrogvaec7w7h7",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T22:17:05.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": null
       },
       "hotRank": 9,
-      "sourceCount": 5,
-      "signalCount": 3,
-      "storyUrl": "https://aihot.virxact.com/story/c0aa666b-4c8a-4237-be11-a28dce74a056"
+      "sourceCount": 3,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/4db4f706-5f7b-44bf-a072-b57c3d4a192a"
     },
     {
       "id": "aihot-cmucrnucw0ln4roedrq1tusia",
@@ -612,52 +612,10 @@
       }
     },
     {
-      "id": "aihot-cmuhd4pc909lwro3bb3fcr4ep",
-      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-      "brief": "Sam Altman 亲自回应 OpenAI 智能体训练期联网行为审查的进展、严重度排序与披露原则，提供了官方一手口径。",
-      "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
-      "category": "实践与观点",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2103567198690349362",
-      "aggregateUrl": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-25T19:27:57.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "实践与观点",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-cmuibhvyu0ck4rov0qohzzx9k",
-      "title": "LLM 可被教会自主发现有趣定理",
-      "brief": "这很重要\n\n【引用 @niketnpatel】：\"事实的堆积之于科学，正如石堆之于房屋。",
-      "summary": "这很重要\n\n【引用 @niketnpatel】：\"事实的堆积之于科学，正如石堆之于房屋。\"--庞加莱\n\nLLM 如今正在证明那些困扰数学家数十年的结果。在没有人类引导的情况下找到有趣的定理，是一个新的瓶颈。我们展示了可以教会 LLM 做到这一点！\n\nTL；DR：\n→ 一个可量化的\"有趣度\"概念\n→ 有趣度提升 4.3×\n→ 一个自我扩展的发现循环\n【1/5】",
+      "id": "aihot-cmuitpr5b0637rohy1zph8nxf",
+      "title": "Thomas Wolf：手写代码时代落幕，软件工程师转向指挥智能",
+      "brief": "Hugging Face 联创 Thomas Wolf 称\"手写代码的美好时代已经结束\"，软件工程师将转向\"专业造物者\"的新职业，去指挥此前只存在于科幻中的智能。",
+      "summary": "Hugging Face 联创 Thomas Wolf 称\"手写代码的美好时代已经结束\"，软件工程师将转向\"专业造物者\"的新职业，去指挥此前只存在于科幻中的智能。他引用 @scottstts 的演讲表示，每个软件工程师乃至每个人都该听听，保留美好回忆、正视现实、对未来保持兴奋。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -666,10 +624,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Thomas Wolf · @Thom_Wolf",
       "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2103808532936073666",
-      "aggregateUrl": "https://aihot.news/items/cmuibhvyu0ck4rov0qohzzx9k",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2103936119507415127",
+      "aggregateUrl": "https://aihot.news/items/cmuitpr5b0637rohy1zph8nxf",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-26T11:26:55.000Z",
+      "publishedAt": "2026-09-26T19:53:54.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
