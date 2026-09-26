@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-25T22:29:12.603Z",
-      "lastSuccessAt": "2026-09-25T22:29:12.603Z",
-      "nextCheckAt": 1790378952603,
+      "checkedAt": "2026-09-26T00:48:56.489Z",
+      "lastSuccessAt": "2026-09-26T00:48:56.489Z",
+      "nextCheckAt": 1790387336489,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1790378952604,
-      "checkedAt": "2026-09-25T22:29:12.604Z",
-      "lastSuccessAt": "2026-09-25T22:29:12.604Z",
+      "nextCheckAt": 1790387336490,
+      "checkedAt": "2026-09-26T00:48:56.490Z",
+      "lastSuccessAt": "2026-09-26T00:48:56.490Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-25T22:29:12.605Z",
-      "lastSuccessAt": "2026-09-25T22:29:12.605Z",
-      "nextCheckAt": 1790378952605,
+      "checkedAt": "2026-09-26T00:48:56.491Z",
+      "lastSuccessAt": "2026-09-26T00:48:56.491Z",
+      "nextCheckAt": 1790387336491,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790378952823,
-      "checkedAt": "2026-09-25T22:29:12.823Z",
-      "lastSuccessAt": "2026-09-25T22:29:12.823Z",
+      "nextCheckAt": 1790387336815,
+      "checkedAt": "2026-09-26T00:48:56.815Z",
+      "lastSuccessAt": "2026-09-26T00:48:56.815Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790378952603,
+  "nextCheckAt": 1790387336489,
   "refreshing": false,
   "items": [
     {
@@ -294,46 +294,6 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/socialgpt",
-      "title": "SocialGPT",
-      "summary": "Edit videos by chatting with your timeline",
-      "publishedAt": "2026-09-25T00:50:36.000Z",
-      "url": "https://www.producthunt.com/products/socialgpt",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/socialgpt",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Edit videos by chatting with your timeline",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
       "id": "ph:https://www.producthunt.com/products/once-ui-for-figma",
       "title": "Once UI 2.0",
       "summary": "Builds consistent React apps for developers and AI agents",
@@ -367,6 +327,46 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Builds consistent React apps for developers and AI agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/basedash",
+      "title": "Basedash MCP write",
+      "summary": "Build charts and dashboards from Cursor and Claude",
+      "publishedAt": "2026-09-24T22:20:29.000Z",
+      "url": "https://www.producthunt.com/products/basedash",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/basedash",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Build charts and dashboards from Cursor and Claude",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
