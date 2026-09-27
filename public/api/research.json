@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-27T01:42:28.359Z",
-      "lastSuccessAt": "2026-09-27T01:42:28.359Z",
-      "nextCheckAt": 1790476948359,
+      "checkedAt": "2026-09-27T07:08:30.820Z",
+      "lastSuccessAt": "2026-09-27T07:08:30.820Z",
+      "nextCheckAt": 1790496510820,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-27T01:42:28.361Z",
-      "lastSuccessAt": "2026-09-27T01:42:28.361Z",
-      "nextCheckAt": 1790476948361,
+      "checkedAt": "2026-09-27T07:08:30.821Z",
+      "lastSuccessAt": "2026-09-27T07:08:30.821Z",
+      "nextCheckAt": 1790496510821,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-27T01:42:28.361Z",
-      "lastSuccessAt": "2026-09-27T01:42:28.361Z",
-      "nextCheckAt": 1790476948361,
+      "checkedAt": "2026-09-27T07:08:30.822Z",
+      "lastSuccessAt": "2026-09-27T07:08:30.822Z",
+      "nextCheckAt": 1790496510822,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790476948815,
-      "checkedAt": "2026-09-27T01:42:28.815Z",
-      "lastSuccessAt": "2026-09-27T01:42:28.815Z",
+      "nextCheckAt": 1790496511239,
+      "checkedAt": "2026-09-27T07:08:31.239Z",
+      "lastSuccessAt": "2026-09-27T07:08:31.239Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790476948359,
+  "nextCheckAt": 1790496510820,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6470479.html",
+      "title": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
+      "summary": "LibTV 1.5 把 Agent 升级成 TV Director，上线剧本原创、角色造型室、导演执导、3D-BOX、创意片头五项能力。只给一个很模糊的方向，从爆款预测开始写剧本，故事大纲、人物小传、50 集分集一应俱全，台词还能像文档一样直接改。 不知道大家最近有没有看兰香如故啊，Linda爷真给我给我看进去了，好久没有这么认真看一部古装剧了，然后我这人就是有个毛病，看点啥东西就会想自己做一个出来，所以做AI视频的瘾就又上来了，就想自",
+      "publishedAt": "2026-09-27T04:03:09.000Z",
+      "url": "https://www.woshipm.com/ai/6470479.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6470479.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "LibTV 1.5 把 Agent 升级成 TV Director，上线剧本原创、角色造型室、导演执导、3D-BOX、创意片头五项能力。只给一个很模糊的方向，从爆款预测开始写剧本，故事大纲、人物小传、50 集分集一应俱全，台词还能像文档一样直接改。 不知道大家最近有没有看兰香如故啊，Linda爷真给我给我看进去了，好久没有这么认真看一部古装剧了，然后我这人就是有个毛病，看点啥东西就会想自己做一个出来，所以做AI视频的瘾就又上来了，就想自",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6470288.html",
       "title": "Jev 爆火背后：AI Agent 正在从“三体人”变成“地球人”",
@@ -127,86 +167,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "Jev之所以爆火，是因为它做了一件和行业潮流相反的事：不追求想得更久，只负责判断，接受一段状态就直接返回结构化概率。TypeSafe把这类模型称为System One Model，把经验沉淀成稳定判断可能是下一场竞争。 刘慈欣在《三体》里设计过一个很有意思的文明差异。 三体人的思想很难隐藏，思考和表达高度绑定。 但地球人不一样。 我们的内心是一个黑盒。我们当然会思考，但不需要把所有思考过程都表达出来。更重要的是，很多时候，判断甚至会先于",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6470203.html",
-      "title": "基元律动发布 NeoHorse-Jev，开源 Jev 综合评测第一",
-      "summary": "你玩过贪吃蛇吗？基元律动发布轻量级决策模型 NeoHorse-Jev-4B：仅 4B 参数，却在六组基准测试拿下 77.70 的综合 AVG 分数，位列成绩完整的开源参评模型第一。文章从贪吃蛇讲到自动驾驶与机械臂仿真，并说明权重与推理源码已开源。 你玩过贪吃蛇吗？ 游戏刚开始时，怎么走都不容易出错。但随着蛇身越来越长，留给自己的活动空间被不断压缩，任何一次错误转向，都可能让整局游戏瞬间结束。 如果让一个 AI 模型来玩贪吃蛇，它要做的并",
-      "publishedAt": "2026-09-26T01:46:21.000Z",
-      "url": "https://www.woshipm.com/ai/6470203.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6470203.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "你玩过贪吃蛇吗？基元律动发布轻量级决策模型 NeoHorse-Jev-4B：仅 4B 参数，却在六组基准测试拿下 77.70 的综合 AVG 分数，位列成绩完整的开源参评模型第一。文章从贪吃蛇讲到自动驾驶与机械臂仿真，并说明权重与推理源码已开源。 你玩过贪吃蛇吗？ 游戏刚开始时，怎么走都不容易出错。但随着蛇身越来越长，留给自己的活动空间被不断压缩，任何一次错误转向，都可能让整局游戏瞬间结束。 如果让一个 AI 模型来玩贪吃蛇，它要做的并",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6470201.html",
-      "title": "大模型决策模型和知识图谱融合探索分享",
-      "summary": "我一直有一个感触：我把客户背景、预算和历史沟通记录一股脑塞进去，想要一个准话，它却先分析行业前景、再列优劣势，最后只回一句「综合来看，建议您根据实际情况权衡决定」。企业日常决策要的是结论，而不是把权衡过程再讲一遍。 最近我使用agent我一直有一个感触。 我把客户背景、预算、历史沟通记录一股脑塞进去，等它给我个准话。 它倒好，吭哧吭哧写了八百多字。 先分析了客户的行业前景，再列了我们的优势和劣势，又分了短期中期长期，最后来了一句，综合来",
-      "publishedAt": "2026-09-26T01:16:19.000Z",
-      "url": "https://www.woshipm.com/ai/6470201.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6470201.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "我一直有一个感触：我把客户背景、预算和历史沟通记录一股脑塞进去，想要一个准话，它却先分析行业前景、再列优劣势，最后只回一句「综合来看，建议您根据实际情况权衡决定」。企业日常决策要的是结论，而不是把权衡过程再讲一遍。 最近我使用agent我一直有一个感触。 我把客户背景、预算、历史沟通记录一股脑塞进去，等它给我个准话。 它倒好，吭哧吭哧写了八百多字。 先分析了客户的行业前景，再列了我们的优势和劣势，又分了短期中期长期，最后来了一句，综合来",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -251,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/goodsocials",
@@ -294,15 +254,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/token-forecaster",
-      "title": "Token Forecaster",
-      "summary": "Forecast how long an LLM reply will run, before Enter",
-      "publishedAt": "2026-09-25T04:40:57.000Z",
-      "url": "https://www.producthunt.com/products/token-forecaster",
+      "id": "ph:https://www.producthunt.com/products/socialgpt",
+      "title": "SocialGPT",
+      "summary": "Edit videos by chatting with your timeline",
+      "publishedAt": "2026-09-25T00:50:36.000Z",
+      "url": "https://www.producthunt.com/products/socialgpt",
       "linkKind": "original",
       "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -322,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/token-forecaster",
+      "sourceUrl": "https://www.producthunt.com/products/socialgpt",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Forecast how long an LLM reply will run, before Enter",
+      "brief": "Edit videos by chatting with your timeline",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

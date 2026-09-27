@@ -1,7 +1,7 @@
 {
   "date": "2026年9月27日",
   "demo": false,
-  "updatedAt": "2026-09-27T01:42:41.037Z",
+  "updatedAt": "2026-09-27T07:09:00.080Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -213,13 +213,48 @@
       "storyUrl": "https://aihot.virxact.com/story/e2af6e0a-a3c9-4729-bb83-994e423529a1"
     },
     {
+      "id": "aihot-cmufjyocz04u6ro6ohojge69s",
+      "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
+      "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+      "summary": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "important",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "sourceUrl": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+      "aggregateUrl": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-24T12:27:50.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 3,
+      "sourceCount": 5,
+      "signalCount": 0,
+      "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+    },
+    {
       "id": "aihot-cmuhftp03045orojn23z3etdc",
       "title": "披露AI代理在研究中不应发送时将训练和评估数据发送给第三方服务，发现53起用户图像被发布至图片托管网站",
       "brief": "披露称，研究环境中的AI代理曾在不应发送的情况下，将训练和评估数据发送给第三方服务。",
       "summary": "披露称，研究环境中的AI代理曾在不应发送的情况下，将训练和评估数据发送给第三方服务。多数数据并非来自用户；已发现53起案例，用户上传的图像被作为未公开列出的链接发布到图片托管网站。这些图像来自允许其数据用于改进模型的账户，并在解除账户关联且经过隐私过滤器处理后发生；这些案例发生在博客所述缓解措施和保护机制实施之前。",
       "category": "研究进展",
       "topic": "AI 产品",
-      "priority": "important",
+      "priority": "normal",
       "platform": "X",
       "authorHandle": "OpenAI",
       "sourceGroup": "机构官方",
@@ -242,7 +277,7 @@
         "caption": "研究进展",
         "author": null
       },
-      "hotRank": 3,
+      "hotRank": 4,
       "sourceCount": 5,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/bd0a6603-0394-485c-b31a-3b216fe22843"
@@ -277,45 +312,10 @@
         "caption": "Claude Code",
         "author": null
       },
-      "hotRank": 4,
+      "hotRank": 5,
       "sourceCount": 6,
       "signalCount": 0,
       "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
-    },
-    {
-      "id": "aihot-cmuhc2ao208ejro3bf11momwn",
-      "title": "Claude Code 将在达到5小时限制时尝试优雅停止，并动用每周限额的固定额度收尾",
-      "brief": "Claude Code 将调整行为：当你在任务中途达到5小时使用限制时，它会尝试寻找一个优雅的停止点，而不是在编辑中途直接切断；为完成收尾，它会从你的每周限额中取用一小笔固定额度。",
-      "summary": "Claude Code 将调整行为：当你在任务中途达到5小时使用限制时，它会尝试寻找一个优雅的停止点，而不是在编辑中途直接切断；为完成收尾，它会从你的每周限额中取用一小笔固定额度。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "ClaudeDevs",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Claude Devs (@ClaudeDevs)",
-      "feedName": "X：Claude Devs (@ClaudeDevs)",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2103561342057943314",
-      "aggregateUrl": "https://aihot.news/items/cmuhc2ao208ejro3bf11momwn",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-25T19:04:40.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      },
-      "hotRank": 5,
-      "sourceCount": 2,
-      "signalCount": 4,
-      "storyUrl": "https://aihot.virxact.com/story/ed8e97b1-a572-4e3a-8e9c-86871d7045f4"
     },
     {
       "id": "aihot-cmugxssng1h79rogvb7o30o9u",
@@ -353,39 +353,39 @@
       "storyUrl": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
     },
     {
-      "id": "aihot-cmufjyocz04u6ro6ohojge69s",
-      "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
-      "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
-      "summary": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+      "id": "aihot-cmuhc2ao208ejro3bf11momwn",
+      "title": "Claude Code 将在达到5小时限制时尝试优雅停止，并动用每周限额的固定额度收尾",
+      "brief": "Claude Code 将调整行为：当你在任务中途达到5小时使用限制时，它会尝试寻找一个优雅的停止点，而不是在编辑中途直接切断；为完成收尾，它会从你的每周限额中取用一小笔固定额度。",
+      "summary": "Claude Code 将调整行为：当你在任务中途达到5小时使用限制时，它会尝试寻找一个优雅的停止点，而不是在编辑中途直接切断；为完成收尾，它会从你的每周限额中取用一小笔固定额度。",
       "category": "产品动态",
       "topic": "Agent",
       "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
+      "platform": "X",
+      "authorHandle": "ClaudeDevs",
       "sourceGroup": "媒体与社区",
-      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "sourceUrl": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-      "aggregateUrl": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+      "sourceName": "X：Claude Devs (@ClaudeDevs)",
+      "feedName": "X：Claude Devs (@ClaudeDevs)",
+      "sourceUrl": "https://x.com/ClaudeDevs/status/2103561342057943314",
+      "aggregateUrl": "https://aihot.news/items/cmuhc2ao208ejro3bf11momwn",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-24T12:27:50.000Z",
+      "publishedAt": "2026-09-25T19:04:40.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
-        "caption": "产品动态",
+        "caption": "Claude Code",
         "author": null
       },
       "hotRank": 7,
-      "sourceCount": 5,
-      "signalCount": 0,
-      "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+      "sourceCount": 2,
+      "signalCount": 4,
+      "storyUrl": "https://aihot.virxact.com/story/ed8e97b1-a572-4e3a-8e9c-86871d7045f4"
     },
     {
       "id": "aihot-cmuhmrxkf0etrrojnw4r0b4rh",
@@ -540,11 +540,11 @@
       }
     },
     {
-      "id": "aihot-cmuimwxdu0rshrov0rlejrczl",
-      "title": "Claude Opus 5.5 一条提示词生成递归讲解视频",
-      "brief": "Ethan Mollick 用一条提示词让 Claude Opus 5.5 生成了解释递归的视频，要求每次解释递归都切换截然不同的视频风格，做到自指、巧妙且节奏快，最终实现九次风格切换。",
-      "summary": "Ethan Mollick 用一条提示词让 Claude Opus 5.5 生成了解释递归的视频，要求每次解释递归都切换截然不同的视频风格，做到自指、巧妙且节奏快，最终实现九次风格切换。他随后又测试了一个真正具有教育性的版本，认为效果相当惊艳：模型在保持多风格约束的同时，用有趣易懂的方式讲清了编程意义上的递归。",
-      "category": "产品动态",
+      "id": "aihot-cmuj8chgt03sdro9h13z20kmj",
+      "title": "Opus 模型人格回归的体验",
+      "brief": "模型人格的重要性是基准测试无法捕捉的。",
+      "summary": "模型人格的重要性是基准测试无法捕捉的。Opus 模型从 4.7 到 5 左右经历了一段低谷期，感觉不再\"Claude 味\"了，更像是一个被稀释的 Fable（嗯，教师模型？）。Opus 5.5 感觉又像是在和老 Claude 一起工作了",
+      "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -552,21 +552,21 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2103888590854062435",
-      "aggregateUrl": "https://aihot.news/items/cmuimwxdu0rshrov0rlejrczl",
+      "sourceUrl": "https://x.com/emollick/status/2104039050080342456",
+      "aggregateUrl": "https://aihot.news/items/cmuj8chgt03sdro9h13z20kmj",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-26T16:45:03.000Z",
+      "publishedAt": "2026-09-27T02:42:55.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
