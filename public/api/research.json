@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-27T07:08:30.820Z",
-      "lastSuccessAt": "2026-09-27T07:08:30.820Z",
-      "nextCheckAt": 1790496510820,
+      "checkedAt": "2026-09-27T13:06:36.351Z",
+      "lastSuccessAt": "2026-09-27T13:06:36.351Z",
+      "nextCheckAt": 1790517996351,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-27T07:08:30.821Z",
-      "lastSuccessAt": "2026-09-27T07:08:30.821Z",
-      "nextCheckAt": 1790496510821,
+      "checkedAt": "2026-09-27T13:06:36.352Z",
+      "lastSuccessAt": "2026-09-27T13:06:36.352Z",
+      "nextCheckAt": 1790517996352,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-27T07:08:30.822Z",
-      "lastSuccessAt": "2026-09-27T07:08:30.822Z",
-      "nextCheckAt": 1790496510822,
+      "checkedAt": "2026-09-27T13:06:36.353Z",
+      "lastSuccessAt": "2026-09-27T13:06:36.353Z",
+      "nextCheckAt": 1790517996353,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790496511239,
-      "checkedAt": "2026-09-27T07:08:31.239Z",
-      "lastSuccessAt": "2026-09-27T07:08:31.239Z",
+      "nextCheckAt": 1790517996516,
+      "checkedAt": "2026-09-27T13:06:36.516Z",
+      "lastSuccessAt": "2026-09-27T13:06:36.516Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790496510820,
+  "nextCheckAt": 1790517996351,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6470475.html",
+      "title": "微软 CEO 最新谈 AI agent 时代：比云计算大几个数量级的机会正在到来",
+      "summary": "Satya Nadella 在 Sources Podcast 谈到 AI 形态与能力的进化是两条曲线：从 ChatGPT 的对话，到 coding agent，再到 OpenClaw 预见的长时运行 agent，他说 agent 时代的市场会比云计算大几个数量级。 你有没有想过，微软这家公司在 AI 时代到底在下一盘什么棋？很多人觉得微软只是 OpenAI 的大股东，靠着 Azure 卖算力赚差价。但当我看完 Satya Nadell",
+      "publishedAt": "2026-09-27T09:03:07.000Z",
+      "url": "https://www.woshipm.com/share/6470475.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6470475.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Satya Nadella 在 Sources Podcast 谈到 AI 形态与能力的进化是两条曲线：从 ChatGPT 的对话，到 coding agent，再到 OpenClaw 预见的长时运行 agent，他说 agent 时代的市场会比云计算大几个数量级。 你有没有想过，微软这家公司在 AI 时代到底在下一盘什么棋？很多人觉得微软只是 OpenAI 的大股东，靠着 Azure 卖算力赚差价。但当我看完 Satya Nadell",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6470479.html",
       "title": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
@@ -127,46 +167,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "LibTV 1.5 把 Agent 升级成 TV Director，上线剧本原创、角色造型室、导演执导、3D-BOX、创意片头五项能力。只给一个很模糊的方向，从爆款预测开始写剧本，故事大纲、人物小传、50 集分集一应俱全，台词还能像文档一样直接改。 不知道大家最近有没有看兰香如故啊，Linda爷真给我给我看进去了，好久没有这么认真看一部古装剧了，然后我这人就是有个毛病，看点啥东西就会想自己做一个出来，所以做AI视频的瘾就又上来了，就想自",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6470288.html",
-      "title": "Jev 爆火背后：AI Agent 正在从“三体人”变成“地球人”",
-      "summary": "Jev之所以爆火，是因为它做了一件和行业潮流相反的事：不追求想得更久，只负责判断，接受一段状态就直接返回结构化概率。TypeSafe把这类模型称为System One Model，把经验沉淀成稳定判断可能是下一场竞争。 刘慈欣在《三体》里设计过一个很有意思的文明差异。 三体人的思想很难隐藏，思考和表达高度绑定。 但地球人不一样。 我们的内心是一个黑盒。我们当然会思考，但不需要把所有思考过程都表达出来。更重要的是，很多时候，判断甚至会先于",
-      "publishedAt": "2026-09-26T08:16:33.000Z",
-      "url": "https://www.woshipm.com/ai/6470288.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6470288.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Jev之所以爆火，是因为它做了一件和行业潮流相反的事：不追求想得更久，只负责判断，接受一段状态就直接返回结构化概率。TypeSafe把这类模型称为System One Model，把经验沉淀成稳定判断可能是下一场竞争。 刘慈欣在《三体》里设计过一个很有意思的文明差异。 三体人的思想很难隐藏，思考和表达高度绑定。 但地球人不一样。 我们的内心是一个黑盒。我们当然会思考，但不需要把所有思考过程都表达出来。更重要的是，很多时候，判断甚至会先于",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -254,15 +254,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/socialgpt",
-      "title": "SocialGPT",
-      "summary": "Edit videos by chatting with your timeline",
-      "publishedAt": "2026-09-25T00:50:36.000Z",
-      "url": "https://www.producthunt.com/products/socialgpt",
+      "id": "ph:https://www.producthunt.com/products/token-forecaster",
+      "title": "Token Forecaster",
+      "summary": "Forecast how long an LLM reply will run, before Enter",
+      "publishedAt": "2026-09-25T04:40:57.000Z",
+      "url": "https://www.producthunt.com/products/token-forecaster",
       "linkKind": "original",
       "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/socialgpt",
+      "sourceUrl": "https://www.producthunt.com/products/token-forecaster",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Edit videos by chatting with your timeline",
+      "brief": "Forecast how long an LLM reply will run, before Enter",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -294,11 +294,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/once-ui-for-figma",
-      "title": "Once UI 2.0",
-      "summary": "Builds consistent React apps for developers and AI agents",
-      "publishedAt": "2026-09-24T23:05:08.000Z",
-      "url": "https://www.producthunt.com/products/once-ui-for-figma",
+      "id": "ph:https://www.producthunt.com/products/jango",
+      "title": "Jango",
+      "summary": "Test multi-user apps with AI agents that act like real users",
+      "publishedAt": "2026-09-25T02:16:38.000Z",
+      "url": "https://www.producthunt.com/products/jango",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -322,11 +322,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/once-ui-for-figma",
+      "sourceUrl": "https://www.producthunt.com/products/jango",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Builds consistent React apps for developers and AI agents",
+      "brief": "Test multi-user apps with AI agents that act like real users",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
