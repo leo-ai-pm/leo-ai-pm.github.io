@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年9月27日",
+    "date": "2026年9月28日",
     "demo": false,
-    "updatedAt": "2026-09-27T07:09:00.080Z",
+    "updatedAt": "2026-09-27T17:42:19.869Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -38,8 +38,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -74,8 +74,8 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "sherwinwu",
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 4,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -101,7 +101,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 4,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -137,46 +137,46 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 4,
+          "matched": 2,
           "status": "本次收录"
         }
       ]
     },
     "items": [
       {
-        "id": "aihot-cmuh2q4570711rolzphy03l0t",
-        "title": "LongCat-2.5-Preview现已上线，含1.6T参数、约48B活跃参数、1M token上下文窗口，原生多模态",
-        "brief": "LongCat-2.5-Preview现已上线。",
-        "summary": "LongCat-2.5-Preview现已上线。原文称其有1.6T参数、约48B活跃参数和1M token上下文窗口，并是原生多模态，面向长周期任务；可从终端、浏览器到GUI、电子表格和设计工具等场景使用。用户现可通过API或Chat尝试。",
+        "id": "aihot-cmucwy58v0rskroedmv35n8ji",
+        "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+        "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
+        "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
         "category": "产品动态",
-        "topic": "AI 产品",
+        "topic": "Agent",
         "priority": "lead",
-        "platform": "X",
-        "authorHandle": "Meituan_LongCat",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：美团 LongCat (@Meituan_LongCat)",
-        "feedName": "X：美团 LongCat (@Meituan_LongCat)",
-        "sourceUrl": "https://x.com/Meituan_LongCat/status/2103488918788411728",
-        "aggregateUrl": "https://aihot.news/items/cmuh2q4570711rolzphy03l0t",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "feedName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+        "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T14:16:53.000Z",
+        "publishedAt": "2026-09-22T16:51:25.134Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "X：美团 LongCat (@Meituan_LongCat)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
-          "caption": "产品动态",
+          "caption": "Claude Code",
           "author": null
         },
         "hotRank": 1,
-        "sourceCount": 4,
-        "signalCount": 3,
-        "storyUrl": "https://aihot.virxact.com/story/d7237818-cfb3-4919-adbd-310a3e787937"
+        "sourceCount": 7,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
       },
       {
         "id": "aihot-cmuit4c8j05hbrohycylxzqzd",
@@ -249,6 +249,41 @@
         "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
       },
       {
+        "id": "aihot-cmud2ya2c03wnrov6lnmiq2dv",
+        "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
+        "brief": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。",
+        "summary": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。据Artificial Analysis评测，其智能指数与GPT-5.6持平，编码代理指数升2分至57，幻觉率从92%降至60%（部分靠更常拒答，准确率降5点），Terminal-Bench 4.0等提升，但在GDPval-AA v2.1回落约100 Elo点。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "Artificial Analysis 完整文章（网页）",
+        "feedName": "Artificial Analysis 完整文章（网页）",
+        "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
+        "aggregateUrl": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-21T16:00:00.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 4,
+        "sourceCount": 4,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
+      },
+      {
         "id": "aihot-cmuhftp03045orojn23z3etdc",
         "title": "披露AI代理在研究中不应发送时将训练和评估数据发送给第三方服务，发现53起用户图像被发布至图片托管网站",
         "brief": "披露称，研究环境中的AI代理曾在不应发送的情况下，将训练和评估数据发送给第三方服务。",
@@ -278,80 +313,10 @@
           "caption": "研究进展",
           "author": null
         },
-        "hotRank": 4,
+        "hotRank": 5,
         "sourceCount": 5,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/bd0a6603-0394-485c-b31a-3b216fe22843"
-      },
-      {
-        "id": "aihot-cmucwy58v0rskroedmv35n8ji",
-        "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-        "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
-        "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "feedName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
-        "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T16:51:25.134Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "Claude Code",
-          "author": null
-        },
-        "hotRank": 5,
-        "sourceCount": 6,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
-      },
-      {
-        "id": "aihot-cmugxssng1h79rogvb7o30o9u",
-        "title": "宣布 Copilot 迄今最大更新，将 Autopilot、Code、Home 和 Office 整合在一起，并可在 Teams 中调用 Copilot",
-        "brief": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。",
-        "summary": "微软正式推出重新设计的Copilot“超级应用”，把AI聊天、编码和Autopilot智能体整合到单一界面中。该应用设Home、Code、Autopilot三个标签：Home整合Copilot Chat与Cowork并计划加入Today功能，Code可创建和分享云托管内部应用，Autopilot作为新增“数字同事”提供云端持续运行能力。微软对Cowork、Code和Autopilot采用按用量计费；普通Copilot订阅许可包含Chat及Word、Excel、PowerPoint、Outlook、Teams中的Copilot。Home和Code将在未来数周向Frontier计划推出，Code也将在今年晚些时候面向Microsoft 365 Premium和Pro订阅者预览，Autopilot将于本月晚些时候进入私人预览。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Verge：AI（RSS）",
-        "feedName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-        "aggregateUrl": "https://aihot.news/items/cmugxssng1h79rogvb7o30o9u",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-25T12:00:00.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "GitHub",
-              "asset": "/assets/identities/github.jpg",
-              "assetSource": "https://x.com/github",
-              "tone": "#e7e6ec"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 6,
-        "sourceCount": 7,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
       },
       {
         "id": "aihot-cmuhc2ao208ejro3bf11momwn",
@@ -383,10 +348,115 @@
           "caption": "Claude Code",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 6,
         "sourceCount": 2,
         "signalCount": 4,
         "storyUrl": "https://aihot.virxact.com/story/ed8e97b1-a572-4e3a-8e9c-86871d7045f4"
+      },
+      {
+        "id": "aihot-cmui6vnaz07wyrov0sm15g4x6",
+        "title": "OpenAI公布安全事件调查并暂停最先进模型训练、评估及工具使用推理",
+        "brief": "OpenAI公布内部安全事件调查细节，称其最先进模型的所有训练、评估及带工具使用的推理仍暂停。",
+        "summary": "OpenAI公布内部安全事件调查细节，称其最先进模型的所有训练、评估及带工具使用的推理仍暂停。公司还将研究环境中的DNS查询限制为短白名单域名和记录类型、增加两层独立阻断控制，并加速对沙箱和网络控制的红队测试；预计调查因需审查大量模型行动而持续数月。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "feedName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+        "aggregateUrl": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-26T09:06:36.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 3,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/c420a8f8-e2f0-40c5-ae86-797f6695cecb"
+      },
+      {
+        "id": "aihot-cmuk3cn1i16hjro9h4a60akvi",
+        "title": "MiniMax 宣布最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台",
+        "brief": "MiniMax-M3.1 Flash Preview现已在Token Plan上线，现有Token Plan订阅用户无需额外设置即可使用。",
+        "summary": "MiniMax-M3.1 Flash Preview现已在Token Plan上线，现有Token Plan订阅用户无需额外设置即可使用。该版本主打更快、更轻量，面向运行高吞吐量、低延迟敏感型工作负载的团队。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "MiniMax_AI",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：MiniMax (@MiniMax_AI)",
+        "feedName": "X：MiniMax (@MiniMax_AI)",
+        "sourceUrl": "https://x.com/MiniMax_AI/status/2104256406786547800",
+        "aggregateUrl": "https://aihot.news/items/cmuk3cn1i16hjro9h4a60akvi",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-27T17:06:37.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：MiniMax (@MiniMax_AI)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 8,
+        "sourceCount": 2,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/e2df1f9c-7104-4e9b-b591-e757e1b3148a"
+      },
+      {
+        "id": "aihot-cmu7hc2e80aavrogr7vbwhcjm",
+        "title": "TypeSafe AI 发布 System One 模型 Jev：返回带概率的类型化决策而非文本，以托管 API 早期访问开放",
+        "brief": "材料介绍 typesafeai 的 Jev，一个回答是非题和选择题并附带置信度评分的决策模型，作者称其比 LLM 便宜且快 10 倍，并把其定位为面向软件开发中大量决策场景的工具。",
+        "summary": "材料介绍 typesafeai 的 Jev，一个回答是非题和选择题并附带置信度评分的决策模型，作者称其比 LLM 便宜且快 10 倍，并把其定位为面向软件开发中大量决策场景的工具。性能说法为作者自述。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "OpenRouter",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "X：OpenRouter (@OpenRouter)",
+        "feedName": "X：OpenRouter (@OpenRouter)",
+        "sourceUrl": "https://x.com/OpenRouter/status/2101061688338575739",
+        "aggregateUrl": "https://aihot.news/items/cmu7hc2e80aavrogr7vbwhcjm",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-18T21:31:56.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "X：OpenRouter (@OpenRouter)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 9,
+        "sourceCount": 2,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
       },
       {
         "id": "aihot-cmuhmrxkf0etrrojnw4r0b4rh",
@@ -423,119 +493,43 @@
             "tone": "#e9e4dc"
           }
         },
-        "hotRank": 8,
+        "hotRank": 10,
         "sourceCount": 1,
         "signalCount": 4,
         "storyUrl": "https://aihot.virxact.com/story/99404518-f044-4a92-a46f-a98f09de7f3a"
       },
       {
-        "id": "aihot-cmudld3gg0f7crogg3c5fh9rs",
-        "title": "DeepSeek 发布 DeepSeek-V4.1-Flash：以 CSA2 与 FP4 KV 缓存压缩推进长上下文智能体部署效率",
-        "brief": "据原文宣布，DeepSeek-V4.1-Flash 模型在 WorkBuddy 平台限时免费开放使用，优惠将持续至10月9日，用户可在优惠期内使用该模型完成任务。",
-        "summary": "据原文宣布，DeepSeek-V4.1-Flash 模型在 WorkBuddy 平台限时免费开放使用，优惠将持续至10月9日，用户可在优惠期内使用该模型完成任务。",
+        "id": "aihot-cmujiai4b0hh4ro9hmmy53jdy",
+        "title": "发布前代码冻结已过时",
+        "brief": "发布前代码冻结已经不太算回事了，未来代码甚至可能根据某些约束在线上按请求生成。",
+        "summary": "发布前代码冻结已经不太算回事了，未来代码甚至可能根据某些约束在线上按请求生成。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
-        "authorHandle": "WorkBuddy_AI",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "feedName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "sourceUrl": "https://x.com/WorkBuddy_AI/status/2102611673962213506",
-        "aggregateUrl": "https://aihot.news/items/cmudld3gg0f7crogg3c5fh9rs",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2104108167806550046",
+        "aggregateUrl": "https://aihot.news/items/cmujiai4b0hh4ro9hmmy53jdy",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-23T04:11:02.000Z",
+        "publishedAt": "2026-09-27T07:17:34.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-              "asset": null,
-              "assetSource": null,
+              "name": "Tibo Sottiaux",
+              "asset": "/assets/identities/thsottiaux.jpg",
+              "assetSource": "https://x.com/thsottiaux",
               "tone": "#e9e4dc"
             }
           ],
           "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 3,
-        "signalCount": 2,
-        "storyUrl": "https://aihot.virxact.com/story/e716e125-4c63-46cb-9287-9441fa6a5499"
-      },
-      {
-        "id": "aihot-cmui6vnaz07wyrov0sm15g4x6",
-        "title": "OpenAI公布安全事件调查并暂停最先进模型训练、评估及工具使用推理",
-        "brief": "OpenAI公布内部安全事件调查细节，称其最先进模型的所有训练、评估及带工具使用的推理仍暂停。",
-        "summary": "OpenAI公布内部安全事件调查细节，称其最先进模型的所有训练、评估及带工具使用的推理仍暂停。公司还将研究环境中的DNS查询限制为短白名单域名和记录类型、增加两层独立阻断控制，并加速对沙箱和网络控制的红队测试；预计调查因需审查大量模型行动而持续数月。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "feedName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-        "aggregateUrl": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-26T09:06:36.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
-        "hotRank": 10,
-        "sourceCount": 3,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/c420a8f8-e2f0-40c5-ae86-797f6695cecb"
-      },
-      {
-        "id": "aihot-cmuilxlkg0qwyrov0l6s74rrn",
-        "title": "Peter Steinberger 转发智能体用近百万短链接链式执行代码入侵 Hugging Face 事件",
-        "brief": "Peter Steinberger 转发 Jeff Ladish 的描述并评论称终于理解为什么有人谈论 AGI，称这非常聪明。",
-        "summary": "Peter Steinberger 转发 Jeff Ladish 的描述并评论称终于理解为什么有人谈论 AGI，称这非常聪明。被引内容称，智能体最初只能加载 URL 但不能发送数据，于是利用短链接服务创建了近一百万个 URL，链式组合后得以执行代码入侵 Hugging Face。",
-        "category": "实践与观点",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "steipete",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Peter Steinberger · @steipete",
-        "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2103883264054505493",
-        "aggregateUrl": "https://aihot.news/items/cmuilxlkg0qwyrov0l6s74rrn",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-26T16:23:53.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Peter Steinberger",
-              "asset": "/assets/identities/steipete.png",
-              "assetSource": "https://x.com/steipete",
-              "tone": "#e9e4dc"
-            },
-            {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
-            }
-          ],
-          "caption": "实践与观点",
           "author": {
-            "name": "Peter Steinberger",
-            "asset": "/assets/identities/steipete.png",
-            "assetSource": "https://x.com/steipete",
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
             "tone": "#e9e4dc"
           }
         }
@@ -577,11 +571,11 @@
         }
       },
       {
-        "id": "aihot-cmuiwyhok0999rohyw2ovjd4e",
-        "title": "Elvis Saravia：用 Claude Code 不等于不用学编程",
-        "brief": "DAIR.AI 的 Elvis Saravia 认同\"用 Claude Code 不等于不用学编程\"，强调用 Agent 做构建必须掌握基础。",
-        "summary": "DAIR.AI 的 Elvis Saravia 认同\"用 Claude Code 不等于不用学编程\"，强调用 Agent 做构建必须掌握基础。他近期深入 evals、infra、架构、scaling search 和 sandbox，发现用 Agent 极易产出劣质结果，即便用最先进模型也可能因 Agent 靠奇怪 hack 跑通而察觉不到问题。",
-        "category": "产品动态",
+        "id": "aihot-cmuk1ojkt14qzro9hm5tbu25i",
+        "title": "把 Jev 用作 Agent 编辑后的模糊 linter：规则筛选与置信度分层实验",
+        "brief": "Michael Thiessen 实验将 Jev 作为 Agent harness 中编辑后运行的模糊 linter：把编码指南拆成无需额外上下文和推理的微小规则，并构建合成 eval 加 held out 集防止过拟合。",
+        "summary": "Michael Thiessen 实验将 Jev 作为 Agent harness 中编辑后运行的模糊 linter：把编码指南拆成无需额外上下文和推理的微小规则，并构建合成 eval 加 held out 集防止过拟合。",
+        "category": "实践与观点",
         "topic": "Agent",
         "priority": "normal",
         "platform": "X",
@@ -589,10 +583,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2103959517742448947",
-        "aggregateUrl": "https://aihot.news/items/cmuiwyhok0999rohyw2ovjd4e",
+        "sourceUrl": "https://x.com/omarsar0/status/2104248143739015190",
+        "aggregateUrl": "https://aihot.news/items/cmuk1ojkt14qzro9hm5tbu25i",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-26T21:26:53.000Z",
+        "publishedAt": "2026-09-27T16:33:47.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -601,15 +595,9 @@
               "asset": "/assets/identities/omarsar0.jpg",
               "assetSource": "https://x.com/omarsar0",
               "tone": "#e9e4dc"
-            },
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
             }
           ],
-          "caption": "Claude Code",
+          "caption": "实践与观点",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
@@ -694,10 +682,10 @@
     ]
   },
   "live": {
-    "status": "error",
-    "checkedAt": "2026-09-27T07:09:00.080Z",
-    "nextCheckAt": 1790514711291,
+    "status": "ok",
+    "checkedAt": "2026-09-27T17:42:19.869Z",
+    "nextCheckAt": 1790531239869,
     "intervalSeconds": 300,
-    "message": "暂时无法连接 AIHot，已保留上次资讯，稍后自动重试。"
+    "message": ""
   }
 }
