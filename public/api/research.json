@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-28T07:42:53.958Z",
-      "lastSuccessAt": "2026-09-28T07:42:53.958Z",
-      "nextCheckAt": 1790584973958,
+      "checkedAt": "2026-09-28T16:02:29.222Z",
+      "lastSuccessAt": "2026-09-28T16:02:29.222Z",
+      "nextCheckAt": 1790614949222,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-28T07:42:53.960Z",
-      "lastSuccessAt": "2026-09-28T07:42:53.960Z",
-      "nextCheckAt": 1790584973960,
+      "checkedAt": "2026-09-28T16:02:29.223Z",
+      "lastSuccessAt": "2026-09-28T16:02:29.223Z",
+      "nextCheckAt": 1790614949223,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-28T07:42:53.961Z",
-      "lastSuccessAt": "2026-09-28T07:42:53.961Z",
-      "nextCheckAt": 1790584973961,
+      "checkedAt": "2026-09-28T16:02:29.224Z",
+      "lastSuccessAt": "2026-09-28T16:02:29.224Z",
+      "nextCheckAt": 1790614949224,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-28T16:02:29.522Z",
+      "lastSuccessAt": "2026-09-28T16:02:29.522Z",
+      "nextCheckAt": 1790614949522,
       "status": "ok",
-      "nextCheckAt": 1790584974175,
-      "checkedAt": "2026-09-28T07:42:54.175Z",
-      "lastSuccessAt": "2026-09-28T07:42:54.175Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790584973958,
+  "nextCheckAt": 1790614949222,
   "refreshing": false,
   "items": [
+    {
+      "id": "sspai:https://sspai.com/prime/story/dev-env-on-android-with-termux",
+      "title": "基于 Termux 的 Android 手机开发服务器实操",
+      "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》",
+      "publishedAt": "2026-09-28T09:33:03.000Z",
+      "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6470536.html",
       "title": "Marvis大升级，或将成为腾讯第二个跑出来的Agent",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6471257.html",
@@ -167,46 +207,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "开发 Agent 时，几十轮模型请求与工具调用会迅速累积成本与等待时间，把规划推理交给旗舰模型、简单判断交给小模型是常见做法。Jev 是专做分类、评分与条件判断的决策模型，文章从原理到用法讲清它能否承担这类工作。 我们在开发Agent的时候，总绕不开两个核心问题，成本和效率。 一次任务执行下来，可能要经历几十轮模型请求和工具调用判断，一个不小心，半个小时就过去了，特别是复杂的多步任务，Browser use和Computer use等，",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/pd/6471144.html",
-      "title": "AI赋能硬件IPD开发的四个等级，你的团队在第几级？",
-      "summary": "硬件出身的作者用一套 skills 体系跑通了一个全新智能硬件的全链路，也承认半自动化才是当下能落地的形态。他把 AI 赋能硬件开发分成四个成熟度层级，从局部提效到深度赋能，逐级说明每一级卡在哪里、又该怎么往上走。 上一篇内容提出了演示驱动的AI赋能逻辑：硬件IPD开发的顺序，正在被AI倒过来。 有读者反驳，AI做不好原理图、做不好PCB、做不好结构… 这篇进一步解释一下，我本身是嵌入式硬件出身，结合对AI的深度使用： 用量产产品从定义",
-      "publishedAt": "2026-09-28T03:28:23.000Z",
-      "url": "https://www.woshipm.com/pd/6471144.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/pd/6471144.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "硬件出身的作者用一套 skills 体系跑通了一个全新智能硬件的全链路，也承认半自动化才是当下能落地的形态。他把 AI 赋能硬件开发分成四个成熟度层级，从局部提效到深度赋能，逐级说明每一级卡在哪里、又该怎么往上走。 上一篇内容提出了演示驱动的AI赋能逻辑：硬件IPD开发的顺序，正在被AI倒过来。 有读者反驳，AI做不好原理图、做不好PCB、做不好结构… 这篇进一步解释一下，我本身是嵌入式硬件出身，结合对AI的深度使用： 用量产产品从定义",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
