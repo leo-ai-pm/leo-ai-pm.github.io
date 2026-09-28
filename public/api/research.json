@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-27T23:21:06.957Z",
-      "lastSuccessAt": "2026-09-27T23:21:06.957Z",
-      "nextCheckAt": 1790554866957,
+      "checkedAt": "2026-09-28T01:46:06.420Z",
+      "lastSuccessAt": "2026-09-28T01:46:06.420Z",
+      "nextCheckAt": 1790563566420,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-28T01:46:06.421Z",
+      "lastSuccessAt": "2026-09-28T01:46:06.421Z",
+      "nextCheckAt": 1790563566421,
       "status": "ok",
-      "nextCheckAt": 1790554866958,
-      "checkedAt": "2026-09-27T23:21:06.958Z",
-      "lastSuccessAt": "2026-09-27T23:21:06.958Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-27T23:21:06.959Z",
-      "lastSuccessAt": "2026-09-27T23:21:06.959Z",
-      "nextCheckAt": 1790554866959,
+      "checkedAt": "2026-09-28T01:46:06.422Z",
+      "lastSuccessAt": "2026-09-28T01:46:06.422Z",
+      "nextCheckAt": 1790563566422,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790554867134,
-      "checkedAt": "2026-09-27T23:21:07.134Z",
-      "lastSuccessAt": "2026-09-27T23:21:07.134Z",
+      "nextCheckAt": 1790563566720,
+      "checkedAt": "2026-09-28T01:46:06.720Z",
+      "lastSuccessAt": "2026-09-28T01:46:06.720Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,89 +90,9 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790554866957,
+  "nextCheckAt": 1790563566420,
   "refreshing": false,
   "items": [
-    {
-      "id": "woshipm:https://www.woshipm.com/share/6470475.html",
-      "title": "微软 CEO 最新谈 AI agent 时代：比云计算大几个数量级的机会正在到来",
-      "summary": "Satya Nadella 在 Sources Podcast 谈到 AI 形态与能力的进化是两条曲线：从 ChatGPT 的对话，到 coding agent，再到 OpenClaw 预见的长时运行 agent，他说 agent 时代的市场会比云计算大几个数量级。 你有没有想过，微软这家公司在 AI 时代到底在下一盘什么棋？很多人觉得微软只是 OpenAI 的大股东，靠着 Azure 卖算力赚差价。但当我看完 Satya Nadell",
-      "publishedAt": "2026-09-27T09:03:07.000Z",
-      "url": "https://www.woshipm.com/share/6470475.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6470475.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Satya Nadella 在 Sources Podcast 谈到 AI 形态与能力的进化是两条曲线：从 ChatGPT 的对话，到 coding agent，再到 OpenClaw 预见的长时运行 agent，他说 agent 时代的市场会比云计算大几个数量级。 你有没有想过，微软这家公司在 AI 时代到底在下一盘什么棋？很多人觉得微软只是 OpenAI 的大股东，靠着 Azure 卖算力赚差价。但当我看完 Satya Nadell",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6470479.html",
-      "title": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
-      "summary": "LibTV 1.5 把 Agent 升级成 TV Director，上线剧本原创、角色造型室、导演执导、3D-BOX、创意片头五项能力。只给一个很模糊的方向，从爆款预测开始写剧本，故事大纲、人物小传、50 集分集一应俱全，台词还能像文档一样直接改。 不知道大家最近有没有看兰香如故啊，Linda爷真给我给我看进去了，好久没有这么认真看一部古装剧了，然后我这人就是有个毛病，看点啥东西就会想自己做一个出来，所以做AI视频的瘾就又上来了，就想自",
-      "publishedAt": "2026-09-27T04:03:09.000Z",
-      "url": "https://www.woshipm.com/ai/6470479.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6470479.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "LibTV 1.5 把 Agent 升级成 TV Director，上线剧本原创、角色造型室、导演执导、3D-BOX、创意片头五项能力。只给一个很模糊的方向，从爆款预测开始写剧本，故事大纲、人物小传、50 集分集一应俱全，台词还能像文档一样直接改。 不知道大家最近有没有看兰香如故啊，Linda爷真给我给我看进去了，好久没有这么认真看一部古装剧了，然后我这人就是有个毛病，看点啥东西就会想自己做一个出来，所以做AI视频的瘾就又上来了，就想自",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
     {
       "id": "n8n:https://blog.n8n.io/introducing-n8n-agents/",
       "title": "Introducing n8n Agents",
@@ -211,7 +131,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "important"
+      "priority": "lead"
     },
     {
       "id": "ph:https://www.producthunt.com/products/goodsocials",
@@ -251,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/token-forecaster",
@@ -291,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/jango",
