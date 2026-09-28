@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-28T01:46:06.420Z",
-      "lastSuccessAt": "2026-09-28T01:46:06.420Z",
-      "nextCheckAt": 1790563566420,
+      "checkedAt": "2026-09-28T07:42:53.958Z",
+      "lastSuccessAt": "2026-09-28T07:42:53.958Z",
+      "nextCheckAt": 1790584973958,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-28T01:46:06.421Z",
-      "lastSuccessAt": "2026-09-28T01:46:06.421Z",
-      "nextCheckAt": 1790563566421,
+      "checkedAt": "2026-09-28T07:42:53.960Z",
+      "lastSuccessAt": "2026-09-28T07:42:53.960Z",
+      "nextCheckAt": 1790584973960,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-28T01:46:06.422Z",
-      "lastSuccessAt": "2026-09-28T01:46:06.422Z",
-      "nextCheckAt": 1790563566422,
+      "checkedAt": "2026-09-28T07:42:53.961Z",
+      "lastSuccessAt": "2026-09-28T07:42:53.961Z",
+      "nextCheckAt": 1790584973961,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790563566720,
-      "checkedAt": "2026-09-28T01:46:06.720Z",
-      "lastSuccessAt": "2026-09-28T01:46:06.720Z",
+      "nextCheckAt": 1790584974175,
+      "checkedAt": "2026-09-28T07:42:54.175Z",
+      "lastSuccessAt": "2026-09-28T07:42:54.175Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,249 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790563566420,
+  "nextCheckAt": 1790584973958,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6470536.html",
+      "title": "Marvis大升级，或将成为腾讯第二个跑出来的Agent",
+      "summary": "桌面版 AI Agent 都在卷办公场景时，腾讯的 Marvis 换了个方向，要做你电脑和硬件设备的 AI 管家。这次升级重新设计了界面，左侧栏新增【团队管家】入口，下辖电脑管家、文件管家、软件管家、浏览器管家，队长负责分派任务，同时补上本地知识库。 当桌面版 AI Agent 都在卷办公场景时。 腾讯的 Marvis 另辟蹊径，走了一条不一样的路子。 它要做你的电脑、你的所有硬件设备的 AI 管家。 从这次 Marvis 版本大升级，",
+      "publishedAt": "2026-09-28T06:34:57.000Z",
+      "url": "https://www.woshipm.com/ai/6470536.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6470536.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "桌面版 AI Agent 都在卷办公场景时，腾讯的 Marvis 换了个方向，要做你电脑和硬件设备的 AI 管家。这次升级重新设计了界面，左侧栏新增【团队管家】入口，下辖电脑管家、文件管家、软件管家、浏览器管家，队长负责分派任务，同时补上本地知识库。 当桌面版 AI Agent 都在卷办公场景时。 腾讯的 Marvis 另辟蹊径，走了一条不一样的路子。 它要做你的电脑、你的所有硬件设备的 AI 管家。 从这次 Marvis 版本大升级，",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6471257.html",
+      "title": "Jev 是什么？与大模型有何区别，又能在 Agent 中做什么？",
+      "summary": "开发 Agent 时，几十轮模型请求与工具调用会迅速累积成本与等待时间，把规划推理交给旗舰模型、简单判断交给小模型是常见做法。Jev 是专做分类、评分与条件判断的决策模型，文章从原理到用法讲清它能否承担这类工作。 我们在开发Agent的时候，总绕不开两个核心问题，成本和效率。 一次任务执行下来，可能要经历几十轮模型请求和工具调用判断，一个不小心，半个小时就过去了，特别是复杂的多步任务，Browser use和Computer use等，",
+      "publishedAt": "2026-09-28T06:28:35.000Z",
+      "url": "https://www.woshipm.com/ai/6471257.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6471257.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "开发 Agent 时，几十轮模型请求与工具调用会迅速累积成本与等待时间，把规划推理交给旗舰模型、简单判断交给小模型是常见做法。Jev 是专做分类、评分与条件判断的决策模型，文章从原理到用法讲清它能否承担这类工作。 我们在开发Agent的时候，总绕不开两个核心问题，成本和效率。 一次任务执行下来，可能要经历几十轮模型请求和工具调用判断，一个不小心，半个小时就过去了，特别是复杂的多步任务，Browser use和Computer use等，",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/pd/6471144.html",
+      "title": "AI赋能硬件IPD开发的四个等级，你的团队在第几级？",
+      "summary": "硬件出身的作者用一套 skills 体系跑通了一个全新智能硬件的全链路，也承认半自动化才是当下能落地的形态。他把 AI 赋能硬件开发分成四个成熟度层级，从局部提效到深度赋能，逐级说明每一级卡在哪里、又该怎么往上走。 上一篇内容提出了演示驱动的AI赋能逻辑：硬件IPD开发的顺序，正在被AI倒过来。 有读者反驳，AI做不好原理图、做不好PCB、做不好结构… 这篇进一步解释一下，我本身是嵌入式硬件出身，结合对AI的深度使用： 用量产产品从定义",
+      "publishedAt": "2026-09-28T03:28:23.000Z",
+      "url": "https://www.woshipm.com/pd/6471144.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/pd/6471144.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "硬件出身的作者用一套 skills 体系跑通了一个全新智能硬件的全链路，也承认半自动化才是当下能落地的形态。他把 AI 赋能硬件开发分成四个成熟度层级，从局部提效到深度赋能，逐级说明每一级卡在哪里、又该怎么往上走。 上一篇内容提出了演示驱动的AI赋能逻辑：硬件IPD开发的顺序，正在被AI倒过来。 有读者反驳，AI做不好原理图、做不好PCB、做不好结构… 这篇进一步解释一下，我本身是嵌入式硬件出身，结合对AI的深度使用： 用量产产品从定义",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/sayble",
+      "title": "Sayble",
+      "summary": "AI copilot for calls that tells you what to say next",
+      "publishedAt": "2026-09-27T19:46:24.000Z",
+      "url": "https://www.producthunt.com/products/sayble",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/sayble",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI copilot for calls that tells you what to say next",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/arc-ai-screen-assistant",
+      "title": "Arc",
+      "summary": "Your mobile AI assistant on any screen",
+      "publishedAt": "2026-09-27T17:11:05.000Z",
+      "url": "https://www.producthunt.com/products/arc-ai-screen-assistant",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/arc-ai-screen-assistant",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Your mobile AI assistant on any screen",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/pip-9",
+      "title": "PIP",
+      "summary": "AI buddy on your computer",
+      "publishedAt": "2026-09-27T16:48:56.000Z",
+      "url": "https://www.producthunt.com/products/pip-9",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/pip-9",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI buddy on your computer",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "n8n:https://blog.n8n.io/introducing-n8n-agents/",
       "title": "Introducing n8n Agents",
@@ -131,126 +371,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/goodsocials",
-      "title": "GoodSocials",
-      "summary": "AI social media manager for LinkedIn. Only authentic content",
-      "publishedAt": "2026-09-25T10:43:48.000Z",
-      "url": "https://www.producthunt.com/products/goodsocials",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/goodsocials",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI social media manager for LinkedIn. Only authentic content",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/token-forecaster",
-      "title": "Token Forecaster",
-      "summary": "Forecast how long an LLM reply will run, before Enter",
-      "publishedAt": "2026-09-25T04:40:57.000Z",
-      "url": "https://www.producthunt.com/products/token-forecaster",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/token-forecaster",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Forecast how long an LLM reply will run, before Enter",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/jango",
-      "title": "Jango",
-      "summary": "Test multi-user apps with AI agents that act like real users",
-      "publishedAt": "2026-09-25T02:16:38.000Z",
-      "url": "https://www.producthunt.com/products/jango",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/jango",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Test multi-user apps with AI agents that act like real users",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {

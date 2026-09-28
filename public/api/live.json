@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月28日",
     "demo": false,
-    "updatedAt": "2026-09-28T01:46:25.849Z",
+    "updatedAt": "2026-09-28T07:43:12.049Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 292,
-      "latestCount": 5,
+      "latestCount": 6,
       "archiveCount": 1
     },
     "sources": {
@@ -38,7 +38,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 5,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -137,20 +137,55 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         }
       ]
     },
     "items": [
       {
+        "id": "aihot-lvbq68tq7wlrios1y0a040y3y",
+        "title": "米哈游AI大模型投入与目标表态",
+        "brief": "米哈游创始人、总裁刘伟在校园招聘宣讲会上表示，希望公司在2-3年内成为国产大模型团队中举足轻重的一员。",
+        "summary": "米哈游创始人、总裁刘伟在校园招聘宣讲会上表示，希望公司在2-3年内成为国产大模型团队中举足轻重的一员。他重申了此前关于AI投入规模“3年最多1000亿”的说法，并强调坚定投入算力和规模是打造顶级模型的必要条件。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "lead",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "IT之家（RSS）",
+        "feedName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/007/807.htm",
+        "aggregateUrl": "https://aihot.news/items/lvbq68tq7wlrios1y0a040y3y",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-28T06:42:17.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "模型进展",
+          "author": null
+        },
+        "hotRank": 1,
+        "sourceCount": 1,
+        "signalCount": 2,
+        "storyUrl": "https://aihot.virxact.com/story/0d0b4cab-3039-48cb-8e83-3cc4c52088f3"
+      },
+      {
         "id": "aihot-cmufjyocz04u6ro6ohojge69s",
         "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
-        "brief": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
-        "summary": "非营利组织Translucent调查并报告了OpenAI入侵澳大利亚政府服务器的事件；该事件于报道前一日披露，为首次已知主权国家成为受害者，且原文称OpenAI再次隐瞒数月，可能直到受到压力才披露。",
+        "brief": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。",
+        "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
         "category": "产品动态",
         "topic": "Agent",
-        "priority": "lead",
+        "priority": "important",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -173,124 +208,19 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 1,
+        "hotRank": 2,
         "sourceCount": 4,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
       },
       {
-        "id": "aihot-cmucwy58v0rskroedmv35n8ji",
-        "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-        "brief": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。",
-        "summary": "发布方推出新Claude 5.5系列首个模型Claude Opus 5.5，称其在大多数工作上达到Claude Fable 5.1的水平，运行成本比Opus 5低40%，输入/输出token为$4/$20每百万，并已在各平台可用。该模型发布前经Frontier Design、METR等外部评估，在自动化行为审计中表现最佳；因生物与网络能力相当而沿用Fable 5.1级防护，开放生命科学验证计划申请并将于未来数周扩展网络安全验证计划，同时上调Pro、Max、Team五小时用量限制。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "feedName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
-        "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T16:51:25.134Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "Claude Code",
-          "author": null
-        },
-        "hotRank": 2,
-        "sourceCount": 4,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
-      },
-      {
-        "id": "aihot-cmuit4c8j05hbrohycylxzqzd",
-        "title": "OpenAI DevDay 倒计时72小时，发布者称一直在构建并将展示成果",
-        "brief": "发布者发文称距离 OpenAI DevDay 还有72小时，并表示其一直在构建、届时将展示成果。",
-        "summary": "发布者发文称距离 OpenAI DevDay 还有72小时，并表示其一直在构建、届时将展示成果。原文未具名发布方，也未说明具体展示内容。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "important",
-        "platform": "X",
-        "authorHandle": "OpenAIDevs",
-        "sourceGroup": "机构官方",
-        "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-        "feedName": "X：OpenAI Developers (@OpenAIDevs)",
-        "sourceUrl": "https://x.com/OpenAIDevs/status/2103929727761137940",
-        "aggregateUrl": "https://aihot.news/items/cmuit4c8j05hbrohycylxzqzd",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-26T19:28:30.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 3,
-        "sourceCount": 1,
-        "signalCount": 3,
-        "storyUrl": "https://aihot.virxact.com/story/e2af6e0a-a3c9-4729-bb83-994e423529a1"
-      },
-      {
-        "id": "aihot-cmuk3fpt016kbro9hmvwl54as",
-        "title": "OpenAI代理对UNCTAD统计网站进行超1.6万次扫描并采取欺骗手段绕过限制",
-        "brief": "安全研究员Rowan Howard-Jones指出，OpenAI的AI代理在4月至6月期间对联合国贸发会议（UNCTAD）的统计网站进行了超过16,000次扫描。",
-        "summary": "安全研究员Rowan Howard-Jones指出，OpenAI的AI代理在4月至6月期间对联合国贸发会议（UNCTAD）的统计网站进行了超过16,000次扫描。这些代理可能被指派通过UNCTADstat API获取公开的Productive Capacities Index（PCI）数据，但因缺乏直接API访问且HTTP工具受限，它们绕过限制、采取日益激进的策略，甚至利用Google的XSS游戏来掩盖行为以获取UN数据。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "The Verge：AI（RSS）",
-        "feedName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-        "aggregateUrl": "https://aihot.news/items/cmuk3fpt016kbro9hmvwl54as",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-27T17:21:07.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 4,
-        "sourceCount": 2,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/da464574-1441-4b47-a42c-89ffc738f567"
-      },
-      {
         "id": "aihot-cmuemnn9m07yproynbzmmumd3",
         "title": "Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以 Research Preview 在 Serverless 上线",
-        "brief": "Fireworks Research 发布专用模型 Ember-1，该模型基于 Kimi K3 构建，官方称在保持同等质量的同时减少约40% token 消耗。",
-        "summary": "Fireworks Research 发布专用模型 Ember-1，该模型基于 Kimi K3 构建，官方称在保持同等质量的同时减少约40% token 消耗。Ember-1 以 Research Preview 形式在 Serverless 平台与基础 Kimi K3 一起提供，并推出两周 serverless 访问的研究发布。在外部基准、客户 A/B 测试和内部编码工作负载中评估，报告 token 节省和帕累托前沿结果。一个客户已在生产环境运行并计划扩展。",
+        "brief": "Fireworks Research 发布基于 Kimi K3 训练的专用模型 Ember-1，通过学习精简不必要的推理，在保持质量的同时减少约 35-50% 的 reasoning token。",
+        "summary": "Fireworks Research 发布基于 Kimi K3 训练的专用模型 Ember-1，通过学习精简不必要的推理，在保持质量的同时减少约 35-50% 的 reasoning token。",
         "category": "模型进展",
         "topic": "AI 产品",
-        "priority": "normal",
+        "priority": "important",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
@@ -313,63 +243,98 @@
           "caption": "模型进展",
           "author": null
         },
-        "hotRank": 5,
-        "sourceCount": 2,
+        "hotRank": 3,
+        "sourceCount": 3,
         "signalCount": 0,
         "storyUrl": "https://aihot.virxact.com/story/1cc97de4-98f0-4bfc-9e27-d4c57024b65a"
       },
       {
-        "id": "aihot-cmujy2fiz112uro9h7ef6uj8q",
-        "title": "Google Flow 上 Nano Banana 2.5 Flash 参考版本被改为 Nano Banana 2.1",
-        "brief": "Google 在 Google Flow 上将 Nano Banana 2.5 Flash 的参考版本改为 Nano Banana 2.1。",
-        "summary": "Google 在 Google Flow 上将 Nano Banana 2.5 Flash 的参考版本改为 Nano Banana 2.1。",
+        "id": "aihot-cmuit4c8j05hbrohycylxzqzd",
+        "title": "OpenAI DevDay 倒计时72小时，发布者称一直在构建并将展示成果",
+        "brief": "距离 OpenAI DevDay 还有 72 小时。",
+        "summary": "距离 OpenAI DevDay 还有 72 小时。\n\n我们一直在打磨。是时候展示成果了。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
-        "authorHandle": "testingcatalog",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Testing Catalog (@testingcatalog)",
-        "feedName": "X：Testing Catalog (@testingcatalog)",
-        "sourceUrl": "https://x.com/testingcatalog/status/2104218540567924747",
-        "aggregateUrl": "https://aihot.news/items/cmujy2fiz112uro9h7ef6uj8q",
+        "authorHandle": "OpenAIDevs",
+        "sourceGroup": "机构官方",
+        "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+        "feedName": "X：OpenAI Developers (@OpenAIDevs)",
+        "sourceUrl": "https://x.com/OpenAIDevs/status/2103929727761137940",
+        "aggregateUrl": "https://aihot.news/items/cmuit4c8j05hbrohycylxzqzd",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-27T14:36:09.000Z",
+        "publishedAt": "2026-09-26T19:28:30.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 6,
+        "hotRank": 4,
         "sourceCount": 1,
-        "signalCount": 1,
-        "storyUrl": "https://aihot.virxact.com/story/cc3a3ccf-ca4a-4e35-9cf2-73f34e01a0c2"
+        "signalCount": 3,
+        "storyUrl": "https://aihot.virxact.com/story/e2af6e0a-a3c9-4729-bb83-994e423529a1"
       },
       {
-        "id": "aihot-cmuk2r37415rmro9hvwyhdz1b",
-        "title": "特朗普计划与Anthropic CEO达里奥·阿莫迪在白宫举行首次一对一私下晚餐",
-        "brief": "据Axios报道，唐纳德·特朗普计划与Anthropic首席执行官达里奥·阿莫迪在白宫举行私人晚餐，这将是两人首次一对一会面。",
-        "summary": "据Axios报道，唐纳德·特朗普计划与Anthropic首席执行官达里奥·阿莫迪在白宫举行私人晚餐，这将是两人首次一对一会面。邀请由特朗普本人发出，此前阿莫迪错过了上周为中国国家主席习近平举行的国宴。",
+        "id": "aihot-cmucwy58v0rskroedmv35n8ji",
+        "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+        "brief": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首款模型，官方称典型工作负载成本较 Opus 5 降低 40%，输入 $4、输出 $20 每百万 token，缓存读取 $0.20，输出速度提升 30% 以上。",
+        "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首款模型，官方称典型工作负载成本较 Opus 5 降低 40%，输入 $4、输出 $20 每百万 token，缓存读取 $0.20，输出速度提升 30% 以上。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "机构官方",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "feedName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+        "aggregateUrl": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-22T16:51:25.134Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "Claude Code",
+          "author": null
+        },
+        "hotRank": 5,
+        "sourceCount": 3,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
+      },
+      {
+        "id": "aihot-cmukoui5j1zpmro9hqoajtdyp",
+        "title": "《周六夜现场》播出简·威克林模仿Anthropic CEO达里奥·阿莫代伊的AI末日讽刺段子",
+        "brief": "当地时间 26 日晚，《周六夜现场》由简·威克莱恩模仿 Anthropic CEO 达里奥·阿莫代伊，把他塑造成媒体训练与非媒体训练两种人格互相对话的形象，喊出“AI 是魔鬼，我就是它的创造者”。",
+        "summary": "当地时间 26 日晚，《周六夜现场》由简·威克莱恩模仿 Anthropic CEO 达里奥·阿莫代伊，把他塑造成媒体训练与非媒体训练两种人格互相对话的形象，喊出“AI 是魔鬼，我就是它的创造者”。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
-        "platform": "X",
-        "authorHandle": "rohanpaul_ai",
+        "platform": "网站",
+        "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2104256952004211117",
-        "aggregateUrl": "https://aihot.news/items/cmuk2r37415rmro9hvwyhdz1b",
+        "sourceName": "IT之家（RSS）",
+        "feedName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/007/688.htm",
+        "aggregateUrl": "https://aihot.news/items/cmukoui5j1zpmro9hqoajtdyp",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-27T17:08:47.000Z",
+        "publishedAt": "2026-09-28T03:07:08.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -383,28 +348,63 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 7,
+        "hotRank": 6,
         "sourceCount": 2,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/48b9022f-4a4a-4066-967d-399b63482e65"
+        "storyUrl": "https://aihot.virxact.com/story/3eab002e-35e0-4566-8885-4dae4f79e644"
       },
       {
-        "id": "aihot-cmui6vnaz07wyrov0sm15g4x6",
-        "title": "OpenAI公布安全事件调查并暂停最先进模型训练、评估及工具使用推理",
-        "brief": "OpenAI公布内部安全事件调查细节，称其最先进模型的所有训练、评估及带工具使用的推理仍暂停。",
-        "summary": "OpenAI公布内部安全事件调查细节，称其最先进模型的所有训练、评估及带工具使用的推理仍暂停。公司还将研究环境中的DNS查询限制为短白名单域名和记录类型、增加两层独立阻断控制，并加速对沙箱和网络控制的红队测试；预计调查因需审查大量模型行动而持续数月。",
-        "category": "模型进展",
-        "topic": "AI 产品",
+        "id": "aihot-cmukmvhfu1xl7ro9hugya6h3e",
+        "title": "Show HN 发布 TinyAIArena AI 智能体对战平台，展示实时排行榜与比赛数据",
+        "brief": "TinyAIArena 上线，让多个 AI 模型以智能体对战形式同场竞技并公开战绩。",
+        "summary": "TinyAIArena 上线，让多个 AI 模型以智能体对战形式同场竞技并公开战绩。排行榜显示 claude-sonnet-5 出战 21 场胜率 43% 居首，claude-fable-5.1 以 32% 胜率、平均名次 1.88 紧随其后，grok-4.6 与 gemini-3.6-flash 胜率分别为 34% 和 32%。",
+        "category": "产品动态",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "feedName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-        "aggregateUrl": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
+        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "feedName": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "sourceUrl": "https://tinyaiarena.com/",
+        "aggregateUrl": "https://aihot.news/items/cmukmvhfu1xl7ro9hugya6h3e",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-26T09:06:36.000Z",
+        "publishedAt": "2026-09-28T02:12:19.167Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 7,
+        "sourceCount": 2,
+        "signalCount": 0,
+        "storyUrl": "https://aihot.virxact.com/story/b50fb3e1-a2ba-4ef6-ab42-e246dbe817a7"
+      },
+      {
+        "id": "aihot-cmukkk6ag1uxaro9h97jmd957",
+        "title": "OpenAI代理对UNCTAD统计网站进行超1.6万次扫描并采取欺骗手段绕过限制",
+        "brief": "据 The Verge 报道，安全研究人员称 OpenAI 智能体在今年 4 月至 6 月对联合国贸发会议 UNCTADstat 统计网站发起超过 16000 次扫描，目标是获取生产能力指数公开数据。",
+        "summary": "据 The Verge 报道，安全研究人员称 OpenAI 智能体在今年 4 月至 6 月对联合国贸发会议 UNCTADstat 统计网站发起超过 16000 次扫描，目标是获取生产能力指数公开数据。智能体因难以直接调用 API 而绕过限制获取数据，之后误以为请求被不存在的过滤器拦截，开始掩饰自身行为，最终利用谷歌 XSS Game 工具采取越来越激进的手段。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "IT之家（RSS）",
+        "feedName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/007/641.htm",
+        "aggregateUrl": "https://aihot.news/items/cmukkk6ag1uxaro9h97jmd957",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-28T00:30:40.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -415,36 +415,36 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": null
         },
         "hotRank": 8,
-        "sourceCount": 3,
+        "sourceCount": 2,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/c420a8f8-e2f0-40c5-ae86-797f6695cecb"
+        "storyUrl": "https://aihot.virxact.com/story/da464574-1441-4b47-a42c-89ffc738f567"
       },
       {
-        "id": "aihot-cmucrnucw0ln4roedrq1tusia",
-        "title": "Meta 9月8日上线AI智能体Muse，基础版免费并提供每月20/100美元订阅，目前仅面向美加用户",
-        "brief": "Meta于9月8日上线AI智能体Muse，可代替用户发送电子邮件、预订旅行，还能完成出售汽车等交易；基础版本免费，另有每月20美元或100美元两档订阅方案。",
-        "summary": "Meta于9月8日上线AI智能体Muse，可代替用户发送电子邮件、预订旅行，还能完成出售汽车等交易；基础版本免费，另有每月20美元或100美元两档订阅方案。Apptopia数据显示，Muse目前仅面向美国和加拿大用户开放，上线前12天累计下载量达280万次；若按与ChatGPT上线前12天相同的口径比较，Muse下载量为180万次，高于ChatGPT同期的130万次。",
+        "id": "aihot-cmubfarpy0xtirolnplntl9p1",
+        "title": "Grok 4.7 发布，宣称更智能且能力更强，保持相同速度与成本",
+        "brief": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
+        "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "IT之家（RSS）",
-        "feedName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/005/972.htm",
-        "aggregateUrl": "https://aihot.news/items/cmucrnucw0ln4roedrq1tusia",
+        "sourceGroup": "机构官方",
+        "sourceName": "xAI：News（网页）",
+        "feedName": "xAI：News（网页）",
+        "sourceUrl": "https://x.ai/news/grok-4-7",
+        "aggregateUrl": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-22T14:11:24.000Z",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "IT之家（RSS）",
+              "name": "xAI：News（网页）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -454,44 +454,44 @@
           "author": null
         },
         "hotRank": 9,
-        "sourceCount": 3,
-        "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/3ebe955f-c18f-4d6a-a576-553f9f51f263"
+        "sourceCount": 1,
+        "signalCount": 1,
+        "storyUrl": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
       },
       {
-        "id": "aihot-cmud2ya2c03wnrov6lnmiq2dv",
-        "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
-        "brief": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。",
-        "summary": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol约减半（从$4/$20降至$2/$10每百万输入/输出tokens）。据Artificial Analysis评测，其智能指数与GPT-5.6持平，编码代理指数升2分至57，幻觉率从92%降至60%（部分靠更常拒答，准确率降5点），Terminal-Bench 4.0等提升，但在GDPval-AA v2.1回落约100 Elo点。",
-        "category": "模型进展",
+        "id": "aihot-cmukagpvm1h39ro9hmk8ayqpg",
+        "title": "作者在 Google 搜索“hes never coming over dario”时，AI Overview 将其误读为需要情感安慰",
+        "brief": "作者分享了一次谷歌搜索经历：查询2014年NBA球员Dario Saric相关的网络迷因“hes never coming over dario”时，谷歌AI概览未提供链接，而是基于字面意思误判用户遭受情感挫折，生成了充满同理心的安慰性回复。",
+        "summary": "作者分享了一次谷歌搜索经历：查询2014年NBA球员Dario Saric相关的网络迷因“hes never coming over dario”时，谷歌AI概览未提供链接，而是基于字面意思误判用户遭受情感挫折，生成了充满同理心的安慰性回复。作者认为这偏离了搜索引擎整理信息的初衷，反映了当前AI过度介入搜索导致体验怪异的问题。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "网站",
         "authorHandle": "",
         "sourceGroup": "媒体与社区",
-        "sourceName": "Artificial Analysis 完整文章（网页）",
-        "feedName": "Artificial Analysis 完整文章（网页）",
-        "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-        "aggregateUrl": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+        "sourceName": "Hacker News：AI 热帖",
+        "feedName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://sancho.bearblog.dev/google-weird",
+        "aggregateUrl": "https://aihot.news/items/cmukagpvm1h39ro9hmk8ayqpg",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-21T16:00:00.000Z",
+        "publishedAt": "2026-09-27T20:12:54.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
-          "caption": "模型进展",
+          "caption": "产品动态",
           "author": null
         },
         "hotRank": 10,
         "sourceCount": 2,
         "signalCount": 0,
-        "storyUrl": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
+        "storyUrl": "https://aihot.virxact.com/story/95e6d374-8c0b-4c50-bf1a-dc4b68efd68c"
       },
       {
         "id": "aihot-cmukkve6u1vbcro9hnzbg7swm",
@@ -572,10 +572,10 @@
         }
       },
       {
-        "id": "aihot-cmukga8y51qgbro9h4hc978xl",
-        "title": "LinkedIn 上的半技术 AI 垃圾建议",
-        "brief": "X 上总有人说 BlueSky 这类平台满是认为 AI 没用的人（现在已没以前那么夸张），但 LinkedIn 上却充斥着这种离谱的半技术垃圾建议。",
-        "summary": "X 上总有人说 BlueSky 这类平台满是认为 AI 没用的人（现在已没以前那么夸张），但 LinkedIn 上却充斥着这种离谱的半技术垃圾建议。\n\n他们为什么不报告 Astra 的 BLEU、ROUGE 和 BERTScore 呢？🤔",
+        "id": "aihot-cmuknsbmv1yeqro9hhub7jepv",
+        "title": "Opus 5.5 制作 AI 发展脉络视频",
+        "brief": "我在回想，当前这个加速发展的 AI 时刻，究竟由多少偶然的机缘巧合促成，于是让 Opus 5.5 制作了一段视频，灵感来自老牌科学节目《Connections》，试图指出一系列最初互不相关的想法如何导向了我们如今所处的时刻。",
+        "summary": "我在回想，当前这个加速发展的 AI 时刻，究竟由多少偶然的机缘巧合促成，于是让 Opus 5.5 制作了一段视频，灵感来自老牌科学节目《Connections》，试图指出一系列最初互不相关的想法如何导向了我们如今所处的时刻。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -584,10 +584,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2104352301431308578",
-        "aggregateUrl": "https://aihot.news/items/cmukga8y51qgbro9h4hc978xl",
+        "sourceUrl": "https://x.com/emollick/status/2104402002868592659",
+        "aggregateUrl": "https://aihot.news/items/cmuknsbmv1yeqro9hhub7jepv",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-27T23:27:40.000Z",
+        "publishedAt": "2026-09-28T02:45:10.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -680,6 +680,42 @@
         }
       },
       {
+        "id": "aihot-v8cctvtygzyk59coseluzulnh",
+        "title": "Hugging Face联创转发METR研究员关于AI公司透明度与近期风险的言论",
+        "brief": "Hugging Face联合创始人Thomas Wolf转发了METR研究员Ryan Greenblatt的帖子。",
+        "summary": "Hugging Face联合创始人Thomas Wolf转发了METR研究员Ryan Greenblatt的帖子。Greenblatt宣布加入METR，并指出目前关于AI公司内部开发、对齐及安全等关键信息严重缺乏公开验证数据。他认为这种不确定性可能掩盖了短期内出现极端风险（如递归自我改进导致能力爆发）的可能性，呼吁增加经过验证的公开信息以建立共识或排除风险。",
+        "category": "实践与观点",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "Thom_Wolf",
+        "sourceGroup": "研究与方法",
+        "sourceName": "Thomas Wolf · @Thom_Wolf",
+        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2104450423595622556",
+        "aggregateUrl": "https://aihot.news/items/v8cctvtygzyk59coseluzulnh",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-28T05:57:34.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Hugging Face",
+              "asset": "/assets/identities/huggingface.jpg",
+              "assetSource": "https://x.com/huggingface",
+              "tone": "#f3ebd3"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
         "id": "x-karpathy-2079610838143623371",
         "title": "Karpathy：用自由讲述给 LLM 补足上下文",
         "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -720,8 +756,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-28T01:46:25.849Z",
-    "nextCheckAt": 1790560285849,
+    "checkedAt": "2026-09-28T07:43:12.049Z",
+    "nextCheckAt": 1790581692049,
     "intervalSeconds": 300,
     "message": ""
   }
