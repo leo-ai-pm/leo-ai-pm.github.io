@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-28T16:02:29.222Z",
-      "lastSuccessAt": "2026-09-28T16:02:29.222Z",
-      "nextCheckAt": 1790614949222,
+      "checkedAt": "2026-09-28T21:49:43.579Z",
+      "lastSuccessAt": "2026-09-28T21:49:43.579Z",
+      "nextCheckAt": 1790635783579,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-28T16:02:29.223Z",
-      "lastSuccessAt": "2026-09-28T16:02:29.223Z",
-      "nextCheckAt": 1790614949223,
       "status": "ok",
+      "nextCheckAt": 1790635783581,
+      "checkedAt": "2026-09-28T21:49:43.581Z",
+      "lastSuccessAt": "2026-09-28T21:49:43.581Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-28T16:02:29.224Z",
-      "lastSuccessAt": "2026-09-28T16:02:29.224Z",
-      "nextCheckAt": 1790614949224,
+      "checkedAt": "2026-09-28T21:49:43.582Z",
+      "lastSuccessAt": "2026-09-28T21:49:43.582Z",
+      "nextCheckAt": 1790635783582,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-28T16:02:29.522Z",
-      "lastSuccessAt": "2026-09-28T16:02:29.522Z",
-      "nextCheckAt": 1790614949522,
+      "checkedAt": "2026-09-28T21:49:43.993Z",
+      "lastSuccessAt": "2026-09-28T21:49:43.993Z",
+      "nextCheckAt": 1790635783993,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790614949222,
+  "nextCheckAt": 1790635783579,
   "refreshing": false,
   "items": [
     {
@@ -448,7 +448,7 @@
       "platform": "英文官方博客",
       "brief": "Still guessing if your prompts work? Learn how to build a systematic prompt testing framework that catches regressions before they reach production.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
