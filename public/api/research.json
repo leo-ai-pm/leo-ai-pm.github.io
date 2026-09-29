@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-29T01:18:06.003Z",
-      "lastSuccessAt": "2026-09-29T01:18:06.003Z",
-      "nextCheckAt": 1790648286003,
+      "checkedAt": "2026-09-29T06:59:59.472Z",
+      "lastSuccessAt": "2026-09-29T06:59:59.472Z",
+      "nextCheckAt": 1790668799472,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-09-29T06:59:59.474Z",
+      "lastSuccessAt": "2026-09-29T06:59:59.474Z",
+      "nextCheckAt": 1790668799474,
       "status": "ok",
-      "nextCheckAt": 1790648286004,
-      "checkedAt": "2026-09-29T01:18:06.004Z",
-      "lastSuccessAt": "2026-09-29T01:18:06.004Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-29T01:18:06.004Z",
-      "lastSuccessAt": "2026-09-29T01:18:06.004Z",
-      "nextCheckAt": 1790648286004,
+      "checkedAt": "2026-09-29T06:59:59.475Z",
+      "lastSuccessAt": "2026-09-29T06:59:59.475Z",
+      "nextCheckAt": 1790668799475,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790648286288,
-      "checkedAt": "2026-09-29T01:18:06.288Z",
-      "lastSuccessAt": "2026-09-29T01:18:06.288Z",
+      "nextCheckAt": 1790668799687,
+      "checkedAt": "2026-09-29T06:59:59.687Z",
+      "lastSuccessAt": "2026-09-29T06:59:59.687Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790648286003,
+  "nextCheckAt": 1790668799472,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6471603.html",
+      "title": "对话 Snowflake CEO：创业者最容易高估用户对旧产品的不满，低估用户改变习惯的成本",
+      "summary": "Sridhar Ramaswamy 从 Google 高管到创办搜索引擎 Neeva，再到出任 Snowflake CEO。在与 Aditya 的对话中，他谈到开源模型、Agent 与企业软件的未来，以及当软件越来越容易被造出来时，什么价值仍然难以复制。 Sridhar Ramaswamy做过Google高管，也从Google离职创办了搜索引擎Neeva。如今担任Snowflake CEO的他，正面对一个比当年更直接的问题：当模型可以写",
+      "publishedAt": "2026-09-29T03:48:33.000Z",
+      "url": "https://www.woshipm.com/ai/6471603.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6471603.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Sridhar Ramaswamy 从 Google 高管到创办搜索引擎 Neeva，再到出任 Snowflake CEO。在与 Aditya 的对话中，他谈到开源模型、Agent 与企业软件的未来，以及当软件越来越容易被造出来时，什么价值仍然难以复制。 Sridhar Ramaswamy做过Google高管，也从Google离职创办了搜索引擎Neeva。如今担任Snowflake CEO的他，正面对一个比当年更直接的问题：当模型可以写",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "sspai:https://sspai.com/prime/story/dev-env-on-android-with-termux",
       "title": "基于 Termux 的 Android 手机开发服务器实操",
@@ -131,86 +171,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6470536.html",
-      "title": "Marvis大升级，或将成为腾讯第二个跑出来的Agent",
-      "summary": "桌面版 AI Agent 都在卷办公场景时，腾讯的 Marvis 换了个方向，要做你电脑和硬件设备的 AI 管家。这次升级重新设计了界面，左侧栏新增【团队管家】入口，下辖电脑管家、文件管家、软件管家、浏览器管家，队长负责分派任务，同时补上本地知识库。 当桌面版 AI Agent 都在卷办公场景时。 腾讯的 Marvis 另辟蹊径，走了一条不一样的路子。 它要做你的电脑、你的所有硬件设备的 AI 管家。 从这次 Marvis 版本大升级，",
-      "publishedAt": "2026-09-28T06:34:57.000Z",
-      "url": "https://www.woshipm.com/ai/6470536.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6470536.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "桌面版 AI Agent 都在卷办公场景时，腾讯的 Marvis 换了个方向，要做你电脑和硬件设备的 AI 管家。这次升级重新设计了界面，左侧栏新增【团队管家】入口，下辖电脑管家、文件管家、软件管家、浏览器管家，队长负责分派任务，同时补上本地知识库。 当桌面版 AI Agent 都在卷办公场景时。 腾讯的 Marvis 另辟蹊径，走了一条不一样的路子。 它要做你的电脑、你的所有硬件设备的 AI 管家。 从这次 Marvis 版本大升级，",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6471257.html",
-      "title": "Jev 是什么？与大模型有何区别，又能在 Agent 中做什么？",
-      "summary": "开发 Agent 时，几十轮模型请求与工具调用会迅速累积成本与等待时间，把规划推理交给旗舰模型、简单判断交给小模型是常见做法。Jev 是专做分类、评分与条件判断的决策模型，文章从原理到用法讲清它能否承担这类工作。 我们在开发Agent的时候，总绕不开两个核心问题，成本和效率。 一次任务执行下来，可能要经历几十轮模型请求和工具调用判断，一个不小心，半个小时就过去了，特别是复杂的多步任务，Browser use和Computer use等，",
-      "publishedAt": "2026-09-28T06:28:35.000Z",
-      "url": "https://www.woshipm.com/ai/6471257.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6471257.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "开发 Agent 时，几十轮模型请求与工具调用会迅速累积成本与等待时间，把规划推理交给旗舰模型、简单判断交给小模型是常见做法。Jev 是专做分类、评分与条件判断的决策模型，文章从原理到用法讲清它能否承担这类工作。 我们在开发Agent的时候，总绕不开两个核心问题，成本和效率。 一次任务执行下来，可能要经历几十轮模型请求和工具调用判断，一个不小心，半个小时就过去了，特别是复杂的多步任务，Browser use和Computer use等，",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
     },
     {
@@ -251,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/arc-ai-screen-assistant",
