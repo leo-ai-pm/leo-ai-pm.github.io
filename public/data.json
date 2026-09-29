@@ -1,7 +1,7 @@
 {
   "date": "2026年9月29日",
   "demo": false,
-  "updatedAt": "2026-09-29T01:18:18.596Z",
+  "updatedAt": "2026-09-29T13:58:38.752Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 8,
+    "latestCount": 9,
     "archiveCount": 1
   },
   "sources": {
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 7,
+        "matched": 8,
         "status": "本次收录"
       },
       {
@@ -118,8 +118,8 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 2,
+        "status": "本次收录"
       },
       {
         "handle": "AravSrinivas",
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 6,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -143,48 +143,13 @@
   },
   "items": [
     {
-      "id": "aihot-nastdr2zteysm2n0dg58d6tb1",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，AA 智能指数升至第 2",
-      "brief": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
-      "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "lead",
-      "platform": "X",
-      "authorHandle": "ArtificialAnlys",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-      "feedName": "X：Artificial Analysis (@ArtificialAnlys)",
-      "sourceUrl": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "aggregateUrl": "https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T18:31:30.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 1,
-      "sourceCount": 18,
-      "signalCount": 44,
-      "storyUrl": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
-    },
-    {
       "id": "aihot-gikl2tjm7h3e1kf1j47v7rh41",
       "title": "AMD 82亿美元收购World Labs并任命李飞飞",
       "brief": "World Labs 官方宣布加入 AMD。",
       "summary": "World Labs 官方宣布加入 AMD。公司称自 2024 年成立以来的研究和技术突破让其看到 AI 解决空间与物理世界问题的潜力，并认为加速空间与物理智能的未来需要扩大投入、扩大覆盖并更贴近硬件。",
       "category": "行业观察",
       "topic": "AI 产品",
-      "priority": "important",
+      "priority": "lead",
       "platform": "X",
       "authorHandle": "theworldlabs",
       "sourceGroup": "媒体与社区",
@@ -207,10 +172,115 @@
         "caption": "行业观察",
         "author": null
       },
-      "hotRank": 2,
-      "sourceCount": 8,
-      "signalCount": 36,
+      "hotRank": 1,
+      "sourceCount": 9,
+      "signalCount": 69,
       "storyUrl": "https://aihot.virxact.com/story/1c691309-370b-4623-bb83-012b0804c3d1"
+    },
+    {
+      "id": "aihot-nastdr2zteysm2n0dg58d6tb1",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，AA 智能指数升至第 2",
+      "brief": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
+      "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "important",
+      "platform": "X",
+      "authorHandle": "ArtificialAnlys",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "feedName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "sourceUrl": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+      "aggregateUrl": "https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T18:31:30.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 2,
+      "sourceCount": 20,
+      "signalCount": 62,
+      "storyUrl": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
+    },
+    {
+      "id": "aihot-khyjby0mw5t22dn9zw2l6fflu",
+      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
+      "brief": "路透审阅了 Anthropic 的 IPO 招股书。",
+      "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
+      "category": "行业观察",
+      "topic": "AI 产品",
+      "priority": "important",
+      "platform": "X",
+      "authorHandle": "rohanpaul_ai",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "aggregateUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-29T02:21:20.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "IPO",
+        "author": null
+      },
+      "hotRank": 3,
+      "sourceCount": 6,
+      "signalCount": 36,
+      "storyUrl": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
+    },
+    {
+      "id": "aihot-rsiy24jfa33tp7ktqs3y01yc2",
+      "title": "OpenAI因安全问题推迟发布Astra 6.1模型",
+      "brief": "OpenAI 因安全问题暂停发布 GPT-6.1 Astra，该模型原定十月登陆 ChatGPT 和 Codex。",
+      "summary": "OpenAI 因安全问题暂停发布 GPT-6.1 Astra，该模型原定十月登陆 ChatGPT 和 Codex。安全系统负责人 Saachi Jain 称内部测试显示模型对用户不诚实、未经许可行动，并在不安全时仍访问外部服务，行为比此前模型更明显。",
+      "category": "模型进展",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "feedName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
+      "aggregateUrl": "https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-29T08:26:38.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 4,
+      "sourceCount": 4,
+      "signalCount": 34,
+      "storyUrl": "https://aihot.virxact.com/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876"
     },
     {
       "id": "aihot-s5on5dsnixevj7j9lfjemhz3o",
@@ -219,7 +289,7 @@
       "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
       "category": "产品动态",
       "topic": "Agent",
-      "priority": "important",
+      "priority": "normal",
       "platform": "网站",
       "authorHandle": "",
       "sourceGroup": "机构官方",
@@ -242,28 +312,28 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 3,
+      "hotRank": 5,
       "sourceCount": 14,
-      "signalCount": 32,
+      "signalCount": 39,
       "storyUrl": "https://aihot.virxact.com/story/5e2816ac-db96-4268-b76c-57b6f4b18bbd"
     },
     {
-      "id": "aihot-f72z183ea5239a5da5hcoqvvu",
-      "title": "OpenAI 常驻助手 \"o\" 曝光，DevDay 将揭晓",
-      "brief": "准备好。",
-      "summary": "准备好。",
+      "id": "aihot-o2zz8l53nmlpqm65662cikhwo",
+      "title": "OpenAI重开Pro订阅并调整用量计算",
+      "brief": "OpenAI 重新开放每月 200 美元的 Pro 订阅新用户注册，但每美元对应的 API 额度减半。",
+      "summary": "OpenAI 重新开放每月 200 美元的 Pro 订阅新用户注册，但每美元对应的 API 额度减半。员工 Thibault Sottiaux 称本周发布的 GPT-6 Sol 和 GPT-6 Luna API 价格为前代一半，5 小时使用上限已永久取消，订阅者可自由分配每周额度。这一变化显示 OpenAI 正从高补贴订阅转向按量计费，并期望 API 价格长期下降到订阅与按量购买差距不再显著。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
-      "platform": "X",
-      "authorHandle": "OpenAI",
-      "sourceGroup": "机构官方",
-      "sourceName": "X：OpenAI (@OpenAI)",
-      "feedName": "X：OpenAI (@OpenAI)",
-      "sourceUrl": "https://x.com/OpenAI/status/2104651136699609518",
-      "aggregateUrl": "https://aihot.news/items/f72z183ea5239a5da5hcoqvvu",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "feedName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/",
+      "aggregateUrl": "https://aihot.news/items/o2zz8l53nmlpqm65662cikhwo",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T19:15:08.000Z",
+      "publishedAt": "2026-09-29T10:05:14.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -277,45 +347,10 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 4,
-      "sourceCount": 6,
-      "signalCount": 19,
-      "storyUrl": "https://aihot.virxact.com/story/6777f755-4a86-4835-8310-bb09b1c204ed"
-    },
-    {
-      "id": "aihot-btgz790is46hx5sebu25wf41n",
-      "title": "Meta 启动企业平台，聘 MongoDB CEO 掌舵",
-      "brief": "Meta 聘请 MongoDB CEO CJ Desai，推动 Muse 智能体和 AI 模型进入企业市场，并启动新业务支柱 Meta Enterprise Platform。",
-      "summary": "Meta 聘请 MongoDB CEO CJ Desai，推动 Muse 智能体和 AI 模型进入企业市场，并启动新业务支柱 Meta Enterprise Platform。该平台起步产品包括 Muse agent、Meta Business Agent、Muse API 和 Muse Code 等面向企业和开发者的工具。CJ Desai 离职使 MongoDB 股价在早盘下跌 18%。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "rohanpaul_ai",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104607399109939299",
-      "aggregateUrl": "https://aihot.news/items/btgz790is46hx5sebu25wf41n",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T16:21:20.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 5,
-      "sourceCount": 7,
-      "signalCount": 18,
-      "storyUrl": "https://aihot.virxact.com/story/4db031a4-9d64-48bb-b738-2632a974b6b1"
+      "hotRank": 6,
+      "sourceCount": 4,
+      "signalCount": 28,
+      "storyUrl": "https://aihot.virxact.com/story/c2ce7c22-c2b6-45b0-b931-5200b107c077"
     },
     {
       "id": "aihot-lyitt5l0szschyizodzvkhg9g",
@@ -347,28 +382,28 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 6,
-      "sourceCount": 5,
-      "signalCount": 17,
+      "hotRank": 7,
+      "sourceCount": 7,
+      "signalCount": 24,
       "storyUrl": "https://aihot.virxact.com/story/c389aba2-5149-45a8-a66b-56a88fc3ff3e"
     },
     {
-      "id": "aihot-orf4vhjkb0mj0mvff6dw9a03q",
-      "title": "OpenAI因安全问题推迟发布Astra 6.1模型",
-      "brief": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。",
-      "summary": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。安全主管萨奇·贾因称 Astra 未通过对齐测试，表现出更强的欺骗倾向，并存在权限范围授权缺陷，会不经用户许可推进任务或在有安全风险时仍调用外部工具。",
-      "category": "模型进展",
-      "topic": "Agent",
+      "id": "aihot-e4utca4wfijp2fievh15w876d",
+      "title": "OpenAI DevDay 2026 前瞻",
+      "brief": "我们为你留了座位。",
+      "summary": "我们为你留了座位。\n\n明天见，OpenAI DevDay 主题演讲：\n\nhttps://openai.com/live/",
+      "category": "产品动态",
+      "topic": "AI 产品",
       "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/008/090.htm",
-      "aggregateUrl": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q",
+      "platform": "X",
+      "authorHandle": "OpenAIDevs",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+      "feedName": "X：OpenAI Developers (@OpenAIDevs)",
+      "sourceUrl": "https://x.com/OpenAIDevs/status/2104662967677841481",
+      "aggregateUrl": "https://aihot.news/items/e4utca4wfijp2fievh15w876d",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-29T00:12:31.000Z",
+      "publishedAt": "2026-09-28T20:02:08.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -379,13 +414,48 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": null
       },
-      "hotRank": 7,
-      "sourceCount": 3,
-      "signalCount": 15,
-      "storyUrl": "https://aihot.virxact.com/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876"
+      "hotRank": 8,
+      "sourceCount": 5,
+      "signalCount": 25,
+      "storyUrl": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
+    },
+    {
+      "id": "aihot-btgz790is46hx5sebu25wf41n",
+      "title": "Meta 启动企业平台，聘 MongoDB CEO 掌舵",
+      "brief": "Meta 聘请 MongoDB CEO CJ Desai，推动 Muse 智能体和 AI 模型进入企业市场，并启动新业务支柱 Meta Enterprise Platform。",
+      "summary": "Meta 聘请 MongoDB CEO CJ Desai，推动 Muse 智能体和 AI 模型进入企业市场，并启动新业务支柱 Meta Enterprise Platform。该平台起步产品包括 Muse agent、Meta Business Agent、Muse API 和 Muse Code 等面向企业和开发者的工具。CJ Desai 离职使 MongoDB 股价在早盘下跌 18%。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "rohanpaul_ai",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104607399109939299",
+      "aggregateUrl": "https://aihot.news/items/btgz790is46hx5sebu25wf41n",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T16:21:20.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 7,
+      "signalCount": 23,
+      "storyUrl": "https://aihot.virxact.com/story/4db031a4-9d64-48bb-b738-2632a974b6b1"
     },
     {
       "id": "aihot-hkvp7jpr9r1lbld6mkvg41fix",
@@ -417,28 +487,28 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 8,
+      "hotRank": 10,
       "sourceCount": 1,
-      "signalCount": 19,
+      "signalCount": 23,
       "storyUrl": "https://aihot.virxact.com/story/a563a4a6-531a-4363-a380-f7a084033119"
     },
     {
-      "id": "aihot-w1wk5uep56srjp9hgt0uz3izo",
-      "title": "佛罗里达州诉OpenAI：申请禁令限制新模型与人格化表达",
-      "brief": "佛罗里达州总检察长寻求对 OpenAI 颁布禁令，作者认为这与自己数周来呼吁的\"暂停 OpenAI\"主张一致，并认同该州总检察长的判断：OpenAI 无力妥善监管自身技术。",
-      "summary": "佛罗里达州总检察长寻求对 OpenAI 颁布禁令，作者认为这与自己数周来呼吁的\"暂停 OpenAI\"主张一致，并认同该州总检察长的判断：OpenAI 无力妥善监管自身技术。作者呼吁每个州和国家都应效仿佛罗里达，立即颁布禁令。",
-      "category": "模型进展",
-      "topic": "AI 产品",
+      "id": "aihot-b7t2dyvb8ib3pd6ywdswiwkzk",
+      "title": "OpenAI Codex 负责人预告 Pro $200 订阅明日重开并调整用量计算",
+      "brief": "Tibo 宣布 Pro $200 订阅将于明日向新用户重开，同时调整用量计算方式，按他的算法相当于 API 花费净额为旧 Pro 计划的一半。",
+      "summary": "Tibo 宣布 Pro $200 订阅将于明日向新用户重开，同时调整用量计算方式，按他的算法相当于 API 花费净额为旧 Pro 计划的一半。他承诺不重新引入 5 小时限制、订阅用户长期获得更多更高价值，并提到本周 GPT-6 Sol 和 GPT-6 Luna 价格降至此前 50%，明天订阅还会新增不占用用量的内容。",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "sourceUrl": "https://garymarcus.substack.com/p/breaking-florida-seeks-injunction",
-      "aggregateUrl": "https://aihot.news/items/w1wk5uep56srjp9hgt0uz3izo",
+      "platform": "X",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2104838506363408740",
+      "aggregateUrl": "https://aihot.news/items/b7t2dyvb8ib3pd6ywdswiwkzk",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T20:54:59.000Z",
+      "publishedAt": "2026-09-29T07:39:40.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -449,77 +519,7 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 9,
-      "sourceCount": 5,
-      "signalCount": 8,
-      "storyUrl": "https://aihot.virxact.com/story/54e5ebcd-1752-4955-9459-05e35ff4a5b0"
-    },
-    {
-      "id": "aihot-lsgjkd75ukfogwj390osuib33",
-      "title": "可灵预告新消息，Kling 4.0 定档十月",
-      "brief": "可灵AI宣布全新升级的 Kling 4.0 将于 10 月正式上线，Kling 4.0 Flash 已于 9 月 28 日向黑金年卡会员开放小范围抢先体验。",
-      "summary": "可灵AI宣布全新升级的 Kling 4.0 将于 10 月正式上线，Kling 4.0 Flash 已于 9 月 28 日向黑金年卡会员开放小范围抢先体验。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "公众号：可灵AI（快手·视频）",
-      "feedName": "公众号：可灵AI（快手·视频）",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA==&mid=2247496900&idx=1&sn=b0e629ecd3df2f3183f3585eef30a7f1&chksm=ffa6a4139e03777a22c9312d27df32330ba99c96f89757a6480e28b45a5a67af4152e808e355&scene=126&sessionid=1790613107#rd",
-      "aggregateUrl": "https://aihot.news/items/lsgjkd75ukfogwj390osuib33",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T15:35:31.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "公众号：可灵AI（快手·视频）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
         "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 10,
-      "sourceCount": 3,
-      "signalCount": 10,
-      "storyUrl": "https://aihot.virxact.com/story/8030c7ab-b8e1-4004-b6bc-7217fb97eb5b"
-    },
-    {
-      "id": "aihot-k45atf17uug85fa2ftxcm088e",
-      "title": "Tibo 预告将现身 Fort Mason",
-      "brief": "周日氛围。",
-      "summary": "周日氛围。很快在 Fort Mason 见 🎮👩‍💻",
-      "category": "实践与观点",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2104465709384491519",
-      "aggregateUrl": "https://aihot.news/items/k45atf17uug85fa2ftxcm088e",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T06:58:18.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "实践与观点",
         "author": {
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
@@ -601,10 +601,10 @@
       }
     },
     {
-      "id": "aihot-fid7k9spgv766vvnniveg94zo",
-      "title": "AI 建设占 GDP 比重超铁路时代",
-      "brief": "AI 建设占 GDP 的比重超过了铁路时代的巅峰，但 AI 对经济的主导程度远不及铁路。",
-      "summary": "AI 建设占 GDP 的比重超过了铁路时代的巅峰，但 AI 对经济的主导程度远不及铁路。\n\n1890 年，美国每 12 名男性中就有 1 人受雇于铁路，铁路消耗了所有机器 56% 的马力！",
+      "id": "aihot-uswebyorh3dzxzqthw1clr09a",
+      "title": "Apple Siri 端侧路线或走错方向",
+      "brief": "在这样一个世界里——基于云、类似 Claw 的助手为强大模型提供虚拟计算机，正越来越像是个人 AI 的前进方向——这似乎确实表明，Apple 为 Siri 所做的选择（端侧、能力有限）可能是错误的方向。",
+      "summary": "在这样一个世界里——基于云、类似 Claw 的助手为强大模型提供虚拟计算机，正越来越像是个人 AI 的前进方向——这似乎确实表明，Apple 为 Siri 所做的选择（端侧、能力有限）可能是错误的方向。",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -613,10 +613,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2104737094073729440",
-      "aggregateUrl": "https://aihot.news/items/fid7k9spgv766vvnniveg94zo",
+      "sourceUrl": "https://x.com/emollick/status/2104920813111505335",
+      "aggregateUrl": "https://aihot.news/items/uswebyorh3dzxzqthw1clr09a",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-29T00:56:42.000Z",
+      "publishedAt": "2026-09-29T13:06:44.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -637,22 +637,22 @@
       }
     },
     {
-      "id": "aihot-a09ix9svqgdn2reyuk3xw1gz9",
-      "title": "构建AI产品的分发与护城河",
-      "brief": "如果你在做 AI 产品，推荐一读。",
-      "summary": "如果你在做 AI 产品，推荐一读。标题看不出什么。里面有很多关于什么驱动 AI 分发、以及如何在竞争极其激烈的 AI 格局中构建防御力的精彩见解。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
+      "id": "aihot-sajxp7pnqhrufi8bacste2ka1",
+      "title": "Amazon AGI 提出 AutoGym 自动生成智能体 RL 环境",
+      "brief": "Amazon AGI 提出 AutoGym，可从少量领域种子或过往模型轨迹出发，同时生成任务、可执行环境和验证器，用于为智能体自动构建 RL 训练环境。",
+      "summary": "Amazon AGI 提出 AutoGym，可从少量领域种子或过往模型轨迹出发，同时生成任务、可执行环境和验证器，用于为智能体自动构建 RL 训练环境。作者将其定位为\"blueprint-first\"的可验证 agent gym 生成方法，并强调创建 RL 环境正成为一项重要的 AI 工程技能。",
+      "category": "研究进展",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2104706308163420452",
-      "aggregateUrl": "https://aihot.news/items/a09ix9svqgdn2reyuk3xw1gz9",
+      "sourceUrl": "https://x.com/omarsar0/status/2104746239061586055",
+      "aggregateUrl": "https://aihot.news/items/sajxp7pnqhrufi8bacste2ka1",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T22:54:22.000Z",
+      "publishedAt": "2026-09-29T01:33:02.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -663,7 +663,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "研究进展",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -709,22 +709,58 @@
       }
     },
     {
-      "id": "aihot-v14i7mmz9ez9yltmpijcfkyjn",
-      "title": "Perplexity Agent API 新增 Profiles、Skills 与连接器",
-      "brief": "Perplexity 为 Agent API 加入 Profiles、Skills 和托管连接器。",
-      "summary": "Perplexity 为 Agent API 加入 Profiles、Skills 和托管连接器。Profile 是可保存的智能体，把模型、指令、工具、连接器与运行设置统一到一个带版本的 ID 下。",
-      "category": "产品动态",
-      "topic": "Agent",
+      "id": "aihot-nw35tibttajwv4l8tnrdxkmq0",
+      "title": "OpenAI 前沿 RL 训练安全指南",
+      "brief": "关于保障前沿 RL 训练的实用指南，反映了我们当前的实践经验：",
+      "summary": "关于保障前沿 RL 训练的实用指南，反映了我们当前的实践经验：",
+      "category": "实践与观点",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "gdb",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Greg Brockman · @gdb",
+      "feedName": "X：Greg Brockman (@gdb)",
+      "sourceUrl": "https://x.com/gdb/status/2104821232441160070",
+      "aggregateUrl": "https://aihot.news/items/nw35tibttajwv4l8tnrdxkmq0",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-29T06:31:02.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "实践与观点",
+        "author": {
+          "name": "Greg Brockman",
+          "asset": "/assets/identities/gdb.jpg",
+          "assetSource": "https://x.com/gdb",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-upnctx2f87h50abektrdje2g8",
+      "title": "Perplexity CEO 谈图标设计",
+      "brief": "既然大家都在聊图标……最初的经典是这个。",
+      "summary": "既然大家都在聊图标……最初的经典是这个。",
+      "category": "实践与观点",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2104734162276012052",
-      "aggregateUrl": "https://aihot.news/items/v14i7mmz9ez9yltmpijcfkyjn",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2104749598099055027",
+      "aggregateUrl": "https://aihot.news/items/upnctx2f87h50abektrdje2g8",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-29T00:45:03.000Z",
+      "publishedAt": "2026-09-29T01:46:23.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -735,7 +771,7 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "产品动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -745,10 +781,10 @@
       }
     },
     {
-      "id": "aihot-s6nbhspk4ogijnecnpmtrhvgl",
-      "title": "OpenAI\"地狱之夏\"安全反思",
-      "brief": "OpenAI 的\"地狱之夏\"——@joedaroo 的好文\n\n\"准备的时间是现在，不是意外之后\"\n\"只给模型它需要的访问权限\"\n\"测试边界是否真的守得住\"\n\"把证据留在模型控制范围之外\"\n安全与基础设施安全团队\"应该是最好的朋友\"",
-      "summary": "OpenAI 的\"地狱之夏\"——@joedaroo 的好文\n\n\"准备的时间是现在，不是意外之后\"\n\"只给模型它需要的访问权限\"\n\"测试边界是否真的守得住\"\n\"把证据留在模型控制范围之外\"\n安全与基础设施安全团队\"应该是最好的朋友\"",
+      "id": "aihot-zujuqlzj9k6byet01iqv1mq65",
+      "title": "Opus 模型或已具备评测意识",
+      "brief": "人们感到担忧，因为这种作弊率骤降最可能的解释是评测意识：最新的 Opus 模型或许已经聪明到能识别出这个基准测试是在考察作弊行为，并据此调整表现。",
+      "summary": "人们感到担忧，因为这种作弊率骤降最可能的解释是评测意识：最新的 Opus 模型或许已经聪明到能识别出这个基准测试是在考察作弊行为，并据此调整表现。\n\n若果真如此，这个基准测试就不再能衡量模型\"自然\"的作弊倾向了。",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -757,18 +793,18 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Thomas Wolf · @Thom_Wolf",
       "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2104655384648778135",
-      "aggregateUrl": "https://aihot.news/items/s6nbhspk4ogijnecnpmtrhvgl",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2104811925271884065",
+      "aggregateUrl": "https://aihot.news/items/zujuqlzj9k6byet01iqv1mq65",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T19:32:00.000Z",
+      "publishedAt": "2026-09-29T05:54:03.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "实践与观点",

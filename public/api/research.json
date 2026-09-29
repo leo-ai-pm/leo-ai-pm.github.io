@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-29T06:59:59.472Z",
-      "lastSuccessAt": "2026-09-29T06:59:59.472Z",
-      "nextCheckAt": 1790668799472,
+      "checkedAt": "2026-09-29T13:58:08.626Z",
+      "lastSuccessAt": "2026-09-29T13:58:08.626Z",
+      "nextCheckAt": 1790693888626,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-29T06:59:59.474Z",
-      "lastSuccessAt": "2026-09-29T06:59:59.474Z",
-      "nextCheckAt": 1790668799474,
+      "checkedAt": "2026-09-29T13:58:08.627Z",
+      "lastSuccessAt": "2026-09-29T13:58:08.627Z",
+      "nextCheckAt": 1790693888627,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-29T06:59:59.475Z",
-      "lastSuccessAt": "2026-09-29T06:59:59.475Z",
-      "nextCheckAt": 1790668799475,
+      "checkedAt": "2026-09-29T13:58:08.629Z",
+      "lastSuccessAt": "2026-09-29T13:58:08.629Z",
+      "nextCheckAt": 1790693888629,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-29T13:58:09.025Z",
+      "lastSuccessAt": "2026-09-29T13:58:09.025Z",
+      "nextCheckAt": 1790693889025,
       "status": "ok",
-      "nextCheckAt": 1790668799687,
-      "checkedAt": "2026-09-29T06:59:59.687Z",
-      "lastSuccessAt": "2026-09-29T06:59:59.687Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790668799472,
+  "nextCheckAt": 1790693888626,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6471603.html",
-      "title": "对话 Snowflake CEO：创业者最容易高估用户对旧产品的不满，低估用户改变习惯的成本",
-      "summary": "Sridhar Ramaswamy 从 Google 高管到创办搜索引擎 Neeva，再到出任 Snowflake CEO。在与 Aditya 的对话中，他谈到开源模型、Agent 与企业软件的未来，以及当软件越来越容易被造出来时，什么价值仍然难以复制。 Sridhar Ramaswamy做过Google高管，也从Google离职创办了搜索引擎Neeva。如今担任Snowflake CEO的他，正面对一个比当年更直接的问题：当模型可以写",
-      "publishedAt": "2026-09-29T03:48:33.000Z",
-      "url": "https://www.woshipm.com/ai/6471603.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6471952.html",
+      "title": "Manus终于像个通用Agent了",
+      "summary": "2025 年 3 月 Manus 刚上线时，行业里最吵的问题是：AI Agent 到底该做全能通用型，还是聚焦单一场景。加入 Meta 又独立之后，2.0 版的 Manus 终于把“General Agent”从定位做成了体验，不再只是覆盖面广的执行助手。 离开Meta后的2.0。 2025年3月Manus刚上线的时候，大家讨论的不只是产品好不好用。 行业里吵得最凶的一个问题：AI Agent到底要做全能通用型，还是聚焦单一场景深耕。",
+      "publishedAt": "2026-09-29T08:59:22.000Z",
+      "url": "https://www.woshipm.com/ai/6471952.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,16 +122,177 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6471603.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6471952.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Sridhar Ramaswamy 从 Google 高管到创办搜索引擎 Neeva，再到出任 Snowflake CEO。在与 Aditya 的对话中，他谈到开源模型、Agent 与企业软件的未来，以及当软件越来越容易被造出来时，什么价值仍然难以复制。 Sridhar Ramaswamy做过Google高管，也从Google离职创办了搜索引擎Neeva。如今担任Snowflake CEO的他，正面对一个比当年更直接的问题：当模型可以写",
+      "brief": "2025 年 3 月 Manus 刚上线时，行业里最吵的问题是：AI Agent 到底该做全能通用型，还是聚焦单一场景。加入 Meta 又独立之后，2.0 版的 Manus 终于把“General Agent”从定位做成了体验，不再只是覆盖面广的执行助手。 离开Meta后的2.0。 2025年3月Manus刚上线的时候，大家讨论的不只是产品好不好用。 行业里吵得最凶的一个问题：AI Agent到底要做全能通用型，还是聚焦单一场景深耕。",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6471863.html",
+      "title": "弱网下音视频体验优化实战：抗丢包、低延迟与AI音画质增强",
+      "summary": "弱网环境下的音视频体验，是产品经理必须直面的真实战场。本文跳出纯技术视角，从用户感知优先级出发，拆解分层抗丢包、全链路低延迟与AI音画质增强的落地策略，并总结三大避坑点，提供可直接写入PRD的实战方法论。 作为音视频产品经理，我们核心工作从来不是复刻实验室的完美数据，而是抹平真实场景与理想环境的体验落差。 在远程会议、实时连麦、线上协作等核心场景中，用户网络永远是不可控变量：移动网络抖动、跨运营商传输、弱网丢包、带宽突变，都会引发卡顿、",
+      "publishedAt": "2026-09-29T06:50:17.000Z",
+      "url": "https://www.woshipm.com/share/6471863.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6471863.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "弱网环境下的音视频体验，是产品经理必须直面的真实战场。本文跳出纯技术视角，从用户感知优先级出发，拆解分层抗丢包、全链路低延迟与AI音画质增强的落地策略，并总结三大避坑点，提供可直接写入PRD的实战方法论。 作为音视频产品经理，我们核心工作从来不是复刻实验室的完美数据，而是抹平真实场景与理想环境的体验落差。 在远程会议、实时连麦、线上协作等核心场景中，用户网络永远是不可控变量：移动网络抖动、跨运营商传输、弱网丢包、带宽突变，都会引发卡顿、",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/supertake",
+      "title": "Supertake",
+      "summary": "AI that turn your ideas into real investments",
+      "publishedAt": "2026-09-29T02:05:11.000Z",
+      "url": "https://www.producthunt.com/products/supertake",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/supertake",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI that turn your ideas into real investments",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/claude",
+      "title": "Claude Sonnet 5.5",
+      "summary": "Anthropic's second model in the Claude 5.5 family",
+      "publishedAt": "2026-09-28T18:27:48.000Z",
+      "url": "https://www.producthunt.com/products/claude",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/claude",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Anthropic's second model in the Claude 5.5 family",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/timeos",
+      "title": "Timeless Code",
+      "summary": "Meeting notetaker that installs and runs inside Claude Code",
+      "publishedAt": "2026-09-28T10:37:27.000Z",
+      "url": "https://www.producthunt.com/products/timeos",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/timeos",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Meeting notetaker that installs and runs inside Claude Code",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/prime/story/dev-env-on-android-with-termux",
@@ -171,126 +332,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/sayble",
-      "title": "Sayble",
-      "summary": "AI copilot for calls that tells you what to say next",
-      "publishedAt": "2026-09-27T19:46:24.000Z",
-      "url": "https://www.producthunt.com/products/sayble",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/sayble",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI copilot for calls that tells you what to say next",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/arc-ai-screen-assistant",
-      "title": "Arc",
-      "summary": "Your mobile AI assistant on any screen",
-      "publishedAt": "2026-09-27T17:11:05.000Z",
-      "url": "https://www.producthunt.com/products/arc-ai-screen-assistant",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/arc-ai-screen-assistant",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Your mobile AI assistant on any screen",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/pip-9",
-      "title": "PIP",
-      "summary": "AI buddy on your computer",
-      "publishedAt": "2026-09-27T16:48:56.000Z",
-      "url": "https://www.producthunt.com/products/pip-9",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/pip-9",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI buddy on your computer",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
