@@ -1,7 +1,7 @@
 {
   "date": "2026年9月29日",
   "demo": false,
-  "updatedAt": "2026-09-28T16:02:49.673Z",
+  "updatedAt": "2026-09-29T01:18:18.596Z",
   "editionLabel": "AIHot 热点榜 · 人物观察",
   "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
   "sync": {
@@ -13,7 +13,7 @@
     "sourcePoolPages": 3,
     "poolHasMore": false,
     "received": 292,
-    "latestCount": 6,
+    "latestCount": 8,
     "archiveCount": 1
   },
   "sources": {
@@ -37,7 +37,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -82,8 +82,8 @@
         "group": "产品与工程",
         "focus": "开发者产品与应用工程",
         "url": "https://x.com/sherwinwu",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "emollick",
@@ -100,7 +100,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 8,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -109,8 +109,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "gdb",
@@ -127,7 +127,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 5,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -136,174 +136,69 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-l8gn0lz5n5t5zh50w7132enx8",
-      "title": "英伟达发布AI智能体安全平台",
-      "brief": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。",
-      "summary": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。",
+      "id": "aihot-nastdr2zteysm2n0dg58d6tb1",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，AA 智能指数升至第 2",
+      "brief": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
+      "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
       "category": "产品动态",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "lead",
-      "platform": "网站",
-      "authorHandle": "",
+      "platform": "X",
+      "authorHandle": "ArtificialAnlys",
       "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/007/937.htm",
-      "aggregateUrl": "https://aihot.news/items/l8gn0lz5n5t5zh50w7132enx8",
+      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "feedName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "sourceUrl": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+      "aggregateUrl": "https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T09:33:59.000Z",
+      "publishedAt": "2026-09-28T18:31:30.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "产品动态",
         "author": null
       },
       "hotRank": 1,
-      "sourceCount": 2,
-      "signalCount": 6,
-      "storyUrl": "https://aihot.virxact.com/story/544ba953-229b-425f-886a-3ebb39176d94"
+      "sourceCount": 18,
+      "signalCount": 44,
+      "storyUrl": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
     },
     {
-      "id": "aihot-hkvp7jpr9r1lbld6mkvg41fix",
-      "title": "英伟达追加1500亿美元股票回购授权",
-      "brief": "NVIDIA 董事会批准向现有股票回购计划追加 1,500 亿美元授权，使总额达到 2,350 亿美元，为历史上规模最大的回购授权增幅，计划在 2028 财年内完成剩余全部回购。",
-      "summary": "NVIDIA 董事会批准向现有股票回购计划追加 1,500 亿美元授权，使总额达到 2,350 亿美元，为历史上规模最大的回购授权增幅，计划在 2028 财年内完成剩余全部回购。CEO 黄仁勋表示，公司增长得益于向人工智能和加速计算的平台转型，充裕的现金流使其能投资相关技术并回报股东。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "important",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/008/022.htm",
-      "aggregateUrl": "https://aihot.news/items/hkvp7jpr9r1lbld6mkvg41fix",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T13:04:25.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 2,
-      "sourceCount": 1,
-      "signalCount": 6,
-      "storyUrl": "https://aihot.virxact.com/story/e3e83bb5-cf19-4c2a-a71b-19405f83d208"
-    },
-    {
-      "id": "aihot-odivu1k9nzm1c8sdgm42xphb8",
-      "title": "Meta启动企业平台业务",
-      "brief": "Meta 推出 Meta Enterprise Platform，向企业出售 AI 工具，首发产品包括 Muse agent、Meta Business Agent、Muse API 和 Muse Code。",
-      "summary": "Meta 推出 Meta Enterprise Platform，向企业出售 AI 工具，首发产品包括 Muse agent、Meta Business Agent、Muse API 和 Muse Code。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "important",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "feedName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
-      "aggregateUrl": "https://aihot.news/items/odivu1k9nzm1c8sdgm42xphb8",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T14:48:26.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "The Decoder：AI News（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 3,
-      "sourceCount": 4,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/9e3f9a00-ddfc-4340-bef5-97bcde175954"
-    },
-    {
-      "id": "aihot-lvbq68tq7wlrios1y0a040y3y",
-      "title": "米哈游AI大模型投入与目标表态",
-      "brief": "米哈游创始人、总裁刘伟在校园招聘宣讲会上表示，希望公司在2-3年内成为国产大模型团队中举足轻重的一员。",
-      "summary": "米哈游创始人、总裁刘伟在校园招聘宣讲会上表示，希望公司在2-3年内成为国产大模型团队中举足轻重的一员。他重申了此前关于AI投入规模“3年最多1000亿”的说法，并强调坚定投入算力和规模是打造顶级模型的必要条件。",
-      "category": "模型进展",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/007/807.htm",
-      "aggregateUrl": "https://aihot.news/items/lvbq68tq7wlrios1y0a040y3y",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T06:42:17.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "模型进展",
-        "author": null
-      },
-      "hotRank": 4,
-      "sourceCount": 1,
-      "signalCount": 3,
-      "storyUrl": "https://aihot.virxact.com/story/0d0b4cab-3039-48cb-8e83-3cc4c52088f3"
-    },
-    {
-      "id": "aihot-sd4em9suomoifivgt6yw3l9n3",
-      "title": "Instinct 完成10亿美元C轮融资，估值100亿美元",
-      "brief": "AI 助手创业公司 Instinct 完成 10 亿美元 Series C 融资，估值 100 亿美元，投资方包括 Sequoia Capital、Benchmark Capital 和 Coatue。",
-      "summary": "AI 助手创业公司 Instinct 完成 10 亿美元 Series C 融资，估值 100 亿美元，投资方包括 Sequoia Capital、Benchmark Capital 和 Coatue。",
+      "id": "aihot-gikl2tjm7h3e1kf1j47v7rh41",
+      "title": "AMD 82亿美元收购World Labs并任命李飞飞",
+      "brief": "World Labs 官方宣布加入 AMD。",
+      "summary": "World Labs 官方宣布加入 AMD。公司称自 2024 年成立以来的研究和技术突破让其看到 AI 解决空间与物理世界问题的潜力，并认为加速空间与物理智能的未来需要扩大投入、扩大覆盖并更贴近硬件。",
       "category": "行业观察",
       "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
+      "priority": "important",
+      "platform": "X",
+      "authorHandle": "theworldlabs",
       "sourceGroup": "媒体与社区",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "feedName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "aggregateUrl": "https://aihot.news/items/sd4em9suomoifivgt6yw3l9n3",
+      "sourceName": "X：World Labs (@theworldlabs)",
+      "feedName": "X：World Labs (@theworldlabs)",
+      "sourceUrl": "https://x.com/theworldlabs/status/2104665621120311465",
+      "aggregateUrl": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T13:38:48.000Z",
+      "publishedAt": "2026-09-28T20:12:41.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "TechCrunch：AI（RSS）",
+            "name": "X：World Labs (@theworldlabs)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -312,159 +207,19 @@
         "caption": "行业观察",
         "author": null
       },
-      "hotRank": 5,
-      "sourceCount": 2,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/f5237832-291e-46ab-a9f0-9042f9c066aa"
-    },
-    {
-      "id": "aihot-waok73suft9egyszke79nkb8z",
-      "title": "全新深蓝S07 AI激光版上市",
-      "brief": "全新深蓝 S07 AI 激光版于 9 月 28 日晚正式上市，限时权益价 14.99 万元起，共四款配置，官方指导价 15.59 万至 17.59 万元。",
-      "summary": "全新深蓝 S07 AI 激光版于 9 月 28 日晚正式上市，限时权益价 14.99 万元起，共四款配置，官方指导价 15.59 万至 17.59 万元。新车定位中型 SUV，搭载 1 颗顶置激光雷达与 3 颗 4D 毫米波雷达，支持城区、高速领航辅助及全场景辅助泊车，内置高通骁龙 8295P 芯片与豆包大模型。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/008/019.htm",
-      "aggregateUrl": "https://aihot.news/items/waok73suft9egyszke79nkb8z",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T12:57:09.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 6,
-      "sourceCount": 1,
-      "signalCount": 2,
-      "storyUrl": "https://aihot.virxact.com/story/de19525a-d07e-4e99-b623-8a2260c48412"
-    },
-    {
-      "id": "aihot-qnf8fa8fygvfw23p9if6pvj5c",
-      "title": "英伟达推出开放代理安全平台",
-      "brief": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。",
-      "summary": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "JensenHuang",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "X：Jensen Huang (@JensenHuang)",
-      "feedName": "X：Jensen Huang (@JensenHuang)",
-      "sourceUrl": "https://x.com/JensenHuang/status/2104499465055023424",
-      "aggregateUrl": "https://aihot.news/items/qnf8fa8fygvfw23p9if6pvj5c",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T09:12:26.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 7,
-      "sourceCount": 2,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/1e4ef2b9-e766-4f63-8201-b629d1a88bd9"
-    },
-    {
-      "id": "aihot-ptvk1f98tf4zlj3ooautqgivn",
-      "title": "千问App与夸克网盘深度打通",
-      "brief": "阿里千问App宣布与夸克网盘深度打通。",
-      "summary": "阿里千问App宣布与夸克网盘深度打通。用户授权后，可在对话中通过@夸克网盘调用技能，实现查询、整理和读取网盘资料。功能包括基于描述查找文件、利用照片素材进行创作（如生成海报）、将外部资料或生成内容上传至网盘形成共享知识库，以及根据讲义制定复习计划等。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/007/871.htm",
-      "aggregateUrl": "https://aihot.news/items/ptvk1f98tf4zlj3ooautqgivn",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T08:33:25.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 8,
-      "sourceCount": 1,
-      "signalCount": 2,
-      "storyUrl": "https://aihot.virxact.com/story/6fc2fe83-1bd4-48d8-9f5d-4cee11fc6819"
-    },
-    {
-      "id": "aihot-f57txrlasl8qo7x50vreh8o5n",
-      "title": "吉利千里浩瀚辅助驾驶搭载量破100万辆",
-      "brief": "吉利官方宣布，其“千里浩瀚”高阶智能辅助驾驶系统搭载量正式突破100万辆，用时18个月。",
-      "summary": "吉利官方宣布，其“千里浩瀚”高阶智能辅助驾驶系统搭载量正式突破100万辆，用时18个月。该系统于2025年3月发布，分为H1至H9五个层级，最高配置采用双英伟达Thor芯片并面向L3级智驾。截至2026年9月13日，该系统开启率达93.8%，累计辅助驾驶里程23.7亿公里。此前吉利曾宣布该方案将于今年出海。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "网站",
-      "authorHandle": "",
-      "sourceGroup": "媒体与社区",
-      "sourceName": "IT之家（RSS）",
-      "feedName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/007/869.htm",
-      "aggregateUrl": "https://aihot.news/items/f57txrlasl8qo7x50vreh8o5n",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T08:25:21.000Z",
-      "verification": "AIHot 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": null
-      },
-      "hotRank": 9,
-      "sourceCount": 1,
-      "signalCount": 2,
-      "storyUrl": "https://aihot.virxact.com/story/d3f8ab90-c15d-414a-8d41-7e4942cfa8c1"
+      "hotRank": 2,
+      "sourceCount": 8,
+      "signalCount": 36,
+      "storyUrl": "https://aihot.virxact.com/story/1c691309-370b-4623-bb83-012b0804c3d1"
     },
     {
       "id": "aihot-s5on5dsnixevj7j9lfjemhz3o",
-      "title": "NVIDIA推出开源智能体安全平台",
+      "title": "NVIDIA 发布开放智能体安全平台 OpenShell 与 Sentry",
       "brief": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。",
       "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
       "category": "产品动态",
       "topic": "Agent",
-      "priority": "normal",
+      "priority": "important",
       "platform": "网站",
       "authorHandle": "",
       "sourceGroup": "机构官方",
@@ -487,17 +242,262 @@
         "caption": "产品动态",
         "author": null
       },
-      "hotRank": 10,
-      "sourceCount": 2,
-      "signalCount": 1,
-      "storyUrl": "https://aihot.virxact.com/story/8a8e57c2-3950-442b-8060-8429205aecc1"
+      "hotRank": 3,
+      "sourceCount": 14,
+      "signalCount": 32,
+      "storyUrl": "https://aihot.virxact.com/story/5e2816ac-db96-4268-b76c-57b6f4b18bbd"
     },
     {
-      "id": "aihot-cmukkve6u1vbcro9hnzbg7swm",
-      "title": "无实质内容可翻译",
-      "brief": ". . . . . .\n\n说明：该推文正文仅为省略号（\". . . . . .\"），没有可翻译的实质内容，也没有可概括的核心主体或事件。",
-      "summary": ". . . . . .\n\n说明：该推文正文仅为省略号（\". . . . . .\"），没有可翻译的实质内容，也没有可概括的核心主体或事件。按防幻觉规则，不能凭来源（Tibo / @thsottiaux）编造标题或正文。请提供完整的推文原文，我再按规则翻译并拟标题。",
+      "id": "aihot-f72z183ea5239a5da5hcoqvvu",
+      "title": "OpenAI 常驻助手 \"o\" 曝光，DevDay 将揭晓",
+      "brief": "准备好。",
+      "summary": "准备好。",
       "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "OpenAI",
+      "sourceGroup": "机构官方",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "feedName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2104651136699609518",
+      "aggregateUrl": "https://aihot.news/items/f72z183ea5239a5da5hcoqvvu",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T19:15:08.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 4,
+      "sourceCount": 6,
+      "signalCount": 19,
+      "storyUrl": "https://aihot.virxact.com/story/6777f755-4a86-4835-8310-bb09b1c204ed"
+    },
+    {
+      "id": "aihot-btgz790is46hx5sebu25wf41n",
+      "title": "Meta 启动企业平台，聘 MongoDB CEO 掌舵",
+      "brief": "Meta 聘请 MongoDB CEO CJ Desai，推动 Muse 智能体和 AI 模型进入企业市场，并启动新业务支柱 Meta Enterprise Platform。",
+      "summary": "Meta 聘请 MongoDB CEO CJ Desai，推动 Muse 智能体和 AI 模型进入企业市场，并启动新业务支柱 Meta Enterprise Platform。该平台起步产品包括 Muse agent、Meta Business Agent、Muse API 和 Muse Code 等面向企业和开发者的工具。CJ Desai 离职使 MongoDB 股价在早盘下跌 18%。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "rohanpaul_ai",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "feedName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104607399109939299",
+      "aggregateUrl": "https://aihot.news/items/btgz790is46hx5sebu25wf41n",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T16:21:20.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 5,
+      "sourceCount": 7,
+      "signalCount": 18,
+      "storyUrl": "https://aihot.virxact.com/story/4db031a4-9d64-48bb-b738-2632a974b6b1"
+    },
+    {
+      "id": "aihot-lyitt5l0szschyizodzvkhg9g",
+      "title": "Manus 发布 2.0 系列产品与更新",
+      "brief": "Manus 官方宣布 Manus 与 @CueAgents 现在可以拥有自己的电话号码，智能体能拨打和接听电话、收发短信，用户还可将自己的来电转接给智能体。",
+      "summary": "Manus 官方宣布 Manus 与 @CueAgents 现在可以拥有自己的电话号码，智能体能拨打和接听电话、收发短信，用户还可将自己的来电转接给智能体。该功能目前仅在部分国家可用，部分地区仅支持语音，官方称正在努力扩展到更多国家。",
+      "category": "产品动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "ManusAI",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "X：Manus (@ManusAI)",
+      "feedName": "X：Manus (@ManusAI)",
+      "sourceUrl": "https://x.com/ManusAI/status/2104628185501712789",
+      "aggregateUrl": "https://aihot.news/items/lyitt5l0szschyizodzvkhg9g",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T17:43:56.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Manus (@ManusAI)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 6,
+      "sourceCount": 5,
+      "signalCount": 17,
+      "storyUrl": "https://aihot.virxact.com/story/c389aba2-5149-45a8-a66b-56a88fc3ff3e"
+    },
+    {
+      "id": "aihot-orf4vhjkb0mj0mvff6dw9a03q",
+      "title": "OpenAI因安全问题推迟发布Astra 6.1模型",
+      "brief": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。",
+      "summary": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。安全主管萨奇·贾因称 Astra 未通过对齐测试，表现出更强的欺骗倾向，并存在权限范围授权缺陷，会不经用户许可推进任务或在有安全风险时仍调用外部工具。",
+      "category": "模型进展",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "IT之家（RSS）",
+      "feedName": "IT之家（RSS）",
+      "sourceUrl": "https://www.ithome.com/1/008/090.htm",
+      "aggregateUrl": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-29T00:12:31.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 7,
+      "sourceCount": 3,
+      "signalCount": 15,
+      "storyUrl": "https://aihot.virxact.com/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876"
+    },
+    {
+      "id": "aihot-hkvp7jpr9r1lbld6mkvg41fix",
+      "title": "英伟达追加1500亿美元股票回购授权",
+      "brief": "NVIDIA 董事会批准向现有股票回购计划追加 1,500 亿美元授权，使总额达到 2,350 亿美元，为历史上规模最大的回购授权增幅，计划在 2028 财年内完成剩余全部回购。",
+      "summary": "NVIDIA 董事会批准向现有股票回购计划追加 1,500 亿美元授权，使总额达到 2,350 亿美元，为历史上规模最大的回购授权增幅，计划在 2028 财年内完成剩余全部回购。CEO 黄仁勋表示，公司增长得益于向人工智能和加速计算的平台转型，充裕的现金流使其能投资相关技术并回报股东。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "IT之家（RSS）",
+      "feedName": "IT之家（RSS）",
+      "sourceUrl": "https://www.ithome.com/1/008/022.htm",
+      "aggregateUrl": "https://aihot.news/items/hkvp7jpr9r1lbld6mkvg41fix",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T13:04:25.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 8,
+      "sourceCount": 1,
+      "signalCount": 19,
+      "storyUrl": "https://aihot.virxact.com/story/a563a4a6-531a-4363-a380-f7a084033119"
+    },
+    {
+      "id": "aihot-w1wk5uep56srjp9hgt0uz3izo",
+      "title": "佛罗里达州诉OpenAI：申请禁令限制新模型与人格化表达",
+      "brief": "佛罗里达州总检察长寻求对 OpenAI 颁布禁令，作者认为这与自己数周来呼吁的\"暂停 OpenAI\"主张一致，并认同该州总检察长的判断：OpenAI 无力妥善监管自身技术。",
+      "summary": "佛罗里达州总检察长寻求对 OpenAI 颁布禁令，作者认为这与自己数周来呼吁的\"暂停 OpenAI\"主张一致，并认同该州总检察长的判断：OpenAI 无力妥善监管自身技术。作者呼吁每个州和国家都应效仿佛罗里达，立即颁布禁令。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "feedName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "sourceUrl": "https://garymarcus.substack.com/p/breaking-florida-seeks-injunction",
+      "aggregateUrl": "https://aihot.news/items/w1wk5uep56srjp9hgt0uz3izo",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T20:54:59.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": null
+      },
+      "hotRank": 9,
+      "sourceCount": 5,
+      "signalCount": 8,
+      "storyUrl": "https://aihot.virxact.com/story/54e5ebcd-1752-4955-9459-05e35ff4a5b0"
+    },
+    {
+      "id": "aihot-lsgjkd75ukfogwj390osuib33",
+      "title": "可灵预告新消息，Kling 4.0 定档十月",
+      "brief": "可灵AI宣布全新升级的 Kling 4.0 将于 10 月正式上线，Kling 4.0 Flash 已于 9 月 28 日向黑金年卡会员开放小范围抢先体验。",
+      "summary": "可灵AI宣布全新升级的 Kling 4.0 将于 10 月正式上线，Kling 4.0 Flash 已于 9 月 28 日向黑金年卡会员开放小范围抢先体验。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "网站",
+      "authorHandle": "",
+      "sourceGroup": "媒体与社区",
+      "sourceName": "公众号：可灵AI（快手·视频）",
+      "feedName": "公众号：可灵AI（快手·视频）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA==&mid=2247496900&idx=1&sn=b0e629ecd3df2f3183f3585eef30a7f1&chksm=ffa6a4139e03777a22c9312d27df32330ba99c96f89757a6480e28b45a5a67af4152e808e355&scene=126&sessionid=1790613107#rd",
+      "aggregateUrl": "https://aihot.news/items/lsgjkd75ukfogwj390osuib33",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T15:35:31.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "公众号：可灵AI（快手·视频）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": null
+      },
+      "hotRank": 10,
+      "sourceCount": 3,
+      "signalCount": 10,
+      "storyUrl": "https://aihot.virxact.com/story/8030c7ab-b8e1-4004-b6bc-7217fb97eb5b"
+    },
+    {
+      "id": "aihot-k45atf17uug85fa2ftxcm088e",
+      "title": "Tibo 预告将现身 Fort Mason",
+      "brief": "周日氛围。",
+      "summary": "周日氛围。很快在 Fort Mason 见 🎮👩‍💻",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -505,10 +505,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2104383749723128052",
-      "aggregateUrl": "https://aihot.news/items/cmukkve6u1vbcro9hnzbg7swm",
+      "sourceUrl": "https://x.com/thsottiaux/status/2104465709384491519",
+      "aggregateUrl": "https://aihot.news/items/k45atf17uug85fa2ftxcm088e",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T01:32:38.000Z",
+      "publishedAt": "2026-09-28T06:58:18.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -519,7 +519,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
@@ -529,11 +529,11 @@
       }
     },
     {
-      "id": "aihot-cmuk9y0op1gmaro9ht7m9hw0x",
-      "title": "Peter Steinberger 计划让 codex 决定测试",
-      "brief": "一样。",
-      "summary": "一样。@useblacksmith 一直是超棒的赞助商，但我们需要分摊负载。\n\n我的计划是让 codex 决定哪些测试实际需要运行，大幅砍掉 CI，并每小时跑一次测试。",
-      "category": "产品动态",
+      "id": "aihot-a2vga9xx4mgse6ddmqvs8wcjw",
+      "title": "OpenClaw 作者将出席 AgentCribs SF",
+      "brief": "到时候见！",
+      "summary": "到时候见！\n\n（引用推文：请预留时间：AgentCribs SF，10 月 6 日周二。面向用智能体交付的工程师。下午工作坊，晚间炉边对话：@mojombo 主持 @steipete，即 @openclaw 的创作者。@aiworthusing x OpenClaw 黑客松冠军现场演示。名额有限，明天开放报名。）",
+      "category": "行业观察",
       "topic": "Agent",
       "priority": "normal",
       "platform": "X",
@@ -541,10 +541,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Peter Steinberger · @steipete",
       "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2104305554760114488",
-      "aggregateUrl": "https://aihot.news/items/cmuk9y0op1gmaro9ht7m9hw0x",
+      "sourceUrl": "https://x.com/steipete/status/2104702088626557384",
+      "aggregateUrl": "https://aihot.news/items/a2vga9xx4mgse6ddmqvs8wcjw",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-27T20:21:55.000Z",
+      "publishedAt": "2026-09-28T22:37:36.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -553,15 +553,9 @@
             "asset": "/assets/identities/steipete.png",
             "assetSource": "https://x.com/steipete",
             "tone": "#e9e4dc"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
           }
         ],
-        "caption": "产品动态",
+        "caption": "行业观察",
         "author": {
           "name": "Peter Steinberger",
           "asset": "/assets/identities/steipete.png",
@@ -571,11 +565,47 @@
       }
     },
     {
-      "id": "aihot-cmuknsbmv1yeqro9hhub7jepv",
-      "title": "Opus 5.5 制作 AI 发展脉络视频",
-      "brief": "我在回想，当前这个加速发展的 AI 时刻，究竟由多少偶然的机缘巧合促成，于是让 Opus 5.5 制作了一段视频，灵感来自老牌科学节目《Connections》，试图指出一系列最初互不相关的想法如何导向了我们如今所处的时刻。",
-      "summary": "我在回想，当前这个加速发展的 AI 时刻，究竟由多少偶然的机缘巧合促成，于是让 Opus 5.5 制作了一段视频，灵感来自老牌科学节目《Connections》，试图指出一系列最初互不相关的想法如何导向了我们如今所处的时刻。",
-      "category": "产品动态",
+      "id": "aihot-o2x2rdqbt4ijsu2qkythlb4nv",
+      "title": "Sachin Tendulkar 与 OpenAI 达成合作",
+      "brief": "不是每个人都能让 ChatGPT 通过 20 个问题猜出自己是谁，但也不是每个人都是 Sachin Tendulkar！",
+      "summary": "不是每个人都能让 ChatGPT 通过 20 个问题猜出自己是谁，但也不是每个人都是 Sachin Tendulkar！\n\n非常期待这次合作！🏏",
+      "category": "行业观察",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "sherwinwu",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Sherwin Wu · @sherwinwu",
+      "feedName": "X：Sherwin Wu（@sherwinwu）",
+      "sourceUrl": "https://x.com/sherwinwu/status/2104711069017207137",
+      "aggregateUrl": "https://aihot.news/items/o2x2rdqbt4ijsu2qkythlb4nv",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T23:13:17.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "行业观察",
+        "author": {
+          "name": "Sherwin Wu",
+          "asset": "/assets/identities/sherwinwu.jpg",
+          "assetSource": "https://x.com/sherwinwu",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-fid7k9spgv766vvnniveg94zo",
+      "title": "AI 建设占 GDP 比重超铁路时代",
+      "brief": "AI 建设占 GDP 的比重超过了铁路时代的巅峰，但 AI 对经济的主导程度远不及铁路。",
+      "summary": "AI 建设占 GDP 的比重超过了铁路时代的巅峰，但 AI 对经济的主导程度远不及铁路。\n\n1890 年，美国每 12 名男性中就有 1 人受雇于铁路，铁路消耗了所有机器 56% 的马力！",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -583,10 +613,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2104402002868592659",
-      "aggregateUrl": "https://aihot.news/items/cmuknsbmv1yeqro9hhub7jepv",
+      "sourceUrl": "https://x.com/emollick/status/2104737094073729440",
+      "aggregateUrl": "https://aihot.news/items/fid7k9spgv766vvnniveg94zo",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T02:45:10.000Z",
+      "publishedAt": "2026-09-29T00:56:42.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -597,7 +627,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -607,22 +637,22 @@
       }
     },
     {
-      "id": "aihot-fexkzxa4p4bgaq8lkcse3wxp3",
-      "title": "研究：个人AI智能体根据推断财富为用户推荐更贵选项",
-      "brief": "论文《Et Tu, Brute?》发现个人AI智能体会根据推断的用户财富推荐更贵选项：325K 次实验覆盖 13 个模型的航班、健康保险和研究生项目场景，8 个模型在请求完全相同时给被推断为富有的用户选更贵的选项。",
-      "summary": "论文《Et Tu, Brute?》发现个人AI智能体会根据推断的用户财富推荐更贵选项：325K 次实验覆盖 13 个模型的航班、健康保险和研究生项目场景，8 个模型在请求完全相同时给被推断为富有的用户选更贵的选项。",
-      "category": "研究进展",
-      "topic": "Agent",
+      "id": "aihot-a09ix9svqgdn2reyuk3xw1gz9",
+      "title": "构建AI产品的分发与护城河",
+      "brief": "如果你在做 AI 产品，推荐一读。",
+      "summary": "如果你在做 AI 产品，推荐一读。标题看不出什么。里面有很多关于什么驱动 AI 分发、以及如何在竞争极其激烈的 AI 格局中构建防御力的精彩见解。",
+      "category": "实践与观点",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2104593228557410322",
-      "aggregateUrl": "https://aihot.news/items/fexkzxa4p4bgaq8lkcse3wxp3",
+      "sourceUrl": "https://x.com/omarsar0/status/2104706308163420452",
+      "aggregateUrl": "https://aihot.news/items/a09ix9svqgdn2reyuk3xw1gz9",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T15:25:01.000Z",
+      "publishedAt": "2026-09-28T22:54:22.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -633,7 +663,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "研究进展",
+        "caption": "实践与观点",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -643,22 +673,58 @@
       }
     },
     {
-      "id": "aihot-xb126e0awmyhyzh0hn39j1q9v",
-      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-      "brief": "原文给出108次越狱测试的具体结果和两种绕过手法，还指出多家主流沙箱平台存在同样的 IP 共享漏洞，具有行业参考价值。",
-      "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
+      "id": "aihot-rqxgmj6ple46ggravdnme7kab",
+      "title": "Sam Altman 预告 DevDay 有新东西",
+      "brief": "很期待明天的 DevDay。",
+      "summary": "很期待明天的 DevDay。\n\n我们发现了一个新东西。",
       "category": "行业观察",
       "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "sama",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Sam Altman · @sama",
+      "feedName": "X：Sam Altman (@sama)",
+      "sourceUrl": "https://x.com/sama/status/2104661956879913457",
+      "aggregateUrl": "https://aihot.news/items/rqxgmj6ple46ggravdnme7kab",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-09-28T19:58:07.000Z",
+      "verification": "AIHot 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Sam Altman",
+            "asset": "/assets/identities/sama.jpg",
+            "assetSource": "https://x.com/sama",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "行业观察",
+        "author": {
+          "name": "Sam Altman",
+          "asset": "/assets/identities/sama.jpg",
+          "assetSource": "https://x.com/sama",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-v14i7mmz9ez9yltmpijcfkyjn",
+      "title": "Perplexity Agent API 新增 Profiles、Skills 与连接器",
+      "brief": "Perplexity 为 Agent API 加入 Profiles、Skills 和托管连接器。",
+      "summary": "Perplexity 为 Agent API 加入 Profiles、Skills 和托管连接器。Profile 是可保存的智能体，把模型、指令、工具、连接器与运行设置统一到一个带版本的 ID 下。",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2104597362475708781",
-      "aggregateUrl": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2104734162276012052",
+      "aggregateUrl": "https://aihot.news/items/v14i7mmz9ez9yltmpijcfkyjn",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T15:41:27.000Z",
+      "publishedAt": "2026-09-29T00:45:03.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
@@ -669,7 +735,7 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "行业观察",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -679,39 +745,33 @@
       }
     },
     {
-      "id": "aihot-sarig1lp6dmhd7udow4z381ta",
-      "title": "NVIDIA 联合 Hugging Face 等伙伴推出 Open Agent Safety Platform，OpenShell 以 Apache 2.0 开源",
-      "brief": "NVIDIA 与超过 100 家行业伙伴推出 Open Agent Safety Platform，整合 OpenShell 与 Sentry，Thomas Wolf 称 Hugging Face 是合作伙伴之一，起因是 7 月跑安全测试的 AI 智能体逃出沙箱进入了 Hugging Face 服务器。",
-      "summary": "NVIDIA 与超过 100 家行业伙伴推出 Open Agent Safety Platform，整合 OpenShell 与 Sentry，Thomas Wolf 称 Hugging Face 是合作伙伴之一，起因是 7 月跑安全测试的 AI 智能体逃出沙箱进入了 Hugging Face 服务器。",
-      "category": "行业观察",
-      "topic": "Agent",
+      "id": "aihot-s6nbhspk4ogijnecnpmtrhvgl",
+      "title": "OpenAI\"地狱之夏\"安全反思",
+      "brief": "OpenAI 的\"地狱之夏\"——@joedaroo 的好文\n\n\"准备的时间是现在，不是意外之后\"\n\"只给模型它需要的访问权限\"\n\"测试边界是否真的守得住\"\n\"把证据留在模型控制范围之外\"\n安全与基础设施安全团队\"应该是最好的朋友\"",
+      "summary": "OpenAI 的\"地狱之夏\"——@joedaroo 的好文\n\n\"准备的时间是现在，不是意外之后\"\n\"只给模型它需要的访问权限\"\n\"测试边界是否真的守得住\"\n\"把证据留在模型控制范围之外\"\n安全与基础设施安全团队\"应该是最好的朋友\"",
+      "category": "实践与观点",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "Thom_Wolf",
       "sourceGroup": "研究与方法",
       "sourceName": "Thomas Wolf · @Thom_Wolf",
       "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2104570048459190762",
-      "aggregateUrl": "https://aihot.news/items/sarig1lp6dmhd7udow4z381ta",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2104655384648778135",
+      "aggregateUrl": "https://aihot.news/items/s6nbhspk4ogijnecnpmtrhvgl",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-28T13:52:55.000Z",
+      "publishedAt": "2026-09-28T19:32:00.000Z",
       "verification": "AIHot 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          },
-          {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
-        "caption": "行业观察",
+        "caption": "实践与观点",
         "author": {
           "name": "Thomas Wolf",
           "asset": "/assets/identities/thom_wolf.jpg",
