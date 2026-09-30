@@ -1,0 +1,83 @@
+{
+  "status": "ok",
+  "checkedAt": "2026-09-30T06:08:08.555Z",
+  "message": "",
+  "codex": {
+    "timezone": "Asia/Shanghai",
+    "today": "2026-09-30",
+    "checkedAt": "2026-09-30T14:05:33.127+08:00",
+    "monitor": "healthy",
+    "outage": false,
+    "pageUrl": "https://aihot.news/codex-reset",
+    "events": [
+      {
+        "id": "banked-2105173168281506088-1-1",
+        "label": "重置卡发放",
+        "status": "已确认",
+        "title": "重置卡已发放",
+        "at": "2026-09-30T13:49:30.000+08:00",
+        "pageUrl": "https://aihot.news/codex-reset",
+        "sourceUrl": "https://x.com/thsottiaux/status/2105173168281506088"
+      },
+      {
+        "id": "reset-2103963215885701493-1-1",
+        "label": "重置卡发放",
+        "status": "已确认",
+        "title": "重置卡已发放",
+        "at": "2026-09-27T05:41:35.000+08:00",
+        "pageUrl": "https://aihot.news/codex-reset",
+        "sourceUrl": "https://x.com/thsottiaux/status/2103963215885701493"
+      },
+      {
+        "id": "reset-2103637477760311522-1-1",
+        "label": "额度重置",
+        "status": "已确认",
+        "title": "Codex 额度重置已完成",
+        "at": "2026-09-27T02:17:54.000+08:00",
+        "pageUrl": "https://aihot.news/codex-reset",
+        "sourceUrl": "https://x.com/thsottiaux/status/2103911959544610829"
+      },
+      {
+        "id": "banked-2101352781219258527-1-1",
+        "label": "重置卡发放",
+        "status": "已确认",
+        "title": "重置卡已发放",
+        "at": "2026-09-20T00:48:38.000+08:00",
+        "pageUrl": "https://aihot.news/codex-reset",
+        "sourceUrl": "https://x.com/thsottiaux/status/2102463847714247142"
+      }
+    ]
+  },
+  "links": [
+    {
+      "id": "weekly",
+      "label": "周报",
+      "note": "每周一出版",
+      "url": "https://aihot.news/weekly"
+    },
+    {
+      "id": "monthly",
+      "label": "月报",
+      "note": "每月 1 日出版",
+      "url": "https://aihot.news/monthly"
+    },
+    {
+      "id": "leaderboard",
+      "label": "模型榜",
+      "note": "只在网页提供",
+      "url": "https://aihot.news/leaderboard"
+    },
+    {
+      "id": "topics",
+      "label": "主题",
+      "note": "按方向浏览",
+      "url": "https://aihot.news/topics"
+    }
+  ],
+  "pages": {
+    "home": "https://aihot.news/",
+    "hot": "https://aihot.news/hot",
+    "daily": "https://aihot.news/daily",
+    "codex": "https://aihot.news/codex-reset"
+  }
+}

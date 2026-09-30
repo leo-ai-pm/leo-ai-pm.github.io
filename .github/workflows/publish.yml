@@ -4,6 +4,8 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
+    # Asks for every 15 minutes. GitHub creates schedule runs much less often;
+    # see README. This is the platform scheduler, not a skipped commit.
     - cron: '7,22,37,52 * * * *'
 permissions:
   contents: write

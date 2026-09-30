@@ -14,6 +14,7 @@
   <script src="/entry.js"></script>
   <link rel="stylesheet" href="/styles.css">
   <script src="/app.js" defer></script>
+  <script src="/edition.js" defer></script>
   <script src="/pwa.js" defer></script>
   <script src="/creators.js" defer></script>
   <script src="/research.js" defer></script>
@@ -23,7 +24,7 @@
   <a class="skip-link" href="#content" data-current-reading>跳过动画，阅读日报</a>
     <header class="cover-nav">
       <a class="wordmark" href="#landing"><span class="brand-star" aria-hidden="true">✳</span> LEO’S DAILY</a>
-      <nav aria-label="快捷阅读"><a href="#content" data-topic="AI 产品">AI 产品</a><a href="#content" data-topic="Agent">Agent</a><a href="/?view=research" id="research-nav">产品研究</a><a href="/?view=creators" id="creators-nav">创作者与媒体观察</a></nav>
+      <nav class="edition-nav" aria-label="栏目"><a href="#daily">日报</a><a href="#hot">热点</a><a href="#selected">精选</a><a href="#watch">方向</a><a href="#people">人物</a><a href="#creators" id="creators-nav">公众号</a><a href="#research" id="research-nav">研究</a><a href="#tools">工具</a></nav>
       <a class="nav-read" href="#content" data-current-reading><span id="nav-read-label">阅读本期</span> <span aria-hidden="true">↗</span></a>
     </header>
   <div class="cover-flow" id="cover-flow">
@@ -41,7 +42,7 @@
   </section>
     <section class="feature-track" id="feature-track" aria-label="本期头条预览" hidden>
       <div class="feature-stage">
-        <a class="feature-panel" id="feature-panel" href="#content" data-current-reading aria-labelledby="feature-title">
+        <a class="feature-panel" id="feature-panel" href="#daily" aria-labelledby="feature-title">
           <img id="feature-image" alt="" decoding="async">
           <div id="feature-identity" class="feature-identity" aria-hidden="true"></div>
           <div class="feature-shade" aria-hidden="true"></div>
@@ -56,7 +57,59 @@
       </div>
     </section>
   </div>
-  <main id="creators" tabindex="-1" aria-labelledby="creators-title" hidden>
+  <main id="content" tabindex="-1">
+    <div class="paper">
+      <header class="masthead">
+        <div><p class="kicker">LEO'S DAILY</p><h2 class="edition-title" id="masthead-title">今天的 AI。</h2></div>
+        <div class="edition-meta"><span id="edition">个人阅读版</span><span id="date">正在读取日报</span><span id="issue"></span></div>
+      </header>
+      <p id="live-status" class="live-status" role="status" aria-live="polite">正在连接自动更新…</p>
+      <p id="notice" class="notice" role="status">正在载入内容…</p>
+      <div class="front-grid">
+        <section id="daily" class="edition-section" aria-labelledby="daily-title">
+          <header class="section-head"><div><p class="kicker">TODAY'S BRIEF</p><h2 id="daily-title">今日导读</h2></div><a id="daily-origin" href="https://aihot.news/daily" target="_blank" rel="noopener noreferrer">在 AIHOT 阅读 ↗</a></header>
+          <p id="daily-status" class="section-status" role="status">正在读取 AIHOT 日报…</p>
+          <div id="daily-calendar" class="dot-calendar" aria-label="本月日报"></div>
+          <div id="daily-lead" class="daily-lead"></div>
+          <div id="daily-sections" class="daily-sections"></div>
+          <div id="daily-flashes" class="flashes" aria-label="快讯"></div>
+          <details id="daily-archive" class="source-directory"><summary>往期日报 <span>标题链到 AIHOT</span></summary><ol id="daily-archive-list" class="archive-list"></ol></details>
+        </section>
+        <section id="hot" class="edition-section" aria-labelledby="hot-title">
+          <header class="section-head"><div><p class="kicker">WHAT'S HAPPENING</p><h2 id="hot-title">热点榜</h2></div><a href="https://aihot.news/hot" target="_blank" rel="noopener noreferrer">查看原榜 ↗</a></header>
+          <p class="section-note">只标名次、来源数和参与者数。前三名展开最新进展。</p>
+          <div id="hot-top" class="rank-top"></div>
+          <div id="hot-rest" class="rank-rest"></div>
+        </section>
+      </div>
+      <section id="selected" class="edition-section" aria-labelledby="selected-title">
+        <header class="section-head"><div><p class="kicker">SELECTED</p><h2 id="selected-title">精选流</h2></div></header>
+        <div class="capsules" id="selected-window" role="tablist" aria-label="时间范围"></div>
+        <div class="capsules" id="selected-category" aria-label="分类"></div>
+        <p id="selected-status" class="section-status" role="status">正在读取精选…</p>
+        <div id="selected-list" class="feed-list"></div>
+      </section>
+      <section id="watch" class="edition-section" aria-labelledby="watch-title">
+        <header class="section-head"><div><p class="kicker">FOLLOWING</p><h2 id="watch-title">我关注的方向</h2></div></header>
+        <p class="section-note">关键词写在 <span class="mono">scripts/aihot-config.json</span> 的 watchTopics 里，改完随下次同步生效。</p>
+        <div class="capsules" id="watch-topics" aria-label="关注方向"></div>
+        <p id="watch-status" class="section-status" role="status"></p>
+        <div id="watch-list" class="feed-list"></div>
+      </section>
+      <section id="people" class="edition-section" aria-labelledby="people-title">
+        <header class="section-head"><div><p class="kicker">PEOPLE</p><h2 id="people-title">人物观察</h2></div><span id="count" aria-live="polite"></span></header>
+        <p class="section-note">按 X 账号匹配最近 24 小时里 AIHOT 收录的动态，另附已核对的历史观点。没有摘要时仍保留条目。</p>
+        <div class="source-toolbar" aria-label="人物筛选">
+          <label for="author-filter">人物 <select id="author-filter"><option value="">全部人物</option></select></label>
+          <button id="reset-filters" type="button">重置</button>
+          <a href="#sources">来源目录 ↘</a>
+        </div>
+        <p id="filter-empty" class="filter-empty" role="status" hidden>这个人物本次没有检出动态。</p>
+        <div id="stories" class="stories" aria-label="人物动态"></div>
+      </section>
+    </div>
+  </main>
+  <main id="creators" tabindex="-1" aria-labelledby="creators-title">
     <div class="paper">
       <header class="edition-header">
         <div><p class="kicker">CREATORS &amp; MEDIA</p><h2 class="edition-title" id="creators-title">创作者与媒体观察</h2></div>
@@ -80,7 +133,7 @@
       <footer><a href="#landing" data-current-cover>Leo 的 AI 日报</a><span>看见不同观点 · 回到原文</span><a href="#landing" data-current-cover>回到封面 ↑</a></footer>
     </div>
   </main>
-  <main id="research" tabindex="-1" aria-labelledby="research-title" hidden>
+  <main id="research" tabindex="-1" aria-labelledby="research-title">
     <div class="paper">
       <header class="edition-header"><div><p class="kicker">PRODUCT RESEARCH</p><h2 class="edition-title" id="research-title">把信息，变成产品判断。</h2></div><div class="edition-meta"><span>为 AI 产品经理与内容创作者筛选</span><span id="research-count"></span></div></header>
       <p class="research-intro">看新品怎样解决问题，拆解真实工作流，再带着一个问题亲自试一试。</p>
@@ -93,39 +146,31 @@
       <footer><a href="#landing" data-current-cover>Leo 的 AI 日报</a><span>从阅读到验证</span><a href="#landing" data-current-cover>回到封面 ↑</a></footer>
     </div>
   </main>
-  <main id="content" tabindex="-1">
+  <main id="closing">
     <div class="paper">
-      <header class="edition-header">
-        <div><p class="kicker">THE DAILY EDIT</p><h2 class="edition-title">今天，值得看。</h2></div>
-        <div class="edition-meta"><span id="edition">个人阅读版</span><span id="date">正在读取日报</span></div>
-      </header>
-      <div class="hot-intro"><span id="hot-label">AIHot 热点优先</span><a href="https://aihot.virxact.com/hot" target="_blank" rel="noopener noreferrer">查看原榜 ↗</a></div>
-      <div class="reading-bar"><nav id="topic-filters" aria-label="按主题筛选"></nav><span id="count" aria-live="polite"></span></div>
-      <div class="source-toolbar" aria-label="来源筛选">
-        <label for="source-filter">来源分类 <select id="source-filter"><option value="">全部来源</option></select></label>
-        <label for="author-filter">人物 <select id="author-filter"><option value="">全部人物与机构</option></select></label>
-        <button id="hot-only" type="button" aria-pressed="false">只看热点榜</button>
-        <button id="reset-filters" type="button">重置筛选</button>
-        <a href="#source-directory">查看来源目录 ↘</a>
-      </div>
-      <p id="live-status" class="live-status" role="status" aria-live="polite">正在连接自动更新…</p>
-      <p id="sync-time" class="sync-time"></p>
-      <p id="notice" class="notice" role="status">正在载入内容…</p>
-      <p id="filter-empty" class="filter-empty" role="status" hidden>这个组合暂未收录内容，可重置筛选查看本期全部资讯。</p>
-      <div id="stories" class="stories" aria-label="日报内容"></div>
-      <details id="source-directory" class="source-directory">
-        <summary>信息来源与关注人物 <span>查看分类与收录范围</span></summary>
-        <div id="source-overview"></div>
-        <div id="source-groups" class="source-groups"></div>
-      </details>
-      <p class="visual-credit">封面与正文共用当期资讯配图，随资讯同步更新。标志与头像用于识别新闻涉及的公司、产品或人物，不表示其为本日报背书。</p>
-      <details class="pwa-settings">
-        <summary>添加到手机主屏幕</summary>
-        <p id="install-help">在手机浏览器中打开日报，选择添加到主屏幕。</p>
-        <button id="install-app" type="button" hidden>安装日报</button>
-        <p>无需登录。资讯与外部原文需要联网查看。</p>
-      </details>
-      <footer><a href="#landing" id="footer-name">Leo 的 AI 日报</a><span>保持好奇 · 回到原文</span><a href="#landing">回到封面 ↑</a></footer>
+      <section id="tools" class="edition-section" aria-labelledby="tools-title">
+        <header class="section-head"><div><p class="kicker">TOOLS</p><h2 id="tools-title">工具角</h2></div><a id="codex-page" href="https://aihot.news/codex-reset" target="_blank" rel="noopener noreferrer">打开重置监控 ↗</a></header>
+        <p id="tools-status" class="section-status" role="status">正在读取 Codex 重置监控…</p>
+        <div id="codex-events" class="feed-list"></div>
+        <div id="tool-links" class="tool-links"></div>
+      </section>
+      <section id="sources" class="edition-section" aria-labelledby="sources-title">
+        <header class="section-head"><div><p class="kicker">SOURCES</p><h2 id="sources-title">来源目录</h2></div></header>
+        <p id="sync-time" class="sync-time"></p>
+        <details id="source-directory" class="source-directory" open>
+          <summary>信息来源与关注人物 <span>查看分类与收录范围</span></summary>
+          <div id="source-overview"></div>
+          <div id="source-groups" class="source-groups"></div>
+        </details>
+        <p class="visual-credit">封面与正文共用当期资讯配图。标志与头像用于识别公司、产品或人物，不表示其为本日报背书。AIHOT 内容只保留标题、一句话和回链。</p>
+        <details class="pwa-settings">
+          <summary>添加到手机主屏幕</summary>
+          <p id="install-help">在手机浏览器中打开日报，选择添加到主屏幕。</p>
+          <button id="install-app" type="button" hidden>安装日报</button>
+          <p>无需登录。资讯与外部原文需要联网查看。</p>
+        </details>
+        <footer><a href="#landing" id="footer-name">Leo 的 AI 日报</a><span>保持好奇 · 回到原文</span><a href="#landing">回到封面 ↑</a></footer>
+      </section>
     </div>
   </main>
 </body>

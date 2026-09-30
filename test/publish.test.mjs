@@ -50,8 +50,25 @@ test('the three public editions contain readable records and bundled illustratio
   }
 });
 
+test('the v2 AIHOT editions are short, ranked without a heat score, and keep six creator accounts', async () => {
+  const daily=await read('api/daily-report.json'),selected=await read('api/selected.json'),tools=await read('api/tools.json'),live=await read('api/live.json'),creators=await read('api/creators.json');
+  assert.equal(creators.accounts.length, 6);
+  assert.ok(daily.report.lead.title);
+  assert.ok(daily.report.sections.length);
+  assert.equal(live.data.ranking.length, 10);
+  assert.equal(live.data.ranking.filter(item=>item.rank<=3&&item.expanded).length, 3);
+  assert.ok(live.data.ranking.every(item=>item.signalCount==null&&item.trend==null));
+  assert.ok((selected.today.length+selected.week.length)>0);
+  assert.equal(selected.watch.length, 5);
+  assert.ok(tools.links.length>=4);
+  assert.ok(tools.codex.events.length);
+  const blob=JSON.stringify({daily,selected,tools,ranking:live.data.ranking});
+  assert.doesNotMatch(blob,/信号热度|热度指数|signalCount/);
+  assert.equal((live.data.ranking[0].latest.match(/。/g)||[]).length<=1, true);
+});
+
 test('the reader has no login dependency and does not poll static data every second', async()=>{
-  for(const name of ['index.html','app.js','creators.js','research.js','pwa.js','sw.js']){
+  for(const name of ['index.html','app.js','edition.js','creators.js','research.js','pwa.js','sw.js']){
     const text=await readFile(new URL(name,root),'utf8');
     assert.doesNotMatch(text,/chatgpt\.site|需要登录|联网登录|并登录/);
     if(['app.js','creators.js','research.js'].includes(name))assert.doesNotMatch(text,/nextCheckAt\|\|Date\.now/);
