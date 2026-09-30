@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月1日",
     "demo": false,
-    "updatedAt": "2026-09-30T19:56:04.915Z",
+    "updatedAt": "2026-09-30T23:39:57.132Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 9,
+          "matched": 7,
           "status": "本次收录"
         },
         {
@@ -57,7 +57,7 @@
           "group": "产品与工程",
           "focus": "AI 工程与开发者生态",
           "url": "https://x.com/swyx",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -75,7 +75,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 3,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 6,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -102,7 +102,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 3,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -145,10 +145,10 @@
     },
     "items": [
       {
-        "id": "aihot-wqoqwfgfdmp8ybnxyagi20h3p",
-        "title": "OpenAI 征询 dots 与 space 改进建议",
-        "brief": "嗨！",
-        "summary": "嗨！",
+        "id": "aihot-hv5f8ka23bc3tzd75iig555li",
+        "title": "OpenAI 的 dot 联网找照片作画",
+        "brief": "让我的 dot 给我画张像。",
+        "summary": "让我的 dot 给我画张像。",
         "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
@@ -157,10 +157,10 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2105348026416140781",
-        "aggregateUrl": "https://aihot.news/items/wqoqwfgfdmp8ybnxyagi20h3p",
+        "sourceUrl": "https://x.com/thsottiaux/status/2105395200248156556",
+        "aggregateUrl": "https://aihot.news/items/hv5f8ka23bc3tzd75iig555li",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-30T17:24:19.000Z",
+        "publishedAt": "2026-09-30T20:31:46.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -481,61 +481,48 @@
     "ranking": [
       {
         "rank": 1,
-        "id": "r9nae38v4x5x29jrec46olsl4",
-        "title": "OpenAI 发布常驻智能体 Dots",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-dots/",
-        "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-        "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
-        "sourceCount": 11,
-        "participantCount": 81,
-        "latestAt": "2026-09-30T16:45:49.000Z",
+        "id": "uob3jvsb97uh5achwaggjrhqh",
+        "title": "谷歌发布 Gemini 4 Argon 前沿模型",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
+        "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
+        "sourceCount": 17,
+        "participantCount": 65,
+        "latestAt": "2026-09-30T23:18:28.000Z",
         "expanded": true,
-        "latest": "OpenAI 发布可持续运行的 AI 智能体 Dots，dot.com 域名在马斯克旗下 xAI 手中",
+        "latest": "谷歌发布 Gemini 4 Argon，DeepSWE 测试 77.9% 超 Claude Opus 5.5",
         "reports": [
           {
-            "title": "Meta 与 OpenAI 押注可爱 AI 智能体为硬件铺路：Muse Charm 与 Dots 的软硬结合策略",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-            "aihotUrl": "https://aihot.news/items/qzz58d53z9c3xe0p7nbnnctnx",
-            "publishedAt": "2026-09-30T18:07:38.000Z"
-          },
-          {
-            "title": "OpenAI 发布 GPT-6 Astra 智能体与 GPT-6.1 Sol",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2105228510335778918",
-            "aihotUrl": "https://aihot.news/items/y1qv409x74zo62nw16mwp25ua",
-            "publishedAt": "2026-09-30T09:29:24.000Z"
-          },
-          {
-            "title": "OpenAI 奥尔特曼：AI 影响将超过工业革命，当下是进入就业市场最佳时机",
+            "title": "谷歌发布 Gemini 4 Argon，DeepSWE 测试 77.9% 超 Claude Opus 5.5",
             "sourceName": "IT之家（RSS）",
-            "sourceUrl": "https://www.ithome.com/1/008/574.htm",
-            "aihotUrl": "https://aihot.news/items/zbkuwtkil409dc4zg399k3uh3",
-            "publishedAt": "2026-09-30T00:37:08.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
-            "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
+            "sourceUrl": "https://www.ithome.com/1/008/953.htm",
+            "aihotUrl": "https://aihot.news/items/x7lody1qwcc3fm7uit5p84osn",
+            "publishedAt": "2026-09-30T22:57:36.000Z"
           },
           {
-            "title": "OpenAI 预告并举办迄今最大 DevDay",
-            "storyUrl": "https://aihot.news/story/f568062d-ee68-4165-83ba-e28445a7039e"
+            "title": "Gemini 4 Argon 等前沿模型密集发布",
+            "sourceName": "X：马东锡 NLP (@dongxi_nlp)",
+            "sourceUrl": "https://x.com/dongxi_nlp/status/2105429105739026499",
+            "aihotUrl": "https://aihot.news/items/h3so4mtjggk0cbu4888vqd4ib",
+            "publishedAt": "2026-09-30T22:46:30.000Z"
           },
           {
-            "title": "ChatGPT订阅额度扩展至60余家合作产品",
-            "storyUrl": "https://aihot.news/story/ab027b1a-734d-4dd9-951f-7e0a1f8e5e11"
+            "title": "Google 发布 Gemini 4 Argon：缩小与 OpenAI 和 Anthropic 的差距但未明显领先",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+            "aihotUrl": "https://aihot.news/items/oyqytutjzet3wan8qz7ovr37m",
+            "publishedAt": "2026-09-30T22:06:30.000Z"
           }
         ],
+        "related": [],
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -550,32 +537,32 @@
         "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
         "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
         "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
-        "sourceCount": 12,
-        "participantCount": 77,
-        "latestAt": "2026-09-30T19:40:57.000Z",
+        "sourceCount": 15,
+        "participantCount": 80,
+        "latestAt": "2026-09-30T21:09:24.000Z",
         "expanded": true,
-        "latest": "Claude Sonnet 5.5 与 GPT-6.1 Sol 成本对比测试",
+        "latest": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
         "reports": [
           {
-            "title": "Claude Sonnet 5.5 与 GPT-6.1 Sol 成本对比测试",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2105382412230562132",
-            "aihotUrl": "https://aihot.news/items/zim74esqnq5zyguhn24s7r7yf",
-            "publishedAt": "2026-09-30T19:40:57.000Z"
+            "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+            "sourceName": "MarkTechPost（RSS）",
+            "sourceUrl": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+            "aihotUrl": "https://aihot.news/items/sv8dhqgv5kccksxx30x4oa7n3",
+            "publishedAt": "2026-09-30T21:09:24.000Z"
           },
           {
-            "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2105367591174995999",
-            "aihotUrl": "https://aihot.news/items/t1wnqaj3xyl90ilvgy4poyc45",
-            "publishedAt": "2026-09-30T18:42:04.000Z"
+            "title": "ARC Prize 公布 OpenAI GPT-6.1 Sol 测试结果并更新排行榜",
+            "sourceName": "X：ARC Prize (@arcprize)",
+            "sourceUrl": "https://x.com/arcprize/status/2105391850597105714",
+            "aihotUrl": "https://aihot.news/items/d7ypjw51alng5odqwcdrdjoz5",
+            "publishedAt": "2026-09-30T20:18:28.000Z"
           },
           {
-            "title": "OpenAI 发布 GPT-6 Astra 智能体与 GPT-6.1 Sol",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2105228510335778918",
-            "aihotUrl": "https://aihot.news/items/y1qv409x74zo62nw16mwp25ua",
-            "publishedAt": "2026-09-30T09:29:24.000Z"
+            "title": "ARC Prize：GPT-6.1 Sol 在 ARC-AGI-2 得分 94.2%，成本比 GPT-6 Astra 低 77%",
+            "sourceName": "X：ARC Prize (@arcprize)",
+            "sourceUrl": "https://x.com/arcprize/status/2105391847480672523",
+            "aihotUrl": "https://aihot.news/items/bnjs18i670xg9qt96gtmhr256",
+            "publishedAt": "2026-09-30T20:18:27.000Z"
           }
         ],
         "related": [
@@ -607,48 +594,61 @@
       },
       {
         "rank": 3,
-        "id": "ukbm1pni8gdc5ciwwuywzkhwb",
-        "title": "AMD 82亿美元收购World Labs，李飞飞任首席科学家",
-        "sourceName": "World Labs：官网",
-        "sourceUrl": "https://www.worldlabs.ai/blog/amd-announcement",
-        "aihotUrl": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
-        "storyUrl": "https://aihot.news/story/1c691309-370b-4623-bb83-012b0804c3d1",
-        "sourceCount": 9,
-        "participantCount": 83,
-        "latestAt": "2026-09-30T13:54:27.000Z",
+        "id": "r9nae38v4x5x29jrec46olsl4",
+        "title": "OpenAI 发布常驻智能体 Dots",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-dots/",
+        "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
+        "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
+        "sourceCount": 11,
+        "participantCount": 82,
+        "latestAt": "2026-09-30T22:26:03.000Z",
         "expanded": true,
-        "latest": "AMD 以 82 亿美元收购 World Labs，加码与 Nvidia 的竞争",
+        "latest": "OpenAI 发布可持续运行的 AI 智能体 Dots，dot.com 域名在马斯克旗下 xAI 手中",
         "reports": [
           {
-            "title": "AMD 以 82 亿美元收购 World Labs，加码与 Nvidia 的竞争",
-            "sourceName": "Ars Technica：AI（RSS）",
-            "sourceUrl": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-            "aihotUrl": "https://aihot.news/items/k590lh37ob4ageimpwrq4nsdn",
-            "publishedAt": "2026-09-29T21:14:49.000Z"
+            "title": "Machine Earning AI 峰会：智能体商务与个人智能体的早期乐观情绪",
+            "sourceName": "Newcomer 新闻长文（RSS）",
+            "sourceUrl": "https://www.newcomer.co/p/machine-earning-ai-summit-takeaways",
+            "aihotUrl": "https://aihot.news/items/yb55p3fmhrekobm9gsi2b4lyg",
+            "publishedAt": "2026-09-30T22:22:40.000Z"
           },
           {
-            "title": "AMD 以 82 亿美元收购空间智能初创公司 World Labs，李飞飞出任首席科学家",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/",
-            "aihotUrl": "https://aihot.news/items/ji9vkeilyp3ankkwwp0ub1gui",
-            "publishedAt": "2026-09-29T17:13:51.000Z"
+            "title": "Meta 与 OpenAI 押注可爱 AI 智能体为硬件铺路：Muse Charm 与 Dots 的软硬结合策略",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+            "aihotUrl": "https://aihot.news/items/qzz58d53z9c3xe0p7nbnnctnx",
+            "publishedAt": "2026-09-30T18:07:38.000Z"
           },
           {
-            "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-            "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-            "sourceUrl": "https://x.com/ClementDelangue/status/2104731591054660040",
-            "aihotUrl": "https://aihot.news/items/ohklpuor2v0wors1gyw1wd25l",
-            "publishedAt": "2026-09-29T00:34:49.000Z"
+            "title": "OpenAI 发布 GPT-6 Astra 智能体与 GPT-6.1 Sol",
+            "sourceName": "X：Testing Catalog (@testingcatalog)",
+            "sourceUrl": "https://x.com/testingcatalog/status/2105228510335778918",
+            "aihotUrl": "https://aihot.news/items/y1qv409x74zo62nw16mwp25ua",
+            "publishedAt": "2026-09-30T09:29:24.000Z"
           }
         ],
-        "related": [],
+        "related": [
+          {
+            "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
+            "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
+          },
+          {
+            "title": "Ethan Mollick评价Dots助手工具",
+            "storyUrl": "https://aihot.news/story/5fc7f6d6-5330-4060-8ca9-4a3a5e69e237"
+          },
+          {
+            "title": "OpenAI 预告并举办迄今最大 DevDay",
+            "storyUrl": "https://aihot.news/story/f568062d-ee68-4165-83ba-e28445a7039e"
+          }
+        ],
         "visual": {
           "entities": [
             {
-              "name": "World Labs：官网",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -713,15 +713,15 @@
       },
       {
         "rank": 6,
-        "id": "x8r8kta42au39pp06f02shk9f",
-        "title": "Anthropic 发布 Claude Sonnet 5.5",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
-        "aihotUrl": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-        "storyUrl": "https://aihot.news/story/94903954-cf87-48d8-89a6-eff5deefeaa0",
-        "sourceCount": 8,
-        "participantCount": 54,
-        "latestAt": "2026-09-30T15:04:14.000Z",
+        "id": "ukbm1pni8gdc5ciwwuywzkhwb",
+        "title": "AMD 82亿美元收购World Labs，李飞飞任首席科学家",
+        "sourceName": "World Labs：官网",
+        "sourceUrl": "https://www.worldlabs.ai/blog/amd-announcement",
+        "aihotUrl": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+        "storyUrl": "https://aihot.news/story/1c691309-370b-4623-bb83-012b0804c3d1",
+        "sourceCount": 3,
+        "participantCount": 48,
+        "latestAt": "2026-09-30T13:54:27.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -729,10 +729,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "World Labs：官网",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -741,15 +741,15 @@
       },
       {
         "rank": 7,
-        "id": "iinkrp1rv6xk3xmidsbkxax95",
-        "title": "OpenAI因安全对齐问题取消GPT-6.1 Astra发布",
-        "sourceName": "Ars Technica：AI（RSS）",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-        "aihotUrl": "https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95",
-        "storyUrl": "https://aihot.news/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876",
-        "sourceCount": 6,
-        "participantCount": 47,
-        "latestAt": "2026-09-30T08:40:35.000Z",
+        "id": "nhob7mih29e0owj7ay28t7fvw",
+        "title": "FTC加大对AI实验室调查力度",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+        "aihotUrl": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
+        "storyUrl": "https://aihot.news/story/2c6e1906-800f-40f0-a8fe-cefa7eaf8d9d",
+        "sourceCount": 3,
+        "participantCount": 17,
+        "latestAt": "2026-09-30T22:22:51.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -757,10 +757,10 @@
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "The Decoder：AI News（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -797,6 +797,34 @@
       },
       {
         "rank": 9,
+        "id": "iinkrp1rv6xk3xmidsbkxax95",
+        "title": "OpenAI因安全对齐问题取消GPT-6.1 Astra发布",
+        "sourceName": "Ars Technica：AI（RSS）",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+        "aihotUrl": "https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95",
+        "storyUrl": "https://aihot.news/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876",
+        "sourceCount": 6,
+        "participantCount": 40,
+        "latestAt": "2026-09-30T08:40:35.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "cmu9jwllp040mrogngntwk2d7",
         "title": "特朗普推动AI改名并筹建AI Force",
         "sourceName": "IT之家（RSS）",
@@ -804,7 +832,7 @@
         "aihotUrl": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
         "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f",
         "sourceCount": 2,
-        "participantCount": 23,
+        "participantCount": 22,
         "latestAt": "2026-09-30T19:10:37.000Z",
         "expanded": false,
         "latest": "",
@@ -822,41 +850,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 10,
-        "id": "nhob7mih29e0owj7ay28t7fvw",
-        "title": "FTC加大对AI实验室调查力度",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-        "aihotUrl": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
-        "storyUrl": "https://aihot.news/story/2c6e1906-800f-40f0-a8fe-cefa7eaf8d9d",
-        "sourceCount": 3,
-        "participantCount": 16,
-        "latestAt": "2026-09-30T18:51:30.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "The Decoder：AI News（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-30T19:56:04.915Z",
-    "nextCheckAt": 1790798464915,
+    "checkedAt": "2026-09-30T23:39:57.132Z",
+    "nextCheckAt": 1790811897132,
     "intervalSeconds": 300,
     "message": ""
   }

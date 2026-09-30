@@ -296,9 +296,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-30T19:55:52.521Z",
-      "lastSuccessAt": "2026-09-30T19:55:52.521Z",
-      "nextCheckAt": 1790799052521,
+      "checkedAt": "2026-09-30T23:39:43.067Z",
+      "lastSuccessAt": "2026-09-30T23:39:43.067Z",
+      "nextCheckAt": 1790812483067,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -609,9 +609,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-30T19:55:52.573Z",
-      "lastSuccessAt": "2026-09-30T19:55:52.573Z",
-      "nextCheckAt": 1790799052573,
+      "checkedAt": "2026-09-30T23:39:43.101Z",
+      "lastSuccessAt": "2026-09-30T23:39:43.101Z",
+      "nextCheckAt": 1790812483101,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -925,9 +925,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-30T19:55:52.574Z",
-      "lastSuccessAt": "2026-09-30T19:55:52.574Z",
-      "nextCheckAt": 1790799052574,
+      "checkedAt": "2026-09-30T23:39:43.102Z",
+      "lastSuccessAt": "2026-09-30T23:39:43.102Z",
+      "nextCheckAt": 1790812483102,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1240,9 +1240,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-30T19:55:52.901Z",
-      "lastSuccessAt": "2026-09-30T19:55:52.901Z",
-      "nextCheckAt": 1790799052901,
+      "checkedAt": "2026-09-30T23:39:43.255Z",
+      "lastSuccessAt": "2026-09-30T23:39:43.255Z",
+      "nextCheckAt": 1790812483255,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1562,9 +1562,9 @@
           }
         }
       ],
-      "checkedAt": "2026-09-30T19:55:52.987Z",
-      "lastSuccessAt": "2026-09-30T19:55:52.987Z",
-      "nextCheckAt": 1790799052987,
+      "checkedAt": "2026-09-30T23:39:43.488Z",
+      "lastSuccessAt": "2026-09-30T23:39:43.488Z",
+      "nextCheckAt": 1790812483488,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1584,6 +1584,35 @@
     {
       "id": "founder",
       "items": [
+        {
+          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517145&idx=1&sn=c7d4fdfaeb60f5ccb2456f5232e483c9",
+          "creatorId": "founder",
+          "title": "Instinct 创始人对谈：Personal Agent 最激进的产品，凭什么估值 100 亿美元？",
+          "summary": "Personal Agent 最好的界面，可能是没有界面。",
+          "publishedAt": "2026-09-30T11:32:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517145&idx=1&sn=c7d4fdfaeb60f5ccb2456f5232e483c9",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Founder Park",
+                "asset": "/assets/identities/creator_founder.jpg",
+                "tone": "#dfe9f3"
+              }
+            ],
+            "caption": "创业与商业",
+            "author": {
+              "name": "Founder Park",
+              "asset": "/assets/identities/creator_founder.jpg",
+              "tone": "#dfe9f3"
+            }
+          }
+        },
         {
           "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517140&idx=1&sn=3984266678554cb25a135596578df12c",
           "creatorId": "founder",
@@ -1844,47 +1873,11 @@
               "tone": "#dfe9f3"
             }
           }
-        },
-        {
-          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247516981&idx=1&sn=af0ad93e53192d370d1386f64866b2bf",
-          "creatorId": "founder",
-          "title": "OpenAI 和 Anthropic 都在谈的 RSI，今天走到哪一步了？",
-          "summary": "可能最后留给人类的，只剩下 Research Taste 了",
-          "publishedAt": "2026-09-16T07:20:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247516981&idx=1&sn=af0ad93e53192d370d1386f64866b2bf",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "OpenAI",
-                "asset": "/assets/identities/openai.jpg",
-                "assetSource": "https://x.com/OpenAI",
-                "tone": "#e6eeea"
-              },
-              {
-                "name": "Anthropic",
-                "asset": "/assets/identities/anthropicai.jpg",
-                "assetSource": "https://x.com/AnthropicAI",
-                "tone": "#eddfd0"
-              }
-            ],
-            "caption": "创业与商业",
-            "author": {
-              "name": "Founder Park",
-              "asset": "/assets/identities/creator_founder.jpg",
-              "tone": "#dfe9f3"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-09-30T19:55:52.992Z",
-      "lastSuccessAt": "2026-09-30T19:55:52.992Z",
-      "nextCheckAt": 1790799052992,
+      "checkedAt": "2026-09-30T23:39:43.512Z",
+      "lastSuccessAt": "2026-09-30T23:39:43.512Z",
+      "nextCheckAt": 1790812483512,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1903,6 +1896,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1790799052521,
+  "nextCheckAt": 1790812483067,
   "refreshing": false
 }
