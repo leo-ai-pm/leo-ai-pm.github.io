@@ -1,0 +1,31 @@
+{
+  "userAgent": "leo-ai-daily/2.0 (+https://leo-ai-pm.github.io/)",
+  "issueEpoch": "2026-09-14",
+  "allowedHosts": ["aihot.news", "aihot.virxact.com"],
+  "watchTopics": [
+    {"id": "agent", "label": "Agent", "q": "Agent"},
+    {"id": "coding", "label": "AI 编码", "q": "AI 编码"},
+    {"id": "mcp", "label": "MCP", "q": "MCP"},
+    {"id": "openai", "label": "OpenAI", "q": "OpenAI"},
+    {"id": "anthropic", "label": "Anthropic", "q": "Anthropic"}
+  ],
+  "categories": [
+    {"id": "ai-models", "label": "模型"},
+    {"id": "ai-products", "label": "产品"},
+    {"id": "industry", "label": "行业"},
+    {"id": "paper", "label": "论文"},
+    {"id": "tip", "label": "技巧"}
+  ],
+  "links": [
+    {"id": "weekly", "label": "周报", "note": "每周一出版", "url": "https://aihot.news/weekly"},
+    {"id": "monthly", "label": "月报", "note": "每月 1 日出版", "url": "https://aihot.news/monthly"},
+    {"id": "leaderboard", "label": "模型榜", "note": "只在网页提供", "url": "https://aihot.news/leaderboard"},
+    {"id": "topics", "label": "主题", "note": "按方向浏览", "url": "https://aihot.news/topics"}
+  ],
+  "pages": {
+    "home": "https://aihot.news/",
+    "hot": "https://aihot.news/hot",
+    "daily": "https://aihot.news/daily",
+    "codex": "https://aihot.news/codex-reset"
+  }
+}

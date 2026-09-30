@@ -2,20 +2,21 @@
   "data": {
     "date": "2026年9月30日",
     "demo": false,
-    "updatedAt": "2026-09-30T08:20:00.793Z",
-    "editionLabel": "AIHot 热点榜 · 人物观察",
-    "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
+    "updatedAt": "2026-09-30T09:52:25.803Z",
+    "editionLabel": "AIHOT 2.0 · 个人阅读版",
+    "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
       "status": "success",
-      "method": "定时同步公开热点榜",
+      "method": "定时同步 AIHOT",
       "window": "48h 热点榜 + 24h 人物补充",
       "hotCount": 10,
-      "rankingUrl": "https://aihot.virxact.com/hot",
+      "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 292,
+      "received": 400,
       "latestCount": 9,
-      "archiveCount": 1
+      "archiveCount": 1,
+      "peopleStatus": "ok"
     },
     "sources": {
       "groups": [
@@ -26,9 +27,9 @@
         "媒体与社区"
       ],
       "aggregator": {
-        "name": "AIHot",
-        "url": "https://aihot.virxact.com/",
-        "note": "公开热点榜与人物动态"
+        "name": "AIHOT",
+        "url": "https://aihot.news/",
+        "note": "日报、热点、精选与人物动态"
       },
       "coverage": "X 条目为 AIHot 公开收录，并非账号完整时间线；历史观点来自人工核对的公开页面。“本次未检出”不表示作者没有发帖。",
       "people": [
@@ -92,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 7,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -144,361 +145,6 @@
     },
     "items": [
       {
-        "id": "aihot-r9nae38v4x5x29jrec46olsl4",
-        "title": "OpenAI 发布常驻智能体 Dots",
-        "brief": "OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。",
-        "summary": "OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "lead",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-dots/",
-        "aggregateUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T17:36:13.593Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 1,
-        "sourceCount": 11,
-        "signalCount": 64,
-        "storyUrl": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
-      },
-      {
-        "id": "aihot-ewa77zkka92qb5lqukt70bfu8",
-        "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
-        "brief": "OpenAI 发布 GPT-6.1 Sol，在 agentic 编码、computer use 和专业工作等任务上接近 GPT-6 Astra，标准 API 价格为每百万输入 token $2、缓存输入 $0.10、输出 $10，约为 Astra 五分之一。",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，在 agentic 编码、computer use 和专业工作等任务上接近 GPT-6 Astra，标准 API 价格为每百万输入 token $2、缓存输入 $0.10、输出 $10，约为 Astra 五分之一。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "feedName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "aggregateUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T17:20:30.075Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
-        "hotRank": 2,
-        "sourceCount": 12,
-        "signalCount": 56,
-        "storyUrl": "https://aihot.virxact.com/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
-      },
-      {
-        "id": "aihot-ukbm1pni8gdc5ciwwuywzkhwb",
-        "title": "AMD 82亿美元收购World Labs，李飞飞任首席科学家",
-        "brief": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。",
-        "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "important",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "World Labs：官网",
-        "feedName": "World Labs：官网",
-        "sourceUrl": "https://www.worldlabs.ai/blog/amd-announcement",
-        "aggregateUrl": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-28T20:18:05.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "World Labs：官网",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "行业观察",
-          "author": null
-        },
-        "hotRank": 3,
-        "sourceCount": 10,
-        "signalCount": 74,
-        "storyUrl": "https://aihot.virxact.com/story/1c691309-370b-4623-bb83-012b0804c3d1"
-      },
-      {
-        "id": "aihot-x8r8kta42au39pp06f02shk9f",
-        "title": "Anthropic 发布 Claude Sonnet 5.5",
-        "brief": "Anthropic 发布 Claude Sonnet 5.5，这是 Claude 5.5 家族的第二款模型，输出速度比 Sonnet 5 快 30% 以上，每任务成本最多降低 30%，定价保持输入 $2、输出 $10 每百万 token。",
-        "summary": "Anthropic 发布 Claude Sonnet 5.5，这是 Claude 5.5 家族的第二款模型，输出速度比 Sonnet 5 快 30% 以上，每任务成本最多降低 30%，定价保持输入 $2、输出 $10 每百万 token。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "feedName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
-        "aggregateUrl": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-28T17:58:11.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 4,
-        "sourceCount": 15,
-        "signalCount": 65,
-        "storyUrl": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
-      },
-      {
-        "id": "aihot-khyjby0mw5t22dn9zw2l6fflu",
-        "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
-        "brief": "路透审阅了 Anthropic 的 IPO 招股书。",
-        "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "rohanpaul_ai",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "feedName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "aggregateUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T02:21:20.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "IPO",
-          "author": null
-        },
-        "hotRank": 5,
-        "sourceCount": 7,
-        "signalCount": 46,
-        "storyUrl": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
-      },
-      {
-        "id": "aihot-gs96clovs726l3b5nd80ofnva",
-        "title": "OpenAI重开Pro 200并新增Pro 500档",
-        "brief": "OpenAI 的 Codex 团队宣布明日重新开放 Pro $200 订阅，同时调整用量计算方式，折算后相当于旧 Pro $200 计划 API 花费的一半。",
-        "summary": "OpenAI 的 Codex 团队宣布明日重新开放 Pro $200 订阅，同时调整用量计算方式，折算后相当于旧 Pro $200 计划 API 花费的一半。作者承诺不再恢复 5 小时限制，并表示本周上线的 GPT-6 Sol 和 GPT-6 Luna 价格为之前的一半，未来订阅中还将加入不占用用量的新内容。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "thsottiaux",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Tibo Sottiaux · @thsottiaux",
-        "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2104823812042940713",
-        "aggregateUrl": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T06:41:17.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        },
-        "hotRank": 6,
-        "sourceCount": 5,
-        "signalCount": 39,
-        "storyUrl": "https://aihot.virxact.com/story/c2ce7c22-c2b6-45b0-b931-5200b107c077"
-      },
-      {
-        "id": "aihot-iinkrp1rv6xk3xmidsbkxax95",
-        "title": "OpenAI因安全对齐问题取消GPT-6.1 Astra发布",
-        "brief": "OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。",
-        "summary": "OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "Ars Technica：AI（RSS）",
-        "feedName": "Ars Technica：AI（RSS）",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-        "aggregateUrl": "https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T14:22:31.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": null
-        },
-        "hotRank": 7,
-        "sourceCount": 6,
-        "signalCount": 38,
-        "storyUrl": "https://aihot.virxact.com/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876"
-      },
-      {
-        "id": "aihot-s5on5dsnixevj7j9lfjemhz3o",
-        "title": "NVIDIA 发布开放智能体安全平台 OpenShell 与 Sentry",
-        "brief": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。",
-        "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "机构官方",
-        "sourceName": "NVIDIA Technical Blog：Agentic AI / Generative AI",
-        "feedName": "NVIDIA Technical Blog：Agentic AI / Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-        "aggregateUrl": "https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-27T16:00:00.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 8,
-        "sourceCount": 11,
-        "signalCount": 42,
-        "storyUrl": "https://aihot.virxact.com/story/5e2816ac-db96-4268-b76c-57b6f4b18bbd"
-      },
-      {
-        "id": "aihot-qw3a6btvwdalftejp20ccxjb3",
-        "title": "DeepSeek开源华为昇腾平台基础设施组件",
-        "brief": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。",
-        "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "公众号：DeepSeek（深度求索）",
-        "feedName": "公众号：DeepSeek（深度求索）",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
-        "aggregateUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-30T02:01:00.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "公众号：DeepSeek（深度求索）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 9,
-        "sourceCount": 3,
-        "signalCount": 15,
-        "storyUrl": "https://aihot.virxact.com/story/0708dda9-d77b-4211-8456-eb7b422e0cc9"
-      },
-      {
-        "id": "aihot-cmu9jwllp040mrogngntwk2d7",
-        "title": "特朗普推动AI改名并筹建AI Force",
-        "brief": "特朗普在 Truth Social 和 X 发起投票，提议将人工智能改名为卓越智能、极致智能或至高智能，截至发稿 X 平台已有超 18 万人投票，卓越智能以 40.4% 领先。",
-        "summary": "特朗普在 Truth Social 和 X 发起投票，提议将人工智能改名为卓越智能、极致智能或至高智能，截至发稿 X 平台已有超 18 万人投票，卓越智能以 40.4% 领先。他将 AI 风险担忧称为民主党的骗局，称将扶持 AI 产业、组建人工智能部队并任命一名 AI 事务总管，但未说明具体职责；原文同时指出两党均曾质疑大型数据中心，纽约州近期暂停审批大型数据中心建设许可。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "网站",
-        "authorHandle": "",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "IT之家（RSS）",
-        "feedName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/004/829.htm",
-        "aggregateUrl": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-20T07:46:36.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 10,
-        "sourceCount": 2,
-        "signalCount": 16,
-        "storyUrl": "https://aihot.virxact.com/story/129c4994-da48-4698-8261-46e30d139e7f"
-      },
-      {
         "id": "aihot-fsozz9a1z4dt270pyjj610y2f",
         "title": "OpenAI 的 Tibo 发推打招呼",
         "brief": "咋了 dot",
@@ -515,7 +161,8 @@
         "aggregateUrl": "https://aihot.news/items/fsozz9a1z4dt270pyjj610y2f",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-30T06:12:30.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -551,7 +198,8 @@
         "aggregateUrl": "https://aihot.news/items/uh3ukxlw3oqc8uw9uwu5c3cbr",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-29T22:09:26.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -574,7 +222,7 @@
         "id": "aihot-pdbkm13ohrmmsmtpk90m6vhch",
         "title": "Codex 支持企业原生使用 GLM-5.3 Flash 和 Kimi K3 等开放模型",
         "brief": "Philip Kiely 称企业团队现在可以在 Codex 中原生使用 GLM-5.3 Flash、Kimi K3 等开放模型，并将相关消费计入 OpenAI commit。",
-        "summary": "Philip Kiely 称企业团队现在可以在 Codex 中原生使用 GLM-5.3 Flash、Kimi K3 等开放模型，并将相关消费计入 OpenAI commit。Peter Steinberger 转发并评价称这相当惊人。",
+        "summary": "Philip Kiely 称企业团队现在可以在 Codex 中原生使用 GLM-5.3 Flash、Kimi K3 等开放模型，并将相关消费计入 OpenAI commit。",
         "category": "产品动态",
         "topic": "Agent",
         "priority": "normal",
@@ -587,7 +235,8 @@
         "aggregateUrl": "https://aihot.news/items/pdbkm13ohrmmsmtpk90m6vhch",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-29T21:36:05.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -610,7 +259,7 @@
         "id": "aihot-fe2637bui3s99t8tug184t2if",
         "title": "Sherwin Wu 分享 dots 创作",
         "brief": "晒出你的 dots！",
-        "summary": "晒出你的 dots！\n\n花了长得离谱的时间做这个家伙",
+        "summary": "晒出你的 dots！",
         "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
@@ -623,7 +272,8 @@
         "aggregateUrl": "https://aihot.news/items/fe2637bui3s99t8tug184t2if",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-30T02:45:04.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -659,7 +309,8 @@
         "aggregateUrl": "https://aihot.news/items/efgh6ovbmfvkxa4vcamag4khh",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-30T06:36:24.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -682,7 +333,7 @@
         "id": "aihot-kt4yrdz39soq63vsl1pj9wknp",
         "title": "OpenAI DevDay 释放开放生态信号",
         "brief": "DevDay 上最让我印象深刻的是 @thsottiaux 点名了 @pidotdev。",
-        "summary": "DevDay 上最让我印象深刻的是 @thsottiaux 点名了 @pidotdev。\n\n这与 OpenAI 看起来认真构建更开放生态的态度完全一致。而且不只是说说而已，这里有一个巨大的机会，成为所有人都在其上构建的平台。从刚入门的人到世界顶级构建者。说白了，这背后是一个长期愿景。\n\n在人人都在构建的世界里，这很合理。",
+        "summary": "DevDay 上最让我印象深刻的是 @thsottiaux 点名了 @pidotdev。",
         "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
@@ -695,7 +346,8 @@
         "aggregateUrl": "https://aihot.news/items/kt4yrdz39soq63vsl1pj9wknp",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-29T23:47:18.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -718,7 +370,7 @@
         "id": "aihot-yjnyvg5xyvdavest1gupua82z",
         "title": "OpenAI 推出 Dots",
         "brief": "Dots 来了！",
-        "summary": "Dots 来了！\n\n一种全新的 AI 使用方式，7×24 小时为你工作；让你把更多时间和注意力投入到更高层次的工作中。\n\nhttps://openai.com/index/introducing-dots/",
+        "summary": "Dots 来了！",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -731,7 +383,8 @@
         "aggregateUrl": "https://aihot.news/items/yjnyvg5xyvdavest1gupua82z",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-29T18:01:34.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -754,7 +407,7 @@
         "id": "aihot-fap4pmujla7jey6i2v65gdt2t",
         "title": "Perplexity Computer 推出 Automations 自动化功能",
         "brief": "Perplexity Computer 推出 Automations 功能，面向持续性工作，可基于事件触发器或按计划执行操作。",
-        "summary": "Perplexity Computer 推出 Automations 功能，面向持续性工作，可基于事件触发器或按计划执行操作。Automations 可与记忆、技能以及 Slack、Gmail、Outlook、Linear 等已连接应用配合使用。Perplexity CEO Aravind Srinivas 称，配置好合适的自动化后，公司运营将像自动驾驶汽车，而找到合适的自动化本身仍需要人的判断力。",
+        "summary": "Perplexity Computer 推出 Automations 功能，面向持续性工作，可基于事件触发器或按计划执行操作。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -767,7 +420,8 @@
         "aggregateUrl": "https://aihot.news/items/fap4pmujla7jey6i2v65gdt2t",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-29T18:36:07.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -803,7 +457,8 @@
         "aggregateUrl": "https://aihot.news/items/c7osdzkl96vk9jpz0uaez5z5i",
         "acquiredVia": "AIHot",
         "publishedAt": "2026-09-29T18:15:24.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
@@ -859,12 +514,386 @@
           }
         }
       }
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "id": "r9nae38v4x5x29jrec46olsl4",
+        "title": "OpenAI 发布常驻智能体 Dots",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-dots/",
+        "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
+        "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
+        "sourceCount": 11,
+        "participantCount": 76,
+        "latestAt": "2026-09-30T08:43:39.220Z",
+        "expanded": true,
+        "latest": "OpenAI 发布可持续运行的 AI 智能体 Dots，dot.com 域名在马斯克旗下 xAI 手中",
+        "reports": [
+          {
+            "title": "OpenAI 奥尔特曼：AI 影响将超过工业革命，当下是进入就业市场最佳时机",
+            "sourceName": "IT之家（RSS）",
+            "sourceUrl": "https://www.ithome.com/1/008/574.htm",
+            "aihotUrl": "https://aihot.news/items/zbkuwtkil409dc4zg399k3uh3",
+            "publishedAt": "2026-09-30T00:37:08.000Z"
+          },
+          {
+            "title": "BestBlogs 早报：OpenAI DevDay 2026 与 Manus 2.0 等",
+            "sourceName": "X：洪明 (@hongming731)",
+            "sourceUrl": "https://x.com/hongming731/status/2105091143809814961",
+            "aihotUrl": "https://aihot.news/items/aof1mznht2w64xp6f2l3k5pmb",
+            "publishedAt": "2026-09-30T00:23:34.000Z"
+          },
+          {
+            "title": "OpenAI DevDay 2026、Manus 2.0 与 Claude Sonnet 5.5 发布",
+            "sourceName": "X：洪明 (@hongming731)",
+            "sourceUrl": "https://x.com/hongming731/status/2105091066156536126",
+            "aihotUrl": "https://aihot.news/items/s8c4avy3el5n2hb52o8z87tvt",
+            "publishedAt": "2026-09-30T00:23:15.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
+            "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
+          },
+          {
+            "title": "OpenAI年化经常性收入接近700亿美元",
+            "storyUrl": "https://aihot.news/story/d06a5836-f6cc-4ecf-a616-8dd42aceca87"
+          },
+          {
+            "title": "OpenAI DevDay 2026 活动与议程",
+            "storyUrl": "https://aihot.news/story/5a0ede4c-2a14-4e6f-a56a-0a0fe406fcc3"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
+        "id": "ewa77zkka92qb5lqukt70bfu8",
+        "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
+        "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
+        "sourceCount": 12,
+        "participantCount": 70,
+        "latestAt": "2026-09-30T09:25:10.921Z",
+        "expanded": true,
+        "latest": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+        "reports": [
+          {
+            "title": "BestBlogs 早报：OpenAI DevDay 2026 与 Manus 2.0 等",
+            "sourceName": "X：洪明 (@hongming731)",
+            "sourceUrl": "https://x.com/hongming731/status/2105091143809814961",
+            "aihotUrl": "https://aihot.news/items/aof1mznht2w64xp6f2l3k5pmb",
+            "publishedAt": "2026-09-30T00:23:34.000Z"
+          },
+          {
+            "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+            "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+            "sourceUrl": "https://x.com/OpenAIDevs/status/2105073621144338660",
+            "aihotUrl": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
+            "publishedAt": "2026-09-29T23:13:56.000Z"
+          },
+          {
+            "title": "OpenAI Codex 推出 Ultrafast 模式，代码生成最高提速 8x",
+            "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+            "sourceUrl": "https://x.com/OpenAIDevs/status/2105073608586670412",
+            "aihotUrl": "https://aihot.news/items/mzrr47eq951b8nzpqg3oi0gtp",
+            "publishedAt": "2026-09-29T23:13:53.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "OpenAI 发布常驻智能体 Dots",
+            "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
+          },
+          {
+            "title": "OpenAI 发布 GPT-6 Sol 与 Luna，价格减半",
+            "storyUrl": "https://aihot.news/story/910b5e6a-77d7-45e7-92f1-9950f1cc375f"
+          },
+          {
+            "title": "OpenAI 被曝筹备 ChatGPT Pro Max 订阅",
+            "storyUrl": "https://aihot.news/story/bf2f33bb-2cde-4a65-b472-6fd27b36927c"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
+        "id": "ukbm1pni8gdc5ciwwuywzkhwb",
+        "title": "AMD 82亿美元收购World Labs，李飞飞任首席科学家",
+        "sourceName": "World Labs：官网",
+        "sourceUrl": "https://www.worldlabs.ai/blog/amd-announcement",
+        "aihotUrl": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+        "storyUrl": "https://aihot.news/story/1c691309-370b-4623-bb83-012b0804c3d1",
+        "sourceCount": 10,
+        "participantCount": 84,
+        "latestAt": "2026-09-30T07:41:08.000Z",
+        "expanded": true,
+        "latest": "AMD 以 82 亿美元收购 World Labs，加码与 Nvidia 的竞争",
+        "reports": [
+          {
+            "title": "AMD 以 82 亿美元收购 World Labs，加码与 Nvidia 的竞争",
+            "sourceName": "Ars Technica：AI（RSS）",
+            "sourceUrl": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+            "aihotUrl": "https://aihot.news/items/k590lh37ob4ageimpwrq4nsdn",
+            "publishedAt": "2026-09-29T21:14:49.000Z"
+          },
+          {
+            "title": "AMD 以 82 亿美元收购空间智能初创公司 World Labs，李飞飞出任首席科学家",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/",
+            "aihotUrl": "https://aihot.news/items/ji9vkeilyp3ankkwwp0ub1gui",
+            "publishedAt": "2026-09-29T17:13:51.000Z"
+          },
+          {
+            "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
+            "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+            "sourceUrl": "https://x.com/ClementDelangue/status/2104731591054660040",
+            "aihotUrl": "https://aihot.news/items/ohklpuor2v0wors1gyw1wd25l",
+            "publishedAt": "2026-09-29T00:34:49.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "World Labs：官网",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 4,
+        "id": "x8r8kta42au39pp06f02shk9f",
+        "title": "Anthropic 发布 Claude Sonnet 5.5",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+        "aihotUrl": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
+        "storyUrl": "https://aihot.news/story/94903954-cf87-48d8-89a6-eff5deefeaa0",
+        "sourceCount": 15,
+        "participantCount": 82,
+        "latestAt": "2026-09-30T08:40:44.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
+        "id": "khyjby0mw5t22dn9zw2l6fflu",
+        "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+        "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
+        "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
+        "sourceCount": 7,
+        "participantCount": 53,
+        "latestAt": "2026-09-30T05:26:15.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "IPO",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "gs96clovs726l3b5nd80ofnva",
+        "title": "OpenAI重开Pro 200并新增Pro 500档",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2104823812042940713",
+        "aihotUrl": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
+        "storyUrl": "https://aihot.news/story/c2ce7c22-c2b6-45b0-b931-5200b107c077",
+        "sourceCount": 5,
+        "participantCount": 44,
+        "latestAt": "2026-09-30T08:31:40.001Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "iinkrp1rv6xk3xmidsbkxax95",
+        "title": "OpenAI因安全对齐问题取消GPT-6.1 Astra发布",
+        "sourceName": "Ars Technica：AI（RSS）",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+        "aihotUrl": "https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95",
+        "storyUrl": "https://aihot.news/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876",
+        "sourceCount": 6,
+        "participantCount": 47,
+        "latestAt": "2026-09-30T08:40:35.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "qw3a6btvwdalftejp20ccxjb3",
+        "title": "DeepSeek开源华为昇腾平台基础设施组件",
+        "sourceName": "公众号：DeepSeek（深度求索）",
+        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
+        "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
+        "storyUrl": "https://aihot.news/story/0708dda9-d77b-4211-8456-eb7b422e0cc9",
+        "sourceCount": 3,
+        "participantCount": 20,
+        "latestAt": "2026-09-30T08:43:39.202Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "公众号：DeepSeek（深度求索）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "s5on5dsnixevj7j9lfjemhz3o",
+        "title": "NVIDIA 发布开放智能体安全平台 OpenShell 与 Sentry",
+        "sourceName": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+        "aihotUrl": "https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o",
+        "storyUrl": "https://aihot.news/story/5e2816ac-db96-4268-b76c-57b6f4b18bbd",
+        "sourceCount": 9,
+        "participantCount": 46,
+        "latestAt": "2026-09-30T00:06:55.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
+        "id": "z16dwwrxb4uczgv6tnh5c4id1",
+        "title": "Manus 发布 2.0 系列产品与更新",
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/008/064.htm",
+        "aihotUrl": "https://aihot.news/items/z16dwwrxb4uczgv6tnh5c4id1",
+        "storyUrl": "https://aihot.news/story/c389aba2-5149-45a8-a66b-56a88fc3ff3e",
+        "sourceCount": 6,
+        "participantCount": 35,
+        "latestAt": "2026-09-30T07:58:37.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-30T08:20:00.793Z",
-    "nextCheckAt": 1790756700793,
+    "checkedAt": "2026-09-30T09:52:25.803Z",
+    "nextCheckAt": 1790762245803,
     "intervalSeconds": 300,
     "message": ""
   }

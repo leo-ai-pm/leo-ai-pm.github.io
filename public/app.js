@@ -36,7 +36,7 @@ function identityContent(visual) {
 function itemVisual(item) {
   return item.visual?.entities?.length ? item.visual : {entities:[{name:item.sourceName}],caption:item.category};
 }
-let activeTopic = '全部', hotOnly=false;
+let coverLead = null;
 const dateText = value => {
   if (!value || !Number.isFinite(Date.parse(value))) return '日期未提供';
   if (/^\d{4}-\d{2}-\d{2}$/.test(value)) return value;
@@ -49,35 +49,30 @@ function externalLink(text, url, className = '') {
   link.target='_blank';link.rel='noopener noreferrer';return link;
 }
 function applyFilters() {
-  const source=$('source-filter').value, author=$('author-filter').value;
+  const author=$('author-filter').value;
   let visible=0, archived=0;
   document.querySelectorAll('#stories article').forEach(article=>{
-    article.hidden=(activeTopic!=='全部' && article.dataset.topic!==activeTopic) || (source && article.dataset.source!==source) || (author && article.dataset.author!==author) || (hotOnly && article.dataset.hot!=='true');
+    article.hidden=Boolean(author && article.dataset.author!==author);
     if (!article.hidden) {visible++;if(article.dataset.archive==='true')archived++;}
   });
-  $('topic-filters').querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(button.textContent===activeTopic)));
-  $('count').textContent=`${visible} 则选读${archived?' · 含 '+archived+' 则历史观点':''}`;
+  $('count').textContent=`${visible} 则${archived?' · 含 '+archived+' 则历史观点':''}`;
   $('filter-empty').hidden=visible>0;
-}
-function filterTopic(topic) {
-  if (topic!=='全部' && !topics.includes(topic)) return;
-  activeTopic=topic;applyFilters();
 }
 function renderSources(data) {
   const groups=data.sources?.groups || [], people=data.sources?.people || [];
-  const groupSelect=$('source-filter'),authorSelect=$('author-filter');
-  const savedGroup=groupSelect.value,savedAuthor=authorSelect.value;
-  groupSelect.replaceChildren(new Option('全部来源',''));
-  for(const group of groups) groupSelect.add(new Option(group,group));
-  authorSelect.replaceChildren(new Option('全部人物与机构',''));
+  const authorSelect=$('author-filter');
+  const savedAuthor=authorSelect.value;
+  authorSelect.replaceChildren(new Option('全部人物',''));
   for(const person of people) authorSelect.add(new Option(person.name,person.handle.toLowerCase()));
-  if([...groupSelect.options].some(o=>o.value===savedGroup))groupSelect.value=savedGroup;
   if([...authorSelect.options].some(o=>o.value===savedAuthor))authorSelect.value=savedAuthor;
   const overview=$('source-overview');overview.replaceChildren();
-  const acquisition=node('p','', '资讯获取渠道：');
-  acquisition.append(externalLink('AIHot ↗',data.sources?.aggregator?.url), document.createTextNode(' · MCP 热点榜与官方 API 人物动态'));
-  overview.append(acquisition,node('p','',data.sources?.coverage || '每条内容均保留原始来源链接。'));
+  overview.append(node('p','','AIHOT 提供日报、热点榜、精选和人物动态，页面只保留标题、一句话和回链。关于页在 2026-09-30 写明当时盯 865 个信源，这个数字会变，以 AIHOT 关于页为准。'));
+  overview.append(node('p','',data.sources?.coverage || '每条内容均保留原始来源链接。'));
+  const acquisition=node('p','');
+  acquisition.append(externalLink('AIHOT ↗','https://aihot.news/'), document.createTextNode(' · '), externalLink('热点榜 ↗','https://aihot.news/hot'), document.createTextNode(' · 公众号经 BestBlogs 公开订阅源，差评使用官方英文站；产品研究来自 4 个公开订阅源。'));
+  overview.append(acquisition);
   const directory=$('source-groups');directory.replaceChildren();
+  const pool=[...(data.items||[]), ...(data.ranking||[])];
   for(const group of groups) {
     const section=node('section','source-group');section.append(node('h3','',group));
     const list=node('ul','');
@@ -86,24 +81,22 @@ function renderSources(data) {
       li.append(externalLink(person.name+' ↗',person.url),node('span','source-focus',person.focus),node('span','source-status',person.status==='本次未检出'?'本次未检出 X 动态':person.status));list.append(li);
     }
     const sites=new Map();
-    data.items.filter(i=>i.sourceGroup===group && !people.some(p=>p.handle.toLowerCase()===(i.authorHandle||'').toLowerCase())).forEach(i=>{
-      const url=new URL(i.sourceUrl); const home=i.platform==='X'&&i.authorHandle ? `https://x.com/${i.authorHandle}` : url.hostname==='github.com' ? `${url.origin}/${url.pathname.split('/')[1]}` : url.origin;
-      sites.set(i.sourceName,home);
+    pool.filter(i=>i.sourceGroup===group && !people.some(p=>p.handle.toLowerCase()===(i.authorHandle||'').toLowerCase()) && i.sourceUrl).forEach(i=>{
+      try {
+        const url=new URL(i.sourceUrl); const home=i.platform==='X'&&i.authorHandle ? `https://x.com/${i.authorHandle}` : url.hostname==='github.com' ? `${url.origin}/${url.pathname.split('/')[1]}` : url.origin;
+        sites.set(i.sourceName,home);
+      } catch {}
     });
     for(const [name,url] of sites) {const li=node('li','');li.append(externalLink(name+' ↗',url),node('span','source-status','本期资讯来源'));list.append(li);}
     if(!list.children.length) list.append(node('li','source-status','本期尚未收录'));
     section.append(list);directory.append(section);
   }
   $('source-directory').hidden=!groups.length;
-  $('sync-time').textContent=data.updatedAt?`最近同步 ${dateText(data.updatedAt)}（北京时间） · 热点 ${data.sync?.hotCount || 0} 条 · 人物动态 ${data.sync?.latestCount || 0} 条${data.sync?.archiveCount?' · 历史观点 '+data.sync.archiveCount+' 条':''}`:'';
-  $('hot-label').textContent=`AIHOT TOP ${data.sync?.hotCount || 10} / 48 小时热点 · 原榜顺序`;
-
+  $('sync-time').textContent=data.updatedAt?`最近同步 ${dateText(data.updatedAt)}（北京时间） · 热点 ${data.sync?.hotCount || data.ranking?.length || 0} 条 · 人物动态 ${data.sync?.latestCount || 0} 条${data.sync?.archiveCount?' · 历史观点 '+data.sync.archiveCount+' 条':''}`:'';
 }
-$('hot-only').addEventListener('click',()=>{hotOnly=!hotOnly;$('hot-only').setAttribute('aria-pressed',String(hotOnly));applyFilters();});
-$('source-filter').addEventListener('change',applyFilters);
 $('author-filter').addEventListener('change',applyFilters);
-$('reset-filters').addEventListener('click',()=>{$('source-filter').value='';$('author-filter').value='';hotOnly=false;$('hot-only').setAttribute('aria-pressed','false');filterTopic('全部');});
-document.querySelector('a[href="#source-directory"]').addEventListener('click',()=>{$('source-directory').open=true;});
+$('reset-filters').addEventListener('click',()=>{$('author-filter').value='';applyFilters();});
+document.querySelector('a[href="#sources"]').addEventListener('click',()=>{$('source-directory').open=true;});
 function createStoryArticle(item,index) {
     const url = new URL(item.sourceUrl);
     if (!['https:', 'http:'].includes(url.protocol)) throw new Error('来源链接须使用 http 或 https');
@@ -118,7 +111,8 @@ function createStoryArticle(item,index) {
     const copy = node('div','story-copy');
     const meta = node('div','eyebrow');
     meta.append(node('span','label',item.hotRank?`热点 ${String(item.hotRank).padStart(2,'0')}`:(item.creatorId||item.researchId?{lead:'最新选读',important:'重点关注',normal:'观点与实践'}:{lead:'本期头条',important:'重点关注',normal:'人物动态'})[item.priority]),node('span','category',item.category));
-    copy.append(meta,node('p',item.isArchive?'article-date archive-date':'article-date',`${item.isArchive?'历史观点 · ':''}${dateText(item.publishedAt)}${item.isArchive?' · 非今日动态':''}`),node('h3','',item.title));
+    const timeNote=item.timeBasis==='discovered'?'AIHOT 收录时间 · ':'';
+    copy.append(meta,node('p',item.isArchive?'article-date archive-date':'article-date',`${item.isArchive?'历史观点 · ':''}${timeNote}${dateText(item.publishedAt)}${item.isArchive?' · 非今日动态':''}`),node('h3','',item.title));
     if(item.brief.trim()!==item.summary.trim())copy.append(node('p','brief',item.brief));
     const subs = node('div','subsections');
     const summary = node('section','subsection');
@@ -141,59 +135,48 @@ function createStoryArticle(item,index) {
 let dailyPresentation=null,creatorPresentation=[],researchPresentation=[];
 function render(data) {
   if (!Array.isArray(data.items)) throw new Error('日报内容格式不正确');
+  const peopleItems=data.items.filter(item=>!item.hotRank);
   const required = ['id','title','brief','summary','category','priority','sourceName','sourceUrl'];
-  const ids = new Set(); let leads = 0, importants = 0;
+  const ids = new Set();
   const fragment = document.createDocumentFragment();
-  data.items.forEach((item, index) => {
+  peopleItems.forEach((item, index) => {
     if (required.some(key => typeof item[key] !== 'string' || !item[key].trim()) || ids.has(item.id)) throw new Error('日报条目缺少内容，或编号重复');
     ids.add(item.id);
     if (!['lead','important','normal'].includes(item.priority)) throw new Error('日报条目的优先级不正确');
-    if (item.priority === 'lead' && ++leads > 1 || item.priority === 'important' && ++importants > 2) throw new Error('头条最多 1 条，重点最多 2 条');
-    fragment.append(createStoryArticle(item,index));
+    const card={...item, priority:'normal'};
+    fragment.append(createStoryArticle(card,index));
   });
   $('stories').replaceChildren(fragment);
   dailyPresentation=data;updatePresentation();
   document.dispatchEvent(new CustomEvent('daily:edition',{detail:data}));
   requestScrollPaint();
-  const nav=$('topic-filters'); nav.replaceChildren();
-  for (const topic of ['全部',...topics]) {const b=node('button','filter',topic);b.type='button';b.addEventListener('click',()=>filterTopic(topic));nav.append(b);}
   renderSources(data);
-  filterTopic(topics.includes(activeTopic) ? activeTopic : '全部');
+  applyFilters();
   $('date').textContent = typeof data.date === 'string' ? data.date : '日期未提供';
   $('edition').textContent = data.demo ? '演示刊 · 非实时新闻' : (data.editionLabel || '个人阅读版');
   $('notice').textContent = data.demo ? '演示内容：以下为阅读选题与参考入口，不代表今日新闻。' : (data.notice || '');
-  if (!data.items.length) $('notice').textContent = '这一期还没有内容。你可以直接让 Agent 帮你更新日报。';
 }
 function updatePresentation() {
-  const creator=document.documentElement.dataset.view==='creators',research=document.documentElement.dataset.view==='research';
-  const items=creator?creatorPresentation:research?researchPresentation:(dailyPresentation?.items||[]);
-  const feature=items.find(item=>item.priority==='lead')||items[0];
-  if(creator||research){
-    const lines=(research?[['从灵感','，'],['走向实践','。']]:[['让观点','，'],['变成灵感','。']]).map(([text,punctuation])=>{
-      const line=node('span','cover-title-line'),words=node('span','cover-title-words',text);
-      words.append(node('span','cover-title-punctuation',punctuation));line.append(words);return line;
-    });
-    $('cover-heading').replaceChildren(...lines);
-  }else $('cover-heading').replaceChildren(document.createTextNode('让好奇，'),document.createElement('br'),document.createTextNode('每天发生。'));
-  $('cover-subtitle').textContent=creator?'A fresh perspective on what’s next.':research?'Ideas, tested in the real world.':'A daily dose of what’s next.';
-  $('focus-topics').textContent=creator?'创作者 · 媒体 · 产品与实践':research?'产品案例 · 能力边界 · 工作方法':topics.join(' · ');
-  $('cover-read-label').textContent=creator?'阅读观察':research?'开始研究':'阅读日报';
-  for(const a of document.querySelectorAll('[data-current-reading]'))a.href=creator?'#creators':research?'#research':'#content';
-  $('nav-read-label').textContent=creator?'阅读观察':research?'开始研究':'阅读本期';
+  const orbitSource=coverLead?.orbit?.length?coverLead.orbit:(dailyPresentation?.items||[]);
+  const feature=coverLead||orbitSource.find(item=>item.priority==='lead')||orbitSource[0];
+  $('cover-heading').replaceChildren(document.createTextNode('让好奇，'),document.createElement('br'),document.createTextNode('每天发生。'));
+  $('cover-subtitle').textContent='A daily dose of what’s next.';
+  $('focus-topics').textContent=topics.join(' · ');
+  $('cover-read-label').textContent='阅读日报';
+  $('nav-read-label').textContent='阅读本期';
   $('feature-track').hidden=!feature;
   if(feature){
     const visual=itemVisual(feature);
     $('feature-image').hidden=true;$('feature-panel').classList.add('identity-feature');
     $('feature-panel').style.backgroundColor=safeTone(visual.entities[0].tone);
     $('feature-identity').replaceChildren(identityContent(visual));
-    $('feature-title').textContent=feature.title;$('feature-brief').textContent=feature.brief;
-    $('feature-kicker').textContent=creator||research?`${feature.sourceName} / ${feature.category}`:`${feature.hotRank?'AIHOT 热点第 '+feature.hotRank+' 名':'本期头条'} / ${feature.category}`;
-    $('feature-index').textContent=creator?'01 / CREATORS & MEDIA':research?'01 / PRODUCT RESEARCH':'01 / THE DAILY EDIT';
+    $('feature-title').textContent=feature.title;$('feature-brief').textContent=feature.brief||feature.summary||'';
+    $('feature-kicker').textContent=feature.kicker||`${feature.category||'本期头条'}`;
+    $('feature-index').textContent=feature.indexLabel||'01 / THE DAILY EDIT';
   }
-  syncCoverImages(items);requestScrollPaint();
+  syncCoverImages(orbitSource);requestScrollPaint();
 }
-window.DailyPresentation={filterTopic,article:createStoryArticle,identityImage,updateCreators(items){creatorPresentation=items;if(document.documentElement.dataset.view==='creators')updatePresentation();},updateResearch(items){researchPresentation=items;if(document.documentElement.dataset.view==='research')updatePresentation();},refresh:updatePresentation};
-for (const link of document.querySelectorAll('[data-topic]')) link.addEventListener('click',()=>filterTopic(link.dataset.topic));
+window.DailyPresentation={article:createStoryArticle,identityImage,externalLink,dateText,node,updateCreators(items){creatorPresentation=items;},updateResearch(items){researchPresentation=items;},setLead(lead){coverLead=lead;updatePresentation();},refresh:updatePresentation};
 // Keep the original drift; the spiral follows a path at constant travel speed.
 const orbit=$('image-orbit');
 const photos=Array.from({length:189},()=>{
@@ -403,7 +386,7 @@ for(const anchor of document.querySelectorAll('a[href="#content"], a[href="#land
 requestScrollPaint();
 sizePhotos();paintOrbit();syncMotion();
 let liveTimer=0,liveBusy=false,liveNextCheck=0,editionSignature='';
-const signature=data=>JSON.stringify([data.items,data.sources?.people,data.date]);
+const signature=data=>JSON.stringify([data.items,data.ranking,data.sources?.people,data.date]);
 function applyLiveEdition(data) {
   const next=signature(data);if(next===editionSignature)return;
   const oldY=scrollY;
@@ -427,8 +410,8 @@ async function checkLive(){
     applyLiveEdition(result.data);
     liveNextCheck=Date.now()+300000;
     $('live-status').dataset.state=result.live.status;
-    if(result.live.checkedAt && Date.now()-Date.parse(result.live.checkedAt)>3600000){result.live.status='error';result.live.message='更新延迟 · 显示上次资讯，最近成功检查 '+dateText(result.live.checkedAt);}
-    $('live-status').textContent=['error','offline','disabled','refreshing'].includes(result.live.status)?result.live.message:`计划每 15 分钟同步 · 排队时可能延后${result.live.checkedAt?' · 已检查 '+dateText(result.live.checkedAt):''}`;
+    if(result.live.checkedAt && Date.now()-Date.parse(result.live.checkedAt)>12*3600000){result.live.status='error';result.live.message='更新延迟 · 显示上次资讯，最近成功检查 '+dateText(result.live.checkedAt);}
+    $('live-status').textContent=['error','partial','offline','disabled','refreshing'].includes(result.live.status)?(result.live.message||'部分栏目暂时沿用上次内容'):`已检查 ${result.live.checkedAt?dateText(result.live.checkedAt):'—'}`;
   }catch{
     liveNextCheck=Date.now()+300000;$('live-status').dataset.state='error';
     $('live-status').textContent='暂时无法连接更新服务，保留当前资讯，恢复连接后自动重试。';

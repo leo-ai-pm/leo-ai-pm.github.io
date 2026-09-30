@@ -1,7 +1,7 @@
 (() => {
  const $=id=>document.getElementById(id),el=(tag,cls,text='')=>{const e=document.createElement(tag);e.className=cls;e.textContent=text;return e;};
  let data=null,category='全部',libraryGroup='全部',timer=0,next=0,busy=false,signature='';
- const active=()=>document.documentElement.dataset.view==='research';
+ const active=()=>true;
  const date=t=>t?new Intl.DateTimeFormat('zh-CN',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Asia/Shanghai'}).format(new Date(t)):'尚未成功读取';
  const link=(text,url)=>{const a=el('a','',text);const u=new URL(url);if(!['https:','http:'].includes(u.protocol))return el('span','',text);a.href=u.href;a.target='_blank';a.rel='noopener noreferrer';return a;};
  function tabs(id,values,selected,onSelect){const root=$(id);root.replaceChildren();for(const value of values){const b=el('button','',value);b.type='button';b.setAttribute('aria-pressed',String(value===selected));b.addEventListener('click',()=>onSelect(value));root.append(b);}}
