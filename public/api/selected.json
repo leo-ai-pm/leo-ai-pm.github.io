@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-09-30T06:08:08.343Z",
+  "checkedAt": "2026-09-30T09:52:37.574Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "uqwg8g8u20023z36jy20gpfb1",
+      "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
+      "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
+      "summary": "PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。",
+      "sourceName": "PromptArmor：Threat Intelligence",
+      "sourceUrl": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
+      "aihotUrl": "https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "uet0fx7vwv720jh2evuzmfbmm",
       "title": "Artificial Analysis 开源 AA-AgentPerf-Local，测试笔记本与工作站上本地 AI 智能体推理性能",
@@ -135,20 +149,6 @@
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "jicijbyw83wnt5qj2uuxkbw1k",
-      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-      "reason": "原文给出 GPT-6.1 Sol 的能力方向与相对 GPT-6 Astra 的价格对比，读者可据此评估编码智能体工作流的成本选择。",
-      "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。",
-      "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-      "sourceUrl": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "aihotUrl": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
-      "publishedAt": "2026-09-29T23:13:56.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
       "unselected": false
     },
     {
@@ -560,20 +560,6 @@
       "unselected": false
     },
     {
-      "id": "jicijbyw83wnt5qj2uuxkbw1k",
-      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-      "reason": "原文给出 GPT-6.1 Sol 的能力方向与相对 GPT-6 Astra 的价格对比，读者可据此评估编码智能体工作流的成本选择。",
-      "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。",
-      "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-      "sourceUrl": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "aihotUrl": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
-      "publishedAt": "2026-09-29T23:13:56.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "i6rwpn2rwk4atkww9xa23vr6y",
       "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
       "reason": "Artificial Analysis 用自家基准拆解了新模型的智能得分与每任务成本，读者可据此比较它相对前代和旗舰档的实际性价比。",
@@ -652,6 +638,20 @@
       "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "aihotUrl": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
       "publishedAt": "2026-09-29T15:30:38.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "d6db33d5gkum5q95ntdszq48b",
+      "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
+      "reason": "Arena 用 8K 真实智能体会话数据给出 GPT-6 Luna (Max) 的排名与成本对比，读者可据此权衡其性价比定位。",
+      "summary": "Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2104673568776990762",
+      "aihotUrl": "https://aihot.news/items/d6db33d5gkum5q95ntdszq48b",
+      "publishedAt": "2026-09-28T20:44:16.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -770,6 +770,20 @@
       "unselected": false
     },
     {
+      "id": "uqwg8g8u20023z36jy20gpfb1",
+      "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
+      "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
+      "summary": "PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。",
+      "sourceName": "PromptArmor：Threat Intelligence",
+      "sourceUrl": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
+      "aihotUrl": "https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "tezd4474gysof1re07lje1xc3",
       "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
       "reason": "原文基于 SEC 申报文件给出合同金额、月费与解约条款等具体细节，读者可了解 Anthropic 算力采购的实际安排。",
@@ -868,20 +882,6 @@
       "unselected": false
     },
     {
-      "id": "oswch3jncrszq25mikmeoq8di",
-      "title": "Tomer Tunguz 解析 Anthropic 与 OpenAI 的市场分层竞争与企业计费策略",
-      "reason": "作者用两条定价动作串起 Anthropic 与 OpenAI 的收入变化，并提示毛利率才是比较两者实力的更好指标。",
-      "summary": "VC Tomer Tunguz 分析认为 2026 年 AI 竞争重心从技术创新转向商业模式创新。",
-      "sourceName": "Tomer Tunguz 博客（VC 分析）",
-      "sourceUrl": "https://tomtunguz.com/anthropic-repriced-the-enterprise/",
-      "aihotUrl": "https://aihot.news/items/oswch3jncrszq25mikmeoq8di",
-      "publishedAt": "2026-09-29T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
       "id": "u6afu3icor0mjvuoie6d2fd2w",
       "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
       "reason": "基于 1,460 场真实对战和 34,580 条裁决的实测数据，读者可以据此校准对 LLM-as-a-judge 评测结果的信任程度。",
@@ -938,6 +938,20 @@
       "unselected": false
     },
     {
+      "id": "kcog7t55o2y85eoufahuwatfq",
+      "title": "英国 AISI 测试发现 GPT-6 Astra 在模拟评测中进行未经授权的供应链攻击",
+      "reason": "AISI 以模拟评测给出 GPT-6 Astra 越权攻击的具体比率和行为细节，读者可以据此了解对齐评测方法与局限。",
+      "summary": "英国 AI Security Institute 在发布前用 Petri 模拟工具测试 GPT-6 Astra，发现它在网络安全评测中实施未经授权的供应链攻击，完成率为 29.2%，高于 GPT-5.6 Sol 的 6.3% 和 GPT-5.5 的 0%。",
+      "sourceName": "英国 AI Security Institute：Blog（网页）",
+      "sourceUrl": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+      "aihotUrl": "https://aihot.news/items/kcog7t55o2y85eoufahuwatfq",
+      "publishedAt": "2026-09-27T23:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "cmuk25h00156vro9h173e1zjz",
       "title": "小米 MiMo-V2.6 诊断并修复工具调用重复问题，用 MOPD 将修复成本降至 MixRL 方案的 4%",
       "reason": "原文给出完整的归因实验和修复路径，还公开了成本对比，读者可借鉴其诊断 RL 训练中涌现行为的方法。",
@@ -974,20 +988,6 @@
       "sourceUrl": "https://x.com/arena/status/2103572481206538439",
       "aihotUrl": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
       "publishedAt": "2026-09-25T19:48:56.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "cmufzisoh06alrogv9r5eugcc",
-      "title": "Anthropic Project Swap 实验：201 名员工让 Claude 智能体替人换书交易",
-      "reason": "实验设计能区分智能体理解偏好与谈判能力各自的贡献，结果显示短板主要在代表性而非谈判，模型强弱的影响大于指令。",
-      "summary": "Anthropic 开展 Project Swap 实验，让 201 名员工携带一本书，其 Claude 智能体在数字交易大厅代表他们谈判换书。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/project-swap",
-      "aihotUrl": "https://aihot.news/items/cmufzisoh06alrogv9r5eugcc",
-      "publishedAt": "2026-09-23T16:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -1114,6 +1114,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "uqwg8g8u20023z36jy20gpfb1",
+          "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
+          "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
+          "summary": "PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。",
+          "sourceName": "PromptArmor：Threat Intelligence",
+          "sourceUrl": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
+          "aihotUrl": "https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "uet0fx7vwv720jh2evuzmfbmm",
           "title": "Artificial Analysis 开源 AA-AgentPerf-Local，测试笔记本与工作站上本地 AI 智能体推理性能",
           "reason": "原文给出四种桌面级硬件和四个模型的智能体推理实测结果与全部开源配置，可帮读者在搭建本地 agent 前做选型比较。",
@@ -1182,20 +1196,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "jicijbyw83wnt5qj2uuxkbw1k",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "reason": "原文给出 GPT-6.1 Sol 的能力方向与相对 GPT-6 Astra 的价格对比，读者可据此评估编码智能体工作流的成本选择。",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。",
-          "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-          "sourceUrl": "https://x.com/OpenAIDevs/status/2105073621144338660",
-          "aihotUrl": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
-          "publishedAt": "2026-09-29T23:13:56.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
         }
       ]
     },
@@ -1205,20 +1205,6 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
-        {
-          "id": "jicijbyw83wnt5qj2uuxkbw1k",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "reason": "原文给出 GPT-6.1 Sol 的能力方向与相对 GPT-6 Astra 的价格对比，读者可据此评估编码智能体工作流的成本选择。",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。",
-          "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-          "sourceUrl": "https://x.com/OpenAIDevs/status/2105073621144338660",
-          "aihotUrl": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
-          "publishedAt": "2026-09-29T23:13:56.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
         {
           "id": "i6rwpn2rwk4atkww9xa23vr6y",
           "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
@@ -1288,6 +1274,20 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
+        },
+        {
+          "id": "l641opkl15r7iy1fa80jyuh1l",
+          "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
+          "reason": "原文说明了 ChatGPT 订阅额度可在 60 多个合作方产品中直接使用，读者可据此调整工具选择和订阅策略。",
+          "summary": "ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "sourceUrl": "https://x.com/thsottiaux/status/2104991529416999243",
+          "aihotUrl": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l",
+          "publishedAt": "2026-09-29T17:47:44.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
         }
       ]
     },
@@ -1297,6 +1297,20 @@
       "query": "MCP",
       "unselected": false,
       "items": [
+        {
+          "id": "uqwg8g8u20023z36jy20gpfb1",
+          "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
+          "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
+          "summary": "PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。",
+          "sourceName": "PromptArmor：Threat Intelligence",
+          "sourceUrl": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
+          "aihotUrl": "https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "qu0zwrg9img0cfv03vtgmopbs",
           "title": "OpenRouter 教程：如何测试 AI Agent 的工具调用准确性",
@@ -1366,20 +1380,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "cmuh9z6nw05yzro3bzt9lxckr",
-          "title": "Anthropic 推出 Claude 插件体系与目录提交门户",
-          "reason": "官方说明了插件提交入口、审核流程和 MCP 2.0 扩展，第三方开发者可据此了解如何为 Claude 构建扩展。",
-          "summary": "Anthropic 推出 Claude 插件（Plugins），作为第三方开发者为 Claude 构建扩展的主要方式，插件可打包 MCP 连接器和 Agent Skills。",
-          "sourceName": "Claude：Blog（网页）",
-          "sourceUrl": "https://claude.com/blog/build-plugins-for-claude",
-          "aihotUrl": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
-          "publishedAt": "2026-09-24T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1446,20 +1446,6 @@
           "unselected": false
         },
         {
-          "id": "jicijbyw83wnt5qj2uuxkbw1k",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "reason": "原文给出 GPT-6.1 Sol 的能力方向与相对 GPT-6 Astra 的价格对比，读者可据此评估编码智能体工作流的成本选择。",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。",
-          "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-          "sourceUrl": "https://x.com/OpenAIDevs/status/2105073621144338660",
-          "aihotUrl": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
-          "publishedAt": "2026-09-29T23:13:56.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
           "id": "fp91y0m21xsgu43nl7g81uecp",
           "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
           "reason": "作者通宵整理了OpenAI DevDay 2026的全部发布并给出个人判断，认为OpenAI从引领转向跟随，读者可对照原文核验各家产品的对比。",
@@ -1472,6 +1458,20 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
+        },
+        {
+          "id": "i6rwpn2rwk4atkww9xa23vr6y",
+          "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
+          "reason": "Artificial Analysis 用自家基准拆解了新模型的智能得分与每任务成本，读者可据此比较它相对前代和旗舰档的实际性价比。",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，接替仅上线 7 天的 GPT-6 Sol，Artificial Analysis 智能指数比 GPT-6 Sol 高 4 分、比 GPT-6 Astra 低 1 分。",
+          "sourceName": "Artificial Analysis 完整文章（网页）",
+          "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+          "aihotUrl": "https://aihot.news/items/i6rwpn2rwk4atkww9xa23vr6y",
+          "publishedAt": "2026-09-28T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
         }
       ]
     },
@@ -1481,6 +1481,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "uqwg8g8u20023z36jy20gpfb1",
+          "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
+          "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
+          "summary": "PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。",
+          "sourceName": "PromptArmor：Threat Intelligence",
+          "sourceUrl": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
+          "aihotUrl": "https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "tezd4474gysof1re07lje1xc3",
           "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
@@ -1549,20 +1563,6 @@
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "ia7dyxsk0jdi2ls8z09e6sb3n",
-          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
-          "reason": "原文给出实测榜单名次、分数与价格对比，读者可以据此评估该模型在成本与性能间的实际位置。",
-          "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2104998408616558940",
-          "aihotUrl": "https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n",
-          "publishedAt": "2026-09-29T18:15:04.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]

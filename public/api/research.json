@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-30T01:59:58.660Z",
-      "lastSuccessAt": "2026-09-30T01:59:58.660Z",
-      "nextCheckAt": 1790737198660,
+      "checkedAt": "2026-09-30T08:19:41.265Z",
+      "lastSuccessAt": "2026-09-30T08:19:41.265Z",
+      "nextCheckAt": 1790759981265,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-30T01:59:58.662Z",
-      "lastSuccessAt": "2026-09-30T01:59:58.662Z",
-      "nextCheckAt": 1790737198662,
+      "checkedAt": "2026-09-30T08:19:41.266Z",
+      "lastSuccessAt": "2026-09-30T08:19:41.266Z",
+      "nextCheckAt": 1790759981266,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-30T01:59:58.663Z",
-      "lastSuccessAt": "2026-09-30T01:59:58.663Z",
-      "nextCheckAt": 1790737198663,
+      "checkedAt": "2026-09-30T08:19:41.267Z",
+      "lastSuccessAt": "2026-09-30T08:19:41.267Z",
+      "nextCheckAt": 1790759981267,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790737199183,
-      "checkedAt": "2026-09-30T01:59:59.183Z",
-      "lastSuccessAt": "2026-09-30T01:59:59.183Z",
+      "nextCheckAt": 1790759981583,
+      "checkedAt": "2026-09-30T08:19:41.583Z",
+      "lastSuccessAt": "2026-09-30T08:19:41.583Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,55 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790737198660,
+  "nextCheckAt": 1790759981265,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6472119.html",
-      "title": "Manus 2.0发布后肖弘发声，在激烈的个人 Agent 市场如何突围？",
-      "summary": "Meta 的 Muse 霸榜应用商店之后，与它有过渊源的 Manus 也发布了 2.0，连同个人智能体 Cue 一起登场。围绕创始人肖弘的声音不少，他在产品发布后回应：Manus 被做出来的时候，世界上还没有 Codex 和 Claude Cowork。 在 Meta 的 Muse 最近霸榜苹果和安卓应用商店下载榜首后，与其曾产生渊源的 Manus 也发布了其 2.0 版本，连同其个人智能体（Personal Agent）产品 Cue一",
-      "publishedAt": "2026-09-30T01:28:47.000Z",
-      "url": "https://www.woshipm.com/ai/6472119.html",
+      "id": "ph:https://www.producthunt.com/products/crawlraven-mcp",
+      "title": "CrawlRaven MCP",
+      "summary": "Your SEO work, done from your AI agent",
+      "publishedAt": "2026-09-30T06:51:13.000Z",
+      "url": "https://www.producthunt.com/products/crawlraven-mcp",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/crawlraven-mcp",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Your SEO work, done from your AI agent",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6472599.html",
+      "title": "Muse 爆火之后，腾讯、阿里、字节集体冲进Personal Agent",
+      "summary": "国庆前一天，一条不太起眼的消息在圈子里传开了。 据《读佳》报道，腾讯正在秘密开发一款Personal Agent产品，内部代号Handy Bot，计划做成独立App。更有意思的是，它已经先在微信里开了个服务号，简介只有一句英文：Your Personal AI Agent。 怪哥搜了下，确实发现有这个号，但神奇的是，点开后提示已经注销，这注销速度真快啊，看来是很多东西还没准备好，但也值得展开聊聊。 如果只看这一条，你可能会觉得”又一个大",
+      "publishedAt": "2026-09-30T06:43:18.000Z",
+      "url": "https://www.woshipm.com/ai/6472599.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -122,27 +162,68 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472119.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6472599.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Meta 的 Muse 霸榜应用商店之后，与它有过渊源的 Manus 也发布了 2.0，连同个人智能体 Cue 一起登场。围绕创始人肖弘的声音不少，他在产品发布后回应：Manus 被做出来的时候，世界上还没有 Codex 和 Claude Cowork。 在 Meta 的 Muse 最近霸榜苹果和安卓应用商店下载榜首后，与其曾产生渊源的 Manus 也发布了其 2.0 版本，连同其个人智能体（Personal Agent）产品 Cue一",
+      "brief": "国庆前一天，一条不太起眼的消息在圈子里传开了。 据《读佳》报道，腾讯正在秘密开发一款Personal Agent产品，内部代号Handy Bot，计划做成独立App。更有意思的是，它已经先在微信里开了个服务号，简介只有一句英文：Your Personal AI Agent。 怪哥搜了下，确实发现有这个号，但神奇的是，点开后提示已经注销，这注销速度真快啊，看来是很多东西还没准备好，但也值得展开聊聊。 如果只看这一条，你可能会觉得”又一个大",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6472113.html",
-      "title": "对标Muse，Manus上线专属私人Agent「 Cue」",
-      "summary": "宣布独立运营后，Manus 迎来重大改版：升级到 2.0，界面全新，还带来一个与它并列的独立产品 Cue——一个运行在云端、可自主创建和配置的专属 Agent。你只要给个信号，它就能把任务办完，对标的是 Meta 当前大火的 Muse。 近日，宣布独立运营的 Manus，迎来了重大大改版。 Manus 升级为 2.0，功能大升级。 全新的界面设计。 同时，Manus 还带来了专属私人 Agent：Cue。 这是一个和 Manus 并列的",
-      "publishedAt": "2026-09-30T01:27:42.000Z",
-      "url": "https://www.woshipm.com/ai/6472113.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6472430.html",
+      "title": "从“登顶GitHub历史第一”到“大厂集体撤退”：OpenClaw的Agent浪潮，为什么“养虾”养不活",
+      "summary": "OpenClaw 以 24.8 万星登顶 GitHub 历史第一，国内跟进做封装的 C 端产品却在九个月内集体撤退，腾讯 QClaw 宣布 12 月 24 日停运。作者用五个关键决策拆解套壳产品为何留不住用户。 今天聊OpenClaw，以及由它引发的这一轮Agent浪潮。 2026年3月，一个奥地利独立开发者的周末项目登顶了GitHub历史第一，把Linux踩在脚下，收获超过24.8万星。它叫OpenClaw——把Claude Code",
+      "publishedAt": "2026-09-30T06:38:46.000Z",
+      "url": "https://www.woshipm.com/ai/6472430.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "GitHub",
+            "asset": "/assets/identities/github.jpg",
+            "assetSource": "https://x.com/github",
+            "tone": "#e7e6ec"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6472430.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "OpenClaw 以 24.8 万星登顶 GitHub 历史第一，国内跟进做封装的 C 端产品却在九个月内集体撤退，腾讯 QClaw 宣布 12 月 24 日停运。作者用五个关键决策拆解套壳产品为何留不住用户。 今天聊OpenClaw，以及由它引发的这一轮Agent浪潮。 2026年3月，一个奥地利独立开发者的周末项目登顶了GitHub历史第一，把Linux踩在脚下，收获超过24.8万星。它叫OpenClaw——把Claude Code",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6472505.html",
+      "title": "“哑巴模型”Jev火了，会给AI产业带来什么改变?",
+      "summary": "当大模型行业还在卷参数、卷榜单时，一个拒绝聊天的模型Jev却悄然走红。它只做判断，不写文章不写代码，却精准击中了Agent时代对速度与成本的焦虑。从OpenAI研究员到反向造模型，Almeida的转身背后，是模型分化趋势的加速，也是Agent入口争夺战的前奏。 Jev模型已经火了一个多星期。从花式玩法讲到底层范式，围绕它的讨论还在继续。 Jev不和人聊天，也不能帮人写文章、写代码，它只做一件事，当开发者给它一组选择和当前状态，它负责给出",
+      "publishedAt": "2026-09-30T06:34:15.000Z",
+      "url": "https://www.woshipm.com/ai/6472505.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,23 +243,23 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472113.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6472505.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "宣布独立运营后，Manus 迎来重大改版：升级到 2.0，界面全新，还带来一个与它并列的独立产品 Cue——一个运行在云端、可自主创建和配置的专属 Agent。你只要给个信号，它就能把任务办完，对标的是 Meta 当前大火的 Muse。 近日，宣布独立运营的 Manus，迎来了重大大改版。 Manus 升级为 2.0，功能大升级。 全新的界面设计。 同时，Manus 还带来了专属私人 Agent：Cue。 这是一个和 Manus 并列的",
+      "brief": "当大模型行业还在卷参数、卷榜单时，一个拒绝聊天的模型Jev却悄然走红。它只做判断，不写文章不写代码，却精准击中了Agent时代对速度与成本的焦虑。从OpenAI研究员到反向造模型，Almeida的转身背后，是模型分化趋势的加速，也是Agent入口争夺战的前奏。 Jev模型已经火了一个多星期。从花式玩法讲到底层范式，围绕它的讨论还在继续。 Jev不和人聊天，也不能帮人写文章、写代码，它只做一件事，当开发者给它一组选择和当前状态，它负责给出",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6472278.html",
-      "title": "DeepSeek Harness 桌面端发布：一手体验",
-      "summary": "DeepSeek Harness 桌面端正式发布，把本地文件夹变成工作区，能整理资料、做 PPT、改代码，还自带插件市场与自动化任务。从插件内核到训练沙盒，它正与模型同步演进。本文带你上手体验这款开箱即用的 Agent 产品。 DeepSeek Harness 桌面端现已发布，Windows 和 Mac 均已支持，可在官网下载：deepseek.com/harness 新版本预置了日常办公和开发的常用功能，如：整理资料、做 ppt、改代",
-      "publishedAt": "2026-09-30T00:49:42.000Z",
-      "url": "https://www.woshipm.com/ai/6472278.html",
+      "id": "ph:https://www.producthunt.com/products/campfire-12",
+      "title": "Campfire",
+      "summary": "The shared workspace for humans and coding agents",
+      "publishedAt": "2026-09-30T03:18:58.000Z",
+      "url": "https://www.producthunt.com/products/campfire-12",
       "linkKind": "original",
       "opportunity": {
         "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
@@ -188,37 +269,77 @@
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472278.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "DeepSeek Harness 桌面端正式发布，把本地文件夹变成工作区，能整理资料、做 PPT、改代码，还自带插件市场与自动化任务。从插件内核到训练沙盒，它正与模型同步演进。本文带你上手体验这款开箱即用的 Agent 产品。 DeepSeek Harness 桌面端现已发布，Windows 和 Mac 均已支持，可在官网下载：deepseek.com/harness 新版本预置了日常办公和开发的常用功能，如：整理资料、做 ppt、改代",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/campfire-12",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The shared workspace for humans and coding agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/supertake",
-      "title": "Supertake",
-      "summary": "AI that turn your ideas into real investments",
-      "publishedAt": "2026-09-29T02:05:11.000Z",
-      "url": "https://www.producthunt.com/products/supertake",
+      "id": "sspai:https://sspai.com/post/114945",
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "summary": "祝你旅途顺遂，假期自由。",
+      "publishedAt": "2026-09-30T03:02:18.000Z",
+      "url": "https://sspai.com/post/114945",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/114945",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "祝你旅途顺遂，假期自由。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/upsolve-ai",
+      "title": "Upsolve Data Models",
+      "summary": "Teach AI your metric definitions and business vocabulary",
+      "publishedAt": "2026-09-29T21:40:33.000Z",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -242,92 +363,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/supertake",
+      "sourceUrl": "https://www.producthunt.com/products/upsolve-ai",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "AI that turn your ideas into real investments",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/claude",
-      "title": "Claude Sonnet 5.5",
-      "summary": "Anthropic's second model in the Claude 5.5 family",
-      "publishedAt": "2026-09-28T18:27:48.000Z",
-      "url": "https://www.producthunt.com/products/claude",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/claude",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Anthropic's second model in the Claude 5.5 family",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/timeos",
-      "title": "Timeless Code",
-      "summary": "Meeting notetaker that installs and runs inside Claude Code",
-      "publishedAt": "2026-09-28T10:37:27.000Z",
-      "url": "https://www.producthunt.com/products/timeos",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/timeos",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Meeting notetaker that installs and runs inside Claude Code",
+      "brief": "Teach AI your metric definitions and business vocabulary",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
