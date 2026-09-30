@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年9月30日",
     "demo": false,
-    "updatedAt": "2026-09-29T23:00:19.545Z",
+    "updatedAt": "2026-09-30T02:00:18.079Z",
     "editionLabel": "AIHot 热点榜 · 人物观察",
     "notice": "优先呈现 AIHot 48 小时热点榜，保持原始名次；自动跟随来源更新。摘要由 AIHot 提供，详情请查原文。",
     "sync": {
@@ -38,7 +38,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 17,
+          "matched": 20,
           "status": "本次收录"
         },
         {
@@ -92,7 +92,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 7,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -119,7 +119,7 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -128,7 +128,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 5,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -137,82 +137,12 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 3,
+          "matched": 1,
           "status": "本次收录"
         }
       ]
     },
     "items": [
-      {
-        "id": "aihot-gikl2tjm7h3e1kf1j47v7rh41",
-        "title": "AMD收购World Labs并任命李飞飞为首席科学家",
-        "brief": "World Labs 官方宣布加入 AMD。",
-        "summary": "World Labs 官方宣布加入 AMD。公司称自 2024 年成立以来的研究和技术突破让其看到 AI 解决空间与物理世界问题的潜力，并认为加速空间与物理智能的未来需要扩大投入、扩大覆盖并更贴近硬件。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "lead",
-        "platform": "X",
-        "authorHandle": "theworldlabs",
-        "sourceGroup": "媒体与社区",
-        "sourceName": "X：World Labs (@theworldlabs)",
-        "feedName": "X：World Labs (@theworldlabs)",
-        "sourceUrl": "https://x.com/theworldlabs/status/2104665621120311465",
-        "aggregateUrl": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-28T20:12:41.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "X：World Labs (@theworldlabs)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "行业观察",
-          "author": null
-        },
-        "hotRank": 1,
-        "sourceCount": 11,
-        "signalCount": 74,
-        "storyUrl": "https://aihot.virxact.com/story/1c691309-370b-4623-bb83-012b0804c3d1"
-      },
-      {
-        "id": "aihot-phsevqyaev08wn65tcqxa44mk",
-        "title": "OpenAI推出Ultrafast高速层级",
-        "brief": "OpenAI 推出 premium 速度档 Ultrafast。",
-        "summary": "OpenAI 推出 premium 速度档 Ultrafast。Codex 中 token 生成最高提速 8 倍（300 tokens per second），API 中最高提速 6 倍。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "important",
-        "platform": "X",
-        "authorHandle": "OpenAI",
-        "sourceGroup": "机构官方",
-        "sourceName": "X：OpenAI (@OpenAI)",
-        "feedName": "X：OpenAI (@OpenAI)",
-        "sourceUrl": "https://x.com/OpenAI/status/2104993966043320759",
-        "aggregateUrl": "https://aihot.news/items/phsevqyaev08wn65tcqxa44mk",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T17:57:25.000Z",
-        "verification": "AIHot 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": null
-        },
-        "hotRank": 2,
-        "sourceCount": 14,
-        "signalCount": 39,
-        "storyUrl": "https://aihot.virxact.com/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
-      },
       {
         "id": "aihot-cmui8zcbu0a1arov03inxuwup",
         "title": "OpenAI 常驻助手 \"o\" 曝光，DevDay 下周揭晓",
@@ -220,7 +150,7 @@
         "summary": "OpenAI 即将推出的常驻助手将命名为 \"o\"，其引用已短暂出现在部分用户的 ChatGPT 升级界面中。内部配置显示 \"o\" 为显示名、\"-o\" 为邮箱后缀，意味着它将支持邮件处理。OpenAI 下周举办 DevDay，传闻中的 \"Aeon\" 实为 ChatGPT Workspace 现有自定义 Agents 的内部名称，\"o\" 或将基于此构建面向消费者的助手。",
         "category": "产品动态",
         "topic": "Agent",
-        "priority": "important",
+        "priority": "lead",
         "platform": "X",
         "authorHandle": "testingcatalog",
         "sourceGroup": "媒体与社区",
@@ -243,10 +173,80 @@
           "caption": "产品动态",
           "author": null
         },
-        "hotRank": 3,
+        "hotRank": 1,
         "sourceCount": 12,
-        "signalCount": 39,
+        "signalCount": 53,
         "storyUrl": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
+      },
+      {
+        "id": "aihot-mzrr47eq951b8nzpqg3oi0gtp",
+        "title": "OpenAI推出Ultrafast高速层级",
+        "brief": "OpenAI 在 Codex 中推出 Ultrafast 模式，宣称比 Astra Standard 最高快 8x、比 Astra Fast 快 4x，用于加快代码生成和迭代。",
+        "summary": "OpenAI 在 Codex 中推出 Ultrafast 模式，宣称比 Astra Standard 最高快 8x、比 Astra Fast 快 4x，用于加快代码生成和迭代。文档见 https://developers.openai.com/api/docs/guides/ultrafast-mode。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "important",
+        "platform": "X",
+        "authorHandle": "OpenAIDevs",
+        "sourceGroup": "机构官方",
+        "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+        "feedName": "X：OpenAI Developers (@OpenAIDevs)",
+        "sourceUrl": "https://x.com/OpenAIDevs/status/2105073608586670412",
+        "aggregateUrl": "https://aihot.news/items/mzrr47eq951b8nzpqg3oi0gtp",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-29T23:13:53.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": null
+        },
+        "hotRank": 2,
+        "sourceCount": 14,
+        "signalCount": 49,
+        "storyUrl": "https://aihot.virxact.com/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
+      },
+      {
+        "id": "aihot-ukbm1pni8gdc5ciwwuywzkhwb",
+        "title": "AMD收购World Labs并任命李飞飞为首席科学家",
+        "brief": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。",
+        "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "important",
+        "platform": "网站",
+        "authorHandle": "",
+        "sourceGroup": "媒体与社区",
+        "sourceName": "World Labs：官网",
+        "feedName": "World Labs：官网",
+        "sourceUrl": "https://www.worldlabs.ai/blog/amd-announcement",
+        "aggregateUrl": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-09-28T20:18:05.000Z",
+        "verification": "AIHot 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "World Labs：官网",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "行业观察",
+          "author": null
+        },
+        "hotRank": 3,
+        "sourceCount": 10,
+        "signalCount": 74,
+        "storyUrl": "https://aihot.virxact.com/story/1c691309-370b-4623-bb83-012b0804c3d1"
       },
       {
         "id": "aihot-cmukkk6ag1ux6ro9hvmv7r7n6",
@@ -279,7 +279,7 @@
           "author": null
         },
         "hotRank": 4,
-        "sourceCount": 18,
+        "sourceCount": 17,
         "signalCount": 63,
         "storyUrl": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
       },
@@ -315,7 +315,7 @@
         },
         "hotRank": 5,
         "sourceCount": 7,
-        "signalCount": 42,
+        "signalCount": 43,
         "storyUrl": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
       },
       {
@@ -355,7 +355,7 @@
         },
         "hotRank": 6,
         "sourceCount": 6,
-        "signalCount": 35,
+        "signalCount": 36,
         "storyUrl": "https://aihot.virxact.com/story/c2ce7c22-c2b6-45b0-b931-5200b107c077"
       },
       {
@@ -390,7 +390,7 @@
         },
         "hotRank": 7,
         "sourceCount": 6,
-        "signalCount": 37,
+        "signalCount": 38,
         "storyUrl": "https://aihot.virxact.com/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876"
       },
       {
@@ -425,7 +425,7 @@
         },
         "hotRank": 8,
         "sourceCount": 11,
-        "signalCount": 41,
+        "signalCount": 42,
         "storyUrl": "https://aihot.virxact.com/story/5e2816ac-db96-4268-b76c-57b6f4b18bbd"
       },
       {
@@ -460,7 +460,7 @@
         },
         "hotRank": 9,
         "sourceCount": 7,
-        "signalCount": 26,
+        "signalCount": 27,
         "storyUrl": "https://aihot.virxact.com/story/c389aba2-5149-45a8-a66b-56a88fc3ff3e"
       },
       {
@@ -499,22 +499,22 @@
         "storyUrl": "https://aihot.virxact.com/story/4db031a4-9d64-48bb-b738-2632a974b6b1"
       },
       {
-        "id": "aihot-i8w1tc8lh81si4d075znuezvv",
-        "title": "OpenAI DevDay 2026 公告全回顾",
-        "brief": "所有公告的完整回顾\n\nhttps://openai.com/index/devday-2026-recap/",
-        "summary": "所有公告的完整回顾\n\nhttps://openai.com/index/devday-2026-recap/",
-        "category": "行业观察",
-        "topic": "AI 产品",
+        "id": "aihot-dgn7e697pcah6yfhr2r5xlldj",
+        "title": "OpenAI 将上线数百万个 dot 智能体",
+        "brief": "OpenAI 将在数天内上线数百万个 dot，覆盖庞大且多元的社区，处理各类任务。",
+        "summary": "OpenAI 将在数天内上线数百万个 dot，覆盖庞大且多元的社区，处理各类任务。用户使用 2-3 天、教会它更多个人偏好后即可感到明显提升，它能快速学习并独立承担颇具野心的任务。团队正观察用户如何使用主 dot，之后再开放创建整支 dot 团队的能力。",
+        "category": "实践与观点",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "thsottiaux",
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2105041299934187874",
-        "aggregateUrl": "https://aihot.news/items/i8w1tc8lh81si4d075znuezvv",
+        "sourceUrl": "https://x.com/thsottiaux/status/2105105086506840421",
+        "aggregateUrl": "https://aihot.news/items/dgn7e697pcah6yfhr2r5xlldj",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T21:05:30.000Z",
+        "publishedAt": "2026-09-30T01:18:58.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
@@ -525,7 +525,7 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "行业观察",
+          "caption": "实践与观点",
           "author": {
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
@@ -679,10 +679,10 @@
         }
       },
       {
-        "id": "aihot-b46clqnk6yappuvpwdifbbi00",
-        "title": "循环之后是什么？",
-        "brief": "循环之后是什么？",
-        "summary": "循环之后是什么？\n\n会试着直播这条推文，至少把关键要点发出来。",
+        "id": "aihot-kt4yrdz39soq63vsl1pj9wknp",
+        "title": "OpenAI DevDay 释放开放生态信号",
+        "brief": "DevDay 上最让我印象深刻的是 @thsottiaux 点名了 @pidotdev。",
+        "summary": "DevDay 上最让我印象深刻的是 @thsottiaux 点名了 @pidotdev。\n\n这与 OpenAI 看起来认真构建更开放生态的态度完全一致。而且不只是说说而已，这里有一个巨大的机会，成为所有人都在其上构建的平台。从刚入门的人到世界顶级构建者。说白了，这背后是一个长期愿景。\n\n在人人都在构建的世界里，这很合理。",
         "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
@@ -691,18 +691,18 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2104999107131797638",
-        "aggregateUrl": "https://aihot.news/items/b46clqnk6yappuvpwdifbbi00",
+        "sourceUrl": "https://x.com/omarsar0/status/2105082017218224206",
+        "aggregateUrl": "https://aihot.news/items/kt4yrdz39soq63vsl1pj9wknp",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-29T18:17:50.000Z",
+        "publishedAt": "2026-09-29T23:47:18.000Z",
         "verification": "AIHot 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Elvis Saravia",
-              "asset": "/assets/identities/omarsar0.jpg",
-              "assetSource": "https://x.com/omarsar0",
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "实践与观点",
@@ -899,8 +899,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-09-29T23:00:19.545Z",
-    "nextCheckAt": 1790723119545,
+    "checkedAt": "2026-09-30T02:00:18.079Z",
+    "nextCheckAt": 1790733918079,
     "intervalSeconds": 300,
     "message": ""
   }
