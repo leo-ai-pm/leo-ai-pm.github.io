@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-09-30T09:54:34.148Z",
+  "checkedAt": "2026-09-30T14:59:54.799Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,48 @@
     }
   ],
   "today": [
+    {
+      "id": "br7g8nzvm1vr7rednjbgi4ox0",
+      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+      "reason": "原文交代了招聘响应规模和后续申请渠道，为关注 Hugging Face 招聘的人提供了可操作的投递途径。",
+      "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。",
+      "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "sourceUrl": "https://x.com/ClementDelangue/status/2105276853632094607",
+      "aihotUrl": "https://aihot.news/items/br7g8nzvm1vr7rednjbgi4ox0",
+      "publishedAt": "2026-09-30T12:41:30.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "o8x9d9u4106ngfkukga1vwh4h",
+      "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+      "reason": "官方发布同时给出架构细节、多项长程任务实测结果和对比数据，读者可据此评估其在办公、医疗和软件研发场景的适用性。",
+      "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
+      "sourceName": "公众号：蚂蚁百灵（Ling）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd",
+      "aihotUrl": "https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h",
+      "publishedAt": "2026-09-30T12:30:49.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "seoe3daylyyh1pqcwj4cklrpe",
+      "title": "vLLM 分离式推理（Disaggregated Serving）实用指南",
+      "reason": "作者来自参与开发的 IBM Research，给出 P/D 与 render 拆分的收益数据、适用场景表和可复用运行方法。",
+      "summary": "vLLM 官方博客发布分离式推理实用指南，讲解 vLLM v0.30.0 及以上版本中 prefill/decode 分离、无 GPU render 前端及两者组合的原理与运行方法。",
+      "sourceName": "vLLM 官方博客（RSS）",
+      "sourceUrl": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+      "aihotUrl": "https://aihot.news/items/seoe3daylyyh1pqcwj4cklrpe",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "uqwg8g8u20023z36jy20gpfb1",
       "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
@@ -514,37 +556,23 @@
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
-    },
-    {
-      "id": "kg8snqnflgsdgxm9q4iwtug28",
-      "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
-      "reason": "原文给出 PDAC 化合物筛选一个周末完成并经湿实验验证的结果，读者可据此评估 AI 驱动生物发现的实际路径。",
-      "summary": "Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。",
-      "sourceName": "Microsoft Research 博客（RSS）",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-      "aihotUrl": "https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28",
-      "publishedAt": "2026-09-29T14:00:02.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "k8sujz02e95ov1206fwycu9ci",
-      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-      "reason": "研究用静态与动态分析量化了主流对话式 AI 的第三方跟踪与对话内容泄露，读者可以借此了解自己的对话在同意与订阅不同设置下的暴露程度。",
-      "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
-      "sourceName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "aihotUrl": "https://aihot.news/items/k8sujz02e95ov1206fwycu9ci",
-      "publishedAt": "2026-09-29T09:03:41.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "o8x9d9u4106ngfkukga1vwh4h",
+      "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+      "reason": "官方发布同时给出架构细节、多项长程任务实测结果和对比数据，读者可据此评估其在办公、医疗和软件研发场景的适用性。",
+      "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
+      "sourceName": "公众号：蚂蚁百灵（Ling）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd",
+      "aihotUrl": "https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h",
+      "publishedAt": "2026-09-30T12:30:49.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "qw3a6btvwdalftejp20ccxjb3",
       "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
@@ -638,20 +666,6 @@
       "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "aihotUrl": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
       "publishedAt": "2026-09-29T15:30:38.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "d6db33d5gkum5q95ntdszq48b",
-      "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-      "reason": "Arena 用 8K 真实智能体会话数据给出 GPT-6 Luna (Max) 的排名与成本对比，读者可据此权衡其性价比定位。",
-      "summary": "Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2104673568776990762",
-      "aihotUrl": "https://aihot.news/items/d6db33d5gkum5q95ntdszq48b",
-      "publishedAt": "2026-09-28T20:44:16.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -770,6 +784,20 @@
       "unselected": false
     },
     {
+      "id": "br7g8nzvm1vr7rednjbgi4ox0",
+      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+      "reason": "原文交代了招聘响应规模和后续申请渠道，为关注 Hugging Face 招聘的人提供了可操作的投递途径。",
+      "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。",
+      "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "sourceUrl": "https://x.com/ClementDelangue/status/2105276853632094607",
+      "aihotUrl": "https://aihot.news/items/br7g8nzvm1vr7rednjbgi4ox0",
+      "publishedAt": "2026-09-30T12:41:30.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "uqwg8g8u20023z36jy20gpfb1",
       "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
       "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
@@ -862,20 +890,6 @@
       "sourceUrl": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
       "aihotUrl": "https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y",
       "publishedAt": "2026-09-29T19:24:12.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "mhxg8rc7sqcsb29as21wy3his",
-      "title": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万",
-      "reason": "原文给出 12 亿周活等具体数据及企业业务布局，可据此观察生成式 AI 从个人应用转向工作场景的趋势。",
-      "summary": "OpenAI 在 2026 开发者日活动中宣布，ChatGPT 每周活跃用户已超过 12 亿，较 7 月公布的 10 亿进一步增长，ChatGPT Work 和 Codex 每周用户超过 3500 万，使用 OpenAI 产品的企业达 250 万家。",
-      "sourceName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/008/532.htm",
-      "aihotUrl": "https://aihot.news/items/mhxg8rc7sqcsb29as21wy3his",
-      "publishedAt": "2026-09-29T18:47:22.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -994,6 +1008,20 @@
       "unselected": false
     },
     {
+      "id": "seoe3daylyyh1pqcwj4cklrpe",
+      "title": "vLLM 分离式推理（Disaggregated Serving）实用指南",
+      "reason": "作者来自参与开发的 IBM Research，给出 P/D 与 render 拆分的收益数据、适用场景表和可复用运行方法。",
+      "summary": "vLLM 官方博客发布分离式推理实用指南，讲解 vLLM v0.30.0 及以上版本中 prefill/decode 分离、无 GPU render 前端及两者组合的原理与运行方法。",
+      "sourceName": "vLLM 官方博客（RSS）",
+      "sourceUrl": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+      "aihotUrl": "https://aihot.news/items/seoe3daylyyh1pqcwj4cklrpe",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "qu0zwrg9img0cfv03vtgmopbs",
       "title": "OpenRouter 教程：如何测试 AI Agent 的工具调用准确性",
       "reason": "原文把工具调用失败拆成选错工具和传错参数两类，给出三种评测方法及跨模型测试代码，方法可直接迁移到自己的 Agent 评测。",
@@ -1090,20 +1118,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "cmuj2fvet0i72rohydbh98ndp",
-      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-      "reason": "作者引用 Axios 报道并给出自己长期预警的背景，读者可以了解智能体安全事件争议与召回主张的由来。",
-      "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。",
-      "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "sourceUrl": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-      "aihotUrl": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
-      "publishedAt": "2026-09-26T23:55:49.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -1113,6 +1127,34 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "o8x9d9u4106ngfkukga1vwh4h",
+          "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+          "reason": "官方发布同时给出架构细节、多项长程任务实测结果和对比数据，读者可据此评估其在办公、医疗和软件研发场景的适用性。",
+          "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
+          "sourceName": "公众号：蚂蚁百灵（Ling）",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd",
+          "aihotUrl": "https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h",
+          "publishedAt": "2026-09-30T12:30:49.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
+          "id": "seoe3daylyyh1pqcwj4cklrpe",
+          "title": "vLLM 分离式推理（Disaggregated Serving）实用指南",
+          "reason": "作者来自参与开发的 IBM Research，给出 P/D 与 render 拆分的收益数据、适用场景表和可复用运行方法。",
+          "summary": "vLLM 官方博客发布分离式推理实用指南，讲解 vLLM v0.30.0 及以上版本中 prefill/decode 分离、无 GPU render 前端及两者组合的原理与运行方法。",
+          "sourceName": "vLLM 官方博客（RSS）",
+          "sourceUrl": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+          "aihotUrl": "https://aihot.news/items/seoe3daylyyh1pqcwj4cklrpe",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "uqwg8g8u20023z36jy20gpfb1",
           "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
@@ -1163,34 +1205,6 @@
           "sourceName": "OpenRouter：Announcements（RSS）",
           "sourceUrl": "https://openrouter.ai/blog/tutorials/how-to-test-tool-calling-accuracy-in-ai-agents/",
           "aihotUrl": "https://aihot.news/items/qu0zwrg9img0cfv03vtgmopbs",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "fibq25b0liw1wvpxc0kg5kktn",
-          "title": "OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测",
-          "reason": "原文给出从生产流量构建 golden 评测集的五步流程和跨模型复测方法，可直接照做。",
-          "summary": "OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/",
-          "aihotUrl": "https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "lq71il0lehssgkular7zs5ybl",
-          "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
-          "reason": "原文给出可复用的 Agent 回归测试方法，包括锁定用例集、行为契约、具体模型 slug 固定和模型切换对比的完整做法。",
-          "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
-          "aihotUrl": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl",
           "publishedAt": "2026-09-30T00:00:00.000Z",
           "timeBasis": "published",
           "category": "tip",
@@ -1390,6 +1404,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "seoe3daylyyh1pqcwj4cklrpe",
+          "title": "vLLM 分离式推理（Disaggregated Serving）实用指南",
+          "reason": "作者来自参与开发的 IBM Research，给出 P/D 与 render 拆分的收益数据、适用场景表和可复用运行方法。",
+          "summary": "vLLM 官方博客发布分离式推理实用指南，讲解 vLLM v0.30.0 及以上版本中 prefill/decode 分离、无 GPU render 前端及两者组合的原理与运行方法。",
+          "sourceName": "vLLM 官方博客（RSS）",
+          "sourceUrl": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+          "aihotUrl": "https://aihot.news/items/seoe3daylyyh1pqcwj4cklrpe",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "uet0fx7vwv720jh2evuzmfbmm",
           "title": "Artificial Analysis 开源 AA-AgentPerf-Local，测试笔记本与工作站上本地 AI 智能体推理性能",
           "reason": "原文给出四种桌面级硬件和四个模型的智能体推理实测结果与全部开源配置，可帮读者在搭建本地 agent 前做选型比较。",
@@ -1457,20 +1485,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "i6rwpn2rwk4atkww9xa23vr6y",
-          "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
-          "reason": "Artificial Analysis 用自家基准拆解了新模型的智能得分与每任务成本，读者可据此比较它相对前代和旗舰档的实际性价比。",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，接替仅上线 7 天的 GPT-6 Sol，Artificial Analysis 智能指数比 GPT-6 Sol 高 4 分、比 GPT-6 Astra 低 1 分。",
-          "sourceName": "Artificial Analysis 完整文章（网页）",
-          "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-          "aihotUrl": "https://aihot.news/items/i6rwpn2rwk4atkww9xa23vr6y",
-          "publishedAt": "2026-09-28T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]

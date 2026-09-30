@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-30T09:53:59.158Z",
-      "lastSuccessAt": "2026-09-30T09:53:59.158Z",
-      "nextCheckAt": 1790765639158,
+      "checkedAt": "2026-09-30T14:59:11.485Z",
+      "lastSuccessAt": "2026-09-30T14:59:11.485Z",
+      "nextCheckAt": 1790783951485,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-09-30T09:53:59.159Z",
-      "lastSuccessAt": "2026-09-30T09:53:59.159Z",
-      "nextCheckAt": 1790765639159,
+      "checkedAt": "2026-09-30T14:59:11.486Z",
+      "lastSuccessAt": "2026-09-30T14:59:11.486Z",
+      "nextCheckAt": 1790783951486,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-30T09:53:59.160Z",
-      "lastSuccessAt": "2026-09-30T09:53:59.160Z",
-      "nextCheckAt": 1790765639160,
+      "checkedAt": "2026-09-30T14:59:11.487Z",
+      "lastSuccessAt": "2026-09-30T14:59:11.487Z",
+      "nextCheckAt": 1790783951487,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-09-30T14:59:11.691Z",
+      "lastSuccessAt": "2026-09-30T14:59:11.691Z",
+      "nextCheckAt": 1790783951691,
       "status": "ok",
-      "nextCheckAt": 1790765639440,
-      "checkedAt": "2026-09-30T09:53:59.440Z",
-      "lastSuccessAt": "2026-09-30T09:53:59.440Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790765639158,
+  "nextCheckAt": 1790783951485,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6472701.html",
+      "title": "腾讯秘密开发Personal Agent独立App“Handy Bot”",
+      "summary": "腾讯正在开发 Personal Agent 产品 Handy Bot，计划推出独立 App，已在微信上线服务号。文章拿它和 Meta 的 Muse 对比，解释 Personal Agent 与 Chatbot 的差别：它有长期存续的运行环境，接住目标后能持续推进任务。 腾讯的Personal Agent产品要来了？ 《读佳》获知，腾讯正在秘密开发一款Personal Agent产品“Handy Bot”，并计划推出独立App。目前已在微",
+      "publishedAt": "2026-09-30T09:48:37.000Z",
+      "url": "https://www.woshipm.com/ai/6472701.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6472701.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "腾讯正在开发 Personal Agent 产品 Handy Bot，计划推出独立 App，已在微信上线服务号。文章拿它和 Meta 的 Muse 对比，解释 Personal Agent 与 Chatbot 的差别：它有长期存续的运行环境，接住目标后能持续推进任务。 腾讯的Personal Agent产品要来了？ 《读佳》获知，腾讯正在秘密开发一款Personal Agent产品“Handy Bot”，并计划推出独立App。目前已在微",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6472662.html",
       "title": "对话 Instinct 创始人：个人 Agent 必须自研推理管线降低成本，商业模式终局是「AI 版苹果商店」",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6472681.html",
@@ -211,46 +251,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6472599.html",
-      "title": "Muse 爆火之后，腾讯、阿里、字节集体冲进Personal Agent",
-      "summary": "国庆前一天，一条不太起眼的消息在圈子里传开了。 据《读佳》报道，腾讯正在秘密开发一款Personal Agent产品，内部代号Handy Bot，计划做成独立App。更有意思的是，它已经先在微信里开了个服务号，简介只有一句英文：Your Personal AI Agent。 怪哥搜了下，确实发现有这个号，但神奇的是，点开后提示已经注销，这注销速度真快啊，看来是很多东西还没准备好，但也值得展开聊聊。 如果只看这一条，你可能会觉得”又一个大",
-      "publishedAt": "2026-09-30T06:43:18.000Z",
-      "url": "https://www.woshipm.com/ai/6472599.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472599.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "国庆前一天，一条不太起眼的消息在圈子里传开了。 据《读佳》报道，腾讯正在秘密开发一款Personal Agent产品，内部代号Handy Bot，计划做成独立App。更有意思的是，它已经先在微信里开了个服务号，简介只有一句英文：Your Personal AI Agent。 怪哥搜了下，确实发现有这个号，但神奇的是，点开后提示已经注销，这注销速度真快啊，看来是很多东西还没准备好，但也值得展开聊聊。 如果只看这一条，你可能会觉得”又一个大",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
