@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-01T02:29:33.240Z",
+  "checkedAt": "2026-10-01T09:21:27.822Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "zbprvsawadktpi8tcqpp6gw4d",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "reason": "官方宣布多节点集群正式可用，文中解释了 gang scheduler 与 RDMA 的实现细节，并给出 Decagon、1x、Runway 的实际用法。",
+      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+      "sourceName": "Modal 官方工程博客（RSS）",
+      "sourceUrl": "https://modal.com/blog/modal-clusters-generally-available",
+      "aihotUrl": "https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d",
+      "publishedAt": "2026-10-01T07:38:41.607Z",
+      "timeBasis": "discovered",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "ed0fkjtzo2sbnpzqlara60ghs",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+      "reason": "作者补充了权限控制这一关键细节，可据此判断自建 MCP 服务器能私有共享还是公开分发。",
+      "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
+      "aihotUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
+      "publishedAt": "2026-10-01T04:44:34.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "ska7k3allx8q9uu8yv5vzy8zw",
       "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
@@ -332,34 +360,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "uqwg8g8u20023z36jy20gpfb1",
-      "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
-      "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
-      "summary": "PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。",
-      "sourceName": "PromptArmor：Threat Intelligence",
-      "sourceUrl": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
-      "aihotUrl": "https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "uet0fx7vwv720jh2evuzmfbmm",
-      "title": "Artificial Analysis 开源 AA-AgentPerf-Local，测试笔记本与工作站上本地 AI 智能体推理性能",
-      "reason": "原文给出四种桌面级硬件和四个模型的智能体推理实测结果与全部开源配置，可帮读者在搭建本地 agent 前做选型比较。",
-      "summary": "Artificial Analysis 发布开源工具 AA-AgentPerf-Local，通过重放 8 个真实智能体任务（168 轮、上下文增长至约 56K tokens）测试本地推理性能，并上线笔记本与工作站排行榜。",
-      "sourceName": "Artificial Analysis 完整文章（网页）",
-      "sourceUrl": "https://artificialanalysis.ai/articles/aa-agentperf-local",
-      "aihotUrl": "https://aihot.news/items/uet0fx7vwv720jh2evuzmfbmm",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
     }
   ],
   "week": [
@@ -476,6 +476,34 @@
       "unselected": false
     },
     {
+      "id": "zbprvsawadktpi8tcqpp6gw4d",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "reason": "官方宣布多节点集群正式可用，文中解释了 gang scheduler 与 RDMA 的实现细节，并给出 Decagon、1x、Runway 的实际用法。",
+      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+      "sourceName": "Modal 官方工程博客（RSS）",
+      "sourceUrl": "https://modal.com/blog/modal-clusters-generally-available",
+      "aihotUrl": "https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d",
+      "publishedAt": "2026-10-01T07:38:41.607Z",
+      "timeBasis": "discovered",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "ed0fkjtzo2sbnpzqlara60ghs",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+      "reason": "作者补充了权限控制这一关键细节，可据此判断自建 MCP 服务器能私有共享还是公开分发。",
+      "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
+      "aihotUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
+      "publishedAt": "2026-10-01T04:44:34.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "zdncjvjrmmknlsf9tevjlrnrg",
       "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
       "reason": "原文给出开放入口和限时免费的接入方式，读者可以据此判断如何把邮件任务交给 Perplexity Computer 处理。",
@@ -554,34 +582,6 @@
       "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
       "aihotUrl": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
       "publishedAt": "2026-09-29T21:47:43.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "phuhohutcf75ktuyyfdzwug8z",
-      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
-      "reason": "OpenAI 官方汇总了 DevDay 2026 全部二十余项发布，覆盖新模型、常驻智能体与平台开放，可作为了解本轮产品线的完整入口。",
-      "summary": "OpenAI 在 DevDay 2026 上宣布超过 20 项公告，包括发布 GPT-6.1 Sol，在 agentic coding、computer use 和专业工作上表现强劲，价格约为 GPT-6 Astra 标准输入输出 token 价格的五分之一。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/devday-2026-recap",
-      "aihotUrl": "https://aihot.news/items/phuhohutcf75ktuyyfdzwug8z",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "l7k2qzyclr52j4zegcqo6mys3",
-      "title": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use",
-      "reason": "作者亲述 Codex Cloud 新版能力与 Agents API 预览，可据此了解其云端开发工作流的变化。",
-      "summary": "OpenAI 推出大幅升级的新版 Codex Cloud，主打可配置云环境，作者称配置后很难回到本地开发。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2104987594719461796",
-      "aihotUrl": "https://aihot.news/items/l7k2qzyclr52j4zegcqo6mys3",
-      "publishedAt": "2026-09-29T17:32:06.000Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -932,6 +932,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "zbprvsawadktpi8tcqpp6gw4d",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "reason": "官方宣布多节点集群正式可用，文中解释了 gang scheduler 与 RDMA 的实现细节，并给出 Decagon、1x、Runway 的实际用法。",
+          "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+          "sourceName": "Modal 官方工程博客（RSS）",
+          "sourceUrl": "https://modal.com/blog/modal-clusters-generally-available",
+          "aihotUrl": "https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d",
+          "publishedAt": "2026-10-01T07:38:41.607Z",
+          "timeBasis": "discovered",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "ska7k3allx8q9uu8yv5vzy8zw",
           "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
           "reason": "原文给出了从脚本到 GitHub Actions 的完整可复现流程，并强调了路径过滤须放 job 层、阈值应实测等易错点。",
@@ -996,20 +1010,6 @@
           "sourceUrl": "https://x.com/arena/status/2105411271525052418",
           "aihotUrl": "https://aihot.news/items/m49i2ro59f3lqy8ocoghr9f2j",
           "publishedAt": "2026-09-30T21:35:38.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "thdata2aa7ex9kgzv72mk4kn3",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon：Google 重回智能前三梯队",
-          "reason": "评测方给出与竞品的价格和智能指数对比，读者可据此评估 Google 新模型在成本与智能上的真实位置。",
-          "summary": "Artificial Analysis 评测 Google DeepMind 的 Gemini 4 Argon，其高推理档在 Artificial Analysis Intelligence Index 得分 53，追平 GPT-6 Astra (max)、领先 GPT-6.1 Sol (max) 1 分。",
-          "sourceName": "Artificial Analysis 完整文章（网页）",
-          "sourceUrl": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs",
-          "aihotUrl": "https://aihot.news/items/thdata2aa7ex9kgzv72mk4kn3",
-          "publishedAt": "2026-09-29T16:00:00.000Z",
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
@@ -1116,6 +1116,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "ed0fkjtzo2sbnpzqlara60ghs",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "reason": "作者补充了权限控制这一关键细节，可据此判断自建 MCP 服务器能私有共享还是公开分发。",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
+          "aihotUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
+          "publishedAt": "2026-10-01T04:44:34.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "uqwg8g8u20023z36jy20gpfb1",
           "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
           "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
@@ -1184,20 +1198,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "fdxv7xdod1fsy99fvzekceja5",
-          "title": "xAI 发布 Team Bots：可与团队共同学习工作的 Grok 智能体",
-          "reason": "原文详细拆解了共享 Bot 的上下文、插件、凭证和记忆四要素，并给出内部多部门与客户实例，读者可对照搭建自己的团队工作流。",
-          "summary": "xAI 推出 Team Bots，让团队共享的 Grok Bots 围绕角色或工作流构建，整合 Context、Plugins、Credentials 和 Memories 四类能力，并可在 Slack 中协作，个人对话仍保持私密。",
-          "sourceName": "xAI：News（网页）",
-          "sourceUrl": "https://x.ai/news/team-bots",
-          "aihotUrl": "https://aihot.news/items/fdxv7xdod1fsy99fvzekceja5",
-          "publishedAt": "2026-09-28T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1207,6 +1207,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "ed0fkjtzo2sbnpzqlara60ghs",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "reason": "作者补充了权限控制这一关键细节，可据此判断自建 MCP 服务器能私有共享还是公开分发。",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
+          "aihotUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
+          "publishedAt": "2026-10-01T04:44:34.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "v6j23p9krwwoxqvk05d9n0bfz",
           "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
@@ -1275,20 +1289,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "huhcnz3mwim553m2t8c0jhh4b",
-          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-          "reason": "文章梳理了自愿协议无法律约束力的细节，并对照 OpenAI 近期失控事故和州级调查，提示行业自我监管的实际局限。",
-          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。",
-          "sourceName": "Ars Technica：AI（RSS）",
-          "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-          "aihotUrl": "https://aihot.news/items/huhcnz3mwim553m2t8c0jhh4b",
-          "publishedAt": "2026-09-30T18:47:01.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]

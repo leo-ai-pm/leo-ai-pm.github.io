@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-01T02:29:02.468Z",
-      "lastSuccessAt": "2026-10-01T02:29:02.468Z",
-      "nextCheckAt": 1790825342468,
+      "checkedAt": "2026-10-01T09:21:03.888Z",
+      "lastSuccessAt": "2026-10-01T09:21:03.888Z",
+      "nextCheckAt": 1790850063888,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-01T02:29:02.469Z",
-      "lastSuccessAt": "2026-10-01T02:29:02.469Z",
-      "nextCheckAt": 1790825342469,
+      "checkedAt": "2026-10-01T09:21:03.889Z",
+      "lastSuccessAt": "2026-10-01T09:21:03.889Z",
+      "nextCheckAt": 1790850063889,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-01T02:29:02.470Z",
-      "lastSuccessAt": "2026-10-01T02:29:02.470Z",
-      "nextCheckAt": 1790825342470,
+      "checkedAt": "2026-10-01T09:21:03.891Z",
+      "lastSuccessAt": "2026-10-01T09:21:03.891Z",
+      "nextCheckAt": 1790850063891,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790825342751,
-      "checkedAt": "2026-10-01T02:29:02.751Z",
-      "lastSuccessAt": "2026-10-01T02:29:02.751Z",
+      "nextCheckAt": 1790850063979,
+      "checkedAt": "2026-10-01T09:21:03.979Z",
+      "lastSuccessAt": "2026-10-01T09:21:03.979Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790825342468,
+  "nextCheckAt": 1790850063888,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6472974.html",
+      "title": "Personal Agent 神仙打架 用五个维度看懂六条海外路线",
+      "summary": "Personal Agent 赛道正上演六路争锋：OpenAI 想成为你的第二身份，Meta 接管生活交易，Google 调度邮件日历，还有产品让界面彻底消失。本文拆解 dots、Muse、Gemini Spark 等六款产品的入口、权限与执行逻辑，揭示真正的胜负手不是功能数量，而是谁能赢得用户的默认委托权。 假设你对一个 AI 说：“帮我安排下周去纽约的三天行程，避开已有会议，订好合适的酒店，再通知同行的同事。” 如果它只是列出航班、",
+      "publishedAt": "2026-10-01T05:33:46.000Z",
+      "url": "https://www.woshipm.com/ai/6472974.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6472974.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Personal Agent 赛道正上演六路争锋：OpenAI 想成为你的第二身份，Meta 接管生活交易，Google 调度邮件日历，还有产品让界面彻底消失。本文拆解 dots、Muse、Gemini Spark 等六款产品的入口、权限与执行逻辑，揭示真正的胜负手不是功能数量，而是谁能赢得用户的默认委托权。 假设你对一个 AI 说：“帮我安排下周去纽约的三天行程，避开已有会议，订好合适的酒店，再通知同行的同事。” 如果它只是列出航班、",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6472933.html",
       "title": "一篇文章带你入门 AI 视频模型：从基本概念到主流模型与选择方法",
@@ -131,98 +171,18 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6472701.html",
-      "title": "腾讯秘密开发Personal Agent独立App“Handy Bot”",
-      "summary": "腾讯正在开发 Personal Agent 产品 Handy Bot，计划推出独立 App，已在微信上线服务号。文章拿它和 Meta 的 Muse 对比，解释 Personal Agent 与 Chatbot 的差别：它有长期存续的运行环境，接住目标后能持续推进任务。 腾讯的Personal Agent产品要来了？ 《读佳》获知，腾讯正在秘密开发一款Personal Agent产品“Handy Bot”，并计划推出独立App。目前已在微",
-      "publishedAt": "2026-09-30T09:48:37.000Z",
-      "url": "https://www.woshipm.com/ai/6472701.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472701.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "腾讯正在开发 Personal Agent 产品 Handy Bot，计划推出独立 App，已在微信上线服务号。文章拿它和 Meta 的 Muse 对比，解释 Personal Agent 与 Chatbot 的差别：它有长期存续的运行环境，接住目标后能持续推进任务。 腾讯的Personal Agent产品要来了？ 《读佳》获知，腾讯正在秘密开发一款Personal Agent产品“Handy Bot”，并计划推出独立App。目前已在微",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6472662.html",
-      "title": "对话 Instinct 创始人：个人 Agent 必须自研推理管线降低成本，商业模式终局是「AI 版苹果商店」",
-      "summary": "Instinct 成立约一年，估值一个月内从 25 亿涨到 100 亿美元，用户每天增长约 10%，年化 GMV 超 10 亿。创始人 Noah Shinn 谈为什么不做独立 App，而是给 Agent 配电话号码、邮箱和云端电脑，让它像真人助理一样把事办完。 2026 年 9 月 28 日，个人 Agent 公司 Instinct 宣布完成 10 亿美元 C 轮融资，估值达到 100 亿美元，投资方包括红杉资本、Benchmark 和",
-      "publishedAt": "2026-09-30T09:40:45.000Z",
-      "url": "https://www.woshipm.com/ai/6472662.html",
+      "id": "ph:https://www.producthunt.com/products/stardrift-for-ios",
+      "title": "Stardrift for iOS",
+      "summary": "The AI travel assistant in your pocket",
+      "publishedAt": "2026-09-30T19:57:48.000Z",
+      "url": "https://www.producthunt.com/products/stardrift-for-ios",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472662.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Instinct 成立约一年，估值一个月内从 25 亿涨到 100 亿美元，用户每天增长约 10%，年化 GMV 超 10 亿。创始人 Noah Shinn 谈为什么不做独立 App，而是给 Agent 配电话号码、邮箱和云端电脑，让它像真人助理一样把事办完。 2026 年 9 月 28 日，个人 Agent 公司 Instinct 宣布完成 10 亿美元 C 轮融资，估值达到 100 亿美元，投资方包括红杉资本、Benchmark 和",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/crawlraven-mcp",
-      "title": "CrawlRaven MCP",
-      "summary": "Your SEO work, done from your AI agent",
-      "publishedAt": "2026-09-30T06:51:13.000Z",
-      "url": "https://www.producthunt.com/products/crawlraven-mcp",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -242,27 +202,27 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/crawlraven-mcp",
+      "sourceUrl": "https://www.producthunt.com/products/stardrift-for-ios",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Your SEO work, done from your AI agent",
+      "brief": "The AI travel assistant in your pocket",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/campfire-12",
-      "title": "Campfire",
-      "summary": "The shared workspace for humans and coding agents",
-      "publishedAt": "2026-09-30T03:18:58.000Z",
-      "url": "https://www.producthunt.com/products/campfire-12",
+      "id": "ph:https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
+      "title": "Vitra.ai",
+      "summary": "Agentic content platform to create and localize content",
+      "publishedAt": "2026-09-30T19:36:03.000Z",
+      "url": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +242,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/campfire-12",
+      "sourceUrl": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "The shared workspace for humans and coding agents",
+      "brief": "Agentic content platform to create and localize content",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -334,15 +294,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/upsolve-ai",
-      "title": "Upsolve Data Models",
-      "summary": "Teach AI your metric definitions and business vocabulary",
-      "publishedAt": "2026-09-29T21:40:33.000Z",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "id": "ph:https://www.producthunt.com/products/opencompanion",
+      "title": "OpenCompanion",
+      "summary": "Start, watch and answer AI coding CLIs from one desktop app",
+      "publishedAt": "2026-09-30T02:23:34.000Z",
+      "url": "https://www.producthunt.com/products/opencompanion",
       "linkKind": "original",
       "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -362,11 +322,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/upsolve-ai",
+      "sourceUrl": "https://www.producthunt.com/products/opencompanion",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Teach AI your metric definitions and business vocabulary",
+      "brief": "Start, watch and answer AI coding CLIs from one desktop app",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

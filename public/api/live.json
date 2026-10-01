@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月1日",
     "demo": false,
-    "updatedAt": "2026-10-01T02:29:17.298Z",
+    "updatedAt": "2026-10-01T09:21:15.564Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -14,7 +14,7 @@
       "sourcePoolPages": 3,
       "poolHasMore": false,
       "received": 400,
-      "latestCount": 7,
+      "latestCount": 8,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -84,8 +84,8 @@
           "group": "产品与工程",
           "focus": "开发者产品与应用工程",
           "url": "https://x.com/sherwinwu",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "emollick",
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 4,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -145,11 +145,11 @@
     },
     "items": [
       {
-        "id": "aihot-tupi5wccxh503rzcjna1faafd",
-        "title": "OpenAI 称 GPT-6.1 Sol 需求空前",
-        "brief": "GPT-6.1 Sol 是我们有史以来需求最高的模型，API 和订阅两方面都是如此。",
-        "summary": "GPT-6.1 Sol 是我们有史以来需求最高的模型，API 和订阅两方面都是如此。",
-        "category": "行业观察",
+        "id": "aihot-ed0fkjtzo2sbnpzqlara60ghs",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "brief": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
+        "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -157,22 +157,22 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2105464274747527543",
-        "aggregateUrl": "https://aihot.news/items/tupi5wccxh503rzcjna1faafd",
+        "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
+        "aggregateUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-01T01:06:15.000Z",
+        "publishedAt": "2026-10-01T04:44:34.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Tibo Sottiaux",
+              "asset": "/assets/identities/thsottiaux.jpg",
+              "assetSource": "https://x.com/thsottiaux",
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "行业观察",
+          "caption": "产品动态",
           "author": {
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
@@ -251,6 +251,43 @@
             "name": "Peter Steinberger",
             "asset": "/assets/identities/steipete.png",
             "assetSource": "https://x.com/steipete",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-apcfbu1pol6av0nm9wzbvviav",
+        "title": "ChatGPT 插件迎来最佳开发时机",
+        "brief": "现在是开发 ChatGPT 插件的最佳时机！",
+        "summary": "现在是开发 ChatGPT 插件的最佳时机！",
+        "category": "实践与观点",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sherwinwu",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Sherwin Wu · @sherwinwu",
+        "feedName": "X：Sherwin Wu（@sherwinwu）",
+        "sourceUrl": "https://x.com/sherwinwu/status/2105514876668154204",
+        "aggregateUrl": "https://aihot.news/items/apcfbu1pol6av0nm9wzbvviav",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-01T04:27:19.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Sherwin Wu",
+              "asset": "/assets/identities/sherwinwu.jpg",
+              "assetSource": "https://x.com/sherwinwu",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Sherwin Wu",
+            "asset": "/assets/identities/sherwinwu.jpg",
+            "assetSource": "https://x.com/sherwinwu",
             "tone": "#e9e4dc"
           }
         }
@@ -451,11 +488,18 @@
         "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
         "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
         "sourceCount": 18,
-        "participantCount": 78,
-        "latestAt": "2026-10-01T01:59:43.000Z",
+        "participantCount": 98,
+        "latestAt": "2026-10-01T09:02:31.000Z",
         "expanded": true,
         "latest": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
         "reports": [
+          {
+            "title": "Gemini 4 Argon 测试：1M 输出 token，DeepSWE 77.9%",
+            "sourceName": "X：Testing Catalog (@testingcatalog)",
+            "sourceUrl": "https://x.com/testingcatalog/status/2105566186771546490",
+            "aihotUrl": "https://aihot.news/items/lx41assf9279cicpt80haae41",
+            "publishedAt": "2026-10-01T07:51:13.000Z"
+          },
           {
             "title": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
             "sourceName": "IT之家（RSS）",
@@ -469,13 +513,6 @@
             "sourceUrl": "https://x.com/hongming731/status/2105454372461379993",
             "aihotUrl": "https://aihot.news/items/fv07hfwbdb8wsxthal3fvfqx1",
             "publishedAt": "2026-10-01T00:26:54.000Z"
-          },
-          {
-            "title": "Gemini 4 Argon 发布，输出 token 上限提至 1M",
-            "sourceName": "X：洪明 (@hongming731)",
-            "sourceUrl": "https://x.com/hongming731/status/2105454334876246028",
-            "aihotUrl": "https://aihot.news/items/oepd80efkckrp5105uaj46cbp",
-            "publishedAt": "2026-10-01T00:26:45.000Z"
           }
         ],
         "related": [],
@@ -501,11 +538,18 @@
         "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
         "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
         "sourceCount": 15,
-        "participantCount": 81,
-        "latestAt": "2026-10-01T01:06:15.000Z",
+        "participantCount": 83,
+        "latestAt": "2026-10-01T07:27:12.000Z",
         "expanded": true,
-        "latest": "OpenAI 称 GPT-6.1 Sol 需求空前",
+        "latest": "Artificial Analysis 评测：GPT-6.1 Sol 推进 OpenAI 模型成本效率前沿",
         "reports": [
+          {
+            "title": "Artificial Analysis 评测：GPT-6.1 Sol 推进 OpenAI 模型成本效率前沿",
+            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+            "sourceUrl": "https://x.com/ArtificialAnlys/status/2105491868608004578",
+            "aihotUrl": "https://aihot.news/items/uzpwsgxv4kecin9uot8linl68",
+            "publishedAt": "2026-10-01T02:55:54.000Z"
+          },
           {
             "title": "OpenAI 称 GPT-6.1 Sol 需求空前",
             "sourceName": "X：Tibo (@thsottiaux)",
@@ -519,13 +563,6 @@
             "sourceUrl": "https://x.com/ArtificialAnlys/status/2105449959554441580",
             "aihotUrl": "https://aihot.news/items/p3cwq54s9gugqpmljv3xm97lv",
             "publishedAt": "2026-10-01T00:09:22.000Z"
-          },
-          {
-            "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-            "sourceName": "MarkTechPost（RSS）",
-            "sourceUrl": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-            "aihotUrl": "https://aihot.news/items/sv8dhqgv5kccksxx30x4oa7n3",
-            "publishedAt": "2026-09-30T21:09:24.000Z"
           }
         ],
         "related": [
@@ -565,7 +602,7 @@
         "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
         "sourceCount": 10,
         "participantCount": 82,
-        "latestAt": "2026-10-01T01:36:21.000Z",
+        "latestAt": "2026-10-01T07:33:55.000Z",
         "expanded": true,
         "latest": "OpenAI 发布可持续运行的 AI 智能体 Dots，dot.com 域名在马斯克旗下 xAI 手中",
         "reports": [
@@ -626,9 +663,9 @@
         "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
         "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
         "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
-        "sourceCount": 6,
-        "participantCount": 45,
-        "latestAt": "2026-09-30T18:04:46.837Z",
+        "sourceCount": 5,
+        "participantCount": 31,
+        "latestAt": "2026-10-01T06:01:49.827Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -648,15 +685,15 @@
       },
       {
         "rank": 5,
-        "id": "gs96clovs726l3b5nd80ofnva",
-        "title": "OpenAI重开Pro 200并新增Pro 500档",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2104823812042940713",
-        "aihotUrl": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
-        "storyUrl": "https://aihot.news/story/c2ce7c22-c2b6-45b0-b931-5200b107c077",
-        "sourceCount": 5,
-        "participantCount": 44,
-        "latestAt": "2026-09-30T13:30:05.000Z",
+        "id": "qw3a6btvwdalftejp20ccxjb3",
+        "title": "DeepSeek开源华为昇腾平台基础设施组件",
+        "sourceName": "公众号：DeepSeek（深度求索）",
+        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
+        "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
+        "storyUrl": "https://aihot.news/story/0708dda9-d77b-4211-8456-eb7b422e0cc9",
+        "sourceCount": 4,
+        "participantCount": 25,
+        "latestAt": "2026-10-01T05:20:25.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -664,10 +701,10 @@
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "公众号：DeepSeek（深度求索）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -704,62 +741,6 @@
       },
       {
         "rank": 7,
-        "id": "ukbm1pni8gdc5ciwwuywzkhwb",
-        "title": "AMD 82亿美元收购World Labs，李飞飞任首席科学家",
-        "sourceName": "World Labs：官网",
-        "sourceUrl": "https://www.worldlabs.ai/blog/amd-announcement",
-        "aihotUrl": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
-        "storyUrl": "https://aihot.news/story/1c691309-370b-4623-bb83-012b0804c3d1",
-        "sourceCount": 2,
-        "participantCount": 39,
-        "latestAt": "2026-10-01T01:30:25.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "World Labs：官网",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "qw3a6btvwdalftejp20ccxjb3",
-        "title": "DeepSeek开源华为昇腾平台基础设施组件",
-        "sourceName": "公众号：DeepSeek（深度求索）",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
-        "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
-        "storyUrl": "https://aihot.news/story/0708dda9-d77b-4211-8456-eb7b422e0cc9",
-        "sourceCount": 3,
-        "participantCount": 24,
-        "latestAt": "2026-09-30T13:13:18.007Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "公众号：DeepSeek（深度求索）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
         "id": "cmu9jwllp040mrogngntwk2d7",
         "title": "特朗普推动AI改名并筹建AI Force",
         "sourceName": "IT之家（RSS）",
@@ -768,7 +749,7 @@
         "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f",
         "sourceCount": 2,
         "participantCount": 22,
-        "latestAt": "2026-09-30T19:10:37.000Z",
+        "latestAt": "2026-10-01T08:05:21.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -787,16 +768,16 @@
         }
       },
       {
-        "rank": 10,
-        "id": "eqf3o3tlak08851t52unuji2o",
-        "title": "Anthropic评估GLM-5.3网络攻击能力",
-        "sourceName": "Anthropic：Research（发表成果 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-        "aihotUrl": "https://aihot.news/items/eqf3o3tlak08851t52unuji2o",
-        "storyUrl": "https://aihot.news/story/7408ec28-0acf-4416-b31e-24b50417b134",
-        "sourceCount": 4,
-        "participantCount": 18,
-        "latestAt": "2026-09-30T20:30:05.000Z",
+        "rank": 8,
+        "id": "gs96clovs726l3b5nd80ofnva",
+        "title": "OpenAI重开Pro 200并新增Pro 500档",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2104823812042940713",
+        "aihotUrl": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
+        "storyUrl": "https://aihot.news/story/c2ce7c22-c2b6-45b0-b931-5200b107c077",
+        "sourceCount": 3,
+        "participantCount": 30,
+        "latestAt": "2026-09-30T13:30:05.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -804,10 +785,66 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "fr7dgcpa02ssu37g9fsmj5q9n",
+        "title": "白宫《超级智能协议》签署与四层保障",
+        "sourceName": "X：Jensen Huang (@JensenHuang)",
+        "sourceUrl": "https://x.com/JensenHuang/status/2105348324484342238",
+        "aihotUrl": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
+        "storyUrl": "https://aihot.news/story/80e77dd3-3d31-4f59-a08a-db3ec9de3a57",
+        "sourceCount": 7,
+        "participantCount": 19,
+        "latestAt": "2026-10-01T02:40:51.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Jensen Huang (@JensenHuang)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
+        "id": "fkaymng16iu4hg5x53jpq7o8p",
+        "title": "ElevenLabs 估值 220 亿美元、ARR 达 6 亿美元",
+        "sourceName": "ElevenLabs：Blog（网页）",
+        "sourceUrl": "https://elevenlabs.io/blog/tender-22bn",
+        "aihotUrl": "https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p",
+        "storyUrl": "https://aihot.news/story/1c6937c5-eee6-4c55-bc06-5059be55caea",
+        "sourceCount": 3,
+        "participantCount": 13,
+        "latestAt": "2026-10-01T08:24:41.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "ElevenLabs：Blog（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -818,8 +855,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-01T02:29:17.298Z",
-    "nextCheckAt": 1790822057298,
+    "checkedAt": "2026-10-01T09:21:15.564Z",
+    "nextCheckAt": 1790846775564,
     "intervalSeconds": 300,
     "message": ""
   }
