@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-09-30T23:39:43.104Z",
-      "lastSuccessAt": "2026-09-30T23:39:43.104Z",
-      "nextCheckAt": 1790815183104,
+      "checkedAt": "2026-10-01T02:29:02.468Z",
+      "lastSuccessAt": "2026-10-01T02:29:02.468Z",
+      "nextCheckAt": 1790825342468,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-01T02:29:02.469Z",
+      "lastSuccessAt": "2026-10-01T02:29:02.469Z",
+      "nextCheckAt": 1790825342469,
       "status": "ok",
-      "nextCheckAt": 1790815183105,
-      "checkedAt": "2026-09-30T23:39:43.105Z",
-      "lastSuccessAt": "2026-09-30T23:39:43.105Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-09-30T23:39:43.105Z",
-      "lastSuccessAt": "2026-09-30T23:39:43.105Z",
-      "nextCheckAt": 1790815183105,
+      "checkedAt": "2026-10-01T02:29:02.470Z",
+      "lastSuccessAt": "2026-10-01T02:29:02.470Z",
+      "nextCheckAt": 1790825342470,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-09-30T23:39:43.262Z",
-      "lastSuccessAt": "2026-09-30T23:39:43.262Z",
-      "nextCheckAt": 1790815183262,
       "status": "ok",
+      "nextCheckAt": 1790825342751,
+      "checkedAt": "2026-10-01T02:29:02.751Z",
+      "lastSuccessAt": "2026-10-01T02:29:02.751Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790815183104,
+  "nextCheckAt": 1790825342468,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6472933.html",
+      "title": "一篇文章带你入门 AI 视频模型：从基本概念到主流模型与选择方法",
+      "summary": "AI视频模型正从技术名词变成内容创作的新引擎。本文用红果短剧的爆火切入，手把手拆解文生视频、图生视频、首尾帧等概念，从技术原理到实操技巧，帮你快速上手，看懂行业讨论，独立判断新模型的价值。 2026 年，如果你问身边的朋友：”你知道 AI 视频模型是什么吗？”他可能会摇摇头。 但如果换个问题：”你刷过红果短剧吗？” 那他可就不困了。毕竟谁不想下班后，急头白脸地来一集红果短剧？白天受的气，晚上靠穿越主角逆袭找补回来。嘴上说着”看完这集就睡",
+      "publishedAt": "2026-10-01T02:15:31.000Z",
+      "url": "https://www.woshipm.com/ai/6472933.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6472933.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "AI视频模型正从技术名词变成内容创作的新引擎。本文用红果短剧的爆火切入，手把手拆解文生视频、图生视频、首尾帧等概念，从技术原理到实操技巧，帮你快速上手，看懂行业讨论，独立判断新模型的价值。 2026 年，如果你问身边的朋友：”你知道 AI 视频模型是什么吗？”他可能会摇摇头。 但如果换个问题：”你刷过红果短剧吗？” 那他可就不困了。毕竟谁不想下班后，急头白脸地来一集红果短剧？白天受的气，晚上靠穿越主角逆袭找补回来。嘴上说着”看完这集就睡",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6472701.html",
       "title": "腾讯秘密开发Personal Agent独立App“Handy Bot”",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6472662.html",
@@ -167,46 +207,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "Instinct 成立约一年，估值一个月内从 25 亿涨到 100 亿美元，用户每天增长约 10%，年化 GMV 超 10 亿。创始人 Noah Shinn 谈为什么不做独立 App，而是给 Agent 配电话号码、邮箱和云端电脑，让它像真人助理一样把事办完。 2026 年 9 月 28 日，个人 Agent 公司 Instinct 宣布完成 10 亿美元 C 轮融资，估值达到 100 亿美元，投资方包括红杉资本、Benchmark 和",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6472681.html",
-      "title": "a16z 最新深度对话：这才是 personal agent 的正确打开方式",
-      "summary": "a16z 的 Anish Acharya 与助理测评平台创始人 David Pawlan 聊了 personal agent：谁会用、谁可能赢。作者没有只做复述，而是把对话与自己的使用体验放在一起，分辨哪些判断是泡沫、哪些对做产品真有参考价值。 前几天我看了一期 a16z 的播客，是 General Partner Anish Acharya 和 Assistant Benchmark（AI 助手对比测评平台）的创始人 David Pa",
-      "publishedAt": "2026-09-30T07:04:49.000Z",
-      "url": "https://www.woshipm.com/ai/6472681.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472681.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "a16z 的 Anish Acharya 与助理测评平台创始人 David Pawlan 聊了 personal agent：谁会用、谁可能赢。作者没有只做复述，而是把对话与自己的使用体验放在一起，分辨哪些判断是泡沫、哪些对做产品真有参考价值。 前几天我看了一期 a16z 的播客，是 General Partner Anish Acharya 和 Assistant Benchmark（AI 助手对比测评平台）的创始人 David Pa",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
