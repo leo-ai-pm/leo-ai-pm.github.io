@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月1日",
+    "date": "2026年10月2日",
     "demo": false,
-    "updatedAt": "2026-10-01T09:21:15.564Z",
+    "updatedAt": "2026-10-01T16:32:38.898Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 400,
-      "latestCount": 8,
+      "received": 378,
+      "latestCount": 9,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -75,7 +75,7 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -102,7 +102,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 2,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -111,8 +111,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 3,
+          "status": "本次收录"
         },
         {
           "handle": "gdb",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 3,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -293,10 +293,10 @@
         }
       },
       {
-        "id": "aihot-djkv5j0ildgxuego1ghs7qxdy",
-        "title": "AI 智能体代用户谈判砍价",
-        "brief": "每家公司的客服智能体即将被 Dots & Muses 等用语音/聊天来谈判争取更优惠价格的智能体淹没。",
-        "summary": "每家公司的客服智能体即将被 Dots & Muses 等用语音/聊天来谈判争取更优惠价格的智能体淹没。",
+        "id": "aihot-kka20fepzhkgtsvmx78quqiv5",
+        "title": "AI 自组织能力与 Muse、Dots 智能体",
+        "brief": "我写了一篇关于 AI 进步中最被我低估的一点：它自我组织以完成任务的能力。",
+        "summary": "我写了一篇关于 AI 进步中最被我低估的一点：它自我组织以完成任务的能力。",
         "category": "实践与观点",
         "topic": "Agent",
         "priority": "normal",
@@ -305,10 +305,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2105370153466863709",
-        "aggregateUrl": "https://aihot.news/items/djkv5j0ildgxuego1ghs7qxdy",
+        "sourceUrl": "https://x.com/emollick/status/2105618164944146786",
+        "aggregateUrl": "https://aihot.news/items/kka20fepzhkgtsvmx78quqiv5",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-30T18:52:15.000Z",
+        "publishedAt": "2026-10-01T11:17:45.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -330,22 +330,22 @@
         }
       },
       {
-        "id": "aihot-msrm27pqpl4q6l194v6ykzsij",
-        "title": "Vivix 推出 A1 Playground + Agent，可实时交互的全身 AI 角色",
-        "brief": "Vivix 推出 A1 Playground + Agent，可自建能说话、做全身动作并与你实时互动的 AI 角色。",
-        "summary": "Vivix 推出 A1 Playground + Agent，可自建能说话、做全身动作并与你实时互动的 AI 角色。",
-        "category": "产品动态",
-        "topic": "Agent",
+        "id": "aihot-yp764usyntmj190k8hc6afqxt",
+        "title": "Meta 等提出 Context Language Models：让模型用 Bash 自主管理上下文",
+        "brief": "Meta 等机构发布论文提出 Context Language Models（CLM），将上下文作为可读写的文件让模型用 Bash 自主编辑，决定保留、重写或删除内容。",
+        "summary": "Meta 等机构发布论文提出 Context Language Models（CLM），将上下文作为可读写的文件让模型用 Bash 自主编辑，决定保留、重写或删除内容。",
+        "category": "研究进展",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "omarsar0",
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2105356334107377688",
-        "aggregateUrl": "https://aihot.news/items/msrm27pqpl4q6l194v6ykzsij",
+        "sourceUrl": "https://x.com/omarsar0/status/2105690460429996366",
+        "aggregateUrl": "https://aihot.news/items/yp764usyntmj190k8hc6afqxt",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-30T17:57:20.000Z",
+        "publishedAt": "2026-10-01T16:05:02.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -357,7 +357,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "产品动态",
+          "caption": "研究进展",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
@@ -367,11 +367,48 @@
         }
       },
       {
-        "id": "aihot-eht0nutn22xdea1olyex45t6v",
-        "title": "Perplexity 开源上下文嵌入模型 pplx-embed-v2-context-9b-preview",
-        "brief": "Perplexity 开源其上下文嵌入模型，在 turbopuffer 的 context-bench 上表现最佳。",
-        "summary": "Perplexity 开源其上下文嵌入模型，在 turbopuffer 的 context-bench 上表现最佳。",
-        "category": "模型进展",
+        "id": "aihot-u6ud7g7jq3rg5pvc2nt3wu33f",
+        "title": "OpenAI 6.1 Sol 负载问题已改善",
+        "brief": "另外，6.1 Sol 是我们增长最快的模型，在负载下有点慢。",
+        "summary": "另外，6.1 Sol 是我们增长最快的模型，在负载下有点慢。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sama",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Sam Altman · @sama",
+        "feedName": "X：Sam Altman (@sama)",
+        "sourceUrl": "https://x.com/sama/status/2105688354834756036",
+        "aggregateUrl": "https://aihot.news/items/u6ud7g7jq3rg5pvc2nt3wu33f",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-01T15:56:40.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Sam Altman",
+            "asset": "/assets/identities/sama.jpg",
+            "assetSource": "https://x.com/sama",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-ifk2yfaui3exci8klx220qsxs",
+        "title": "Perplexity Computer 集成 Seedance",
+        "brief": "Computer 里的 Seedance 对营销和品牌团队来说相当惊艳！",
+        "summary": "Computer 里的 Seedance 对营销和品牌团队来说相当惊艳！",
+        "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -379,10 +416,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2105377088249426229",
-        "aggregateUrl": "https://aihot.news/items/eht0nutn22xdea1olyex45t6v",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2105679959453032810",
+        "aggregateUrl": "https://aihot.news/items/ifk2yfaui3exci8klx220qsxs",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-09-30T19:19:48.000Z",
+        "publishedAt": "2026-10-01T15:23:18.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -394,7 +431,7 @@
               "tone": "#dcebea"
             }
           ],
-          "caption": "模型进展",
+          "caption": "实践与观点",
           "author": {
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
@@ -487,9 +524,9 @@
         "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
         "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
         "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
-        "sourceCount": 18,
-        "participantCount": 98,
-        "latestAt": "2026-10-01T09:02:31.000Z",
+        "sourceCount": 17,
+        "participantCount": 104,
+        "latestAt": "2026-10-01T15:30:00.000Z",
         "expanded": true,
         "latest": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
         "reports": [
@@ -538,8 +575,8 @@
         "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
         "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
         "sourceCount": 15,
-        "participantCount": 83,
-        "latestAt": "2026-10-01T07:27:12.000Z",
+        "participantCount": 84,
+        "latestAt": "2026-10-01T15:02:44.000Z",
         "expanded": true,
         "latest": "Artificial Analysis 评测：GPT-6.1 Sol 推进 OpenAI 模型成本效率前沿",
         "reports": [
@@ -602,10 +639,17 @@
         "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
         "sourceCount": 10,
         "participantCount": 82,
-        "latestAt": "2026-10-01T07:33:55.000Z",
+        "latestAt": "2026-10-01T15:19:19.000Z",
         "expanded": true,
-        "latest": "OpenAI 发布可持续运行的 AI 智能体 Dots，dot.com 域名在马斯克旗下 xAI 手中",
+        "latest": "OpenAI DevDay 发布智能体 Dots，正面竞争 Meta 的免费方案 Muse",
         "reports": [
+          {
+            "title": "OpenAI DevDay 发布智能体 Dots，正面竞争 Meta 的免费方案 Muse",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+            "aihotUrl": "https://aihot.news/items/wyf5x5zrfy83nqthhwc9mencv",
+            "publishedAt": "2026-10-01T14:36:50.000Z"
+          },
           {
             "title": "Machine Earning AI 峰会：智能体商务与个人智能体的早期乐观情绪",
             "sourceName": "Newcomer 新闻长文（RSS）",
@@ -619,27 +663,20 @@
             "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
             "aihotUrl": "https://aihot.news/items/qzz58d53z9c3xe0p7nbnnctnx",
             "publishedAt": "2026-09-30T18:07:38.000Z"
-          },
-          {
-            "title": "OpenAI 发布 GPT-6 Astra 智能体与 GPT-6.1 Sol",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2105228510335778918",
-            "aihotUrl": "https://aihot.news/items/y1qv409x74zo62nw16mwp25ua",
-            "publishedAt": "2026-09-30T09:29:24.000Z"
           }
         ],
         "related": [
           {
+            "title": "ChatGPT订阅额度扩展至60余家合作产品",
+            "storyUrl": "https://aihot.news/story/ab027b1a-734d-4dd9-951f-7e0a1f8e5e11"
+          },
+          {
+            "title": "OpenAI DevDay 2026 活动与议程",
+            "storyUrl": "https://aihot.news/story/5a0ede4c-2a14-4e6f-a56a-0a0fe406fcc3"
+          },
+          {
             "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
             "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
-          },
-          {
-            "title": "OpenAI Dots推送与Meta Muse对比",
-            "storyUrl": "https://aihot.news/story/49f19f8c-19cc-4aff-a11e-8fea71353c96"
-          },
-          {
-            "title": "Ethan Mollick评价Dots助手工具",
-            "storyUrl": "https://aihot.news/story/5fc7f6d6-5330-4060-8ca9-4a3a5e69e237"
           }
         ],
         "visual": {
@@ -657,15 +694,15 @@
       },
       {
         "rank": 4,
-        "id": "khyjby0mw5t22dn9zw2l6fflu",
-        "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-        "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
-        "sourceCount": 5,
-        "participantCount": 31,
-        "latestAt": "2026-10-01T06:01:49.827Z",
+        "id": "cmu6ikvfu04ruro0fnxn9exy4",
+        "title": "赛力斯与华为回应问界专属专营模式调整",
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/004/058.htm",
+        "aihotUrl": "https://aihot.news/items/cmu6ikvfu04ruro0fnxn9exy4",
+        "storyUrl": "https://aihot.news/story/8ade9c6c-461d-4ad7-8ba0-c7927655b7e6",
+        "sourceCount": 1,
+        "participantCount": 14,
+        "latestAt": "2026-10-01T16:25:19.230Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -673,35 +710,7 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "IPO",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
-        "id": "qw3a6btvwdalftejp20ccxjb3",
-        "title": "DeepSeek开源华为昇腾平台基础设施组件",
-        "sourceName": "公众号：DeepSeek（深度求索）",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
-        "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
-        "storyUrl": "https://aihot.news/story/0708dda9-d77b-4211-8456-eb7b422e0cc9",
-        "sourceCount": 4,
-        "participantCount": 25,
-        "latestAt": "2026-10-01T05:20:25.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "公众号：DeepSeek（深度求索）",
+              "name": "IT之家（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -712,7 +721,7 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 5,
         "id": "nhob7mih29e0owj7ay28t7fvw",
         "title": "FTC加大对AI实验室调查力度",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -720,8 +729,8 @@
         "aihotUrl": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
         "storyUrl": "https://aihot.news/story/2c6e1906-800f-40f0-a8fe-cefa7eaf8d9d",
         "sourceCount": 3,
-        "participantCount": 18,
-        "latestAt": "2026-09-30T23:12:55.000Z",
+        "participantCount": 20,
+        "latestAt": "2026-10-01T09:30:42.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -740,16 +749,44 @@
         }
       },
       {
+        "rank": 6,
+        "id": "deivg466iwv9ypddacud3hd7d",
+        "title": "Google DeepMind发布SynthID Bio蛋白质水印技术",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
+        "aihotUrl": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+        "storyUrl": "https://aihot.news/story/eb54737e-789a-4e7c-848c-63c1c5ef1497",
+        "sourceCount": 3,
+        "participantCount": 14,
+        "latestAt": "2026-10-01T14:38:23.386Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 7,
-        "id": "cmu9jwllp040mrogngntwk2d7",
-        "title": "特朗普推动AI改名并筹建AI Force",
+        "id": "cmuamhooy0oolro5t7g5o4vtd",
+        "title": "华为 Mate 90 系列发布：官宣麒麟 9030/9035 芯片",
         "sourceName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/004/829.htm",
-        "aihotUrl": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
-        "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f",
-        "sourceCount": 2,
-        "participantCount": 22,
-        "latestAt": "2026-10-01T08:05:21.000Z",
+        "sourceUrl": "https://www.ithome.com/1/005/085.htm",
+        "aihotUrl": "https://aihot.news/items/cmuamhooy0oolro5t7g5o4vtd",
+        "storyUrl": "https://aihot.news/story/d107c8d5-9422-4a53-ad7c-aa794bcfbdd3",
+        "sourceCount": 1,
+        "participantCount": 12,
+        "latestAt": "2026-10-01T14:39:18.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -769,15 +806,15 @@
       },
       {
         "rank": 8,
-        "id": "gs96clovs726l3b5nd80ofnva",
-        "title": "OpenAI重开Pro 200并新增Pro 500档",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2104823812042940713",
-        "aihotUrl": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
-        "storyUrl": "https://aihot.news/story/c2ce7c22-c2b6-45b0-b931-5200b107c077",
-        "sourceCount": 3,
-        "participantCount": 30,
-        "latestAt": "2026-09-30T13:30:05.000Z",
+        "id": "qw3a6btvwdalftejp20ccxjb3",
+        "title": "DeepSeek开源华为昇腾平台基础设施组件",
+        "sourceName": "公众号：DeepSeek（深度求索）",
+        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
+        "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
+        "storyUrl": "https://aihot.news/story/0708dda9-d77b-4211-8456-eb7b422e0cc9",
+        "sourceCount": 4,
+        "participantCount": 24,
+        "latestAt": "2026-10-01T05:20:25.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -785,10 +822,10 @@
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "公众号：DeepSeek（深度求索）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -797,6 +834,34 @@
       },
       {
         "rank": 9,
+        "id": "cmu9jwllp040mrogngntwk2d7",
+        "title": "特朗普推动AI改名并筹建AI Force",
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/004/829.htm",
+        "aihotUrl": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
+        "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f",
+        "sourceCount": 2,
+        "participantCount": 22,
+        "latestAt": "2026-10-01T09:09:01.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "fr7dgcpa02ssu37g9fsmj5q9n",
         "title": "白宫《超级智能协议》签署与四层保障",
         "sourceName": "X：Jensen Huang (@JensenHuang)",
@@ -804,8 +869,8 @@
         "aihotUrl": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
         "storyUrl": "https://aihot.news/story/80e77dd3-3d31-4f59-a08a-db3ec9de3a57",
         "sourceCount": 7,
-        "participantCount": 19,
-        "latestAt": "2026-10-01T02:40:51.000Z",
+        "participantCount": 20,
+        "latestAt": "2026-10-01T11:13:01.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -822,41 +887,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 10,
-        "id": "fkaymng16iu4hg5x53jpq7o8p",
-        "title": "ElevenLabs 估值 220 亿美元、ARR 达 6 亿美元",
-        "sourceName": "ElevenLabs：Blog（网页）",
-        "sourceUrl": "https://elevenlabs.io/blog/tender-22bn",
-        "aihotUrl": "https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p",
-        "storyUrl": "https://aihot.news/story/1c6937c5-eee6-4c55-bc06-5059be55caea",
-        "sourceCount": 3,
-        "participantCount": 13,
-        "latestAt": "2026-10-01T08:24:41.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "ElevenLabs：Blog（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-01T09:21:15.564Z",
-    "nextCheckAt": 1790846775564,
+    "checkedAt": "2026-10-01T16:32:38.898Z",
+    "nextCheckAt": 1790872658898,
     "intervalSeconds": 300,
     "message": ""
   }

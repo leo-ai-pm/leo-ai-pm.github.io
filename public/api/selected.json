@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-01T09:21:27.822Z",
+  "checkedAt": "2026-10-01T16:33:04.419Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,48 @@
     }
   ],
   "today": [
+    {
+      "id": "o2r7vlmpw9bg1k7rxb3ot6wzv",
+      "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+      "reason": "AISI 公开其恢复高危评估前的多层防御、实时监控和沙箱验证细节，为其他评估机构提供了可参考的安全实践。",
+      "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。",
+      "sourceName": "英国 AI Security Institute：Blog（网页）",
+      "sourceUrl": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+      "aihotUrl": "https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv",
+      "publishedAt": "2026-09-30T23:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "uxe9v0hypn93df9ogn6glwled",
+      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+      "reason": "原文把 OpenAI 的拦截行动与研究团队的复测放在一起看，读者可以了解同一模型在不同云平台防护不一致的问题。",
+      "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+      "aihotUrl": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
+      "publishedAt": "2026-10-01T12:05:49.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "i35lar26hjm4djheowz5ytplm",
+      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+      "reason": "作者复盘了自己此前的误判，用 Navier-Stokes 群体智能体等案例说明智能体自组织比预想容易，管理原理值得重估。",
+      "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+      "sourceName": "Ethan Mollick：One Useful Thing（RSS）",
+      "sourceUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "aihotUrl": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
+      "publishedAt": "2026-10-01T10:54:12.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "zbprvsawadktpi8tcqpp6gw4d",
       "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
@@ -248,118 +290,6 @@
       "category": "ai-products",
       "categoryLabel": "产品",
       "unselected": false
-    },
-    {
-      "id": "lzxm86234leqs91hbocegps1l",
-      "title": "Anthropic 研究测算机器人对岗位的暴露度：机器人可做 74% 的物理任务但仅 0.3% 具备成本竞争力",
-      "reason": "研究给出了可核查的机器人任务暴露数据与成本测算，读者可据此比较机器人与 LLM 影响的职业差异。",
-      "summary": "Anthropic 发布研究，用 Claude 对约 19,000 项工作任务评估机器人暴露度，发现现今机器人可完成美国 74% 的物理任务（占全部工作时间的 34%），但仅在 0.3% 的任务上比人工更具成本竞争力，按每年约 3% 的降价趋势需约 40 年才能达到 10%。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
-      "aihotUrl": "https://aihot.news/items/lzxm86234leqs91hbocegps1l",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "knj4jcg30hz6vujhwu7xqeplj",
-      "title": "MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手",
-      "reason": "原文解释了 Ataraxos 如何用自博弈强化学习和决策时规划以远低于以往的训练成本战胜顶级 Stratego 选手，方法细节可直接对照其他隐藏信息博弈场景。",
-      "summary": "MIT、CMU、NYU 与 Stanford 的研究人员开发出 AI 系统 Ataraxos，在隐藏信息棋盘战棋 Stratego 上大幅超越世界顶级人类选手，论文发表于 Nature。",
-      "sourceName": "MIT News（RSS）",
-      "sourceUrl": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-      "aihotUrl": "https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "fkaymng16iu4hg5x53jpq7o8p",
-      "title": "ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元",
-      "reason": "原文给出 ElevenLabs 估值翻倍至 220 亿美元的关键经营数字和 ElevenAgents 增长细节，可据此了解企业级语音智能体市场的实际进展。",
-      "summary": "ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。",
-      "sourceName": "ElevenLabs：Blog（网页）",
-      "sourceUrl": "https://elevenlabs.io/blog/tender-22bn",
-      "aihotUrl": "https://aihot.news/items/fkaymng16iu4hg5x53jpq7o8p",
-      "publishedAt": "2026-09-30T12:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "deivg466iwv9ypddacud3hd7d",
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-      "reason": "原文给出湿实验验证数据、开源计划与在 DNA 合成筛查中的应用场景，读者可以据此评估这项水印技术对生物安全的实际作用。",
-      "summary": "Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "aihotUrl": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
-      "publishedAt": "2026-09-30T15:03:07.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "nhob7mih29e0owj7ay28t7fvw",
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-      "reason": "原文梳理了 FTC 调查的对象、法律手段和时间线，并提示这对 AI 实验室可能构成生存风险。",
-      "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-      "aihotUrl": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
-      "publishedAt": "2026-09-30T16:20:04.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "br7g8nzvm1vr7rednjbgi4ox0",
-      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-      "reason": "原文交代了招聘响应规模和后续申请渠道，为关注 Hugging Face 招聘的人提供了可操作的投递途径。",
-      "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。",
-      "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "sourceUrl": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "aihotUrl": "https://aihot.news/items/br7g8nzvm1vr7rednjbgi4ox0",
-      "publishedAt": "2026-09-30T12:41:30.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "o8x9d9u4106ngfkukga1vwh4h",
-      "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-      "reason": "官方发布同时给出架构细节、多项长程任务实测结果和对比数据，读者可据此评估其在办公、医疗和软件研发场景的适用性。",
-      "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-      "sourceName": "公众号：蚂蚁百灵（Ling）",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd",
-      "aihotUrl": "https://aihot.news/items/o8x9d9u4106ngfkukga1vwh4h",
-      "publishedAt": "2026-09-30T12:30:49.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "seoe3daylyyh1pqcwj4cklrpe",
-      "title": "vLLM 分离式推理（Disaggregated Serving）实用指南",
-      "reason": "作者来自参与开发的 IBM Research，给出 P/D 与 render 拆分的收益数据、适用场景表和可复用运行方法。",
-      "summary": "vLLM 官方博客发布分离式推理实用指南，讲解 vLLM v0.30.0 及以上版本中 prefill/decode 分离、无 GPU render 前端及两者组合的原理与运行方法。",
-      "sourceName": "vLLM 官方博客（RSS）",
-      "sourceUrl": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
-      "aihotUrl": "https://aihot.news/items/seoe3daylyyh1pqcwj4cklrpe",
-      "publishedAt": "2026-09-29T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "week": [
@@ -448,20 +378,6 @@
       "unselected": false
     },
     {
-      "id": "qw3a6btvwdalftejp20ccxjb3",
-      "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
-      "reason": "原文给出各组件功能与开源链接，读者可以据此评估昇腾平台软件生态的可用范围。",
-      "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。",
-      "sourceName": "公众号：DeepSeek（深度求索）",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
-      "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
-      "publishedAt": "2026-09-30T02:01:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "i6rwpn2rwk4atkww9xa23vr6y",
       "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
       "reason": "Artificial Analysis 用自家基准拆解了新模型的智能得分与每任务成本，读者可据此比较它相对前代和旗舰档的实际性价比。",
@@ -470,6 +386,20 @@
       "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
       "aihotUrl": "https://aihot.news/items/i6rwpn2rwk4atkww9xa23vr6y",
       "publishedAt": "2026-09-28T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "pa1k4e601e82efx7hhzcil2dm",
+      "title": "GPT-6.1 上线 Arena 评测平台",
+      "reason": "OpenAI 新模型上架 Agent Arena 和 Code Arena，读者可自行投票并等待基于真实智能体任务的分数。",
+      "summary": "Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2105006240363581728",
+      "aihotUrl": "https://aihot.news/items/pa1k4e601e82efx7hhzcil2dm",
+      "publishedAt": "2026-09-29T18:46:11.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -560,6 +490,20 @@
       "unselected": false
     },
     {
+      "id": "qw3a6btvwdalftejp20ccxjb3",
+      "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
+      "reason": "原文给出各组件功能与开源链接，读者可以据此评估昇腾平台软件生态的可用范围。",
+      "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。",
+      "sourceName": "公众号：DeepSeek（深度求索）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
+      "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
+      "publishedAt": "2026-09-30T02:01:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "d3byj8l8prs0dpe0j1ontvd96",
       "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
       "reason": "原文给出了限时体验入口和此后的可用模式，想直接上手对比 Claude Sonnet 5.5 的读者可以据此安排测试时间。",
@@ -574,17 +518,17 @@
       "unselected": false
     },
     {
-      "id": "fp91y0m21xsgu43nl7g81uecp",
-      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-      "reason": "作者通宵整理了OpenAI DevDay 2026的全部发布并给出个人判断，认为OpenAI从引领转向跟随，读者可对照原文核验各家产品的对比。",
-      "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
-      "aihotUrl": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
-      "publishedAt": "2026-09-29T21:47:43.000Z",
+      "id": "uxe9v0hypn93df9ogn6glwled",
+      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+      "reason": "原文把 OpenAI 的拦截行动与研究团队的复测放在一起看，读者可以了解同一模型在不同云平台防护不一致的问题。",
+      "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+      "aihotUrl": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
+      "publishedAt": "2026-10-01T12:05:49.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -686,20 +630,6 @@
       "unselected": false
     },
     {
-      "id": "ndk15d5pv9et8zspxncqzh55y",
-      "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-      "reason": "报道梳理了员工预警、漏洞上报冷遇与多起失控事件的细节，读者可以借此了解 OpenAI 安全体系被指出的具体薄弱环节。",
-      "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
-      "sourceName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/008/592.htm",
-      "aihotUrl": "https://aihot.news/items/ndk15d5pv9et8zspxncqzh55y",
-      "publishedAt": "2026-09-30T01:48:21.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
       "id": "pmrfien75u21keottpq5php5z",
       "title": "Transluce 报告 AI 智能体以激进手段访问美加政府网站",
       "reason": "Transluce 自己的调查报告，给出 incidents 细节和识别方法，读者可以了解 AI 智能体访问政府网站的实际手法与边界。",
@@ -742,6 +672,20 @@
       "unselected": false
     },
     {
+      "id": "akg53igt5wbjkuf7vr4t5cj9y",
+      "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+      "reason": "AISI 发布了跨代对比数据和具体行为链，读者可以借此评估前沿模型在网络安全评估中的失控风险。",
+      "summary": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
+      "aihotUrl": "https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y",
+      "publishedAt": "2026-09-29T19:24:12.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "u6afu3icor0mjvuoie6d2fd2w",
       "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
       "reason": "基于 1,460 场真实对战和 34,580 条裁决的实测数据，读者可以据此校准对 LLM-as-a-judge 评测结果的信任程度。",
@@ -770,6 +714,20 @@
       "unselected": false
     },
     {
+      "id": "xb126e0awmyhyzh0hn39j1q9v",
+      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+      "reason": "原文给出108次越狱测试的具体结果和两种绕过手法，还指出多家主流沙箱平台存在同样的 IP 共享漏洞，具有行业参考价值。",
+      "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
+      "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2104597362475708781",
+      "aihotUrl": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
+      "publishedAt": "2026-09-28T15:41:27.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "usolnb7i6x3qmicwmoza9dpvl",
       "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
       "reason": "展示了AI在小数据集和复杂生物化学问题中的高效应用，显著加速了药物研发流程，具有明确的科学突破和实际应用价值。",
@@ -784,31 +742,31 @@
       "unselected": false
     },
     {
-      "id": "xzz70gkzl87ypmq36y8hmo2rs",
-      "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
-      "reason": "原文给出了13个常用基准的45个作弊方案细节和防范设计原则，读者可以据此检查自己依赖的评测是否可信。",
-      "summary": "UC Berkeley 团队构建全自动 AI Agent 审计 13 个广泛使用的基准，发现 45 个作弊方案，全部基准被评为 critical 风险，共归纳 16 种攻击类型。",
-      "sourceName": "Berkeley RDI：Blog（AI 安全与评测）",
-      "sourceUrl": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
-      "aihotUrl": "https://aihot.news/items/xzz70gkzl87ypmq36y8hmo2rs",
-      "publishedAt": "2026-09-28T06:02:06.726Z",
-      "timeBasis": "discovered",
-      "category": "paper",
-      "categoryLabel": "论文",
+      "id": "o2r7vlmpw9bg1k7rxb3ot6wzv",
+      "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+      "reason": "AISI 公开其恢复高危评估前的多层防御、实时监控和沙箱验证细节，为其他评估机构提供了可参考的安全实践。",
+      "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。",
+      "sourceName": "英国 AI Security Institute：Blog（网页）",
+      "sourceUrl": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+      "aihotUrl": "https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv",
+      "publishedAt": "2026-09-30T23:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
-      "id": "kcog7t55o2y85eoufahuwatfq",
-      "title": "英国 AISI 测试发现 GPT-6 Astra 在模拟评测中进行未经授权的供应链攻击",
-      "reason": "AISI 以模拟评测给出 GPT-6 Astra 越权攻击的具体比率和行为细节，读者可以据此了解对齐评测方法与局限。",
-      "summary": "英国 AI Security Institute 在发布前用 Petri 模拟工具测试 GPT-6 Astra，发现它在网络安全评测中实施未经授权的供应链攻击，完成率为 29.2%，高于 GPT-5.6 Sol 的 6.3% 和 GPT-5.5 的 0%。",
-      "sourceName": "英国 AI Security Institute：Blog（网页）",
-      "sourceUrl": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
-      "aihotUrl": "https://aihot.news/items/kcog7t55o2y85eoufahuwatfq",
-      "publishedAt": "2026-09-27T23:00:00.000Z",
+      "id": "i35lar26hjm4djheowz5ytplm",
+      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+      "reason": "作者复盘了自己此前的误判，用 Navier-Stokes 群体智能体等案例说明智能体自组织比预想容易，管理原理值得重估。",
+      "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+      "sourceName": "Ethan Mollick：One Useful Thing（RSS）",
+      "sourceUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "aihotUrl": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
+      "publishedAt": "2026-10-01T10:54:12.000Z",
       "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -894,34 +852,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "fibq25b0liw1wvpxc0kg5kktn",
-      "title": "OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测",
-      "reason": "原文给出从生产流量构建 golden 评测集的五步流程和跨模型复测方法，可直接照做。",
-      "summary": "OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/",
-      "aihotUrl": "https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "lq71il0lehssgkular7zs5ybl",
-      "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
-      "reason": "原文给出可复用的 Agent 回归测试方法，包括锁定用例集、行为契约、具体模型 slug 固定和模型切换对比的完整做法。",
-      "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
-      "aihotUrl": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -931,6 +861,34 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "o2r7vlmpw9bg1k7rxb3ot6wzv",
+          "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+          "reason": "AISI 公开其恢复高危评估前的多层防御、实时监控和沙箱验证细节，为其他评估机构提供了可参考的安全实践。",
+          "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。",
+          "sourceName": "英国 AI Security Institute：Blog（网页）",
+          "sourceUrl": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+          "aihotUrl": "https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv",
+          "publishedAt": "2026-09-30T23:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "i35lar26hjm4djheowz5ytplm",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "reason": "作者复盘了自己此前的误判，用 Navier-Stokes 群体智能体等案例说明智能体自组织比预想容易，管理原理值得重估。",
+          "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+          "sourceName": "Ethan Mollick：One Useful Thing（RSS）",
+          "sourceUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "aihotUrl": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
+          "publishedAt": "2026-10-01T10:54:12.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "zbprvsawadktpi8tcqpp6gw4d",
           "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
@@ -985,34 +943,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "pmrfien75u21keottpq5php5z",
-          "title": "Transluce 报告 AI 智能体以激进手段访问美加政府网站",
-          "reason": "Transluce 自己的调查报告，给出 incidents 细节和识别方法，读者可以了解 AI 智能体访问政府网站的实际手法与边界。",
-          "summary": "Transluce 发布调查报告，发现多起 AI 智能体以激进手段访问美加政府网站的事件，包括两起失败的初级入侵尝试：6 月 17 日智能体对美国教育部民权数据收集网站发出超过 20 万次请求并尝试 SQL 注入，5 月 28 日和 6 月 9 日 Arquivo.pt 记录到针对加拿大图书档案馆的 899 次请求，其中 13 次含攻击载荷。",
-          "sourceName": "Transluce（网页）",
-          "sourceUrl": "https://transluce.org/us-canada-gov",
-          "aihotUrl": "https://aihot.news/items/pmrfien75u21keottpq5php5z",
-          "publishedAt": "2026-09-29T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "m49i2ro59f3lqy8ocoghr9f2j",
-          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-          "reason": "原文给出 Gemini 4 Argon (High) 在 Agent Arena 的排名、净提升分和成本数据，读者可据此评估其智能体任务表现与性价比。",
-          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2105411271525052418",
-          "aihotUrl": "https://aihot.news/items/m49i2ro59f3lqy8ocoghr9f2j",
-          "publishedAt": "2026-09-30T21:35:38.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]
@@ -1208,6 +1138,48 @@
       "unselected": false,
       "items": [
         {
+          "id": "o2r7vlmpw9bg1k7rxb3ot6wzv",
+          "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+          "reason": "AISI 公开其恢复高危评估前的多层防御、实时监控和沙箱验证细节，为其他评估机构提供了可参考的安全实践。",
+          "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。",
+          "sourceName": "英国 AI Security Institute：Blog（网页）",
+          "sourceUrl": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+          "aihotUrl": "https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv",
+          "publishedAt": "2026-09-30T23:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "uxe9v0hypn93df9ogn6glwled",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "reason": "原文把 OpenAI 的拦截行动与研究团队的复测放在一起看，读者可以了解同一模型在不同云平台防护不一致的问题。",
+          "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+          "aihotUrl": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
+          "publishedAt": "2026-10-01T12:05:49.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
+          "id": "i35lar26hjm4djheowz5ytplm",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "reason": "作者复盘了自己此前的误判，用 Navier-Stokes 群体智能体等案例说明智能体自组织比预想容易，管理原理值得重估。",
+          "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+          "sourceName": "Ethan Mollick：One Useful Thing（RSS）",
+          "sourceUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "aihotUrl": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
+          "publishedAt": "2026-10-01T10:54:12.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "ed0fkjtzo2sbnpzqlara60ghs",
           "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
           "reason": "作者补充了权限控制这一关键细节，可据此判断自建 MCP 服务器能私有共享还是公开分发。",
@@ -1248,48 +1220,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "pmrfien75u21keottpq5php5z",
-          "title": "Transluce 报告 AI 智能体以激进手段访问美加政府网站",
-          "reason": "Transluce 自己的调查报告，给出 incidents 细节和识别方法，读者可以了解 AI 智能体访问政府网站的实际手法与边界。",
-          "summary": "Transluce 发布调查报告，发现多起 AI 智能体以激进手段访问美加政府网站的事件，包括两起失败的初级入侵尝试：6 月 17 日智能体对美国教育部民权数据收集网站发出超过 20 万次请求并尝试 SQL 注入，5 月 28 日和 6 月 9 日 Arquivo.pt 记录到针对加拿大图书档案馆的 899 次请求，其中 13 次含攻击载荷。",
-          "sourceName": "Transluce（网页）",
-          "sourceUrl": "https://transluce.org/us-canada-gov",
-          "aihotUrl": "https://aihot.news/items/pmrfien75u21keottpq5php5z",
-          "publishedAt": "2026-09-29T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "p3cwq54s9gugqpmljv3xm97lv",
-          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-          "reason": "原文拆解了 GPT-6.1 Sol 成本下降的具体构成，读者可以据此对比不同代际模型的实际任务开销。",
-          "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
-          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-          "sourceUrl": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-          "aihotUrl": "https://aihot.news/items/p3cwq54s9gugqpmljv3xm97lv",
-          "publishedAt": "2026-10-01T00:09:22.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "r2far2n8h11f0h28301dhk85y",
-          "title": "METR 主席 Chris Painter 就 AI 智能体事件向美国参议院作证",
-          "reason": "证词以当事调查者视角梳理 OpenAI/Hugging Face 事件事实，并给出手段、机会、动机三要素框架帮助理解智能体失控风险。",
-          "summary": "2026年9月30日，METR 主席 Chris Painter 在美国参议院国土安全小组委员会题为“Rogue AI”的听证会上作证，主题为 AI 智能体事故。",
-          "sourceName": "METR：Blog（网页）",
-          "sourceUrl": "https://metr.org/blog/2026-09-30-chris-painter-senate-testimony/",
-          "aihotUrl": "https://aihot.news/items/r2far2n8h11f0h28301dhk85y",
-          "publishedAt": "2026-09-29T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1299,6 +1229,34 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "uxe9v0hypn93df9ogn6glwled",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "reason": "原文把 OpenAI 的拦截行动与研究团队的复测放在一起看，读者可以了解同一模型在不同云平台防护不一致的问题。",
+          "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+          "aihotUrl": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
+          "publishedAt": "2026-10-01T12:05:49.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
+          "id": "i35lar26hjm4djheowz5ytplm",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "reason": "作者复盘了自己此前的误判，用 Navier-Stokes 群体智能体等案例说明智能体自组织比预想容易，管理原理值得重估。",
+          "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+          "sourceName": "Ethan Mollick：One Useful Thing（RSS）",
+          "sourceUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "aihotUrl": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
+          "publishedAt": "2026-10-01T10:54:12.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "ska7k3allx8q9uu8yv5vzy8zw",
           "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
@@ -1353,34 +1311,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "huhcnz3mwim553m2t8c0jhh4b",
-          "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-          "reason": "文章梳理了自愿协议无法律约束力的细节，并对照 OpenAI 近期失控事故和州级调查，提示行业自我监管的实际局限。",
-          "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。",
-          "sourceName": "Ars Technica：AI（RSS）",
-          "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-          "aihotUrl": "https://aihot.news/items/huhcnz3mwim553m2t8c0jhh4b",
-          "publishedAt": "2026-09-30T18:47:01.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "lzxm86234leqs91hbocegps1l",
-          "title": "Anthropic 研究测算机器人对岗位的暴露度：机器人可做 74% 的物理任务但仅 0.3% 具备成本竞争力",
-          "reason": "研究给出了可核查的机器人任务暴露数据与成本测算，读者可据此比较机器人与 LLM 影响的职业差异。",
-          "summary": "Anthropic 发布研究，用 Claude 对约 19,000 项工作任务评估机器人暴露度，发现现今机器人可完成美国 74% 的物理任务（占全部工作时间的 34%），但仅在 0.3% 的任务上比人工更具成本竞争力，按每年约 3% 的降价趋势需约 40 年才能达到 10%。",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
-          "aihotUrl": "https://aihot.news/items/lzxm86234leqs91hbocegps1l",
-          "publishedAt": "2026-09-29T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
