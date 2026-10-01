@@ -1,7 +1,7 @@
 {
   "date": "2026年10月2日",
   "demo": false,
-  "updatedAt": "2026-10-01T16:32:38.898Z",
+  "updatedAt": "2026-10-01T21:15:58.236Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 378,
-    "latestCount": 9,
+    "received": 341,
+    "latestCount": 7,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 5,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -56,8 +56,8 @@
         "group": "产品与工程",
         "focus": "AI 工程与开发者生态",
         "url": "https://x.com/swyx",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "simonw",
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -101,7 +101,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 5,
+        "matched": 8,
         "status": "本次收录"
       },
       {
@@ -137,17 +137,17 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-ed0fkjtzo2sbnpzqlara60ghs",
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "brief": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
-      "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
+      "id": "aihot-yhf2pbk7kpr5yh11jru3qay35",
+      "title": "OpenAI dots 演示 WiFi 升级",
+      "brief": "这 WiFi 真是绝了 （引用推文 @OpenAIDevs：dots 演示。",
+      "summary": "这 WiFi 真是绝了 （引用推文 @OpenAIDevs：dots 演示。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -156,19 +156,19 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
-      "aggregateUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
+      "sourceUrl": "https://x.com/thsottiaux/status/2105718728658993153",
+      "aggregateUrl": "https://aihot.news/items/yhf2pbk7kpr5yh11jru3qay35",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T04:44:34.000Z",
+      "publishedAt": "2026-10-01T17:57:21.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "产品动态",
@@ -181,59 +181,22 @@
       }
     },
     {
-      "id": "aihot-r4xhhl7abz7eo72s5no7vktar",
-      "title": "硬件工程平台 Flow 完成 5000 万美元 B 轮融资，估值 7.5 亿美元",
-      "brief": "Flow 完成 5000 万美元 B 轮融资，估值 7.5 亿美元，由 Antonio Gracias（Valor）与 Gavin Baker（Atreides）联合领投，Sequoia Capital、Roelof Botha（SpaceX, Block）等参投。",
-      "summary": "Flow 完成 5000 万美元 B 轮融资，估值 7.5 亿美元，由 Antonio Gracias（Valor）与 Gavin Baker（Atreides）联合领投，Sequoia Capital、Roelof Botha（SpaceX, Block）等参投。",
-      "category": "行业观察",
+      "id": "aihot-m8pv5s5oiisce2ufan4hfklqk",
+      "title": "模型自认属GPT家族引疑问",
+      "brief": "我有很多疑问 @baggiiiie：至少我们知道它认为自己是gpt家族的一员 而且不知怎么的还一度以为是coderabbit 😆",
+      "summary": "我有很多疑问 @baggiiiie：至少我们知道它认为自己是gpt家族的一员 而且不知怎么的还一度以为是coderabbit 😆",
+      "category": "模型进展",
       "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "swyx",
-      "sourceGroup": "产品与工程",
-      "sourceName": "swyx · @swyx",
-      "feedName": "X：swyx (@swyx)",
-      "sourceUrl": "https://x.com/swyx/status/2105348724331606411",
-      "aggregateUrl": "https://aihot.news/items/r4xhhl7abz7eo72s5no7vktar",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-30T17:27:06.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "swyx",
-            "asset": "/assets/identities/swyx.jpg",
-            "assetSource": "https://x.com/swyx",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "行业观察",
-        "author": {
-          "name": "swyx",
-          "asset": "/assets/identities/swyx.jpg",
-          "assetSource": "https://x.com/swyx",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-o13kz8p4ahnwbum0bez67fgl6",
-      "title": "OpenClaw 调整智能体通信显示",
-      "brief": "我越来越觉得聊天流里的智能体间通信很烦人。",
-      "summary": "我越来越觉得聊天流里的智能体间通信很烦人。",
-      "category": "实践与观点",
-      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "steipete",
       "sourceGroup": "产品与工程",
       "sourceName": "Peter Steinberger · @steipete",
       "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2105362785534361996",
-      "aggregateUrl": "https://aihot.news/items/o13kz8p4ahnwbum0bez67fgl6",
+      "sourceUrl": "https://x.com/steipete/status/2105728299255415134",
+      "aggregateUrl": "https://aihot.news/items/m8pv5s5oiisce2ufan4hfklqk",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-30T18:22:58.000Z",
+      "publishedAt": "2026-10-01T18:35:23.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -245,7 +208,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "模型进展",
         "author": {
           "name": "Peter Steinberger",
           "asset": "/assets/identities/steipete.png",
@@ -292,22 +255,22 @@
       }
     },
     {
-      "id": "aihot-kka20fepzhkgtsvmx78quqiv5",
-      "title": "AI 自组织能力与 Muse、Dots 智能体",
-      "brief": "我写了一篇关于 AI 进步中最被我低估的一点：它自我组织以完成任务的能力。",
-      "summary": "我写了一篇关于 AI 进步中最被我低估的一点：它自我组织以完成任务的能力。",
+      "id": "aihot-awq44r0juvnofi4jn329yb68c",
+      "title": "AI 让 PowerPoint 演示体验变好",
+      "brief": "自从有了好用的 AI，坐着听 PowerPoint 演示变得好多了。",
+      "summary": "自从有了好用的 AI，坐着听 PowerPoint 演示变得好多了。",
       "category": "实践与观点",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "emollick",
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2105618164944146786",
-      "aggregateUrl": "https://aihot.news/items/kka20fepzhkgtsvmx78quqiv5",
+      "sourceUrl": "https://x.com/emollick/status/2105706777832767984",
+      "aggregateUrl": "https://aihot.news/items/awq44r0juvnofi4jn329yb68c",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T11:17:45.000Z",
+      "publishedAt": "2026-10-01T17:09:52.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -329,11 +292,11 @@
       }
     },
     {
-      "id": "aihot-yp764usyntmj190k8hc6afqxt",
-      "title": "Meta 等提出 Context Language Models：让模型用 Bash 自主管理上下文",
-      "brief": "Meta 等机构发布论文提出 Context Language Models（CLM），将上下文作为可读写的文件让模型用 Bash 自主编辑，决定保留、重写或删除内容。",
-      "summary": "Meta 等机构发布论文提出 Context Language Models（CLM），将上下文作为可读写的文件让模型用 Bash 自主编辑，决定保留、重写或删除内容。",
-      "category": "研究进展",
+      "id": "aihot-itvf4h6zsg29xhioa5lpo3l2o",
+      "title": "Onepin 为 AI 语音加质检层",
+      "brief": "我认为 AI 语音缺少一层质量检查。",
+      "summary": "我认为 AI 语音缺少一层质量检查。",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -341,10 +304,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2105690460429996366",
-      "aggregateUrl": "https://aihot.news/items/yp764usyntmj190k8hc6afqxt",
+      "sourceUrl": "https://x.com/omarsar0/status/2105736578673033564",
+      "aggregateUrl": "https://aihot.news/items/itvf4h6zsg29xhioa5lpo3l2o",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T16:05:02.000Z",
+      "publishedAt": "2026-10-01T19:08:17.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -356,7 +319,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "研究进展",
+        "caption": "实践与观点",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -403,11 +366,11 @@
       }
     },
     {
-      "id": "aihot-ifk2yfaui3exci8klx220qsxs",
-      "title": "Perplexity Computer 集成 Seedance",
-      "brief": "Computer 里的 Seedance 对营销和品牌团队来说相当惊艳！",
-      "summary": "Computer 里的 Seedance 对营销和品牌团队来说相当惊艳！",
-      "category": "实践与观点",
+      "id": "aihot-smgs03cbw68rel1fb7sxi6pkn",
+      "title": "Perplexity 开源多模态决策模型 pplx-decider-v1-27b 并推出 Decisions API",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布开源其多模态决策模型 pplx-decider-v1-27b，并通过 Decisions API 提供。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布开源其多模态决策模型 pplx-decider-v1-27b，并通过 Decisions API 提供。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -415,10 +378,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2105679959453032810",
-      "aggregateUrl": "https://aihot.news/items/ifk2yfaui3exci8klx220qsxs",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2105726953554927677",
+      "aggregateUrl": "https://aihot.news/items/smgs03cbw68rel1fb7sxi6pkn",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T15:23:18.000Z",
+      "publishedAt": "2026-10-01T18:30:02.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -430,48 +393,11 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-q3nl110ralxp3n5em469z63d6",
-      "title": "Hugging Face 联手 OS4Science 资助科研开源库维护者",
-      "brief": "ESM-2 于 2022 年发布。",
-      "summary": "ESM-2 于 2022 年发布。",
-      "category": "行业观察",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "Thom_Wolf",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Thomas Wolf · @Thom_Wolf",
-      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2105341455245996398",
-      "aggregateUrl": "https://aihot.news/items/q3nl110ralxp3n5em469z63d6",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-09-30T16:58:12.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
-          }
-        ],
-        "caption": "行业观察",
-        "author": {
-          "name": "Thomas Wolf",
-          "asset": "/assets/identities/thom_wolf.jpg",
-          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
@@ -524,8 +450,8 @@
       "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
       "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
       "sourceCount": 17,
-      "participantCount": 104,
-      "latestAt": "2026-10-01T15:30:00.000Z",
+      "participantCount": 105,
+      "latestAt": "2026-10-01T16:26:41.000Z",
       "expanded": true,
       "latest": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
       "reports": [
@@ -573,8 +499,8 @@
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
       "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
-      "sourceCount": 15,
-      "participantCount": 84,
+      "sourceCount": 6,
+      "participantCount": 51,
       "latestAt": "2026-10-01T15:02:44.000Z",
       "expanded": true,
       "latest": "Artificial Analysis 评测：GPT-6.1 Sol 推进 OpenAI 模型成本效率前沿",
@@ -636,9 +562,9 @@
       "sourceUrl": "https://openai.com/index/introducing-dots/",
       "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
       "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
-      "sourceCount": 10,
-      "participantCount": 82,
-      "latestAt": "2026-10-01T15:19:19.000Z",
+      "sourceCount": 2,
+      "participantCount": 51,
+      "latestAt": "2026-10-01T19:15:44.000Z",
       "expanded": true,
       "latest": "OpenAI DevDay 发布智能体 Dots，正面竞争 Meta 的免费方案 Muse",
       "reports": [
@@ -721,6 +647,34 @@
     },
     {
       "rank": 5,
+      "id": "deivg466iwv9ypddacud3hd7d",
+      "title": "Google DeepMind发布SynthID Bio蛋白质水印技术",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "aihotUrl": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+      "storyUrl": "https://aihot.news/story/eb54737e-789a-4e7c-848c-63c1c5ef1497",
+      "sourceCount": 3,
+      "participantCount": 15,
+      "latestAt": "2026-10-01T17:11:05.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "nhob7mih29e0owj7ay28t7fvw",
       "title": "FTC加大对AI实验室调查力度",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -741,34 +695,6 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 6,
-      "id": "deivg466iwv9ypddacud3hd7d",
-      "title": "Google DeepMind发布SynthID Bio蛋白质水印技术",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "aihotUrl": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
-      "storyUrl": "https://aihot.news/story/eb54737e-789a-4e7c-848c-63c1c5ef1497",
-      "sourceCount": 3,
-      "participantCount": 14,
-      "latestAt": "2026-10-01T14:38:23.386Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",
@@ -805,6 +731,34 @@
     },
     {
       "rank": 8,
+      "id": "e7763j3shkmk8j0rorefsy4gn",
+      "title": "Tavus发布Griffin视频交互模型",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
+      "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
+      "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
+      "sourceCount": 5,
+      "participantCount": 9,
+      "latestAt": "2026-10-01T18:44:33.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "qw3a6btvwdalftejp20ccxjb3",
       "title": "DeepSeek开源华为昇腾平台基础设施组件",
       "sourceName": "公众号：DeepSeek（深度求索）",
@@ -832,15 +786,15 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "cmu9jwllp040mrogngntwk2d7",
       "title": "特朗普推动AI改名并筹建AI Force",
       "sourceName": "IT之家（RSS）",
       "sourceUrl": "https://www.ithome.com/1/004/829.htm",
       "aihotUrl": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
       "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f",
-      "sourceCount": 2,
-      "participantCount": 22,
+      "sourceCount": 1,
+      "participantCount": 19,
       "latestAt": "2026-10-01T09:09:01.000Z",
       "expanded": false,
       "latest": "",
@@ -850,34 +804,6 @@
         "entities": [
           {
             "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "fr7dgcpa02ssu37g9fsmj5q9n",
-      "title": "白宫《超级智能协议》签署与四层保障",
-      "sourceName": "X：Jensen Huang (@JensenHuang)",
-      "sourceUrl": "https://x.com/JensenHuang/status/2105348324484342238",
-      "aihotUrl": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
-      "storyUrl": "https://aihot.news/story/80e77dd3-3d31-4f59-a08a-db3ec9de3a57",
-      "sourceCount": 7,
-      "participantCount": 20,
-      "latestAt": "2026-10-01T11:13:01.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Jensen Huang (@JensenHuang)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
