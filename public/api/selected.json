@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-02T12:50:00.309Z",
+  "checkedAt": "2026-10-02T18:04:45.601Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,62 @@
     }
   ],
   "today": [
+    {
+      "id": "cw97qi7nc5ucehymkc1k9s6zk",
+      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+      "reason": "原文系统给出 GPT-6 家族的选型、缓存成本、长任务管理等可操作方法，读者可直接迁移到自己的生产工作流。",
+      "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+      "aihotUrl": "https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "zfrloexd1672w3tse0utp4jgb",
+      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+      "reason": "原文来自 Google 官方，说明了基于 TEE 的联邦学习系统如何提供可验证的隐私保证，以及 Gboard 训练提速的实际收益。",
+      "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。",
+      "sourceName": "Google Research：Blog（网页）",
+      "sourceUrl": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "aihotUrl": "https://aihot.news/items/zfrloexd1672w3tse0utp4jgb",
+      "publishedAt": "2026-10-02T16:15:20.428Z",
+      "timeBasis": "discovered",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "l7mkdees7p8apb7stdidl4p3i",
+      "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
+      "reason": "原文给出训练数据构成、过滤方法与速度成本对比，读者可据此判断开源科学报告模型的具体做法是否可迁移。",
+      "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
+      "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+      "sourceUrl": "https://allenai.org/blog/astabrief",
+      "aihotUrl": "https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "epb245so8hb7m1r74gumw2dze",
+      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+      "reason": "官方公告给出64GB版的价格、上市时间和双机集群性能数据，读者可以据此评估本地AI部署的内存与成本取舍。",
+      "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+      "sourceName": "NVIDIA Blog（RSS）",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+      "publishedAt": "2026-10-02T13:00:39.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "nab0yosxdtyh7sbvoo0usb1iq",
       "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
@@ -110,14 +166,14 @@
       "unselected": false
     },
     {
-      "id": "fe27jbwrn6gfzym6j9q179auw",
-      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-      "reason": "原文系统梳理了轨道 TPU 试验的负载、散热、辐射测试与扩展路线，读者可据此了解太空算力的真实瓶颈。",
-      "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "aihotUrl": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
-      "publishedAt": "2026-10-02T00:44:40.000Z",
+      "id": "ljyywltag6vvryw193ryz7lgd",
+      "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+      "reason": "原文给出原型卫星、合作方和任务目的，读者可以了解 Google 太空算力设想的当前进展与验证路径。",
+      "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。",
+      "sourceName": "X：Google AI (@GoogleAI)",
+      "sourceUrl": "https://x.com/GoogleAI/status/2106049984164463069",
+      "aihotUrl": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd",
+      "publishedAt": "2026-10-02T15:53:39.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -262,93 +318,23 @@
       "category": "ai-products",
       "categoryLabel": "产品",
       "unselected": false
-    },
+    }
+  ],
+  "week": [
     {
-      "id": "sbvvdrkyjbtob4gp4iwwtyar1",
-      "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-      "reason": "教程从空文件夹完整构建一个 mods 插件，并给出事件链、状态保持和热重载等可直接复用的实践要点。",
-      "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
-      "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "sourceUrl": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
-      "aihotUrl": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1",
-      "publishedAt": "2026-10-01T12:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "t6jf7f9e5zbw4sxftwim9wgk7",
-      "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
-      "reason": "作者用自己 Open SWE 的 A/B 数据讲清路由如何省 64% 成本且质量不降，步骤可直接迁移到其他 Agent。",
-      "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
-      "sourceName": "LangChain：Blog（RSS）",
-      "sourceUrl": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
-      "aihotUrl": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7",
-      "publishedAt": "2026-10-01T17:01:32.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "v7l0ugdbh3e8vd157y32mbyby",
-      "title": "物理学者 Matthew Schwartz 分享用 Claude 与 BootLoops 做跨学科计算的经验",
-      "reason": "作者结合自身跨学科项目，说明如何让 Claude 承接适合其能力的问题，并总结了与专家协作及规避模型失败模式的经验。",
-      "summary": "哈佛物理学者 Matthew Schwartz 在 Anthropic 客座文章中提出寻找 Claude-shaped 问题，并开源了用于定量科学精确计算的 BootLoops 工具包。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/claude-shaped-science",
-      "aihotUrl": "https://aihot.news/items/v7l0ugdbh3e8vd157y32mbyby",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "i7z2cbcv93tg62amct88wqo3f",
-      "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
-      "reason": "原文给出 Claude Sonnet 5.5 xHigh 的具体榜单分数与分项排名，读者可以据此比较它与 GPT-6 Astra 的性价比位置。",
-      "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2105702037849841954",
-      "aihotUrl": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f",
-      "publishedAt": "2026-10-01T16:51:02.000Z",
+      "id": "l7mkdees7p8apb7stdidl4p3i",
+      "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
+      "reason": "原文给出训练数据构成、过滤方法与速度成本对比，读者可据此判断开源科学报告模型的具体做法是否可迁移。",
+      "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
+      "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+      "sourceUrl": "https://allenai.org/blog/astabrief",
+      "aihotUrl": "https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
     },
-    {
-      "id": "o2r7vlmpw9bg1k7rxb3ot6wzv",
-      "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
-      "reason": "AISI 公开其恢复高危评估前的多层防御、实时监控和沙箱验证细节，为其他评估机构提供了可参考的安全实践。",
-      "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。",
-      "sourceName": "英国 AI Security Institute：Blog（网页）",
-      "sourceUrl": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
-      "aihotUrl": "https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv",
-      "publishedAt": "2026-09-30T23:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "uxe9v0hypn93df9ogn6glwled",
-      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
-      "reason": "原文把 OpenAI 的拦截行动与研究团队的复测放在一起看，读者可以了解同一模型在不同云平台防护不一致的问题。",
-      "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
-      "aihotUrl": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
-      "publishedAt": "2026-10-01T12:05:49.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    }
-  ],
-  "week": [
     {
       "id": "jhshh53c18f71tkzk44izbs25",
       "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
@@ -448,17 +434,31 @@
       "unselected": false
     },
     {
-      "id": "thdata2aa7ex9kgzv72mk4kn3",
-      "title": "Artificial Analysis 评测 Gemini 4 Argon：Google 重回智能前三梯队",
-      "reason": "评测方给出与竞品的价格和智能指数对比，读者可据此评估 Google 新模型在成本与智能上的真实位置。",
-      "summary": "Artificial Analysis 评测 Google DeepMind 的 Gemini 4 Argon，其高推理档在 Artificial Analysis Intelligence Index 得分 53，追平 GPT-6 Astra (max)、领先 GPT-6.1 Sol (max) 1 分。",
-      "sourceName": "Artificial Analysis 完整文章（网页）",
-      "sourceUrl": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs",
-      "aihotUrl": "https://aihot.news/items/thdata2aa7ex9kgzv72mk4kn3",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
+      "id": "zfrloexd1672w3tse0utp4jgb",
+      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+      "reason": "原文来自 Google 官方，说明了基于 TEE 的联邦学习系统如何提供可验证的隐私保证，以及 Gboard 训练提速的实际收益。",
+      "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。",
+      "sourceName": "Google Research：Blog（网页）",
+      "sourceUrl": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "aihotUrl": "https://aihot.news/items/zfrloexd1672w3tse0utp4jgb",
+      "publishedAt": "2026-10-02T16:15:20.428Z",
+      "timeBasis": "discovered",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "epb245so8hb7m1r74gumw2dze",
+      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+      "reason": "官方公告给出64GB版的价格、上市时间和双机集群性能数据，读者可以据此评估本地AI部署的内存与成本取舍。",
+      "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+      "sourceName": "NVIDIA Blog（RSS）",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+      "publishedAt": "2026-10-02T13:00:39.000Z",
       "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
+      "category": "ai-products",
+      "categoryLabel": "产品",
       "unselected": false
     },
     {
@@ -546,34 +546,6 @@
       "unselected": false
     },
     {
-      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-      "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
-      "reason": "原文给出 mods 的事件机制、安全限制和企业管控细节，开发者可据此决定是否用它定制自己的 Claude Code 工作流。",
-      "summary": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数，可挂接到 Claude Code 的事件流，改写提示词、拦截或重试工具调用、审批权限请求并添加新 UI，随插件安装和分享。",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-code-mods",
-      "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "zbprvsawadktpi8tcqpp6gw4d",
-      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-      "reason": "官方宣布多节点集群正式可用，文中解释了 gang scheduler 与 RDMA 的实现细节，并给出 Decagon、1x、Runway 的实际用法。",
-      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-      "sourceName": "Modal 官方工程博客（RSS）",
-      "sourceUrl": "https://modal.com/blog/modal-clusters-generally-available",
-      "aihotUrl": "https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d",
-      "publishedAt": "2026-10-01T07:38:41.607Z",
-      "timeBasis": "discovered",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
       "id": "nab0yosxdtyh7sbvoo0usb1iq",
       "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
       "reason": "原文梳理了 Anthropic 上市时间线和 OpenAI 的相反选择，读者可以对照两家头部 AI 公司的资本路径差异。",
@@ -602,14 +574,14 @@
       "unselected": false
     },
     {
-      "id": "fe27jbwrn6gfzym6j9q179auw",
-      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-      "reason": "原文系统梳理了轨道 TPU 试验的负载、散热、辐射测试与扩展路线，读者可据此了解太空算力的真实瓶颈。",
-      "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "aihotUrl": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
-      "publishedAt": "2026-10-02T00:44:40.000Z",
+      "id": "ljyywltag6vvryw193ryz7lgd",
+      "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+      "reason": "原文给出原型卫星、合作方和任务目的，读者可以了解 Google 太空算力设想的当前进展与验证路径。",
+      "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。",
+      "sourceName": "X：Google AI (@GoogleAI)",
+      "sourceUrl": "https://x.com/GoogleAI/status/2106049984164463069",
+      "aihotUrl": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd",
+      "publishedAt": "2026-10-02T15:53:39.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -798,6 +770,20 @@
       "unselected": false
     },
     {
+      "id": "cw97qi7nc5ucehymkc1k9s6zk",
+      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+      "reason": "原文系统给出 GPT-6 家族的选型、缓存成本、长任务管理等可操作方法，读者可直接迁移到自己的生产工作流。",
+      "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+      "aihotUrl": "https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "rn5q4m7qlqukq9q8g4ne975lj",
       "title": "Manus 分享视频生成与时间线编辑工作流",
       "reason": "作者结合真实项目，介绍从导入素材、转录和编排初剪，到逐轨调整字幕、画面与音频的工作流，读者可将这些方法用于自己的视频制作。",
@@ -894,20 +880,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "v6j23p9krwwoxqvk05d9n0bfz",
-      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-      "reason": "原文给出可复用的三步选型方法，读者可以据此按任务质量门槛测量并选出成本最低的够用模型。",
-      "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/",
-      "aihotUrl": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -917,6 +889,48 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "cw97qi7nc5ucehymkc1k9s6zk",
+          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+          "reason": "原文系统给出 GPT-6 家族的选型、缓存成本、长任务管理等可操作方法，读者可直接迁移到自己的生产工作流。",
+          "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+          "aihotUrl": "https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk",
+          "publishedAt": "2026-10-02T16:15:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "l7mkdees7p8apb7stdidl4p3i",
+          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
+          "reason": "原文给出训练数据构成、过滤方法与速度成本对比，读者可据此判断开源科学报告模型的具体做法是否可迁移。",
+          "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
+          "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+          "sourceUrl": "https://allenai.org/blog/astabrief",
+          "aihotUrl": "https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i",
+          "publishedAt": "2026-10-02T08:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
+          "id": "epb245so8hb7m1r74gumw2dze",
+          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+          "reason": "官方公告给出64GB版的价格、上市时间和双机集群性能数据，读者可以据此评估本地AI部署的内存与成本取舍。",
+          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+          "sourceName": "NVIDIA Blog（RSS）",
+          "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+          "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+          "publishedAt": "2026-10-02T13:00:39.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "rn5q4m7qlqukq9q8g4ne975lj",
           "title": "Manus 分享视频生成与时间线编辑工作流",
@@ -958,48 +972,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "rp0ocer4fughonyd9ddfr3r8i",
-          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-          "reason": "原文给出 Ultrafast 模式相对 Astra Standard 的 8x 生成提速及其对 agent 开发工作流的影响，并说明开放范围和入口。",
-          "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-          "sourceName": "NVIDIA Blog（RSS）",
-          "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-          "aihotUrl": "https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i",
-          "publishedAt": "2026-10-01T23:44:13.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "iw7ix94rgvhp2jgamykh261gl",
-          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "reason": "文章梳理了加州检察长传票、15 州联盟与 FTC 调查的并行动作，能帮助读者看清监管方对智能体安全风险的介入程度。",
-          "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。",
-          "sourceName": "IT之家（RSS）",
-          "sourceUrl": "https://www.ithome.com/1/009/204.htm",
-          "aihotUrl": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
-          "publishedAt": "2026-10-02T00:06:15.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "mxaja99ylejkngzxhp66laxfj",
-          "title": "Modal 推出 Sidecars，为 Sandboxes 提供低延迟信任边界",
-          "reason": "原文给出 Sidecar 的隔离机制、3 倍通信提速和 Ramp 实例，读者可据此评估替代现有 egress 控制的可行性。",
-          "summary": "Modal 推出 Sidecars（Beta），一种与主 Sandbox 同宿主运行但隔离的可信容器，用于在可信与不可信代码之间建立安全边界。",
-          "sourceName": "Modal 官方工程博客（RSS）",
-          "sourceUrl": "https://modal.com/blog/introducing-sandbox-sidecars-trust-boundary",
-          "aihotUrl": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1009,6 +981,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "cw97qi7nc5ucehymkc1k9s6zk",
+          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+          "reason": "原文系统给出 GPT-6 家族的选型、缓存成本、长任务管理等可操作方法，读者可直接迁移到自己的生产工作流。",
+          "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+          "aihotUrl": "https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk",
+          "publishedAt": "2026-10-02T16:15:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "jhshh53c18f71tkzk44izbs25",
           "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
@@ -1077,20 +1063,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "ska7k3allx8q9uu8yv5vzy8zw",
-          "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
-          "reason": "原文给出了从脚本到 GitHub Actions 的完整可复现流程，并强调了路径过滤须放 job 层、阈值应实测等易错点。",
-          "summary": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/",
-          "aihotUrl": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
@@ -1194,6 +1166,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "cw97qi7nc5ucehymkc1k9s6zk",
+          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+          "reason": "原文系统给出 GPT-6 家族的选型、缓存成本、长任务管理等可操作方法，读者可直接迁移到自己的生产工作流。",
+          "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+          "aihotUrl": "https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk",
+          "publishedAt": "2026-10-02T16:15:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "l7mkdees7p8apb7stdidl4p3i",
+          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
+          "reason": "原文给出训练数据构成、过滤方法与速度成本对比，读者可据此判断开源科学报告模型的具体做法是否可迁移。",
+          "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
+          "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+          "sourceUrl": "https://allenai.org/blog/astabrief",
+          "aihotUrl": "https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i",
+          "publishedAt": "2026-10-02T08:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "nab0yosxdtyh7sbvoo0usb1iq",
           "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
           "reason": "原文梳理了 Anthropic 上市时间线和 OpenAI 的相反选择，读者可以对照两家头部 AI 公司的资本路径差异。",
@@ -1248,34 +1248,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "iw7ix94rgvhp2jgamykh261gl",
-          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "reason": "文章梳理了加州检察长传票、15 州联盟与 FTC 调查的并行动作，能帮助读者看清监管方对智能体安全风险的介入程度。",
-          "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。",
-          "sourceName": "IT之家（RSS）",
-          "sourceUrl": "https://www.ithome.com/1/009/204.htm",
-          "aihotUrl": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
-          "publishedAt": "2026-10-02T00:06:15.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "uli2rb6y55e3p9z1rh1t8efld",
-          "title": "Epoch AI 推出 ChatGPT usage explorer，基于5000名美国用户三年聊天记录",
-          "reason": "原文基于5000名用户的真实聊天记录做独立分析，给出使用强度变化数据和样本局限说明，读者可了解其实际使用趋势。",
-          "summary": "Epoch AI 与 YouGov 合作推出 ChatGPT usage explorer，发布5000名美国 YouGov 样本用户的 ChatGPT 聊天元数据，覆盖约66万对话、830万条消息，部分记录追溯至2022年11月发布后数周。",
-          "sourceName": "Epoch AI：研究、数据与评测",
-          "sourceUrl": "https://epoch.ai/latest/introducing-the-chatgpt-usage-explorer",
-          "aihotUrl": "https://aihot.news/items/uli2rb6y55e3p9z1rh1t8efld",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
         }
       ]
     },
@@ -1285,6 +1257,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "l7mkdees7p8apb7stdidl4p3i",
+          "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
+          "reason": "原文给出训练数据构成、过滤方法与速度成本对比，读者可据此判断开源科学报告模型的具体做法是否可迁移。",
+          "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
+          "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+          "sourceUrl": "https://allenai.org/blog/astabrief",
+          "aihotUrl": "https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i",
+          "publishedAt": "2026-10-02T08:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
         {
           "id": "nab0yosxdtyh7sbvoo0usb1iq",
           "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
@@ -1353,20 +1339,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "mxaja99ylejkngzxhp66laxfj",
-          "title": "Modal 推出 Sidecars，为 Sandboxes 提供低延迟信任边界",
-          "reason": "原文给出 Sidecar 的隔离机制、3 倍通信提速和 Ramp 实例，读者可据此评估替代现有 egress 控制的可行性。",
-          "summary": "Modal 推出 Sidecars（Beta），一种与主 Sandbox 同宿主运行但隔离的可信容器，用于在可信与不可信代码之间建立安全边界。",
-          "sourceName": "Modal 官方工程博客（RSS）",
-          "sourceUrl": "https://modal.com/blog/introducing-sandbox-sidecars-trust-boundary",
-          "aihotUrl": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
