@@ -1,7 +1,7 @@
 {
   "date": "2026年10月2日",
   "demo": false,
-  "updatedAt": "2026-10-02T00:51:10.832Z",
+  "updatedAt": "2026-10-02T06:19:41.996Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 345,
+    "received": 360,
     "latestCount": 8,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 3,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -47,8 +47,8 @@
         "group": "研究与方法",
         "focus": "LLM、模型使用与学习方法",
         "url": "https://x.com/karpathy",
-        "matched": 0,
-        "status": "历史观点已核对"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "swyx",
@@ -83,8 +83,8 @@
         "group": "产品与工程",
         "focus": "开发者产品与应用工程",
         "url": "https://x.com/sherwinwu",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "emollick",
@@ -101,7 +101,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 8,
+        "matched": 10,
         "status": "本次收录"
       },
       {
@@ -144,10 +144,10 @@
   },
   "items": [
     {
-      "id": "aihot-yhf2pbk7kpr5yh11jru3qay35",
-      "title": "OpenAI dots 演示 WiFi 升级",
-      "brief": "这 WiFi 真是绝了 （引用推文 @OpenAIDevs：dots 演示。",
-      "summary": "这 WiFi 真是绝了 （引用推文 @OpenAIDevs：dots 演示。",
+      "id": "aihot-dn7196cm3ygzt5g2i0en6tdtn",
+      "title": "Tibo 清理 9000 封未读邮件",
+      "brief": "未读邮件从早前的 9000 多封降到了 6110 封。",
+      "summary": "未读邮件从早前的 9000 多封降到了 6110 封。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -156,19 +156,19 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2105718728658993153",
-      "aggregateUrl": "https://aihot.news/items/yhf2pbk7kpr5yh11jru3qay35",
+      "sourceUrl": "https://x.com/thsottiaux/status/2105899634032025682",
+      "aggregateUrl": "https://aihot.news/items/dn7196cm3ygzt5g2i0en6tdtn",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T17:57:21.000Z",
+      "publishedAt": "2026-10-02T05:56:13.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "产品动态",
@@ -176,6 +176,43 @@
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
           "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-eigd5p279d9gzkzsjasgt3xtl",
+      "title": "Andrej Karpathy 分享理解 LLM 输出的技巧：从 ASD-STE100 写作到定制讲解视频",
+      "brief": "Andrej Karpathy 分享了几条理解大语言模型输出的方法：让模型用面向航天维护文档的受控语言 ASD-STE100 写作（可要求 80% 程度以放宽约束）、输出图表、生成 HTML 交互网页，以及生成 3b1b 风格的定制讲解视频并用 ElevenLabs API key 做配音。",
+      "summary": "Andrej Karpathy 分享了几条理解大语言模型输出的方法：让模型用面向航天维护文档的受控语言 ASD-STE100 写作（可要求 80% 程度以放宽约束）、输出图表、生成 HTML 交互网页，以及生成 3b1b 风格的定制讲解视频并用 ElevenLabs API key 做配音。",
+      "category": "实践与观点",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "karpathy",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Andrej Karpathy · @karpathy",
+      "feedName": "X：Andrej Karpathy (@karpathy)",
+      "sourceUrl": "https://x.com/karpathy/status/2105819303471976479",
+      "aggregateUrl": "https://aihot.news/items/eigd5p279d9gzkzsjasgt3xtl",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-02T00:37:00.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Andrej Karpathy",
+            "asset": "/assets/identities/karpathy.jpg",
+            "assetSource": "https://x.com/karpathy",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "实践与观点",
+        "author": {
+          "name": "Andrej Karpathy",
+          "asset": "/assets/identities/karpathy.jpg",
+          "assetSource": "https://x.com/karpathy",
           "tone": "#e9e4dc"
         }
       }
@@ -255,43 +292,6 @@
       }
     },
     {
-      "id": "aihot-apcfbu1pol6av0nm9wzbvviav",
-      "title": "ChatGPT 插件迎来最佳开发时机",
-      "brief": "现在是开发 ChatGPT 插件的最佳时机！",
-      "summary": "现在是开发 ChatGPT 插件的最佳时机！",
-      "category": "实践与观点",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sherwinwu",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Sherwin Wu · @sherwinwu",
-      "feedName": "X：Sherwin Wu（@sherwinwu）",
-      "sourceUrl": "https://x.com/sherwinwu/status/2105514876668154204",
-      "aggregateUrl": "https://aihot.news/items/apcfbu1pol6av0nm9wzbvviav",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T04:27:19.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sherwin Wu",
-            "asset": "/assets/identities/sherwinwu.jpg",
-            "assetSource": "https://x.com/sherwinwu",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "实践与观点",
-        "author": {
-          "name": "Sherwin Wu",
-          "asset": "/assets/identities/sherwinwu.jpg",
-          "assetSource": "https://x.com/sherwinwu",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
       "id": "aihot-awq44r0juvnofi4jn329yb68c",
       "title": "AI 让 PowerPoint 演示体验变好",
       "brief": "自从有了好用的 AI，坐着听 PowerPoint 演示变得好多了。",
@@ -329,22 +329,22 @@
       }
     },
     {
-      "id": "aihot-itvf4h6zsg29xhioa5lpo3l2o",
-      "title": "Onepin 为 AI 语音加质检层",
-      "brief": "我认为 AI 语音缺少一层质量检查。",
-      "summary": "我认为 AI 语音缺少一层质量检查。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
+      "id": "aihot-jsfmujmgkbd9rnmyz6rz973l3",
+      "title": "AgentWorld 论文：多智能体协作不足三分之一有效",
+      "brief": "AgentWorld 将 3 到 20 个不同角色的 LLM 智能体放入游戏沙盒，执行 50+ 轮的长周期任务，智能体无法看到彼此内部状态，只能通过消息和共享计划协调。",
+      "summary": "AgentWorld 将 3 到 20 个不同角色的 LLM 智能体放入游戏沙盒，执行 50+ 轮的长周期任务，智能体无法看到彼此内部状态，只能通过消息和共享计划协调。",
+      "category": "研究进展",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2105736578673033564",
-      "aggregateUrl": "https://aihot.news/items/itvf4h6zsg29xhioa5lpo3l2o",
+      "sourceUrl": "https://x.com/omarsar0/status/2105855550588428584",
+      "aggregateUrl": "https://aihot.news/items/jsfmujmgkbd9rnmyz6rz973l3",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T19:08:17.000Z",
+      "publishedAt": "2026-10-02T03:01:02.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -356,7 +356,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "研究进展",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -487,8 +487,8 @@
       "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
       "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
       "sourceCount": 17,
-      "participantCount": 106,
-      "latestAt": "2026-10-01T22:11:47.000Z",
+      "participantCount": 109,
+      "latestAt": "2026-10-02T04:41:14.000Z",
       "expanded": true,
       "latest": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
       "reports": [
@@ -530,124 +530,98 @@
     },
     {
       "rank": 2,
-      "id": "ewa77zkka92qb5lqukt70bfu8",
-      "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
-      "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
-      "sourceCount": 5,
-      "participantCount": 36,
-      "latestAt": "2026-10-01T15:02:44.000Z",
+      "id": "khyjby0mw5t22dn9zw2l6fflu",
+      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
+      "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
+      "sourceCount": 1,
+      "participantCount": 15,
+      "latestAt": "2026-10-02T02:24:59.000Z",
       "expanded": true,
-      "latest": "Artificial Analysis 评测：GPT-6.1 Sol 推进 OpenAI 模型成本效率前沿",
+      "latest": "消息称 Anthropic 寻求最早 11 月中旬启动 IPO，争取感恩节前挂牌",
       "reports": [
         {
-          "title": "Artificial Analysis 评测：GPT-6.1 Sol 推进 OpenAI 模型成本效率前沿",
-          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-          "sourceUrl": "https://x.com/ArtificialAnlys/status/2105491868608004578",
-          "aihotUrl": "https://aihot.news/items/uzpwsgxv4kecin9uot8linl68",
-          "publishedAt": "2026-10-01T02:55:54.000Z"
+          "title": "消息称 Anthropic 寻求最早 11 月中旬启动 IPO，争取感恩节前挂牌",
+          "sourceName": "IT之家（RSS）",
+          "sourceUrl": "https://www.ithome.com/1/009/237.htm",
+          "aihotUrl": "https://aihot.news/items/dpbzlc983etvb4mqpdc8rly9w",
+          "publishedAt": "2026-10-02T02:24:59.000Z"
         },
         {
-          "title": "OpenAI 称 GPT-6.1 Sol 需求空前",
-          "sourceName": "X：Tibo (@thsottiaux)",
-          "sourceUrl": "https://x.com/thsottiaux/status/2105464274747527543",
-          "aihotUrl": "https://aihot.news/items/tupi5wccxh503rzcjna1faafd",
-          "publishedAt": "2026-10-01T01:06:15.000Z"
+          "title": "Anthropic IPO 招股书曝光：47% 客户销售收入依赖亚马逊和谷歌渠道",
+          "sourceName": "IT之家（RSS）",
+          "sourceUrl": "https://www.ithome.com/1/008/566.htm",
+          "aihotUrl": "https://aihot.news/items/y6lpl248dxmgsg7p67q1lvbn0",
+          "publishedAt": "2026-09-30T00:08:39.000Z"
         },
         {
-          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-          "sourceUrl": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-          "aihotUrl": "https://aihot.news/items/p3cwq54s9gugqpmljv3xm97lv",
-          "publishedAt": "2026-10-01T00:09:22.000Z"
+          "title": "Anthropic IPO 文件披露对 SpaceX 最高 845 亿美元算力协议",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2104969148690473211",
+          "aihotUrl": "https://aihot.news/items/muhdgtywqe4azzyqqn6dfgk9w",
+          "publishedAt": "2026-09-29T16:18:48.000Z"
         }
       ],
-      "related": [
-        {
-          "title": "OpenAI 发布常驻智能体 Dots",
-          "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
-        },
-        {
-          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，价格减半",
-          "storyUrl": "https://aihot.news/story/910b5e6a-77d7-45e7-92f1-9950f1cc375f"
-        },
-        {
-          "title": "OpenAI 被曝筹备 ChatGPT Pro Max 订阅",
-          "storyUrl": "https://aihot.news/story/bf2f33bb-2cde-4a65-b472-6fd27b36927c"
-        }
-      ],
+      "related": [],
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
-        "caption": "热点",
+        "caption": "IPO",
         "author": null
       }
     },
     {
       "rank": 3,
-      "id": "r9nae38v4x5x29jrec46olsl4",
-      "title": "OpenAI 发布常驻智能体 Dots",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/introducing-dots/",
-      "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-      "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
-      "sourceCount": 1,
-      "participantCount": 35,
-      "latestAt": "2026-10-01T22:00:57.000Z",
+      "id": "wx18gjj92zgt5rt0rtj1wy5cc",
+      "title": "Cloudflare 开源决策模型 Clef 与 Clef-flash",
+      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "sourceUrl": "https://blog.cloudflare.com/clef-decision-models/",
+      "aihotUrl": "https://aihot.news/items/wx18gjj92zgt5rt0rtj1wy5cc",
+      "storyUrl": "https://aihot.news/story/97076b2f-7819-4ece-a2f4-29dc76fdc10b",
+      "sourceCount": 5,
+      "participantCount": 12,
+      "latestAt": "2026-10-02T05:24:10.705Z",
       "expanded": true,
-      "latest": "OpenAI DevDay 发布智能体 Dots，正面竞争 Meta 的免费方案 Muse",
+      "latest": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
       "reports": [
         {
-          "title": "OpenAI DevDay 发布智能体 Dots，正面竞争 Meta 的免费方案 Muse",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-          "aihotUrl": "https://aihot.news/items/wyf5x5zrfy83nqthhwc9mencv",
-          "publishedAt": "2026-10-01T14:36:50.000Z"
+          "title": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
+          "sourceName": "IT之家（RSS）",
+          "sourceUrl": "https://www.ithome.com/1/009/262.htm",
+          "aihotUrl": "https://aihot.news/items/hecloufmmayhnvll62l69d6h4",
+          "publishedAt": "2026-10-02T04:45:28.000Z"
         },
         {
-          "title": "Machine Earning AI 峰会：智能体商务与个人智能体的早期乐观情绪",
-          "sourceName": "Newcomer 新闻长文（RSS）",
-          "sourceUrl": "https://www.newcomer.co/p/machine-earning-ai-summit-takeaways",
-          "aihotUrl": "https://aihot.news/items/yb55p3fmhrekobm9gsi2b4lyg",
-          "publishedAt": "2026-09-30T22:22:40.000Z"
+          "title": "Cloudflare 推出 Apache 2.0 开源的分拣模型 Clef，用于 Agent 任务分发",
+          "sourceName": "X：小北 (@frxiaobei)",
+          "sourceUrl": "https://x.com/frxiaobei/status/2105877133046526081",
+          "aihotUrl": "https://aihot.news/items/vkmro6hid3hdbt9xeow9ijv3p",
+          "publishedAt": "2026-10-02T04:26:48.000Z"
         },
         {
-          "title": "Meta 与 OpenAI 押注可爱 AI 智能体为硬件铺路：Muse Charm 与 Dots 的软硬结合策略",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-          "aihotUrl": "https://aihot.news/items/qzz58d53z9c3xe0p7nbnnctnx",
-          "publishedAt": "2026-09-30T18:07:38.000Z"
+          "title": "Cloudflare 发布开源权重决策模型 Clef 与 Clef-flash，输出类型化概率而非文本",
+          "sourceName": "MarkTechPost（RSS）",
+          "sourceUrl": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+          "aihotUrl": "https://aihot.news/items/t1ixwnkwkt64gce0yabfu6kps",
+          "publishedAt": "2026-10-02T01:00:41.000Z"
         }
       ],
-      "related": [
-        {
-          "title": "ChatGPT订阅额度扩展至60余家合作产品",
-          "storyUrl": "https://aihot.news/story/ab027b1a-734d-4dd9-951f-7e0a1f8e5e11"
-        },
-        {
-          "title": "OpenAI DevDay 2026 活动与议程",
-          "storyUrl": "https://aihot.news/story/5a0ede4c-2a14-4e6f-a56a-0a0fe406fcc3"
-        },
-        {
-          "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
-          "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
-        }
-      ],
+      "related": [],
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
@@ -663,8 +637,8 @@
       "aihotUrl": "https://aihot.news/items/cmu6ikvfu04ruro0fnxn9exy4",
       "storyUrl": "https://aihot.news/story/8ade9c6c-461d-4ad7-8ba0-c7927655b7e6",
       "sourceCount": 1,
-      "participantCount": 14,
-      "latestAt": "2026-10-02T00:25:25.329Z",
+      "participantCount": 16,
+      "latestAt": "2026-10-02T04:04:23.235Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -684,90 +658,6 @@
     },
     {
       "rank": 5,
-      "id": "e7763j3shkmk8j0rorefsy4gn",
-      "title": "Tavus发布Griffin视频交互模型",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
-      "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
-      "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
-      "sourceCount": 6,
-      "participantCount": 11,
-      "latestAt": "2026-10-01T21:16:04.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 6,
-      "id": "deivg466iwv9ypddacud3hd7d",
-      "title": "Google DeepMind发布SynthID Bio蛋白质水印技术",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "aihotUrl": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
-      "storyUrl": "https://aihot.news/story/eb54737e-789a-4e7c-848c-63c1c5ef1497",
-      "sourceCount": 3,
-      "participantCount": 15,
-      "latestAt": "2026-10-01T17:11:05.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "nfwj6zykk26pi551k3u75cwmr",
-      "title": "OpenAI解雇3名安全研究员",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105699698023755976",
-      "aihotUrl": "https://aihot.news/items/nfwj6zykk26pi551k3u75cwmr",
-      "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
-      "sourceCount": 3,
-      "participantCount": 10,
-      "latestAt": "2026-10-01T23:04:22.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "htdvt7tia6mwbp3pz2bdlvjb4",
       "title": "Microsoft发布MAI-Transcribe-2-Streaming流式转写模型",
       "sourceName": "Microsoft AI：官方博客（网页）",
@@ -775,8 +665,8 @@
       "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
       "storyUrl": "https://aihot.news/story/4d391f67-cbae-4a14-89e4-a1f8153d062a",
       "sourceCount": 5,
-      "participantCount": 10,
-      "latestAt": "2026-10-02T00:01:35.000Z",
+      "participantCount": 13,
+      "latestAt": "2026-10-02T05:35:28.328Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -795,16 +685,16 @@
       }
     },
     {
-      "rank": 9,
-      "id": "nhob7mih29e0owj7ay28t7fvw",
-      "title": "FTC加大对AI实验室调查力度",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-      "aihotUrl": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
-      "storyUrl": "https://aihot.news/story/2c6e1906-800f-40f0-a8fe-cefa7eaf8d9d",
-      "sourceCount": 3,
-      "participantCount": 20,
-      "latestAt": "2026-10-01T09:30:42.000Z",
+      "rank": 6,
+      "id": "ewa77zkka92qb5lqukt70bfu8",
+      "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
+      "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
+      "sourceCount": 5,
+      "participantCount": 27,
+      "latestAt": "2026-10-01T15:02:44.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -812,7 +702,35 @@
       "visual": {
         "entities": [
           {
-            "name": "The Decoder：AI News（RSS）",
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "e7763j3shkmk8j0rorefsy4gn",
+      "title": "Tavus发布Griffin视频交互模型",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
+      "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
+      "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
+      "sourceCount": 6,
+      "participantCount": 13,
+      "latestAt": "2026-10-02T04:27:10.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -823,16 +741,16 @@
       }
     },
     {
-      "rank": 10,
-      "id": "cmuamhooy0oolro5t7g5o4vtd",
-      "title": "华为 Mate 90 系列发布：官宣麒麟 9030/9035 芯片",
-      "sourceName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/005/085.htm",
-      "aihotUrl": "https://aihot.news/items/cmuamhooy0oolro5t7g5o4vtd",
-      "storyUrl": "https://aihot.news/story/d107c8d5-9422-4a53-ad7c-aa794bcfbdd3",
+      "rank": 8,
+      "id": "r9nae38v4x5x29jrec46olsl4",
+      "title": "OpenAI 发布常驻智能体 Dots",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/introducing-dots/",
+      "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
+      "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
       "sourceCount": 1,
-      "participantCount": 12,
-      "latestAt": "2026-10-01T14:39:18.000Z",
+      "participantCount": 22,
+      "latestAt": "2026-10-01T22:00:57.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -840,10 +758,66 @@
       "visual": {
         "entities": [
           {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "nfwj6zykk26pi551k3u75cwmr",
+      "title": "OpenAI解雇3名安全研究员",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105699698023755976",
+      "aihotUrl": "https://aihot.news/items/nfwj6zykk26pi551k3u75cwmr",
+      "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
+      "sourceCount": 3,
+      "participantCount": 11,
+      "latestAt": "2026-10-02T01:34:56.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "deivg466iwv9ypddacud3hd7d",
+      "title": "Google DeepMind发布SynthID Bio蛋白质水印技术",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "aihotUrl": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+      "storyUrl": "https://aihot.news/story/eb54737e-789a-4e7c-848c-63c1c5ef1497",
+      "sourceCount": 3,
+      "participantCount": 15,
+      "latestAt": "2026-10-02T01:12:06.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",

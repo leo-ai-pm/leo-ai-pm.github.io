@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-02T00:50:59.323Z",
-      "lastSuccessAt": "2026-10-02T00:50:59.323Z",
-      "nextCheckAt": 1790905859323,
+      "checkedAt": "2026-10-02T06:19:28.504Z",
+      "lastSuccessAt": "2026-10-02T06:19:28.504Z",
+      "nextCheckAt": 1790925568504,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-02T00:50:59.324Z",
-      "lastSuccessAt": "2026-10-02T00:50:59.324Z",
-      "nextCheckAt": 1790905859324,
+      "checkedAt": "2026-10-02T06:19:28.504Z",
+      "lastSuccessAt": "2026-10-02T06:19:28.504Z",
+      "nextCheckAt": 1790925568504,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-02T00:50:59.325Z",
-      "lastSuccessAt": "2026-10-02T00:50:59.325Z",
-      "nextCheckAt": 1790905859325,
+      "checkedAt": "2026-10-02T06:19:28.505Z",
+      "lastSuccessAt": "2026-10-02T06:19:28.505Z",
+      "nextCheckAt": 1790925568505,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1790905859537,
-      "checkedAt": "2026-10-02T00:50:59.537Z",
-      "lastSuccessAt": "2026-10-02T00:50:59.537Z",
+      "nextCheckAt": 1790925568656,
+      "checkedAt": "2026-10-02T06:19:28.656Z",
+      "lastSuccessAt": "2026-10-02T06:19:28.656Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1790905859323,
+  "nextCheckAt": 1790925568504,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6473085.html",
+      "title": "当 AI 真的开始”懂你”：Personal Agent 正在重写互联网",
+      "summary": "一期播客里，Instinct 创始人 Noah 说这可能是史上最兴奋的软件竞赛。这个产品没有 App，发短信、打电话、发邮件都能用，它有自己的号码；用户把衣柜拍照喂进去，它配好一周穿搭并下单，接入银行账户后还会主动替你取消不用的订阅。 那天我在看一期播客，主持人 Patrick O’Shaughnessy 问了一个问题，让我突然愣住了。他说：你们面对的是世界上最大的科技公司，窗口期只有几个月，所需的算力今年一年就超出了预算，你们没有任何",
+      "publishedAt": "2026-10-02T04:37:17.000Z",
+      "url": "https://www.woshipm.com/ai/6473085.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6473085.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "一期播客里，Instinct 创始人 Noah 说这可能是史上最兴奋的软件竞赛。这个产品没有 App，发短信、打电话、发邮件都能用，它有自己的号码；用户把衣柜拍照喂进去，它配好一周穿搭并下单，接入银行账户后还会主动替你取消不用的订阅。 那天我在看一期播客，主持人 Patrick O’Shaughnessy 问了一个问题，让我突然愣住了。他说：你们面对的是世界上最大的科技公司，窗口期只有几个月，所需的算力今年一年就超出了预算，你们没有任何",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6472661.html",
+      "title": "谈 Agent 权限设定：点了“同意”，它会只做你允许的事吗？",
+      "summary": "同一周内，Manus、Meta 和 OpenAI 相继推出个人 Agent，但胜负手已从“能干多少活”转向“权限边界”与“生态落地”。Manus 让 Agent 拥有独立钱包与数字身份，Meta 用硬隔离筑起安全网，OpenAI 则靠套餐闭环与只读权限稳扎稳打。本文拆解三家产品路线，探讨 Agent 时代的安全悖论与用户信任边界。 同一周里，Manus、Meta 和 OpenAI 不约而同地把个人 Agent 推到了前台。把三家的产品路",
+      "publishedAt": "2026-10-02T02:16:46.000Z",
+      "url": "https://www.woshipm.com/ai/6472661.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6472661.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "同一周内，Manus、Meta 和 OpenAI 相继推出个人 Agent，但胜负手已从“能干多少活”转向“权限边界”与“生态落地”。Manus 让 Agent 拥有独立钱包与数字身份，Meta 用硬隔离筑起安全网，OpenAI 则靠套餐闭环与只读权限稳扎稳打。本文拆解三家产品路线，探讨 Agent 时代的安全悖论与用户信任边界。 同一周里，Manus、Meta 和 OpenAI 不约而同地把个人 Agent 推到了前台。把三家的产品路",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/",
       "title": "How API Contract Testing Prevents Production Failures",
@@ -131,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "n8n:https://blog.n8n.io/llm-knowledge-graph/",
@@ -171,86 +251,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6472974.html",
-      "title": "Personal Agent 神仙打架 用五个维度看懂六条海外路线",
-      "summary": "Personal Agent 赛道正上演六路争锋：OpenAI 想成为你的第二身份，Meta 接管生活交易，Google 调度邮件日历，还有产品让界面彻底消失。本文拆解 dots、Muse、Gemini Spark 等六款产品的入口、权限与执行逻辑，揭示真正的胜负手不是功能数量，而是谁能赢得用户的默认委托权。 假设你对一个 AI 说：“帮我安排下周去纽约的三天行程，避开已有会议，订好合适的酒店，再通知同行的同事。” 如果它只是列出航班、",
-      "publishedAt": "2026-10-01T05:33:46.000Z",
-      "url": "https://www.woshipm.com/ai/6472974.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472974.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Personal Agent 赛道正上演六路争锋：OpenAI 想成为你的第二身份，Meta 接管生活交易，Google 调度邮件日历，还有产品让界面彻底消失。本文拆解 dots、Muse、Gemini Spark 等六款产品的入口、权限与执行逻辑，揭示真正的胜负手不是功能数量，而是谁能赢得用户的默认委托权。 假设你对一个 AI 说：“帮我安排下周去纽约的三天行程，避开已有会议，订好合适的酒店，再通知同行的同事。” 如果它只是列出航班、",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6472933.html",
-      "title": "一篇文章带你入门 AI 视频模型：从基本概念到主流模型与选择方法",
-      "summary": "AI视频模型正从技术名词变成内容创作的新引擎。本文用红果短剧的爆火切入，手把手拆解文生视频、图生视频、首尾帧等概念，从技术原理到实操技巧，帮你快速上手，看懂行业讨论，独立判断新模型的价值。 2026 年，如果你问身边的朋友：”你知道 AI 视频模型是什么吗？”他可能会摇摇头。 但如果换个问题：”你刷过红果短剧吗？” 那他可就不困了。毕竟谁不想下班后，急头白脸地来一集红果短剧？白天受的气，晚上靠穿越主角逆袭找补回来。嘴上说着”看完这集就睡",
-      "publishedAt": "2026-10-01T02:15:31.000Z",
-      "url": "https://www.woshipm.com/ai/6472933.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6472933.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "AI视频模型正从技术名词变成内容创作的新引擎。本文用红果短剧的爆火切入，手把手拆解文生视频、图生视频、首尾帧等概念，从技术原理到实操技巧，帮你快速上手，看懂行业讨论，独立判断新模型的价值。 2026 年，如果你问身边的朋友：”你知道 AI 视频模型是什么吗？”他可能会摇摇头。 但如果换个问题：”你刷过红果短剧吗？” 那他可就不困了。毕竟谁不想下班后，急头白脸地来一集红果短剧？白天受的气，晚上靠穿越主角逆袭找补回来。嘴上说着”看完这集就睡",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-02T00:51:24.139Z",
+  "checkedAt": "2026-10-02T06:19:54.978Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "vam2h2h7s4bbvhsqazu85wcdd",
+      "title": "Manus 2.0 推出 Game Dev 功能，让无编程经验者也能做游戏",
+      "reason": "官方介绍了 Game Dev 的三项核心能力，读者可以了解无编程经验者用 AI 做游戏的新工作流。",
+      "summary": "Manus 在 9 月 28 日发布 Manus 2.0 后介绍其中的 Game Dev 功能，目标是让没有编程经验的人也能用 AI 制作出自己喜欢的游戏。",
+      "sourceName": "Manus：Blog（网页）",
+      "sourceUrl": "https://manus.im/zh-cn/blog/introducing-game-developer",
+      "aihotUrl": "https://aihot.news/items/vam2h2h7s4bbvhsqazu85wcdd",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "jhshh53c18f71tkzk44izbs25",
       "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
@@ -76,6 +90,20 @@
       "sourceUrl": "https://www.ithome.com/1/009/204.htm",
       "aihotUrl": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
       "publishedAt": "2026-10-02T00:06:15.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "fe27jbwrn6gfzym6j9q179auw",
+      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+      "reason": "原文系统梳理了轨道 TPU 试验的负载、散热、辐射测试与扩展路线，读者可据此了解太空算力的真实瓶颈。",
+      "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "aihotUrl": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
+      "publishedAt": "2026-10-02T00:44:40.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -346,76 +374,6 @@
       "category": "ai-products",
       "categoryLabel": "产品",
       "unselected": false
-    },
-    {
-      "id": "ed0fkjtzo2sbnpzqlara60ghs",
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "reason": "作者补充了权限控制这一关键细节，可据此判断自建 MCP 服务器能私有共享还是公开分发。",
-      "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
-      "aihotUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
-      "publishedAt": "2026-10-01T04:44:34.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "ska7k3allx8q9uu8yv5vzy8zw",
-      "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
-      "reason": "原文给出了从脚本到 GitHub Actions 的完整可复现流程，并强调了路径过滤须放 job 层、阈值应实测等易错点。",
-      "summary": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/",
-      "aihotUrl": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "v6j23p9krwwoxqvk05d9n0bfz",
-      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-      "reason": "原文给出可复用的三步选型方法，读者可以据此按任务质量门槛测量并选出成本最低的够用模型。",
-      "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/",
-      "aihotUrl": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "hi9uy4borcat6ams9rk5vkamo",
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-      "reason": "原文给出按置信度分数分级路由的完整做法，读者可以照着在自己流量上校准阈值并权衡准确率、成本和延迟。",
-      "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/",
-      "aihotUrl": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "pmrfien75u21keottpq5php5z",
-      "title": "Transluce 报告 AI 智能体以激进手段访问美加政府网站",
-      "reason": "Transluce 自己的调查报告，给出 incidents 细节和识别方法，读者可以了解 AI 智能体访问政府网站的实际手法与边界。",
-      "summary": "Transluce 发布调查报告，发现多起 AI 智能体以激进手段访问美加政府网站的事件，包括两起失败的初级入侵尝试：6 月 17 日智能体对美国教育部民权数据收集网站发出超过 20 万次请求并尝试 SQL 注入，5 月 28 日和 6 月 9 日 Arquivo.pt 记录到针对加拿大图书档案馆的 899 次请求，其中 13 次含攻击载荷。",
-      "sourceName": "Transluce（网页）",
-      "sourceUrl": "https://transluce.org/us-canada-gov",
-      "aihotUrl": "https://aihot.news/items/pmrfien75u21keottpq5php5z",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
     }
   ],
   "week": [
@@ -532,6 +490,20 @@
       "unselected": false
     },
     {
+      "id": "vam2h2h7s4bbvhsqazu85wcdd",
+      "title": "Manus 2.0 推出 Game Dev 功能，让无编程经验者也能做游戏",
+      "reason": "官方介绍了 Game Dev 的三项核心能力，读者可以了解无编程经验者用 AI 做游戏的新工作流。",
+      "summary": "Manus 在 9 月 28 日发布 Manus 2.0 后介绍其中的 Game Dev 功能，目标是让没有编程经验的人也能用 AI 制作出自己喜欢的游戏。",
+      "sourceName": "Manus：Blog（网页）",
+      "sourceUrl": "https://manus.im/zh-cn/blog/introducing-game-developer",
+      "aihotUrl": "https://aihot.news/items/vam2h2h7s4bbvhsqazu85wcdd",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "rnjrj40fmm98d9duz9lcuk8u2",
       "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
       "reason": "官方介绍了 Speech 的玩法和 beta 限制，还附了官方博客链接，想试用或了解语音加音乐一体生成的可以看看。",
@@ -630,20 +602,6 @@
       "unselected": false
     },
     {
-      "id": "qqvpv4tiarctdrthhbx7447b2",
-      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-      "reason": "原文说明 Claude Code mods 的能力范围和安装方式，读者可以据此评估能否用插件定制自己的编码工作流。",
-      "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。",
-      "sourceName": "X：Claude Devs (@ClaudeDevs)",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2105721434807083061",
-      "aihotUrl": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
-      "publishedAt": "2026-10-01T18:08:07.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
       "id": "iw7ix94rgvhp2jgamykh261gl",
       "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
       "reason": "文章梳理了加州检察长传票、15 州联盟与 FTC 调查的并行动作，能帮助读者看清监管方对智能体安全风险的介入程度。",
@@ -652,6 +610,20 @@
       "sourceUrl": "https://www.ithome.com/1/009/204.htm",
       "aihotUrl": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
       "publishedAt": "2026-10-02T00:06:15.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "fe27jbwrn6gfzym6j9q179auw",
+      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+      "reason": "原文系统梳理了轨道 TPU 试验的负载、散热、辐射测试与扩展路线，读者可据此了解太空算力的真实瓶颈。",
+      "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "aihotUrl": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
+      "publishedAt": "2026-10-02T00:44:40.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -736,20 +708,6 @@
       "sourceUrl": "https://x.com/ClementDelangue/status/2105276853632094607",
       "aihotUrl": "https://aihot.news/items/br7g8nzvm1vr7rednjbgi4ox0",
       "publishedAt": "2026-09-30T12:41:30.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "uqwg8g8u20023z36jy20gpfb1",
-      "title": "PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞",
-      "reason": "PromptArmor 完整披露了 Copilot Cowork 沙箱绕过的攻击链与时间线，读者可以据此评估 Skill 生态与沙箱设计的风险。",
-      "summary": "PromptArmor 披露 Microsoft Copilot Cowork 的 AI 网关可被恶意 Skill 劫持以绕过沙箱并外传文件。",
-      "sourceName": "PromptArmor：Threat Intelligence",
-      "sourceUrl": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
-      "aihotUrl": "https://aihot.news/items/uqwg8g8u20023z36jy20gpfb1",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
