@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-02T06:19:54.978Z",
+  "checkedAt": "2026-10-02T12:50:00.309Z",
   "message": "",
   "categories": [
     {
@@ -26,17 +26,31 @@
   ],
   "today": [
     {
-      "id": "vam2h2h7s4bbvhsqazu85wcdd",
-      "title": "Manus 2.0 推出 Game Dev 功能，让无编程经验者也能做游戏",
-      "reason": "官方介绍了 Game Dev 的三项核心能力，读者可以了解无编程经验者用 AI 做游戏的新工作流。",
-      "summary": "Manus 在 9 月 28 日发布 Manus 2.0 后介绍其中的 Game Dev 功能，目标是让没有编程经验的人也能用 AI 制作出自己喜欢的游戏。",
+      "id": "nab0yosxdtyh7sbvoo0usb1iq",
+      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+      "reason": "原文梳理了 Anthropic 上市时间线和 OpenAI 的相反选择，读者可以对照两家头部 AI 公司的资本路径差异。",
+      "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+      "aihotUrl": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+      "publishedAt": "2026-10-02T07:23:13.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "rn5q4m7qlqukq9q8g4ne975lj",
+      "title": "Manus 分享视频生成与时间线编辑工作流",
+      "reason": "作者结合真实项目，介绍从导入素材、转录和编排初剪，到逐轨调整字幕、画面与音频的工作流，读者可将这些方法用于自己的视频制作。",
+      "summary": "Manus 分享使用既有视频能力的创作经验：先由 AI 搜索参考、制作镜头与代码视觉元素，再在 Manus Studio 的视频编辑器中逐轨调整画面、字幕、配乐和音效。",
       "sourceName": "Manus：Blog（网页）",
-      "sourceUrl": "https://manus.im/zh-cn/blog/introducing-game-developer",
-      "aihotUrl": "https://aihot.news/items/vam2h2h7s4bbvhsqazu85wcdd",
+      "sourceUrl": "https://manus.im/zh-cn/blog/introducing-video-editor",
+      "aihotUrl": "https://aihot.news/items/rn5q4m7qlqukq9q8g4ne975lj",
       "publishedAt": "2026-09-30T16:00:00.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -222,20 +236,6 @@
       "unselected": false
     },
     {
-      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-      "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
-      "reason": "原文给出 mods 的事件机制、安全限制和企业管控细节，开发者可据此决定是否用它定制自己的 Claude Code 工作流。",
-      "summary": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数，可挂接到 Claude Code 的事件流，改写提示词、拦截或重试工具调用、审批权限请求并添加新 UI，随插件安装和分享。",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-code-mods",
-      "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
       "id": "fe4cigybkf7nhdwb0il9ggrns",
       "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
       "reason": "Arena 官方给出 MiMo-V2.6 两款模型在真实智能体会话中的排名、净提升和成本数据，可据此比较其实际表现与性价比。",
@@ -250,14 +250,14 @@
       "unselected": false
     },
     {
-      "id": "qqvpv4tiarctdrthhbx7447b2",
-      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-      "reason": "原文说明 Claude Code mods 的能力范围和安装方式，读者可以据此评估能否用插件定制自己的编码工作流。",
-      "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。",
-      "sourceName": "X：Claude Devs (@ClaudeDevs)",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2105721434807083061",
-      "aihotUrl": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
-      "publishedAt": "2026-10-01T18:08:07.000Z",
+      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
+      "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
+      "reason": "原文给出 mods 的事件机制、安全限制和企业管控细节，开发者可据此决定是否用它定制自己的 Claude Code 工作流。",
+      "summary": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数，可挂接到 Claude Code 的事件流，改写提示词、拦截或重试工具调用、审批权限请求并添加新 UI，随插件安装和分享。",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-code-mods",
+      "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -345,34 +345,6 @@
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "i35lar26hjm4djheowz5ytplm",
-      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-      "reason": "作者复盘了自己此前的误判，用 Navier-Stokes 群体智能体等案例说明智能体自组织比预想容易，管理原理值得重估。",
-      "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
-      "sourceName": "Ethan Mollick：One Useful Thing（RSS）",
-      "sourceUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "aihotUrl": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
-      "publishedAt": "2026-10-01T10:54:12.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "zbprvsawadktpi8tcqpp6gw4d",
-      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-      "reason": "官方宣布多节点集群正式可用，文中解释了 gang scheduler 与 RDMA 的实现细节，并给出 Decagon、1x、Runway 的实际用法。",
-      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-      "sourceName": "Modal 官方工程博客（RSS）",
-      "sourceUrl": "https://modal.com/blog/modal-clusters-generally-available",
-      "aihotUrl": "https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d",
-      "publishedAt": "2026-10-01T07:38:41.607Z",
-      "timeBasis": "discovered",
-      "category": "ai-products",
-      "categoryLabel": "产品",
       "unselected": false
     }
   ],
@@ -490,20 +462,6 @@
       "unselected": false
     },
     {
-      "id": "vam2h2h7s4bbvhsqazu85wcdd",
-      "title": "Manus 2.0 推出 Game Dev 功能，让无编程经验者也能做游戏",
-      "reason": "官方介绍了 Game Dev 的三项核心能力，读者可以了解无编程经验者用 AI 做游戏的新工作流。",
-      "summary": "Manus 在 9 月 28 日发布 Manus 2.0 后介绍其中的 Game Dev 功能，目标是让没有编程经验的人也能用 AI 制作出自己喜欢的游戏。",
-      "sourceName": "Manus：Blog（网页）",
-      "sourceUrl": "https://manus.im/zh-cn/blog/introducing-game-developer",
-      "aihotUrl": "https://aihot.news/items/vam2h2h7s4bbvhsqazu85wcdd",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
       "id": "rnjrj40fmm98d9duz9lcuk8u2",
       "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
       "reason": "官方介绍了 Speech 的玩法和 beta 限制，还附了官方博客链接，想试用或了解语音加音乐一体生成的可以看看。",
@@ -602,6 +560,34 @@
       "unselected": false
     },
     {
+      "id": "zbprvsawadktpi8tcqpp6gw4d",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "reason": "官方宣布多节点集群正式可用，文中解释了 gang scheduler 与 RDMA 的实现细节，并给出 Decagon、1x、Runway 的实际用法。",
+      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+      "sourceName": "Modal 官方工程博客（RSS）",
+      "sourceUrl": "https://modal.com/blog/modal-clusters-generally-available",
+      "aihotUrl": "https://aihot.news/items/zbprvsawadktpi8tcqpp6gw4d",
+      "publishedAt": "2026-10-01T07:38:41.607Z",
+      "timeBasis": "discovered",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "nab0yosxdtyh7sbvoo0usb1iq",
+      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+      "reason": "原文梳理了 Anthropic 上市时间线和 OpenAI 的相反选择，读者可以对照两家头部 AI 公司的资本路径差异。",
+      "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+      "aihotUrl": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+      "publishedAt": "2026-10-02T07:23:13.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "iw7ix94rgvhp2jgamykh261gl",
       "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
       "reason": "文章梳理了加州检察长传票、15 州联盟与 FTC 调查的并行动作，能帮助读者看清监管方对智能体安全风险的介入程度。",
@@ -694,20 +680,6 @@
       "sourceUrl": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
       "aihotUrl": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
       "publishedAt": "2026-09-30T16:20:04.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "br7g8nzvm1vr7rednjbgi4ox0",
-      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-      "reason": "原文交代了招聘响应规模和后续申请渠道，为关注 Hugging Face 招聘的人提供了可操作的投递途径。",
-      "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。",
-      "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "sourceUrl": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "aihotUrl": "https://aihot.news/items/br7g8nzvm1vr7rednjbgi4ox0",
-      "publishedAt": "2026-09-30T12:41:30.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -826,6 +798,20 @@
       "unselected": false
     },
     {
+      "id": "rn5q4m7qlqukq9q8g4ne975lj",
+      "title": "Manus 分享视频生成与时间线编辑工作流",
+      "reason": "作者结合真实项目，介绍从导入素材、转录和编排初剪，到逐轨调整字幕、画面与音频的工作流，读者可将这些方法用于自己的视频制作。",
+      "summary": "Manus 分享使用既有视频能力的创作经验：先由 AI 搜索参考、制作镜头与代码视觉元素，再在 Manus Studio 的视频编辑器中逐轨调整画面、字幕、配乐和音效。",
+      "sourceName": "Manus：Blog（网页）",
+      "sourceUrl": "https://manus.im/zh-cn/blog/introducing-video-editor",
+      "aihotUrl": "https://aihot.news/items/rn5q4m7qlqukq9q8g4ne975lj",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "ukk2qw5l1r9jqhsykqai2cf30",
       "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
       "reason": "原文把多模型编排拆成三层职责，并给出同一管道在直接路由和框架下的对照代码，读者可据此选择自己项目所需的层。",
@@ -922,20 +908,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "hi9uy4borcat6ams9rk5vkamo",
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-      "reason": "原文给出按置信度分数分级路由的完整做法，读者可以照着在自己流量上校准阈值并权衡准确率、成本和延迟。",
-      "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/",
-      "aihotUrl": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -945,6 +917,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "rn5q4m7qlqukq9q8g4ne975lj",
+          "title": "Manus 分享视频生成与时间线编辑工作流",
+          "reason": "作者结合真实项目，介绍从导入素材、转录和编排初剪，到逐轨调整字幕、画面与音频的工作流，读者可将这些方法用于自己的视频制作。",
+          "summary": "Manus 分享使用既有视频能力的创作经验：先由 AI 搜索参考、制作镜头与代码视觉元素，再在 Manus Studio 的视频编辑器中逐轨调整画面、字幕、配乐和音效。",
+          "sourceName": "Manus：Blog（网页）",
+          "sourceUrl": "https://manus.im/zh-cn/blog/introducing-video-editor",
+          "aihotUrl": "https://aihot.news/items/rn5q4m7qlqukq9q8g4ne975lj",
+          "publishedAt": "2026-09-30T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "jhshh53c18f71tkzk44izbs25",
           "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
@@ -1009,20 +995,6 @@
           "sourceName": "Modal 官方工程博客（RSS）",
           "sourceUrl": "https://modal.com/blog/introducing-sandbox-sidecars-trust-boundary",
           "aihotUrl": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "xp4uyoz5jrkdo61acen7tu1k6",
-          "title": "Modal 发布 VM Sandboxes、Modal Clusters 等多项 Runtime 产品更新",
-          "reason": "Modal 在 Runtime 大会上发布多项基础设施更新，可帮助读者了解面向 Agent 和大规模推理训练的部署能力变化。",
-          "summary": "Modal 在其首届 Runtime 大会上发布多项产品更新。",
-          "sourceName": "Modal 官方工程博客（RSS）",
-          "sourceUrl": "https://modal.com/blog/runtime-product-update-sandbox-endpoints",
-          "aihotUrl": "https://aihot.news/items/xp4uyoz5jrkdo61acen7tu1k6",
           "publishedAt": "2026-10-01T00:00:00.000Z",
           "timeBasis": "published",
           "category": "ai-products",
@@ -1222,6 +1194,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "nab0yosxdtyh7sbvoo0usb1iq",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "reason": "原文梳理了 Anthropic 上市时间线和 OpenAI 的相反选择，读者可以对照两家头部 AI 公司的资本路径差异。",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+          "aihotUrl": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+          "publishedAt": "2026-10-02T07:23:13.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "jhshh53c18f71tkzk44izbs25",
           "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
           "reason": "原文对比了三个新模型在 Coding Agent Index 的成绩和每任务成本，读者可据此权衡性能与价格的组合。",
@@ -1290,20 +1276,6 @@
           "category": "paper",
           "categoryLabel": "论文",
           "unselected": false
-        },
-        {
-          "id": "mxaja99ylejkngzxhp66laxfj",
-          "title": "Modal 推出 Sidecars，为 Sandboxes 提供低延迟信任边界",
-          "reason": "原文给出 Sidecar 的隔离机制、3 倍通信提速和 Ramp 实例，读者可据此评估替代现有 egress 控制的可行性。",
-          "summary": "Modal 推出 Sidecars（Beta），一种与主 Sandbox 同宿主运行但隔离的可信容器，用于在可信与不可信代码之间建立安全边界。",
-          "sourceName": "Modal 官方工程博客（RSS）",
-          "sourceUrl": "https://modal.com/blog/introducing-sandbox-sidecars-trust-boundary",
-          "aihotUrl": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1313,6 +1285,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "nab0yosxdtyh7sbvoo0usb1iq",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "reason": "原文梳理了 Anthropic 上市时间线和 OpenAI 的相反选择，读者可以对照两家头部 AI 公司的资本路径差异。",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+          "aihotUrl": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+          "publishedAt": "2026-10-02T07:23:13.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "jhshh53c18f71tkzk44izbs25",
           "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
@@ -1378,20 +1364,6 @@
           "sourceUrl": "https://modal.com/blog/introducing-sandbox-sidecars-trust-boundary",
           "aihotUrl": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj",
           "publishedAt": "2026-10-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-          "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
-          "reason": "原文给出 mods 的事件机制、安全限制和企业管控细节，开发者可据此决定是否用它定制自己的 Claude Code 工作流。",
-          "summary": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数，可挂接到 Claude Code 的事件流，改写提示词、拦截或重试工具调用、审批权限请求并添加新 UI，随插件安装和分享。",
-          "sourceName": "Claude：Blog（网页）",
-          "sourceUrl": "https://claude.com/blog/claude-code-mods",
-          "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-          "publishedAt": "2026-09-30T16:00:00.000Z",
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",

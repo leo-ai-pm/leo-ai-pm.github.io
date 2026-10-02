@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-02T06:19:43.446Z",
+  "checkedAt": "2026-10-02T12:49:42.704Z",
   "message": "",
   "report": {
     "date": "2026-10-02",
     "dateLabel": "2026年10月2日",
     "weekday": "周五",
     "issue": 19,
-    "generatedAt": "2026-10-02T00:00:19.634Z",
+    "generatedAt": "2026-10-02T07:47:54.065Z",
     "aihotUrl": "https://aihot.news/daily/2026-10-02",
     "lead": {
-      "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
-      "summary": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数，可挂接到 Claude Code 的事件流，改写提示词、拦截或重试工具调用、审批权限请求并添加新 UI，随插件安装和分享。",
+      "title": "Ataraxos 以85%有效胜率击败最强人类 Stratego 选手，训练成本不足 8000 美元",
+      "summary": "研究人员开发的 AI 系统 Ataraxos 以 85% 的有效胜率（平局计半胜）击败了曾获 4 次世界冠军的史上最强 Stratego 选手 Niemeijer，并在 2025 世界锦标赛表演赛中取得 40 局 38 胜。",
       "aihotUrl": "https://aihot.news/daily/2026-10-02",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "AIHOT",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "Claude Code",
+        "caption": "今日导读",
         "author": null
       }
     },
@@ -36,6 +36,20 @@
             "sourceName": "Microsoft AI：官方博客（网页）",
             "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
             "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4"
+          },
+          {
+            "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+            "summary": "Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。",
+            "sourceName": "X：Arena (@arena)",
+            "sourceUrl": "https://x.com/arena/status/2105733983250301224",
+            "aihotUrl": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns"
+          },
+          {
+            "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+            "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.…",
+            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+            "sourceUrl": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+            "aihotUrl": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm"
           }
         ]
       },
@@ -43,25 +57,11 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
-            "summary": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数，可挂接到 Claude Code 的事件流，改写提示词、拦截或重试工具调用、审批权限请求并添加新 UI，随插件安装和分享。",
-            "sourceName": "Claude：Blog（网页）",
-            "sourceUrl": "https://claude.com/blog/claude-code-mods",
-            "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in"
-          },
-          {
             "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
             "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。",
             "sourceName": "X：Claude Devs (@ClaudeDevs)",
             "sourceUrl": "https://x.com/ClaudeDevs/status/2105721434807083061",
             "aihotUrl": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2"
-          },
-          {
-            "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-            "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。",
-            "sourceName": "X：OpenRouter (@OpenRouter)",
-            "sourceUrl": "https://x.com/OpenRouter/status/2105759062835220852",
-            "aihotUrl": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj"
           },
           {
             "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
@@ -155,22 +155,6 @@
         "publishedAt": "2026-10-01T01:17:38.079Z"
       },
       {
-        "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-        "summary": "",
-        "sourceName": "X：Arena (@arena)",
-        "sourceUrl": "https://x.com/arena/status/2105733983250301224",
-        "aihotUrl": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
-        "publishedAt": "2026-10-01T19:25:43.931Z"
-      },
-      {
-        "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-        "summary": "",
-        "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-        "sourceUrl": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-        "aihotUrl": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm",
-        "publishedAt": "2026-10-01T23:01:24.761Z"
-      },
-      {
         "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
         "summary": "",
         "sourceName": "X：Krea AI (@krea_ai)",
@@ -203,26 +187,34 @@
         "publishedAt": "2026-10-01T15:45:28.892Z"
       },
       {
-        "title": "Modal 发布 VM Sandboxes、Modal Clusters 等多项 Runtime 产品更新",
-        "summary": "",
-        "sourceName": "Modal 官方工程博客（RSS）",
-        "sourceUrl": "https://modal.com/blog/runtime-product-update-sandbox-endpoints",
-        "aihotUrl": "https://aihot.news/items/xp4uyoz5jrkdo61acen7tu1k6",
-        "publishedAt": "2026-10-01T19:45:22.168Z"
-      },
-      {
         "title": "Epoch AI 推出 ChatGPT usage explorer，基于5000名美国用户三年聊天记录",
         "summary": "",
         "sourceName": "Epoch AI：研究、数据与评测",
         "sourceUrl": "https://epoch.ai/latest/introducing-the-chatgpt-usage-explorer",
         "aihotUrl": "https://aihot.news/items/uli2rb6y55e3p9z1rh1t8efld",
         "publishedAt": "2026-10-01T22:24:24.301Z"
+      },
+      {
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "summary": "",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2105519215092584786",
+        "aihotUrl": "https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs",
+        "publishedAt": "2026-10-01T04:55:37.322Z"
+      },
+      {
+        "title": "Grok Bot 主动分担任务并逐步推送",
+        "summary": "",
+        "sourceName": "X：Grok Bot (@bot)",
+        "sourceUrl": "https://x.com/bot/status/2105713241745977618",
+        "aihotUrl": "https://aihot.news/items/gkyd4sky4kgzrnz4731l4ogol",
+        "publishedAt": "2026-10-01T17:53:33.838Z"
       }
     ],
     "archive": [
       {
         "date": "2026-10-02",
-        "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
+        "title": "Ataraxos 以85%有效胜率击败最强人类 Stratego 选手，训练成本不足 8000 美元",
         "aihotUrl": "https://aihot.news/daily/2026-10-02"
       },
       {
@@ -326,6 +318,6 @@
         "aihotUrl": "https://aihot.news/daily/2026-09-12"
       }
     ],
-    "shapedAt": "2026-10-02T06:19:43.446Z"
+    "shapedAt": "2026-10-02T12:49:42.704Z"
   }
 }

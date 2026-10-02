@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月2日",
     "demo": false,
-    "updatedAt": "2026-10-02T06:19:41.996Z",
+    "updatedAt": "2026-10-02T12:49:40.101Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 360,
-      "latestCount": 8,
+      "received": 370,
+      "latestCount": 9,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -102,7 +102,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 10,
+          "matched": 11,
           "status": "本次收录"
         },
         {
@@ -138,8 +138,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 2,
+          "status": "本次收录"
         }
       ]
     },
@@ -330,10 +330,10 @@
         }
       },
       {
-        "id": "aihot-jsfmujmgkbd9rnmyz6rz973l3",
-        "title": "AgentWorld 论文：多智能体协作不足三分之一有效",
-        "brief": "AgentWorld 将 3 到 20 个不同角色的 LLM 智能体放入游戏沙盒，执行 50+ 轮的长周期任务，智能体无法看到彼此内部状态，只能通过消息和共享计划协调。",
-        "summary": "AgentWorld 将 3 到 20 个不同角色的 LLM 智能体放入游戏沙盒，执行 50+ 轮的长周期任务，智能体无法看到彼此内部状态，只能通过消息和共享计划协调。",
+        "id": "aihot-uglbjgkun5dqr5zi2jp4wquue",
+        "title": "ProVer：为智能体 RL 精准分配信用",
+        "brief": "ProVer 提出用 LLM judge 定位轨迹中的关键片段、再由 rollout 决定该步信用大小的信用分配方法，解决 GRPO 给轨迹中每个 token 相同 advantage、无法区分决定性步骤的问题。",
+        "summary": "ProVer 提出用 LLM judge 定位轨迹中的关键片段、再由 rollout 决定该步信用大小的信用分配方法，解决 GRPO 给轨迹中每个 token 相同 advantage、无法区分决定性步骤的问题。",
         "category": "研究进展",
         "topic": "Agent",
         "priority": "normal",
@@ -342,10 +342,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2105855550588428584",
-        "aggregateUrl": "https://aihot.news/items/jsfmujmgkbd9rnmyz6rz973l3",
+        "sourceUrl": "https://x.com/omarsar0/status/2105930871534690714",
+        "aggregateUrl": "https://aihot.news/items/uglbjgkun5dqr5zi2jp4wquue",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-02T03:01:02.000Z",
+        "publishedAt": "2026-10-02T08:00:20.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -441,6 +441,43 @@
         }
       },
       {
+        "id": "aihot-lvemvoso12p96xnm759zxr79d",
+        "title": "Kevin Buzzard 谈数学与 AI 的边界",
+        "brief": "Kevin Buzzard（IMO 满分、数论学家、Lean 形式化数学先驱）写了一篇非常有见地的文章 如果数学不只是关于\"人类的理解\"，那它是关于什么的？",
+        "summary": "Kevin Buzzard（IMO 满分、数论学家、Lean 形式化数学先驱）写了一篇非常有见地的文章 如果数学不只是关于\"人类的理解\"，那它是关于什么的？",
+        "category": "实践与观点",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "Thom_Wolf",
+        "sourceGroup": "研究与方法",
+        "sourceName": "Thomas Wolf · @Thom_Wolf",
+        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2105942697349468241",
+        "aggregateUrl": "https://aihot.news/items/lvemvoso12p96xnm759zxr79d",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-02T08:47:20.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Thomas Wolf",
+              "asset": "/assets/identities/thom_wolf.jpg",
+              "assetSource": "https://x.com/Thom_Wolf",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
         "id": "x-karpathy-2079610838143623371",
         "title": "Karpathy：用自由讲述给 LLM 补足上下文",
         "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -488,8 +525,8 @@
         "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
         "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
         "sourceCount": 17,
-        "participantCount": 109,
-        "latestAt": "2026-10-02T04:41:14.000Z",
+        "participantCount": 111,
+        "latestAt": "2026-10-02T11:16:42.021Z",
         "expanded": true,
         "latest": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
         "reports": [
@@ -537,32 +574,32 @@
         "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
         "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
         "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
-        "sourceCount": 1,
-        "participantCount": 15,
-        "latestAt": "2026-10-02T02:24:59.000Z",
+        "sourceCount": 2,
+        "participantCount": 18,
+        "latestAt": "2026-10-02T11:27:37.011Z",
         "expanded": true,
-        "latest": "消息称 Anthropic 寻求最早 11 月中旬启动 IPO，争取感恩节前挂牌",
+        "latest": "Anthropic IPO 招股书警告美国政府态度可能波及客户关系甚至人类文明",
         "reports": [
+          {
+            "title": "Anthropic IPO 招股书警告美国政府态度可能波及客户关系甚至人类文明",
+            "sourceName": "IT之家（RSS）",
+            "sourceUrl": "https://www.ithome.com/1/009/343.htm",
+            "aihotUrl": "https://aihot.news/items/ny6lblv4bai7kwh7u9orq984u",
+            "publishedAt": "2026-10-02T11:15:51.000Z"
+          },
+          {
+            "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+            "aihotUrl": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+            "publishedAt": "2026-10-02T07:23:13.000Z"
+          },
           {
             "title": "消息称 Anthropic 寻求最早 11 月中旬启动 IPO，争取感恩节前挂牌",
             "sourceName": "IT之家（RSS）",
             "sourceUrl": "https://www.ithome.com/1/009/237.htm",
             "aihotUrl": "https://aihot.news/items/dpbzlc983etvb4mqpdc8rly9w",
             "publishedAt": "2026-10-02T02:24:59.000Z"
-          },
-          {
-            "title": "Anthropic IPO 招股书曝光：47% 客户销售收入依赖亚马逊和谷歌渠道",
-            "sourceName": "IT之家（RSS）",
-            "sourceUrl": "https://www.ithome.com/1/008/566.htm",
-            "aihotUrl": "https://aihot.news/items/y6lpl248dxmgsg7p67q1lvbn0",
-            "publishedAt": "2026-09-30T00:08:39.000Z"
-          },
-          {
-            "title": "Anthropic IPO 文件披露对 SpaceX 最高 845 亿美元算力协议",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2104969148690473211",
-            "aihotUrl": "https://aihot.news/items/muhdgtywqe4azzyqqn6dfgk9w",
-            "publishedAt": "2026-09-29T16:18:48.000Z"
           }
         ],
         "related": [],
@@ -588,8 +625,8 @@
         "aihotUrl": "https://aihot.news/items/wx18gjj92zgt5rt0rtj1wy5cc",
         "storyUrl": "https://aihot.news/story/97076b2f-7819-4ece-a2f4-29dc76fdc10b",
         "sourceCount": 5,
-        "participantCount": 12,
-        "latestAt": "2026-10-02T05:24:10.705Z",
+        "participantCount": 15,
+        "latestAt": "2026-10-02T09:01:26.000Z",
         "expanded": true,
         "latest": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
         "reports": [
@@ -631,6 +668,118 @@
       },
       {
         "rank": 4,
+        "id": "htdvt7tia6mwbp3pz2bdlvjb4",
+        "title": "微软发布MAI-Transcribe-2-Streaming流式转写模型",
+        "sourceName": "Microsoft AI：官方博客（网页）",
+        "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+        "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
+        "storyUrl": "https://aihot.news/story/4d391f67-cbae-4a14-89e4-a1f8153d062a",
+        "sourceCount": 6,
+        "participantCount": 15,
+        "latestAt": "2026-10-02T11:23:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Microsoft AI：官方博客（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
+        "id": "qzfc4nrsqe4rk8yxlk16ox6in",
+        "title": "Claude Code mods 发布与示例更新",
+        "sourceName": "Claude：Blog（网页）",
+        "sourceUrl": "https://claude.com/blog/claude-code-mods",
+        "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
+        "storyUrl": "https://aihot.news/story/5971919b-97f0-444a-95e6-3bd40d1e0368",
+        "sourceCount": 2,
+        "participantCount": 12,
+        "latestAt": "2026-10-02T08:34:15.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "Claude Code",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "e7763j3shkmk8j0rorefsy4gn",
+        "title": "Tavus发布Griffin视频交互模型",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
+        "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
+        "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
+        "sourceCount": 6,
+        "participantCount": 14,
+        "latestAt": "2026-10-02T10:25:08.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Rohan Paul (@rohanpaul_ai)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "r9nae38v4x5x29jrec46olsl4",
+        "title": "OpenAI 发布常驻智能体 Dots",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-dots/",
+        "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
+        "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
+        "sourceCount": 1,
+        "participantCount": 15,
+        "latestAt": "2026-10-02T12:04:50.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
         "id": "cmu6ikvfu04ruro0fnxn9exy4",
         "title": "赛力斯与华为回应问界专属专营模式调整",
         "sourceName": "IT之家（RSS）",
@@ -658,118 +807,6 @@
         }
       },
       {
-        "rank": 5,
-        "id": "htdvt7tia6mwbp3pz2bdlvjb4",
-        "title": "Microsoft发布MAI-Transcribe-2-Streaming流式转写模型",
-        "sourceName": "Microsoft AI：官方博客（网页）",
-        "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
-        "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
-        "storyUrl": "https://aihot.news/story/4d391f67-cbae-4a14-89e4-a1f8153d062a",
-        "sourceCount": 5,
-        "participantCount": 13,
-        "latestAt": "2026-10-02T05:35:28.328Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Microsoft AI：官方博客（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
-        "id": "ewa77zkka92qb5lqukt70bfu8",
-        "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
-        "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
-        "sourceCount": 5,
-        "participantCount": 27,
-        "latestAt": "2026-10-01T15:02:44.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
-        "id": "e7763j3shkmk8j0rorefsy4gn",
-        "title": "Tavus发布Griffin视频交互模型",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
-        "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
-        "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
-        "sourceCount": 6,
-        "participantCount": 13,
-        "latestAt": "2026-10-02T04:27:10.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "r9nae38v4x5x29jrec46olsl4",
-        "title": "OpenAI 发布常驻智能体 Dots",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-dots/",
-        "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-        "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
-        "sourceCount": 1,
-        "participantCount": 22,
-        "latestAt": "2026-10-01T22:00:57.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 9,
         "id": "nfwj6zykk26pi551k3u75cwmr",
         "title": "OpenAI解雇3名安全研究员",
@@ -778,8 +815,8 @@
         "aihotUrl": "https://aihot.news/items/nfwj6zykk26pi551k3u75cwmr",
         "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
         "sourceCount": 3,
-        "participantCount": 11,
-        "latestAt": "2026-10-02T01:34:56.000Z",
+        "participantCount": 12,
+        "latestAt": "2026-10-02T06:30:35.508Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -799,15 +836,15 @@
       },
       {
         "rank": 10,
-        "id": "deivg466iwv9ypddacud3hd7d",
-        "title": "Google DeepMind发布SynthID Bio蛋白质水印技术",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
-        "aihotUrl": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
-        "storyUrl": "https://aihot.news/story/eb54737e-789a-4e7c-848c-63c1c5ef1497",
+        "id": "u5b3wwv9ovilrlkuv0mp8xuyr",
+        "title": "arXiv 推出更严格投稿限流政策",
+        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "sourceUrl": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+        "aihotUrl": "https://aihot.news/items/u5b3wwv9ovilrlkuv0mp8xuyr",
+        "storyUrl": "https://aihot.news/story/69db2408-5efe-4929-b6e3-98be0972c21b",
         "sourceCount": 3,
-        "participantCount": 15,
-        "latestAt": "2026-10-02T01:12:06.000Z",
+        "participantCount": 9,
+        "latestAt": "2026-10-02T12:23:53.050Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -815,10 +852,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -829,8 +866,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-02T06:19:41.996Z",
-    "nextCheckAt": 1790922281996,
+    "checkedAt": "2026-10-02T12:49:40.101Z",
+    "nextCheckAt": 1790945680101,
     "intervalSeconds": 300,
     "message": ""
   }
