@@ -1,7 +1,7 @@
 {
   "date": "2026年10月2日",
   "demo": false,
-  "updatedAt": "2026-10-01T21:15:58.236Z",
+  "updatedAt": "2026-10-02T00:51:10.832Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 341,
-    "latestCount": 7,
+    "received": 345,
+    "latestCount": 8,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -56,8 +56,8 @@
         "group": "产品与工程",
         "focus": "AI 工程与开发者生态",
         "url": "https://x.com/swyx",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "simonw",
@@ -74,7 +74,7 @@
         "group": "产品与工程",
         "focus": "编程 Agent 与开发实践",
         "url": "https://x.com/steipete",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 4,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -181,10 +181,47 @@
       }
     },
     {
-      "id": "aihot-m8pv5s5oiisce2ufan4hfklqk",
-      "title": "模型自认属GPT家族引疑问",
-      "brief": "我有很多疑问 @baggiiiie：至少我们知道它认为自己是gpt家族的一员 而且不知怎么的还一度以为是coderabbit 😆",
-      "summary": "我有很多疑问 @baggiiiie：至少我们知道它认为自己是gpt家族的一员 而且不知怎么的还一度以为是coderabbit 😆",
+      "id": "aihot-lgawr3y6pip1wdhqtcxxgutp5",
+      "title": "swyx 更换 AI Engineer NYC 标语",
+      "brief": "我要给 @aidotengineer nyc 换个标语 提前飞过去参加 NY Comic Con。",
+      "summary": "我要给 @aidotengineer nyc 换个标语 提前飞过去参加 NY Comic Con。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "swyx",
+      "sourceGroup": "产品与工程",
+      "sourceName": "swyx · @swyx",
+      "feedName": "X：swyx (@swyx)",
+      "sourceUrl": "https://x.com/swyx/status/2105813399804502403",
+      "aggregateUrl": "https://aihot.news/items/lgawr3y6pip1wdhqtcxxgutp5",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-02T00:13:33.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "swyx",
+            "asset": "/assets/identities/swyx.jpg",
+            "assetSource": "https://x.com/swyx",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "swyx",
+          "asset": "/assets/identities/swyx.jpg",
+          "assetSource": "https://x.com/swyx",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-mzvw5dy8i8zk5amau22b3fgvu",
+      "title": "Cloudflare 发布 Clef 决策模型",
+      "brief": "\"今天，我们发布两个由 Cloudflare 训练的决策模型，Clef 和 Clef-flash\" https://blog.cloudflare.com/clef-decision-models/ 从没见过一个想法传播得如此之快。",
+      "summary": "\"今天，我们发布两个由 Cloudflare 训练的决策模型，Clef 和 Clef-flash\" https://blog.cloudflare.com/clef-decision-models/ 从没见过一个想法传播得如此之快。",
       "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
@@ -193,10 +230,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Peter Steinberger · @steipete",
       "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2105728299255415134",
-      "aggregateUrl": "https://aihot.news/items/m8pv5s5oiisce2ufan4hfklqk",
+      "sourceUrl": "https://x.com/steipete/status/2105778011635400949",
+      "aggregateUrl": "https://aihot.news/items/mzvw5dy8i8zk5amau22b3fgvu",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T18:35:23.000Z",
+      "publishedAt": "2026-10-01T21:52:56.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -366,10 +403,10 @@
       }
     },
     {
-      "id": "aihot-smgs03cbw68rel1fb7sxi6pkn",
-      "title": "Perplexity 开源多模态决策模型 pplx-decider-v1-27b 并推出 Decisions API",
-      "brief": "Perplexity CEO Aravind Srinivas 宣布开源其多模态决策模型 pplx-decider-v1-27b，并通过 Decisions API 提供。",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布开源其多模态决策模型 pplx-decider-v1-27b，并通过 Decisions API 提供。",
+      "id": "aihot-gbxu2p4b7nu54cl5nf6yopcmz",
+      "title": "Perplexity 开源多模态决策模型 pplx-decider-27b 并推出 Decisions API",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布开源多模态决策模型 pplx-decider-27b，并通过新的 Decisions API 提供，输入 token 价格为 4 美分/百万，输出 token 免费，还表示未来几天会进一步降价。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布开源多模态决策模型 pplx-decider-27b，并通过新的 Decisions API 提供，输入 token 价格为 4 美分/百万，输出 token 免费，还表示未来几天会进一步降价。",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -378,10 +415,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2105726953554927677",
-      "aggregateUrl": "https://aihot.news/items/smgs03cbw68rel1fb7sxi6pkn",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2105774153903268288",
+      "aggregateUrl": "https://aihot.news/items/gbxu2p4b7nu54cl5nf6yopcmz",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-01T18:30:02.000Z",
+      "publishedAt": "2026-10-01T21:37:36.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -450,8 +487,8 @@
       "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
       "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
       "sourceCount": 17,
-      "participantCount": 105,
-      "latestAt": "2026-10-01T16:26:41.000Z",
+      "participantCount": 106,
+      "latestAt": "2026-10-01T22:11:47.000Z",
       "expanded": true,
       "latest": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
       "reports": [
@@ -499,8 +536,8 @@
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "aihotUrl": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
       "storyUrl": "https://aihot.news/story/8aeed342-ea41-4b31-bc89-974d2b403fdf",
-      "sourceCount": 6,
-      "participantCount": 51,
+      "sourceCount": 5,
+      "participantCount": 36,
       "latestAt": "2026-10-01T15:02:44.000Z",
       "expanded": true,
       "latest": "Artificial Analysis 评测：GPT-6.1 Sol 推进 OpenAI 模型成本效率前沿",
@@ -562,9 +599,9 @@
       "sourceUrl": "https://openai.com/index/introducing-dots/",
       "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
       "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
-      "sourceCount": 2,
-      "participantCount": 51,
-      "latestAt": "2026-10-01T19:15:44.000Z",
+      "sourceCount": 1,
+      "participantCount": 35,
+      "latestAt": "2026-10-01T22:00:57.000Z",
       "expanded": true,
       "latest": "OpenAI DevDay 发布智能体 Dots，正面竞争 Meta 的免费方案 Muse",
       "reports": [
@@ -627,7 +664,7 @@
       "storyUrl": "https://aihot.news/story/8ade9c6c-461d-4ad7-8ba0-c7927655b7e6",
       "sourceCount": 1,
       "participantCount": 14,
-      "latestAt": "2026-10-01T16:25:19.230Z",
+      "latestAt": "2026-10-02T00:25:25.329Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -647,6 +684,34 @@
     },
     {
       "rank": 5,
+      "id": "e7763j3shkmk8j0rorefsy4gn",
+      "title": "Tavus发布Griffin视频交互模型",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
+      "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
+      "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
+      "sourceCount": 6,
+      "participantCount": 11,
+      "latestAt": "2026-10-01T21:16:04.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "deivg466iwv9ypddacud3hd7d",
       "title": "Google DeepMind发布SynthID Bio蛋白质水印技术",
       "sourceName": "Google DeepMind：Blog（RSS）",
@@ -674,7 +739,63 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "id": "nfwj6zykk26pi551k3u75cwmr",
+      "title": "OpenAI解雇3名安全研究员",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105699698023755976",
+      "aihotUrl": "https://aihot.news/items/nfwj6zykk26pi551k3u75cwmr",
+      "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
+      "sourceCount": 3,
+      "participantCount": 10,
+      "latestAt": "2026-10-01T23:04:22.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "htdvt7tia6mwbp3pz2bdlvjb4",
+      "title": "Microsoft发布MAI-Transcribe-2-Streaming流式转写模型",
+      "sourceName": "Microsoft AI：官方博客（网页）",
+      "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+      "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
+      "storyUrl": "https://aihot.news/story/4d391f67-cbae-4a14-89e4-a1f8153d062a",
+      "sourceCount": 5,
+      "participantCount": 10,
+      "latestAt": "2026-10-02T00:01:35.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Microsoft AI：官方博客（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "nhob7mih29e0owj7ay28t7fvw",
       "title": "FTC加大对AI实验室调查力度",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -702,7 +823,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 10,
       "id": "cmuamhooy0oolro5t7g5o4vtd",
       "title": "华为 Mate 90 系列发布：官宣麒麟 9030/9035 芯片",
       "sourceName": "IT之家（RSS）",
@@ -712,90 +833,6 @@
       "sourceCount": 1,
       "participantCount": 12,
       "latestAt": "2026-10-01T14:39:18.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "e7763j3shkmk8j0rorefsy4gn",
-      "title": "Tavus发布Griffin视频交互模型",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
-      "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
-      "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
-      "sourceCount": 5,
-      "participantCount": 9,
-      "latestAt": "2026-10-01T18:44:33.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "qw3a6btvwdalftejp20ccxjb3",
-      "title": "DeepSeek开源华为昇腾平台基础设施组件",
-      "sourceName": "公众号：DeepSeek（深度求索）",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
-      "aihotUrl": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
-      "storyUrl": "https://aihot.news/story/0708dda9-d77b-4211-8456-eb7b422e0cc9",
-      "sourceCount": 4,
-      "participantCount": 24,
-      "latestAt": "2026-10-01T05:20:25.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "公众号：DeepSeek（深度求索）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "cmu9jwllp040mrogngntwk2d7",
-      "title": "特朗普推动AI改名并筹建AI Force",
-      "sourceName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/004/829.htm",
-      "aihotUrl": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
-      "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f",
-      "sourceCount": 1,
-      "participantCount": 19,
-      "latestAt": "2026-10-01T09:09:01.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
