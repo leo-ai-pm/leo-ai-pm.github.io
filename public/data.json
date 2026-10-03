@@ -1,7 +1,7 @@
 {
   "date": "2026年10月3日",
   "demo": false,
-  "updatedAt": "2026-10-02T22:06:53.369Z",
+  "updatedAt": "2026-10-03T01:07:29.128Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 360,
-    "latestCount": 9,
+    "received": 341,
+    "latestCount": 8,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -47,8 +47,8 @@
         "group": "研究与方法",
         "focus": "LLM、模型使用与学习方法",
         "url": "https://x.com/karpathy",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "历史观点已核对"
       },
       {
         "handle": "swyx",
@@ -56,7 +56,7 @@
         "group": "产品与工程",
         "focus": "AI 工程与开发者生态",
         "url": "https://x.com/swyx",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -110,7 +110,7 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -176,43 +176,6 @@
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
           "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-eigd5p279d9gzkzsjasgt3xtl",
-      "title": "Andrej Karpathy 分享理解 LLM 输出的技巧：从 ASD-STE100 写作到定制讲解视频",
-      "brief": "Andrej Karpathy 分享了几条理解大语言模型输出的方法：让模型用面向航天维护文档的受控语言 ASD-STE100 写作（可要求 80% 程度以放宽约束）、输出图表、生成 HTML 交互网页，以及生成 3b1b 风格的定制讲解视频并用 ElevenLabs API key 做配音。",
-      "summary": "Andrej Karpathy 分享了几条理解大语言模型输出的方法：让模型用面向航天维护文档的受控语言 ASD-STE100 写作（可要求 80% 程度以放宽约束）、输出图表、生成 HTML 交互网页，以及生成 3b1b 风格的定制讲解视频并用 ElevenLabs API key 做配音。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "karpathy",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Andrej Karpathy · @karpathy",
-      "feedName": "X：Andrej Karpathy (@karpathy)",
-      "sourceUrl": "https://x.com/karpathy/status/2105819303471976479",
-      "aggregateUrl": "https://aihot.news/items/eigd5p279d9gzkzsjasgt3xtl",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-02T00:37:00.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Andrej Karpathy",
-            "asset": "/assets/identities/karpathy.jpg",
-            "assetSource": "https://x.com/karpathy",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "实践与观点",
-        "author": {
-          "name": "Andrej Karpathy",
-          "asset": "/assets/identities/karpathy.jpg",
-          "assetSource": "https://x.com/karpathy",
           "tone": "#e9e4dc"
         }
       }
@@ -329,31 +292,31 @@
       }
     },
     {
-      "id": "aihot-tyx8rktvuw6r68zx5ddxiufde",
-      "title": "Kled V3：72小时众包采集AI训练数据",
-      "brief": "Kled V3 推出数据采集平台，实验室可指定所需数据，平台能在 72 小时内向 50 万+ 自愿贡献者网络部署采集任务。",
-      "summary": "Kled V3 推出数据采集平台，实验室可指定所需数据，平台能在 72 小时内向 50 万+ 自愿贡献者网络部署采集任务。",
+      "id": "aihot-uis2h0h6iaidzvesj2eiwzlxr",
+      "title": "OpenAI DevDay：优化智能体应用的4个关键杠杆",
+      "brief": "OpenAI DevDay 笔记指出，构建智能体应用优化成本与性能的4个关键杠杆是：prompt caching、reasoning effort、programmatic tool calling 和 batch request。",
+      "summary": "OpenAI DevDay 笔记指出，构建智能体应用优化成本与性能的4个关键杠杆是：prompt caching、reasoning effort、programmatic tool calling 和 batch request。",
       "category": "实践与观点",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2106060301917429889",
-      "aggregateUrl": "https://aihot.news/items/tyx8rktvuw6r68zx5ddxiufde",
+      "sourceUrl": "https://x.com/omarsar0/status/2106144801708261390",
+      "aggregateUrl": "https://aihot.news/items/uis2h0h6iaidzvesj2eiwzlxr",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-02T16:34:39.000Z",
+      "publishedAt": "2026-10-02T22:10:25.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Elvis Saravia",
-            "asset": "/assets/identities/omarsar0.jpg",
-            "assetSource": "https://x.com/omarsar0",
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "实践与观点",
@@ -366,10 +329,10 @@
       }
     },
     {
-      "id": "aihot-em16vqo4wra4n9dy9w0luczyk",
-      "title": "Sam Altman 盛赞 OpenAI dot 产品",
-      "brief": "dot 是我目前最喜欢的 openai 产品！",
-      "summary": "dot 是我目前最喜欢的 openai 产品！",
+      "id": "aihot-qydreqbnarbk6f7uk22s7ccof",
+      "title": "OpenAI 与 Cerebras 合作关系回应",
+      "brief": "关于我们与 Cerebras 的合作关系，有一些猜测。",
+      "summary": "关于我们与 Cerebras 的合作关系，有一些猜测。",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -378,20 +341,14 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Sam Altman · @sama",
       "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2106085986606403684",
-      "aggregateUrl": "https://aihot.news/items/em16vqo4wra4n9dy9w0luczyk",
+      "sourceUrl": "https://x.com/sama/status/2106147184693620924",
+      "aggregateUrl": "https://aihot.news/items/qydreqbnarbk6f7uk22s7ccof",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-02T18:16:43.000Z",
+      "publishedAt": "2026-10-02T22:19:53.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          },
           {
             "name": "OpenAI",
             "asset": "/assets/identities/openai.jpg",
@@ -529,8 +486,8 @@
       "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
       "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
-      "sourceCount": 4,
-      "participantCount": 68,
+      "sourceCount": 1,
+      "participantCount": 54,
       "latestAt": "2026-10-02T20:07:01.000Z",
       "expanded": true,
       "latest": "谷歌逐步推出 Gemini 4 Argon 旗舰模型，内部对编码实战表现存在质疑",
@@ -573,6 +530,111 @@
     },
     {
       "rank": 2,
+      "id": "gwtipws3qkxm941aqz5iluhdi",
+      "title": "Meta否认Muse读取私信，Apple收紧macOS权限",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "aihotUrl": "https://aihot.news/items/gwtipws3qkxm941aqz5iluhdi",
+      "storyUrl": "https://aihot.news/story/739a7589-bbae-4e8d-8bec-d6908b779010",
+      "sourceCount": 5,
+      "participantCount": 16,
+      "latestAt": "2026-10-03T00:39:54.866Z",
+      "expanded": true,
+      "latest": "苹果宣布收紧 macOS 全盘访问权限，提及 AI 智能体带来的风险增长",
+      "reports": [
+        {
+          "title": "苹果宣布收紧 macOS 全盘访问权限，提及 AI 智能体带来的风险增长",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "sourceUrl": "https://developer.apple.com/news/?id=p6zjojqw",
+          "aihotUrl": "https://aihot.news/items/qhzanz38hg3n6ywmfxzzdhhyr",
+          "publishedAt": "2026-10-03T00:39:54.866Z"
+        },
+        {
+          "title": "苹果收紧 macOS 27 等系统完全磁盘访问权限，降低 AI 智能体操控风险",
+          "sourceName": "IT之家（RSS）",
+          "sourceUrl": "https://www.ithome.com/1/009/381.htm",
+          "aihotUrl": "https://aihot.news/items/p4l4hxa5l7nxtr5vdbwr39to7",
+          "publishedAt": "2026-10-02T23:47:28.000Z"
+        },
+        {
+          "title": "Apple 修改 macOS 完全磁盘访问权限，限制 AI 智能体滥用",
+          "sourceName": "Ars Technica：AI（RSS）",
+          "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "aihotUrl": "https://aihot.news/items/vxir2xm4o5t08z5pbqezl2z4e",
+          "publishedAt": "2026-10-02T23:03:16.000Z"
+        }
+      ],
+      "related": [
+        {
+          "title": "Meta Muse：Mac 桌面操作、硬件布局与安全争议",
+          "storyUrl": "https://aihot.news/story/d5a2acd1-a134-4099-b889-72d1cc473595"
+        }
+      ],
+      "visual": {
+        "entities": [
+          {
+            "name": "The Verge：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 3,
+      "id": "ln6ere28kepk46azfanwaucm2",
+      "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
+      "storyUrl": "https://aihot.news/story/e3d54065-1571-44a0-91b5-79600744e735",
+      "sourceCount": 4,
+      "participantCount": 14,
+      "latestAt": "2026-10-03T00:45:39.000Z",
+      "expanded": true,
+      "latest": "Meta 开源 Muse Gadgets，让开发者自建硬件接入 Muse 智能体",
+      "reports": [
+        {
+          "title": "Meta 开源 Muse Gadgets，让开发者自建硬件接入 Muse 智能体",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "aihotUrl": "https://aihot.news/items/tc398jmxp0slbixzmabhhb7hw",
+          "publishedAt": "2026-10-03T00:45:39.000Z"
+        },
+        {
+          "title": "Meta 开源 Muse 代码，支持自建 Muse AI 小设备",
+          "sourceName": "The Verge：AI（RSS）",
+          "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+          "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
+          "publishedAt": "2026-10-02T21:08:37.000Z"
+        },
+        {
+          "title": "Meta 开源 Muse Gadgets，并推出连接家用设备的 Muse Home Link",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2106129224235208903",
+          "aihotUrl": "https://aihot.news/items/a6w4b2qipa711vbbgs1d8tkb4",
+          "publishedAt": "2026-10-02T21:08:31.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "The Verge：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "wx18gjj92zgt5rt0rtj1wy5cc",
       "title": "Cloudflare 开源决策模型 Clef 与 Clef-flash",
       "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -582,31 +644,9 @@
       "sourceCount": 6,
       "participantCount": 19,
       "latestAt": "2026-10-02T20:21:32.000Z",
-      "expanded": true,
-      "latest": "Cloudflare 发布决策模型 Clef 和 Clef-flash，称智能体决策无需人类介入",
-      "reports": [
-        {
-          "title": "Cloudflare 发布决策模型 Clef 和 Clef-flash，称智能体决策无需人类介入",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
-          "aihotUrl": "https://aihot.news/items/buksr9bsnxbhebvm775kga7z8",
-          "publishedAt": "2026-10-02T18:19:51.000Z"
-        },
-        {
-          "title": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
-          "sourceName": "IT之家（RSS）",
-          "sourceUrl": "https://www.ithome.com/1/009/262.htm",
-          "aihotUrl": "https://aihot.news/items/hecloufmmayhnvll62l69d6h4",
-          "publishedAt": "2026-10-02T04:45:28.000Z"
-        },
-        {
-          "title": "Cloudflare 推出 Apache 2.0 开源的分拣模型 Clef，用于 Agent 任务分发",
-          "sourceName": "X：小北 (@frxiaobei)",
-          "sourceUrl": "https://x.com/frxiaobei/status/2105877133046526081",
-          "aihotUrl": "https://aihot.news/items/vkmro6hid3hdbt9xeow9ijv3p",
-          "publishedAt": "2026-10-02T04:26:48.000Z"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -622,57 +662,7 @@
       }
     },
     {
-      "rank": 3,
-      "id": "khyjby0mw5t22dn9zw2l6fflu",
-      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-      "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
-      "sourceCount": 2,
-      "participantCount": 18,
-      "latestAt": "2026-10-02T18:10:13.000Z",
-      "expanded": true,
-      "latest": "Anthropic IPO 招股书警告美国政府态度可能波及客户关系甚至人类文明",
-      "reports": [
-        {
-          "title": "Anthropic IPO 前景承压：路透泄露招股书显示年运营亏损约 80 亿美元",
-          "sourceName": "Newcomer 新闻长文（RSS）",
-          "sourceUrl": "https://www.newcomer.co/p/anthropics-ipo-cant-wait-forever",
-          "aihotUrl": "https://aihot.news/items/l7d4z128z1px1foaft4p4dgdo",
-          "publishedAt": "2026-10-02T16:39:49.000Z"
-        },
-        {
-          "title": "Anthropic IPO 招股书警告美国政府态度可能波及客户关系甚至人类文明",
-          "sourceName": "IT之家（RSS）",
-          "sourceUrl": "https://www.ithome.com/1/009/343.htm",
-          "aihotUrl": "https://aihot.news/items/ny6lblv4bai7kwh7u9orq984u",
-          "publishedAt": "2026-10-02T11:15:51.000Z"
-        },
-        {
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "aihotUrl": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
-          "publishedAt": "2026-10-02T07:23:13.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "IPO",
-        "author": null
-      }
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "id": "epb245so8hb7m1r74gumw2dze",
       "title": "英伟达发布64GB内存版DGX Spark",
       "sourceName": "NVIDIA Blog（RSS）",
@@ -680,8 +670,8 @@
       "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
       "storyUrl": "https://aihot.news/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8",
       "sourceCount": 3,
-      "participantCount": 13,
-      "latestAt": "2026-10-02T18:04:56.000Z",
+      "participantCount": 14,
+      "latestAt": "2026-10-02T23:00:38.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -700,7 +690,35 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "khyjby0mw5t22dn9zw2l6fflu",
+      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
+      "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
+      "sourceCount": 2,
+      "participantCount": 18,
+      "latestAt": "2026-10-02T18:10:13.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "IPO",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "e7763j3shkmk8j0rorefsy4gn",
       "title": "Tavus发布Griffin视频交互模型",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -728,35 +746,7 @@
       }
     },
     {
-      "rank": 6,
-      "id": "gr02b1qk3fnomtu01jx1kp853",
-      "title": "Meta否认Muse未经同意读取用户私信",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "aihotUrl": "https://aihot.news/items/gr02b1qk3fnomtu01jx1kp853",
-      "storyUrl": "https://aihot.news/story/739a7589-bbae-4e8d-8bec-d6908b779010",
-      "sourceCount": 3,
-      "participantCount": 13,
-      "latestAt": "2026-10-02T21:33:02.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "TechCrunch：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "id": "htdvt7tia6mwbp3pz2bdlvjb4",
       "title": "微软发布MAI-Transcribe-2-Streaming流式转写模型",
       "sourceName": "Microsoft AI：官方博客（网页）",
@@ -774,34 +764,6 @@
         "entities": [
           {
             "name": "Microsoft AI：官方博客（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "ln6ere28kepk46azfanwaucm2",
-      "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
-      "sourceName": "The Verge：AI（RSS）",
-      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
-      "storyUrl": "https://aihot.news/story/e3d54065-1571-44a0-91b5-79600744e735",
-      "sourceCount": 3,
-      "participantCount": 10,
-      "latestAt": "2026-10-02T22:02:39.858Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "The Verge：AI（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -848,7 +810,7 @@
       "aihotUrl": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
       "storyUrl": "https://aihot.news/story/a303df3a-51f9-454b-8dda-5ac2f2f71842",
       "sourceCount": 2,
-      "participantCount": 15,
+      "participantCount": 13,
       "latestAt": "2026-10-02T20:53:01.000Z",
       "expanded": false,
       "latest": "",
