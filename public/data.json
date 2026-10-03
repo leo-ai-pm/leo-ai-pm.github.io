@@ -1,7 +1,7 @@
 {
   "date": "2026年10月4日",
   "demo": false,
-  "updatedAt": "2026-10-03T16:08:37.500Z",
+  "updatedAt": "2026-10-03T19:16:13.504Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 246,
-    "latestCount": 8,
+    "received": 206,
+    "latestCount": 7,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 5,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -110,7 +110,7 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -137,29 +137,29 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-ydzr3fuytu2bq26e5ekfsq6ex",
-      "title": "OpenAI 未来模型将更擅长代码删除与简化",
-      "brief": "幸运的是，我们未来的模型在代码删除和简化方面会强得多。",
-      "summary": "幸运的是，我们未来的模型在代码删除和简化方面会强得多。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
+      "id": "aihot-i27a270pq5xm2putks95u6j7i",
+      "title": "OpenAI 征集 Codex 缺失功能",
+      "brief": "Codex 里缺了什么功能是你希望我们有的？",
+      "summary": "Codex 里缺了什么功能是你希望我们有的？",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "thsottiaux",
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2106252868307271752",
-      "aggregateUrl": "https://aihot.news/items/ydzr3fuytu2bq26e5ekfsq6ex",
+      "sourceUrl": "https://x.com/thsottiaux/status/2106439068557144179",
+      "aggregateUrl": "https://aihot.news/items/i27a270pq5xm2putks95u6j7i",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-03T05:19:50.000Z",
+      "publishedAt": "2026-10-03T17:39:44.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -171,7 +171,7 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "产品动态",
         "author": {
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
@@ -218,11 +218,11 @@
       }
     },
     {
-      "id": "aihot-wk98a60v31uqgd7id5u5fsw9e",
-      "title": "DevDay 最喜爱幻灯片",
-      "brief": "这是我在 DevDay 上最喜欢的一张幻灯片。",
-      "summary": "这是我在 DevDay 上最喜欢的一张幻灯片。",
-      "category": "产品动态",
+      "id": "aihot-d0vfm4fooivsaozq7b0f1grnq",
+      "title": "OpenClaw 安卓应用审核卡壳一周",
+      "brief": "我认识 Google 的人能帮上忙吗？",
+      "summary": "我认识 Google 的人能帮上忙吗？",
+      "category": "行业观察",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -230,10 +230,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Peter Steinberger · @steipete",
       "feedName": "X：Peter Steinberger (@steipete)",
-      "sourceUrl": "https://x.com/steipete/status/2106076508020506722",
-      "aggregateUrl": "https://aihot.news/items/wk98a60v31uqgd7id5u5fsw9e",
+      "sourceUrl": "https://x.com/steipete/status/2106446147791597774",
+      "aggregateUrl": "https://aihot.news/items/d0vfm4fooivsaozq7b0f1grnq",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-02T17:39:03.000Z",
+      "publishedAt": "2026-10-03T18:07:52.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -245,7 +245,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "行业观察",
         "author": {
           "name": "Peter Steinberger",
           "asset": "/assets/identities/steipete.png",
@@ -255,10 +255,10 @@
       }
     },
     {
-      "id": "aihot-fcn22k6vifgip5ua55esz3t9f",
-      "title": "Ethan Mollick 新书《Co-Existence》为 AI 读者设专页",
-      "brief": "我觉得我即将出版的新书《Co-Existence》可能是第一本专门为 AI 读者撰写推荐语的书，这次来自 @tylercowen（我以为 AI 会尊重他） 这本书的网站（含精心准备的预购奖励）也有一个面向 AI 的页面：https://co-existence.ai/",
-      "summary": "我觉得我即将出版的新书《Co-Existence》可能是第一本专门为 AI 读者撰写推荐语的书，这次来自 @tylercowen（我以为 AI 会尊重他） 这本书的网站（含精心准备的预购奖励）也有一个面向 AI 的页面：https://co-existence.ai/",
+      "id": "aihot-aagghi114pwfh8s1iou7u4rqi",
+      "title": "如何想象超级智能",
+      "brief": "你如何想象超级智能（如果真正的超级智能真能存在的话）？",
+      "summary": "你如何想象超级智能（如果真正的超级智能真能存在的话）？",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -267,10 +267,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2106400580881252721",
-      "aggregateUrl": "https://aihot.news/items/fcn22k6vifgip5ua55esz3t9f",
+      "sourceUrl": "https://x.com/emollick/status/2106419619783127225",
+      "aggregateUrl": "https://aihot.news/items/aagghi114pwfh8s1iou7u4rqi",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-03T15:06:48.000Z",
+      "publishedAt": "2026-10-03T16:22:27.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -292,22 +292,22 @@
       }
     },
     {
-      "id": "aihot-vu6sv168rduwmycpni8m9jq35",
-      "title": "Elvis Saravia 实测 Cartesia Sonic 3.6 用 15 秒音频克隆语音并讲日语",
-      "brief": "作者在 Cartesia playground 用约 15 秒音频克隆自己的声音，几秒内完成，并让克隆声音说出他不会讲的日语。",
-      "summary": "作者在 Cartesia playground 用约 15 秒音频克隆自己的声音，几秒内完成，并让克隆声音说出他不会讲的日语。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
+      "id": "aihot-pooxivdv3tp2kn11mr9i97lrp",
+      "title": "Meta Superintelligence Labs 提出 Sharpening Tax：RL 后训练提升 pass@1 但损失测试时扩展性",
+      "brief": "Meta Superintelligence Labs 等发表论文，发现带轻量推理框架的预训练 LLM 在足够采样预算下解决智能体任务的覆盖面常超过 RL 后训练版本，如 BFCL v4 多轮、ACEBench 和 WebShop 上后训练模型赢在 pass@1，但基座模型在大 K 下常解出后训练模型从未解出的任务。",
+      "summary": "Meta Superintelligence Labs 等发表论文，发现带轻量推理框架的预训练 LLM 在足够采样预算下解决智能体任务的覆盖面常超过 RL 后训练版本，如 BFCL v4 多轮、ACEBench 和 WebShop 上后训练模型赢在 pass@1，但基座模型在大 K 下常解出后训练模型从未解出的任务。",
+      "category": "研究进展",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2106392210023309338",
-      "aggregateUrl": "https://aihot.news/items/vu6sv168rduwmycpni8m9jq35",
+      "sourceUrl": "https://x.com/omarsar0/status/2106423166788669445",
+      "aggregateUrl": "https://aihot.news/items/pooxivdv3tp2kn11mr9i97lrp",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-03T14:33:32.000Z",
+      "publishedAt": "2026-10-03T16:36:33.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -319,7 +319,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "研究进展",
         "author": {
           "name": "Elvis Saravia",
           "asset": "/assets/identities/omarsar0.jpg",
@@ -398,43 +398,6 @@
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-y5aowu8fmcmsp3nu9naxls9i8",
-      "title": "Sigil 推出设备端私人 AI Underdog",
-      "brief": "个人 AI 显然应该跑在你的设备上 很喜欢 Sigil 用 Underdog 在做的事——由 Hugging Face hub 提供支持",
-      "summary": "个人 AI 显然应该跑在你的设备上 很喜欢 Sigil 用 Underdog 在做的事——由 Hugging Face hub 提供支持",
-      "category": "实践与观点",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "Thom_Wolf",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Thomas Wolf · @Thom_Wolf",
-      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2106072600778596742",
-      "aggregateUrl": "https://aihot.news/items/y5aowu8fmcmsp3nu9naxls9i8",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-02T17:23:31.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "实践与观点",
-        "author": {
-          "name": "Thomas Wolf",
-          "asset": "/assets/identities/thom_wolf.jpg",
-          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
@@ -585,6 +548,56 @@
     },
     {
       "rank": 3,
+      "id": "xmlfce496prtvqpqmcupmsssc",
+      "title": "OpenAI安全系统负责人戴维·罗宾逊离职",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "aihotUrl": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
+      "storyUrl": "https://aihot.news/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379",
+      "sourceCount": 4,
+      "participantCount": 12,
+      "latestAt": "2026-10-03T18:11:11.208Z",
+      "expanded": true,
+      "latest": "OpenAI 安全员工 David Robinson 离职，称公司文化已坏",
+      "reports": [
+        {
+          "title": "OpenAI 安全员工 David Robinson 离职，称公司文化已坏",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "aihotUrl": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
+          "publishedAt": "2026-10-03T16:30:01.000Z"
+        },
+        {
+          "title": "OpenAI 安全研究员 David Robinson 离职并公开警告行业文化已坏",
+          "sourceName": "The Verge：AI（RSS）",
+          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "aihotUrl": "https://aihot.news/items/fe2gga88y364347hjqixd4o04",
+          "publishedAt": "2026-10-03T14:31:56.000Z"
+        },
+        {
+          "title": "OpenAI 安全团队成员 David Robinson 离职并公开批评其安全文化",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+          "aihotUrl": "https://aihot.news/items/bx40ykv9ey4upz0qbnjllcgii",
+          "publishedAt": "2026-10-03T14:01:14.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "qzfc4nrsqe4rk8yxlk16ox6in",
       "title": "Claude Code mods 发布与示例更新",
       "sourceName": "Claude：Blog（网页）",
@@ -594,31 +607,9 @@
       "sourceCount": 3,
       "participantCount": 18,
       "latestAt": "2026-10-03T08:10:31.000Z",
-      "expanded": true,
-      "latest": "Anthropic 为 Claude Code 推出 Mods 系统，可用 JS/TS 函数改写工具内部行为",
-      "reports": [
-        {
-          "title": "Anthropic 为 Claude Code 推出 Mods 系统，可用 JS/TS 函数改写工具内部行为",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
-          "aihotUrl": "https://aihot.news/items/qmnpsbc0zp31fn6d1zrjo3hpy",
-          "publishedAt": "2026-10-03T07:12:09.000Z"
-        },
-        {
-          "title": "Claude Code 新增\"You should know\"插件",
-          "sourceName": "X：Thariq (@trq212)",
-          "sourceUrl": "https://x.com/trq212/status/2106119299484221762",
-          "aihotUrl": "https://aihot.news/items/d8880mn82oc40x39ncrvox1hk",
-          "publishedAt": "2026-10-02T20:29:05.000Z"
-        },
-        {
-          "title": "Claude Code mods 新博文介绍",
-          "sourceName": "X：Claude Devs (@ClaudeDevs)",
-          "sourceUrl": "https://x.com/ClaudeDevs/status/2106118519368888562",
-          "aihotUrl": "https://aihot.news/items/p7vmt9th9t3giqb4i8z4117qc",
-          "publishedAt": "2026-10-02T20:25:59.000Z"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -634,7 +625,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "epb245so8hb7m1r74gumw2dze",
       "title": "英伟达发布64GB内存版DGX Spark",
       "sourceName": "NVIDIA Blog（RSS）",
@@ -642,8 +633,8 @@
       "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
       "storyUrl": "https://aihot.news/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8",
       "sourceCount": 3,
-      "participantCount": 15,
-      "latestAt": "2026-10-03T14:12:17.000Z",
+      "participantCount": 16,
+      "latestAt": "2026-10-03T16:02:00.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -662,15 +653,15 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "wx18gjj92zgt5rt0rtj1wy5cc",
       "title": "Cloudflare 开源决策模型 Clef 与 Clef-flash",
       "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
       "sourceUrl": "https://blog.cloudflare.com/clef-decision-models/",
       "aihotUrl": "https://aihot.news/items/wx18gjj92zgt5rt0rtj1wy5cc",
       "storyUrl": "https://aihot.news/story/97076b2f-7819-4ece-a2f4-29dc76fdc10b",
-      "sourceCount": 6,
-      "participantCount": 19,
+      "sourceCount": 5,
+      "participantCount": 18,
       "latestAt": "2026-10-02T20:21:32.000Z",
       "expanded": false,
       "latest": "",
@@ -690,16 +681,16 @@
       }
     },
     {
-      "rank": 6,
-      "id": "htdvt7tia6mwbp3pz2bdlvjb4",
-      "title": "微软发布MAI-Transcribe-2-Streaming流式转写模型",
-      "sourceName": "Microsoft AI：官方博客（网页）",
-      "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
-      "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
-      "storyUrl": "https://aihot.news/story/4d391f67-cbae-4a14-89e4-a1f8153d062a",
-      "sourceCount": 6,
-      "participantCount": 18,
-      "latestAt": "2026-10-03T12:01:18.000Z",
+      "rank": 7,
+      "id": "jak6gxsz68wsqdq6n9504d36o",
+      "title": "Sam Altman 谈 AI 模型安全",
+      "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+      "sourceUrl": "https://x.com/Yuchenj_UW/status/2106395374923796759",
+      "aihotUrl": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
+      "storyUrl": "https://aihot.news/story/341ef8c2-d918-4e24-9391-99616e1c1a9a",
+      "sourceCount": 3,
+      "participantCount": 7,
+      "latestAt": "2026-10-03T18:56:30.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -707,7 +698,7 @@
       "visual": {
         "entities": [
           {
-            "name": "Microsoft AI：官方博客（网页）",
+            "name": "X：Yuchen Jin (@Yuchenj_UW)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -718,44 +709,16 @@
       }
     },
     {
-      "rank": 7,
-      "id": "khyjby0mw5t22dn9zw2l6fflu",
-      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-      "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
-      "sourceCount": 2,
-      "participantCount": 18,
-      "latestAt": "2026-10-03T01:16:54.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "IPO",
-        "author": null
-      }
-    },
-    {
       "rank": 8,
-      "id": "moj2192grdt2bjkjt5rtcj6ob",
-      "title": "OpenAI安全系统团队负责人戴维·罗宾逊离职",
-      "sourceName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/009/385.htm",
-      "aihotUrl": "https://aihot.news/items/moj2192grdt2bjkjt5rtcj6ob",
-      "storyUrl": "https://aihot.news/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379",
-      "sourceCount": 2,
-      "participantCount": 9,
-      "latestAt": "2026-10-03T14:54:28.283Z",
+      "id": "y475ev20b3138yoqrlo3z4wrr",
+      "title": "Aleph Alpha 开源德英双语模型 Kolibri",
+      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "sourceUrl": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "aihotUrl": "https://aihot.news/items/y475ev20b3138yoqrlo3z4wrr",
+      "storyUrl": "https://aihot.news/story/b1397672-bf6e-47dc-af9a-895fd7021161",
+      "sourceCount": 5,
+      "participantCount": 7,
+      "latestAt": "2026-10-03T18:39:35.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -763,10 +726,10 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
@@ -775,34 +738,6 @@
     },
     {
       "rank": 9,
-      "id": "e7763j3shkmk8j0rorefsy4gn",
-      "title": "Tavus发布Griffin视频交互模型",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2105715526748225562",
-      "aihotUrl": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
-      "storyUrl": "https://aihot.news/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f",
-      "sourceCount": 6,
-      "participantCount": 18,
-      "latestAt": "2026-10-02T18:45:03.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "cmufmmqzd05m0ro8wkyps02zf",
       "title": "谷歌发射 TPU 卫星测试太空 AI 算力",
       "sourceName": "The Verge：AI（RSS）",
@@ -810,7 +745,7 @@
       "aihotUrl": "https://aihot.news/items/cmufmmqzd05m0ro8wkyps02zf",
       "storyUrl": "https://aihot.news/story/520acd88-e766-43f1-af56-5754af0ee294",
       "sourceCount": 3,
-      "participantCount": 12,
+      "participantCount": 13,
       "latestAt": "2026-10-03T13:25:42.593Z",
       "expanded": false,
       "latest": "",
@@ -826,6 +761,34 @@
           }
         ],
         "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "khyjby0mw5t22dn9zw2l6fflu",
+      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
+      "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
+      "sourceCount": 2,
+      "participantCount": 16,
+      "latestAt": "2026-10-03T01:16:54.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "IPO",
         "author": null
       }
     }
