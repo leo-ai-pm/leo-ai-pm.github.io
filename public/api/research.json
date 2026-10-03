@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-03T06:36:19.692Z",
-      "lastSuccessAt": "2026-10-03T06:36:19.692Z",
-      "nextCheckAt": 1791012979692,
+      "checkedAt": "2026-10-03T11:58:30.886Z",
+      "lastSuccessAt": "2026-10-03T11:58:30.886Z",
+      "nextCheckAt": 1791032310886,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-03T06:36:19.693Z",
-      "lastSuccessAt": "2026-10-03T06:36:19.693Z",
-      "nextCheckAt": 1791012979693,
+      "checkedAt": "2026-10-03T11:58:30.888Z",
+      "lastSuccessAt": "2026-10-03T11:58:30.888Z",
+      "nextCheckAt": 1791032310888,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-03T06:36:19.694Z",
-      "lastSuccessAt": "2026-10-03T06:36:19.694Z",
-      "nextCheckAt": 1791012979694,
+      "checkedAt": "2026-10-03T11:58:30.889Z",
+      "lastSuccessAt": "2026-10-03T11:58:30.889Z",
+      "nextCheckAt": 1791032310889,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791012979889,
-      "checkedAt": "2026-10-03T06:36:19.889Z",
-      "lastSuccessAt": "2026-10-03T06:36:19.889Z",
+      "nextCheckAt": 1791032311113,
+      "checkedAt": "2026-10-03T11:58:31.113Z",
+      "lastSuccessAt": "2026-10-03T11:58:31.113Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791012979692,
+  "nextCheckAt": 1791032310886,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/evaluating/6473388.html",
+      "title": "实测 ChatGPT Dot，龙虾转生？不完全是。",
+      "summary": "ChatGPT Dot 由 GPT-6 Astra 驱动，任务跑在云端电脑、不占周限额，定位是有独立身份、全天候常驻的智能体，而不是随开随关的对话框。Muse、Cue、Grok Bot 都已下场，Dot 的差别在磁盘持久化和 4,000 多个应用连接。 OpenAI 在 DevDay 上放出了重磅杀器：ChatGPT Dot，亮点是由最新的旗舰模型 GPT-6 Astra 驱动，云端电脑执行任务，不消耗周限额 不过热闹背后，很多朋友进到",
+      "publishedAt": "2026-10-03T09:39:44.000Z",
+      "url": "https://www.woshipm.com/evaluating/6473388.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6473388.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "ChatGPT Dot 由 GPT-6 Astra 驱动，任务跑在云端电脑、不占周限额，定位是有独立身份、全天候常驻的智能体，而不是随开随关的对话框。Muse、Cue、Grok Bot 都已下场，Dot 的差别在磁盘持久化和 4,000 多个应用连接。 OpenAI 在 DevDay 上放出了重磅杀器：ChatGPT Dot，亮点是由最新的旗舰模型 GPT-6 Astra 驱动，云端电脑执行任务，不消耗周限额 不过热闹背后，很多朋友进到",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6473488.html",
+      "title": "豆包/千问/元宝，集体转向 Personal Agent",
+      "summary": "国内前四的通用型AI助理里，除了DeepSeek，豆包、千问、元宝正集体转向Personal AI Agent。豆包内部在做一款对标Meta Muse的产品，代号Spell，名字或叫小豆，据称仅用6天拿出内测体验版。 年初Claw龙虾热，年中办公Agent潮，年末的风向来到了个人 Agent。 也就是Meta 掀起的 Personal AI Agent 风。 回看国内， 国内前四的通用型 AI 助理。 除了 DeepSeek，豆包、千问",
+      "publishedAt": "2026-10-03T08:19:15.000Z",
+      "url": "https://www.woshipm.com/ai/6473488.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6473488.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "国内前四的通用型AI助理里，除了DeepSeek，豆包、千问、元宝正集体转向Personal AI Agent。豆包内部在做一款对标Meta Muse的产品，代号Spell，名字或叫小豆，据称仅用6天拿出内测体验版。 年初Claw龙虾热，年中办公Agent潮，年末的风向来到了个人 Agent。 也就是Meta 掀起的 Personal AI Agent 风。 回看国内， 国内前四的通用型 AI 助理。 除了 DeepSeek，豆包、千问",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6473412.html",
       "title": "从一句话需求到可运营网站：WorkBuddy 建站工作流实录",
@@ -131,87 +211,87 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/share/6473406.html",
-      "title": "Higgsfield 创始人万字复盘：AI 应用死于自研模型的技术虚荣，控制流量路由才是真实护城河",
-      "summary": "一家生成式 AI 公司用 18 个月把年化收入从 100 万美元推到 10 亿美元，此前一年烧掉超 1000 万美元、迟迟找不到产品市场匹配，转折点是访谈八位资深创意总监后从「镜头与运镜控制」切入。创始人还给出判断：只调闭源 API 毛利率可能只有 20%—30%。 Higgsfield 是目前增长最快的生成式 AI 公司之一。按照创始人 Alex Mashrabov 在访谈中的说法，公司仅用 18 个月，就将年化收入从 100 万美元",
-      "publishedAt": "2026-10-03T03:09:50.000Z",
-      "url": "https://www.woshipm.com/share/6473406.html",
+      "id": "ph:https://www.producthunt.com/products/sapien-4",
+      "title": "Sapien",
+      "summary": "AI market research with synthetic populations",
+      "publishedAt": "2026-10-03T02:30:10.000Z",
+      "url": "https://www.producthunt.com/products/sapien-4",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6473406.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "一家生成式 AI 公司用 18 个月把年化收入从 100 万美元推到 10 亿美元，此前一年烧掉超 1000 万美元、迟迟找不到产品市场匹配，转折点是访谈八位资深创意总监后从「镜头与运镜控制」切入。创始人还给出判断：只调闭源 API 毛利率可能只有 20%—30%。 Higgsfield 是目前增长最快的生成式 AI 公司之一。按照创始人 Alex Mashrabov 在访谈中的说法，公司仅用 18 个月，就将年化收入从 100 万美元",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/sapien-4",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI market research with synthetic populations",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6473390.html",
-      "title": "半年人工喂出来的AI客服：从0到1打磨生产级RAG系统，越用越聪明",
-      "summary": "一个语言学习 App 上线后靠创始人轮流当客服，每天要花两三个小时回答重复问题，这种状态持续了半年多，也顺带攒下了真实语料。落到工程上，团队在低代码平台和自建代码之间选了后者：知识库检索要求高，召回策略、排序逻辑和上下文拼接都得自己调。 之前我们说过23年是模型初年，主要行业主要着眼于模型，史称百模大战； 然后很快大家发现确实卷不动，于是开始冷静下来，找切实的落地场景，所以24年都在做应用，AI应用三巨头依次是：AIGC（窗口生成文案）",
-      "publishedAt": "2026-10-03T02:29:46.000Z",
-      "url": "https://www.woshipm.com/ai/6473390.html",
+      "id": "ph:https://www.producthunt.com/products/muse-22",
+      "title": "Muse Gadgets",
+      "summary": "Meta's open-source kit for building your own AI gadgets",
+      "publishedAt": "2026-10-03T02:07:11.000Z",
+      "url": "https://www.producthunt.com/products/muse-22",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473390.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "一个语言学习 App 上线后靠创始人轮流当客服，每天要花两三个小时回答重复问题，这种状态持续了半年多，也顺带攒下了真实语料。落到工程上，团队在低代码平台和自建代码之间选了后者：知识库检索要求高，召回策略、排序逻辑和上下文拼接都得自己调。 之前我们说过23年是模型初年，主要行业主要着眼于模型，史称百模大战； 然后很快大家发现确实卷不动，于是开始冷静下来，找切实的落地场景，所以24年都在做应用，AI应用三巨头依次是：AIGC（窗口生成文案）",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/muse-22",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Meta's open-source kit for building your own AI gadgets",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/finbar-2",
@@ -331,86 +411,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/never-boring-ai",
-      "title": "Never Boring AI",
-      "summary": "The AI agent that writes your LinkedIn posts in your voice",
-      "publishedAt": "2026-10-01T10:21:53.000Z",
-      "url": "https://www.producthunt.com/products/never-boring-ai",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/never-boring-ai",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The AI agent that writes your LinkedIn posts in your voice",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/communicate",
-      "title": "Communicate",
-      "summary": "AI support agents grounded in your knowledge, with handoff",
-      "publishedAt": "2026-10-01T07:51:46.000Z",
-      "url": "https://www.producthunt.com/products/communicate",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/communicate",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI support agents grounded in your knowledge, with handoff",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
