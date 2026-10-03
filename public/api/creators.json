@@ -296,9 +296,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-03T11:58:30.766Z",
-      "lastSuccessAt": "2026-10-03T11:58:30.766Z",
-      "nextCheckAt": 1791029610766,
+      "checkedAt": "2026-10-03T16:08:27.043Z",
+      "lastSuccessAt": "2026-10-03T16:08:27.043Z",
+      "nextCheckAt": 1791044607043,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -609,9 +609,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-03T11:58:30.884Z",
-      "lastSuccessAt": "2026-10-03T11:58:30.884Z",
-      "nextCheckAt": 1791029610884,
+      "checkedAt": "2026-10-03T16:08:27.094Z",
+      "lastSuccessAt": "2026-10-03T16:08:27.094Z",
+      "nextCheckAt": 1791044607094,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -631,6 +631,35 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492309&idx=1&sn=85a0f9ceeb9ff91dcb445fbcf0d79c00",
+          "creatorId": "huashu",
+          "title": "如何用好AI？从Andrej Karpathy的提示词策略讲起！",
+          "summary": "Andrej Karpathy昨天发了条X，讲当AI越来越强，输出速度也越来越快后，我们怎么更好地看懂AI的",
+          "publishedAt": "2026-10-03T06:52:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492309&idx=1&sn=85a0f9ceeb9ff91dcb445fbcf0d79c00",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "花叔",
+                "asset": "/assets/identities/creator_huashu.jpg",
+                "tone": "#e7e4dd"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492302&idx=1&sn=243931886fe60ee4b5020d655e80c6a0",
           "creatorId": "huashu",
@@ -894,40 +923,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492162&idx=1&sn=274429b6e9e9b63f3e0ebd7476c3534f",
-          "creatorId": "huashu",
-          "title": "H3实时生成游戏第一次上直播：今晚B站这场，视频是你投完票才生成的",
-          "summary": "你发一条弹幕，将和直播间里的观众一起，在8秒后决定接下来的游戏剧情走向。 刚刷到这个B站直播间的时候，我还",
-          "publishedAt": "2026-09-11T11:24:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492162&idx=1&sn=274429b6e9e9b63f3e0ebd7476c3534f",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-            "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-03T11:58:30.885Z",
-      "lastSuccessAt": "2026-10-03T11:58:30.885Z",
-      "nextCheckAt": 1791029610885,
+      "checkedAt": "2026-10-03T16:08:27.095Z",
+      "lastSuccessAt": "2026-10-03T16:08:27.095Z",
+      "nextCheckAt": 1791044607095,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -947,6 +947,36 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521319&idx=1&sn=e6d7355c6e06dd363e383f3bc54317d5",
+          "creatorId": "cyber",
+          "title": "Claude Mod 实测：让雨姐与你一同 Coding",
+          "summary": "讲清 Mods 原理",
+          "publishedAt": "2026-10-03T07:34:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521319&idx=1&sn=e6d7355c6e06dd363e383f3bc54317d5",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+            "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521241&idx=1&sn=a79fd3e332ac53d89a02ac509f6a15aa",
           "creatorId": "cyber",
@@ -1209,40 +1239,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520840&idx=1&sn=e5b42151d2e29255541391cb63896a29",
-          "creatorId": "cyber",
-          "title": "对话 Today AI",
-          "summary": "齐俊元的 personal agent",
-          "publishedAt": "2026-09-22T11:56:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520840&idx=1&sn=e5b42151d2e29255541391cb63896a29",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-03T11:58:31.122Z",
-      "lastSuccessAt": "2026-10-03T11:58:31.122Z",
-      "nextCheckAt": 1791029611122,
+      "checkedAt": "2026-10-03T16:08:27.228Z",
+      "lastSuccessAt": "2026-10-03T16:08:27.228Z",
+      "nextCheckAt": 1791044607228,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1562,9 +1563,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-03T11:58:31.280Z",
-      "lastSuccessAt": "2026-10-03T11:58:31.280Z",
-      "nextCheckAt": 1791029611280,
+      "checkedAt": "2026-10-03T16:08:27.241Z",
+      "lastSuccessAt": "2026-10-03T16:08:27.241Z",
+      "nextCheckAt": 1791044607241,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1875,9 +1876,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-03T11:58:31.362Z",
-      "lastSuccessAt": "2026-10-03T11:58:31.362Z",
-      "nextCheckAt": 1791029611362,
+      "checkedAt": "2026-10-03T16:08:27.261Z",
+      "lastSuccessAt": "2026-10-03T16:08:27.261Z",
+      "nextCheckAt": 1791044607261,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1896,6 +1897,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1791029610766,
+  "nextCheckAt": 1791044607043,
   "refreshing": false
 }

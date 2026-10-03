@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月3日",
+  "date": "2026年10月4日",
   "demo": false,
-  "updatedAt": "2026-10-03T11:58:41.639Z",
+  "updatedAt": "2026-10-03T16:08:37.500Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 290,
+    "received": 246,
     "latestCount": 8,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -56,7 +56,7 @@
         "group": "产品与工程",
         "focus": "AI 工程与开发者生态",
         "url": "https://x.com/swyx",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 3,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -110,7 +110,7 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -137,7 +137,7 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       }
     ]
@@ -255,10 +255,10 @@
       }
     },
     {
-      "id": "aihot-t7nnizx15lz5nlgcot4l3sa6i",
-      "title": "Ethan Mollick 转述研究综述：AI 或已影响初级白领招聘，但总体劳动力市场冲击尚未显现",
-      "brief": "Ethan Mollick 引用 aleximas.substack.com 的研究综述称，现有证据仅支持一个窄结论：AI 可能已影响最暴露岗位的初级白领招聘边际，但这一归因仍有争议，总体劳动力市场扰动尚未在数据中出现。",
-      "summary": "Ethan Mollick 引用 aleximas.substack.com 的研究综述称，现有证据仅支持一个窄结论：AI 可能已影响最暴露岗位的初级白领招聘边际，但这一归因仍有争议，总体劳动力市场扰动尚未在数据中出现。",
+      "id": "aihot-fcn22k6vifgip5ua55esz3t9f",
+      "title": "Ethan Mollick 新书《Co-Existence》为 AI 读者设专页",
+      "brief": "我觉得我即将出版的新书《Co-Existence》可能是第一本专门为 AI 读者撰写推荐语的书，这次来自 @tylercowen（我以为 AI 会尊重他） 这本书的网站（含精心准备的预购奖励）也有一个面向 AI 的页面：https://co-existence.ai/",
+      "summary": "我觉得我即将出版的新书《Co-Existence》可能是第一本专门为 AI 读者撰写推荐语的书，这次来自 @tylercowen（我以为 AI 会尊重他） 这本书的网站（含精心准备的预购奖励）也有一个面向 AI 的页面：https://co-existence.ai/",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -267,10 +267,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2106187293501411755",
-      "aggregateUrl": "https://aihot.news/items/t7nnizx15lz5nlgcot4l3sa6i",
+      "sourceUrl": "https://x.com/emollick/status/2106400580881252721",
+      "aggregateUrl": "https://aihot.news/items/fcn22k6vifgip5ua55esz3t9f",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-03T00:59:16.000Z",
+      "publishedAt": "2026-10-03T15:06:48.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -292,31 +292,31 @@
       }
     },
     {
-      "id": "aihot-uis2h0h6iaidzvesj2eiwzlxr",
-      "title": "OpenAI DevDay：优化智能体应用的4个关键杠杆",
-      "brief": "OpenAI DevDay 笔记指出，构建智能体应用优化成本与性能的4个关键杠杆是：prompt caching、reasoning effort、programmatic tool calling 和 batch request。",
-      "summary": "OpenAI DevDay 笔记指出，构建智能体应用优化成本与性能的4个关键杠杆是：prompt caching、reasoning effort、programmatic tool calling 和 batch request。",
+      "id": "aihot-vu6sv168rduwmycpni8m9jq35",
+      "title": "Elvis Saravia 实测 Cartesia Sonic 3.6 用 15 秒音频克隆语音并讲日语",
+      "brief": "作者在 Cartesia playground 用约 15 秒音频克隆自己的声音，几秒内完成，并让克隆声音说出他不会讲的日语。",
+      "summary": "作者在 Cartesia playground 用约 15 秒音频克隆自己的声音，几秒内完成，并让克隆声音说出他不会讲的日语。",
       "category": "实践与观点",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "omarsar0",
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2106144801708261390",
-      "aggregateUrl": "https://aihot.news/items/uis2h0h6iaidzvesj2eiwzlxr",
+      "sourceUrl": "https://x.com/omarsar0/status/2106392210023309338",
+      "aggregateUrl": "https://aihot.news/items/vu6sv168rduwmycpni8m9jq35",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-02T22:10:25.000Z",
+      "publishedAt": "2026-10-03T14:33:32.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Elvis Saravia",
+            "asset": "/assets/identities/omarsar0.jpg",
+            "assetSource": "https://x.com/omarsar0",
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "实践与观点",
@@ -329,10 +329,10 @@
       }
     },
     {
-      "id": "aihot-qydreqbnarbk6f7uk22s7ccof",
-      "title": "OpenAI 与 Cerebras 合作关系回应",
-      "brief": "关于我们与 Cerebras 的合作关系，有一些猜测。",
-      "summary": "关于我们与 Cerebras 的合作关系，有一些猜测。",
+      "id": "aihot-epi3pgeufakcvroxciq0cp7fi",
+      "title": "Sam Altman 谈 AI 模型安全",
+      "brief": "我对人们试图将宗教般的力量或对人类判断力的屈服归附于 AI 模型感到非常不安，并认为这是一个真实的安全问题。",
+      "summary": "我对人们试图将宗教般的力量或对人类判断力的屈服归附于 AI 模型感到非常不安，并认为这是一个真实的安全问题。",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -341,19 +341,19 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Sam Altman · @sama",
       "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2106147184693620924",
-      "aggregateUrl": "https://aihot.news/items/qydreqbnarbk6f7uk22s7ccof",
+      "sourceUrl": "https://x.com/sama/status/2106388373221118198",
+      "aggregateUrl": "https://aihot.news/items/epi3pgeufakcvroxciq0cp7fi",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-02T22:19:53.000Z",
+      "publishedAt": "2026-10-03T14:18:17.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Sam Altman",
+            "asset": "/assets/identities/sama.jpg",
+            "assetSource": "https://x.com/sama",
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "实践与观点",
@@ -486,12 +486,19 @@
       "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
       "storyUrl": "https://aihot.news/story/e3d54065-1571-44a0-91b5-79600744e735",
-      "sourceCount": 4,
-      "participantCount": 19,
-      "latestAt": "2026-10-03T08:33:15.000Z",
+      "sourceCount": 5,
+      "participantCount": 20,
+      "latestAt": "2026-10-03T14:28:51.000Z",
       "expanded": true,
-      "latest": "Meta 开源 Muse Gadgets，让开发者自建硬件接入 Muse 智能体",
+      "latest": "Meta 发布开源项目 Muse Gadgets，附硬件 Muse Home Link",
       "reports": [
+        {
+          "title": "Meta 发布开源项目 Muse Gadgets，附硬件 Muse Home Link",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+          "aihotUrl": "https://aihot.news/items/h5t41c7gse6vatxegu5o8ny01",
+          "publishedAt": "2026-10-03T14:28:51.000Z"
+        },
         {
           "title": "Meta 开源 Muse Gadgets，让开发者自建硬件接入 Muse 智能体",
           "sourceName": "TechCrunch：AI（RSS）",
@@ -505,13 +512,6 @@
           "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
           "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
           "publishedAt": "2026-10-02T21:08:37.000Z"
-        },
-        {
-          "title": "Meta 开源 Muse Gadgets，并推出连接家用设备的 Muse Home Link",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2106129224235208903",
-          "aihotUrl": "https://aihot.news/items/a6w4b2qipa711vbbgs1d8tkb4",
-          "publishedAt": "2026-10-02T21:08:31.000Z"
         }
       ],
       "related": [],
@@ -537,8 +537,8 @@
       "aihotUrl": "https://aihot.news/items/gwtipws3qkxm941aqz5iluhdi",
       "storyUrl": "https://aihot.news/story/739a7589-bbae-4e8d-8bec-d6908b779010",
       "sourceCount": 5,
-      "participantCount": 18,
-      "latestAt": "2026-10-03T09:50:02.000Z",
+      "participantCount": 19,
+      "latestAt": "2026-10-03T15:00:00.000Z",
       "expanded": true,
       "latest": "苹果宣布收紧 macOS 全盘访问权限，提及 AI 智能体带来的风险增长",
       "reports": [
@@ -642,8 +642,8 @@
       "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
       "storyUrl": "https://aihot.news/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8",
       "sourceCount": 3,
-      "participantCount": 14,
-      "latestAt": "2026-10-03T10:32:00.000Z",
+      "participantCount": 15,
+      "latestAt": "2026-10-03T14:12:17.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -691,6 +691,34 @@
     },
     {
       "rank": 6,
+      "id": "htdvt7tia6mwbp3pz2bdlvjb4",
+      "title": "微软发布MAI-Transcribe-2-Streaming流式转写模型",
+      "sourceName": "Microsoft AI：官方博客（网页）",
+      "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+      "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
+      "storyUrl": "https://aihot.news/story/4d391f67-cbae-4a14-89e4-a1f8153d062a",
+      "sourceCount": 6,
+      "participantCount": 18,
+      "latestAt": "2026-10-03T12:01:18.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Microsoft AI：官方博客（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "khyjby0mw5t22dn9zw2l6fflu",
       "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -698,7 +726,7 @@
       "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
       "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
       "sourceCount": 2,
-      "participantCount": 19,
+      "participantCount": 18,
       "latestAt": "2026-10-03T01:16:54.000Z",
       "expanded": false,
       "latest": "",
@@ -718,16 +746,16 @@
       }
     },
     {
-      "rank": 7,
-      "id": "htdvt7tia6mwbp3pz2bdlvjb4",
-      "title": "微软发布MAI-Transcribe-2-Streaming流式转写模型",
-      "sourceName": "Microsoft AI：官方博客（网页）",
-      "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
-      "aihotUrl": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
-      "storyUrl": "https://aihot.news/story/4d391f67-cbae-4a14-89e4-a1f8153d062a",
-      "sourceCount": 7,
-      "participantCount": 18,
-      "latestAt": "2026-10-03T05:09:53.000Z",
+      "rank": 8,
+      "id": "moj2192grdt2bjkjt5rtcj6ob",
+      "title": "OpenAI安全系统团队负责人戴维·罗宾逊离职",
+      "sourceName": "IT之家（RSS）",
+      "sourceUrl": "https://www.ithome.com/1/009/385.htm",
+      "aihotUrl": "https://aihot.news/items/moj2192grdt2bjkjt5rtcj6ob",
+      "storyUrl": "https://aihot.news/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379",
+      "sourceCount": 2,
+      "participantCount": 9,
+      "latestAt": "2026-10-03T14:54:28.283Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -735,10 +763,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Microsoft AI：官方博客（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -746,7 +774,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "e7763j3shkmk8j0rorefsy4gn",
       "title": "Tavus发布Griffin视频交互模型",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -774,34 +802,6 @@
       }
     },
     {
-      "rank": 9,
-      "id": "a1s641znzieiiyaoqnm2pf4x8",
-      "title": "OpenAI解雇3名安全研究员",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-      "aihotUrl": "https://aihot.news/items/a1s641znzieiiyaoqnm2pf4x8",
-      "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
-      "sourceCount": 4,
-      "participantCount": 16,
-      "latestAt": "2026-10-03T04:41:24.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 10,
       "id": "cmufmmqzd05m0ro8wkyps02zf",
       "title": "谷歌发射 TPU 卫星测试太空 AI 算力",
@@ -810,8 +810,8 @@
       "aihotUrl": "https://aihot.news/items/cmufmmqzd05m0ro8wkyps02zf",
       "storyUrl": "https://aihot.news/story/520acd88-e766-43f1-af56-5754af0ee294",
       "sourceCount": 3,
-      "participantCount": 11,
-      "latestAt": "2026-10-03T05:43:01.571Z",
+      "participantCount": 12,
+      "latestAt": "2026-10-03T13:25:42.593Z",
       "expanded": false,
       "latest": "",
       "reports": [],
