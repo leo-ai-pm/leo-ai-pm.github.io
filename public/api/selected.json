@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-04T12:48:46.392Z",
+  "checkedAt": "2026-10-04T17:05:41.839Z",
   "message": "",
   "categories": [
     {
@@ -169,14 +169,14 @@
     },
     {
       "id": "e54qt77e1upo9oqowk38fply1",
-      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-      "reason": "官方详解了推理平台在 GB200 NVL72 上服务 GLM-5.3 的架构与内核优化，工程细节可直接参考。",
-      "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+      "title": "Prime Intellect 发布推理服务平台 Prime Inference",
+      "reason": "作者以自家生产数据说明 disaggregation、NVFP4 KV 压缩等优化路径，工程细节对做推理服务的人有可参考之处。",
+      "summary": "Prime Intellect 发布 Prime Inference，提供 serverless 端点与预留容量，在多数据中心 GPU 基础设施上服务前沿开源模型，内部每天处理近一万亿 token。",
       "sourceName": "Prime Intellect（网页）",
       "sourceUrl": "https://www.primeintellect.ai/blog/prime-inference",
       "aihotUrl": "https://aihot.news/items/e54qt77e1upo9oqowk38fply1",
-      "publishedAt": "2026-10-02T20:37:23.599Z",
-      "timeBasis": "discovered",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
       "unselected": false
@@ -957,14 +957,14 @@
         },
         {
           "id": "e54qt77e1upo9oqowk38fply1",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "reason": "官方详解了推理平台在 GB200 NVL72 上服务 GLM-5.3 的架构与内核优化，工程细节可直接参考。",
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+          "title": "Prime Intellect 发布推理服务平台 Prime Inference",
+          "reason": "作者以自家生产数据说明 disaggregation、NVFP4 KV 压缩等优化路径，工程细节对做推理服务的人有可参考之处。",
+          "summary": "Prime Intellect 发布 Prime Inference，提供 serverless 端点与预留容量，在多数据中心 GPU 基础设施上服务前沿开源模型，内部每天处理近一万亿 token。",
           "sourceName": "Prime Intellect（网页）",
           "sourceUrl": "https://www.primeintellect.ai/blog/prime-inference",
           "aihotUrl": "https://aihot.news/items/e54qt77e1upo9oqowk38fply1",
-          "publishedAt": "2026-10-02T20:37:23.599Z",
-          "timeBasis": "discovered",
+          "publishedAt": "2026-10-01T16:00:00.000Z",
+          "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false

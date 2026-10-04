@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月4日",
+    "date": "2026年10月5日",
     "demo": false,
-    "updatedAt": "2026-10-04T12:48:29.359Z",
+    "updatedAt": "2026-10-04T17:05:24.195Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 153,
-      "latestCount": 7,
+      "received": 141,
+      "latestCount": 6,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -102,7 +102,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 8,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -111,8 +111,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "gdb",
@@ -219,10 +219,10 @@
         }
       },
       {
-        "id": "aihot-aagghi114pwfh8s1iou7u4rqi",
-        "title": "如何想象超级智能",
-        "brief": "你如何想象超级智能（如果真正的超级智能真能存在的话）？",
-        "summary": "你如何想象超级智能（如果真正的超级智能真能存在的话）？",
+        "id": "aihot-a1p599ftuda99u5ydvxfyd9gy",
+        "title": "Ethan Mollick 用单条提示词实测 Fable 5.1 生成粗野主义城市建造器",
+        "brief": "Ethan Mollick 用一条提示词让 Fable 5.1 单次生成粗野主义城市建造器，成品可在线访问，并附上可玩的链接。",
+        "summary": "Ethan Mollick 用一条提示词让 Fable 5.1 单次生成粗野主义城市建造器，成品可在线访问，并附上可玩的链接。",
         "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
@@ -231,10 +231,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2106419619783127225",
-        "aggregateUrl": "https://aihot.news/items/aagghi114pwfh8s1iou7u4rqi",
+        "sourceUrl": "https://x.com/emollick/status/2106768373736493399",
+        "aggregateUrl": "https://aihot.news/items/a1p599ftuda99u5ydvxfyd9gy",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-03T16:22:27.000Z",
+        "publishedAt": "2026-10-04T15:28:16.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -244,6 +244,12 @@
               "asset": "/assets/identities/emollick.jpg",
               "assetSource": "https://x.com/emollick",
               "tone": "#e9e4dc"
+            },
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "实践与观点",
@@ -256,11 +262,11 @@
         }
       },
       {
-        "id": "aihot-okjqysk33wv56q8vfmahbzo1g",
-        "title": "Google 推出 VeriHarness：智能体验证新方法",
-        "brief": "Google 提出 VeriHarness，将同一基座模型变为智能体验证器，专门处理 rollout 间的一致与分歧：分歧时查工作区证据裁决，一致时反向挑战找被遗漏的需求。",
-        "summary": "Google 提出 VeriHarness，将同一基座模型变为智能体验证器，专门处理 rollout 间的一致与分歧：分歧时查工作区证据裁决，一致时反向挑战找被遗漏的需求。",
-        "category": "研究进展",
+        "id": "aihot-hw6zop66bhh27ei9fis7w19sm",
+        "title": "资深开发者：AI 智能体让我彻底告别终端",
+        "brief": "有 15 年以上终端使用经验的开发者表示，AI 智能体已让他完全放弃终端，转向更适合与智能体协作的新界面。",
+        "summary": "有 15 年以上终端使用经验的开发者表示，AI 智能体已让他完全放弃终端，转向更适合与智能体协作的新界面。",
+        "category": "实践与观点",
         "topic": "Agent",
         "priority": "normal",
         "platform": "X",
@@ -268,63 +274,26 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2106700905051746803",
-        "aggregateUrl": "https://aihot.news/items/okjqysk33wv56q8vfmahbzo1g",
+        "sourceUrl": "https://x.com/omarsar0/status/2106752111874593186",
+        "aggregateUrl": "https://aihot.news/items/hw6zop66bhh27ei9fis7w19sm",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-04T11:00:11.000Z",
+        "publishedAt": "2026-10-04T14:23:39.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "研究进展",
-          "author": {
-            "name": "Elvis Saravia",
-            "asset": "/assets/identities/omarsar0.jpg",
-            "assetSource": "https://x.com/omarsar0",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-epi3pgeufakcvroxciq0cp7fi",
-        "title": "Sam Altman 谈 AI 模型安全",
-        "brief": "我对人们试图将宗教般的力量或对人类判断力的屈服归附于 AI 模型感到非常不安，并认为这是一个真实的安全问题。",
-        "summary": "我对人们试图将宗教般的力量或对人类判断力的屈服归附于 AI 模型感到非常不安，并认为这是一个真实的安全问题。",
-        "category": "实践与观点",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "sama",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Sam Altman · @sama",
-        "feedName": "X：Sam Altman (@sama)",
-        "sourceUrl": "https://x.com/sama/status/2106388373221118198",
-        "aggregateUrl": "https://aihot.news/items/epi3pgeufakcvroxciq0cp7fi",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-03T14:18:17.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Sam Altman",
-              "asset": "/assets/identities/sama.jpg",
-              "assetSource": "https://x.com/sama",
+              "name": "Elvis Saravia",
+              "asset": "/assets/identities/omarsar0.jpg",
+              "assetSource": "https://x.com/omarsar0",
               "tone": "#e9e4dc"
             }
           ],
           "caption": "实践与观点",
           "author": {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
+            "name": "Elvis Saravia",
+            "asset": "/assets/identities/omarsar0.jpg",
+            "assetSource": "https://x.com/omarsar0",
             "tone": "#e9e4dc"
           }
         }
@@ -494,6 +463,61 @@
       },
       {
         "rank": 2,
+        "id": "cmu9lxijt04a1ro9b80vlc4th",
+        "title": "特朗普组建AI部队并敲定AI沙皇人选",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
+        "aihotUrl": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
+        "storyUrl": "https://aihot.news/story/d5b32762-56e9-4fb8-8976-fef8dadd068a",
+        "sourceCount": 2,
+        "participantCount": 11,
+        "latestAt": "2026-10-04T15:15:10.000Z",
+        "expanded": true,
+        "latest": "特朗普宣布成立 Super Intelligence Force，由 Jay Clayton 牵头",
+        "reports": [
+          {
+            "title": "特朗普宣布成立 Super Intelligence Force，由 Jay Clayton 牵头",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+            "aihotUrl": "https://aihot.news/items/memfk03m6yv8cz4r17fi4abus",
+            "publishedAt": "2026-10-04T15:15:10.000Z"
+          },
+          {
+            "title": "特朗普预计提名情报总监 Jay Clayton 出任白宫新 AI 负责人",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2106120649320419714",
+            "aihotUrl": "https://aihot.news/items/w77op1wxgn0wsd5i1pz9s78rw",
+            "publishedAt": "2026-10-02T20:34:27.000Z"
+          },
+          {
+            "title": "美财长贝森特或出任特朗普AI事务主管",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2102546161127375088",
+            "aihotUrl": "https://aihot.news/items/cmudcjxqu05huroggvlgmx632",
+            "publishedAt": "2026-09-22T23:50:42.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "特朗普推动AI改名SI并筹建AI Force",
+            "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "The Decoder：AI News（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
         "id": "ln6ere28kepk46azfanwaucm2",
         "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
         "sourceName": "The Verge：AI（RSS）",
@@ -543,7 +567,63 @@
         }
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": "j45voriw6fcykynqwt5gwbtmm",
+        "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/009/688.htm",
+        "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
+        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
+        "sourceCount": 1,
+        "participantCount": 9,
+        "latestAt": "2026-10-04T10:04:39.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
+        "id": "w5kdfoydiaj7nyyuy45fg70b0",
+        "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+        "aihotUrl": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
+        "storyUrl": "https://aihot.news/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81",
+        "sourceCount": 5,
+        "participantCount": 13,
+        "latestAt": "2026-10-04T07:38:49.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
         "id": "gwtipws3qkxm941aqz5iluhdi",
         "title": "Meta否认Muse读取私信，Apple收紧macOS权限",
         "sourceName": "The Verge：AI（RSS）",
@@ -551,39 +631,12 @@
         "aihotUrl": "https://aihot.news/items/gwtipws3qkxm941aqz5iluhdi",
         "storyUrl": "https://aihot.news/story/739a7589-bbae-4e8d-8bec-d6908b779010",
         "sourceCount": 5,
-        "participantCount": 20,
+        "participantCount": 21,
         "latestAt": "2026-10-03T00:39:54.866Z",
-        "expanded": true,
-        "latest": "苹果宣布收紧 macOS 全盘访问权限，提及 AI 智能体带来的风险增长",
-        "reports": [
-          {
-            "title": "苹果宣布收紧 macOS 全盘访问权限，提及 AI 智能体带来的风险增长",
-            "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-            "sourceUrl": "https://developer.apple.com/news/?id=p6zjojqw",
-            "aihotUrl": "https://aihot.news/items/qhzanz38hg3n6ywmfxzzdhhyr",
-            "publishedAt": "2026-10-03T00:39:54.866Z"
-          },
-          {
-            "title": "苹果收紧 macOS 27 等系统完全磁盘访问权限，降低 AI 智能体操控风险",
-            "sourceName": "IT之家（RSS）",
-            "sourceUrl": "https://www.ithome.com/1/009/381.htm",
-            "aihotUrl": "https://aihot.news/items/p4l4hxa5l7nxtr5vdbwr39to7",
-            "publishedAt": "2026-10-02T23:47:28.000Z"
-          },
-          {
-            "title": "Apple 修改 macOS 完全磁盘访问权限，限制 AI 智能体滥用",
-            "sourceName": "Ars Technica：AI（RSS）",
-            "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-            "aihotUrl": "https://aihot.news/items/vxir2xm4o5t08z5pbqezl2z4e",
-            "publishedAt": "2026-10-02T23:03:16.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "Meta Muse：Mac 桌面操作、硬件布局与安全争议",
-            "storyUrl": "https://aihot.news/story/d5a2acd1-a134-4099-b889-72d1cc473595"
-          }
-        ],
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
         "visual": {
           "entities": [
             {
@@ -598,7 +651,7 @@
         }
       },
       {
-        "rank": 4,
+        "rank": 7,
         "id": "m761fdlqtad285r14fky711jr",
         "title": "Gemini免费用户模型调整为Flash-Lite",
         "sourceName": "IT之家（RSS）",
@@ -626,35 +679,7 @@
         }
       },
       {
-        "rank": 5,
-        "id": "w5kdfoydiaj7nyyuy45fg70b0",
-        "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-        "aihotUrl": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
-        "storyUrl": "https://aihot.news/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81",
-        "sourceCount": 5,
-        "participantCount": 12,
-        "latestAt": "2026-10-04T07:38:49.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
+        "rank": 8,
         "id": "y475ev20b3138yoqrlo3z4wrr",
         "title": "Aleph Alpha 开源德英双语模型 Kolibri",
         "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -662,7 +687,7 @@
         "aihotUrl": "https://aihot.news/items/y475ev20b3138yoqrlo3z4wrr",
         "storyUrl": "https://aihot.news/story/b1397672-bf6e-47dc-af9a-895fd7021161",
         "sourceCount": 7,
-        "participantCount": 10,
+        "participantCount": 11,
         "latestAt": "2026-10-04T07:01:04.000Z",
         "expanded": false,
         "latest": "",
@@ -682,7 +707,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 9,
         "id": "jak6gxsz68wsqdq6n9504d36o",
         "title": "Sam Altman 谈 AI 模型安全",
         "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
@@ -710,44 +735,16 @@
         }
       },
       {
-        "rank": 8,
-        "id": "epb245so8hb7m1r74gumw2dze",
-        "title": "英伟达发布64GB内存版DGX Spark",
-        "sourceName": "NVIDIA Blog（RSS）",
-        "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-        "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
-        "storyUrl": "https://aihot.news/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8",
-        "sourceCount": 3,
-        "participantCount": 16,
-        "latestAt": "2026-10-02T18:04:56.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "j45voriw6fcykynqwt5gwbtmm",
-        "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
-        "sourceName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/009/688.htm",
-        "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
-        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
-        "sourceCount": 1,
+        "rank": 10,
+        "id": "nj7vtq0wdadqu63nrcpefqkb3",
+        "title": "Yuchen Jin 称终端时代已终结",
+        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+        "sourceUrl": "https://x.com/Yuchenj_UW/status/2106595769536872610",
+        "aihotUrl": "https://aihot.news/items/nj7vtq0wdadqu63nrcpefqkb3",
+        "storyUrl": "https://aihot.news/story/15204c12-df46-428f-8dba-17be841c60bc",
+        "sourceCount": 2,
         "participantCount": 5,
-        "latestAt": "2026-10-04T10:04:39.000Z",
+        "latestAt": "2026-10-04T14:23:39.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -755,7 +752,7 @@
         "visual": {
           "entities": [
             {
-              "name": "IT之家（RSS）",
+              "name": "X：Yuchen Jin (@Yuchenj_UW)",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -764,41 +761,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 10,
-        "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-        "title": "Claude Code mods 发布与示例更新",
-        "sourceName": "Claude：Blog（网页）",
-        "sourceUrl": "https://claude.com/blog/claude-code-mods",
-        "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-        "storyUrl": "https://aihot.news/story/5971919b-97f0-444a-95e6-3bd40d1e0368",
-        "sourceCount": 2,
-        "participantCount": 11,
-        "latestAt": "2026-10-03T07:12:09.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "Claude Code",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-04T12:48:29.359Z",
-    "nextCheckAt": 1791118409359,
+    "checkedAt": "2026-10-04T17:05:24.195Z",
+    "nextCheckAt": 1791133824195,
     "intervalSeconds": 300,
     "message": ""
   }
