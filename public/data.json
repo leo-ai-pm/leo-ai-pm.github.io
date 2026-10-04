@@ -1,7 +1,7 @@
 {
   "date": "2026年10月4日",
   "demo": false,
-  "updatedAt": "2026-10-04T06:24:18.008Z",
+  "updatedAt": "2026-10-04T12:48:29.359Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 143,
-    "latestCount": 6,
+    "received": 153,
+    "latestCount": 7,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -101,7 +101,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 7,
+        "matched": 8,
         "status": "本次收录"
       },
       {
@@ -137,8 +137,8 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       }
     ]
   },
@@ -255,10 +255,10 @@
       }
     },
     {
-      "id": "aihot-uq7liehj3ige5g4lzzhbmfmcg",
-      "title": "微软与 UCSB 提出 ScholarEvolve：从已发表研究进化智能体 harness",
-      "brief": "Microsoft 与加州大学圣巴巴拉分校等发布论文 ScholarEvolve，提出基于已发表智能体研究而非自身失败日志来进化 agent harness。",
-      "summary": "Microsoft 与加州大学圣巴巴拉分校等发布论文 ScholarEvolve，提出基于已发表智能体研究而非自身失败日志来进化 agent harness。",
+      "id": "aihot-okjqysk33wv56q8vfmahbzo1g",
+      "title": "Google 推出 VeriHarness：智能体验证新方法",
+      "brief": "Google 提出 VeriHarness，将同一基座模型变为智能体验证器，专门处理 rollout 间的一致与分歧：分歧时查工作区证据裁决，一致时反向挑战找被遗漏的需求。",
+      "summary": "Google 提出 VeriHarness，将同一基座模型变为智能体验证器，专门处理 rollout 间的一致与分歧：分歧时查工作区证据裁决，一致时反向挑战找被遗漏的需求。",
       "category": "研究进展",
       "topic": "Agent",
       "priority": "normal",
@@ -267,19 +267,19 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Elvis Saravia · @omarsar0",
       "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "sourceUrl": "https://x.com/omarsar0/status/2106619582463312315",
-      "aggregateUrl": "https://aihot.news/items/uq7liehj3ige5g4lzzhbmfmcg",
+      "sourceUrl": "https://x.com/omarsar0/status/2106700905051746803",
+      "aggregateUrl": "https://aihot.news/items/okjqysk33wv56q8vfmahbzo1g",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-04T05:37:02.000Z",
+      "publishedAt": "2026-10-04T11:00:11.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Elvis Saravia",
-            "asset": "/assets/identities/omarsar0.jpg",
-            "assetSource": "https://x.com/omarsar0",
-            "tone": "#e9e4dc"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "研究进展",
@@ -329,11 +329,11 @@
       }
     },
     {
-      "id": "aihot-wknjnvzx9vb0dl8amwcmna4hj",
-      "title": "Perplexity Computer 推出 Visualize 内联可视化功能",
-      "brief": "Perplexity CEO Aravind Srinivas 宣布 Computer 新增 Visualize 功能，用户以 Visualize 开头提问即可在对话中获得带教育和交互组件及动画的内联可视化内容。",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布 Computer 新增 Visualize 功能，用户以 Visualize 开头提问即可在对话中获得带教育和交互组件及动画的内联可视化内容。",
-      "category": "产品动态",
+      "id": "aihot-lj6fofw8eulgbsfs2ifx09886",
+      "title": "Perplexity Decisions API 通关宝可梦",
+      "brief": "宝可梦火红的四天王 + 冠军，一次通关——决策由 Perplexity 的 Decisions API 驱动。",
+      "summary": "宝可梦火红的四天王 + 冠军，一次通关——决策由 Perplexity 的 Decisions API 驱动。",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -341,10 +341,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2106463779131167189",
-      "aggregateUrl": "https://aihot.news/items/wknjnvzx9vb0dl8amwcmna4hj",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2106688463542333795",
+      "aggregateUrl": "https://aihot.news/items/lj6fofw8eulgbsfs2ifx09886",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-03T19:17:55.000Z",
+      "publishedAt": "2026-10-04T10:10:44.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -356,11 +356,48 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "产品动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-vhq7ccbdgrfvzv92t2a5x22qj",
+      "title": "Hugging Face 联创晒新室友",
+      "brief": "新室友刚搬进来。",
+      "summary": "新室友刚搬进来。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2106657796695458085",
+      "aggregateUrl": "https://aihot.news/items/vhq7ccbdgrfvzv92t2a5x22qj",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-04T08:08:53.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
@@ -413,8 +450,8 @@
       "aihotUrl": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
       "storyUrl": "https://aihot.news/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379",
       "sourceCount": 6,
-      "participantCount": 19,
-      "latestAt": "2026-10-04T03:57:32.000Z",
+      "participantCount": 21,
+      "latestAt": "2026-10-04T01:13:09.000Z",
       "expanded": true,
       "latest": "OpenAI 前安全负责人 David Robinson 离职并在 The Atlantic 撰文批评其安全文化",
       "reports": [
@@ -463,8 +500,8 @@
       "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
       "storyUrl": "https://aihot.news/story/e3d54065-1571-44a0-91b5-79600744e735",
       "sourceCount": 5,
-      "participantCount": 22,
-      "latestAt": "2026-10-04T04:40:16.000Z",
+      "participantCount": 23,
+      "latestAt": "2026-10-03T14:28:51.000Z",
       "expanded": true,
       "latest": "Meta 发布开源项目 Muse Gadgets，附硬件 Muse Home Link",
       "reports": [
@@ -514,7 +551,7 @@
       "storyUrl": "https://aihot.news/story/739a7589-bbae-4e8d-8bec-d6908b779010",
       "sourceCount": 5,
       "participantCount": 20,
-      "latestAt": "2026-10-04T01:43:16.000Z",
+      "latestAt": "2026-10-03T00:39:54.866Z",
       "expanded": true,
       "latest": "苹果宣布收紧 macOS 全盘访问权限，提及 AI 智能体带来的风险增长",
       "reports": [
@@ -561,127 +598,15 @@
     },
     {
       "rank": 4,
-      "id": "jak6gxsz68wsqdq6n9504d36o",
-      "title": "Sam Altman 谈 AI 模型安全",
-      "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-      "sourceUrl": "https://x.com/Yuchenj_UW/status/2106395374923796759",
-      "aihotUrl": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
-      "storyUrl": "https://aihot.news/story/341ef8c2-d918-4e24-9391-99616e1c1a9a",
-      "sourceCount": 3,
-      "participantCount": 9,
-      "latestAt": "2026-10-03T21:45:42.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Yuchen Jin (@Yuchenj_UW)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
-      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-      "title": "Claude Code mods 发布与示例更新",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-code-mods",
-      "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-      "storyUrl": "https://aihot.news/story/5971919b-97f0-444a-95e6-3bd40d1e0368",
-      "sourceCount": 2,
-      "participantCount": 14,
-      "latestAt": "2026-10-04T05:18:14.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      }
-    },
-    {
-      "rank": 6,
-      "id": "epb245so8hb7m1r74gumw2dze",
-      "title": "英伟达发布64GB内存版DGX Spark",
-      "sourceName": "NVIDIA Blog（RSS）",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
-      "storyUrl": "https://aihot.news/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8",
-      "sourceCount": 3,
-      "participantCount": 16,
-      "latestAt": "2026-10-03T16:02:00.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "y475ev20b3138yoqrlo3z4wrr",
-      "title": "Aleph Alpha 开源德英双语模型 Kolibri",
-      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "sourceUrl": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "aihotUrl": "https://aihot.news/items/y475ev20b3138yoqrlo3z4wrr",
-      "storyUrl": "https://aihot.news/story/b1397672-bf6e-47dc-af9a-895fd7021161",
-      "sourceCount": 6,
-      "participantCount": 8,
-      "latestAt": "2026-10-04T04:22:26.141Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Hacker News 热门（buzzing.cc 中文翻译）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "m761fdlqtad285r14fky711jr",
       "title": "Gemini免费用户模型调整为Flash-Lite",
       "sourceName": "IT之家（RSS）",
       "sourceUrl": "https://www.ithome.com/1/009/431.htm",
       "aihotUrl": "https://aihot.news/items/m761fdlqtad285r14fky711jr",
       "storyUrl": "https://aihot.news/story/94326823-aa00-4316-a253-28c8c4098a05",
-      "sourceCount": 1,
-      "participantCount": 8,
-      "latestAt": "2026-10-04T05:10:00.000Z",
+      "sourceCount": 2,
+      "participantCount": 11,
+      "latestAt": "2026-10-04T07:28:54.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -700,16 +625,128 @@
       }
     },
     {
-      "rank": 9,
-      "id": "z3n13tfsh0w2cr63ar0tgjnpk",
-      "title": "亚马逊发博客呼吁支持AI数据中心建设",
-      "sourceName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/009/621.htm",
-      "aihotUrl": "https://aihot.news/items/z3n13tfsh0w2cr63ar0tgjnpk",
-      "storyUrl": "https://aihot.news/story/5baa44e1-a976-46e0-beec-708ac25e404b",
-      "sourceCount": 4,
+      "rank": 5,
+      "id": "w5kdfoydiaj7nyyuy45fg70b0",
+      "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+      "aihotUrl": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
+      "storyUrl": "https://aihot.news/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81",
+      "sourceCount": 5,
+      "participantCount": 12,
+      "latestAt": "2026-10-04T07:38:49.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "y475ev20b3138yoqrlo3z4wrr",
+      "title": "Aleph Alpha 开源德英双语模型 Kolibri",
+      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "sourceUrl": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "aihotUrl": "https://aihot.news/items/y475ev20b3138yoqrlo3z4wrr",
+      "storyUrl": "https://aihot.news/story/b1397672-bf6e-47dc-af9a-895fd7021161",
+      "sourceCount": 7,
       "participantCount": 10,
-      "latestAt": "2026-10-04T02:20:01.000Z",
+      "latestAt": "2026-10-04T07:01:04.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "jak6gxsz68wsqdq6n9504d36o",
+      "title": "Sam Altman 谈 AI 模型安全",
+      "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+      "sourceUrl": "https://x.com/Yuchenj_UW/status/2106395374923796759",
+      "aihotUrl": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
+      "storyUrl": "https://aihot.news/story/341ef8c2-d918-4e24-9391-99616e1c1a9a",
+      "sourceCount": 3,
+      "participantCount": 9,
+      "latestAt": "2026-10-03T18:56:30.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Yuchen Jin (@Yuchenj_UW)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "epb245so8hb7m1r74gumw2dze",
+      "title": "英伟达发布64GB内存版DGX Spark",
+      "sourceName": "NVIDIA Blog（RSS）",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+      "storyUrl": "https://aihot.news/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8",
+      "sourceCount": 3,
+      "participantCount": 16,
+      "latestAt": "2026-10-02T18:04:56.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "j45voriw6fcykynqwt5gwbtmm",
+      "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
+      "sourceName": "IT之家（RSS）",
+      "sourceUrl": "https://www.ithome.com/1/009/688.htm",
+      "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
+      "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
+      "sourceCount": 1,
+      "participantCount": 5,
+      "latestAt": "2026-10-04T10:04:39.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -729,15 +766,15 @@
     },
     {
       "rank": 10,
-      "id": "w5kdfoydiaj7nyyuy45fg70b0",
-      "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-      "aihotUrl": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
-      "storyUrl": "https://aihot.news/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81",
-      "sourceCount": 5,
-      "participantCount": 9,
-      "latestAt": "2026-10-03T23:34:25.653Z",
+      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
+      "title": "Claude Code mods 发布与示例更新",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-code-mods",
+      "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
+      "storyUrl": "https://aihot.news/story/5971919b-97f0-444a-95e6-3bd40d1e0368",
+      "sourceCount": 2,
+      "participantCount": 11,
+      "latestAt": "2026-10-03T07:12:09.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -751,7 +788,7 @@
             "tone": "#eddfd0"
           }
         ],
-        "caption": "热点",
+        "caption": "Claude Code",
         "author": null
       }
     }
