@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-04T00:42:26.775Z",
-      "lastSuccessAt": "2026-10-04T00:42:26.775Z",
-      "nextCheckAt": 1791078146775,
+      "checkedAt": "2026-10-04T06:24:07.560Z",
+      "lastSuccessAt": "2026-10-04T06:24:07.560Z",
+      "nextCheckAt": 1791098647560,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-04T00:42:26.776Z",
-      "lastSuccessAt": "2026-10-04T00:42:26.776Z",
-      "nextCheckAt": 1791078146776,
+      "checkedAt": "2026-10-04T06:24:07.561Z",
+      "lastSuccessAt": "2026-10-04T06:24:07.561Z",
+      "nextCheckAt": 1791098647561,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-04T00:42:26.777Z",
-      "lastSuccessAt": "2026-10-04T00:42:26.777Z",
-      "nextCheckAt": 1791078146777,
+      "checkedAt": "2026-10-04T06:24:07.562Z",
+      "lastSuccessAt": "2026-10-04T06:24:07.562Z",
+      "nextCheckAt": 1791098647562,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791078146881,
-      "checkedAt": "2026-10-04T00:42:26.881Z",
-      "lastSuccessAt": "2026-10-04T00:42:26.881Z",
+      "nextCheckAt": 1791098647693,
+      "checkedAt": "2026-10-04T06:24:07.693Z",
+      "lastSuccessAt": "2026-10-04T06:24:07.693Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791078146775,
+  "nextCheckAt": 1791098647560,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6473512.html",
+      "title": "AI越懂用户，企业越要重新理解什么叫私域",
+      "summary": "Meta 的 Muse 想替用户去 Amazon 找货下单，很快被拦了下来——这背后是两个平台在争谁更懂用户。当用户把通勤时间长、耳朵疼、预算两千这类条件说给 AI，企业原本费力摸索的需求就摆在了明面上。微信里躺着十万人，不等于握着十万用户资产。 前几天，我看到一个挺有意思的新闻。 Meta刚推出AI助手Muse，想帮用户直接去Amazon找商品、完成购物，Amazon很快把它拦了。表面看，这是两个大平台在抢AI购物入口，但我看到这件事",
+      "publishedAt": "2026-10-04T01:53:58.000Z",
+      "url": "https://www.woshipm.com/share/6473512.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6473512.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Meta 的 Muse 想替用户去 Amazon 找货下单，很快被拦了下来——这背后是两个平台在争谁更懂用户。当用户把通勤时间长、耳朵疼、预算两千这类条件说给 AI，企业原本费力摸索的需求就摆在了明面上。微信里躺着十万人，不等于握着十万用户资产。 前几天，我看到一个挺有意思的新闻。 Meta刚推出AI助手Muse，想帮用户直接去Amazon找商品、完成购物，Amazon很快把它拦了。表面看，这是两个大平台在抢AI购物入口，但我看到这件事",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/evaluating/6473388.html",
       "title": "实测 ChatGPT Dot，龙虾转生？不完全是。",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6473488.html",
@@ -167,46 +207,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "国内前四的通用型AI助理里，除了DeepSeek，豆包、千问、元宝正集体转向Personal AI Agent。豆包内部在做一款对标Meta Muse的产品，代号Spell，名字或叫小豆，据称仅用6天拿出内测体验版。 年初Claw龙虾热，年中办公Agent潮，年末的风向来到了个人 Agent。 也就是Meta 掀起的 Personal AI Agent 风。 回看国内， 国内前四的通用型 AI 助理。 除了 DeepSeek，豆包、千问",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6473412.html",
-      "title": "从一句话需求到可运营网站：WorkBuddy 建站工作流实录",
-      "summary": "从一句模糊需求到完整外贸B2B官网落地，本文以Lumicore灯饰站点为例，拆解专家团协作、MCP连接、四阶段SOP及关键避坑点。无论你是想复现建站流程，还是优化AI协作效率，这份实操指南都值得收藏。 一句话需求 → 专家团协作 → 真实站点落地。本文以「Lumicore Optoelectronics 外贸 B2B 灯饰官网」为例，拆解从需求到上线的完整节点、工具调用与踩坑修复，可直接照做。 一、需求起点：一句”随意”的话 用户的原始",
-      "publishedAt": "2026-10-03T04:43:37.000Z",
-      "url": "https://www.woshipm.com/ai/6473412.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473412.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "从一句模糊需求到完整外贸B2B官网落地，本文以Lumicore灯饰站点为例，拆解专家团协作、MCP连接、四阶段SOP及关键避坑点。无论你是想复现建站流程，还是优化AI协作效率，这份实操指南都值得收藏。 一句话需求 → 专家团协作 → 真实站点落地。本文以「Lumicore Optoelectronics 外贸 B2B 灯饰官网」为例，拆解从需求到上线的完整节点、工具调用与踩坑修复，可直接照做。 一、需求起点：一句”随意”的话 用户的原始",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
