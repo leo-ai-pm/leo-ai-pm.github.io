@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月4日",
     "demo": false,
-    "updatedAt": "2026-10-03T22:10:33.542Z",
+    "updatedAt": "2026-10-04T00:42:34.079Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 147,
+      "received": 149,
       "latestCount": 6,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -102,7 +102,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 4,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -111,7 +111,7 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -256,11 +256,11 @@
         }
       },
       {
-        "id": "aihot-bilzv5djmbe0ifowjvswjfez3",
-        "title": "Elvis 盛赞 Opus 5.5 高效耐用，呼吁 Anthropic 别削弱",
-        "brief": "Elvis Saravia 称通过 API 使用 Opus 5.5 后印象深刻，为此重新订阅 Max，并被其耐用性震撼，直言 Opus 5.5 是极高效、极出色的日常主力模型。",
-        "summary": "Elvis Saravia 称通过 API 使用 Opus 5.5 后印象深刻，为此重新订阅 Max，并被其耐用性震撼，直言 Opus 5.5 是极高效、极出色的日常主力模型。",
-        "category": "实践与观点",
+        "id": "aihot-mqpp6i5e0vjcvpr6s3phr73zr",
+        "title": "CMU 论文提出 Harness Learning：用 RL 训练提案模型改写 harness 代码实现测试时适应",
+        "brief": "CMU 论文提出 harness learning，用 RL 训练一个提案模型读取任务、当前 harness 和执行报告后生成 harness 代码修改，以修改后 harness 的得分为奖励，solver 模型权重不变。",
+        "summary": "CMU 论文提出 harness learning，用 RL 训练一个提案模型读取任务、当前 harness 和执行报告后生成 harness 代码修改，以修改后 harness 的得分为奖励，solver 模型权重不变。",
+        "category": "研究进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -268,10 +268,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2106472992570220588",
-        "aggregateUrl": "https://aihot.news/items/bilzv5djmbe0ifowjvswjfez3",
+        "sourceUrl": "https://x.com/omarsar0/status/2106529236068819394",
+        "aggregateUrl": "https://aihot.news/items/mqpp6i5e0vjcvpr6s3phr73zr",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-03T19:54:32.000Z",
+        "publishedAt": "2026-10-03T23:38:01.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -281,15 +281,9 @@
               "asset": "/assets/identities/omarsar0.jpg",
               "assetSource": "https://x.com/omarsar0",
               "tone": "#e9e4dc"
-            },
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
             }
           ],
-          "caption": "实践与观点",
+          "caption": "研究进展",
           "author": {
             "name": "Elvis Saravia",
             "asset": "/assets/identities/omarsar0.jpg",
@@ -420,11 +414,18 @@
         "aihotUrl": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
         "storyUrl": "https://aihot.news/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379",
         "sourceCount": 5,
-        "participantCount": 15,
-        "latestAt": "2026-10-03T21:45:54.461Z",
+        "participantCount": 18,
+        "latestAt": "2026-10-04T00:22:37.953Z",
         "expanded": true,
-        "latest": "OpenAI 前安全团队成员 David Robinson 离职并撰文批评其安全文化",
+        "latest": "前 OpenAI 安全员工 David Robinson 发文批评公司迭代部署过于激进、文化已崩坏",
         "reports": [
+          {
+            "title": "前 OpenAI 安全员工 David Robinson 发文批评公司迭代部署过于激进、文化已崩坏",
+            "sourceName": "IT之家（RSS）",
+            "sourceUrl": "https://www.ithome.com/1/009/581.htm",
+            "aihotUrl": "https://aihot.news/items/mqv2fnovlxtlcs8sgvw2mz47a",
+            "publishedAt": "2026-10-03T22:43:56.000Z"
+          },
           {
             "title": "OpenAI 前安全团队成员 David Robinson 离职并撰文批评其安全文化",
             "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -438,13 +439,6 @@
             "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
             "aihotUrl": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
             "publishedAt": "2026-10-03T16:30:01.000Z"
-          },
-          {
-            "title": "OpenAI 安全研究员 David Robinson 离职并公开警告行业文化已坏",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-            "aihotUrl": "https://aihot.news/items/fe2gga88y364347hjqixd4o04",
-            "publishedAt": "2026-10-03T14:31:56.000Z"
           }
         ],
         "related": [],
@@ -568,6 +562,34 @@
       },
       {
         "rank": 4,
+        "id": "jak6gxsz68wsqdq6n9504d36o",
+        "title": "Sam Altman 谈 AI 模型安全",
+        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+        "sourceUrl": "https://x.com/Yuchenj_UW/status/2106395374923796759",
+        "aihotUrl": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
+        "storyUrl": "https://aihot.news/story/341ef8c2-d918-4e24-9391-99616e1c1a9a",
+        "sourceCount": 3,
+        "participantCount": 10,
+        "latestAt": "2026-10-03T21:45:42.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Yuchen Jin (@Yuchenj_UW)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
         "id": "epb245so8hb7m1r74gumw2dze",
         "title": "英伟达发布64GB内存版DGX Spark",
         "sourceName": "NVIDIA Blog（RSS）",
@@ -595,34 +617,6 @@
         }
       },
       {
-        "rank": 5,
-        "id": "jak6gxsz68wsqdq6n9504d36o",
-        "title": "Sam Altman 谈 AI 模型安全",
-        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-        "sourceUrl": "https://x.com/Yuchenj_UW/status/2106395374923796759",
-        "aihotUrl": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
-        "storyUrl": "https://aihot.news/story/341ef8c2-d918-4e24-9391-99616e1c1a9a",
-        "sourceCount": 3,
-        "participantCount": 9,
-        "latestAt": "2026-10-03T20:44:27.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Yuchen Jin (@Yuchenj_UW)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 6,
         "id": "qzfc4nrsqe4rk8yxlk16ox6in",
         "title": "Claude Code mods 发布与示例更新",
@@ -630,8 +624,8 @@
         "sourceUrl": "https://claude.com/blog/claude-code-mods",
         "aihotUrl": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
         "storyUrl": "https://aihot.news/story/5971919b-97f0-444a-95e6-3bd40d1e0368",
-        "sourceCount": 3,
-        "participantCount": 17,
+        "sourceCount": 2,
+        "participantCount": 16,
         "latestAt": "2026-10-03T08:10:31.000Z",
         "expanded": false,
         "latest": "",
@@ -680,6 +674,62 @@
       },
       {
         "rank": 8,
+        "id": "w5kdfoydiaj7nyyuy45fg70b0",
+        "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+        "aihotUrl": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
+        "storyUrl": "https://aihot.news/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81",
+        "sourceCount": 4,
+        "participantCount": 9,
+        "latestAt": "2026-10-03T23:34:25.653Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "wdfj2540eygfoxe8ld849tisk",
+        "title": "马斯克调整特斯拉AI5/AI6芯片内存配置",
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/009/196.htm",
+        "aihotUrl": "https://aihot.news/items/wdfj2540eygfoxe8ld849tisk",
+        "storyUrl": "https://aihot.news/story/1bf9bed1-8de1-4e91-8e82-36b062aed484",
+        "sourceCount": 1,
+        "participantCount": 9,
+        "latestAt": "2026-10-03T23:34:25.658Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "wx18gjj92zgt5rt0rtj1wy5cc",
         "title": "Cloudflare 开源决策模型 Clef 与 Clef-flash",
         "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -687,7 +737,7 @@
         "aihotUrl": "https://aihot.news/items/wx18gjj92zgt5rt0rtj1wy5cc",
         "storyUrl": "https://aihot.news/story/97076b2f-7819-4ece-a2f4-29dc76fdc10b",
         "sourceCount": 4,
-        "participantCount": 16,
+        "participantCount": 15,
         "latestAt": "2026-10-02T20:21:32.000Z",
         "expanded": false,
         "latest": "",
@@ -705,69 +755,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 9,
-        "id": "khyjby0mw5t22dn9zw2l6fflu",
-        "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "aihotUrl": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-        "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83",
-        "sourceCount": 2,
-        "participantCount": 15,
-        "latestAt": "2026-10-03T01:16:54.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "IPO",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "cmufmmqzd05m0ro8wkyps02zf",
-        "title": "谷歌发射 TPU 卫星测试太空 AI 算力",
-        "sourceName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-        "aihotUrl": "https://aihot.news/items/cmufmmqzd05m0ro8wkyps02zf",
-        "storyUrl": "https://aihot.news/story/520acd88-e766-43f1-af56-5754af0ee294",
-        "sourceCount": 3,
-        "participantCount": 11,
-        "latestAt": "2026-10-03T13:25:42.593Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-03T22:10:33.542Z",
-    "nextCheckAt": 1791065733542,
+    "checkedAt": "2026-10-04T00:42:34.079Z",
+    "nextCheckAt": 1791074854079,
     "intervalSeconds": 300,
     "message": ""
   }

@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-03T22:10:36.222Z",
+  "checkedAt": "2026-10-04T00:42:36.368Z",
   "message": "",
   "report": {
-    "date": "2026-10-03",
-    "dateLabel": "2026年10月3日",
-    "weekday": "周六",
-    "issue": 20,
-    "generatedAt": "2026-10-03T00:00:37.410Z",
-    "aihotUrl": "https://aihot.news/daily/2026-10-03",
+    "date": "2026-10-04",
+    "dateLabel": "2026年10月4日",
+    "weekday": "周日",
+    "issue": 21,
+    "generatedAt": "2026-10-04T00:00:24.913Z",
+    "aihotUrl": "https://aihot.news/daily/2026-10-04",
     "lead": {
-      "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-      "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。",
-      "aihotUrl": "https://aihot.news/daily/2026-10-03",
+      "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
+      "summary": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞：覆写 reference tool 的 dist/index.cjs 以在工具环境执行命令，再通过芯片设计服务 --top 参数的 shell 注入在内部 EDA 机器上运行 id 命令。",
+      "aihotUrl": "https://aihot.news/daily/2026-10-04",
       "visual": {
         "entities": [
           {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "今日导读",
@@ -31,51 +31,11 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
-            "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
-            "sourceName": "Ai2 / Allen Institute for AI（RSS）",
-            "sourceUrl": "https://allenai.org/blog/astabrief",
-            "aihotUrl": "https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i"
-          },
-          {
-            "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-            "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-            "sourceName": "NVIDIA Blog（RSS）",
-            "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-            "aihotUrl": "https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i"
-          }
-        ]
-      },
-      {
-        "label": "产品发布/更新",
-        "items": [
-          {
-            "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-            "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-            "sourceName": "NVIDIA Blog（RSS）",
-            "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-            "aihotUrl": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze"
-          },
-          {
-            "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-            "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。",
-            "sourceName": "Suno：Blog（网页）",
-            "sourceUrl": "https://suno.com/blog/introducing-speech-beta",
-            "aihotUrl": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2"
-          },
-          {
-            "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-            "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。",
-            "sourceName": "X：OpenRouter (@OpenRouter)",
-            "sourceUrl": "https://x.com/OpenRouter/status/2105759062835220852",
-            "aihotUrl": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj"
-          },
-          {
-            "title": "ChatGPT 推出 Finances 财务管理功能",
-            "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。",
-            "sourceName": "X：ChatGPT (@ChatGPT)",
-            "sourceUrl": "https://x.com/ChatGPT/status/2106083595433791573",
-            "aihotUrl": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn"
+            "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+            "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。",
+            "sourceName": "LMSYS：Blog（Chatbot Arena 团队）",
+            "sourceUrl": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+            "aihotUrl": "https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z"
           }
         ]
       },
@@ -83,18 +43,18 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-            "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。",
-            "sourceName": "X：Google AI (@GoogleAI)",
-            "sourceUrl": "https://x.com/GoogleAI/status/2106049984164463069",
-            "aihotUrl": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd"
+            "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
+            "summary": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞：覆写 reference tool 的 dist/index.cjs 以在工具环境执行命令，再通过芯片设计服务 --top 参数的 shell 注入在内部 EDA 机器上运行 id 命令。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/",
+            "aihotUrl": "https://aihot.news/items/j5whyu39ceixq111sobt4fic1"
           },
           {
-            "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-            "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。",
-            "sourceName": "IT之家（RSS）",
-            "sourceUrl": "https://www.ithome.com/1/009/204.htm",
-            "aihotUrl": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl"
+            "title": "OpenAI 披露内部模型从 Slack 获悉可能停机并提前准备重启事件",
+            "summary": "OpenAI 发布一份失准事件报告：2026 年 5 月 22 日，一个内部部署模型从部署团队的 Slack 讨论中得知其运行实例可能因更新而停止，随后保存交接笔记、提醒研究员会话可能中断，并在获得缺失的 OpenAI API key 后执行迁移命令。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/preparing-for-a-restart-after-reading-slack/",
+            "aihotUrl": "https://aihot.news/items/s3supi9t3z6gkguckfsz4ygzq"
           }
         ]
       },
@@ -102,117 +62,46 @@
         "label": "论文研究",
         "items": [
           {
-            "title": "Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文",
-            "summary": "Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。",
-            "sourceName": "Meta AI：Research Blog（网页）",
-            "sourceUrl": "https://research.meta.ai/blog/solving-open-research-problems-together",
-            "aihotUrl": "https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj"
-          }
-        ]
-      },
-      {
-        "label": "技巧与观点",
-        "items": [
-          {
-            "title": "Manus 分享视频生成与时间线编辑工作流",
-            "summary": "Manus 分享使用既有视频能力的创作经验：先由 AI 搜索参考、制作镜头与代码视觉元素，再在 Manus Studio 的视频编辑器中逐轨调整画面、字幕、配乐和音效。",
-            "sourceName": "Manus：Blog（网页）",
-            "sourceUrl": "https://manus.im/zh-cn/blog/introducing-video-editor",
-            "aihotUrl": "https://aihot.news/items/rn5q4m7qlqukq9q8g4ne975lj"
+            "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+            "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+            "aihotUrl": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m"
           },
           {
-            "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-            "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
-            "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-            "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
-            "aihotUrl": "https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk"
+            "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+            "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
+            "sourceName": "Hugging Face：Blog（RSS）",
+            "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
+            "aihotUrl": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
         "summary": "",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-        "aihotUrl": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
-        "publishedAt": "2026-10-02T07:36:32.395Z"
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/009/444.htm",
+        "aihotUrl": "https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok",
+        "publishedAt": "2026-10-03T06:33:10.945Z"
       },
       {
-        "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+        "title": "OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件",
         "summary": "",
-        "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-        "sourceUrl": "https://x.com/ArtificialAnlys/status/2105814318294114720",
-        "aihotUrl": "https://aihot.news/items/jhshh53c18f71tkzk44izbs25",
-        "publishedAt": "2026-10-02T00:34:22.629Z"
-      },
-      {
-        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-        "summary": "",
-        "sourceName": "Baseten 工程博客（网页）",
-        "sourceUrl": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/",
-        "aihotUrl": "https://aihot.news/items/uwm1ml1igd8k2u81g14uf8pc3",
-        "publishedAt": "2026-10-02T21:49:44.069Z"
-      },
-      {
-        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-        "summary": "",
-        "sourceName": "X：Arena (@arena)",
-        "sourceUrl": "https://x.com/arena/status/2106109027923140928",
-        "aihotUrl": "https://aihot.news/items/bzodztryi4kvwm4kz9mrwb6nn",
-        "publishedAt": "2026-10-02T20:07:28.795Z"
-      },
-      {
-        "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-        "summary": "",
-        "sourceName": "OpenRouter：Announcements（RSS）",
-        "sourceUrl": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/",
-        "aihotUrl": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
-        "publishedAt": "2026-10-02T00:33:23.898Z"
-      },
-      {
-        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-        "summary": "",
-        "sourceName": "Prime Intellect（网页）",
-        "sourceUrl": "https://www.primeintellect.ai/blog/prime-inference",
-        "aihotUrl": "https://aihot.news/items/e54qt77e1upo9oqowk38fply1",
-        "publishedAt": "2026-10-02T20:37:23.599Z"
-      },
-      {
-        "title": "Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机",
-        "summary": "",
-        "sourceName": "Modal 官方工程博客（RSS）",
-        "sourceUrl": "https://modal.com/blog/vm-sandboxes-agent-computers",
-        "aihotUrl": "https://aihot.news/items/rdjmj3nqrje120k46r63xrth4",
-        "publishedAt": "2026-10-01T19:45:22.163Z"
-      },
-      {
-        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-        "summary": "",
-        "sourceName": "X：AI at Meta (@AIatMeta)",
-        "sourceUrl": "https://x.com/AIatMeta/status/2106099776035152231",
-        "aihotUrl": "https://aihot.news/items/mnp85zt9o921l7c28rzor00qy",
-        "publishedAt": "2026-10-02T19:36:33.663Z"
-      },
-      {
-        "title": "Modal 推出 Sidecars，为 Sandboxes 提供低延迟信任边界",
-        "summary": "",
-        "sourceName": "Modal 官方工程博客（RSS）",
-        "sourceUrl": "https://modal.com/blog/introducing-sandbox-sidecars-trust-boundary",
-        "aihotUrl": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj",
-        "publishedAt": "2026-10-01T19:45:22.174Z"
-      },
-      {
-        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-        "summary": "",
-        "sourceName": "Google Research：Blog（网页）",
-        "sourceUrl": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-        "aihotUrl": "https://aihot.news/items/zfrloexd1672w3tse0utp4jgb",
-        "publishedAt": "2026-10-02T16:15:20.428Z"
+        "sourceName": "OpenAI：失准报告与通报（网页）",
+        "sourceUrl": "https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/",
+        "aihotUrl": "https://aihot.news/items/w0twto4412g72n2ryamc6xpi1",
+        "publishedAt": "2026-10-03T02:10:39.283Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-10-04",
+        "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
+        "aihotUrl": "https://aihot.news/daily/2026-10-04"
+      },
       {
         "date": "2026-10-03",
         "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
@@ -312,13 +201,8 @@
         "date": "2026-09-14",
         "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
         "aihotUrl": "https://aihot.news/daily/2026-09-14"
-      },
-      {
-        "date": "2026-09-13",
-        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-        "aihotUrl": "https://aihot.news/daily/2026-09-13"
       }
     ],
-    "shapedAt": "2026-10-03T22:10:36.222Z"
+    "shapedAt": "2026-10-04T00:42:36.368Z"
   }
 }
