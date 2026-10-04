@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月5日",
     "demo": false,
-    "updatedAt": "2026-10-04T20:05:26.432Z",
+    "updatedAt": "2026-10-04T23:01:14.420Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 136,
-      "latestCount": 6,
+      "received": 130,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -75,8 +75,8 @@
           "group": "产品与工程",
           "focus": "编程 Agent 与开发实践",
           "url": "https://x.com/steipete",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "sherwinwu",
@@ -144,80 +144,6 @@
       ]
     },
     "items": [
-      {
-        "id": "aihot-iobdcukq0ew2pbf2ewitw2j5s",
-        "title": "OpenAI 将聚焦简化与效率提升",
-        "brief": "好的，我们定下来了。",
-        "summary": "好的，我们定下来了。",
-        "category": "实践与观点",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "thsottiaux",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Tibo Sottiaux · @thsottiaux",
-        "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2106610099720720811",
-        "aggregateUrl": "https://aihot.news/items/iobdcukq0ew2pbf2ewitw2j5s",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-04T04:59:21.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "实践与观点",
-          "author": {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-w73kwyoyw5kwgcvkmamaqmmn7",
-        "title": "Peter Steinberger 调侃大家都在造同样的东西",
-        "brief": "笑死，我们都在造同一个东西。",
-        "summary": "笑死，我们都在造同一个东西。",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "steipete",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Peter Steinberger · @steipete",
-        "feedName": "X：Peter Steinberger (@steipete)",
-        "sourceUrl": "https://x.com/steipete/status/2106489264443981978",
-        "aggregateUrl": "https://aihot.news/items/w73kwyoyw5kwgcvkmamaqmmn7",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-03T20:59:11.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Peter Steinberger",
-              "asset": "/assets/identities/steipete.png",
-              "assetSource": "https://x.com/steipete",
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "Peter Steinberger",
-            "asset": "/assets/identities/steipete.png",
-            "assetSource": "https://x.com/steipete",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
       {
         "id": "aihot-a1p599ftuda99u5ydvxfyd9gy",
         "title": "Ethan Mollick 用单条提示词实测 Fable 5.1 生成粗野主义城市建造器",
@@ -463,49 +389,13 @@
       },
       {
         "rank": 2,
-        "id": "j45voriw6fcykynqwt5gwbtmm",
-        "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
-        "sourceName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/009/688.htm",
-        "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
-        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
-        "sourceCount": 1,
-        "participantCount": 11,
-        "latestAt": "2026-10-04T10:04:39.000Z",
-        "expanded": true,
-        "latest": "马斯克确认 SpaceXAI 将更名为 SpaceXSI，此前特朗普行政令要求用\"超级智能\"取代 AI",
-        "reports": [
-          {
-            "title": "马斯克确认 SpaceXAI 将更名为 SpaceXSI，此前特朗普行政令要求用\"超级智能\"取代 AI",
-            "sourceName": "IT之家（RSS）",
-            "sourceUrl": "https://www.ithome.com/1/009/688.htm",
-            "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
-            "publishedAt": "2026-10-04T10:04:39.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 3,
         "id": "cmu9lxijt04a1ro9b80vlc4th",
         "title": "特朗普组建超级智能部队，任命Clayton牵头",
         "sourceName": "The Decoder：AI News（RSS）",
         "sourceUrl": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
         "aihotUrl": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
         "storyUrl": "https://aihot.news/story/d5b32762-56e9-4fb8-8976-fef8dadd068a",
-        "sourceCount": 3,
+        "sourceCount": 2,
         "participantCount": 12,
         "latestAt": "2026-10-04T17:41:58.000Z",
         "expanded": true,
@@ -553,15 +443,79 @@
         }
       },
       {
+        "rank": 3,
+        "id": "dmtalxqmeu6koot2yf3kal5nu",
+        "title": "OpenAI Codex 宣布未来 28 天每日更新",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2106845241357824205",
+        "aihotUrl": "https://aihot.news/items/dmtalxqmeu6koot2yf3kal5nu",
+        "storyUrl": "https://aihot.news/story/8d77783c-db18-4e6a-b8e7-70b012886402",
+        "sourceCount": 1,
+        "participantCount": 9,
+        "latestAt": "2026-10-04T20:33:43.000Z",
+        "expanded": true,
+        "latest": "OpenAI Codex 未来 28 天每日更新",
+        "reports": [
+          {
+            "title": "OpenAI Codex 未来 28 天每日更新",
+            "sourceName": "X：Tibo (@thsottiaux)",
+            "sourceUrl": "https://x.com/thsottiaux/status/2106845241357824205",
+            "aihotUrl": "https://aihot.news/items/dmtalxqmeu6koot2yf3kal5nu",
+            "publishedAt": "2026-10-04T20:33:43.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 4,
+        "id": "j45voriw6fcykynqwt5gwbtmm",
+        "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/009/688.htm",
+        "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
+        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
+        "sourceCount": 1,
+        "participantCount": 11,
+        "latestAt": "2026-10-04T10:04:39.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
         "id": "w5kdfoydiaj7nyyuy45fg70b0",
         "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
         "sourceName": "The Decoder：AI News（RSS）",
         "sourceUrl": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
         "aihotUrl": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
         "storyUrl": "https://aihot.news/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81",
-        "sourceCount": 3,
-        "participantCount": 12,
+        "sourceCount": 2,
+        "participantCount": 11,
         "latestAt": "2026-10-04T07:38:49.000Z",
         "expanded": false,
         "latest": "",
@@ -574,34 +528,6 @@
               "asset": "/assets/identities/anthropicai.jpg",
               "assetSource": "https://x.com/AnthropicAI",
               "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
-        "id": "ln6ere28kepk46azfanwaucm2",
-        "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
-        "sourceName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-        "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
-        "storyUrl": "https://aihot.news/story/e3d54065-1571-44a0-91b5-79600744e735",
-        "sourceCount": 4,
-        "participantCount": 21,
-        "latestAt": "2026-10-03T14:28:51.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -666,15 +592,43 @@
       },
       {
         "rank": 8,
-        "id": "gwtipws3qkxm941aqz5iluhdi",
-        "title": "Meta否认Muse读取私信，Apple收紧macOS权限",
+        "id": "nj7vtq0wdadqu63nrcpefqkb3",
+        "title": "Yuchen Jin 称终端时代已终结",
+        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+        "sourceUrl": "https://x.com/Yuchenj_UW/status/2106595769536872610",
+        "aihotUrl": "https://aihot.news/items/nj7vtq0wdadqu63nrcpefqkb3",
+        "storyUrl": "https://aihot.news/story/15204c12-df46-428f-8dba-17be841c60bc",
+        "sourceCount": 2,
+        "participantCount": 7,
+        "latestAt": "2026-10-04T14:23:39.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Yuchen Jin (@Yuchenj_UW)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "ln6ere28kepk46azfanwaucm2",
+        "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
         "sourceName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-        "aihotUrl": "https://aihot.news/items/gwtipws3qkxm941aqz5iluhdi",
-        "storyUrl": "https://aihot.news/story/739a7589-bbae-4e8d-8bec-d6908b779010",
-        "sourceCount": 4,
-        "participantCount": 15,
-        "latestAt": "2026-10-03T00:39:54.866Z",
+        "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "aihotUrl": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
+        "storyUrl": "https://aihot.news/story/e3d54065-1571-44a0-91b5-79600744e735",
+        "sourceCount": 2,
+        "participantCount": 12,
+        "latestAt": "2026-10-03T14:28:51.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -693,44 +647,16 @@
         }
       },
       {
-        "rank": 9,
-        "id": "jak6gxsz68wsqdq6n9504d36o",
-        "title": "Sam Altman 谈 AI 模型安全",
-        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-        "sourceUrl": "https://x.com/Yuchenj_UW/status/2106395374923796759",
-        "aihotUrl": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
-        "storyUrl": "https://aihot.news/story/341ef8c2-d918-4e24-9391-99616e1c1a9a",
-        "sourceCount": 3,
-        "participantCount": 9,
-        "latestAt": "2026-10-03T18:56:30.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Yuchen Jin (@Yuchenj_UW)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 10,
-        "id": "gbo1a8x21yv2fxzxk5ta9awbq",
-        "title": "Karpathy 分享理解 LLM 输出的技巧",
-        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-        "sourceUrl": "https://x.com/Yuchenj_UW/status/2105821521201799480",
-        "aihotUrl": "https://aihot.news/items/gbo1a8x21yv2fxzxk5ta9awbq",
-        "storyUrl": "https://aihot.news/story/ebddd653-1eaa-41aa-975c-f8f3f11158df",
-        "sourceCount": 1,
-        "participantCount": 6,
-        "latestAt": "2026-10-04T17:40:39.000Z",
+        "id": "gwtipws3qkxm941aqz5iluhdi",
+        "title": "Meta否认Muse读取私信，Apple收紧macOS权限",
+        "sourceName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "aihotUrl": "https://aihot.news/items/gwtipws3qkxm941aqz5iluhdi",
+        "storyUrl": "https://aihot.news/story/739a7589-bbae-4e8d-8bec-d6908b779010",
+        "sourceCount": 3,
+        "participantCount": 11,
+        "latestAt": "2026-10-03T00:39:54.866Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -738,7 +664,7 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Yuchen Jin (@Yuchenj_UW)",
+              "name": "The Verge：AI（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -752,8 +678,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-04T20:05:26.432Z",
-    "nextCheckAt": 1791144626432,
+    "checkedAt": "2026-10-04T23:01:14.420Z",
+    "nextCheckAt": 1791155174420,
     "intervalSeconds": 300,
     "message": ""
   }
