@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile, access} from 'node:fs/promises';
 import {createLiveFeed} from '../scripts/collectors/live-feed.mjs';
 import {createCreatorFeed} from '../scripts/collectors/creator-feed.mjs';
+import {validateDailyReport} from '../scripts/collectors/aihot-daily.mjs';
 const root = new URL('../public/', import.meta.url);
 const read = async name => JSON.parse(await readFile(new URL(name, root), 'utf8'));
 
@@ -53,8 +54,7 @@ test('the three public editions contain readable records and bundled illustratio
 test('the v2 AIHOT editions are short, ranked without a heat score, and keep six creator accounts', async () => {
   const daily=await read('api/daily-report.json'),selected=await read('api/selected.json'),tools=await read('api/tools.json'),live=await read('api/live.json'),creators=await read('api/creators.json');
   assert.equal(creators.accounts.length, 6);
-  assert.ok(daily.report.lead.title);
-  assert.ok(daily.report.sections.length);
+  assert.doesNotThrow(() => validateDailyReport(daily.report));
   assert.equal(live.data.ranking.length, 10);
   assert.equal(live.data.ranking.filter(item=>item.rank<=3&&item.expanded).length, 3);
   assert.ok(live.data.ranking.every(item=>item.signalCount==null&&item.trend==null));

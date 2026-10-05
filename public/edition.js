@@ -29,7 +29,8 @@
  function renderDaily(){
   const status=$('daily-status');
   if(!report){status.textContent='今日导读暂时没有内容。';return;}
-  status.textContent=report.generatedAt?`AIHOT 生成于 ${dateText(report.generatedAt)}（北京时间）`:'';
+  const quiet=report.sections.length===0&&report.flashes.length===0;
+  status.textContent=[quiet?'本期暂无新增资讯':'',report.generatedAt?`AIHOT 生成于 ${dateText(report.generatedAt)}（北京时间）`:''].filter(Boolean).join(' · ');
   if($('issue'))$('issue').textContent=[report.weekday,report.issue?`第 ${report.issue} 期`:''].filter(Boolean).join(' · ');
   const origin=$('daily-origin');if(report.aihotUrl)origin.href=report.aihotUrl;
   const cal=$('daily-calendar');cal.replaceChildren();
@@ -58,6 +59,7 @@
    lead.append(link('在 AIHOT 阅读本期 ↗',report.lead.aihotUrl||report.aihotUrl));
   }
   const sections=$('daily-sections');sections.replaceChildren();
+  if(!report.sections.length)sections.append(node('p','section-note daily-empty','本期暂无分类资讯。'));
   for(const section of report.sections||[]){
    const block=node('section','daily-block');block.append(node('h3','',section.label));
    const list=node('ol','daily-list');
@@ -65,6 +67,7 @@
    block.append(list);sections.append(block);
   }
   const flashes=$('daily-flashes');flashes.replaceChildren();
+  if(!report.flashes.length)flashes.append(node('p','section-note daily-empty','本期暂无快讯。'));
   for(const item of report.flashes||[]){
    const card=anchor(item.aihotUrl||item.sourceUrl,'flash',item.title);
    card.append(node('strong','',item.title),node('span','',`${item.sourceName||''}${item.publishedAt?' · '+dateText(item.publishedAt):''}`));
@@ -172,7 +175,12 @@
  }
  async function refresh(){
   await Promise.all([
-   load('/api/daily-report.json',body=>{if(body?.report){report=body.report;renderDaily();refreshLead();}else if($('daily-status'))$('daily-status').textContent=body?.message||'今日导读暂时没有内容。';},'daily-status'),
+   load('/api/daily-report.json',body=>{
+    if(body?.report){
+     report=body.report;renderDaily();refreshLead();
+     if(body.status==='error')$('daily-status').textContent=body.message||'今日导读暂时无法更新，已保留上次内容。';
+    }else if($('daily-status'))$('daily-status').textContent=body?.message||'今日导读暂时没有内容。';
+   },'daily-status'),
    load('/api/selected.json',body=>{selected=body;renderSelected();renderWatch();},'selected-status'),
    load('/api/tools.json',body=>{tools=body;renderTools();},'tools-status'),
   ]);
