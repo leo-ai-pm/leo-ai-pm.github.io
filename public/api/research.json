@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-04T23:01:08.203Z",
-      "lastSuccessAt": "2026-10-04T23:01:08.203Z",
-      "nextCheckAt": 1791158468203,
+      "checkedAt": "2026-10-05T01:48:18.242Z",
+      "lastSuccessAt": "2026-10-05T01:48:18.242Z",
+      "nextCheckAt": 1791168498242,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-05T01:48:18.243Z",
+      "lastSuccessAt": "2026-10-05T01:48:18.243Z",
+      "nextCheckAt": 1791168498243,
       "status": "ok",
-      "nextCheckAt": 1791158468204,
-      "checkedAt": "2026-10-04T23:01:08.204Z",
-      "lastSuccessAt": "2026-10-04T23:01:08.204Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-04T23:01:08.205Z",
-      "lastSuccessAt": "2026-10-04T23:01:08.205Z",
-      "nextCheckAt": 1791158468205,
+      "checkedAt": "2026-10-05T01:48:18.244Z",
+      "lastSuccessAt": "2026-10-05T01:48:18.244Z",
+      "nextCheckAt": 1791168498244,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791158468389,
-      "checkedAt": "2026-10-04T23:01:08.389Z",
-      "lastSuccessAt": "2026-10-04T23:01:08.389Z",
+      "nextCheckAt": 1791168498401,
+      "checkedAt": "2026-10-05T01:48:18.401Z",
+      "lastSuccessAt": "2026-10-05T01:48:18.401Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791158468203,
+  "nextCheckAt": 1791168498242,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6473653.html",
+      "title": "跟着这五步，小白也能训练出自己的模型",
+      "summary": "产品经理如何亲手训练一个专属大模型？本文以 Qwen2.5-0.5B 为例，用 LLaMA-Factory 完成 LoRA 微调，并接入 Dify 跑通全流程。从租 GPU 到数据准备、参数配置、结果验证，全程不到 6 元成本，帮你理解模型训练的底层逻辑与常见坑点。 作为产品经理，我们每天都在跟大模型打交道，但大多数人只停留在调 API的层面。最近我亲手用 LLaMA-Factory 对 Qwen2.5-0.5B 做了一次 LoRA 微",
+      "publishedAt": "2026-10-05T01:13:05.000Z",
+      "url": "https://www.woshipm.com/ai/6473653.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6473653.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "产品经理如何亲手训练一个专属大模型？本文以 Qwen2.5-0.5B 为例，用 LLaMA-Factory 完成 LoRA 微调，并接入 Dify 跑通全流程。从租 GPU 到数据准备、参数配置、结果验证，全程不到 6 元成本，帮你理解模型训练的底层逻辑与常见坑点。 作为产品经理，我们每天都在跟大模型打交道，但大多数人只停留在调 API的层面。最近我亲手用 LLaMA-Factory 对 Qwen2.5-0.5B 做了一次 LoRA 微",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/share/6473512.html",
       "title": "AI越懂用户，企业越要重新理解什么叫私域",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/sellio-2",
@@ -211,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/aperture-7",
@@ -287,46 +327,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "ChatGPT Dot 由 GPT-6 Astra 驱动，任务跑在云端电脑、不占周限额，定位是有独立身份、全天候常驻的智能体，而不是随开随关的对话框。Muse、Cue、Grok Bot 都已下场，Dot 的差别在磁盘持久化和 4,000 多个应用连接。 OpenAI 在 DevDay 上放出了重磅杀器：ChatGPT Dot，亮点是由最新的旗舰模型 GPT-6 Astra 驱动，云端电脑执行任务，不消耗周限额 不过热闹背后，很多朋友进到",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6473488.html",
-      "title": "豆包/千问/元宝，集体转向 Personal Agent",
-      "summary": "国内前四的通用型AI助理里，除了DeepSeek，豆包、千问、元宝正集体转向Personal AI Agent。豆包内部在做一款对标Meta Muse的产品，代号Spell，名字或叫小豆，据称仅用6天拿出内测体验版。 年初Claw龙虾热，年中办公Agent潮，年末的风向来到了个人 Agent。 也就是Meta 掀起的 Personal AI Agent 风。 回看国内， 国内前四的通用型 AI 助理。 除了 DeepSeek，豆包、千问",
-      "publishedAt": "2026-10-03T08:19:15.000Z",
-      "url": "https://www.woshipm.com/ai/6473488.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473488.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "国内前四的通用型AI助理里，除了DeepSeek，豆包、千问、元宝正集体转向Personal AI Agent。豆包内部在做一款对标Meta Muse的产品，代号Spell，名字或叫小豆，据称仅用6天拿出内测体验版。 年初Claw龙虾热，年中办公Agent潮，年末的风向来到了个人 Agent。 也就是Meta 掀起的 Personal AI Agent 风。 回看国内， 国内前四的通用型 AI 助理。 除了 DeepSeek，豆包、千问",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
