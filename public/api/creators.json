@@ -296,9 +296,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-06T10:04:43.310Z",
-      "lastSuccessAt": "2026-10-06T10:04:43.310Z",
-      "nextCheckAt": 1791281983310,
+      "checkedAt": "2026-10-06T16:41:53.353Z",
+      "lastSuccessAt": "2026-10-06T16:41:53.353Z",
+      "nextCheckAt": 1791305813353,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -609,9 +609,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-06T10:04:43.352Z",
-      "lastSuccessAt": "2026-10-06T10:04:43.352Z",
-      "nextCheckAt": 1791281983352,
+      "checkedAt": "2026-10-06T16:41:53.399Z",
+      "lastSuccessAt": "2026-10-06T16:41:53.399Z",
+      "nextCheckAt": 1791305813399,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -631,6 +631,64 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492349&idx=1&sn=5e77b4c05ebb1913fb8df720b1feec3e",
+          "creatorId": "huashu",
+          "title": "huashu-art-motion发布！可能是最有审美的",
+          "summary": "前几天X上刷到一批Fable 5.5做的动画，有人一句提示词就搞出3分钟短片，还有人让超人跨画风一镜到底。我顺手把那段艺术史动画丢给Claude Code复刻。 结果它不光复刻了，还自己做了张运动热力图，揪出原片里哪些区域在动。浪怎么卷、文字怎么闪，全被它扒得干干净净。 复刻完当晚，我又给它加码：用我的卡通形象穿越20种画风，还得跟画里的东西互动。穿过莫奈的日本桥，往睡莲池子里打水漂；到了8-bit夜空，再顶出一枚金币。 场景和配乐全靠",
+          "publishedAt": "2026-10-06T06:13:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492349&idx=1&sn=5e77b4c05ebb1913fb8df720b1feec3e",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "花叔",
+                "asset": "/assets/identities/creator_huashu.jpg",
+                "tone": "#e7e4dd"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492344&idx=1&sn=f2b9cb9c272bfb9c8ec163ab0b279b49",
+          "creatorId": "huashu",
+          "title": "huashu-art-motion发布！可能是最有审美的动画skill。",
+          "summary": "先看片子，2分08秒，一镜到底。再看一支更适合实际工作的视频，同样是用这个skill做的，讲的是SpaceX这24年。",
+          "publishedAt": "2026-10-06T05:17:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492344&idx=1&sn=f2b9cb9c272bfb9c8ec163ab0b279b49",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+            "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "花叔",
+                "asset": "/assets/identities/creator_huashu.jpg",
+                "tone": "#e7e4dd"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492309&idx=1&sn=85a0f9ceeb9ff91dcb445fbcf0d79c00",
           "creatorId": "huashu",
@@ -865,69 +923,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492176&idx=1&sn=9ea14afe771db2509ff2f3cfb482e3bf",
-          "creatorId": "huashu",
-          "title": "我让 WorkBuddy 删掉55个文件，它竟然…",
-          "summary": "刚开始用AI做产品那阵，我没少吃过这种亏：一个本来跑得好好的功能，让它改个小地方，它顺手把别的搞崩了，我还找",
-          "publishedAt": "2026-09-17T09:50:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492176&idx=1&sn=9ea14afe771db2509ff2f3cfb482e3bf",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492170&idx=1&sn=64f9df6b6a646e523817563d8e34a058",
-          "creatorId": "huashu",
-          "title": "正式开源！比橙皮书skill更强10倍的Huashu-Report来了！",
-          "summary": "之前发Claude Code、Harness Engineering、OpenClaw这些橙皮书的时候，总有",
-          "publishedAt": "2026-09-14T12:58:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492170&idx=1&sn=64f9df6b6a646e523817563d8e34a058",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-06T10:04:43.353Z",
-      "lastSuccessAt": "2026-10-06T10:04:43.353Z",
-      "nextCheckAt": 1791281983353,
+      "checkedAt": "2026-10-06T16:41:53.401Z",
+      "lastSuccessAt": "2026-10-06T16:41:53.401Z",
+      "nextCheckAt": 1791305813401,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -947,6 +947,35 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521374&idx=1&sn=fbbad774a8ce77222776372094b47360",
+          "creatorId": "cyber",
+          "title": "美国开源的新希望，对标智谱的上一代模型",
+          "summary": "Beam 发布，对标 GLM-5.2，但算力省 3–4 倍",
+          "publishedAt": "2026-10-06T05:45:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521374&idx=1&sn=fbbad774a8ce77222776372094b47360",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "赛博禅心",
+                "asset": "/assets/identities/creator_cyber.jpg",
+                "tone": "#dcebea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521355&idx=1&sn=55652832c3e96034b74ffaf178e42dc3",
           "creatorId": "cyber",
@@ -1210,41 +1239,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520928&idx=1&sn=febbd7a155fb3d6722850127c57b76c1",
-          "creatorId": "cyber",
-          "title": "就是现在，一键获取250美金Claude额度",
-          "summary": "浏览器里打开下方的网址： https://claude.ai/code/claim-credit/10 你就能获得额度了： - Pro用户：100刀 - Max用户：250刀",
-          "publishedAt": "2026-09-24T15:18:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247520928&idx=1&sn=febbd7a155fb3d6722850127c57b76c1",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-            "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Anthropic",
-                "asset": "/assets/identities/anthropicai.jpg",
-                "assetSource": "https://x.com/AnthropicAI",
-                "tone": "#eddfd0"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-06T10:04:43.460Z",
-      "lastSuccessAt": "2026-10-06T10:04:43.460Z",
-      "nextCheckAt": 1791281983460,
+      "checkedAt": "2026-10-06T16:41:53.519Z",
+      "lastSuccessAt": "2026-10-06T16:41:53.519Z",
+      "nextCheckAt": 1791305813519,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1264,6 +1263,35 @@
     {
       "id": "khazix",
       "items": [
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+          "creatorId": "khazix",
+          "title": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
+          "summary": "万物皆周期",
+          "publishedAt": "2026-10-06T00:18:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "数字生命卡兹克",
+                "asset": "/assets/identities/creator_khazix.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "产品与热点",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a",
           "creatorId": "khazix",
@@ -1533,40 +1561,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686382&idx=1&sn=46be4b7792f08dffa9cf86d8e7a85307",
-          "creatorId": "khazix",
-          "title": "在折腾9个月后，手机Agent的王者，豆包手机助手它回来了。",
-          "summary": "走向日常",
-          "publishedAt": "2026-09-16T08:57:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686382&idx=1&sn=46be4b7792f08dffa9cf86d8e7a85307",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "数字生命卡兹克",
-                "asset": "/assets/identities/creator_khazix.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "产品与热点",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-06T10:04:43.533Z",
-      "lastSuccessAt": "2026-10-06T10:04:43.533Z",
-      "nextCheckAt": 1791281983533,
+      "checkedAt": "2026-10-06T16:41:53.624Z",
+      "lastSuccessAt": "2026-10-06T16:41:53.624Z",
+      "nextCheckAt": 1791305813624,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1877,9 +1876,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-06T10:04:43.551Z",
-      "lastSuccessAt": "2026-10-06T10:04:43.551Z",
-      "nextCheckAt": 1791281983551,
+      "checkedAt": "2026-10-06T16:41:53.673Z",
+      "lastSuccessAt": "2026-10-06T16:41:53.673Z",
+      "nextCheckAt": 1791305813673,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1898,6 +1897,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1791281983310,
+  "nextCheckAt": 1791305813353,
   "refreshing": false
 }
