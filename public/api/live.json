@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月5日",
+    "date": "2026年10月6日",
     "demo": false,
-    "updatedAt": "2026-10-05T01:48:26.728Z",
+    "updatedAt": "2026-10-06T02:52:59.059Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 125,
-      "latestCount": 4,
+      "received": 282,
+      "latestCount": 6,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -57,8 +57,8 @@
           "group": "产品与工程",
           "focus": "AI 工程与开发者生态",
           "url": "https://x.com/swyx",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "simonw",
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 8,
           "status": "本次收录"
         },
         {
@@ -102,7 +102,7 @@
           "group": "研究与方法",
           "focus": "AI 研究与技术解读",
           "url": "https://x.com/omarsar0",
-          "matched": 5,
+          "matched": 8,
           "status": "本次收录"
         },
         {
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -138,17 +138,91 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         }
       ]
     },
     "items": [
       {
-        "id": "aihot-w75f9wjb80c7t0uqxouv89mvd",
-        "title": "AI 时代\"善用 AI\"建议已过时",
-        "brief": "我认为这条建议已经不那么成立了： 1) 随着 AI 越来越易用，\"更好地使用 AI\"背后的持久技能是什么，并不清晰 2) 越来越明显的是，制约 AI 收益的瓶颈是组织系统，而非个体工作者 3) 对就业的影响尚不确定，但可能冲击整个职业类别",
-        "summary": "我认为这条建议已经不那么成立了： 1) 随着 AI 越来越易用，\"更好地使用 AI\"背后的持久技能是什么，并不清晰 2) 越来越明显的是，制约 AI 收益的瓶颈是组织系统，而非个体工作者 3) 对就业的影响尚不确定，但可能冲击整个职业类别",
+        "id": "aihot-m5c0rtxey404cnj2olo5bpvtd",
+        "title": "OpenAI 回应 API 成本对比争议",
+        "brief": "这才是真正的关键所在 @meetp_ai：@petergostev 在我看来，只计算等效 API 成本只能看到一半的情况。",
+        "summary": "这才是真正的关键所在 @meetp_ai：@petergostev 在我看来，只计算等效 API 成本只能看到一半的情况。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2107295839655952486",
+        "aggregateUrl": "https://aihot.news/items/m5c0rtxey404cnj2olo5bpvtd",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-06T02:24:14.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-tl06w2wqinl9o3tvp2ieozwjt",
+        "title": "Meta AI 18个月氛围逆转引关注",
+        "brief": "@AIatMeta 从 Llama 4 的糟糕局面，到如今被与其他前沿实验室相提并论，这史诗般的 18 个月氛围转变值得研究 @alexandr_wang（以及他令人震惊的深厚团队）既与众不同，也构建不同。",
+        "summary": "@AIatMeta 从 Llama 4 的糟糕局面，到如今被与其他前沿实验室相提并论，这史诗般的 18 个月氛围转变值得研究 @alexandr_wang（以及他令人震惊的深厚团队）既与众不同，也构建不同。",
+        "category": "实践与观点",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "swyx",
+        "sourceGroup": "产品与工程",
+        "sourceName": "swyx · @swyx",
+        "feedName": "X：swyx (@swyx)",
+        "sourceUrl": "https://x.com/swyx/status/2107275361822347406",
+        "aggregateUrl": "https://aihot.news/items/tl06w2wqinl9o3tvp2ieozwjt",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-06T01:02:52.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "swyx",
+              "asset": "/assets/identities/swyx.jpg",
+              "assetSource": "https://x.com/swyx",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "swyx",
+            "asset": "/assets/identities/swyx.jpg",
+            "assetSource": "https://x.com/swyx",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-kjyunrnuzmkkl80o9chg4ufmf",
+        "title": "AI 写论文缺乏反馈校准",
+        "brief": "AI 写学术论文的一个微妙问题在于，AI 没有针对反馈进行校准。",
+        "summary": "AI 写学术论文的一个微妙问题在于，AI 没有针对反馈进行校准。",
         "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
@@ -157,10 +231,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2106914993526747224",
-        "aggregateUrl": "https://aihot.news/items/w75f9wjb80c7t0uqxouv89mvd",
+        "sourceUrl": "https://x.com/emollick/status/2107281172342427734",
+        "aggregateUrl": "https://aihot.news/items/kjyunrnuzmkkl80o9chg4ufmf",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-05T01:10:53.000Z",
+        "publishedAt": "2026-10-06T01:25:57.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -182,10 +256,10 @@
         }
       },
       {
-        "id": "aihot-kej85fqatugzts37jenbakx8z",
-        "title": "Elvis Saravia 分享通用智能体协作界面的个人实践",
-        "brief": "Elvis Saravia 回应 Karpathy 关于理解 LLM 输出的帖子，称类似做法自己已实践一年多，并分享他正在搭建的通用人机协作界面。",
-        "summary": "Elvis Saravia 回应 Karpathy 关于理解 LLM 输出的帖子，称类似做法自己已实践一年多，并分享他正在搭建的通用人机协作界面。",
+        "id": "aihot-o0547uzw4bdme530dsv5cq6jv",
+        "title": "flow-1：RL 训练找 agent 错误",
+        "brief": "和 Jev 一样，我相信 RL 会解锁更多类似的成果，大幅削减关键智能体操作的成本。",
+        "summary": "和 Jev 一样，我相信 RL 会解锁更多类似的成果，大幅削减关键智能体操作的成本。",
         "category": "实践与观点",
         "topic": "Agent",
         "priority": "normal",
@@ -194,10 +268,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Elvis Saravia · @omarsar0",
         "feedName": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "sourceUrl": "https://x.com/omarsar0/status/2106801689495826520",
-        "aggregateUrl": "https://aihot.news/items/kej85fqatugzts37jenbakx8z",
+        "sourceUrl": "https://x.com/omarsar0/status/2107273821824622885",
+        "aggregateUrl": "https://aihot.news/items/o0547uzw4bdme530dsv5cq6jv",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-04T17:40:39.000Z",
+        "publishedAt": "2026-10-06T00:56:45.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -219,11 +293,11 @@
         }
       },
       {
-        "id": "aihot-skfgsas6fbpcual975kft4p8e",
-        "title": "Perplexity Computer 可构建垂直 AI 应用",
-        "brief": "你可以在 Computer 里构建自定义垂直 AI 应用，例如：用 3D 和卫星视图猜测图像的 spatial location。",
-        "summary": "你可以在 Computer 里构建自定义垂直 AI 应用，例如：用 3D 和卫星视图猜测图像的 spatial location。",
-        "category": "实践与观点",
+        "id": "aihot-l6sxjedwpj6f3h0veao48sngx",
+        "title": "Perplexity Mac 版新增标签页",
+        "brief": "用于重度多任务处理的空间画布。",
+        "summary": "用于重度多任务处理的空间画布。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -231,10 +305,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2106826752169312760",
-        "aggregateUrl": "https://aihot.news/items/skfgsas6fbpcual975kft4p8e",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2107250838553182453",
+        "aggregateUrl": "https://aihot.news/items/l6sxjedwpj6f3h0veao48sngx",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-04T19:20:15.000Z",
+        "publishedAt": "2026-10-05T23:25:25.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -246,7 +320,7 @@
               "tone": "#dcebea"
             }
           ],
-          "caption": "实践与观点",
+          "caption": "产品动态",
           "author": {
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
@@ -256,11 +330,11 @@
         }
       },
       {
-        "id": "aihot-vhq7ccbdgrfvzv92t2a5x22qj",
-        "title": "Hugging Face 联创晒新室友",
-        "brief": "新室友刚搬进来。",
-        "summary": "新室友刚搬进来。",
-        "category": "产品动态",
+        "id": "aihot-zpxsopbvgo4biv5yhvifxm807",
+        "title": "希望 Opus 4.6 能长期保留",
+        "brief": "我希望 Opus 4.6 能长期保留下去",
+        "summary": "我希望 Opus 4.6 能长期保留下去",
+        "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -268,22 +342,22 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2106657796695458085",
-        "aggregateUrl": "https://aihot.news/items/vhq7ccbdgrfvzv92t2a5x22qj",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2107220816022966376",
+        "aggregateUrl": "https://aihot.news/items/zpxsopbvgo4biv5yhvifxm807",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-04T08:08:53.000Z",
+        "publishedAt": "2026-10-05T21:26:07.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
+              "name": "Thomas Wolf",
+              "asset": "/assets/identities/thom_wolf.jpg",
+              "assetSource": "https://x.com/Thom_Wolf",
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "产品动态",
+          "caption": "实践与观点",
           "author": {
             "name": "Thomas Wolf",
             "asset": "/assets/identities/thom_wolf.jpg",
@@ -333,38 +407,88 @@
     "ranking": [
       {
         "rank": 1,
-        "id": "xmlfce496prtvqpqmcupmsssc",
-        "title": "OpenAI安全负责人罗宾逊离职并撰文批评",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "aihotUrl": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
-        "storyUrl": "https://aihot.news/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379",
-        "sourceCount": 6,
-        "participantCount": 20,
-        "latestAt": "2026-10-04T01:13:09.000Z",
+        "id": "qy7y0cfu1wbum1ej9urwylfxr",
+        "title": "Reflection 发布 501B 开源模型 Beam，本月放权重",
+        "sourceName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://reflection.ai/blog/introducing-beam",
+        "aihotUrl": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
+        "storyUrl": "https://aihot.news/story/553aab31-30b1-4787-bd62-3b006d83295e",
+        "sourceCount": 9,
+        "participantCount": 29,
+        "latestAt": "2026-10-06T00:42:20.000Z",
         "expanded": true,
-        "latest": "OpenAI 前安全负责人 David Robinson 离职并在 The Atlantic 撰文批评其安全文化",
+        "latest": "英伟达投资的 Reflection AI 发布首款开放权重模型 Beam，对标 DeepSeek 和 Kimi",
         "reports": [
           {
-            "title": "OpenAI 前安全负责人 David Robinson 离职并在 The Atlantic 撰文批评其安全文化",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2106553173808972214",
-            "aihotUrl": "https://aihot.news/items/rz7fri2389pwrtyzyf8tolrmf",
-            "publishedAt": "2026-10-04T01:13:09.000Z"
-          },
-          {
-            "title": "前 OpenAI 安全员工 David Robinson 发文批评公司迭代部署过于激进、文化已崩坏",
+            "title": "英伟达投资的 Reflection AI 发布首款开放权重模型 Beam，对标 DeepSeek 和 Kimi",
             "sourceName": "IT之家（RSS）",
-            "sourceUrl": "https://www.ithome.com/1/009/581.htm",
-            "aihotUrl": "https://aihot.news/items/mqv2fnovlxtlcs8sgvw2mz47a",
-            "publishedAt": "2026-10-03T22:43:56.000Z"
+            "sourceUrl": "https://www.ithome.com/1/009/932.htm",
+            "aihotUrl": "https://aihot.news/items/u4bx9o7x7971gnmx2uewyn7su",
+            "publishedAt": "2026-10-06T00:42:20.000Z"
           },
           {
-            "title": "OpenAI 前安全团队成员 David Robinson 离职并撰文批评其安全文化",
-            "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-            "sourceUrl": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
-            "aihotUrl": "https://aihot.news/items/lwxnxzh8rmxn69nlg3yo6fpkt",
-            "publishedAt": "2026-10-03T21:45:54.461Z"
+            "title": "Reflection 发布开放模型 Beam：501B 总参数、23B 激活，主打推理效率",
+            "sourceName": "X：马东锡 NLP (@dongxi_nlp)",
+            "sourceUrl": "https://x.com/dongxi_nlp/status/2107219404907765882",
+            "aihotUrl": "https://aihot.news/items/wvhiggc7qsdmjscbo2h38plhl",
+            "publishedAt": "2026-10-05T21:20:31.000Z"
+          },
+          {
+            "title": "Artificial Analysis 获 Reflection 提供访问，独立基准测试开源智能体模型 Beam",
+            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+            "sourceUrl": "https://x.com/ArtificialAnlys/status/2107219177132155233",
+            "aihotUrl": "https://aihot.news/items/u5rmr1uxgncglpsb9ppxqvr4b",
+            "publishedAt": "2026-10-05T21:19:36.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Hacker News：AI 热帖",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
+        "id": "xx5mgdemrqmqw5zw410sbawcz",
+        "title": "OpenAI公布欧盟文本溯源水印方案",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/eu-text-provenance",
+        "aihotUrl": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz",
+        "storyUrl": "https://aihot.news/story/b92e615b-0baf-4821-a3ac-e621dde3db2c",
+        "sourceCount": 7,
+        "participantCount": 22,
+        "latestAt": "2026-10-05T20:36:48.000Z",
+        "expanded": true,
+        "latest": "OpenAI 将在欧盟为 ChatGPT 文本添加隐形水印 textGrain",
+        "reports": [
+          {
+            "title": "OpenAI 将在欧盟为 ChatGPT 文本添加隐形水印 textGrain",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+            "aihotUrl": "https://aihot.news/items/ql0sq7wg0rnrv5oewtdn1oo9a",
+            "publishedAt": "2026-10-05T20:36:48.000Z"
+          },
+          {
+            "title": "OpenAI 将在欧盟对 ChatGPT 和 Codex 文本加入隐形水印",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2107178129215353123",
+            "aihotUrl": "https://aihot.news/items/zhw3ca5gjcee6i0tlxdibkg1t",
+            "publishedAt": "2026-10-05T18:36:30.000Z"
+          },
+          {
+            "title": "OpenAI 在 ChatGPT 和 Codex 中推出 textGrain 文本水印，率先面向欧盟用户",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+            "aihotUrl": "https://aihot.news/items/ar5krjifldgtrxgno44lx3ujz",
+            "publishedAt": "2026-10-05T18:08:39.000Z"
           }
         ],
         "related": [],
@@ -382,80 +506,39 @@
         }
       },
       {
-        "rank": 2,
-        "id": "cmu9lxijt04a1ro9b80vlc4th",
-        "title": "特朗普组建超级智能部队，任命Clayton牵头",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
-        "aihotUrl": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
-        "storyUrl": "https://aihot.news/story/d5b32762-56e9-4fb8-8976-fef8dadd068a",
-        "sourceCount": 2,
-        "participantCount": 12,
-        "latestAt": "2026-10-04T17:41:58.000Z",
-        "expanded": true,
-        "latest": "特朗普宣布成立\"超级智能部队\"（SIF）协调联邦政府 AI 事务",
-        "reports": [
-          {
-            "title": "特朗普宣布成立\"超级智能部队\"（SIF）协调联邦政府 AI 事务",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
-            "aihotUrl": "https://aihot.news/items/c64bqsfcqxw8nsneyj0zqsj5k",
-            "publishedAt": "2026-10-04T17:41:58.000Z"
-          },
-          {
-            "title": "特朗普宣布成立 Super Intelligence Force，由 Jay Clayton 牵头",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-            "aihotUrl": "https://aihot.news/items/memfk03m6yv8cz4r17fi4abus",
-            "publishedAt": "2026-10-04T15:15:10.000Z"
-          },
-          {
-            "title": "特朗普预计提名情报总监 Jay Clayton 出任白宫新 AI 负责人",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2106120649320419714",
-            "aihotUrl": "https://aihot.news/items/w77op1wxgn0wsd5i1pz9s78rw",
-            "publishedAt": "2026-10-02T20:34:27.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "特朗普推动AI改名SI并筹建AI Force",
-            "storyUrl": "https://aihot.news/story/129c4994-da48-4698-8261-46e30d139e7f"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "The Decoder：AI News（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 3,
-        "id": "dmtalxqmeu6koot2yf3kal5nu",
-        "title": "OpenAI Codex 宣布未来 28 天每日更新",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2106845241357824205",
-        "aihotUrl": "https://aihot.news/items/dmtalxqmeu6koot2yf3kal5nu",
+        "id": "cmf54gyjdos166m78jip77ptm",
+        "title": "OpenAI 启动 Codex 与 ChatGPT Work 28 天每日更新",
+        "sourceName": "IT之家（RSS）",
+        "sourceUrl": "https://www.ithome.com/1/009/761.htm",
+        "aihotUrl": "https://aihot.news/items/cmf54gyjdos166m78jip77ptm",
         "storyUrl": "https://aihot.news/story/8d77783c-db18-4e6a-b8e7-70b012886402",
-        "sourceCount": 1,
-        "participantCount": 10,
-        "latestAt": "2026-10-04T20:33:43.000Z",
+        "sourceCount": 3,
+        "participantCount": 22,
+        "latestAt": "2026-10-05T17:49:34.000Z",
         "expanded": true,
-        "latest": "OpenAI Codex 未来 28 天每日更新",
+        "latest": "GPT-6 Astra 与 GPT-6.1 Sol 提速 50%",
         "reports": [
           {
-            "title": "OpenAI Codex 未来 28 天每日更新",
+            "title": "GPT-6 Astra 与 GPT-6.1 Sol 提速 50%",
+            "sourceName": "X：Testing Catalog (@testingcatalog)",
+            "sourceUrl": "https://x.com/testingcatalog/status/2107166320198369645",
+            "aihotUrl": "https://aihot.news/items/tdg8iyuyhbw1yxeomsa2pxuz2",
+            "publishedAt": "2026-10-05T17:49:34.000Z"
+          },
+          {
+            "title": "OpenAI 优化 GPT-6 系列默认速度",
             "sourceName": "X：Tibo (@thsottiaux)",
-            "sourceUrl": "https://x.com/thsottiaux/status/2106845241357824205",
-            "aihotUrl": "https://aihot.news/items/dmtalxqmeu6koot2yf3kal5nu",
-            "publishedAt": "2026-10-04T20:33:43.000Z"
+            "sourceUrl": "https://x.com/thsottiaux/status/2107158998495748264",
+            "aihotUrl": "https://aihot.news/items/bc3swy548ch6hzs12b393b2ap",
+            "publishedAt": "2026-10-05T17:20:29.000Z"
+          },
+          {
+            "title": "OpenAI 宣布 Codex 与 ChatGPT Work“28 天计划”：每日一项功能更新，否则重置",
+            "sourceName": "IT之家（RSS）",
+            "sourceUrl": "https://www.ithome.com/1/009/761.htm",
+            "aihotUrl": "https://aihot.news/items/cmf54gyjdos166m78jip77ptm",
+            "publishedAt": "2026-10-05T01:47:27.000Z"
           }
         ],
         "related": [],
@@ -474,15 +557,15 @@
       },
       {
         "rank": 4,
-        "id": "j45voriw6fcykynqwt5gwbtmm",
-        "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
+        "id": "eqsd72krt75x22ruxjsncr81j",
+        "title": "华为高通达成5G等专利交叉许可协议",
         "sourceName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/009/688.htm",
-        "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
-        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
-        "sourceCount": 1,
-        "participantCount": 12,
-        "latestAt": "2026-10-04T10:04:39.000Z",
+        "sourceUrl": "https://www.ithome.com/1/009/852.htm",
+        "aihotUrl": "https://aihot.news/items/eqsd72krt75x22ruxjsncr81j",
+        "storyUrl": "https://aihot.news/story/2db86cc5-e2f8-4e6f-b7c7-e987069aa6b0",
+        "sourceCount": 3,
+        "participantCount": 16,
+        "latestAt": "2026-10-05T16:32:23.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -502,15 +585,43 @@
       },
       {
         "rank": 5,
-        "id": "wleocdhi3eyxshgrbzt9we1zl",
-        "title": "Meta开源Muse Gadgets硬件计划并推Home Link",
+        "id": "e63lz9ky7ebdxjea930dh3o5y",
+        "title": "OpenAI在ChatGPT图像生成中测试视觉广告",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "aihotUrl": "https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y",
+        "storyUrl": "https://aihot.news/story/93ed3076-cae1-4349-9f3d-c629827d554c",
+        "sourceCount": 5,
+        "participantCount": 15,
+        "latestAt": "2026-10-05T15:14:24.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "j45voriw6fcykynqwt5gwbtmm",
+        "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
         "sourceName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/009/743.htm",
-        "aihotUrl": "https://aihot.news/items/wleocdhi3eyxshgrbzt9we1zl",
-        "storyUrl": "https://aihot.news/story/e3d54065-1571-44a0-91b5-79600744e735",
-        "sourceCount": 2,
-        "participantCount": 14,
-        "latestAt": "2026-10-05T00:00:33.000Z",
+        "sourceUrl": "https://www.ithome.com/1/009/688.htm",
+        "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
+        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
+        "sourceCount": 1,
+        "participantCount": 20,
+        "latestAt": "2026-10-04T10:04:39.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -529,44 +640,16 @@
         }
       },
       {
-        "rank": 6,
-        "id": "w5kdfoydiaj7nyyuy45fg70b0",
-        "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-        "aihotUrl": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
-        "storyUrl": "https://aihot.news/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81",
-        "sourceCount": 2,
-        "participantCount": 11,
-        "latestAt": "2026-10-04T07:38:49.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 7,
-        "id": "m761fdlqtad285r14fky711jr",
-        "title": "Gemini免费用户模型调整为Flash-Lite",
+        "id": "d4b6q65qoah5zvlc5h0br4eb8",
+        "title": "施耐德电气226亿美元全现金收购PTC",
         "sourceName": "IT之家（RSS）",
-        "sourceUrl": "https://www.ithome.com/1/009/431.htm",
-        "aihotUrl": "https://aihot.news/items/m761fdlqtad285r14fky711jr",
-        "storyUrl": "https://aihot.news/story/94326823-aa00-4316-a253-28c8c4098a05",
-        "sourceCount": 2,
+        "sourceUrl": "https://www.ithome.com/1/009/805.htm",
+        "aihotUrl": "https://aihot.news/items/d4b6q65qoah5zvlc5h0br4eb8",
+        "storyUrl": "https://aihot.news/story/f4f04774-a627-409f-aeee-0bb78eff24cf",
+        "sourceCount": 1,
         "participantCount": 12,
-        "latestAt": "2026-10-04T07:28:54.000Z",
+        "latestAt": "2026-10-05T06:07:35.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -574,10 +657,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "IT之家（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -586,15 +669,15 @@
       },
       {
         "rank": 8,
-        "id": "y475ev20b3138yoqrlo3z4wrr",
-        "title": "Aleph Alpha 开源德英双语模型 Kolibri",
-        "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "sourceUrl": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "aihotUrl": "https://aihot.news/items/y475ev20b3138yoqrlo3z4wrr",
-        "storyUrl": "https://aihot.news/story/b1397672-bf6e-47dc-af9a-895fd7021161",
-        "sourceCount": 7,
-        "participantCount": 11,
-        "latestAt": "2026-10-04T07:01:04.000Z",
+        "id": "cmu9lxijt04a1ro9b80vlc4th",
+        "title": "特朗普成立超级智能工作组，克莱顿牵头",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
+        "aihotUrl": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
+        "storyUrl": "https://aihot.news/story/d5b32762-56e9-4fb8-8976-fef8dadd068a",
+        "sourceCount": 3,
+        "participantCount": 17,
+        "latestAt": "2026-10-05T04:39:32.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -602,7 +685,7 @@
         "visual": {
           "entities": [
             {
-              "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "name": "The Decoder：AI News（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -614,15 +697,15 @@
       },
       {
         "rank": 9,
-        "id": "nj7vtq0wdadqu63nrcpefqkb3",
-        "title": "Yuchen Jin 称终端时代已终结",
-        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-        "sourceUrl": "https://x.com/Yuchenj_UW/status/2106595769536872610",
-        "aihotUrl": "https://aihot.news/items/nj7vtq0wdadqu63nrcpefqkb3",
-        "storyUrl": "https://aihot.news/story/15204c12-df46-428f-8dba-17be841c60bc",
+        "id": "lcxzcuj920lvqlah60vj7utm1",
+        "title": "SemiAnalysis：Anthropic订阅API等价价值约为OpenAI五倍",
+        "sourceName": "SemiAnalysis 长文 RSS（RSS）",
+        "sourceUrl": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "aihotUrl": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1",
+        "storyUrl": "https://aihot.news/story/aa02ac93-b059-4123-9fe0-8845706eb2e5",
         "sourceCount": 2,
-        "participantCount": 7,
-        "latestAt": "2026-10-04T14:23:39.000Z",
+        "participantCount": 6,
+        "latestAt": "2026-10-05T23:30:07.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -630,10 +713,16 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Yuchen Jin (@Yuchenj_UW)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            },
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -642,15 +731,15 @@
       },
       {
         "rank": 10,
-        "id": "jak6gxsz68wsqdq6n9504d36o",
-        "title": "Sam Altman 谈 AI 模型安全",
-        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-        "sourceUrl": "https://x.com/Yuchenj_UW/status/2106395374923796759",
-        "aihotUrl": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
-        "storyUrl": "https://aihot.news/story/341ef8c2-d918-4e24-9391-99616e1c1a9a",
+        "id": "dzhe28m5jbltkxddsx1ey7avn",
+        "title": "Nolla Health在犹他州试点AI开痤疮处方",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2107167721565941831",
+        "aihotUrl": "https://aihot.news/items/dzhe28m5jbltkxddsx1ey7avn",
+        "storyUrl": "https://aihot.news/story/0cddfa1c-d7c4-401d-ac61-996742ec2a61",
         "sourceCount": 3,
-        "participantCount": 9,
-        "latestAt": "2026-10-03T18:56:30.000Z",
+        "participantCount": 6,
+        "latestAt": "2026-10-05T20:14:57.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -658,7 +747,7 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Yuchen Jin (@Yuchenj_UW)",
+              "name": "X：Rohan Paul (@rohanpaul_ai)",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -672,8 +761,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-05T01:48:26.728Z",
-    "nextCheckAt": 1791165206728,
+    "checkedAt": "2026-10-06T02:52:59.059Z",
+    "nextCheckAt": 1791255479059,
     "intervalSeconds": 300,
     "message": ""
   }
