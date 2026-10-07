@@ -1,7 +1,7 @@
 {
   "date": "2026年10月7日",
   "demo": false,
-  "updatedAt": "2026-10-07T06:33:41.290Z",
+  "updatedAt": "2026-10-07T13:48:53.670Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -101,7 +101,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 12,
+        "matched": 11,
         "status": "本次收录"
       },
       {
@@ -524,41 +524,41 @@
       "aihotUrl": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk",
       "storyUrl": "https://aihot.news/story/9185ce03-ea6c-4422-abbf-bef5d5f8b884",
       "sourceCount": 19,
-      "participantCount": 50,
+      "participantCount": 54,
       "latestAt": "2026-10-06T20:18:19.000Z",
       "expanded": true,
       "latest": "Mistral 发布 Mistral Large 4 预览版：1 万亿参数、49B 激活",
       "reports": [
+        {
+          "title": "Mistral 发布 1T 参数多模态模型 Le Chonk",
+          "sourceName": "X：Testing Catalog (@testingcatalog)",
+          "sourceUrl": "https://x.com/testingcatalog/status/2107752334000337001",
+          "aihotUrl": "https://aihot.news/items/gy4lqdy2qpg51ap14ybxdm3d3",
+          "publishedAt": "2026-10-07T08:38:11.000Z"
+        },
+        {
+          "title": "国庆假期AI热点盘点：OpenAI 28天挑战、Gemini 4 Argon、Mistral Large 4与Anthropic更新",
+          "sourceName": "公众号：卡尔的AI沃茨",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512191&idx=1&sn=c833ad4f126c62f193dd3e4c32a26095",
+          "aihotUrl": "https://aihot.news/items/zvwqz7zbp6nou7u1jnvy73jp9",
+          "publishedAt": "2026-10-07T05:31:04.000Z"
+        },
         {
           "title": "Mistral 发布 Mistral Large 4 预览版：1 万亿参数、49B 激活",
           "sourceName": "Simon Willison 博客",
           "sourceUrl": "https://simonwillison.net/2026/Oct/6/le-chonk/",
           "aihotUrl": "https://aihot.news/items/yl5kxbp65jvwbqcfsa8fu2s9i",
           "publishedAt": "2026-10-06T20:18:19.000Z"
-        },
-        {
-          "title": "Mistral Large 4 网络安全能力突出",
-          "sourceName": "X：Mistral AI (@MistralAI)",
-          "sourceUrl": "https://x.com/MistralAI/status/2107532329937723861",
-          "aihotUrl": "https://aihot.news/items/mvz1cmksw7l22g6crbwa2n8ur",
-          "publishedAt": "2026-10-06T18:03:58.000Z"
-        },
-        {
-          "title": "Mistral AI 发布 1.05T 参数多模态 MoE 模型 Mistral Large 4（Le Chonk）",
-          "sourceName": "MarkTechPost（RSS）",
-          "sourceUrl": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
-          "aihotUrl": "https://aihot.news/items/d26hv60ub9wpd8vhlvmv90k0q",
-          "publishedAt": "2026-10-06T17:30:46.000Z"
         }
       ],
       "related": [
         {
-          "title": "Willison 用 SVG 生成测试模型基准饱和",
-          "storyUrl": "https://aihot.news/story/04e1c778-e34c-4e9c-b412-43dd0e916f7b"
+          "title": "Mistral Large 4 登 Arena，开源权重引争议",
+          "storyUrl": "https://aihot.news/story/2041fa53-4d75-4089-98a7-a6a1519ee992"
         },
         {
-          "title": "Mistral Large 4 进入 Arena，开源权重引争议",
-          "storyUrl": "https://aihot.news/story/2041fa53-4d75-4089-98a7-a6a1519ee992"
+          "title": "Willison 用 SVG 生成测试模型基准饱和",
+          "storyUrl": "https://aihot.news/story/04e1c778-e34c-4e9c-b412-43dd0e916f7b"
         },
         {
           "title": "OpenRouter 公测上线 Mistral Large 4.0",
@@ -580,48 +580,53 @@
     },
     {
       "rank": 2,
-      "id": "g1k2ragppm8j4apj75qu1k4ug",
-      "title": "Google 开源多模态嵌入模型 EmbeddingGemma 2",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "aihotUrl": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
-      "storyUrl": "https://aihot.news/story/28375512-d27e-4a60-8a37-dee79df660d4",
-      "sourceCount": 11,
-      "participantCount": 27,
-      "latestAt": "2026-10-06T22:41:19.000Z",
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+      "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
+      "sourceCount": 8,
+      "participantCount": 33,
+      "latestAt": "2026-10-07T08:54:43.000Z",
       "expanded": true,
-      "latest": "谷歌发布 EmbeddingGemma 2 多模态嵌入模型：7.4 亿参数，量化后手机端仅需 191MB 内存",
+      "latest": "OpenAI 在 GitHub 发布 372 个 AI 生成的数学证明结果",
       "reports": [
         {
-          "title": "IT早报 1007：余承东详解华为 Mate 90“拼好网”；谷歌推出 EmbeddingGemma 2；DeepSeek 接近完成至少 800 亿元融资",
-          "sourceName": "IT之家（RSS）",
-          "sourceUrl": "https://www.ithome.com/1/010/139.htm",
-          "aihotUrl": "https://aihot.news/items/md5d5whrcxflneksm4ucpecv9",
-          "publishedAt": "2026-10-06T23:53:37.000Z"
+          "title": "OpenAI 在 GitHub 发布 372 个 AI 生成的数学证明结果",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+          "aihotUrl": "https://aihot.news/items/kd3x0s3ylt6rdbzk4s1z43x0b",
+          "publishedAt": "2026-10-07T08:54:43.000Z"
         },
         {
-          "title": "BestBlogs 早报：Google 算力、GitHub 架构与 EmbeddingGemma 2",
-          "sourceName": "X：洪明 (@hongming731)",
-          "sourceUrl": "https://x.com/hongming731/status/2107615665792471474",
-          "aihotUrl": "https://aihot.news/items/lazcv1pwvcexzk4r36i5pah8l",
-          "publishedAt": "2026-10-06T23:35:06.000Z"
+          "title": "OpenAI 发布内部前沿模型产出的多项数学新结果",
+          "sourceName": "X：Greg Brockman (@gdb)",
+          "sourceUrl": "https://x.com/gdb/status/2107640886482104524",
+          "aihotUrl": "https://aihot.news/items/s2mly38u9zos2bwzo9nogzakh",
+          "publishedAt": "2026-10-07T01:15:20.000Z"
         },
         {
-          "title": "谷歌发布 EmbeddingGemma 2 多模态嵌入模型：7.4 亿参数，量化后手机端仅需 191MB 内存",
-          "sourceName": "IT之家（RSS）",
-          "sourceUrl": "https://www.ithome.com/1/010/125.htm",
-          "aihotUrl": "https://aihot.news/items/nf4p4vrsm3nr9a2fbdxab8ehu",
-          "publishedAt": "2026-10-06T22:41:19.000Z"
+          "title": "OpenAI 发布内部模型数学成果",
+          "sourceName": "X：Nathan Lambert (@natolambert)",
+          "sourceUrl": "https://x.com/natolambert/status/2107639254394503536",
+          "aihotUrl": "https://aihot.news/items/vbu717teswsgl85njymx8sxg6",
+          "publishedAt": "2026-10-07T01:08:50.000Z"
         }
       ],
-      "related": [],
+      "related": [
+        {
+          "title": "OpenAI 发布 math 项目与整数乘法预印本",
+          "storyUrl": "https://aihot.news/story/92dbe44e-830d-4a67-807b-009cfcd5f38a"
+        }
+      ],
       "visual": {
         "entities": [
           {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -637,7 +642,7 @@
       "aihotUrl": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
       "storyUrl": "https://aihot.news/story/b0de7ab6-57f6-4bb1-9267-e073ebc2cfa3",
       "sourceCount": 12,
-      "participantCount": 27,
+      "participantCount": 31,
       "latestAt": "2026-10-07T05:07:47.000Z",
       "expanded": true,
       "latest": "banana2.1 发布，AI 图像模型美学与精确性分流",
@@ -689,15 +694,15 @@
     },
     {
       "rank": 4,
-      "id": "zvw2i4tg1gnqq72t596vpqoyl",
-      "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-      "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
-      "sourceCount": 7,
-      "participantCount": 23,
-      "latestAt": "2026-10-07T01:15:20.000Z",
+      "id": "g1k2ragppm8j4apj75qu1k4ug",
+      "title": "Google 开源多模态嵌入模型 EmbeddingGemma 2",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "aihotUrl": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
+      "storyUrl": "https://aihot.news/story/28375512-d27e-4a60-8a37-dee79df660d4",
+      "sourceCount": 11,
+      "participantCount": 29,
+      "latestAt": "2026-10-07T07:32:06.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -705,10 +710,10 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",
@@ -717,6 +722,34 @@
     },
     {
       "rank": 5,
+      "id": "dbhowpb183i256684uz2527i1",
+      "title": "SpaceX 宣布 Grok Bot 按任务选用最佳后端模型",
+      "sourceName": "X：Testing Catalog (@testingcatalog)",
+      "sourceUrl": "https://x.com/testingcatalog/status/2107803665457189061",
+      "aihotUrl": "https://aihot.news/items/dbhowpb183i256684uz2527i1",
+      "storyUrl": "https://aihot.news/story/d0ee11b2-3ace-4e23-9668-fb3c82550bdb",
+      "sourceCount": 3,
+      "participantCount": 19,
+      "latestAt": "2026-10-07T12:02:09.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Testing Catalog (@testingcatalog)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "qy7y0cfu1wbum1ej9urwylfxr",
       "title": "Reflection 发布 501B 开源模型 Beam，本月放权重",
       "sourceName": "Hacker News：AI 热帖",
@@ -744,9 +777,9 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "xx5mgdemrqmqw5zw410sbawcz",
-      "title": "OpenAI在欧盟为ChatGPT文本加隐形水印",
+      "title": "OpenAI 在欧盟为 ChatGPT 文本加隐形水印",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "sourceUrl": "https://openai.com/index/eu-text-provenance",
       "aihotUrl": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz",
@@ -772,16 +805,16 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "a96x4zt1tn3um8h49nz2kqgpc",
       "title": "Anthropic扩展CVP，三档开放Claude网络能力",
       "sourceName": "Anthropic：Newsroom（网页）",
       "sourceUrl": "https://www.anthropic.com/news/cyber-verification-program",
       "aihotUrl": "https://aihot.news/items/a96x4zt1tn3um8h49nz2kqgpc",
       "storyUrl": "https://aihot.news/story/edbb44d5-d114-49bc-8f13-575aca1d43b9",
-      "sourceCount": 3,
-      "participantCount": 11,
-      "latestAt": "2026-10-06T23:20:26.000Z",
+      "sourceCount": 4,
+      "participantCount": 12,
+      "latestAt": "2026-10-07T12:05:20.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -800,44 +833,16 @@
       }
     },
     {
-      "rank": 8,
-      "id": "wbi0gsddrrfnavs6vvuqb2r7j",
-      "title": "DeepSeek接近完成至少800亿元融资",
-      "sourceName": "X：X.PIN (@thexpin)",
-      "sourceUrl": "https://x.com/thexpin/status/2107524306058289533",
-      "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
-      "storyUrl": "https://aihot.news/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4",
-      "sourceCount": 4,
-      "participantCount": 14,
-      "latestAt": "2026-10-06T17:32:05.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：X.PIN (@thexpin)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 9,
-      "id": "u3xqs4u7tqjvaph4sfdnxfafw",
-      "title": "OpenAI Decisions API 从限量预览转公测",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2107574912349303197",
-      "aihotUrl": "https://aihot.news/items/u3xqs4u7tqjvaph4sfdnxfafw",
-      "storyUrl": "https://aihot.news/story/30e9531f-5f58-4e7e-8a67-705e2340a4b6",
-      "sourceCount": 3,
+      "id": "xoabqybtd9qrfmikalao9gba8",
+      "title": "SpaceX洽谈借款400亿美元采购英伟达芯片",
+      "sourceName": "IT之家（RSS）",
+      "sourceUrl": "https://www.ithome.com/1/010/134.htm",
+      "aihotUrl": "https://aihot.news/items/xoabqybtd9qrfmikalao9gba8",
+      "storyUrl": "https://aihot.news/story/7e603124-6d1c-4e46-abf7-3c1b515383cb",
+      "sourceCount": 2,
       "participantCount": 10,
-      "latestAt": "2026-10-07T00:03:31.762Z",
+      "latestAt": "2026-10-07T01:21:22.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -845,10 +850,10 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
           }
         ],
         "caption": "热点",
@@ -857,15 +862,15 @@
     },
     {
       "rank": 10,
-      "id": "e63lz9ky7ebdxjea930dh3o5y",
-      "title": "OpenAI在ChatGPT图像生成中测试视觉广告",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "aihotUrl": "https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y",
-      "storyUrl": "https://aihot.news/story/93ed3076-cae1-4349-9f3d-c629827d554c",
-      "sourceCount": 5,
-      "participantCount": 19,
-      "latestAt": "2026-10-05T15:14:24.000Z",
+      "id": "u3xqs4u7tqjvaph4sfdnxfafw",
+      "title": "OpenAI Decisions API 从限量预览转公测",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2107574912349303197",
+      "aihotUrl": "https://aihot.news/items/u3xqs4u7tqjvaph4sfdnxfafw",
+      "storyUrl": "https://aihot.news/story/30e9531f-5f58-4e7e-8a67-705e2340a4b6",
+      "sourceCount": 3,
+      "participantCount": 11,
+      "latestAt": "2026-10-07T00:03:31.762Z",
       "expanded": false,
       "latest": "",
       "reports": [],

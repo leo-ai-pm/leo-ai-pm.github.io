@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-07T06:34:02.683Z",
+  "checkedAt": "2026-10-07T13:49:14.887Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "r96kyuxfie0w9mup4206gzn29",
+      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+      "reason": "原文给出 IOI 与 IMO 金牌级成绩的具体分数、训练配方和开放资源，读者可以复用其模型与推理系统组合思路。",
+      "summary": "NVIDIA Nemotron 团队基于 Nemotron 3，用 SFT、RL 和反馈驱动推理分别构建了在 IOI 2026 与 IMO 2026 达到金牌水平的系统。",
+      "sourceName": "Hugging Face：Blog（RSS）",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "aihotUrl": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
+      "publishedAt": "2026-10-07T12:45:31.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "kxqn0rzbtjdxg7ibbjge08tzt",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+      "reason": "Arena 实测数据显示 Mistral Large 4 的编码得分、排名和价格对比，可帮读者评估其性价比位置。",
+      "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2107717155374727602",
+      "aihotUrl": "https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt",
+      "publishedAt": "2026-10-07T06:18:23.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "aj31qyu01hx95ra5sq2f0k5a9",
       "title": "PromptArmor 解析 WebMCP 的工作机制与安全风险",
@@ -234,37 +262,23 @@
       "category": "ai-products",
       "categoryLabel": "产品",
       "unselected": false
-    },
+    }
+  ],
+  "week": [
     {
-      "id": "rmc5fz5rbcwzsr7cdl5jo1ojk",
-      "title": "Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
-      "reason": "原文给出 Intelligence Index、Cyber Index、定价与上下文窗口等具体数据，读者可据此评估 Mistral Large 4 的真实水平与成本。",
-      "summary": "Mistral 发布 Mistral Large 4（Research Public Preview），在 Artificial Analysis Intelligence Index 得分 38，与 GPT-6 Luna（max, 38）相当，为美中之外最智能模型，计划 10 月底开源 1T 参数（49B 激活）权重。",
-      "sourceName": "Artificial Analysis 完整文章（网页）",
-      "sourceUrl": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai",
-      "aihotUrl": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk",
-      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "id": "kxqn0rzbtjdxg7ibbjge08tzt",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+      "reason": "Arena 实测数据显示 Mistral Large 4 的编码得分、排名和价格对比，可帮读者评估其性价比位置。",
+      "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2107717155374727602",
+      "aihotUrl": "https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt",
+      "publishedAt": "2026-10-07T06:18:23.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
     },
-    {
-      "id": "krivwcmcv6qloa3az7f5j0jip",
-      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-      "reason": "汇总了 Reflection Beam 的训练规模、基准成绩与第三方独立评价，读者可借此了解美国开源模型与中文模型的实际差距。",
-      "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
-      "sourceName": "Latent Space（RSS）",
-      "sourceUrl": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "aihotUrl": "https://aihot.news/items/krivwcmcv6qloa3az7f5j0jip",
-      "publishedAt": "2026-10-06T06:28:43.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    }
-  ],
-  "week": [
     {
       "id": "g1k2ragppm8j4apj75qu1k4ug",
       "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
@@ -358,20 +372,6 @@
       "sourceUrl": "https://x.com/arena/status/2106109027923140928",
       "aihotUrl": "https://aihot.news/items/bzodztryi4kvwm4kz9mrwb6nn",
       "publishedAt": "2026-10-02T19:48:16.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "fkxn0msd8ty9lmxchq77chupc",
-      "title": "Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿",
-      "reason": "原文基于 Arena 榜单数据指出 Claude Sonnet 5.5 得分高但成本更高、未进 Pareto 前沿，读者可以据此比较成本与性能的取舍。",
-      "summary": "Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Par…",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2106105400487821764",
-      "aihotUrl": "https://aihot.news/items/fkxn0msd8ty9lmxchq77chupc",
-      "publishedAt": "2026-10-02T19:33:51.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -602,6 +602,20 @@
       "unselected": false
     },
     {
+      "id": "r96kyuxfie0w9mup4206gzn29",
+      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+      "reason": "原文给出 IOI 与 IMO 金牌级成绩的具体分数、训练配方和开放资源，读者可以复用其模型与推理系统组合思路。",
+      "summary": "NVIDIA Nemotron 团队基于 Nemotron 3，用 SFT、RL 和反馈驱动推理分别构建了在 IOI 2026 与 IMO 2026 达到金牌水平的系统。",
+      "sourceName": "Hugging Face：Blog（RSS）",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "aihotUrl": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
+      "publishedAt": "2026-10-07T12:45:31.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "zvw2i4tg1gnqq72t596vpqoyl",
       "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
       "reason": "原文说明了成果发布方式、Lean 形式化和计算开销等细节，读者可以了解 AI 数学成果如何面向数学社区开放。",
@@ -694,20 +708,6 @@
       "sourceUrl": "https://research.meta.ai/blog/solving-open-research-problems-together",
       "aihotUrl": "https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj",
       "publishedAt": "2026-10-02T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "mnp85zt9o921l7c28rzor00qy",
-      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-      "reason": "原文说明了协作方式和论文标注原则，读者可以据此了解 Meta 如何让模型参与真正开放的数学研究问题。",
-      "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。",
-      "sourceName": "X：AI at Meta (@AIatMeta)",
-      "sourceUrl": "https://x.com/AIatMeta/status/2106099776035152231",
-      "aihotUrl": "https://aihot.news/items/mnp85zt9o921l7c28rzor00qy",
-      "publishedAt": "2026-10-02T19:11:30.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
