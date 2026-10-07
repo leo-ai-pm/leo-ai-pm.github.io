@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-07T19:35:11.745Z",
+  "checkedAt": "2026-10-07T23:46:10.611Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,62 @@
     }
   ],
   "today": [
+    {
+      "id": "tyhn4y95ez3mvj0p7xovpaq61",
+      "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
+      "reason": "原文用三个月随机田野实验区分了AI辅助产出与独立能力变化，给出初级与资深律师分化的具体证据。",
+      "summary": "Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。",
+      "sourceName": "Google Research：Blog（网页）",
+      "sourceUrl": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "aihotUrl": "https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "x40bi9csoomsdaflejehop22y",
+      "title": "GPT-6 Luna Decisions 上架 OpenRouter",
+      "reason": "原文给出 Decisions API 的定价、上下文长度和调用方式，开发者可以直接评估接入成本与场景。",
+      "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。",
+      "sourceName": "X：OpenRouter (@OpenRouter)",
+      "sourceUrl": "https://x.com/OpenRouter/status/2107929204142874759",
+      "aihotUrl": "https://aihot.news/items/x40bi9csoomsdaflejehop22y",
+      "publishedAt": "2026-10-07T20:21:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "h8ldh8orhiz1tbad38w4e6cpn",
+      "title": "vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍",
+      "reason": "vLLM 团队拆解了 SWA bounded replay 和一系列内核优化，说明五倍吞吐提升具体来自哪里，方法可复用于其他 Agent 服务场景。",
+      "summary": "Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。",
+      "sourceName": "vLLM 官方博客（RSS）",
+      "sourceUrl": "https://vllm.ai/blog/2026-10-07-deepseek-v41-flash",
+      "aihotUrl": "https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "tuqbedzhrouuxwobb1pldbiyd",
+      "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索",
+      "reason": "官方为自己的开发者文档检索 API 提供了 CLI、agent skill、客户端库等多入口，可对照选型接入现有工作流。",
+      "summary": "Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。",
+      "sourceName": "Google Developers Blog（RSS）",
+      "sourceUrl": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "aihotUrl": "https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "m3vyz2bex4i58vffqfx586u3h",
       "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
@@ -332,34 +388,6 @@
       "category": "ai-products",
       "categoryLabel": "产品",
       "unselected": false
-    },
-    {
-      "id": "zvw2i4tg1gnqq72t596vpqoyl",
-      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
-      "reason": "原文说明了成果发布方式、Lean 形式化和计算开销等细节，读者可以了解 AI 数学成果如何面向数学社区开放。",
-      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-      "publishedAt": "2026-10-06T23:01:09.228Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "iq15z1msend1ocusxt2phyms7",
-      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-      "reason": "GitHub 工程方亲述面向智能体规模开发重建 Git 基础设施的动因与设计原则，含内部基准写吞吐最高 35 倍等一手数据。",
-      "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。",
-      "sourceName": "GitHub Blog",
-      "sourceUrl": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "aihotUrl": "https://aihot.news/items/iq15z1msend1ocusxt2phyms7",
-      "publishedAt": "2026-10-06T20:57:56.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
@@ -476,6 +504,34 @@
       "unselected": false
     },
     {
+      "id": "x40bi9csoomsdaflejehop22y",
+      "title": "GPT-6 Luna Decisions 上架 OpenRouter",
+      "reason": "原文给出 Decisions API 的定价、上下文长度和调用方式，开发者可以直接评估接入成本与场景。",
+      "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。",
+      "sourceName": "X：OpenRouter (@OpenRouter)",
+      "sourceUrl": "https://x.com/OpenRouter/status/2107929204142874759",
+      "aihotUrl": "https://aihot.news/items/x40bi9csoomsdaflejehop22y",
+      "publishedAt": "2026-10-07T20:21:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "tuqbedzhrouuxwobb1pldbiyd",
+      "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索",
+      "reason": "官方为自己的开发者文档检索 API 提供了 CLI、agent skill、客户端库等多入口，可对照选型接入现有工作流。",
+      "summary": "Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。",
+      "sourceName": "Google Developers Blog（RSS）",
+      "sourceUrl": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "aihotUrl": "https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "m3vyz2bex4i58vffqfx586u3h",
       "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
       "reason": "原文详解了 Deep Agents 技能机制的三项升级和加载原理，读者可以据此评估大规模技能库的上下文管理方案。",
@@ -554,34 +610,6 @@
       "sourceUrl": "https://x.com/ClaudeDevs/status/2107895957933408429",
       "aihotUrl": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
       "publishedAt": "2026-10-07T18:08:53.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "zn6imszjo14gki6kr2uyydknp",
-      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
-      "reason": "官方宣布缓存读取价格减半并给出长期任务成本降幅，可直接据此评估 Claude Sonnet 5.5 的使用成本。",
-      "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。",
-      "sourceName": "X：Claude (@claudeai)",
-      "sourceUrl": "https://x.com/claudeai/status/2107894060229034197",
-      "aihotUrl": "https://aihot.news/items/zn6imszjo14gki6kr2uyydknp",
-      "publishedAt": "2026-10-07T18:01:21.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "hye210jt0h75h9t4dgf4rveow",
-      "title": "LlamaIndex 发布 OpenDocRouter：一个 API 统一调用多种文档解析模型",
-      "reason": "原文给出各模型在 ParseBench 上的质量与每千页成本对比，以及统一 layout 输出和按 token 计费细节，便于开发者选型。",
-      "summary": "LlamaIndex 推出 OpenDocRouter 平台，通过统一 API 将文档（PDF、PNG、JPEG 或 URL）解析为 markdown，接入 Claude Opus 5.5、Gemini 3 Flash、GPT-6 Luna 等 5 个前沿模型和 MinerU2.5-Pro、PaddleOCR-VL-1.6 等 5 个开源模型。",
-      "sourceName": "LlamaIndex：产品、工程与评测",
-      "sourceUrl": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
-      "aihotUrl": "https://aihot.news/items/hye210jt0h75h9t4dgf4rveow",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -700,6 +728,20 @@
       "unselected": false
     },
     {
+      "id": "tyhn4y95ez3mvj0p7xovpaq61",
+      "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
+      "reason": "原文用三个月随机田野实验区分了AI辅助产出与独立能力变化，给出初级与资深律师分化的具体证据。",
+      "summary": "Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。",
+      "sourceName": "Google Research：Blog（网页）",
+      "sourceUrl": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "aihotUrl": "https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "kdyctdu2befn8m1jz1wgktb84",
       "title": "Stanford HAI 研究：想让员工拥抱 AI，别把它包装成效率工具",
       "reason": "研究给出一个可操作的管理方法，把 AI 介绍为工作丰富化并配套培训和时间，比强调提效更能推动员工真正使用。",
@@ -798,17 +840,17 @@
       "unselected": false
     },
     {
-      "id": "gqh4yclcjmaci6uhur56580uh",
-      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-      "reason": "原文用数据库终态加 20 次重复评测智能体，给出一致性保留率、失败签名和可复现的运行方式，值得关注记录型工作流的可靠性评估。",
-      "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
-      "sourceName": "Hugging Face 社区博客（混合发现）",
-      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "aihotUrl": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
-      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "id": "h8ldh8orhiz1tbad38w4e6cpn",
+      "title": "vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍",
+      "reason": "vLLM 团队拆解了 SWA bounded replay 和一系列内核优化，说明五倍吞吐提升具体来自哪里，方法可复用于其他 Agent 服务场景。",
+      "summary": "Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。",
+      "sourceName": "vLLM 官方博客（RSS）",
+      "sourceUrl": "https://vllm.ai/blog/2026-10-07-deepseek-v41-flash",
+      "aihotUrl": "https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
       "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -908,20 +950,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "wiip2ye21b67quiydxlnqmeyc",
-      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-      "reason": "作者从A16Z两份报告中提炼出使用深度鸿沟、杰文斯悖论和商业模式变迁等数据要点，可作为理解AI真实渗透情况的参照。",
-      "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
-      "aihotUrl": "https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc",
-      "publishedAt": "2026-10-06T00:18:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -931,6 +959,48 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "tyhn4y95ez3mvj0p7xovpaq61",
+          "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
+          "reason": "原文用三个月随机田野实验区分了AI辅助产出与独立能力变化，给出初级与资深律师分化的具体证据。",
+          "summary": "Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。",
+          "sourceName": "Google Research：Blog（网页）",
+          "sourceUrl": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+          "aihotUrl": "https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
+          "id": "h8ldh8orhiz1tbad38w4e6cpn",
+          "title": "vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍",
+          "reason": "vLLM 团队拆解了 SWA bounded replay 和一系列内核优化，说明五倍吞吐提升具体来自哪里，方法可复用于其他 Agent 服务场景。",
+          "summary": "Inferact 与 vLLM 社区在 DeepSeek-V4.1-Flash 发布三周内完成优化，低并发速度提升 1.9 倍，150 TPS 约束下吞吐提升 5.3 倍。",
+          "sourceName": "vLLM 官方博客（RSS）",
+          "sourceUrl": "https://vllm.ai/blog/2026-10-07-deepseek-v41-flash",
+          "aihotUrl": "https://aihot.news/items/h8ldh8orhiz1tbad38w4e6cpn",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "tuqbedzhrouuxwobb1pldbiyd",
+          "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索",
+          "reason": "官方为自己的开发者文档检索 API 提供了 CLI、agent skill、客户端库等多入口，可对照选型接入现有工作流。",
+          "summary": "Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。",
+          "sourceName": "Google Developers Blog（RSS）",
+          "sourceUrl": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+          "aihotUrl": "https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "m3vyz2bex4i58vffqfx586u3h",
           "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
@@ -971,48 +1041,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "vd2lvzvjz4tujiqupl30ifq3k",
-          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
-          "reason": "发布说明列出了新增默认 Haiku 模型、脚本接口扩展和大量稳定性修复，读者可据此判断是否升级及影响现有工作流。",
-          "summary": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
-          "sourceName": "Claude Code：GitHub Releases（RSS）",
-          "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
-          "aihotUrl": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
-          "publishedAt": "2026-10-07T18:10:20.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "lqyhqdf0u7iksn5ydnpyhk81x",
-          "title": "Anthropic 发布 Claude Haiku 5.5，运行成本平均降低约 75%",
-          "reason": "官方发布了定价、基准成绩与订阅 API 额度变化，读者可以据此评估小模型在低成本智能体任务中的适用场景。",
-          "summary": "Anthropic 发布 Claude Haiku 5.5，定位为迄今最便宜、最快的小模型，适合摘要、压缩、数据库查询、分类等高吞吐任务，并可搭配 Opus 5.5 和 Sonnet 5.5 担任编码子智能体。",
-          "sourceName": "Anthropic：Newsroom（网页）",
-          "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5",
-          "aihotUrl": "https://aihot.news/items/lqyhqdf0u7iksn5ydnpyhk81x",
-          "publishedAt": "2026-10-06T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "kdyctdu2befn8m1jz1wgktb84",
-          "title": "Stanford HAI 研究：想让员工拥抱 AI，别把它包装成效率工具",
-          "reason": "研究给出一个可操作的管理方法，把 AI 介绍为工作丰富化并配套培训和时间，比强调提效更能推动员工真正使用。",
-          "summary": "Stanford HAI 报道 Karunakaran 等人对律所、广告公司和 IT 服务公司的 AI 部署研究，发现把 AI 介绍为生产力工具时员工不愿使用，介绍为工作丰富化手段时使用意愿明显提升。",
-          "sourceName": "Stanford HAI News（网页）",
-          "sourceUrl": "https://hai.stanford.edu/news/want-employees-to-embrace-ai-stop-selling-it-as-a-productivity-tool",
-          "aihotUrl": "https://aihot.news/items/kdyctdu2befn8m1jz1wgktb84",
-          "publishedAt": "2026-10-06T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
@@ -1116,6 +1144,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "tuqbedzhrouuxwobb1pldbiyd",
+          "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索",
+          "reason": "官方为自己的开发者文档检索 API 提供了 CLI、agent skill、客户端库等多入口，可对照选型接入现有工作流。",
+          "summary": "Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。",
+          "sourceName": "Google Developers Blog（RSS）",
+          "sourceUrl": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+          "aihotUrl": "https://aihot.news/items/tuqbedzhrouuxwobb1pldbiyd",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "m3vyz2bex4i58vffqfx586u3h",
           "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
           "reason": "原文详解了 Deep Agents 技能机制的三项升级和加载原理，读者可以据此评估大规模技能库的上下文管理方案。",
@@ -1184,20 +1226,6 @@
           "category": "industry",
           "categoryLabel": "行业",
           "unselected": false
-        },
-        {
-          "id": "tfuj58rvo46hvh8l2nzcbpf7n",
-          "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-          "reason": "作者逐条拆解 A16Z 两份报告的关键数据，把付费渗透率、重度用户和杰文斯悖论串成一套可对照的现状判断。",
-          "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。",
-          "sourceName": "X：卡兹克 (@Khazix0918)",
-          "sourceUrl": "https://x.com/Khazix0918/status/2107297777583825359",
-          "aihotUrl": "https://aihot.news/items/tfuj58rvo46hvh8l2nzcbpf7n",
-          "publishedAt": "2026-10-06T02:31:56.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1207,6 +1235,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "x40bi9csoomsdaflejehop22y",
+          "title": "GPT-6 Luna Decisions 上架 OpenRouter",
+          "reason": "原文给出 Decisions API 的定价、上下文长度和调用方式，开发者可以直接评估接入成本与场景。",
+          "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。",
+          "sourceName": "X：OpenRouter (@OpenRouter)",
+          "sourceUrl": "https://x.com/OpenRouter/status/2107929204142874759",
+          "aihotUrl": "https://aihot.news/items/x40bi9csoomsdaflejehop22y",
+          "publishedAt": "2026-10-07T20:21:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "m3vyz2bex4i58vffqfx586u3h",
           "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
@@ -1275,20 +1317,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "zvw2i4tg1gnqq72t596vpqoyl",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
-          "reason": "原文说明了成果发布方式、Lean 形式化和计算开销等细节，读者可以了解 AI 数学成果如何面向数学社区开放。",
-          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
-          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-          "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-          "publishedAt": "2026-10-06T23:01:09.228Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
