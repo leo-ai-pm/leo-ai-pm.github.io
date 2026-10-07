@@ -1,15 +1,24 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-07T13:49:15.524Z",
+  "checkedAt": "2026-10-07T19:35:12.383Z",
   "message": "",
   "codex": {
     "timezone": "Asia/Shanghai",
-    "today": "2026-10-07",
-    "checkedAt": "2026-10-07T21:40:17.479+08:00",
+    "today": "2026-10-08",
+    "checkedAt": "2026-10-08T03:30:21.157+08:00",
     "monitor": "healthy",
     "outage": false,
     "pageUrl": "https://aihot.news/codex-reset",
     "events": [
+      {
+        "id": "banked-2107913674593644711-1-1",
+        "label": "重置卡发放",
+        "status": "",
+        "title": "重置卡正在发放",
+        "at": "2026-10-08T03:19:17.000+08:00",
+        "pageUrl": "https://aihot.news/codex-reset",
+        "sourceUrl": "https://x.com/thsottiaux/status/2107913738791596286"
+      },
       {
         "id": "reset-2107676072871600470-1-1",
         "label": "重置（形式未明确）",
@@ -36,24 +45,6 @@
         "at": "2026-10-03T12:26:28.000+08:00",
         "pageUrl": "https://aihot.news/codex-reset",
         "sourceUrl": "https://x.com/thsottiaux/status/2106239435461579088"
-      },
-      {
-        "id": "banked-2105173168281506088-1-1",
-        "label": "重置卡发放",
-        "status": "已确认",
-        "title": "重置卡已发放",
-        "at": "2026-09-30T13:49:30.000+08:00",
-        "pageUrl": "https://aihot.news/codex-reset",
-        "sourceUrl": "https://x.com/thsottiaux/status/2105173168281506088"
-      },
-      {
-        "id": "reset-2103963215885701493-1-1",
-        "label": "重置卡发放",
-        "status": "已确认",
-        "title": "重置卡已发放",
-        "at": "2026-09-27T05:41:35.000+08:00",
-        "pageUrl": "https://aihot.news/codex-reset",
-        "sourceUrl": "https://x.com/thsottiaux/status/2103963215885701493"
       }
     ]
   },
