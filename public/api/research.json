@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-07T00:46:02.986Z",
-      "lastSuccessAt": "2026-10-07T00:46:02.986Z",
-      "nextCheckAt": 1791337562986,
+      "checkedAt": "2026-10-07T06:33:22.481Z",
+      "lastSuccessAt": "2026-10-07T06:33:22.481Z",
+      "nextCheckAt": 1791358402481,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-07T00:46:02.987Z",
-      "lastSuccessAt": "2026-10-07T00:46:02.987Z",
-      "nextCheckAt": 1791337562987,
+      "checkedAt": "2026-10-07T06:33:22.482Z",
+      "lastSuccessAt": "2026-10-07T06:33:22.482Z",
+      "nextCheckAt": 1791358402482,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-07T00:46:02.988Z",
-      "lastSuccessAt": "2026-10-07T00:46:02.988Z",
-      "nextCheckAt": 1791337562988,
+      "checkedAt": "2026-10-07T06:33:22.483Z",
+      "lastSuccessAt": "2026-10-07T06:33:22.483Z",
+      "nextCheckAt": 1791358402483,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791337563160,
-      "checkedAt": "2026-10-07T00:46:03.160Z",
-      "lastSuccessAt": "2026-10-07T00:46:03.160Z",
+      "nextCheckAt": 1791358402642,
+      "checkedAt": "2026-10-07T06:33:22.642Z",
+      "lastSuccessAt": "2026-10-07T06:33:22.642Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791337562986,
+  "nextCheckAt": 1791358402481,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6473808.html",
-      "title": "向量库是RAG的伪命题，知识图谱是答案，本体论是灵魂",
-      "summary": "做 RAG 几乎绕不开向量库，但它找的是语义相近，不是精确答案。当知识需要严格的因果与关联时，图谱才是答案，而本体论是背后那张网的建模逻辑。文章从传统知识库讲到图谱加 RAG 的三层诊断体系，并配了大量架构图与对比案例。 在最初做RAG系统的时候有个几乎绑定的名词：向量库。所以他是什么呢？ 应该说向量库是一个理论上很美好的名词，他是一类用于存储和检索向量的数据系统，这里有两点要注意： 向量（embedding），可以将一段文本、图片、音",
-      "publishedAt": "2026-10-06T08:21:56.000Z",
-      "url": "https://www.woshipm.com/ai/6473808.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6474222.html",
+      "title": "美国开源的新希望，对标智谱的上一代模型",
+      "summary": "英伟达投资的 Reflection 发布首个开源模型 Beam，主打写代码、推理和 Agent 任务，对标智谱 GLM-5.2。官方称两者高级推理分数相当，Beam 的推理算力只要三分之一到四分之一。本文逐项对比官方跑分，并给出同分项里 8 胜 5 负的结果。 英伟达投资了一个叫 Reflection 的模型公司，发布了第一个开源模型 Beam，对标智谱的 GLM-5.2 官方说两者在高级推理测试上分数相当，Beam 的推理算力只要 5",
+      "publishedAt": "2026-10-07T03:34:44.000Z",
+      "url": "https://www.woshipm.com/ai/6474222.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,96 +122,16 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473808.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6474222.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "做 RAG 几乎绕不开向量库，但它找的是语义相近，不是精确答案。当知识需要严格的因果与关联时，图谱才是答案，而本体论是背后那张网的建模逻辑。文章从传统知识库讲到图谱加 RAG 的三层诊断体系，并配了大量架构图与对比案例。 在最初做RAG系统的时候有个几乎绑定的名词：向量库。所以他是什么呢？ 应该说向量库是一个理论上很美好的名词，他是一类用于存储和检索向量的数据系统，这里有两点要注意： 向量（embedding），可以将一段文本、图片、音",
+      "brief": "英伟达投资的 Reflection 发布首个开源模型 Beam，主打写代码、推理和 Agent 任务，对标智谱 GLM-5.2。官方称两者高级推理分数相当，Beam 的推理算力只要三分之一到四分之一。本文逐项对比官方跑分，并给出同分项里 8 胜 5 负的结果。 英伟达投资了一个叫 Reflection 的模型公司，发布了第一个开源模型 Beam，对标智谱的 GLM-5.2 官方说两者在高级推理测试上分数相当，Beam 的推理算力只要 5",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6473806.html",
-      "title": "又一 Personal Agent 发布，帮我省下不止200刀。。。",
-      "summary": "海外 AI 助理 Muse 上线十天冲到美区 App Store 第一，靠的是帮人省钱。但它也翻过车：有记者称自己明明拒绝授权，仍被读到 18 万多条私信。作者在热度过后找了一圈国内平替，装上纳米Work，从 Vercel 账单超额一路查到密钥泄露。 最近海外有个 AI 助理火得一塌糊涂，叫 Muse。 Meta 9 月 8 号发布的，上线 10 天就冲到美区 App Store 第一，把 GPT 都挤了下去。 它火的原因特别朴素：帮人",
-      "publishedAt": "2026-10-06T06:01:55.000Z",
-      "url": "https://www.woshipm.com/ai/6473806.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473806.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "海外 AI 助理 Muse 上线十天冲到美区 App Store 第一，靠的是帮人省钱。但它也翻过车：有记者称自己明明拒绝授权，仍被读到 18 万多条私信。作者在热度过后找了一圈国内平替，装上纳米Work，从 Vercel 账单超额一路查到密钥泄露。 最近海外有个 AI 助理火得一塌糊涂，叫 Muse。 Meta 9 月 8 号发布的，上线 10 天就冲到美区 App Store 第一，把 GPT 都挤了下去。 它火的原因特别朴素：帮人",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6473814.html",
-      "title": "a16z：押注 AI 头部赢家，让增长跑赢估值",
-      "summary": "a16z 成长投资负责人给出两个评分：产品周期 9 到 10 分，资本周期只有 6 分。产业机会极好，价格却只是尚可。当市场已经认可赢家，超额回报不能只靠选对公司，还要看它未来的收入能否超过今天估值已经计入的预期。 AI 头部公司的估值越来越高，成长期投资的机会却未必在减少。2026 年 10 月 1 日，a16z 成长投资负责人 David George 在《Uncapped with Jack Altman》对谈中给出了一套判断：",
-      "publishedAt": "2026-10-06T02:13:58.000Z",
-      "url": "https://www.woshipm.com/ai/6473814.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473814.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "a16z 成长投资负责人给出两个评分：产品周期 9 到 10 分，资本周期只有 6 分。产业机会极好，价格却只是尚可。当市场已经认可赢家，超额回报不能只靠选对公司，还要看它未来的收入能否超过今天估值已经计入的预期。 AI 头部公司的估值越来越高，成长期投资的机会却未必在减少。2026 年 10 月 1 日，a16z 成长投资负责人 David George 在《Uncapped with Jack Altman》对谈中给出了一套判断：",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/extrovert",
@@ -251,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/customer-service-ai-for-etsy",
@@ -291,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/scumble",
@@ -488,7 +408,7 @@
       "platform": "中文媒体",
       "brief": "祝你旅途顺遂，假期自由。",
       "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"

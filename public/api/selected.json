@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-07T00:46:20.427Z",
+  "checkedAt": "2026-10-07T06:34:02.683Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "aj31qyu01hx95ra5sq2f0k5a9",
+      "title": "PromptArmor 解析 WebMCP 的工作机制与安全风险",
+      "reason": "原文系统拆解 WebMCP 的机制、厂商采用现状和治理、提示词注入等新增风险，可作为评估供应商 WebMCP 暴露面的参考框架。",
+      "summary": "PromptArmor 发布 WebMCP 解析文章，介绍这项让网站直接向 AI 智能体提供工具的技术的机制与采用情况。",
+      "sourceName": "PromptArmor：Threat Intelligence",
+      "sourceUrl": "https://www.promptarmor.com/resources/what-is-webmcp",
+      "aihotUrl": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "wbd0ik8kqdtpjw5u8kjsudqms",
       "title": "Cursor iOS 应用支持远程控制本地智能体",
@@ -139,9 +153,9 @@
     },
     {
       "id": "d17jcexm93lo85zkz3iil08c9",
-      "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
-      "reason": "官方更新日志给出模型名、能力改进范围和旧版停用日期，方便使用者安排迁移和评估是否切换。",
-      "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
+      "title": "Gemini Nano Banana 2.1 图像生成模型正式发布，gemini-3.1-flash-image 被弃用",
+      "reason": "原文列出新模型相对上一代的具体提升点和新支持的比例与分辨率，可帮助图像生成用户判断是否迁移。",
+      "summary": "Google 在 Gemini API 更新日志中宣布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1）正式可用，作为 Nano Banana 2（gemini-3.1-flash-image）的更新版本。",
       "sourceName": "Gemini API：更新日志（网页）",
       "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
       "aihotUrl": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
@@ -248,48 +262,6 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "wbi0gsddrrfnavs6vvuqb2r7j",
-      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-      "reason": "融资规模较原目标明显上调，还提到腾讯、宁德时代参与和 IPO 时间点，读者可借此了解 DeepSeek 的资本动向。",
-      "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。",
-      "sourceName": "X：X.PIN (@thexpin)",
-      "sourceUrl": "https://x.com/thexpin/status/2107524306058289533",
-      "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
-      "publishedAt": "2026-10-06T17:32:05.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "nnl0kba78980jig0szh0hkfop",
-      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-      "reason": "原文依据 SEC 招股书拆解 Anthropic 计算力承诺的支付结构，读者可据此了解这笔支出中多少不依赖实际使用。",
-      "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "aihotUrl": "https://aihot.news/items/nnl0kba78980jig0szh0hkfop",
-      "publishedAt": "2026-10-06T05:47:05.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "tfuj58rvo46hvh8l2nzcbpf7n",
-      "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-      "reason": "作者逐条拆解 A16Z 两份报告的关键数据，把付费渗透率、重度用户和杰文斯悖论串成一套可对照的现状判断。",
-      "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。",
-      "sourceName": "X：卡兹克 (@Khazix0918)",
-      "sourceUrl": "https://x.com/Khazix0918/status/2107297777583825359",
-      "aihotUrl": "https://aihot.news/items/tfuj58rvo46hvh8l2nzcbpf7n",
-      "publishedAt": "2026-10-06T02:31:56.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "week": [
@@ -309,9 +281,9 @@
     },
     {
       "id": "d17jcexm93lo85zkz3iil08c9",
-      "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
-      "reason": "官方更新日志给出模型名、能力改进范围和旧版停用日期，方便使用者安排迁移和评估是否切换。",
-      "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
+      "title": "Gemini Nano Banana 2.1 图像生成模型正式发布，gemini-3.1-flash-image 被弃用",
+      "reason": "原文列出新模型相对上一代的具体提升点和新支持的比例与分辨率，可帮助图像生成用户判断是否迁移。",
+      "summary": "Google 在 Gemini API 更新日志中宣布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1）正式可用，作为 Nano Banana 2（gemini-3.1-flash-image）的更新版本。",
       "sourceName": "Gemini API：更新日志（网页）",
       "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
       "aihotUrl": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
@@ -742,6 +714,20 @@
       "unselected": false
     },
     {
+      "id": "aj31qyu01hx95ra5sq2f0k5a9",
+      "title": "PromptArmor 解析 WebMCP 的工作机制与安全风险",
+      "reason": "原文系统拆解 WebMCP 的机制、厂商采用现状和治理、提示词注入等新增风险，可作为评估供应商 WebMCP 暴露面的参考框架。",
+      "summary": "PromptArmor 发布 WebMCP 解析文章，介绍这项让网站直接向 AI 智能体提供工具的技术的机制与采用情况。",
+      "sourceName": "PromptArmor：Threat Intelligence",
+      "sourceUrl": "https://www.promptarmor.com/resources/what-is-webmcp",
+      "aihotUrl": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "sxr71auxicu8uk3e4bqxol02h",
       "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
       "reason": "作者用四个真实云会话实测并行修复、文档校对和结构化日志，给出本地与云会话的选择边界和七个适用工作流。",
@@ -838,20 +824,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "ukk2qw5l1r9jqhsykqai2cf30",
-      "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-      "reason": "原文把多模型编排拆成三层职责，并给出同一管道在直接路由和框架下的对照代码，读者可据此选择自己项目所需的层。",
-      "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/",
-      "aihotUrl": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -861,6 +833,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "aj31qyu01hx95ra5sq2f0k5a9",
+          "title": "PromptArmor 解析 WebMCP 的工作机制与安全风险",
+          "reason": "原文系统拆解 WebMCP 的机制、厂商采用现状和治理、提示词注入等新增风险，可作为评估供应商 WebMCP 暴露面的参考框架。",
+          "summary": "PromptArmor 发布 WebMCP 解析文章，介绍这项让网站直接向 AI 智能体提供工具的技术的机制与采用情况。",
+          "sourceName": "PromptArmor：Threat Intelligence",
+          "sourceUrl": "https://www.promptarmor.com/resources/what-is-webmcp",
+          "aihotUrl": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "wbd0ik8kqdtpjw5u8kjsudqms",
           "title": "Cursor iOS 应用支持远程控制本地智能体",
@@ -929,20 +915,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "sxr71auxicu8uk3e4bqxol02h",
-          "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-          "reason": "作者用四个真实云会话实测并行修复、文档校对和结构化日志，给出本地与云会话的选择边界和七个适用工作流。",
-          "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
-          "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "sourceUrl": "https://claude.dev/blog/claude-code-in-the-cloud/",
-          "aihotUrl": "https://aihot.news/items/sxr71auxicu8uk3e4bqxol02h",
-          "publishedAt": "2026-10-06T12:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
@@ -1046,6 +1018,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "aj31qyu01hx95ra5sq2f0k5a9",
+          "title": "PromptArmor 解析 WebMCP 的工作机制与安全风险",
+          "reason": "原文系统拆解 WebMCP 的机制、厂商采用现状和治理、提示词注入等新增风险，可作为评估供应商 WebMCP 暴露面的参考框架。",
+          "summary": "PromptArmor 发布 WebMCP 解析文章，介绍这项让网站直接向 AI 智能体提供工具的技术的机制与采用情况。",
+          "sourceName": "PromptArmor：Threat Intelligence",
+          "sourceUrl": "https://www.promptarmor.com/resources/what-is-webmcp",
+          "aihotUrl": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "ktjti7hbm1gor33jpoc6ghili",
           "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
           "reason": "原文来自协议发起方，说明了认证方式、三种接入路径和后续规范计划，读者可以据此评估个人智能体与企业的连接方式。",
@@ -1113,20 +1099,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "uwm1ml1igd8k2u81g14uf8pc3",
-          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-          "reason": "作者亲测用智能体生成定制推理引擎，给出了相对 vLLM 的具体性能数据和成本，可帮助读者评估自动优化的实际可行性。",
-          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
-          "sourceName": "Baseten 工程博客（网页）",
-          "sourceUrl": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/",
-          "aihotUrl": "https://aihot.news/items/uwm1ml1igd8k2u81g14uf8pc3",
-          "publishedAt": "2026-10-02T21:09:34.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
