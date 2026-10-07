@@ -1,7 +1,7 @@
 {
   "date": "2026年10月7日",
   "demo": false,
-  "updatedAt": "2026-10-06T21:16:41.717Z",
+  "updatedAt": "2026-10-07T00:46:10.491Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 14,
+        "matched": 16,
         "status": "本次收录"
       },
       {
@@ -56,8 +56,8 @@
         "group": "产品与工程",
         "focus": "AI 工程与开发者生态",
         "url": "https://x.com/swyx",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "simonw",
@@ -101,7 +101,7 @@
         "group": "研究与方法",
         "focus": "AI 研究与技术解读",
         "url": "https://x.com/omarsar0",
-        "matched": 14,
+        "matched": 12,
         "status": "本次收录"
       },
       {
@@ -110,8 +110,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "gdb",
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 6,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -137,17 +137,17 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 1,
+        "matched": 4,
         "status": "本次收录"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-oql92sybu2sbw18imc4naxi3i",
-      "title": "OpenAI 第二天四项更新或重置",
-      "brief": "四项更新，或者一次重置。",
-      "summary": "四项更新，或者一次重置。",
+      "id": "aihot-pwot5gdbno2bvulifhtu91yiv",
+      "title": "OpenAI 的 Tibo 发推文\"校准\"",
+      "brief": "校准一下",
+      "summary": "校准一下",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -156,10 +156,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2107578625419866469",
-      "aggregateUrl": "https://aihot.news/items/oql92sybu2sbw18imc4naxi3i",
+      "sourceUrl": "https://x.com/thsottiaux/status/2107599996225007892",
+      "aggregateUrl": "https://aihot.news/items/pwot5gdbno2bvulifhtu91yiv",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-06T21:07:55.000Z",
+      "publishedAt": "2026-10-06T22:32:51.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -181,47 +181,10 @@
       }
     },
     {
-      "id": "aihot-tl06w2wqinl9o3tvp2ieozwjt",
-      "title": "Meta AI 18个月氛围逆转引关注",
-      "brief": "@AIatMeta 从 Llama 4 的糟糕局面，到如今被与其他前沿实验室相提并论，这史诗般的 18 个月氛围转变值得研究 @alexandr_wang（以及他令人震惊的深厚团队）既与众不同，也构建不同。",
-      "summary": "@AIatMeta 从 Llama 4 的糟糕局面，到如今被与其他前沿实验室相提并论，这史诗般的 18 个月氛围转变值得研究 @alexandr_wang（以及他令人震惊的深厚团队）既与众不同，也构建不同。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "swyx",
-      "sourceGroup": "产品与工程",
-      "sourceName": "swyx · @swyx",
-      "feedName": "X：swyx (@swyx)",
-      "sourceUrl": "https://x.com/swyx/status/2107275361822347406",
-      "aggregateUrl": "https://aihot.news/items/tl06w2wqinl9o3tvp2ieozwjt",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-06T01:02:52.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "swyx",
-            "asset": "/assets/identities/swyx.jpg",
-            "assetSource": "https://x.com/swyx",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "实践与观点",
-        "author": {
-          "name": "swyx",
-          "asset": "/assets/identities/swyx.jpg",
-          "assetSource": "https://x.com/swyx",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-zkax6r05gqu3hafcg0kgl80up",
-      "title": "AI 用户破十亿，恶性事故却少见",
-      "brief": "我认为，过去几年密切关注 AI 的大多数人，可能都会感到意外：考虑到 AI 总用户达十亿、企业用户达数亿，糟糕的 AI 事故却相对少见。",
-      "summary": "我认为，过去几年密切关注 AI 的大多数人，可能都会感到意外：考虑到 AI 总用户达十亿、企业用户达数亿，糟糕的 AI 事故却相对少见。",
+      "id": "aihot-qppc2n53rt10sbee4q0ag3reg",
+      "title": "AI 账号蹭数学突破热度",
+      "brief": "又到了每个 AI 账号假装自己深谙数论、就最新数学突破的重要性发表高见的时候了。",
+      "summary": "又到了每个 AI 账号假装自己深谙数论、就最新数学突破的重要性发表高见的时候了。",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -230,10 +193,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2107489752349892677",
-      "aggregateUrl": "https://aihot.news/items/zkax6r05gqu3hafcg0kgl80up",
+      "sourceUrl": "https://x.com/emollick/status/2107609416359117027",
+      "aggregateUrl": "https://aihot.news/items/qppc2n53rt10sbee4q0ag3reg",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-06T15:14:46.000Z",
+      "publishedAt": "2026-10-06T23:10:17.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -292,6 +255,43 @@
       }
     },
     {
+      "id": "aihot-expgjrpbkyz967h88njpt71g2",
+      "title": "OpenAI 分享数学领域 AI 进展",
+      "brief": "我们正在进入一个发现的新时代： https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "我们正在进入一个发现的新时代： https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "sama",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Sam Altman · @sama",
+      "feedName": "X：Sam Altman (@sama)",
+      "sourceUrl": "https://x.com/sama/status/2107623610483720463",
+      "aggregateUrl": "https://aihot.news/items/expgjrpbkyz967h88njpt71g2",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-07T00:06:41.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Sam Altman",
+          "asset": "/assets/identities/sama.jpg",
+          "assetSource": "https://x.com/sama",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
       "id": "aihot-mw4rg080w2u4bdoh3hskx6kqd",
       "title": "Perplexity Decision API 价格减半",
       "brief": "另外，Perplexity Decision API 的价格减半了，现在每百万 input tokens 只要 2 美分。",
@@ -329,11 +329,11 @@
       }
     },
     {
-      "id": "aihot-hymgfk94fqxntz5t55a949ziz",
-      "title": "Hugging Face 上线 Mistral Large 4 开源发布提醒页面",
-      "brief": "Thomas Wolf 转发 Mistral 官方公告，宣布 Mistral Large 4（1T 参数、49B 激活、原生多模态）开放权重将于 10 月底发布，并给出 Hugging Face 页面 https://huggingface.co/mistralai/Mistral-Large-4.0-1T05-A52B 供即时接收发布通知。",
-      "summary": "Thomas Wolf 转发 Mistral 官方公告，宣布 Mistral Large 4（1T 参数、49B 激活、原生多模态）开放权重将于 10 月底发布，并给出 Hugging Face 页面 https://huggingface.co/mistralai/Mistral-Large-4.0-1T05-A52B 供即时接收发布通知。",
-      "category": "模型进展",
+      "id": "aihot-envzwlqp9t8mprqrtpboxl1ov",
+      "title": "Ben Affleck 谈写 Python 与理解 CNN",
+      "brief": "how do you like them convolutions",
+      "summary": "how do you like them convolutions",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -341,22 +341,22 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Thomas Wolf · @Thom_Wolf",
       "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2107479489634865314",
-      "aggregateUrl": "https://aihot.news/items/hymgfk94fqxntz5t55a949ziz",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2107610805315494379",
+      "aggregateUrl": "https://aihot.news/items/envzwlqp9t8mprqrtpboxl1ov",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-06T14:34:00.000Z",
+      "publishedAt": "2026-10-06T23:15:48.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "模型进展",
+        "caption": "实践与观点",
         "author": {
           "name": "Thomas Wolf",
           "asset": "/assets/identities/thom_wolf.jpg",
@@ -413,7 +413,7 @@
       "aihotUrl": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk",
       "storyUrl": "https://aihot.news/story/9185ce03-ea6c-4422-abbf-bef5d5f8b884",
       "sourceCount": 19,
-      "participantCount": 47,
+      "participantCount": 49,
       "latestAt": "2026-10-06T20:18:19.000Z",
       "expanded": true,
       "latest": "Mistral 发布 Mistral Large 4 预览版：1 万亿参数、49B 激活",
@@ -526,31 +526,31 @@
       "aihotUrl": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
       "storyUrl": "https://aihot.news/story/b0de7ab6-57f6-4bb1-9267-e073ebc2cfa3",
       "sourceCount": 9,
-      "participantCount": 20,
-      "latestAt": "2026-10-06T20:24:36.000Z",
+      "participantCount": 22,
+      "latestAt": "2026-10-06T21:31:10.000Z",
       "expanded": true,
-      "latest": "Google Nano Banana 2.1 上线 Arena 三大图像榜单，多图编辑列第 4",
+      "latest": "fal 上线 Google nano-banana-2.1 文生图与图像编辑模型",
       "reports": [
         {
-          "title": "Google Nano Banana 2.1 上线 Arena 三大图像榜单，多图编辑列第 4",
+          "title": "fal 上线 Google nano-banana-2.1 文生图与图像编辑模型",
+          "sourceName": "X：fal (@fal)",
+          "sourceUrl": "https://x.com/fal/status/2107584475723145358",
+          "aihotUrl": "https://aihot.news/items/jk7zj66lo921g6egdi5smtnh8",
+          "publishedAt": "2026-10-06T21:31:10.000Z"
+        },
+        {
+          "title": "Google Nano Banana 2.1 图像模型上线 fal",
+          "sourceName": "X：fal (@fal)",
+          "sourceUrl": "https://x.com/fal/status/2107584175452602610",
+          "aihotUrl": "https://aihot.news/items/gvg5gu80s20vsli4mtr4kz3jz",
+          "publishedAt": "2026-10-06T21:29:59.000Z"
+        },
+        {
+          "title": "Google 发布 Nano Banana 2.1，登入 Arena 三个图像榜单",
           "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2107567724264313059",
-          "aihotUrl": "https://aihot.news/items/fzcgy2zwlnvbzfg4w6unxn6do",
-          "publishedAt": "2026-10-06T20:24:36.000Z"
-        },
-        {
-          "title": "Google 发布图像模型 Nano Banana 2.1，价格约降一半",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
-          "aihotUrl": "https://aihot.news/items/k5w9r6x4l8weokoqvnth7ub1l",
-          "publishedAt": "2026-10-06T19:29:42.000Z"
-        },
-        {
-          "title": "OpenRouter 上线 Gemini Nano Banana 2.1，支持最多 14 张参考图与 4K 全景",
-          "sourceName": "X：OpenRouter (@OpenRouter)",
-          "sourceUrl": "https://x.com/OpenRouter/status/2107543827213127684",
-          "aihotUrl": "https://aihot.news/items/af032jgkdnmj4ptc62davrqst",
-          "publishedAt": "2026-10-06T18:49:39.000Z"
+          "sourceUrl": "https://x.com/arena/status/2107576893973344578",
+          "aihotUrl": "https://aihot.news/items/xvpvopoz26rgg2y5fggo7vv8f",
+          "publishedAt": "2026-10-06T21:01:03.000Z"
         }
       ],
       "related": [
@@ -578,6 +578,34 @@
     },
     {
       "rank": 4,
+      "id": "g1k2ragppm8j4apj75qu1k4ug",
+      "title": "Google 开源多模态嵌入模型 EmbeddingGemma 2",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "aihotUrl": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
+      "storyUrl": "https://aihot.news/story/28375512-d27e-4a60-8a37-dee79df660d4",
+      "sourceCount": 11,
+      "participantCount": 20,
+      "latestAt": "2026-10-06T22:41:19.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "xx5mgdemrqmqw5zw410sbawcz",
       "title": "OpenAI在欧盟为ChatGPT文本加隐形水印",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -585,7 +613,7 @@
       "aihotUrl": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz",
       "storyUrl": "https://aihot.news/story/b92e615b-0baf-4821-a3ac-e621dde3db2c",
       "sourceCount": 8,
-      "participantCount": 29,
+      "participantCount": 31,
       "latestAt": "2026-10-06T20:50:32.000Z",
       "expanded": false,
       "latest": "",
@@ -605,16 +633,16 @@
       }
     },
     {
-      "rank": 5,
-      "id": "g1k2ragppm8j4apj75qu1k4ug",
-      "title": "Google 开源多模态嵌入模型 EmbeddingGemma 2",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "aihotUrl": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
-      "storyUrl": "https://aihot.news/story/28375512-d27e-4a60-8a37-dee79df660d4",
-      "sourceCount": 8,
-      "participantCount": 16,
-      "latestAt": "2026-10-06T20:37:53.000Z",
+      "rank": 6,
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+      "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
+      "sourceCount": 5,
+      "participantCount": 15,
+      "latestAt": "2026-10-06T23:42:31.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -622,10 +650,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -633,7 +661,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "wbi0gsddrrfnavs6vvuqb2r7j",
       "title": "DeepSeek接近完成至少800亿元融资",
       "sourceName": "X：X.PIN (@thexpin)",
@@ -661,7 +689,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "e63lz9ky7ebdxjea930dh3o5y",
       "title": "OpenAI在ChatGPT图像生成中测试视觉广告",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -689,44 +717,16 @@
       }
     },
     {
-      "rank": 8,
-      "id": "dmtalxqmeu6koot2yf3kal5nu",
-      "title": "OpenAI 启动 Codex 与 ChatGPT Work 28 天每日更新",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2106845241357824205",
-      "aihotUrl": "https://aihot.news/items/dmtalxqmeu6koot2yf3kal5nu",
-      "storyUrl": "https://aihot.news/story/8d77783c-db18-4e6a-b8e7-70b012886402",
-      "sourceCount": 3,
-      "participantCount": 20,
-      "latestAt": "2026-10-05T17:49:34.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 9,
-      "id": "ncv6u97zqan3hgzng59yel19f",
-      "title": "维基媒体称发现OpenAI失控智能体活动",
-      "sourceName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-      "aihotUrl": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f",
-      "storyUrl": "https://aihot.news/story/ea2d380d-f646-4583-a7ce-d2390ca11dae",
-      "sourceCount": 6,
-      "participantCount": 11,
-      "latestAt": "2026-10-06T18:29:35.000Z",
+      "id": "a96x4zt1tn3um8h49nz2kqgpc",
+      "title": "Anthropic扩展CVP，三档开放Claude网络能力",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/cyber-verification-program",
+      "aihotUrl": "https://aihot.news/items/a96x4zt1tn3um8h49nz2kqgpc",
+      "storyUrl": "https://aihot.news/story/edbb44d5-d114-49bc-8f13-575aca1d43b9",
+      "sourceCount": 3,
+      "participantCount": 9,
+      "latestAt": "2026-10-06T23:20:26.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -734,10 +734,10 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
@@ -746,15 +746,15 @@
     },
     {
       "rank": 10,
-      "id": "eqsd72krt75x22ruxjsncr81j",
-      "title": "华为与高通达成5G等专利交叉许可协议",
-      "sourceName": "IT之家（RSS）",
-      "sourceUrl": "https://www.ithome.com/1/009/852.htm",
-      "aihotUrl": "https://aihot.news/items/eqsd72krt75x22ruxjsncr81j",
-      "storyUrl": "https://aihot.news/story/2db86cc5-e2f8-4e6f-b7c7-e987069aa6b0",
-      "sourceCount": 3,
-      "participantCount": 15,
-      "latestAt": "2026-10-06T09:18:15.000Z",
+      "id": "u3xqs4u7tqjvaph4sfdnxfafw",
+      "title": "OpenAI Decisions API 从限量预览转公测",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2107574912349303197",
+      "aihotUrl": "https://aihot.news/items/u3xqs4u7tqjvaph4sfdnxfafw",
+      "storyUrl": "https://aihot.news/story/30e9531f-5f58-4e7e-8a67-705e2340a4b6",
+      "sourceCount": 2,
+      "participantCount": 8,
+      "latestAt": "2026-10-07T00:03:31.762Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -762,10 +762,10 @@
       "visual": {
         "entities": [
           {
-            "name": "IT之家（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",

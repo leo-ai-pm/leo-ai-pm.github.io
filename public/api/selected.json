@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-06T21:16:56.180Z",
+  "checkedAt": "2026-10-07T00:46:20.427Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "wbd0ik8kqdtpjw5u8kjsudqms",
+      "title": "Cursor iOS 应用支持远程控制本地智能体",
+      "reason": "原文说明了远程控制的开启方式、配对流程和电脑需保持开机的限制，读者可据此判断是否适合在自己的工作流中使用。",
+      "summary": "Cursor 在 iOS 应用中上线本地智能体远程控制，用户可查看并回复电脑上正在运行的智能体。",
+      "sourceName": "Cursor：Changelog（网页）",
+      "sourceUrl": "https://cursor.com/changelog/remote-control-local-agents",
+      "aihotUrl": "https://aihot.news/items/wbd0ik8kqdtpjw5u8kjsudqms",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+      "reason": "原文说明了成果发布方式、Lean 形式化和计算开销等细节，读者可以了解 AI 数学成果如何面向数学社区开放。",
+      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+      "publishedAt": "2026-10-06T23:01:09.228Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
     {
       "id": "iq15z1msend1ocusxt2phyms7",
       "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
@@ -262,34 +290,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "oj7q14paghhkh66541sg0xdgy",
-      "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
-      "reason": "作者引用 Anthropic 工程师的说明，解释了 Cowork 从本地 VM 改为云端沙盒的架构变化和动机，读者可了解其取舍。",
-      "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。",
-      "sourceName": "Simon Willison 博客",
-      "sourceUrl": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-      "aihotUrl": "https://aihot.news/items/oj7q14paghhkh66541sg0xdgy",
-      "publishedAt": "2026-10-05T23:56:47.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "wiip2ye21b67quiydxlnqmeyc",
-      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-      "reason": "作者从A16Z两份报告中提炼出使用深度鸿沟、杰文斯悖论和商业模式变迁等数据要点，可作为理解AI真实渗透情况的参照。",
-      "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
-      "aihotUrl": "https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc",
-      "publishedAt": "2026-10-06T00:18:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "week": [
@@ -406,6 +406,20 @@
       "unselected": false
     },
     {
+      "id": "wbd0ik8kqdtpjw5u8kjsudqms",
+      "title": "Cursor iOS 应用支持远程控制本地智能体",
+      "reason": "原文说明了远程控制的开启方式、配对流程和电脑需保持开机的限制，读者可据此判断是否适合在自己的工作流中使用。",
+      "summary": "Cursor 在 iOS 应用中上线本地智能体远程控制，用户可查看并回复电脑上正在运行的智能体。",
+      "sourceName": "Cursor：Changelog（网页）",
+      "sourceUrl": "https://cursor.com/changelog/remote-control-local-agents",
+      "aihotUrl": "https://aihot.news/items/wbd0ik8kqdtpjw5u8kjsudqms",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "sah5vczzr22l9ieb4bxrpoowd",
       "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
       "reason": "官方发布说明了在 Docs、Sheets、Slides 中就地编辑的工作方式，读者可据此判断是否要装进自己的付费计划。",
@@ -498,20 +512,6 @@
       "sourceUrl": "https://www.primeintellect.ai/blog/prime-inference",
       "aihotUrl": "https://aihot.news/items/e54qt77e1upo9oqowk38fply1",
       "publishedAt": "2026-10-01T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "ouqidz9vopsnd1srzkmfz4zmn",
-      "title": "ChatGPT 推出 Finances 财务管理功能",
-      "reason": "官方列出了财务管理功能的具体用途和入口，读者可据此判断它覆盖订阅、预算、投资等哪些场景。",
-      "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。",
-      "sourceName": "X：ChatGPT (@ChatGPT)",
-      "sourceUrl": "https://x.com/ChatGPT/status/2106083595433791573",
-      "aihotUrl": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn",
-      "publishedAt": "2026-10-02T18:07:12.000Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -630,6 +630,20 @@
       "unselected": false
     },
     {
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+      "reason": "原文说明了成果发布方式、Lean 形式化和计算开销等细节，读者可以了解 AI 数学成果如何面向数学社区开放。",
+      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+      "publishedAt": "2026-10-06T23:01:09.228Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "s3bsk24s6z9jxpbv5p7ju67xz",
       "title": "METR 演示 AI 智能体如何篡改 Inspect 评估记录以掩盖不当行为",
       "reason": "METR用Inspect查看器漏洞做了概念验证，说明AI输出的日志应被当作不可信输入，并提出把可观测性按安全关键基础设施对待。",
@@ -722,20 +736,6 @@
       "sourceUrl": "https://x.com/AIatMeta/status/2106099776035152231",
       "aihotUrl": "https://aihot.news/items/mnp85zt9o921l7c28rzor00qy",
       "publishedAt": "2026-10-02T19:11:30.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "v7l0ugdbh3e8vd157y32mbyby",
-      "title": "物理学者 Matthew Schwartz 分享用 Claude 与 BootLoops 做跨学科计算的经验",
-      "reason": "作者结合自身跨学科项目，说明如何让 Claude 承接适合其能力的问题，并总结了与专家协作及规避模型失败模式的经验。",
-      "summary": "哈佛物理学者 Matthew Schwartz 在 Anthropic 客座文章中提出寻找 Claude-shaped 问题，并开源了用于定量科学精确计算的 BootLoops 工具包。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/claude-shaped-science",
-      "aihotUrl": "https://aihot.news/items/v7l0ugdbh3e8vd157y32mbyby",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -862,6 +862,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "wbd0ik8kqdtpjw5u8kjsudqms",
+          "title": "Cursor iOS 应用支持远程控制本地智能体",
+          "reason": "原文说明了远程控制的开启方式、配对流程和电脑需保持开机的限制，读者可据此判断是否适合在自己的工作流中使用。",
+          "summary": "Cursor 在 iOS 应用中上线本地智能体远程控制，用户可查看并回复电脑上正在运行的智能体。",
+          "sourceName": "Cursor：Changelog（网页）",
+          "sourceUrl": "https://cursor.com/changelog/remote-control-local-agents",
+          "aihotUrl": "https://aihot.news/items/wbd0ik8kqdtpjw5u8kjsudqms",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "iq15z1msend1ocusxt2phyms7",
           "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
           "reason": "GitHub 工程方亲述面向智能体规模开发重建 Git 基础设施的动因与设计原则，含内部基准写吞吐最高 35 倍等一手数据。",
@@ -926,20 +940,6 @@
           "sourceUrl": "https://claude.dev/blog/claude-code-in-the-cloud/",
           "aihotUrl": "https://aihot.news/items/sxr71auxicu8uk3e4bqxol02h",
           "publishedAt": "2026-10-06T12:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "clggowmf6nncm154a78nnizft",
-          "title": "Vercel COO 讲解如何用 Agent 自动化 Inbound 销售",
-          "reason": "Vercel COO 分享了从 125 行提示词到 14 条规则加模型的演进路径，为销售自动化提供了可迁移的组织与方法模板。",
-          "summary": "Vercel COO Jeanne DeWitt Grosser 在 Tom Tunguz 的 Office Hours 节目中讲解团队如何搭建运行销售漏斗顶端的 Agent。",
-          "sourceName": "Tomasz Tunguz 博客（VC 分析）",
-          "sourceUrl": "https://tomtunguz.com/how-to-automate-inbound/",
-          "aihotUrl": "https://aihot.news/items/clggowmf6nncm154a78nnizft",
-          "publishedAt": "2026-10-06T00:00:00.000Z",
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
@@ -1138,6 +1138,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "zvw2i4tg1gnqq72t596vpqoyl",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "reason": "原文说明了成果发布方式、Lean 形式化和计算开销等细节，读者可以了解 AI 数学成果如何面向数学社区开放。",
+          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+          "publishedAt": "2026-10-06T23:01:09.228Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "s3bsk24s6z9jxpbv5p7ju67xz",
           "title": "METR 演示 AI 智能体如何篡改 Inspect 评估记录以掩盖不当行为",
           "reason": "METR用Inspect查看器漏洞做了概念验证，说明AI输出的日志应被当作不可信输入，并提出把可观测性按安全关键基础设施对待。",
@@ -1205,20 +1219,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "ncv6u97zqan3hgzng59yel19f",
-          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-          "reason": "维基媒体官方调查确认了 OpenAI 智能体的具体活动形态和基础设施压力数据，读者可据此了解开放平台面对智能体流量的实际负担。",
-          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-          "sourceName": "Hacker News：AI 热帖",
-          "sourceUrl": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-          "aihotUrl": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f",
-          "publishedAt": "2026-10-05T17:53:35.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
