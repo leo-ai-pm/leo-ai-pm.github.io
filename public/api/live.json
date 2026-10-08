@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月8日",
     "demo": false,
-    "updatedAt": "2026-10-07T23:45:55.162Z",
+    "updatedAt": "2026-10-08T03:00:33.293Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 373,
+      "received": 365,
       "latestCount": 6,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 4,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -111,7 +111,7 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 5,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -120,7 +120,7 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -419,8 +419,8 @@
         "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
         "aihotUrl": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
         "storyUrl": "https://aihot.news/story/94903954-cf87-48d8-89a6-eff5deefeaa0",
-        "sourceCount": 13,
-        "participantCount": 46,
+        "sourceCount": 14,
+        "participantCount": 58,
         "latestAt": "2026-10-07T22:26:08.973Z",
         "expanded": true,
         "latest": "Anthropic 发布 Claude Haiku 5.5，运行成本较 4.5 低约 75%",
@@ -478,12 +478,19 @@
         "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
         "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
-        "sourceCount": 8,
-        "participantCount": 45,
-        "latestAt": "2026-10-07T08:54:43.000Z",
+        "sourceCount": 9,
+        "participantCount": 46,
+        "latestAt": "2026-10-08T00:36:00.000Z",
         "expanded": true,
-        "latest": "OpenAI 在 GitHub 发布 372 个 AI 生成的数学证明结果",
+        "latest": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
         "reports": [
+          {
+            "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
+            "sourceName": "公众号：数字生命卡兹克",
+            "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
+            "aihotUrl": "https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n",
+            "publishedAt": "2026-10-08T00:36:00.000Z"
+          },
           {
             "title": "OpenAI 在 GitHub 发布 372 个 AI 生成的数学证明结果",
             "sourceName": "The Decoder：AI News（RSS）",
@@ -497,13 +504,6 @@
             "sourceUrl": "https://x.com/gdb/status/2107640886482104524",
             "aihotUrl": "https://aihot.news/items/s2mly38u9zos2bwzo9nogzakh",
             "publishedAt": "2026-10-07T01:15:20.000Z"
-          },
-          {
-            "title": "OpenAI 发布内部模型数学成果",
-            "sourceName": "X：Nathan Lambert (@natolambert)",
-            "sourceUrl": "https://x.com/natolambert/status/2107639254394503536",
-            "aihotUrl": "https://aihot.news/items/vbu717teswsgl85njymx8sxg6",
-            "publishedAt": "2026-10-07T01:08:50.000Z"
           }
         ],
         "related": [
@@ -531,81 +531,40 @@
       },
       {
         "rank": 3,
-        "id": "rmc5fz5rbcwzsr7cdl5jo1ojk",
-        "title": "Mistral 发布 Large 4 预览版，月底开放权重",
-        "sourceName": "Artificial Analysis 完整文章（网页）",
-        "sourceUrl": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai",
-        "aihotUrl": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk",
-        "storyUrl": "https://aihot.news/story/9185ce03-ea6c-4422-abbf-bef5d5f8b884",
-        "sourceCount": 16,
-        "participantCount": 53,
-        "latestAt": "2026-10-07T14:12:37.000Z",
-        "expanded": true,
-        "latest": "Mistral 发布 1 万亿参数模型 Mistral Large 4（Le Chonk），宣称可挑战最强闭源模型",
-        "reports": [
-          {
-            "title": "Mistral 发布 1 万亿参数模型 Mistral Large 4（Le Chonk），宣称可挑战最强闭源模型",
-            "sourceName": "Ars Technica：AI（RSS）",
-            "sourceUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-            "aihotUrl": "https://aihot.news/items/z2tebvk8jkiq5kpcznno2gxux",
-            "publishedAt": "2026-10-07T14:12:37.000Z"
-          },
-          {
-            "title": "Mistral Large 4 驱动通用智能体",
-            "sourceName": "X：Mistral AI (@MistralAI)",
-            "sourceUrl": "https://x.com/MistralAI/status/2107834891844899292",
-            "aihotUrl": "https://aihot.news/items/ujnbr3zgyzgdmttfhjujm8kmy",
-            "publishedAt": "2026-10-07T14:06:14.000Z"
-          },
-          {
-            "title": "Mistral 发布 1T 参数多模态模型 Le Chonk",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2107752334000337001",
-            "aihotUrl": "https://aihot.news/items/gy4lqdy2qpg51ap14ybxdm3d3",
-            "publishedAt": "2026-10-07T08:38:11.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "Mistral Large 4 登 Arena，开源权重引争议",
-            "storyUrl": "https://aihot.news/story/2041fa53-4d75-4089-98a7-a6a1519ee992"
-          },
-          {
-            "title": "OpenCode 上线 Mistral Large 4 并限时五折",
-            "storyUrl": "https://aihot.news/story/7773ce5d-1ab6-46c5-bb91-c35ff3cfa86e"
-          },
-          {
-            "title": "llm-mistral 0.16 发布，新增推理模型支持",
-            "storyUrl": "https://aihot.news/story/e8c9c83a-6fae-4721-9782-76aee5b882d9"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "Artificial Analysis 完整文章（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 4,
         "id": "uir31g728myjry383z17txvrw",
         "title": "OpenAI向ChatGPT全量用户开放GPT-6与Intelligent UI",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "sourceUrl": "https://openai.com/index/gpt-6-for-everyone/",
         "aihotUrl": "https://aihot.news/items/uir31g728myjry383z17txvrw",
         "storyUrl": "https://aihot.news/story/829ad21a-7429-4a43-9cb1-3c5c8a46c051",
-        "sourceCount": 9,
-        "participantCount": 22,
-        "latestAt": "2026-10-07T22:10:08.150Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
+        "sourceCount": 10,
+        "participantCount": 28,
+        "latestAt": "2026-10-08T02:22:43.000Z",
+        "expanded": true,
+        "latest": "GPT-6 面向超 12 亿 ChatGPT 用户全面推送，带来 Intelligent UI 生成式界面能力",
+        "reports": [
+          {
+            "title": "GPT-6 面向超 12 亿 ChatGPT 用户全面推送，带来 Intelligent UI 生成式界面能力",
+            "sourceName": "X：邵猛 (@shao__meng)",
+            "sourceUrl": "https://x.com/shao__meng/status/2108020232183029778",
+            "aihotUrl": "https://aihot.news/items/ah36xjjg7fkkgxsnwnls33r5h",
+            "publishedAt": "2026-10-08T02:22:43.000Z"
+          },
+          {
+            "title": "OpenAI 面向所有 ChatGPT 用户推出 GPT-6 系列模型和智能用户界面",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/010/327.htm",
+            "aihotUrl": "https://aihot.news/items/toa8f9rsvl2p3ckb7sc4gpdks",
+            "publishedAt": "2026-10-07T22:10:08.150Z"
+          },
+          {
+            "title": "OpenAI 在 ChatGPT 全量推出 GPT-6 与 Intelligent UI",
+            "sourceName": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+            "sourceUrl": "https://x.com/markchen90/status/2107947355115028880",
+            "aihotUrl": "https://aihot.news/items/e9x6n5jwnvfek828vpdbhirwx",
+            "publishedAt": "2026-10-07T21:33:07.000Z"
+          }
+        ],
         "related": [],
         "visual": {
           "entities": [
@@ -621,16 +580,44 @@
         }
       },
       {
+        "rank": 4,
+        "id": "rmc5fz5rbcwzsr7cdl5jo1ojk",
+        "title": "Mistral 发布 Large 4 预览版，月底开放权重",
+        "sourceName": "Artificial Analysis 完整文章（网页）",
+        "sourceUrl": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai",
+        "aihotUrl": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk",
+        "storyUrl": "https://aihot.news/story/9185ce03-ea6c-4422-abbf-bef5d5f8b884",
+        "sourceCount": 16,
+        "participantCount": 53,
+        "latestAt": "2026-10-07T14:12:37.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Artificial Analysis 完整文章（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 5,
         "id": "dbhowpb183i256684uz2527i1",
-        "title": "SpaceX 宣布 Grok Bot 按任务选用最佳后端模型",
+        "title": "马斯克称 Grok Bot 将按任务调用外部最佳模型",
         "sourceName": "X：Testing Catalog (@testingcatalog)",
         "sourceUrl": "https://x.com/testingcatalog/status/2107803665457189061",
         "aihotUrl": "https://aihot.news/items/dbhowpb183i256684uz2527i1",
         "storyUrl": "https://aihot.news/story/d0ee11b2-3ace-4e23-9668-fb3c82550bdb",
-        "sourceCount": 3,
-        "participantCount": 26,
-        "latestAt": "2026-10-07T18:02:02.000Z",
+        "sourceCount": 4,
+        "participantCount": 29,
+        "latestAt": "2026-10-07T23:47:32.937Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -656,8 +643,8 @@
         "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
         "aihotUrl": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
         "storyUrl": "https://aihot.news/story/b0de7ab6-57f6-4bb1-9267-e073ebc2cfa3",
-        "sourceCount": 11,
-        "participantCount": 34,
+        "sourceCount": 10,
+        "participantCount": 33,
         "latestAt": "2026-10-07T03:47:01.000Z",
         "expanded": false,
         "latest": "",
@@ -706,6 +693,62 @@
       },
       {
         "rank": 8,
+        "id": "ch5nswnlsumj70hzjgqf6hvjj",
+        "title": "微软 Surface RTX Spark Dev Box 预售，5999 美元",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "aihotUrl": "https://aihot.news/items/ch5nswnlsumj70hzjgqf6hvjj",
+        "storyUrl": "https://aihot.news/story/4890f163-93a8-4155-90a5-42af23f38dbe",
+        "sourceCount": 3,
+        "participantCount": 16,
+        "latestAt": "2026-10-08T00:00:24.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "TechCrunch：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "a7mmcpxrh1xnobyqhj43shxwh",
+        "title": "Grok Bot 新增原生 X 搜索与监控能力",
+        "sourceName": "X：Grok Bot (@bot)",
+        "sourceUrl": "https://x.com/bot/status/2107949163191353358",
+        "aihotUrl": "https://aihot.news/items/a7mmcpxrh1xnobyqhj43shxwh",
+        "storyUrl": "https://aihot.news/story/ae6b9b53-d380-45d4-9933-6afa540f4195",
+        "sourceCount": 5,
+        "participantCount": 14,
+        "latestAt": "2026-10-07T23:40:01.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Grok Bot (@bot)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "don06si59xc143ed92gdmlnvo",
         "title": "Google 全球开放 SynthID 水印检测器",
         "sourceName": "X：Google (@Google)",
@@ -731,69 +774,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 9,
-        "id": "f6gwhhu7370v7h37gkrncldvf",
-        "title": "Google 推出实验性 AI 游戏平台 Playground",
-        "sourceName": "Google Blog：AI（RSS）",
-        "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-        "aihotUrl": "https://aihot.news/items/f6gwhhu7370v7h37gkrncldvf",
-        "storyUrl": "https://aihot.news/story/a36266a9-2877-42dd-afdb-1b2411431fa6",
-        "sourceCount": 4,
-        "participantCount": 12,
-        "latestAt": "2026-10-07T15:41:17.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "u3xqs4u7tqjvaph4sfdnxfafw",
-        "title": "OpenAI Decisions API 从限量预览转公测",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2107574912349303197",
-        "aihotUrl": "https://aihot.news/items/u3xqs4u7tqjvaph4sfdnxfafw",
-        "storyUrl": "https://aihot.news/story/30e9531f-5f58-4e7e-8a67-705e2340a4b6",
-        "sourceCount": 4,
-        "participantCount": 14,
-        "latestAt": "2026-10-07T20:21:00.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-07T23:45:55.162Z",
-    "nextCheckAt": 1791417055162,
+    "checkedAt": "2026-10-08T03:00:33.293Z",
+    "nextCheckAt": 1791428733293,
     "intervalSeconds": 300,
     "message": ""
   }

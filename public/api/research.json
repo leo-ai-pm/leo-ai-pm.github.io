@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-07T23:45:43.560Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.560Z",
-      "nextCheckAt": 1791420343560,
+      "checkedAt": "2026-10-08T03:00:24.020Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.020Z",
+      "nextCheckAt": 1791432024020,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-08T03:00:24.021Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.021Z",
+      "nextCheckAt": 1791432024021,
       "status": "ok",
-      "nextCheckAt": 1791420343561,
-      "checkedAt": "2026-10-07T23:45:43.561Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.561Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-07T23:45:43.563Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.563Z",
-      "nextCheckAt": 1791420343563,
+      "checkedAt": "2026-10-08T03:00:24.022Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.022Z",
+      "nextCheckAt": 1791432024022,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791420343738,
-      "checkedAt": "2026-10-07T23:45:43.738Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.738Z",
+      "nextCheckAt": 1791432024222,
+      "checkedAt": "2026-10-08T03:00:24.222Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.222Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,27 +90,28 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791420343560,
+  "nextCheckAt": 1791432024020,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6473946.html",
-      "title": "在 agent 的世界里，留存就是分发",
-      "summary": "OpenAI 负责 ChatGPT 和 Codex 的 Tibo 说，让人自己搭循环、画流程图，也许有人兴奋过，但他不认为这是未来。9 月 29 日 DevDay 上线的 Dots 才是他想要的样子：永远在线、有自己的云端电脑、能接入 4000 多个应用。 你有没有想过，你花了几个月打磨的那套 AI 工作流，下一代模型一出来，可能就用不上了？这不是危言耸听。OpenAI 负责 ChatGPT 和 Codex 的 Tibo Sottiau",
-      "publishedAt": "2026-10-07T10:27:53.000Z",
-      "url": "https://www.woshipm.com/ai/6473946.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6474512.html",
+      "title": "Qwen3.8-27B 彻底成神了：Perplexity拿它改出最强开源决策大模型，可本地部署！",
+      "summary": "Perplexity 悄悄放出 27B 的 pplx-decider-v1.1-27b，底座又是 Qwen3.8-27B。它不聊天、不写代码，只做判断：读入文本或图片，按预设问题与候选项直接给出结果与置信度。一个开放权重能自托管，一个按量付费。 Perplexity 悄悄放了个 27B 模型：pplx-decider-v1.1-27b 我进模型卡一看，底座又是 Qwen3.8-27B 最近我已经写了好几篇 Qwen3.8-27B 的魔改",
+      "publishedAt": "2026-10-08T02:09:10.000Z",
+      "url": "https://www.woshipm.com/ai/6474512.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
           }
         ],
         "caption": "产品拆解",
@@ -122,11 +123,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473946.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6474512.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "OpenAI 负责 ChatGPT 和 Codex 的 Tibo 说，让人自己搭循环、画流程图，也许有人兴奋过，但他不认为这是未来。9 月 29 日 DevDay 上线的 Dots 才是他想要的样子：永远在线、有自己的云端电脑、能接入 4000 多个应用。 你有没有想过，你花了几个月打磨的那套 AI 工作流，下一代模型一出来，可能就用不上了？这不是危言耸听。OpenAI 负责 ChatGPT 和 Codex 的 Tibo Sottiau",
+      "brief": "Perplexity 悄悄放出 27B 的 pplx-decider-v1.1-27b，底座又是 Qwen3.8-27B。它不聊天、不写代码，只做判断：读入文本或图片，按预设问题与候选项直接给出结果与置信度。一个开放权重能自托管，一个按量付费。 Perplexity 悄悄放了个 27B 模型：pplx-decider-v1.1-27b 我进模型卡一看，底座又是 Qwen3.8-27B 最近我已经写了好几篇 Qwen3.8-27B 的魔改",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,51 +135,11 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6474226.html",
-      "title": "Cline免费模型接入各种Agent，多账号免费token管够",
-      "summary": "Cline 的免费模型列表随新模型更新，官方只支持在客户端或 VSCode 插件里用，接不进 WorkBuddy 等 Agent。作者基于 cline-free 做出 ClineFreePool，剔掉耗光赠送额度的付费模型，把多账号池轮询写成可照做的步骤。 说到Cline这个编程Agent，可能接触Vibe Coding不是太多的小伙伴不大熟悉，它最早是以VSCode插件的形式推出，在开发者社区享有一定的知名度。 Cline老马没记错的",
-      "publishedAt": "2026-10-07T09:46:47.000Z",
-      "url": "https://www.woshipm.com/ai/6474226.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6474226.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Cline 的免费模型列表随新模型更新，官方只支持在客户端或 VSCode 插件里用，接不进 WorkBuddy 等 Agent。作者基于 cline-free 做出 ClineFreePool，剔掉耗光赠送额度的付费模型，把多账号池轮询写成可照做的步骤。 说到Cline这个编程Agent，可能接触Vibe Coding不是太多的小伙伴不大熟悉，它最早是以VSCode插件的形式推出，在开发者社区享有一定的知名度。 Cline老马没记错的",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6473958.html",
-      "title": "a16z对谈Vals联创：公开刷榜成了大厂最大的遮羞布，AI评测急需独立机构",
-      "summary": "模型发布越来越频繁，榜单分数越来越高，但「这些模型究竟进步了多少、能创造多少价值」越来越难回答。a16z 这场对谈里，Vals 联合创始人 Rayan 举了个案例：Llama 4 在主要公开 Benchmark 上亮眼，保密测试中却低于预期。 模型发布越来越频繁，排行榜上的分数也越来越高，但一个更基本的问题正在变得难以回答：这些模型究竟进步了多少，又能在真实工作中创造多少价值？ 在这场访谈中，AI 评测公司 Vals 联合创始人 Ray",
-      "publishedAt": "2026-10-07T06:52:55.000Z",
-      "url": "https://www.woshipm.com/ai/6473958.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6474509.html",
+      "title": "中美大模型差距重新拉大了？",
+      "summary": "斯坦福《2026年AI指数报告》里，中美顶尖模型的差距一度只有2.7%；但2026年下半年形势反转：Anthropic 凭 Opus 5.5 收复口碑，OpenAI 与谷歌各有起伏，Meta 靠 Muse 强势反弹，而国内几家头部产品这段时间显得格外安静。 2026年4月，斯坦福大学发布的《2026年AI指数报告》给出另一组数据：截至2026年3月，美国顶尖模型Claude Opus 4.6的Elo评分为1503，中国顶尖模型紧随其后，",
+      "publishedAt": "2026-10-08T02:07:06.000Z",
+      "url": "https://www.woshipm.com/ai/6474509.html",
       "linkKind": "original",
       "opportunity": {
         "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
@@ -202,11 +163,52 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6473958.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6474509.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "模型发布越来越频繁，榜单分数越来越高，但「这些模型究竟进步了多少、能创造多少价值」越来越难回答。a16z 这场对谈里，Vals 联合创始人 Rayan 举了个案例：Llama 4 在主要公开 Benchmark 上亮眼，保密测试中却低于预期。 模型发布越来越频繁，排行榜上的分数也越来越高，但一个更基本的问题正在变得难以回答：这些模型究竟进步了多少，又能在真实工作中创造多少价值？ 在这场访谈中，AI 评测公司 Vals 联合创始人 Ray",
+      "brief": "斯坦福《2026年AI指数报告》里，中美顶尖模型的差距一度只有2.7%；但2026年下半年形势反转：Anthropic 凭 Opus 5.5 收复口碑，OpenAI 与谷歌各有起伏，Meta 靠 Muse 强势反弹，而国内几家头部产品这段时间显得格外安静。 2026年4月，斯坦福大学发布的《2026年AI指数报告》给出另一组数据：截至2026年3月，美国顶尖模型Claude Opus 4.6的Elo评分为1503，中国顶尖模型紧随其后，",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6474303.html",
+      "title": "开源大模型推理卷上新高度，GLM-5.3 在英伟达 GB200 上飙出 100 tok/s",
+      "summary": "开源大模型的竞争正从参数规模转向推理底座。Prime Intellect 开源了生产级推理平台 Prime Inference，靠 Prefill/Decode 物理分离与 NVFP4 显存压缩，让 GLM-5.3 在 GB200 上跑出每秒 100 Token。 平时大家聊开源大模型，注意力往往全放在模型参数有多大、榜单刷了多少分上，真到了实际把模型拉出来跑 Agent 的生产环境，很多人立刻傻眼：多轮长会话一挂，并发稍微一拉高，首字",
+      "publishedAt": "2026-10-08T01:30:31.000Z",
+      "url": "https://www.woshipm.com/ai/6474303.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6474303.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "开源大模型的竞争正从参数规模转向推理底座。Prime Intellect 开源了生产级推理平台 Prime Inference，靠 Prefill/Decode 物理分离与 NVFP4 显存压缩，让 GLM-5.3 在 GB200 上跑出每秒 100 Token。 平时大家聊开源大模型，注意力往往全放在模型参数有多大、榜单刷了多少分上，真到了实际把模型拉出来跑 Agent 的生产环境，很多人立刻傻眼：多轮长会话一挂，并发稍微一拉高，首字",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -451,46 +453,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/post/114945",
-      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-      "summary": "祝你旅途顺遂，假期自由。",
-      "publishedAt": "2026-09-30T03:02:18.000Z",
-      "url": "https://sspai.com/post/114945",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/post/114945",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "祝你旅途顺遂，假期自由。",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": true,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"
     },
     {

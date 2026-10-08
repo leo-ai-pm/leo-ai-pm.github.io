@@ -296,11 +296,12 @@
           }
         }
       ],
-      "checkedAt": "2026-10-07T23:45:43.421Z",
+      "status": "error",
+      "nextCheckAt": 1791429323911,
+      "checkedAt": "2026-10-08T03:00:23.911Z",
       "lastSuccessAt": "2026-10-07T23:45:43.421Z",
-      "nextCheckAt": 1791417643421,
-      "status": "ok",
-      "failures": 0,
+      "failures": 1,
+      "message": "暂时无法读取，已保留上次内容，稍后自动重试。",
       "avatar": {
         "name": "阿真Irene",
         "asset": "/assets/identities/creator_irene.jpg",
@@ -609,9 +610,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-07T23:45:43.557Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.557Z",
-      "nextCheckAt": 1791417643557,
+      "checkedAt": "2026-10-08T03:00:24.018Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.018Z",
+      "nextCheckAt": 1791429324018,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -925,9 +926,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-07T23:45:43.559Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.559Z",
-      "nextCheckAt": 1791417643559,
+      "checkedAt": "2026-10-08T03:00:24.019Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.019Z",
+      "nextCheckAt": 1791429324019,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1242,9 +1243,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-07T23:45:43.769Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.769Z",
-      "nextCheckAt": 1791417643769,
+      "checkedAt": "2026-10-08T03:00:24.390Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.390Z",
+      "nextCheckAt": 1791429324390,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1564,9 +1565,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-07T23:45:43.781Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.781Z",
-      "nextCheckAt": 1791417643781,
+      "checkedAt": "2026-10-08T03:00:24.411Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.411Z",
+      "nextCheckAt": 1791429324411,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1877,9 +1878,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-07T23:45:43.806Z",
-      "lastSuccessAt": "2026-10-07T23:45:43.806Z",
-      "nextCheckAt": 1791417643806,
+      "checkedAt": "2026-10-08T03:00:24.651Z",
+      "lastSuccessAt": "2026-10-08T03:00:24.651Z",
+      "nextCheckAt": 1791429324651,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1898,6 +1899,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1791417643421,
+  "nextCheckAt": 1791429323911,
   "refreshing": false
 }
