@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-08T10:23:25.226Z",
-      "lastSuccessAt": "2026-10-08T10:23:25.226Z",
-      "nextCheckAt": 1791458605226,
+      "checkedAt": "2026-10-08T17:34:02.417Z",
+      "lastSuccessAt": "2026-10-08T17:34:02.417Z",
+      "nextCheckAt": 1791484442417,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-08T10:23:25.227Z",
-      "lastSuccessAt": "2026-10-08T10:23:25.227Z",
-      "nextCheckAt": 1791458605227,
       "status": "ok",
+      "nextCheckAt": 1791484442418,
+      "checkedAt": "2026-10-08T17:34:02.418Z",
+      "lastSuccessAt": "2026-10-08T17:34:02.418Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-08T10:23:25.228Z",
-      "lastSuccessAt": "2026-10-08T10:23:25.228Z",
-      "nextCheckAt": 1791458605228,
+      "checkedAt": "2026-10-08T17:34:02.419Z",
+      "lastSuccessAt": "2026-10-08T17:34:02.419Z",
+      "nextCheckAt": 1791484442419,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-08T17:34:02.644Z",
+      "lastSuccessAt": "2026-10-08T17:34:02.644Z",
+      "nextCheckAt": 1791484442644,
       "status": "ok",
-      "nextCheckAt": 1791458605474,
-      "checkedAt": "2026-10-08T10:23:25.474Z",
-      "lastSuccessAt": "2026-10-08T10:23:25.474Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791458605226,
+  "nextCheckAt": 1791484442417,
   "refreshing": false,
   "items": [
     {
@@ -375,7 +375,7 @@
       "platform": "英文官方博客",
       "brief": "API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
@@ -415,7 +415,7 @@
       "platform": "英文官方博客",
       "brief": "An LLM knowledge graph and vector RAG ground models differently. See when to use each, how to build a knowledge graph from text, and how to run both smoothly.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
