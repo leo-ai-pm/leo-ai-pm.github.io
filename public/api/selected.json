@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-08T03:00:54.033Z",
+  "checkedAt": "2026-10-08T10:23:52.042Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "yyba9bpxdtqdpqmv739d26ftg",
+      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+      "reason": "原文给出了完整基准数据和兼容性测试结果，读者可以据此评估这个 Rust 版 TypeScript 检查器是否适合接入现有项目。",
+      "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://github.com/pingdotgg/ts-rust",
+      "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+      "publishedAt": "2026-10-08T00:46:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "zdgw2hhfjitur1qmeuminh3lm",
+      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+      "reason": "",
+      "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2108040921044639779",
+      "aihotUrl": "https://aihot.news/items/zdgw2hhfjitur1qmeuminh3lm",
+      "publishedAt": "2026-10-08T03:44:55.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "tyhn4y95ez3mvj0p7xovpaq61",
       "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
@@ -110,14 +138,14 @@
       "unselected": false
     },
     {
-      "id": "r8dupnljjbgk9r9lio9w0o6u6",
-      "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43",
-      "reason": "评测方给出 Haiku 5.5 在智能指数、token 用量和多个基准上的具体数据，可与同档小模型直接对比选型。",
-      "summary": "Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。",
-      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-      "sourceUrl": "https://x.com/ArtificialAnlys/status/2107911905822351609",
-      "aihotUrl": "https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6",
-      "publishedAt": "2026-10-07T19:12:16.000Z",
+      "id": "ms4yfg2a6aiqlzrqm0u4eedyh",
+      "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 评测得分 43",
+      "reason": "原文给出 Haiku 5.5 的跑分、token 消耗与分层定价细节，并指出 token 用量偏高和拒绝率问题，可作为选型参考。",
+      "summary": "Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis Intelligence Index 得 43 分，较上一代 Haiku 一年内提升 26 分，是首个支持 effort 设置与 adaptive thinking 的 Haiku 模型。",
+      "sourceName": "Artificial Analysis 完整文章（网页）",
+      "sourceUrl": "https://artificialanalysis.ai/articles/claude-haiku-5-5",
+      "aihotUrl": "https://aihot.news/items/ms4yfg2a6aiqlzrqm0u4eedyh",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -346,46 +374,18 @@
       "category": "paper",
       "categoryLabel": "论文",
       "unselected": false
-    },
-    {
-      "id": "kxqn0rzbtjdxg7ibbjge08tzt",
-      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-      "reason": "Arena 实测数据显示 Mistral Large 4 的编码得分、排名和价格对比，可帮读者评估其性价比位置。",
-      "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2107717155374727602",
-      "aihotUrl": "https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt",
-      "publishedAt": "2026-10-07T06:18:23.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "aj31qyu01hx95ra5sq2f0k5a9",
-      "title": "PromptArmor 解析 WebMCP 的机制与主要安全风险",
-      "reason": "作者从一线威胁情报视角拆解 WebMCP 的机制与治理、提示词注入等新风险，读者可据此评估自身供应商面。",
-      "summary": "PromptArmor 发布 WebMCP 威胁情报解读，介绍 WebMCP 如何让网站向浏览中的智能体提供工具，并指出治理、提示词注入、Web 安全、误配置和操作漂移等新增风险。",
-      "sourceName": "PromptArmor：Threat Intelligence",
-      "sourceUrl": "https://www.promptarmor.com/resources/what-is-webmcp",
-      "aihotUrl": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "week": [
     {
-      "id": "r8dupnljjbgk9r9lio9w0o6u6",
-      "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43",
-      "reason": "评测方给出 Haiku 5.5 在智能指数、token 用量和多个基准上的具体数据，可与同档小模型直接对比选型。",
-      "summary": "Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。",
-      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-      "sourceUrl": "https://x.com/ArtificialAnlys/status/2107911905822351609",
-      "aihotUrl": "https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6",
-      "publishedAt": "2026-10-07T19:12:16.000Z",
+      "id": "ms4yfg2a6aiqlzrqm0u4eedyh",
+      "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 评测得分 43",
+      "reason": "原文给出 Haiku 5.5 的跑分、token 消耗与分层定价细节，并指出 token 用量偏高和拒绝率问题，可作为选型参考。",
+      "summary": "Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis Intelligence Index 得 43 分，较上一代 Haiku 一年内提升 26 分，是首个支持 effort 设置与 adaptive thinking 的 Haiku 模型。",
+      "sourceName": "Artificial Analysis 完整文章（网页）",
+      "sourceUrl": "https://artificialanalysis.ai/articles/claude-haiku-5-5",
+      "aihotUrl": "https://aihot.news/items/ms4yfg2a6aiqlzrqm0u4eedyh",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -490,6 +490,20 @@
       "unselected": false
     },
     {
+      "id": "yyba9bpxdtqdpqmv739d26ftg",
+      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+      "reason": "原文给出了完整基准数据和兼容性测试结果，读者可以据此评估这个 Rust 版 TypeScript 检查器是否适合接入现有项目。",
+      "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://github.com/pingdotgg/ts-rust",
+      "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+      "publishedAt": "2026-10-08T00:46:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "x40bi9csoomsdaflejehop22y",
       "title": "GPT-6 Luna Decisions 上架 OpenRouter",
       "reason": "原文给出 Decisions API 的定价、上下文长度和调用方式，开发者可以直接评估接入成本与场景。",
@@ -588,17 +602,17 @@
       "unselected": false
     },
     {
-      "id": "ponkn6n046yorr5pg1yv3yjm5",
-      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-      "reason": "原文给出了 Max 和 Team 套餐的月度 API 额度金额与适用范围，读者可据此判断是否值得调整现有订阅。",
-      "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。",
-      "sourceName": "X：Claude Devs (@ClaudeDevs)",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2107895957933408429",
-      "aihotUrl": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
-      "publishedAt": "2026-10-07T18:08:53.000Z",
+      "id": "zdgw2hhfjitur1qmeuminh3lm",
+      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+      "reason": "",
+      "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2108040921044639779",
+      "aihotUrl": "https://aihot.news/items/zdgw2hhfjitur1qmeuminh3lm",
+      "publishedAt": "2026-10-08T03:44:55.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -694,20 +708,6 @@
       "sourceUrl": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
       "aihotUrl": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f",
       "publishedAt": "2026-10-05T17:53:35.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "xx5mgdemrqmqw5zw410sbawcz",
-      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
-      "reason": "原文给出 textGrain 的检测数据和局限边界，读者可以据此了解文本水印目前的实际能力和适用条件。",
-      "summary": "OpenAI 公布应对 EU AI Act 的文本水印方案，发布在模型词选择中加入不可见统计信号的 textGrain 技术，API 客户即日起可对部分模型选择性开启水印，未来数周将在欧盟地区为 ChatGPT 和 Codex 输出添加隐形水印，检测器暂只向获批的研究者和专家机构开放。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/eu-text-provenance",
-      "aihotUrl": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -946,6 +946,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "yyba9bpxdtqdpqmv739d26ftg",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "reason": "原文给出了完整基准数据和兼容性测试结果，读者可以据此评估这个 Rust 版 TypeScript 检查器是否适合接入现有项目。",
+          "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://github.com/pingdotgg/ts-rust",
+          "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+          "publishedAt": "2026-10-08T00:46:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "tyhn4y95ez3mvj0p7xovpaq61",
           "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
           "reason": "原文用三个月随机田野实验区分了AI辅助产出与独立能力变化，给出初级与资深律师分化的具体证据。",
@@ -1014,20 +1028,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "r8dupnljjbgk9r9lio9w0o6u6",
-          "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43",
-          "reason": "评测方给出 Haiku 5.5 在智能指数、token 用量和多个基准上的具体数据，可与同档小模型直接对比选型。",
-          "summary": "Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。",
-          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-          "sourceUrl": "https://x.com/ArtificialAnlys/status/2107911905822351609",
-          "aihotUrl": "https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6",
-          "publishedAt": "2026-10-07T19:12:16.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
         }
       ]
     },
@@ -1037,6 +1037,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "yyba9bpxdtqdpqmv739d26ftg",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "reason": "原文给出了完整基准数据和兼容性测试结果，读者可以据此评估这个 Rust 版 TypeScript 检查器是否适合接入现有项目。",
+          "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://github.com/pingdotgg/ts-rust",
+          "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+          "publishedAt": "2026-10-08T00:46:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "lqyhqdf0u7iksn5ydnpyhk81x",
           "title": "Anthropic 发布 Claude Haiku 5.5，运行成本平均降低约 75%",
@@ -1105,20 +1119,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "jhshh53c18f71tkzk44izbs25",
-          "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
-          "reason": "原文对比了三个新模型在 Coding Agent Index 的成绩和每任务成本，读者可据此权衡性能与价格的组合。",
-          "summary": "Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。",
-          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-          "sourceUrl": "https://x.com/ArtificialAnlys/status/2105814318294114720",
-          "aihotUrl": "https://aihot.news/items/jhshh53c18f71tkzk44izbs25",
-          "publishedAt": "2026-10-02T00:17:12.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]
@@ -1222,6 +1222,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "yyba9bpxdtqdpqmv739d26ftg",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "reason": "原文给出了完整基准数据和兼容性测试结果，读者可以据此评估这个 Rust 版 TypeScript 检查器是否适合接入现有项目。",
+          "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://github.com/pingdotgg/ts-rust",
+          "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+          "publishedAt": "2026-10-08T00:46:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
+          "id": "zdgw2hhfjitur1qmeuminh3lm",
+          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+          "reason": "",
+          "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "sourceUrl": "https://x.com/thsottiaux/status/2108040921044639779",
+          "aihotUrl": "https://aihot.news/items/zdgw2hhfjitur1qmeuminh3lm",
+          "publishedAt": "2026-10-08T03:44:55.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "x40bi9csoomsdaflejehop22y",
           "title": "GPT-6 Luna Decisions 上架 OpenRouter",
           "reason": "原文给出 Decisions API 的定价、上下文长度和调用方式，开发者可以直接评估接入成本与场景。",
@@ -1276,34 +1304,6 @@
           "category": "paper",
           "categoryLabel": "论文",
           "unselected": false
-        },
-        {
-          "id": "hye210jt0h75h9t4dgf4rveow",
-          "title": "LlamaIndex 发布 OpenDocRouter：一个 API 统一调用多种文档解析模型",
-          "reason": "原文给出各模型在 ParseBench 上的质量与每千页成本对比，以及统一 layout 输出和按 token 计费细节，便于开发者选型。",
-          "summary": "LlamaIndex 推出 OpenDocRouter 平台，通过统一 API 将文档（PDF、PNG、JPEG 或 URL）解析为 markdown，接入 Claude Opus 5.5、Gemini 3 Flash、GPT-6 Luna 等 5 个前沿模型和 MinerU2.5-Pro、PaddleOCR-VL-1.6 等 5 个开源模型。",
-          "sourceName": "LlamaIndex：产品、工程与评测",
-          "sourceUrl": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
-          "aihotUrl": "https://aihot.news/items/hye210jt0h75h9t4dgf4rveow",
-          "publishedAt": "2026-10-06T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "yk3grmalszldrwd1p8bxk0cki",
-          "title": "a16z 解析德州为何让数据中心排队等电",
-          "reason": "原文用并网队列、自备电源和灵活性三条线索拆解德州数据中心限电的成因，帮助读者理解 AI 电力瓶颈的真实结构。",
-          "summary": "a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。",
-          "sourceName": "a16z：News（RSS）",
-          "sourceUrl": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-          "aihotUrl": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-          "publishedAt": "2026-10-07T14:01:44.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1313,6 +1313,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "yyba9bpxdtqdpqmv739d26ftg",
+          "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+          "reason": "原文给出了完整基准数据和兼容性测试结果，读者可以据此评估这个 Rust 版 TypeScript 检查器是否适合接入现有项目。",
+          "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://github.com/pingdotgg/ts-rust",
+          "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+          "publishedAt": "2026-10-08T00:46:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "m3vyz2bex4i58vffqfx586u3h",
           "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
@@ -1328,14 +1342,14 @@
           "unselected": false
         },
         {
-          "id": "r8dupnljjbgk9r9lio9w0o6u6",
-          "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43",
-          "reason": "评测方给出 Haiku 5.5 在智能指数、token 用量和多个基准上的具体数据，可与同档小模型直接对比选型。",
-          "summary": "Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。",
-          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-          "sourceUrl": "https://x.com/ArtificialAnlys/status/2107911905822351609",
-          "aihotUrl": "https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6",
-          "publishedAt": "2026-10-07T19:12:16.000Z",
+          "id": "ms4yfg2a6aiqlzrqm0u4eedyh",
+          "title": "Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 评测得分 43",
+          "reason": "原文给出 Haiku 5.5 的跑分、token 消耗与分层定价细节，并指出 token 用量偏高和拒绝率问题，可作为选型参考。",
+          "summary": "Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis Intelligence Index 得 43 分，较上一代 Haiku 一年内提升 26 分，是首个支持 effort 设置与 adaptive thinking 的 Haiku 模型。",
+          "sourceName": "Artificial Analysis 完整文章（网页）",
+          "sourceUrl": "https://artificialanalysis.ai/articles/claude-haiku-5-5",
+          "aihotUrl": "https://aihot.news/items/ms4yfg2a6aiqlzrqm0u4eedyh",
+          "publishedAt": "2026-10-06T16:00:00.000Z",
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
@@ -1381,20 +1395,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "lqyhqdf0u7iksn5ydnpyhk81x",
-          "title": "Anthropic 发布 Claude Haiku 5.5，运行成本平均降低约 75%",
-          "reason": "官方发布了定价、基准成绩与订阅 API 额度变化，读者可以据此评估小模型在低成本智能体任务中的适用场景。",
-          "summary": "Anthropic 发布 Claude Haiku 5.5，定位为迄今最便宜、最快的小模型，适合摘要、压缩、数据库查询、分类等高吞吐任务，并可搭配 Opus 5.5 和 Sonnet 5.5 担任编码子智能体。",
-          "sourceName": "Anthropic：Newsroom（网页）",
-          "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5",
-          "aihotUrl": "https://aihot.news/items/lqyhqdf0u7iksn5ydnpyhk81x",
-          "publishedAt": "2026-10-06T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]

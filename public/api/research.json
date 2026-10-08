@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-08T03:00:24.020Z",
-      "lastSuccessAt": "2026-10-08T03:00:24.020Z",
-      "nextCheckAt": 1791432024020,
+      "checkedAt": "2026-10-08T10:23:25.226Z",
+      "lastSuccessAt": "2026-10-08T10:23:25.226Z",
+      "nextCheckAt": 1791458605226,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-08T03:00:24.021Z",
-      "lastSuccessAt": "2026-10-08T03:00:24.021Z",
-      "nextCheckAt": 1791432024021,
+      "checkedAt": "2026-10-08T10:23:25.227Z",
+      "lastSuccessAt": "2026-10-08T10:23:25.227Z",
+      "nextCheckAt": 1791458605227,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-08T03:00:24.022Z",
-      "lastSuccessAt": "2026-10-08T03:00:24.022Z",
-      "nextCheckAt": 1791432024022,
+      "checkedAt": "2026-10-08T10:23:25.228Z",
+      "lastSuccessAt": "2026-10-08T10:23:25.228Z",
+      "nextCheckAt": 1791458605228,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791432024222,
-      "checkedAt": "2026-10-08T03:00:24.222Z",
-      "lastSuccessAt": "2026-10-08T03:00:24.222Z",
+      "nextCheckAt": 1791458605474,
+      "checkedAt": "2026-10-08T10:23:25.474Z",
+      "lastSuccessAt": "2026-10-08T10:23:25.474Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,60 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791432024020,
+  "nextCheckAt": 1791458605226,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6474512.html",
-      "title": "Qwen3.8-27B 彻底成神了：Perplexity拿它改出最强开源决策大模型，可本地部署！",
-      "summary": "Perplexity 悄悄放出 27B 的 pplx-decider-v1.1-27b，底座又是 Qwen3.8-27B。它不聊天、不写代码，只做判断：读入文本或图片，按预设问题与候选项直接给出结果与置信度。一个开放权重能自托管，一个按量付费。 Perplexity 悄悄放了个 27B 模型：pplx-decider-v1.1-27b 我进模型卡一看，底座又是 Qwen3.8-27B 最近我已经写了好几篇 Qwen3.8-27B 的魔改",
-      "publishedAt": "2026-10-08T02:09:10.000Z",
-      "url": "https://www.woshipm.com/ai/6474512.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6474922.html",
+      "title": "关了电脑还在替你干活：Personal Agent的技术内核与医疗落地",
+      "summary": "当急诊医生关掉电脑，AI仍在替他写病历、排随访——这不是科幻，而是Personal Agent（个人智能体）的日常。它和聊天机器人最本质的区别是：你合上电脑，它还在干活。本文以医疗场景为试金石，拆解分层记忆、MCP协议、权限分级三大技术支柱，并对比OpenAI Dots、Gemini Spark等四款产品，揭示这场AI产品革命的真正内核。 急诊医生Haroun Zayed走出渥太华医院急诊室的时候，已经是夜里十点。八个小时的班次里他接诊",
+      "publishedAt": "2026-10-08T07:22:42.000Z",
+      "url": "https://www.woshipm.com/ai/6474922.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Perplexity",
-            "asset": "/assets/identities/perplexity_ai.jpg",
-            "assetSource": "https://x.com/perplexity_ai",
-            "tone": "#dcebea"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6474512.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Perplexity 悄悄放出 27B 的 pplx-decider-v1.1-27b，底座又是 Qwen3.8-27B。它不聊天、不写代码，只做判断：读入文本或图片，按预设问题与候选项直接给出结果与置信度。一个开放权重能自托管，一个按量付费。 Perplexity 悄悄放了个 27B 模型：pplx-decider-v1.1-27b 我进模型卡一看，底座又是 Qwen3.8-27B 最近我已经写了好几篇 Qwen3.8-27B 的魔改",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6474509.html",
-      "title": "中美大模型差距重新拉大了？",
-      "summary": "斯坦福《2026年AI指数报告》里，中美顶尖模型的差距一度只有2.7%；但2026年下半年形势反转：Anthropic 凭 Opus 5.5 收复口碑，OpenAI 与谷歌各有起伏，Meta 靠 Muse 强势反弹，而国内几家头部产品这段时间显得格外安静。 2026年4月，斯坦福大学发布的《2026年AI指数报告》给出另一组数据：截至2026年3月，美国顶尖模型Claude Opus 4.6的Elo评分为1503，中国顶尖模型紧随其后，",
-      "publishedAt": "2026-10-08T02:07:06.000Z",
-      "url": "https://www.woshipm.com/ai/6474509.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -163,23 +122,23 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6474509.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6474922.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "斯坦福《2026年AI指数报告》里，中美顶尖模型的差距一度只有2.7%；但2026年下半年形势反转：Anthropic 凭 Opus 5.5 收复口碑，OpenAI 与谷歌各有起伏，Meta 靠 Muse 强势反弹，而国内几家头部产品这段时间显得格外安静。 2026年4月，斯坦福大学发布的《2026年AI指数报告》给出另一组数据：截至2026年3月，美国顶尖模型Claude Opus 4.6的Elo评分为1503，中国顶尖模型紧随其后，",
+      "brief": "当急诊医生关掉电脑，AI仍在替他写病历、排随访——这不是科幻，而是Personal Agent（个人智能体）的日常。它和聊天机器人最本质的区别是：你合上电脑，它还在干活。本文以医疗场景为试金石，拆解分层记忆、MCP协议、权限分级三大技术支柱，并对比OpenAI Dots、Gemini Spark等四款产品，揭示这场AI产品革命的真正内核。 急诊医生Haroun Zayed走出渥太华医院急诊室的时候，已经是夜里十点。八个小时的班次里他接诊",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6474303.html",
-      "title": "开源大模型推理卷上新高度，GLM-5.3 在英伟达 GB200 上飙出 100 tok/s",
-      "summary": "开源大模型的竞争正从参数规模转向推理底座。Prime Intellect 开源了生产级推理平台 Prime Inference，靠 Prefill/Decode 物理分离与 NVFP4 显存压缩，让 GLM-5.3 在 GB200 上跑出每秒 100 Token。 平时大家聊开源大模型，注意力往往全放在模型参数有多大、榜单刷了多少分上，真到了实际把模型拉出来跑 Agent 的生产环境，很多人立刻傻眼：多轮长会话一挂，并发稍微一拉高，首字",
-      "publishedAt": "2026-10-08T01:30:31.000Z",
-      "url": "https://www.woshipm.com/ai/6474303.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6474734.html",
+      "title": "关于 AI Agent、信任与决策权的 100 条",
+      "summary": "硅谷公司 Instinct 只有 14 个人，估值却做到 100 亿美元。它不靠更漂亮的 App，而是把 App 藏起来，让 AI 直接替你订机票、改酒店、处理邮件，从「给答案」变成「替你做」。它还盯上了一笔早已存在的钱：旅行的需求分发费。 一、十四个人，一百亿美元 1、最近硅谷有一家叫 Instinct 的公司，很适合拿来观察 AI 应用层正在发生什么。Instinct 成立于 2025 年，创始人 Noah Shinn 只有 23",
+      "publishedAt": "2026-10-08T06:14:32.000Z",
+      "url": "https://www.woshipm.com/ai/6474734.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -189,10 +148,9 @@
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -204,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6474303.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6474734.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "开源大模型的竞争正从参数规模转向推理底座。Prime Intellect 开源了生产级推理平台 Prime Inference，靠 Prefill/Decode 物理分离与 NVFP4 显存压缩，让 GLM-5.3 在 GB200 上跑出每秒 100 Token。 平时大家聊开源大模型，注意力往往全放在模型参数有多大、榜单刷了多少分上，真到了实际把模型拉出来跑 Agent 的生产环境，很多人立刻傻眼：多轮长会话一挂，并发稍微一拉高，首字",
+      "brief": "硅谷公司 Instinct 只有 14 个人，估值却做到 100 亿美元。它不靠更漂亮的 App，而是把 App 藏起来，让 AI 直接替你订机票、改酒店、处理邮件，从「给答案」变成「替你做」。它还盯上了一笔早已存在的钱：旅行的需求分发费。 一、十四个人，一百亿美元 1、最近硅谷有一家叫 Instinct 的公司，很适合拿来观察 AI 应用层正在发生什么。Instinct 成立于 2025 年，创始人 Noah Shinn 只有 23",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -216,51 +174,11 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/reika",
-      "title": "Reika",
-      "summary": "A coding agent CLI designed around small local models first",
-      "publishedAt": "2026-10-07T03:36:08.000Z",
-      "url": "https://www.producthunt.com/products/reika",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/reika",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "A coding agent CLI designed around small local models first",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/figma",
-      "title": "Figma Agent",
-      "summary": "Prompt, edit and prototype without leaving the canvas",
-      "publishedAt": "2026-10-06T14:29:06.000Z",
-      "url": "https://www.producthunt.com/products/figma",
+      "id": "ph:https://www.producthunt.com/products/clawcall",
+      "title": "ClawCall",
+      "summary": "Your AI agent's phone to dial, hold, and reports back",
+      "publishedAt": "2026-10-08T05:27:12.000Z",
+      "url": "https://www.producthunt.com/products/clawcall",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -284,23 +202,23 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/figma",
+      "sourceUrl": "https://www.producthunt.com/products/clawcall",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Prompt, edit and prototype without leaving the canvas",
+      "brief": "Your AI agent's phone to dial, hold, and reports back",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/sunsed",
-      "title": "SunSed",
-      "summary": "The first AI app builder with a language made for AI",
-      "publishedAt": "2026-10-06T07:48:03.000Z",
-      "url": "https://www.producthunt.com/products/sunsed",
+      "id": "ph:https://www.producthunt.com/products/pmtui",
+      "title": "pmtui",
+      "summary": "Autopilot for long-running AI sessions in terminal",
+      "publishedAt": "2026-10-08T04:13:17.000Z",
+      "url": "https://www.producthunt.com/products/pmtui",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -324,11 +242,58 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/sunsed",
+      "sourceUrl": "https://www.producthunt.com/products/pmtui",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "The first AI app builder with a language made for AI",
+      "brief": "Autopilot for long-running AI sessions in terminal",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/claude-for-google-workspace",
+      "title": "Claude for Google Workspace",
+      "summary": "Bring Claude directly into Google Docs, Sheets & Slides",
+      "publishedAt": "2026-10-08T02:20:15.000Z",
+      "url": "https://www.producthunt.com/products/claude-for-google-workspace",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          },
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/claude-for-google-workspace",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Bring Claude directly into Google Docs, Sheets & Slides",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
