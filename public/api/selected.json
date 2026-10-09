@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-09T02:29:26.335Z",
+  "checkedAt": "2026-10-09T09:32:26.475Z",
   "message": "",
   "categories": [
     {
@@ -26,17 +26,31 @@
   ],
   "today": [
     {
-      "id": "f3doqdpq8n9mpmqc95jdyaxq0",
-      "title": "Tibo 宣布发布 ChatGPT",
-      "reason": "",
-      "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2108349826727588000",
-      "aihotUrl": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
-      "publishedAt": "2026-10-09T00:12:24.000Z",
+      "id": "uceike4yt1on0k7sj37f9nfeh",
+      "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+      "reason": "OpenAI 官方回应离职争议，澄清解雇与提出安全担忧无关，并公布第三方安全评估合作进展。",
+      "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。",
+      "sourceName": "X：OpenAI Newsroom (@OpenAINewsroom)",
+      "sourceUrl": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "aihotUrl": "https://aihot.news/items/uceike4yt1on0k7sj37f9nfeh",
+      "publishedAt": "2026-10-09T06:17:00.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "y9clkoyn1giula1pc7pkb9qxd",
+      "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+      "reason": "Arena 用 Agent Arena 实测数据给出 Mistral Large 4 的排名与分数，可对照其官方发布信息核实模型实际表现。",
+      "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2108405474391728357",
+      "aihotUrl": "https://aihot.news/items/y9clkoyn1giula1pc7pkb9qxd",
+      "publishedAt": "2026-10-09T03:53:32.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
       "unselected": false
     },
     {
@@ -349,9 +363,9 @@
     },
     {
       "id": "cal34hameqt3bh6d52vaqt58v",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-      "reason": "原文梳理了 Zenity 演示的完整攻击链和 AWS 此后的权限收紧，读者可以据此评估自己云端智能体的隔离与最小权限配置。",
-      "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+      "reason": "原文完整还原了攻击链、AWS 的修复时间线和最小权限权衡，对评估云端 Agent 部署风险有直接参考价值。",
+      "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
       "sourceName": "The Decoder：AI News（RSS）",
       "sourceUrl": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
       "aihotUrl": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
@@ -388,37 +402,23 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "yyba9bpxdtqdpqmv739d26ftg",
-      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
-      "reason": "原文给出了完整基准数据和兼容性测试结果，读者可以据此评估这个 Rust 版 TypeScript 检查器是否适合接入现有项目。",
-      "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
-      "sourceName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://github.com/pingdotgg/ts-rust",
-      "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
-      "publishedAt": "2026-10-08T00:46:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "zdgw2hhfjitur1qmeuminh3lm",
-      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-      "reason": "",
-      "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2108040921044639779",
-      "aihotUrl": "https://aihot.news/items/zdgw2hhfjitur1qmeuminh3lm",
-      "publishedAt": "2026-10-08T03:44:55.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "y9clkoyn1giula1pc7pkb9qxd",
+      "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+      "reason": "Arena 用 Agent Arena 实测数据给出 Mistral Large 4 的排名与分数，可对照其官方发布信息核实模型实际表现。",
+      "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2108405474391728357",
+      "aihotUrl": "https://aihot.news/items/y9clkoyn1giula1pc7pkb9qxd",
+      "publishedAt": "2026-10-09T03:53:32.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "jxxgoidojk52fkcs2fz0fkjzy",
       "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
@@ -515,34 +515,6 @@
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "g1k2ragppm8j4apj75qu1k4ug",
-      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-      "reason": "官方发布给出参数量、内存占用、维度裁剪和基准分数等具体细节，读者可据此评估端侧多模态嵌入方案的可行性。",
-      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "aihotUrl": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
-      "publishedAt": "2026-10-06T19:57:04.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "f3doqdpq8n9mpmqc95jdyaxq0",
-      "title": "Tibo 宣布发布 ChatGPT",
-      "reason": "",
-      "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2108349826727588000",
-      "aihotUrl": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
-      "publishedAt": "2026-10-09T00:12:24.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
       "unselected": false
     },
     {
@@ -644,6 +616,34 @@
       "unselected": false
     },
     {
+      "id": "m3vyz2bex4i58vffqfx586u3h",
+      "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
+      "reason": "原文详解了 Deep Agents 技能机制的三项升级和加载原理，读者可以据此评估大规模技能库的上下文管理方案。",
+      "summary": "LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。",
+      "sourceName": "LangChain：Blog（RSS）",
+      "sourceUrl": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
+      "aihotUrl": "https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h",
+      "publishedAt": "2026-10-07T18:49:50.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "uceike4yt1on0k7sj37f9nfeh",
+      "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+      "reason": "OpenAI 官方回应离职争议，澄清解雇与提出安全担忧无关，并公布第三方安全评估合作进展。",
+      "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。",
+      "sourceName": "X：OpenAI Newsroom (@OpenAINewsroom)",
+      "sourceUrl": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "aihotUrl": "https://aihot.news/items/uceike4yt1on0k7sj37f9nfeh",
+      "publishedAt": "2026-10-09T06:17:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "i6n4yv4zs813h6lvir1el1es2",
       "title": "Anthropic 推出 Cyber Mission，发布 Critical Infrastructure Defense Program 和 OSS Scanner",
       "reason": "原文详述 CIDP 与 OSS Scanner 的运作方式、合作方和已知局限，读者可以了解 Anthropic 如何用模型支持关键基础设施和开源防御。",
@@ -742,20 +742,6 @@
       "unselected": false
     },
     {
-      "id": "p95hk44dfpkogo2v4rgwvxq30",
-      "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
-      "reason": "原文给出 Arena 的融资额、估值和社区规模数字，可帮读者了解这家 AI 评测公司的业务量级和新推出的 Alignment Index。",
-      "summary": "Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2108243026741248348",
-      "aihotUrl": "https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30",
-      "publishedAt": "2026-10-08T17:08:01.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
       "id": "ja19mtm89yojd9w2u67qp1gqv",
       "title": "Goodfire 为 Kimi K3 和 GLM 5.3 训练并部署生产级网络安全监控器",
       "reason": "原文给出监控级联的完整数据、成本和部署细节，读者可以据此评估实时监控开放模型智能体的可行做法。",
@@ -771,9 +757,9 @@
     },
     {
       "id": "cal34hameqt3bh6d52vaqt58v",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-      "reason": "原文梳理了 Zenity 演示的完整攻击链和 AWS 此后的权限收紧，读者可以据此评估自己云端智能体的隔离与最小权限配置。",
-      "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+      "reason": "原文完整还原了攻击链、AWS 的修复时间线和最小权限权衡，对评估云端 Agent 部署风险有直接参考价值。",
+      "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
       "sourceName": "The Decoder：AI News（RSS）",
       "sourceUrl": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
       "aihotUrl": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
@@ -988,6 +974,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "y9clkoyn1giula1pc7pkb9qxd",
+          "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+          "reason": "Arena 用 Agent Arena 实测数据给出 Mistral Large 4 的排名与分数，可对照其官方发布信息核实模型实际表现。",
+          "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+          "sourceName": "X：Arena (@arena)",
+          "sourceUrl": "https://x.com/arena/status/2108405474391728357",
+          "aihotUrl": "https://aihot.news/items/y9clkoyn1giula1pc7pkb9qxd",
+          "publishedAt": "2026-10-09T03:53:32.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "myoe16r78gjt87vu92995zsae",
           "title": "Block 如何用 Claude Fable 编排数千个 pull request 的代码迁移",
           "reason": "Block 负责 AI 能力的负责人详述 Fable 编排多模型跑大规模迁移的做法与双审批安全机制，读者可对照自身团队的智能体工程实践。",
@@ -1055,20 +1055,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "col84h6b3pdq383v6iuju3a9v",
-          "title": "Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障",
-          "reason": "原文给出五阶段流水线、验证机制和实测修复数据，读者可了解生产环境智能体质量监控如何落地。",
-          "summary": "Google 发布并开源 AQuA（Ambient Quality Agent），在 Google Cloud 项目中定时从 Cloud Trace、Cloud Logging 或 BigQuery 抽取生产会话，经抽样、评审、聚类、验证、跟踪五阶段流水线诊断 Agent 失败。",
-          "sourceName": "Google Developers Blog（RSS）",
-          "sourceUrl": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
-          "aihotUrl": "https://aihot.news/items/col84h6b3pdq383v6iuju3a9v",
-          "publishedAt": "2026-10-08T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
@@ -1264,17 +1250,17 @@
       "unselected": false,
       "items": [
         {
-          "id": "f3doqdpq8n9mpmqc95jdyaxq0",
-          "title": "Tibo 宣布发布 ChatGPT",
-          "reason": "",
-          "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。",
-          "sourceName": "X：Tibo (@thsottiaux)",
-          "sourceUrl": "https://x.com/thsottiaux/status/2108349826727588000",
-          "aihotUrl": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
-          "publishedAt": "2026-10-09T00:12:24.000Z",
+          "id": "uceike4yt1on0k7sj37f9nfeh",
+          "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+          "reason": "OpenAI 官方回应离职争议，澄清解雇与提出安全担忧无关，并公布第三方安全评估合作进展。",
+          "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。",
+          "sourceName": "X：OpenAI Newsroom (@OpenAINewsroom)",
+          "sourceUrl": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+          "aihotUrl": "https://aihot.news/items/uceike4yt1on0k7sj37f9nfeh",
+          "publishedAt": "2026-10-09T06:17:00.000Z",
           "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
+          "category": "industry",
+          "categoryLabel": "行业",
           "unselected": false
         },
         {
@@ -1335,9 +1321,9 @@
         },
         {
           "id": "cal34hameqt3bh6d52vaqt58v",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "reason": "原文梳理了 Zenity 演示的完整攻击链和 AWS 此后的权限收紧，读者可以据此评估自己云端智能体的隔离与最小权限配置。",
-          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+          "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+          "reason": "原文完整还原了攻击链、AWS 的修复时间线和最小权限权衡，对评估云端 Agent 部署风险有直接参考价值。",
+          "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
           "sourceName": "The Decoder：AI News（RSS）",
           "sourceUrl": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
           "aihotUrl": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",

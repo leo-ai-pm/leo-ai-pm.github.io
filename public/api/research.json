@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-09T02:29:05.459Z",
-      "lastSuccessAt": "2026-10-09T02:29:05.459Z",
-      "nextCheckAt": 1791516545459,
+      "checkedAt": "2026-10-09T09:31:58.055Z",
+      "lastSuccessAt": "2026-10-09T09:31:58.055Z",
+      "nextCheckAt": 1791541918055,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-09T02:29:05.460Z",
-      "lastSuccessAt": "2026-10-09T02:29:05.460Z",
-      "nextCheckAt": 1791516545460,
+      "checkedAt": "2026-10-09T09:31:58.056Z",
+      "lastSuccessAt": "2026-10-09T09:31:58.056Z",
+      "nextCheckAt": 1791541918056,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-09T02:29:05.460Z",
-      "lastSuccessAt": "2026-10-09T02:29:05.460Z",
-      "nextCheckAt": 1791516545460,
+      "checkedAt": "2026-10-09T09:31:58.057Z",
+      "lastSuccessAt": "2026-10-09T09:31:58.057Z",
+      "nextCheckAt": 1791541918057,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791516545618,
-      "checkedAt": "2026-10-09T02:29:05.618Z",
-      "lastSuccessAt": "2026-10-09T02:29:05.618Z",
+      "nextCheckAt": 1791541918381,
+      "checkedAt": "2026-10-09T09:31:58.381Z",
+      "lastSuccessAt": "2026-10-09T09:31:58.381Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,135 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791516545459,
+  "nextCheckAt": 1791541918055,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6475126.html",
-      "title": "关于Personal Agent 和muse领域我的实操经验分享",
-      "summary": "Meta 的 Muse 上线二十二天在美国拿到 500 万下载，是 ChatGPT 当年速度的两倍多。作者把自己做了大半年的个人管家 Butler 摆在一起对照：云端统管，本地端与小程序端两个入口，走出一条与 Muse 相反的路线。 国庆前，Meta 发了一个东西，叫 Muse。 我本来没太当回事。大厂发 Agent 这种事，今年听得耳朵都起茧了。但接下来几天的数据出来，我是真愣了一下。上线二十二天，美国下载量五百万，ChatGPT 当",
-      "publishedAt": "2026-10-09T01:27:17.000Z",
-      "url": "https://www.woshipm.com/ai/6475126.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6475126.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Meta 的 Muse 上线二十二天在美国拿到 500 万下载，是 ChatGPT 当年速度的两倍多。作者把自己做了大半年的个人管家 Butler 摆在一起对照：云端统管，本地端与小程序端两个入口，走出一条与 Muse 相反的路线。 国庆前，Meta 发了一个东西，叫 Muse。 我本来没太当回事。大厂发 Agent 这种事，今年听得耳朵都起茧了。但接下来几天的数据出来，我是真愣了一下。上线二十二天，美国下载量五百万，ChatGPT 当",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6475120.html",
-      "title": "对话框不是Personal Agent的终局：Eazo让图形界面属于每个人",
-      "summary": "Muse、dots、Cue 接连上线，Personal Agent 正获得持续运行的环境与数字身份。Eazo 给出另一条路线：自然语言负责生成软件，图形界面承载长期状态，103 个可比任务里其 V5 平均质量得分 88.0。 过去一个月，Personal Agent 正在迅速变成 AI 应用里最拥挤的方向之一。 9 月初，Meta 推出 Muse，为每个 Agent 配备持续运行的 Secure VM 和独立浏览器，让它能够跨网页完成预",
-      "publishedAt": "2026-10-09T01:14:19.000Z",
-      "url": "https://www.woshipm.com/ai/6475120.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6475120.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Muse、dots、Cue 接连上线，Personal Agent 正获得持续运行的环境与数字身份。Eazo 给出另一条路线：自然语言负责生成软件，图形界面承载长期状态，103 个可比任务里其 V5 平均质量得分 88.0。 过去一个月，Personal Agent 正在迅速变成 AI 应用里最拥挤的方向之一。 9 月初，Meta 推出 Muse，为每个 Agent 配备持续运行的 Secure VM 和独立浏览器，让它能够跨网页完成预",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6475118.html",
-      "title": "国产大模型，正在沦为“产品周期股”",
-      "summary": "智谱上市半年市值从518亿港元冲到1.07万亿，又回落近七成；模型发布当天股价平均涨超12%，发布后5个交易日有两次累计涨逾40%。国内大模型的估值节奏，正在向新能源汽车的“产品周期”靠拢。 大模型，可能是这一轮科技行情里最“极端”的资产。 按发行价计算，智谱上市时的市值只有518亿港元。半年之后，这个数字变成了1.07万亿港元，翻了整整20倍！ 但冲上万亿市值之后，智谱很快开始一路向下。截至10月7日，股价已经跌到696港元，距离历史",
-      "publishedAt": "2026-10-09T01:07:14.000Z",
-      "url": "https://www.woshipm.com/ai/6475118.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6475118.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "智谱上市半年市值从518亿港元冲到1.07万亿，又回落近七成；模型发布当天股价平均涨超12%，发布后5个交易日有两次累计涨逾40%。国内大模型的估值节奏，正在向新能源汽车的“产品周期”靠拢。 大模型，可能是这一轮科技行情里最“极端”的资产。 按发行价计算，智谱上市时的市值只有518亿港元。半年之后，这个数字变成了1.07万亿港元，翻了整整20倍！ 但冲上万亿市值之后，智谱很快开始一路向下。截至10月7日，股价已经跌到696港元，距离历史",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/clawcall",
-      "title": "ClawCall",
-      "summary": "Your AI agent's phone to dial, hold, and reports back",
-      "publishedAt": "2026-10-08T05:27:12.000Z",
-      "url": "https://www.producthunt.com/products/clawcall",
+      "id": "ph:https://www.producthunt.com/products/openpilot",
+      "title": "OpenPilot",
+      "summary": "Open-source desktop AI agent for any model you choose",
+      "publishedAt": "2026-10-09T05:53:51.000Z",
+      "url": "https://www.producthunt.com/products/openpilot",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -242,23 +122,144 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/clawcall",
+      "sourceUrl": "https://www.producthunt.com/products/openpilot",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Your AI agent's phone to dial, hold, and reports back",
+      "brief": "Open-source desktop AI agent for any model you choose",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/porch-6",
+      "title": "Porch",
+      "summary": "local project summaries and cost tracking for AI coding",
+      "publishedAt": "2026-10-09T04:53:12.000Z",
+      "url": "https://www.producthunt.com/products/porch-6",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/porch-6",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "local project summaries and cost tracking for AI coding",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/evaluating/6475085.html",
+      "title": "医疗大模型在院内场景的落地路径与产品化难点",
+      "summary": "医疗大模型数量已超352个，但能跑通“部署—使用—付费”闭环的产品依然稀缺。本文基于作者多年医疗数据平台与AI应用落地经验，拆解数据治理、临床信任、工作流嵌入、收费模式四重结构性障碍，并对比讯飞医疗、京东健康、商汤医疗三条突围路径，为院内AI产品化提供实战复盘。 ——一个在医疗软件行业从业多年，从底层数据平台做到医疗AI应用的人，对当前落地困局的复盘 我这些年在医疗行业做过医院信息平台、区域健康信息平台、数据平台、集成平台，也直接负责过",
+      "publishedAt": "2026-10-09T04:05:35.000Z",
+      "url": "https://www.woshipm.com/evaluating/6475085.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6475085.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "医疗大模型数量已超352个，但能跑通“部署—使用—付费”闭环的产品依然稀缺。本文基于作者多年医疗数据平台与AI应用落地经验，拆解数据治理、临床信任、工作流嵌入、收费模式四重结构性障碍，并对比讯飞医疗、京东健康、商汤医疗三条突围路径，为院内AI产品化提供实战复盘。 ——一个在医疗软件行业从业多年，从底层数据平台做到医疗AI应用的人，对当前落地困局的复盘 我这些年在医疗行业做过医院信息平台、区域健康信息平台、数据平台、集成平台，也直接负责过",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6475152.html",
+      "title": "3 个最近爆火的 Personal Agent ，在 GitHub 上有开源平替了。",
+      "summary": "Grok Bot 与 Muse 火起来之后，GitHub 上很快出现了开源平替。Rakazo 能让每个 Bot 拥有独立的对话、记忆与电脑环境，多个 Bot 之间还能互相交派任务；OpenMuse 支持 iOS、Android 与网页端，并带持久化浏览器与定时提醒。 01 Rakazo：Grok Bot 的开源平替 Rakazo 可以搭建持续运行的 AI Bot，每个 Bot 都有自己的对话、记忆、例行任务和工作历史。 你可以给它连接模",
+      "publishedAt": "2026-10-09T02:36:42.000Z",
+      "url": "https://www.woshipm.com/ai/6475152.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "GitHub",
+            "asset": "/assets/identities/github.jpg",
+            "assetSource": "https://x.com/github",
+            "tone": "#e7e6ec"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6475152.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Grok Bot 与 Muse 火起来之后，GitHub 上很快出现了开源平替。Rakazo 能让每个 Bot 拥有独立的对话、记忆与电脑环境，多个 Bot 之间还能互相交派任务；OpenMuse 支持 iOS、Android 与网页端，并带持久化浏览器与定时提醒。 01 Rakazo：Grok Bot 的开源平替 Rakazo 可以搭建持续运行的 AI Bot，每个 Bot 都有自己的对话、记忆、例行任务和工作历史。 你可以给它连接模",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/pmtui",
-      "title": "pmtui",
-      "summary": "Autopilot for long-running AI sessions in terminal",
-      "publishedAt": "2026-10-08T04:13:17.000Z",
-      "url": "https://www.producthunt.com/products/pmtui",
+      "id": "ph:https://www.producthunt.com/products/sorted-6",
+      "title": "Sorted",
+      "summary": "Your private AI file organizer for Mac",
+      "publishedAt": "2026-10-08T22:52:23.000Z",
+      "url": "https://www.producthunt.com/products/sorted-6",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -282,102 +283,15 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/pmtui",
+      "sourceUrl": "https://www.producthunt.com/products/sorted-6",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Autopilot for long-running AI sessions in terminal",
+      "brief": "Your private AI file organizer for Mac",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/claude-for-google-workspace",
-      "title": "Claude for Google Workspace",
-      "summary": "Bring Claude directly into Google Docs, Sheets & Slides",
-      "publishedAt": "2026-10-08T02:20:15.000Z",
-      "url": "https://www.producthunt.com/products/claude-for-google-workspace",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          },
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/claude-for-google-workspace",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Bring Claude directly into Google Docs, Sheets & Slides",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/post/114536",
-      "title": "十个案例助你轻松上手 iOS 27 通知自动化",
-      "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。",
-      "publishedAt": "2026-10-05T02:59:24.000Z",
-      "url": "https://sspai.com/post/114536",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/post/114536",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"
     },
     {
