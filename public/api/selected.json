@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-09T09:32:26.475Z",
+  "checkedAt": "2026-10-09T16:30:15.245Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "o8tu2a2i9r2roqh7un9l5grq2",
+      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+      "reason": "ARC Prize 官方公布 2026 赛季 ARC-AGI-2 高分赛况，88.06% 登顶并触发超过 85% 团队共享的 15 万美元奖金。",
+      "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。",
+      "sourceName": "X：ARC Prize (@arcprize)",
+      "sourceUrl": "https://x.com/arcprize/status/2108578092558250148",
+      "aihotUrl": "https://aihot.news/items/o8tu2a2i9r2roqh7un9l5grq2",
+      "publishedAt": "2026-10-09T15:19:27.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "uceike4yt1on0k7sj37f9nfeh",
       "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
@@ -63,8 +77,8 @@
       "aihotUrl": "https://aihot.news/items/myoe16r78gjt87vu92995zsae",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
+      "category": "opinion",
+      "categoryLabel": "动态",
       "unselected": false
     },
     {
@@ -290,121 +304,23 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "b33i6chgxghls2v7bng0wr0nr",
-      "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
-      "reason": "报告基于封禁账号的第一手分析，披露了两个虚假前臆影响行动的手法与分级，读者可了解 AI 加持下隐蔽宣传的真实运作方式。",
-      "summary": "OpenAI 封禁了两个隐蔽影响行动，俄罗斯来源的 Dark Clark 通过假 persona Mia Clark 控制拉美智库 Social Research Center，评分达 Category 5，是报告以来首个 Category 5；伊朗来源的 Bogus Bylines 用 7 个假记者身份在全球十几家中小媒体投放近 100 篇长文，评分 C…",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "aihotUrl": "https://aihot.news/items/b33i6chgxghls2v7bng0wr0nr",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "ja19mtm89yojd9w2u67qp1gqv",
-      "title": "Goodfire 为 Kimi K3 和 GLM 5.3 训练并部署生产级网络安全监控器",
-      "reason": "原文给出监控级联的完整数据、成本和部署细节，读者可以据此评估实时监控开放模型智能体的可行做法。",
-      "summary": "Goodfire Research 为 Kimi K3 和 GLM 5.3 构建基于激活探针加 LLM judge 的监控级联，并部署到生产推理栈。",
-      "sourceName": "Goodfire Research（网页）",
-      "sourceUrl": "https://www.goodfire.com/research/production-cyber-monitors-on-kimi-k3",
-      "aihotUrl": "https://aihot.news/items/ja19mtm89yojd9w2u67qp1gqv",
-      "publishedAt": "2026-10-07T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "gq8yjkqlcdbpy0l5uc8ch2sj8",
-      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-      "reason": "文章把定时智能体自动化拆成可复用的六个组件，并给出书签、台账和权限等可直接迁移的防错规则。",
-      "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
-      "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "sourceUrl": "https://claude.dev/blog/building-effective-agent-automations/",
-      "aihotUrl": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "p95hk44dfpkogo2v4rgwvxq30",
-      "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
-      "reason": "原文给出 Arena 的融资额、估值和社区规模数字，可帮读者了解这家 AI 评测公司的业务量级和新推出的 Alignment Index。",
-      "summary": "Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2108243026741248348",
-      "aihotUrl": "https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30",
-      "publishedAt": "2026-10-08T17:08:01.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "l31ksvzhwir1pf51leqxjeh07",
-      "title": "Tessl 工程博客：AI 不是笨，是瞎——企业级 Agent 记忆的三个关键设计决策",
-      "reason": "作者以自建系统的一手实测数据说明为何该把记忆当受治理的记录而非存储，三个设计决策和成本数字可直接迁移。",
-      "summary": "作者基于为跨公司工作的 Agent 构建记忆系统一年的经验指出，AI 失败的常见原因不是模型推理差，而是它看不到关键决策上下文，多数 agent memory 只是给瞎子更大的档案柜。",
-      "sourceName": "Tessl：产品与工程博客",
-      "sourceUrl": "https://tessl.io/blog/your-ai-isnt-stupid-its-blind",
-      "aihotUrl": "https://aihot.news/items/l31ksvzhwir1pf51leqxjeh07",
-      "publishedAt": "2026-10-07T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "cal34hameqt3bh6d52vaqt58v",
-      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
-      "reason": "原文完整还原了攻击链、AWS 的修复时间线和最小权限权衡，对评估云端 Agent 部署风险有直接参考价值。",
-      "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
-      "aihotUrl": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
-      "publishedAt": "2026-10-08T13:01:01.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "pl2oa5clmf0gp3t7x3qsn71kc",
-      "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
-      "reason": "官方宣布首笔 50 亿美元债务融资并列出主要贷方，可结合此前的 160 亿美元股权融资了解其资金布局。",
-      "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。",
-      "sourceName": "Waymo：Blog（网页）",
-      "sourceUrl": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
-      "aihotUrl": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "br6vb46mhi9mkv2pxiq59k8z7",
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-      "reason": "原文给出了攻击工具、所用模型和泄露规模等具体细节，可帮助读者认识AI驱动的渗透测试如何放大单人攻击能力。",
-      "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
-      "aihotUrl": "https://aihot.news/items/br6vb46mhi9mkv2pxiq59k8z7",
-      "publishedAt": "2026-10-08T09:24:17.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "o8tu2a2i9r2roqh7un9l5grq2",
+      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+      "reason": "ARC Prize 官方公布 2026 赛季 ARC-AGI-2 高分赛况，88.06% 登顶并触发超过 85% 团队共享的 15 万美元奖金。",
+      "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。",
+      "sourceName": "X：ARC Prize (@arcprize)",
+      "sourceUrl": "https://x.com/arcprize/status/2108578092558250148",
+      "aihotUrl": "https://aihot.news/items/o8tu2a2i9r2roqh7un9l5grq2",
+      "publishedAt": "2026-10-09T15:19:27.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "y9clkoyn1giula1pc7pkb9qxd",
       "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
@@ -498,20 +414,6 @@
       "sourceUrl": "https://x.com/AravSrinivas/status/2107871834205196784",
       "aihotUrl": "https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf",
       "publishedAt": "2026-10-07T16:33:02.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "kxqn0rzbtjdxg7ibbjge08tzt",
-      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-      "reason": "Arena 实测数据显示 Mistral Large 4 的编码得分、排名和价格对比，可帮读者评估其性价比位置。",
-      "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2107717155374727602",
-      "aihotUrl": "https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt",
-      "publishedAt": "2026-10-07T06:18:23.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -854,20 +756,6 @@
       "unselected": false
     },
     {
-      "id": "myoe16r78gjt87vu92995zsae",
-      "title": "Block 如何用 Claude Fable 编排数千个 pull request 的代码迁移",
-      "reason": "Block 负责 AI 能力的负责人详述 Fable 编排多模型跑大规模迁移的做法与双审批安全机制，读者可对照自身团队的智能体工程实践。",
-      "summary": "Anthropic 发表对 Block AI capabilities 负责人 Bradley Axen 的访谈，介绍 Block 用 Claude Fable 5 编排大规模代码迁移：Fable 做数据模型、API 规格等高层设计，再调度数十个更小的 Opus 或 Sonnet 模型执行文件修改和测试，一次迁移可能合并上千个 pull request。",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
-      "aihotUrl": "https://aihot.news/items/myoe16r78gjt87vu92995zsae",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
       "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
       "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
       "reason": "作者总结了预算控制、基线评测和冒烟测试等提示词写法，让 agent 自主完成数据构建、训练与发布，方法可直接迁移复用。",
@@ -964,6 +852,20 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
+    },
+    {
+      "id": "y7db2ly158hip5dw1evmjw5kv",
+      "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
+      "reason": "原文给出完整微调方法和前后准确率对比，读者可在 4GB 显存上复现把 LLM 转成决策模型的流程。",
+      "summary": "Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。",
+      "sourceName": "X：Unsloth (@UnslothAI)",
+      "sourceUrl": "https://x.com/UnslothAI/status/2107868866361930236",
+      "aihotUrl": "https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv",
+      "publishedAt": "2026-10-07T16:21:14.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
     }
   ],
   "watch": [
@@ -997,8 +899,8 @@
           "aihotUrl": "https://aihot.news/items/myoe16r78gjt87vu92995zsae",
           "publishedAt": "2026-10-08T00:00:00.000Z",
           "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
+          "category": "opinion",
+          "categoryLabel": "动态",
           "unselected": false
         },
         {
@@ -1351,8 +1253,8 @@
           "aihotUrl": "https://aihot.news/items/myoe16r78gjt87vu92995zsae",
           "publishedAt": "2026-10-08T00:00:00.000Z",
           "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
+          "category": "opinion",
+          "categoryLabel": "动态",
           "unselected": false
         },
         {
