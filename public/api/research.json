@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-08T22:23:07.656Z",
-      "lastSuccessAt": "2026-10-08T22:23:07.656Z",
-      "nextCheckAt": 1791501787656,
+      "checkedAt": "2026-10-09T02:29:05.459Z",
+      "lastSuccessAt": "2026-10-09T02:29:05.459Z",
+      "nextCheckAt": 1791516545459,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-09T02:29:05.460Z",
+      "lastSuccessAt": "2026-10-09T02:29:05.460Z",
+      "nextCheckAt": 1791516545460,
       "status": "ok",
-      "nextCheckAt": 1791501787657,
-      "checkedAt": "2026-10-08T22:23:07.657Z",
-      "lastSuccessAt": "2026-10-08T22:23:07.657Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-08T22:23:07.658Z",
-      "lastSuccessAt": "2026-10-08T22:23:07.658Z",
-      "nextCheckAt": 1791501787658,
+      "checkedAt": "2026-10-09T02:29:05.460Z",
+      "lastSuccessAt": "2026-10-09T02:29:05.460Z",
+      "nextCheckAt": 1791516545460,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791501787840,
-      "checkedAt": "2026-10-08T22:23:07.840Z",
-      "lastSuccessAt": "2026-10-08T22:23:07.840Z",
+      "nextCheckAt": 1791516545618,
+      "checkedAt": "2026-10-09T02:29:05.618Z",
+      "lastSuccessAt": "2026-10-09T02:29:05.618Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791501787656,
+  "nextCheckAt": 1791516545459,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6474922.html",
-      "title": "关了电脑还在替你干活：Personal Agent的技术内核与医疗落地",
-      "summary": "当急诊医生关掉电脑，AI仍在替他写病历、排随访——这不是科幻，而是Personal Agent（个人智能体）的日常。它和聊天机器人最本质的区别是：你合上电脑，它还在干活。本文以医疗场景为试金石，拆解分层记忆、MCP协议、权限分级三大技术支柱，并对比OpenAI Dots、Gemini Spark等四款产品，揭示这场AI产品革命的真正内核。 急诊医生Haroun Zayed走出渥太华医院急诊室的时候，已经是夜里十点。八个小时的班次里他接诊",
-      "publishedAt": "2026-10-08T07:22:42.000Z",
-      "url": "https://www.woshipm.com/ai/6474922.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6475126.html",
+      "title": "关于Personal Agent 和muse领域我的实操经验分享",
+      "summary": "Meta 的 Muse 上线二十二天在美国拿到 500 万下载，是 ChatGPT 当年速度的两倍多。作者把自己做了大半年的个人管家 Butler 摆在一起对照：云端统管，本地端与小程序端两个入口，走出一条与 Muse 相反的路线。 国庆前，Meta 发了一个东西，叫 Muse。 我本来没太当回事。大厂发 Agent 这种事，今年听得耳朵都起茧了。但接下来几天的数据出来，我是真愣了一下。上线二十二天，美国下载量五百万，ChatGPT 当",
+      "publishedAt": "2026-10-09T01:27:17.000Z",
+      "url": "https://www.woshipm.com/ai/6475126.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6474922.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6475126.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "当急诊医生关掉电脑，AI仍在替他写病历、排随访——这不是科幻，而是Personal Agent（个人智能体）的日常。它和聊天机器人最本质的区别是：你合上电脑，它还在干活。本文以医疗场景为试金石，拆解分层记忆、MCP协议、权限分级三大技术支柱，并对比OpenAI Dots、Gemini Spark等四款产品，揭示这场AI产品革命的真正内核。 急诊医生Haroun Zayed走出渥太华医院急诊室的时候，已经是夜里十点。八个小时的班次里他接诊",
+      "brief": "Meta 的 Muse 上线二十二天在美国拿到 500 万下载，是 ChatGPT 当年速度的两倍多。作者把自己做了大半年的个人管家 Butler 摆在一起对照：云端统管，本地端与小程序端两个入口，走出一条与 Muse 相反的路线。 国庆前，Meta 发了一个东西，叫 Muse。 我本来没太当回事。大厂发 Agent 这种事，今年听得耳朵都起茧了。但接下来几天的数据出来，我是真愣了一下。上线二十二天，美国下载量五百万，ChatGPT 当",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,11 +134,11 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6474734.html",
-      "title": "关于 AI Agent、信任与决策权的 100 条",
-      "summary": "硅谷公司 Instinct 只有 14 个人，估值却做到 100 亿美元。它不靠更漂亮的 App，而是把 App 藏起来，让 AI 直接替你订机票、改酒店、处理邮件，从「给答案」变成「替你做」。它还盯上了一笔早已存在的钱：旅行的需求分发费。 一、十四个人，一百亿美元 1、最近硅谷有一家叫 Instinct 的公司，很适合拿来观察 AI 应用层正在发生什么。Instinct 成立于 2025 年，创始人 Noah Shinn 只有 23",
-      "publishedAt": "2026-10-08T06:14:32.000Z",
-      "url": "https://www.woshipm.com/ai/6474734.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6475120.html",
+      "title": "对话框不是Personal Agent的终局：Eazo让图形界面属于每个人",
+      "summary": "Muse、dots、Cue 接连上线，Personal Agent 正获得持续运行的环境与数字身份。Eazo 给出另一条路线：自然语言负责生成软件，图形界面承载长期状态，103 个可比任务里其 V5 平均质量得分 88.0。 过去一个月，Personal Agent 正在迅速变成 AI 应用里最拥挤的方向之一。 9 月初，Meta 推出 Muse，为每个 Agent 配备持续运行的 Secure VM 和独立浏览器，让它能够跨网页完成预",
+      "publishedAt": "2026-10-09T01:14:19.000Z",
+      "url": "https://www.woshipm.com/ai/6475120.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -162,11 +162,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6474734.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6475120.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "硅谷公司 Instinct 只有 14 个人，估值却做到 100 亿美元。它不靠更漂亮的 App，而是把 App 藏起来，让 AI 直接替你订机票、改酒店、处理邮件，从「给答案」变成「替你做」。它还盯上了一笔早已存在的钱：旅行的需求分发费。 一、十四个人，一百亿美元 1、最近硅谷有一家叫 Instinct 的公司，很适合拿来观察 AI 应用层正在发生什么。Instinct 成立于 2025 年，创始人 Noah Shinn 只有 23",
+      "brief": "Muse、dots、Cue 接连上线，Personal Agent 正获得持续运行的环境与数字身份。Eazo 给出另一条路线：自然语言负责生成软件，图形界面承载长期状态，103 个可比任务里其 V5 平均质量得分 88.0。 过去一个月，Personal Agent 正在迅速变成 AI 应用里最拥挤的方向之一。 9 月初，Meta 推出 Muse，为每个 Agent 配备持续运行的 Secure VM 和独立浏览器，让它能够跨网页完成预",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6475118.html",
+      "title": "国产大模型，正在沦为“产品周期股”",
+      "summary": "智谱上市半年市值从518亿港元冲到1.07万亿，又回落近七成；模型发布当天股价平均涨超12%，发布后5个交易日有两次累计涨逾40%。国内大模型的估值节奏，正在向新能源汽车的“产品周期”靠拢。 大模型，可能是这一轮科技行情里最“极端”的资产。 按发行价计算，智谱上市时的市值只有518亿港元。半年之后，这个数字变成了1.07万亿港元，翻了整整20倍！ 但冲上万亿市值之后，智谱很快开始一路向下。截至10月7日，股价已经跌到696港元，距离历史",
+      "publishedAt": "2026-10-09T01:07:14.000Z",
+      "url": "https://www.woshipm.com/ai/6475118.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6475118.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "智谱上市半年市值从518亿港元冲到1.07万亿，又回落近七成；模型发布当天股价平均涨超12%，发布后5个交易日有两次累计涨逾40%。国内大模型的估值节奏，正在向新能源汽车的“产品周期”靠拢。 大模型，可能是这一轮科技行情里最“极端”的资产。 按发行价计算，智谱上市时的市值只有518亿港元。半年之后，这个数字变成了1.07万亿港元，翻了整整20倍！ 但冲上万亿市值之后，智谱很快开始一路向下。截至10月7日，股价已经跌到696港元，距离历史",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -211,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/pmtui",

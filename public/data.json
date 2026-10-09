@@ -1,7 +1,7 @@
 {
   "date": "2026年10月9日",
   "demo": false,
-  "updatedAt": "2026-10-08T22:23:16.569Z",
+  "updatedAt": "2026-10-09T02:29:14.744Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 364,
-    "latestCount": 4,
+    "received": 343,
+    "latestCount": 5,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 3,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 7,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -137,12 +137,49 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       }
     ]
   },
   "items": [
+    {
+      "id": "aihot-f3doqdpq8n9mpmqc95jdyaxq0",
+      "title": "Tibo 宣布发布 ChatGPT",
+      "brief": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。",
+      "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2108349826727588000",
+      "aggregateUrl": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-09T00:12:24.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Tibo Sottiaux",
+          "asset": "/assets/identities/thsottiaux.jpg",
+          "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
     {
       "id": "aihot-a81e74a3qn91xtf1a18kgsbzi",
       "title": "OpenAI 的 Astra 在 LAB 幻觉率最低",
@@ -344,8 +381,8 @@
       "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
       "aihotUrl": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
       "storyUrl": "https://aihot.news/story/94903954-cf87-48d8-89a6-eff5deefeaa0",
-      "sourceCount": 14,
-      "participantCount": 80,
+      "sourceCount": 13,
+      "participantCount": 79,
       "latestAt": "2026-10-08T20:04:10.000Z",
       "expanded": true,
       "latest": "Sonnet 5.5 缓存读取价格减半至 $0.10/百万 token，agentic 工作整体便宜约 20%",
@@ -408,7 +445,7 @@
       "aihotUrl": "https://aihot.news/items/uir31g728myjry383z17txvrw",
       "storyUrl": "https://aihot.news/story/829ad21a-7429-4a43-9cb1-3c5c8a46c051",
       "sourceCount": 10,
-      "participantCount": 45,
+      "participantCount": 46,
       "latestAt": "2026-10-08T02:22:43.000Z",
       "expanded": true,
       "latest": "GPT-6 面向超 12 亿 ChatGPT 用户全面推送，带来 Intelligent UI 生成式界面能力",
@@ -451,57 +488,48 @@
     },
     {
       "rank": 3,
-      "id": "zvw2i4tg1gnqq72t596vpqoyl",
-      "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-      "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
-      "sourceCount": 10,
-      "participantCount": 52,
-      "latestAt": "2026-10-08T03:31:55.000Z",
+      "id": "at5dvel8balkaba9wrggcrqoj",
+      "title": "Anthropic 新政策首次禁止虐待模型",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "aihotUrl": "https://aihot.news/items/at5dvel8balkaba9wrggcrqoj",
+      "storyUrl": "https://aihot.news/story/100cfaa3-4eb5-4ba9-8199-65be0d26b885",
+      "sourceCount": 6,
+      "participantCount": 19,
+      "latestAt": "2026-10-09T01:55:50.000Z",
       "expanded": true,
-      "latest": "OpenAI 发布 722 份数学手稿后，卡兹克长文解读 AI 如何改变数学研究",
+      "latest": "Anthropic 禁止辱骂 Claude 模型",
       "reports": [
         {
-          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-          "aihotUrl": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
-          "publishedAt": "2026-10-08T18:17:07.000Z"
+          "title": "Anthropic 禁止辱骂 Claude 模型",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2108375854262927597",
+          "aihotUrl": "https://aihot.news/items/yidd8x4zrqzsotxfinl5iegyz",
+          "publishedAt": "2026-10-09T01:55:50.000Z"
         },
         {
-          "title": "OpenAI 发布 722 份数学手稿后，卡兹克长文解读 AI 如何改变数学研究",
-          "sourceName": "X：卡兹克 (@Khazix0918)",
-          "sourceUrl": "https://x.com/Khazix0918/status/2108037650003493350",
-          "aihotUrl": "https://aihot.news/items/auznqmo5hoh5us8rdl65ahyri",
-          "publishedAt": "2026-10-08T03:31:55.000Z"
+          "title": "Anthropic 更新 Claude 使用政策，禁止对模型持续无必要的辱骂或残忍行为",
+          "sourceName": "X：indigo (@indigox)",
+          "sourceUrl": "https://x.com/indigox/status/2108357145813217749",
+          "aihotUrl": "https://aihot.news/items/unonfsh22hbwfy9l99x0g9l7w",
+          "publishedAt": "2026-10-09T00:41:29.000Z"
         },
         {
-          "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
-          "sourceName": "公众号：数字生命卡兹克",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
-          "aihotUrl": "https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n",
-          "publishedAt": "2026-10-08T00:36:00.000Z"
+          "title": "Anthropic 修订 Claude 使用政策，首次禁止用户虐待模型",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/010/759.htm",
+          "aihotUrl": "https://aihot.news/items/nk5qi9x7im36cflmgwu22qpl8",
+          "publishedAt": "2026-10-08T23:31:17.187Z"
         }
       ],
-      "related": [
-        {
-          "title": "OpenAI 数学成果引验证争议",
-          "storyUrl": "https://aihot.news/story/92dbe44e-830d-4a67-807b-009cfcd5f38a"
-        },
-        {
-          "title": "OpenAI 称一次运行抵十年数学进展",
-          "storyUrl": "https://aihot.news/story/bbad2f73-4d64-44ba-8ba8-7fccd180639f"
-        }
-      ],
+      "related": [],
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
@@ -510,6 +538,34 @@
     },
     {
       "rank": 4,
+      "id": "x4s3jss6ofplyvimq6213cv41",
+      "title": "谷歌云发布通用工作智能体 Gemini Agent",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "aihotUrl": "https://aihot.news/items/x4s3jss6ofplyvimq6213cv41",
+      "storyUrl": "https://aihot.news/story/3bf2f6a6-d5b4-4c93-bd4d-1977a01c157f",
+      "sourceCount": 5,
+      "participantCount": 19,
+      "latestAt": "2026-10-08T18:55:17.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "don06si59xc143ed92gdmlnvo",
       "title": "Google 全球开放 SynthID 水印检测器",
       "sourceName": "X：Google (@Google)",
@@ -537,7 +593,35 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+      "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
+      "sourceCount": 3,
+      "participantCount": 32,
+      "latestAt": "2026-10-08T03:31:55.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "dbhowpb183i256684uz2527i1",
       "title": "马斯克称 Grok Bot 将按任务调用外部最佳模型",
       "sourceName": "X：Testing Catalog (@testingcatalog)",
@@ -545,7 +629,7 @@
       "aihotUrl": "https://aihot.news/items/dbhowpb183i256684uz2527i1",
       "storyUrl": "https://aihot.news/story/d0ee11b2-3ace-4e23-9668-fb3c82550bdb",
       "sourceCount": 4,
-      "participantCount": 32,
+      "participantCount": 34,
       "latestAt": "2026-10-07T23:47:32.937Z",
       "expanded": false,
       "latest": "",
@@ -565,7 +649,35 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "id": "mjcipkmcvo0ofbl2tegerkjvi",
+      "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 模式",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2108275041276420573",
+      "aihotUrl": "https://aihot.news/items/mjcipkmcvo0ofbl2tegerkjvi",
+      "storyUrl": "https://aihot.news/story/bb1411a1-1201-48d6-b5f7-9cc58fa53d6c",
+      "sourceCount": 6,
+      "participantCount": 15,
+      "latestAt": "2026-10-09T00:04:37.203Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "a7mmcpxrh1xnobyqhj43shxwh",
       "title": "Grok Bot 新增原生 X 搜索与监控能力",
       "sourceName": "X：Grok Bot (@bot)",
@@ -573,7 +685,7 @@
       "aihotUrl": "https://aihot.news/items/a7mmcpxrh1xnobyqhj43shxwh",
       "storyUrl": "https://aihot.news/story/ae6b9b53-d380-45d4-9933-6afa540f4195",
       "sourceCount": 6,
-      "participantCount": 21,
+      "participantCount": 22,
       "latestAt": "2026-10-08T20:46:49.000Z",
       "expanded": false,
       "latest": "",
@@ -593,100 +705,16 @@
       }
     },
     {
-      "rank": 7,
-      "id": "x4s3jss6ofplyvimq6213cv41",
-      "title": "谷歌云发布通用工作智能体 Gemini Agent",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "aihotUrl": "https://aihot.news/items/x4s3jss6ofplyvimq6213cv41",
-      "storyUrl": "https://aihot.news/story/3bf2f6a6-d5b4-4c93-bd4d-1977a01c157f",
-      "sourceCount": 5,
-      "participantCount": 15,
-      "latestAt": "2026-10-08T18:55:17.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "ieihnedlxfb5l05mlnt6cvc7f",
-      "title": "微软预售 5999 美元 Surface RTX Spark 开发主机",
-      "sourceName": "The Verge：AI（RSS）",
-      "sourceUrl": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "aihotUrl": "https://aihot.news/items/ieihnedlxfb5l05mlnt6cvc7f",
-      "storyUrl": "https://aihot.news/story/4890f163-93a8-4155-90a5-42af23f38dbe",
-      "sourceCount": 2,
-      "participantCount": 20,
-      "latestAt": "2026-10-07T20:22:37.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "The Verge：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "mjcipkmcvo0ofbl2tegerkjvi",
-      "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 模式",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2108275041276420573",
-      "aihotUrl": "https://aihot.news/items/mjcipkmcvo0ofbl2tegerkjvi",
-      "storyUrl": "https://aihot.news/story/bb1411a1-1201-48d6-b5f7-9cc58fa53d6c",
-      "sourceCount": 5,
-      "participantCount": 12,
-      "latestAt": "2026-10-08T19:29:29.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 10,
-      "id": "vd2lvzvjz4tujiqupl30ifq3k",
-      "title": "Anthropic 发布 Claude Haiku 5.5 并上线 Cursor",
-      "sourceName": "Claude Code：GitHub Releases（RSS）",
-      "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
-      "aihotUrl": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
-      "storyUrl": "https://aihot.news/story/df6ecb23-8f5e-4d48-bf45-1d4a6a27ef24",
-      "sourceCount": 4,
-      "participantCount": 18,
-      "latestAt": "2026-10-08T13:48:35.000Z",
+      "id": "winsvtlfubhjfi0wnone83j5c",
+      "title": "Claude 发布 Dashboards 与 Motion 两项测试功能",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/dashboards-and-motion",
+      "aihotUrl": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c",
+      "storyUrl": "https://aihot.news/story/11746796-aea3-4e81-b36c-995f0cf5cdfe",
+      "sourceCount": 6,
+      "participantCount": 13,
+      "latestAt": "2026-10-08T20:33:39.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
