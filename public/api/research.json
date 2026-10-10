@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-09T21:10:18.861Z",
-      "lastSuccessAt": "2026-10-09T21:10:18.861Z",
-      "nextCheckAt": 1791583818861,
+      "checkedAt": "2026-10-10T00:56:49.845Z",
+      "lastSuccessAt": "2026-10-10T00:56:49.845Z",
+      "nextCheckAt": 1791597409845,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-10T00:56:49.847Z",
+      "lastSuccessAt": "2026-10-10T00:56:49.847Z",
+      "nextCheckAt": 1791597409847,
       "status": "ok",
-      "nextCheckAt": 1791583818862,
-      "checkedAt": "2026-10-09T21:10:18.862Z",
-      "lastSuccessAt": "2026-10-09T21:10:18.862Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-09T21:10:18.863Z",
-      "lastSuccessAt": "2026-10-09T21:10:18.863Z",
-      "nextCheckAt": 1791583818863,
+      "checkedAt": "2026-10-10T00:56:49.848Z",
+      "lastSuccessAt": "2026-10-10T00:56:49.848Z",
+      "nextCheckAt": 1791597409848,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-09T21:10:19.129Z",
-      "lastSuccessAt": "2026-10-09T21:10:19.129Z",
-      "nextCheckAt": 1791583819129,
       "status": "ok",
+      "nextCheckAt": 1791597410025,
+      "checkedAt": "2026-10-10T00:56:50.025Z",
+      "lastSuccessAt": "2026-10-10T00:56:50.025Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791583818861,
+  "nextCheckAt": 1791597409845,
   "refreshing": false,
   "items": [
     {
@@ -212,47 +212,6 @@
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6475152.html",
-      "title": "3 个最近爆火的 Personal Agent ，在 GitHub 上有开源平替了。",
-      "summary": "Grok Bot 与 Muse 火起来之后，GitHub 上很快出现了开源平替。Rakazo 能让每个 Bot 拥有独立的对话、记忆与电脑环境，多个 Bot 之间还能互相交派任务；OpenMuse 支持 iOS、Android 与网页端，并带持久化浏览器与定时提醒。 01 Rakazo：Grok Bot 的开源平替 Rakazo 可以搭建持续运行的 AI Bot，每个 Bot 都有自己的对话、记忆、例行任务和工作历史。 你可以给它连接模",
-      "publishedAt": "2026-10-09T02:36:42.000Z",
-      "url": "https://www.woshipm.com/ai/6475152.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "GitHub",
-            "asset": "/assets/identities/github.jpg",
-            "assetSource": "https://x.com/github",
-            "tone": "#e7e6ec"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6475152.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Grok Bot 与 Muse 火起来之后，GitHub 上很快出现了开源平替。Rakazo 能让每个 Bot 拥有独立的对话、记忆与电脑环境，多个 Bot 之间还能互相交派任务；OpenMuse 支持 iOS、Android 与网页端，并带持久化浏览器与定时提醒。 01 Rakazo：Grok Bot 的开源平替 Rakazo 可以搭建持续运行的 AI Bot，每个 Bot 都有自己的对话、记忆、例行任务和工作历史。 你可以给它连接模",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/sorted-6",
