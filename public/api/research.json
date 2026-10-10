@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-10T00:56:49.845Z",
-      "lastSuccessAt": "2026-10-10T00:56:49.845Z",
-      "nextCheckAt": 1791597409845,
+      "checkedAt": "2026-10-10T06:56:02.489Z",
+      "lastSuccessAt": "2026-10-10T06:56:02.489Z",
+      "nextCheckAt": 1791618962489,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-10T00:56:49.847Z",
-      "lastSuccessAt": "2026-10-10T00:56:49.847Z",
-      "nextCheckAt": 1791597409847,
+      "checkedAt": "2026-10-10T06:56:02.490Z",
+      "lastSuccessAt": "2026-10-10T06:56:02.490Z",
+      "nextCheckAt": 1791618962490,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-10T00:56:49.848Z",
-      "lastSuccessAt": "2026-10-10T00:56:49.848Z",
-      "nextCheckAt": 1791597409848,
+      "checkedAt": "2026-10-10T06:56:02.491Z",
+      "lastSuccessAt": "2026-10-10T06:56:02.491Z",
+      "nextCheckAt": 1791618962491,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791597410025,
-      "checkedAt": "2026-10-10T00:56:50.025Z",
-      "lastSuccessAt": "2026-10-10T00:56:50.025Z",
+      "nextCheckAt": 1791618962668,
+      "checkedAt": "2026-10-10T06:56:02.668Z",
+      "lastSuccessAt": "2026-10-10T06:56:02.668Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791597409845,
+  "nextCheckAt": 1791618962489,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6475782.html",
+      "title": "新模型密集发布，该怎么选？分享我的实测感受",
+      "summary": "九月里OpenAI、Anthropic、Google接力发了五次新模型：GPT-6 Astra最贵也最强，Sol与Luna价格压到五分之一以下；Claude Opus 5.5的看点是写代码直接生成视频与3D，建议按任务出错代价选型。 选错模型，有时比不用更麻烦。 国庆节前，有用户在群里问我：「刀哥，最近我看国外新模型怎么发布这么多，你能聊聊这个吗？」 确实，整个9月就是新模型的密集发布期。说实话，我也跟得气喘吁吁。每款新模型出来，我都要",
+      "publishedAt": "2026-10-10T06:16:47.000Z",
+      "url": "https://www.woshipm.com/ai/6475782.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6475782.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "九月里OpenAI、Anthropic、Google接力发了五次新模型：GPT-6 Astra最贵也最强，Sol与Luna价格压到五分之一以下；Claude Opus 5.5的看点是写代码直接生成视频与3D，建议按任务出错代价选型。 选错模型，有时比不用更麻烦。 国庆节前，有用户在群里问我：「刀哥，最近我看国外新模型怎么发布这么多，你能聊聊这个吗？」 确实，整个9月就是新模型的密集发布期。说实话，我也跟得气喘吁吁。每款新模型出来，我都要",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/evaluating/6475551.html",
+      "title": "一次模型测评后，我开始重新理解WorkBuddy",
+      "summary": "给几款 Flash 模型布置同样两项任务：一份手机行业深度研报和一个三消小游戏。复盘时才发现这场测试从一开始就不公平——两个模型跑在能联网检索、读写文件、调用工具的环境里，另一个只有一个孤立的对话框。换到工作流里复测，结果大变。 Flash 模型越来越像AI世界里的“基本款”。 速度快、价格低，应付日常任务绰绰有余。模型横评也因此有了一个固定套路：给几款模型布置同样的任务，看谁的答案更好，再排个名次。 这次Flash模型测评，一开始也是",
+      "publishedAt": "2026-10-10T03:14:28.000Z",
+      "url": "https://www.woshipm.com/evaluating/6475551.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6475551.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "给几款 Flash 模型布置同样两项任务：一份手机行业深度研报和一个三消小游戏。复盘时才发现这场测试从一开始就不公平——两个模型跑在能联网检索、读写文件、调用工具的环境里，另一个只有一个孤立的对话框。换到工作流里复测，结果大变。 Flash 模型越来越像AI世界里的“基本款”。 速度快、价格低，应付日常任务绰绰有余。模型横评也因此有了一个固定套路：给几款模型布置同样的任务，看谁的答案更好，再排个名次。 这次Flash模型测评，一开始也是",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6475563.html",
+      "title": "给客户装个Workbuddy就能搞定的事，为什么我还在搭工作流",
+      "summary": "十一假期前的一次交流里，对方问：现在通用 Agent 产品都能自己规划、自己调工具执行任务了，为什么还在给客户搭工作流？作者的回答是，可观测系统能把每一次调用还原成流程图，但那是事后的；业务现场真正要命的，是别让它流下去。 十一假期前，我和猎豹移动的FDE团队做了次交流。对方问了我一个问题： 现在 WorkBuddy、豆包工作这类AI办公产品，都能自己规划、自己调工具执行任务了，为什么你还在给客户搭工作流？ 这些年我做企业AI培训和项目",
+      "publishedAt": "2026-10-10T02:52:32.000Z",
+      "url": "https://www.woshipm.com/ai/6475563.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6475563.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "十一假期前的一次交流里，对方问：现在通用 Agent 产品都能自己规划、自己调工具执行任务了，为什么还在给客户搭工作流？作者的回答是，可观测系统能把每一次调用还原成流程图，但那是事后的；业务现场真正要命的，是别让它流下去。 十一假期前，我和猎豹移动的FDE团队做了次交流。对方问了我一个问题： 现在 WorkBuddy、豆包工作这类AI办公产品，都能自己规划、自己调工具执行任务了，为什么你还在给客户搭工作流？ 这些年我做企业AI培训和项目",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "ph:https://www.producthunt.com/products/openpilot",
       "title": "OpenPilot",
@@ -131,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/porch-6",
@@ -171,47 +291,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/evaluating/6475085.html",
-      "title": "医疗大模型在院内场景的落地路径与产品化难点",
-      "summary": "医疗大模型数量已超352个，但能跑通“部署—使用—付费”闭环的产品依然稀缺。本文基于作者多年医疗数据平台与AI应用落地经验，拆解数据治理、临床信任、工作流嵌入、收费模式四重结构性障碍，并对比讯飞医疗、京东健康、商汤医疗三条突围路径，为院内AI产品化提供实战复盘。 ——一个在医疗软件行业从业多年，从底层数据平台做到医疗AI应用的人，对当前落地困局的复盘 我这些年在医疗行业做过医院信息平台、区域健康信息平台、数据平台、集成平台，也直接负责过",
-      "publishedAt": "2026-10-09T04:05:35.000Z",
-      "url": "https://www.woshipm.com/evaluating/6475085.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/evaluating/6475085.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "医疗大模型数量已超352个，但能跑通“部署—使用—付费”闭环的产品依然稀缺。本文基于作者多年医疗数据平台与AI应用落地经验，拆解数据治理、临床信任、工作流嵌入、收费模式四重结构性障碍，并对比讯飞医疗、京东健康、商汤医疗三条突围路径，为院内AI产品化提供实战复盘。 ——一个在医疗软件行业从业多年，从底层数据平台做到医疗AI应用的人，对当前落地困局的复盘 我这些年在医疗行业做过医院信息平台、区域健康信息平台、数据平台、集成平台，也直接负责过",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/sorted-6",
