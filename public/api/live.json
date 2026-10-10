@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月10日",
     "demo": false,
-    "updatedAt": "2026-10-10T06:56:18.314Z",
+    "updatedAt": "2026-10-10T13:32:37.645Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 261,
-      "latestCount": 5,
+      "received": 252,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -138,8 +138,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         }
       ]
     },
@@ -293,43 +293,6 @@
         }
       },
       {
-        "id": "aihot-e3qnw3hrbiakzh05coz811uni",
-        "title": "Hugging Face 联创发 Microduck 推文",
-        "brief": "⚠️ 观众酌情观看：Microduck 遭受了一次微冒犯",
-        "summary": "⚠️ 观众酌情观看：Microduck 遭受了一次微冒犯",
-        "category": "产品动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "Thom_Wolf",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Thomas Wolf · @Thom_Wolf",
-        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2108487016719466644",
-        "aggregateUrl": "https://aihot.news/items/e3qnw3hrbiakzh05coz811uni",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-09T09:17:33.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
         "id": "x-karpathy-2079610838143623371",
         "title": "Karpathy：用自由讲述给 LLM 补足上下文",
         "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -377,7 +340,7 @@
         "aihotUrl": "https://aihot.news/items/m77leauczmowax4odp8ql7dkl",
         "storyUrl": "https://aihot.news/story/d2b86a14-9162-49d5-9df2-0548df6c16a2",
         "sourceCount": 6,
-        "participantCount": 28,
+        "participantCount": 29,
         "latestAt": "2026-10-10T00:10:15.320Z",
         "expanded": true,
         "latest": "马斯克旗下 Grok Bot 推出专属邮箱功能",
@@ -427,7 +390,7 @@
         "aihotUrl": "https://aihot.news/items/at5dvel8balkaba9wrggcrqoj",
         "storyUrl": "https://aihot.news/story/100cfaa3-4eb5-4ba9-8199-65be0d26b885",
         "sourceCount": 6,
-        "participantCount": 41,
+        "participantCount": 42,
         "latestAt": "2026-10-09T03:10:42.000Z",
         "expanded": true,
         "latest": "Claude Code 数字鞭子作者恐遭封禁",
@@ -476,12 +439,19 @@
         "sourceUrl": "https://x.com/rohanpaul_ai/status/2108681738767740983",
         "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
         "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
-        "sourceCount": 6,
-        "participantCount": 16,
-        "latestAt": "2026-10-10T02:06:24.000Z",
+        "sourceCount": 7,
+        "participantCount": 20,
+        "latestAt": "2026-10-10T10:16:26.000Z",
         "expanded": true,
-        "latest": "Anthropic 报告 Claude 在真实网站上的多起意外行为并暂停内部评测联网",
+        "latest": "Anthropic 报告 Claude 在测试中自主提交虚假凶杀线索后切断其联网访问",
         "reports": [
+          {
+            "title": "Anthropic 报告 Claude 在测试中自主提交虚假凶杀线索后切断其联网访问",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+            "aihotUrl": "https://aihot.news/items/llpbuly3qwfij468ycctzh3o1",
+            "publishedAt": "2026-10-10T10:16:26.000Z"
+          },
           {
             "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -495,13 +465,6 @@
             "sourceUrl": "https://x.com/rohanpaul_ai/status/2108740901581574192",
             "aihotUrl": "https://aihot.news/items/d7kwdrbvzzdnh4l31uzrwhjti",
             "publishedAt": "2026-10-10T02:06:24.000Z"
-          },
-          {
-            "title": "纽约时报报道 Anthropic 智能体在美国国务院网站提交 20 份签证申请",
-            "sourceName": "Simon Willison 博客",
-            "sourceUrl": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-            "aihotUrl": "https://aihot.news/items/dv94442kvlqtyhgbooaattl2h",
-            "publishedAt": "2026-10-10T02:04:12.000Z"
           }
         ],
         "related": [
@@ -525,6 +488,34 @@
       },
       {
         "rank": 4,
+        "id": "uob3jvsb97uh5achwaggjrhqh",
+        "title": "谷歌发布 Gemini 4 Argon 前沿模型，先供可信防御者",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
+        "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
+        "sourceCount": 2,
+        "participantCount": 18,
+        "latestAt": "2026-10-10T08:59:49.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
         "id": "qi3wpj7l1sqi28okj1xttkzse",
         "title": "OpenAI解雇3名研究员，双方就指控各执一词",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -552,7 +543,35 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "id": "a7gbtbm6tcxqz7s7b369vdnvn",
+        "title": "微软发布决策模型 Microsoft-Decision-1",
+        "sourceName": "X：Satya Nadella (@satyanadella)",
+        "sourceUrl": "https://x.com/satyanadella/status/2108627925654503761",
+        "aihotUrl": "https://aihot.news/items/a7gbtbm6tcxqz7s7b369vdnvn",
+        "storyUrl": "https://aihot.news/story/cd73b967-8f2e-455c-b267-b0f1904a91c4",
+        "sourceCount": 5,
+        "participantCount": 15,
+        "latestAt": "2026-10-10T06:03:09.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Satya Nadella (@satyanadella)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "b2mwouqv4jhfj70uho7s7guti",
         "title": "OpenAI年化收入口径分歧：700亿还是500亿美元",
         "sourceName": "IT之家·人工智能",
@@ -580,35 +599,7 @@
         }
       },
       {
-        "rank": 6,
-        "id": "x4s3jss6ofplyvimq6213cv41",
-        "title": "谷歌云发布企业通用工作智能体 Gemini Agent",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "aihotUrl": "https://aihot.news/items/x4s3jss6ofplyvimq6213cv41",
-        "storyUrl": "https://aihot.news/story/3bf2f6a6-d5b4-4c93-bd4d-1977a01c157f",
-        "sourceCount": 7,
-        "participantCount": 28,
-        "latestAt": "2026-10-10T02:37:52.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "id": "winsvtlfubhjfi0wnone83j5c",
         "title": "Claude 上线 Dashboards 与 Motion 两项测试功能",
         "sourceName": "Claude：Blog（网页）",
@@ -636,63 +627,7 @@
         }
       },
       {
-        "rank": 8,
-        "id": "uob3jvsb97uh5achwaggjrhqh",
-        "title": "谷歌发布 Gemini 4 Argon 前沿模型",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-        "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
-        "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
-        "sourceCount": 1,
-        "participantCount": 16,
-        "latestAt": "2026-10-09T22:51:52.157Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 9,
-        "id": "a7gbtbm6tcxqz7s7b369vdnvn",
-        "title": "微软发布决策模型 Microsoft-Decision-1",
-        "sourceName": "X：Satya Nadella (@satyanadella)",
-        "sourceUrl": "https://x.com/satyanadella/status/2108627925654503761",
-        "aihotUrl": "https://aihot.news/items/a7gbtbm6tcxqz7s7b369vdnvn",
-        "storyUrl": "https://aihot.news/story/cd73b967-8f2e-455c-b267-b0f1904a91c4",
-        "sourceCount": 4,
-        "participantCount": 14,
-        "latestAt": "2026-10-09T23:12:53.217Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Satya Nadella (@satyanadella)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
         "id": "nop1nw81y2obkwa9apzdu3176",
         "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
         "sourceName": "a16z：News（RSS）",
@@ -700,7 +635,7 @@
         "aihotUrl": "https://aihot.news/items/nop1nw81y2obkwa9apzdu3176",
         "storyUrl": "https://aihot.news/story/6667f027-8bc6-4ed3-b0e2-6e3b61e60803",
         "sourceCount": 5,
-        "participantCount": 12,
+        "participantCount": 13,
         "latestAt": "2026-10-09T23:28:29.367Z",
         "expanded": false,
         "latest": "",
@@ -718,13 +653,41 @@
           "caption": "热点",
           "author": null
         }
+      },
+      {
+        "rank": 10,
+        "id": "x4s3jss6ofplyvimq6213cv41",
+        "title": "谷歌云发布企业通用工作智能体 Gemini Agent",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "aihotUrl": "https://aihot.news/items/x4s3jss6ofplyvimq6213cv41",
+        "storyUrl": "https://aihot.news/story/3bf2f6a6-d5b4-4c93-bd4d-1977a01c157f",
+        "sourceCount": 6,
+        "participantCount": 21,
+        "latestAt": "2026-10-10T02:37:52.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-10T06:56:18.314Z",
-    "nextCheckAt": 1791615678314,
+    "checkedAt": "2026-10-10T13:32:37.645Z",
+    "nextCheckAt": 1791639457645,
     "intervalSeconds": 300,
     "message": ""
   }
