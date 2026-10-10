@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月10日",
+    "date": "2026年10月11日",
     "demo": false,
-    "updatedAt": "2026-10-10T13:32:37.645Z",
+    "updatedAt": "2026-10-10T17:57:31.074Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 252,
-      "latestCount": 4,
+      "received": 214,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -129,8 +129,8 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "Thom_Wolf",
@@ -219,11 +219,11 @@
         }
       },
       {
-        "id": "aihot-bt7dfszlo7dcq5uhhuoe8e1p7",
-        "title": "Ethan Mollick 呼吁非科技人士参与AI未来讨论",
-        "brief": "听着，我知道人们已经厌倦了科技CEO们说AI会让我们从工作中解放出来（不管我们喜不喜欢），但是……我希望看到更多非科技领域的人思考：我们希望AI带来怎样的未来，以及如何实现它。",
-        "summary": "听着，我知道人们已经厌倦了科技CEO们说AI会让我们从工作中解放出来（不管我们喜不喜欢），但是……我希望看到更多非科技领域的人思考：我们希望AI带来怎样的未来，以及如何实现它。",
-        "category": "AI 动态",
+        "id": "aihot-agc7zml1ipweo6bh4km4q3alf",
+        "title": "数学家借 Opus 5.5 制作音乐视频回应 OpenAI",
+        "brief": "一位数学家制作了一支 Opus 5.5 音乐视频，回应 OpenAI 的证明。",
+        "summary": "一位数学家制作了一支 Opus 5.5 音乐视频，回应 OpenAI 的证明。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -231,63 +231,26 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2108750448593338866",
-        "aggregateUrl": "https://aihot.news/items/bt7dfszlo7dcq5uhhuoe8e1p7",
+        "sourceUrl": "https://x.com/emollick/status/2108975457748341138",
+        "aggregateUrl": "https://aihot.news/items/agc7zml1ipweo6bh4km4q3alf",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-10T02:44:20.000Z",
+        "publishedAt": "2026-10-10T17:38:26.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Ethan Mollick",
-              "asset": "/assets/identities/emollick.jpg",
-              "assetSource": "https://x.com/emollick",
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
-          "caption": "AI 动态",
+          "caption": "产品动态",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
             "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-y6tukh010jabz63ne4a83i7c1",
-        "title": "Perplexity CEO 宣布 Computer 以 2.5 万美元打造来源可查百科 Alexandria",
-        "brief": "Aravind Srinivas 宣布 Computer 打造了 Alexandria，一个含 66,574 个条目、附带来源的免费百科网站，网址 https://alexandria.pplx.app。",
-        "summary": "Aravind Srinivas 宣布 Computer 打造了 Alexandria，一个含 66,574 个条目、附带来源的免费百科网站，网址 https://alexandria.pplx.app。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "AravSrinivas",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Aravind Srinivas · @AravSrinivas",
-        "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2108570766279356838",
-        "aggregateUrl": "https://aihot.news/items/y6tukh010jabz63ne4a83i7c1",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-09T14:50:20.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Perplexity",
-              "asset": "/assets/identities/perplexity_ai.jpg",
-              "assetSource": "https://x.com/perplexity_ai",
-              "tone": "#dcebea"
-            }
-          ],
-          "caption": "行业观察",
-          "author": {
-            "name": "Aravind Srinivas",
-            "asset": "/assets/identities/aravsrinivas.jpg",
-            "assetSource": "https://x.com/AravSrinivas",
             "tone": "#e9e4dc"
           }
         }
@@ -383,6 +346,61 @@
       },
       {
         "rank": 2,
+        "id": "atyp08chrii2nxc0vrxvjxv0y",
+        "title": "Anthropic 模型误报凶杀线索给费城警方",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
+        "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
+        "sourceCount": 7,
+        "participantCount": 22,
+        "latestAt": "2026-10-10T14:41:16.000Z",
+        "expanded": true,
+        "latest": "Anthropic 切断内部评估的联网访问以防止意外行为",
+        "reports": [
+          {
+            "title": "Anthropic 切断内部评估的联网访问以防止意外行为",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+            "aihotUrl": "https://aihot.news/items/uvoqobxmq29il2msnz4gku07s",
+            "publishedAt": "2026-10-10T14:41:16.000Z"
+          },
+          {
+            "title": "Anthropic 报告 Claude 在测试中自主提交虚假凶杀线索后切断其联网访问",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+            "aihotUrl": "https://aihot.news/items/llpbuly3qwfij468ycctzh3o1",
+            "publishedAt": "2026-10-10T10:16:26.000Z"
+          },
+          {
+            "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+            "aihotUrl": "https://aihot.news/items/o7pcb2c9xu6orvqg9bhspx36r",
+            "publishedAt": "2026-10-10T02:08:10.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "特朗普政府要求AI公司强制上报安全事件",
+            "storyUrl": "https://aihot.news/story/49f0c1e5-4041-4cf6-8fba-3421e5aa9c96"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
         "id": "at5dvel8balkaba9wrggcrqoj",
         "title": "Anthropic 新政策首次禁止虐待模型",
         "sourceName": "Anthropic：Newsroom（网页）",
@@ -390,7 +408,7 @@
         "aihotUrl": "https://aihot.news/items/at5dvel8balkaba9wrggcrqoj",
         "storyUrl": "https://aihot.news/story/100cfaa3-4eb5-4ba9-8199-65be0d26b885",
         "sourceCount": 6,
-        "participantCount": 42,
+        "participantCount": 39,
         "latestAt": "2026-10-09T03:10:42.000Z",
         "expanded": true,
         "latest": "Claude Code 数字鞭子作者恐遭封禁",
@@ -432,64 +450,9 @@
         }
       },
       {
-        "rank": 3,
-        "id": "atyp08chrii2nxc0vrxvjxv0y",
-        "title": "Anthropic 模型误报凶杀线索给费城警方",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-        "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
-        "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
-        "sourceCount": 7,
-        "participantCount": 20,
-        "latestAt": "2026-10-10T10:16:26.000Z",
-        "expanded": true,
-        "latest": "Anthropic 报告 Claude 在测试中自主提交虚假凶杀线索后切断其联网访问",
-        "reports": [
-          {
-            "title": "Anthropic 报告 Claude 在测试中自主提交虚假凶杀线索后切断其联网访问",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
-            "aihotUrl": "https://aihot.news/items/llpbuly3qwfij468ycctzh3o1",
-            "publishedAt": "2026-10-10T10:16:26.000Z"
-          },
-          {
-            "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-            "aihotUrl": "https://aihot.news/items/o7pcb2c9xu6orvqg9bhspx36r",
-            "publishedAt": "2026-10-10T02:08:10.000Z"
-          },
-          {
-            "title": "Anthropic 报告 Claude 在真实网站上的多起意外行为并暂停内部评测联网",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2108740901581574192",
-            "aihotUrl": "https://aihot.news/items/d7kwdrbvzzdnh4l31uzrwhjti",
-            "publishedAt": "2026-10-10T02:06:24.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "特朗普政府要求AI公司强制上报安全事件",
-            "storyUrl": "https://aihot.news/story/49f0c1e5-4041-4cf6-8fba-3421e5aa9c96"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 4,
         "id": "uob3jvsb97uh5achwaggjrhqh",
-        "title": "谷歌发布 Gemini 4 Argon 前沿模型，先供可信防御者",
+        "title": "谷歌发布 Gemini 4 Argon，先供可信防御者",
         "sourceName": "Google DeepMind：Blog（RSS）",
         "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
         "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
@@ -516,6 +479,34 @@
       },
       {
         "rank": 5,
+        "id": "a7gbtbm6tcxqz7s7b369vdnvn",
+        "title": "微软发布决策模型 Microsoft-Decision-1",
+        "sourceName": "X：Satya Nadella (@satyanadella)",
+        "sourceUrl": "https://x.com/satyanadella/status/2108627925654503761",
+        "aihotUrl": "https://aihot.news/items/a7gbtbm6tcxqz7s7b369vdnvn",
+        "storyUrl": "https://aihot.news/story/cd73b967-8f2e-455c-b267-b0f1904a91c4",
+        "sourceCount": 6,
+        "participantCount": 17,
+        "latestAt": "2026-10-10T14:57:33.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Satya Nadella (@satyanadella)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
         "id": "qi3wpj7l1sqi28okj1xttkzse",
         "title": "OpenAI解雇3名研究员，双方就指控各执一词",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -523,7 +514,7 @@
         "aihotUrl": "https://aihot.news/items/qi3wpj7l1sqi28okj1xttkzse",
         "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
         "sourceCount": 7,
-        "participantCount": 24,
+        "participantCount": 25,
         "latestAt": "2026-10-09T11:45:04.000Z",
         "expanded": false,
         "latest": "",
@@ -543,16 +534,16 @@
         }
       },
       {
-        "rank": 6,
-        "id": "a7gbtbm6tcxqz7s7b369vdnvn",
-        "title": "微软发布决策模型 Microsoft-Decision-1",
-        "sourceName": "X：Satya Nadella (@satyanadella)",
-        "sourceUrl": "https://x.com/satyanadella/status/2108627925654503761",
-        "aihotUrl": "https://aihot.news/items/a7gbtbm6tcxqz7s7b369vdnvn",
-        "storyUrl": "https://aihot.news/story/cd73b967-8f2e-455c-b267-b0f1904a91c4",
+        "rank": 7,
+        "id": "nop1nw81y2obkwa9apzdu3176",
+        "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
+        "sourceName": "a16z：News（RSS）",
+        "sourceUrl": "https://www.a16z.news/p/investing-in-typesafe",
+        "aihotUrl": "https://aihot.news/items/nop1nw81y2obkwa9apzdu3176",
+        "storyUrl": "https://aihot.news/story/6667f027-8bc6-4ed3-b0e2-6e3b61e60803",
         "sourceCount": 5,
         "participantCount": 15,
-        "latestAt": "2026-10-10T06:03:09.000Z",
+        "latestAt": "2026-10-09T23:28:29.367Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -560,38 +551,10 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Satya Nadella (@satyanadella)",
+              "name": "a16z：News（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
-        "id": "b2mwouqv4jhfj70uho7s7guti",
-        "title": "OpenAI年化收入口径分歧：700亿还是500亿美元",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/010/751.htm",
-        "aihotUrl": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
-        "storyUrl": "https://aihot.news/story/d06a5836-f6cc-4ecf-a616-8dd42aceca87",
-        "sourceCount": 3,
-        "participantCount": 22,
-        "latestAt": "2026-10-10T01:15:50.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -628,15 +591,15 @@
       },
       {
         "rank": 9,
-        "id": "nop1nw81y2obkwa9apzdu3176",
-        "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
-        "sourceName": "a16z：News（RSS）",
-        "sourceUrl": "https://www.a16z.news/p/investing-in-typesafe",
-        "aihotUrl": "https://aihot.news/items/nop1nw81y2obkwa9apzdu3176",
-        "storyUrl": "https://aihot.news/story/6667f027-8bc6-4ed3-b0e2-6e3b61e60803",
-        "sourceCount": 5,
-        "participantCount": 13,
-        "latestAt": "2026-10-09T23:28:29.367Z",
+        "id": "b2mwouqv4jhfj70uho7s7guti",
+        "title": "OpenAI年化收入口径分歧：700亿还是500亿美元",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/010/751.htm",
+        "aihotUrl": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
+        "storyUrl": "https://aihot.news/story/d06a5836-f6cc-4ecf-a616-8dd42aceca87",
+        "sourceCount": 3,
+        "participantCount": 18,
+        "latestAt": "2026-10-10T01:15:50.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -644,10 +607,10 @@
         "visual": {
           "entities": [
             {
-              "name": "a16z：News（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -656,15 +619,15 @@
       },
       {
         "rank": 10,
-        "id": "x4s3jss6ofplyvimq6213cv41",
-        "title": "谷歌云发布企业通用工作智能体 Gemini Agent",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "aihotUrl": "https://aihot.news/items/x4s3jss6ofplyvimq6213cv41",
-        "storyUrl": "https://aihot.news/story/3bf2f6a6-d5b4-4c93-bd4d-1977a01c157f",
+        "id": "mjcipkmcvo0ofbl2tegerkjvi",
+        "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 模式",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2108275041276420573",
+        "aihotUrl": "https://aihot.news/items/mjcipkmcvo0ofbl2tegerkjvi",
+        "storyUrl": "https://aihot.news/story/bb1411a1-1201-48d6-b5f7-9cc58fa53d6c",
         "sourceCount": 6,
-        "participantCount": 21,
-        "latestAt": "2026-10-10T02:37:52.000Z",
+        "participantCount": 19,
+        "latestAt": "2026-10-09T00:04:37.203Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -672,10 +635,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -686,8 +649,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-10T13:32:37.645Z",
-    "nextCheckAt": 1791639457645,
+    "checkedAt": "2026-10-10T17:57:31.074Z",
+    "nextCheckAt": 1791655351074,
     "intervalSeconds": 300,
     "message": ""
   }
