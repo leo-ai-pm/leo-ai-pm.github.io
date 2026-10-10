@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月11日",
     "demo": false,
-    "updatedAt": "2026-10-10T17:57:31.074Z",
+    "updatedAt": "2026-10-10T21:31:59.365Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 214,
-      "latestCount": 3,
+      "received": 180,
+      "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 5,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -84,8 +84,8 @@
           "group": "产品与工程",
           "focus": "开发者产品与应用工程",
           "url": "https://x.com/sherwinwu",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "emollick",
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 6,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -177,43 +177,6 @@
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
             "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-ksa89e8xz3j2ov63wdgoa4sn0",
-        "title": "Codex 消息预测功能体验",
-        "brief": "对于那些嘲笑 Codex 不可能预测你下一条消息的人——我也曾是其中之一 😬 本以为它绝不可能预测出我接下来要问什么。",
-        "summary": "对于那些嘲笑 Codex 不可能预测你下一条消息的人——我也曾是其中之一 😬 本以为它绝不可能预测出我接下来要问什么。",
-        "category": "AI 动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "sherwinwu",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Sherwin Wu · @sherwinwu",
-        "feedName": "X：Sherwin Wu（@sherwinwu）",
-        "sourceUrl": "https://x.com/sherwinwu/status/2108647505651265921",
-        "aggregateUrl": "https://aihot.news/items/ksa89e8xz3j2ov63wdgoa4sn0",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-09T19:55:16.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "AI 动态",
-          "author": {
-            "name": "Sherwin Wu",
-            "asset": "/assets/identities/sherwinwu.jpg",
-            "assetSource": "https://x.com/sherwinwu",
             "tone": "#e9e4dc"
           }
         }
@@ -353,7 +316,7 @@
         "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
         "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
         "sourceCount": 7,
-        "participantCount": 22,
+        "participantCount": 23,
         "latestAt": "2026-10-10T14:41:16.000Z",
         "expanded": true,
         "latest": "Anthropic 切断内部评估的联网访问以防止意外行为",
@@ -407,8 +370,8 @@
         "sourceUrl": "https://www.anthropic.com/news/2026-usage-policy-update",
         "aihotUrl": "https://aihot.news/items/at5dvel8balkaba9wrggcrqoj",
         "storyUrl": "https://aihot.news/story/100cfaa3-4eb5-4ba9-8199-65be0d26b885",
-        "sourceCount": 6,
-        "participantCount": 39,
+        "sourceCount": 4,
+        "participantCount": 33,
         "latestAt": "2026-10-09T03:10:42.000Z",
         "expanded": true,
         "latest": "Claude Code 数字鞭子作者恐遭封禁",
@@ -507,34 +470,6 @@
       },
       {
         "rank": 6,
-        "id": "qi3wpj7l1sqi28okj1xttkzse",
-        "title": "OpenAI解雇3名研究员，双方就指控各执一词",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
-        "aihotUrl": "https://aihot.news/items/qi3wpj7l1sqi28okj1xttkzse",
-        "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
-        "sourceCount": 7,
-        "participantCount": 25,
-        "latestAt": "2026-10-09T11:45:04.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
         "id": "nop1nw81y2obkwa9apzdu3176",
         "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
         "sourceName": "a16z：News（RSS）",
@@ -562,6 +497,34 @@
         }
       },
       {
+        "rank": 7,
+        "id": "qi3wpj7l1sqi28okj1xttkzse",
+        "title": "OpenAI解雇3名研究员，双方就指控各执一词",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+        "aihotUrl": "https://aihot.news/items/qi3wpj7l1sqi28okj1xttkzse",
+        "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
+        "sourceCount": 5,
+        "participantCount": 23,
+        "latestAt": "2026-10-09T11:45:04.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 8,
         "id": "winsvtlfubhjfi0wnone83j5c",
         "title": "Claude 上线 Dashboards 与 Motion 两项测试功能",
@@ -569,8 +532,8 @@
         "sourceUrl": "https://claude.com/blog/dashboards-and-motion",
         "aihotUrl": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c",
         "storyUrl": "https://aihot.news/story/11746796-aea3-4e81-b36c-995f0cf5cdfe",
-        "sourceCount": 7,
-        "participantCount": 23,
+        "sourceCount": 2,
+        "participantCount": 15,
         "latestAt": "2026-10-09T06:57:33.323Z",
         "expanded": false,
         "latest": "",
@@ -597,8 +560,8 @@
         "sourceUrl": "https://www.ithome.com/1/010/751.htm",
         "aihotUrl": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
         "storyUrl": "https://aihot.news/story/d06a5836-f6cc-4ecf-a616-8dd42aceca87",
-        "sourceCount": 3,
-        "participantCount": 18,
+        "sourceCount": 2,
+        "participantCount": 15,
         "latestAt": "2026-10-10T01:15:50.000Z",
         "expanded": false,
         "latest": "",
@@ -619,15 +582,15 @@
       },
       {
         "rank": 10,
-        "id": "mjcipkmcvo0ofbl2tegerkjvi",
-        "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 模式",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2108275041276420573",
-        "aihotUrl": "https://aihot.news/items/mjcipkmcvo0ofbl2tegerkjvi",
-        "storyUrl": "https://aihot.news/story/bb1411a1-1201-48d6-b5f7-9cc58fa53d6c",
-        "sourceCount": 6,
-        "participantCount": 19,
-        "latestAt": "2026-10-09T00:04:37.203Z",
+        "id": "zvw2i4tg1gnqq72t596vpqoyl",
+        "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+        "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
+        "sourceCount": 2,
+        "participantCount": 11,
+        "latestAt": "2026-10-10T03:04:36.887Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -649,8 +612,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-10T17:57:31.074Z",
-    "nextCheckAt": 1791655351074,
+    "checkedAt": "2026-10-10T21:31:59.365Z",
+    "nextCheckAt": 1791668219365,
     "intervalSeconds": 300,
     "message": ""
   }
