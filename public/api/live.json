@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月11日",
     "demo": false,
-    "updatedAt": "2026-10-11T06:19:21.356Z",
+    "updatedAt": "2026-10-11T13:05:01.328Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 130,
+      "received": 123,
       "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -259,45 +259,95 @@
     "ranking": [
       {
         "rank": 1,
-        "id": "m77leauczmowax4odp8ql7dkl",
-        "title": "Grok Bot 新增专属邮箱功能",
-        "sourceName": "X：Grok (@grok)",
-        "sourceUrl": "https://x.com/grok/status/2108610528423842095",
-        "aihotUrl": "https://aihot.news/items/m77leauczmowax4odp8ql7dkl",
-        "storyUrl": "https://aihot.news/story/d2b86a14-9162-49d5-9df2-0548df6c16a2",
-        "sourceCount": 6,
-        "participantCount": 29,
-        "latestAt": "2026-10-10T00:10:15.320Z",
+        "id": "pygydfau6gpr3a7v7ko4y49ww",
+        "title": "英伟达洽谈收购或追加投资Reflection AI",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
+        "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
+        "storyUrl": "https://aihot.news/story/244f781e-a578-4493-804d-4b4cfa063ea3",
+        "sourceCount": 4,
+        "participantCount": 17,
+        "latestAt": "2026-10-10T22:51:00.000Z",
         "expanded": true,
-        "latest": "马斯克旗下 Grok Bot 推出专属邮箱功能",
+        "latest": "NVIDIA 传出收购 Reflection AI，作者盘点其近一年收购布局",
         "reports": [
           {
-            "title": "马斯克旗下 Grok Bot 推出专属邮箱功能",
+            "title": "NVIDIA 传出收购 Reflection AI，作者盘点其近一年收购布局",
+            "sourceName": "X：马东锡 NLP (@dongxi_nlp)",
+            "sourceUrl": "https://x.com/dongxi_nlp/status/2109054116458566094",
+            "aihotUrl": "https://aihot.news/items/i1tx2kns2mxze0owzdnjfowdm",
+            "publishedAt": "2026-10-10T22:51:00.000Z"
+          },
+          {
+            "title": "消息称英伟达洽谈收购或追加投资 Reflection AI，加码开放权重模型",
             "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/011/177.htm",
-            "aihotUrl": "https://aihot.news/items/vcq91zzlp3ppdvj5rvzlbe6tg",
-            "publishedAt": "2026-10-10T00:10:15.320Z"
+            "sourceUrl": "https://www.ithome.com/1/011/541.htm",
+            "aihotUrl": "https://aihot.news/items/a1g0dfc74eryqgog8jzv2iztr",
+            "publishedAt": "2026-10-10T22:46:30.270Z"
           },
           {
-            "title": "Grok Bot 支持认领自有邮箱并代用户收发邮件",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2108628488299204970",
-            "aihotUrl": "https://aihot.news/items/hyl99mebchla67y0i827f29t4",
-            "publishedAt": "2026-10-09T18:39:42.000Z"
-          },
-          {
-            "title": "Grok Bot 推出专属邮箱功能",
-            "sourceName": "X：Eric Zakariasson (@ericzakariasson)",
-            "sourceUrl": "https://x.com/ericzakariasson/status/2108622518324174955",
-            "aihotUrl": "https://aihot.news/items/jq6nv62yga0nmg64o9v7deu2x",
-            "publishedAt": "2026-10-09T18:15:59.000Z"
+            "title": "FT 报道 Nvidia 洽谈收购或追加投资 250 亿美元估值的开源权重模型公司 Reflection AI",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
+            "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
+            "publishedAt": "2026-10-10T20:58:40.000Z"
           }
         ],
         "related": [],
         "visual": {
           "entities": [
             {
-              "name": "X：Grok (@grok)",
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
+        "id": "ubbzc82ewyencdpy65uu3zwlo",
+        "title": "纳德拉：把前沿模型当内部风险管控",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+        "aihotUrl": "https://aihot.news/items/ubbzc82ewyencdpy65uu3zwlo",
+        "storyUrl": "https://aihot.news/story/ba1d5ac2-160e-4d9d-ae98-63405a9bb3f3",
+        "sourceCount": 6,
+        "participantCount": 15,
+        "latestAt": "2026-10-11T09:08:35.000Z",
+        "expanded": true,
+        "latest": "Microsoft CEO 纳德拉改用 Super Intelligence 表述并抨击 OpenAI 和 Anthropic",
+        "reports": [
+          {
+            "title": "Microsoft CEO 纳德拉改用 Super Intelligence 表述并抨击 OpenAI 和 Anthropic",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+            "aihotUrl": "https://aihot.news/items/ubbzc82ewyencdpy65uu3zwlo",
+            "publishedAt": "2026-10-11T09:08:35.000Z"
+          },
+          {
+            "title": "微软 CEO 纳德拉发文：开发者应默认假设 AI 模型失控并设计强制中断机制",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/011/545.htm",
+            "aihotUrl": "https://aihot.news/items/dvvj5x0kn3nxgdyqrdjyw6c58",
+            "publishedAt": "2026-10-10T23:19:46.957Z"
+          },
+          {
+            "title": "纳德拉称应默认所有 AI 模型已被攻破并呼吁设置紧急制动",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+            "aihotUrl": "https://aihot.news/items/ikhcwb4q60hj65bnff3gqi2cm",
+            "publishedAt": "2026-10-10T22:10:17.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "The Decoder：AI News（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -308,7 +358,7 @@
         }
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": "atyp08chrii2nxc0vrxvjxv0y",
         "title": "Anthropic 模型误报凶杀线索给费城警方",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -316,7 +366,7 @@
         "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
         "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
         "sourceCount": 7,
-        "participantCount": 23,
+        "participantCount": 24,
         "latestAt": "2026-10-10T14:41:16.000Z",
         "expanded": true,
         "latest": "Anthropic 切断内部评估的联网访问以防止意外行为",
@@ -363,49 +413,27 @@
         }
       },
       {
-        "rank": 3,
-        "id": "pygydfau6gpr3a7v7ko4y49ww",
-        "title": "英伟达洽谈收购或追加投资Reflection AI",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
-        "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
-        "storyUrl": "https://aihot.news/story/244f781e-a578-4493-804d-4b4cfa063ea3",
-        "sourceCount": 4,
-        "participantCount": 14,
-        "latestAt": "2026-10-10T22:51:00.000Z",
-        "expanded": true,
-        "latest": "NVIDIA 传出收购 Reflection AI，作者盘点其近一年收购布局",
-        "reports": [
-          {
-            "title": "NVIDIA 传出收购 Reflection AI，作者盘点其近一年收购布局",
-            "sourceName": "X：马东锡 NLP (@dongxi_nlp)",
-            "sourceUrl": "https://x.com/dongxi_nlp/status/2109054116458566094",
-            "aihotUrl": "https://aihot.news/items/i1tx2kns2mxze0owzdnjfowdm",
-            "publishedAt": "2026-10-10T22:51:00.000Z"
-          },
-          {
-            "title": "消息称英伟达洽谈收购或追加投资 Reflection AI，加码开放权重模型",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/011/541.htm",
-            "aihotUrl": "https://aihot.news/items/a1g0dfc74eryqgog8jzv2iztr",
-            "publishedAt": "2026-10-10T22:46:30.270Z"
-          },
-          {
-            "title": "FT 报道 Nvidia 洽谈收购或追加投资 250 亿美元估值的开源权重模型公司 Reflection AI",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
-            "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
-            "publishedAt": "2026-10-10T20:58:40.000Z"
-          }
-        ],
+        "rank": 4,
+        "id": "m77leauczmowax4odp8ql7dkl",
+        "title": "Grok Bot 新增专属邮箱功能",
+        "sourceName": "X：Grok (@grok)",
+        "sourceUrl": "https://x.com/grok/status/2108610528423842095",
+        "aihotUrl": "https://aihot.news/items/m77leauczmowax4odp8ql7dkl",
+        "storyUrl": "https://aihot.news/story/d2b86a14-9162-49d5-9df2-0548df6c16a2",
+        "sourceCount": 6,
+        "participantCount": 29,
+        "latestAt": "2026-10-10T00:10:15.320Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
             {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
+              "name": "X：Grok (@grok)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -413,16 +441,16 @@
         }
       },
       {
-        "rank": 4,
-        "id": "dvvj5x0kn3nxgdyqrdjyw6c58",
-        "title": "纳德拉：把前沿模型当内部风险管控",
+        "rank": 5,
+        "id": "ol0knd3cpgss7eue91y4kj5vz",
+        "title": "马斯克确认SpaceXAI更名SpaceXSI",
         "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/011/545.htm",
-        "aihotUrl": "https://aihot.news/items/dvvj5x0kn3nxgdyqrdjyw6c58",
-        "storyUrl": "https://aihot.news/story/ba1d5ac2-160e-4d9d-ae98-63405a9bb3f3",
-        "sourceCount": 5,
-        "participantCount": 13,
-        "latestAt": "2026-10-10T23:19:46.957Z",
+        "sourceUrl": "https://www.ithome.com/1/011/620.htm",
+        "aihotUrl": "https://aihot.news/items/ol0knd3cpgss7eue91y4kj5vz",
+        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
+        "sourceCount": 2,
+        "participantCount": 11,
+        "latestAt": "2026-10-11T07:59:43.507Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -441,7 +469,7 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 6,
         "id": "uob3jvsb97uh5achwaggjrhqh",
         "title": "谷歌发布 Gemini 4 Argon，先供可信防御者",
         "sourceName": "Google DeepMind：Blog（RSS）",
@@ -469,7 +497,7 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "a7gbtbm6tcxqz7s7b369vdnvn",
         "title": "微软发布决策模型 Microsoft-Decision-1",
         "sourceName": "X：Satya Nadella (@satyanadella)",
@@ -497,7 +525,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "nop1nw81y2obkwa9apzdu3176",
         "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
         "sourceName": "a16z：News（RSS）",
@@ -505,7 +533,7 @@
         "aihotUrl": "https://aihot.news/items/nop1nw81y2obkwa9apzdu3176",
         "storyUrl": "https://aihot.news/story/6667f027-8bc6-4ed3-b0e2-6e3b61e60803",
         "sourceCount": 5,
-        "participantCount": 15,
+        "participantCount": 16,
         "latestAt": "2026-10-09T23:28:29.367Z",
         "expanded": false,
         "latest": "",
@@ -525,44 +553,16 @@
         }
       },
       {
-        "rank": 8,
-        "id": "at5dvel8balkaba9wrggcrqoj",
-        "title": "Anthropic 新政策首次禁止虐待模型",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/2026-usage-policy-update",
-        "aihotUrl": "https://aihot.news/items/at5dvel8balkaba9wrggcrqoj",
-        "storyUrl": "https://aihot.news/story/100cfaa3-4eb5-4ba9-8199-65be0d26b885",
-        "sourceCount": 1,
-        "participantCount": 18,
-        "latestAt": "2026-10-11T00:08:31.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 9,
-        "id": "qi3wpj7l1sqi28okj1xttkzse",
-        "title": "OpenAI解雇3名研究员，双方就指控各执一词",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
-        "aihotUrl": "https://aihot.news/items/qi3wpj7l1sqi28okj1xttkzse",
-        "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
-        "sourceCount": 4,
-        "participantCount": 16,
-        "latestAt": "2026-10-09T11:45:04.000Z",
+        "id": "kak0tj4uwb1311sr1tb328pkv",
+        "title": "Grok Bot 拍照下单功能引安全质疑",
+        "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+        "sourceUrl": "https://x.com/elonmusk/status/2109027407185277123",
+        "aihotUrl": "https://aihot.news/items/kak0tj4uwb1311sr1tb328pkv",
+        "storyUrl": "https://aihot.news/story/0239e0cb-2576-40cc-beb9-1b5db49a64f9",
+        "sourceCount": 2,
+        "participantCount": 8,
+        "latestAt": "2026-10-11T07:39:04.957Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -570,10 +570,10 @@
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "X：Elon Musk (@elonmusk, xAI)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -582,15 +582,15 @@
       },
       {
         "rank": 10,
-        "id": "j45voriw6fcykynqwt5gwbtmm",
-        "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/009/688.htm",
-        "aihotUrl": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
-        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
-        "sourceCount": 1,
+        "id": "cmu9tfhu904turokx2vfjy34f",
+        "title": "Qwen 开源 Qwen-Image-2.1 并推出 Turbo 加速版",
+        "sourceName": "Qwen：Blog Retrieval（API）",
+        "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "aihotUrl": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
+        "storyUrl": "https://aihot.news/story/d8494f01-e8e1-45e7-a09e-7b427dbeeb8e",
+        "sourceCount": 2,
         "participantCount": 6,
-        "latestAt": "2026-10-11T02:14:18.000Z",
+        "latestAt": "2026-10-09T20:33:17.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -598,7 +598,7 @@
         "visual": {
           "entities": [
             {
-              "name": "IT之家·人工智能",
+              "name": "Qwen：Blog Retrieval（API）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -612,8 +612,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-11T06:19:21.356Z",
-    "nextCheckAt": 1791699861356,
+    "checkedAt": "2026-10-11T13:05:01.328Z",
+    "nextCheckAt": 1791724201328,
     "intervalSeconds": 300,
     "message": ""
   }

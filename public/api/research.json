@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-11T06:19:09.948Z",
-      "lastSuccessAt": "2026-10-11T06:19:09.948Z",
-      "nextCheckAt": 1791703149948,
+      "checkedAt": "2026-10-11T13:04:45.892Z",
+      "lastSuccessAt": "2026-10-11T13:04:45.892Z",
+      "nextCheckAt": 1791727485892,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-11T06:19:09.949Z",
-      "lastSuccessAt": "2026-10-11T06:19:09.949Z",
-      "nextCheckAt": 1791703149949,
+      "checkedAt": "2026-10-11T13:04:45.893Z",
+      "lastSuccessAt": "2026-10-11T13:04:45.893Z",
+      "nextCheckAt": 1791727485893,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-11T06:19:09.950Z",
-      "lastSuccessAt": "2026-10-11T06:19:09.950Z",
-      "nextCheckAt": 1791703149950,
+      "checkedAt": "2026-10-11T13:04:45.894Z",
+      "lastSuccessAt": "2026-10-11T13:04:45.894Z",
+      "nextCheckAt": 1791727485894,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791703150060,
-      "checkedAt": "2026-10-11T06:19:10.060Z",
-      "lastSuccessAt": "2026-10-11T06:19:10.060Z",
+      "nextCheckAt": 1791727486029,
+      "checkedAt": "2026-10-11T13:04:46.029Z",
+      "lastSuccessAt": "2026-10-11T13:04:46.029Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791703149948,
+  "nextCheckAt": 1791727485892,
   "refreshing": false,
   "items": [
+    {
+      "id": "ph:https://www.producthunt.com/products/agibot",
+      "title": "Agibot",
+      "summary": "Personal AI agent for your Mac using your own keys",
+      "publishedAt": "2026-10-10T13:04:39.000Z",
+      "url": "https://www.producthunt.com/products/agibot",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/agibot",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Personal AI agent for your Mac using your own keys",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/farol-3",
+      "title": "Farol",
+      "summary": "The macOS terminal that shows which coding agent needs you",
+      "publishedAt": "2026-10-10T10:38:06.000Z",
+      "url": "https://www.producthunt.com/products/farol-3",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/farol-3",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The macOS terminal that shows which coding agent needs you",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6475925.html",
       "title": "Stripe创始人：AI agent 将重写整个互联网",
@@ -131,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6475913.html",
@@ -171,47 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6475495.html",
-      "title": "为什么 AI 产品需要体验评测",
-      "summary": "当大模型能力差距逐渐收窄，用户体验正成为AI产品商业化的关键变量。本文从用户研究者视角出发，系统论证了为何当下需要体系化开展AI体验评测，技术评测为何无法替代体验评测，以及互联网那套成熟框架为何不能直接照搬。 在 AI 领域内，技术评测——尤其是针对对话大模型产品的，已经相当成熟：方法丰富、迭代快、相关的讨论和文章资料多，岗位机会也不断在出现。与之形成鲜明对比的是体验评测，即真实用户用起来到底怎么样、遇到了什么问题，却很少被关注、讨论。",
-      "publishedAt": "2026-10-10T07:31:40.000Z",
-      "url": "https://www.woshipm.com/ai/6475495.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6475495.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当大模型能力差距逐渐收窄，用户体验正成为AI产品商业化的关键变量。本文从用户研究者视角出发，系统论证了为何当下需要体系化开展AI体验评测，技术评测为何无法替代体验评测，以及互联网那套成熟框架为何不能直接照搬。 在 AI 领域内，技术评测——尤其是针对对话大模型产品的，已经相当成熟：方法丰富、迭代快、相关的讨论和文章资料多，岗位机会也不断在出现。与之形成鲜明对比的是体验评测，即真实用户用起来到底怎么样、遇到了什么问题，却很少被关注、讨论。",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/lune-research",
@@ -247,86 +287,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "The search engine built for scientific AI agents",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/maildun-for-mac",
-      "title": "Maildun for Mac",
-      "summary": "Design on-brand emails by hand, with AI, or over MCP",
-      "publishedAt": "2026-10-10T01:06:33.000Z",
-      "url": "https://www.producthunt.com/products/maildun-for-mac",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/maildun-for-mac",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Design on-brand emails by hand, with AI, or over MCP",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/agentdock",
-      "title": "AgentDock",
-      "summary": "Answer Claude Code & Codex from one Inbox, in any terminal",
-      "publishedAt": "2026-10-09T21:55:39.000Z",
-      "url": "https://www.producthunt.com/products/agentdock",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/agentdock",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Answer Claude Code & Codex from one Inbox, in any terminal",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
