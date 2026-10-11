@@ -1,7 +1,7 @@
 {
   "date": "2026年10月12日",
   "demo": false,
-  "updatedAt": "2026-10-11T18:00:31.300Z",
+  "updatedAt": "2026-10-11T21:46:57.340Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 108,
+    "received": 100,
     "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -47,8 +47,8 @@
         "group": "研究与方法",
         "focus": "LLM、模型使用与学习方法",
         "url": "https://x.com/karpathy",
-        "matched": 0,
-        "status": "历史观点已核对"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "swyx",
@@ -365,7 +365,7 @@
       "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
       "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
       "sourceCount": 7,
-      "participantCount": 25,
+      "participantCount": 22,
       "latestAt": "2026-10-10T14:41:16.000Z",
       "expanded": true,
       "latest": "Anthropic 切断内部评估的联网访问以防止意外行为",
@@ -413,34 +413,6 @@
     },
     {
       "rank": 4,
-      "id": "uob3jvsb97uh5achwaggjrhqh",
-      "title": "谷歌发布 Gemini 4 Argon，先供可信防御者",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
-      "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
-      "sourceCount": 2,
-      "participantCount": 19,
-      "latestAt": "2026-10-10T08:59:49.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "ol0knd3cpgss7eue91y4kj5vz",
       "title": "马斯克确认SpaceXAI更名SpaceXSI",
       "sourceName": "IT之家·人工智能",
@@ -448,7 +420,7 @@
       "aihotUrl": "https://aihot.news/items/ol0knd3cpgss7eue91y4kj5vz",
       "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
       "sourceCount": 2,
-      "participantCount": 11,
+      "participantCount": 12,
       "latestAt": "2026-10-11T07:59:43.507Z",
       "expanded": false,
       "latest": "",
@@ -468,16 +440,16 @@
       }
     },
     {
-      "rank": 6,
-      "id": "m77leauczmowax4odp8ql7dkl",
-      "title": "Grok Bot 新增专属邮箱功能",
-      "sourceName": "X：Grok (@grok)",
-      "sourceUrl": "https://x.com/grok/status/2108610528423842095",
-      "aihotUrl": "https://aihot.news/items/m77leauczmowax4odp8ql7dkl",
-      "storyUrl": "https://aihot.news/story/d2b86a14-9162-49d5-9df2-0548df6c16a2",
-      "sourceCount": 3,
-      "participantCount": 23,
-      "latestAt": "2026-10-10T00:10:15.320Z",
+      "rank": 5,
+      "id": "uob3jvsb97uh5achwaggjrhqh",
+      "title": "谷歌发布 Gemini 4 Argon，先供可信防御者",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
+      "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
+      "sourceCount": 2,
+      "participantCount": 14,
+      "latestAt": "2026-10-10T08:59:49.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -485,10 +457,10 @@
       "visual": {
         "entities": [
           {
-            "name": "X：Grok (@grok)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",
@@ -496,15 +468,15 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "a7gbtbm6tcxqz7s7b369vdnvn",
       "title": "微软发布决策模型 Microsoft-Decision-1",
       "sourceName": "X：Satya Nadella (@satyanadella)",
       "sourceUrl": "https://x.com/satyanadella/status/2108627925654503761",
       "aihotUrl": "https://aihot.news/items/a7gbtbm6tcxqz7s7b369vdnvn",
       "storyUrl": "https://aihot.news/story/cd73b967-8f2e-455c-b267-b0f1904a91c4",
-      "sourceCount": 6,
-      "participantCount": 18,
+      "sourceCount": 4,
+      "participantCount": 12,
       "latestAt": "2026-10-10T14:57:33.000Z",
       "expanded": false,
       "latest": "",
@@ -524,7 +496,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "dcr5jgm4psy1hqi0bplj2t5h3",
       "title": "Grok Bot 拍照下单功能引安全质疑",
       "sourceName": "X：Elon Musk (@elonmusk, xAI)",
@@ -552,16 +524,16 @@
       }
     },
     {
-      "rank": 9,
-      "id": "nop1nw81y2obkwa9apzdu3176",
-      "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
-      "sourceName": "a16z：News（RSS）",
-      "sourceUrl": "https://www.a16z.news/p/investing-in-typesafe",
-      "aihotUrl": "https://aihot.news/items/nop1nw81y2obkwa9apzdu3176",
-      "storyUrl": "https://aihot.news/story/6667f027-8bc6-4ed3-b0e2-6e3b61e60803",
+      "rank": 8,
+      "id": "f572f90oc11zg6w7s815vz6m4",
+      "title": "Karpathy：LLM 能力认知鸿沟扩大为漏斗",
+      "sourceName": "X：Andrej Karpathy (@karpathy)",
+      "sourceUrl": "https://x.com/karpathy/status/2109361546505966046",
+      "aihotUrl": "https://aihot.news/items/f572f90oc11zg6w7s815vz6m4",
+      "storyUrl": "https://aihot.news/story/9ce2c8e5-8fa1-4763-b493-ddec042860cc",
       "sourceCount": 2,
-      "participantCount": 12,
-      "latestAt": "2026-10-09T23:28:29.367Z",
+      "participantCount": 5,
+      "latestAt": "2026-10-11T20:53:44.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -569,7 +541,35 @@
       "visual": {
         "entities": [
           {
-            "name": "a16z：News（RSS）",
+            "name": "X：Andrej Karpathy (@karpathy)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "m77leauczmowax4odp8ql7dkl",
+      "title": "Grok Bot 新增专属邮箱功能",
+      "sourceName": "X：Grok (@grok)",
+      "sourceUrl": "https://x.com/grok/status/2108610528423842095",
+      "aihotUrl": "https://aihot.news/items/m77leauczmowax4odp8ql7dkl",
+      "storyUrl": "https://aihot.news/story/d2b86a14-9162-49d5-9df2-0548df6c16a2",
+      "sourceCount": 1,
+      "participantCount": 14,
+      "latestAt": "2026-10-10T00:10:15.320Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Grok (@grok)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -581,15 +581,15 @@
     },
     {
       "rank": 10,
-      "id": "lahuztqitfbro4kg9otro2kpe",
-      "title": "高通 CEO 称 AI 公司要求 2028 年手机常驻运行 100B 模型",
-      "sourceName": "X：Alex Heath (@alexeheath)",
-      "sourceUrl": "https://x.com/alexeheath/status/2108962607369793659",
-      "aihotUrl": "https://aihot.news/items/lahuztqitfbro4kg9otro2kpe",
-      "storyUrl": "https://aihot.news/story/76ace905-68bc-41f1-a066-107e9b3928bf",
+      "id": "nop1nw81y2obkwa9apzdu3176",
+      "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
+      "sourceName": "a16z：News（RSS）",
+      "sourceUrl": "https://www.a16z.news/p/investing-in-typesafe",
+      "aihotUrl": "https://aihot.news/items/nop1nw81y2obkwa9apzdu3176",
+      "storyUrl": "https://aihot.news/story/6667f027-8bc6-4ed3-b0e2-6e3b61e60803",
       "sourceCount": 1,
-      "participantCount": 5,
-      "latestAt": "2026-10-10T16:47:22.000Z",
+      "participantCount": 10,
+      "latestAt": "2026-10-09T23:28:29.367Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -597,7 +597,7 @@
       "visual": {
         "entities": [
           {
-            "name": "X：Alex Heath (@alexeheath)",
+            "name": "a16z：News（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
