@@ -1,7 +1,7 @@
 {
   "date": "2026年10月11日",
   "demo": false,
-  "updatedAt": "2026-10-10T21:31:59.365Z",
+  "updatedAt": "2026-10-11T00:24:07.987Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 180,
+    "received": 160,
     "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -144,11 +144,11 @@
   },
   "items": [
     {
-      "id": "aihot-ybz82h3e3s5buegko6vywwv3h",
-      "title": "个人 ChatGPT 订阅现可直接用于 Devin",
-      "brief": "Cognition 宣布个人 ChatGPT 订阅可直接用于 Devin：将 Go、Plus 或 Pro 订阅连接到 Devin 后，所有 GPT 模型用量将从该订阅的配额中扣除。",
-      "summary": "Cognition 宣布个人 ChatGPT 订阅可直接用于 Devin：将 Go、Plus 或 Pro 订阅连接到 Devin 后，所有 GPT 模型用量将从该订阅的配额中扣除。",
-      "category": "行业观察",
+      "id": "aihot-qd9oba2rf2exxm1u52zrglhku",
+      "title": "OpenAI 额度全局重置",
+      "brief": "今天结束前全局重置。",
+      "summary": "今天结束前全局重置。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -156,22 +156,22 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2108777962053292398",
-      "aggregateUrl": "https://aihot.news/items/ybz82h3e3s5buegko6vywwv3h",
+      "sourceUrl": "https://x.com/thsottiaux/status/2109045392684032299",
+      "aggregateUrl": "https://aihot.news/items/qd9oba2rf2exxm1u52zrglhku",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-10T04:33:40.000Z",
+      "publishedAt": "2026-10-10T22:16:20.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
-        "caption": "行业观察",
+        "caption": "产品动态",
         "author": {
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
@@ -369,8 +369,8 @@
       "sourceUrl": "https://www.anthropic.com/news/2026-usage-policy-update",
       "aihotUrl": "https://aihot.news/items/at5dvel8balkaba9wrggcrqoj",
       "storyUrl": "https://aihot.news/story/100cfaa3-4eb5-4ba9-8199-65be0d26b885",
-      "sourceCount": 4,
-      "participantCount": 33,
+      "sourceCount": 3,
+      "participantCount": 31,
       "latestAt": "2026-10-09T03:10:42.000Z",
       "expanded": true,
       "latest": "Claude Code 数字鞭子作者恐遭封禁",
@@ -441,6 +441,62 @@
     },
     {
       "rank": 5,
+      "id": "pygydfau6gpr3a7v7ko4y49ww",
+      "title": "英伟达洽谈收购或追加投资Reflection AI",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
+      "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
+      "storyUrl": "https://aihot.news/story/244f781e-a578-4493-804d-4b4cfa063ea3",
+      "sourceCount": 4,
+      "participantCount": 11,
+      "latestAt": "2026-10-10T22:51:00.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "dvvj5x0kn3nxgdyqrdjyw6c58",
+      "title": "纳德拉：把前沿模型当内部风险管控",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/011/545.htm",
+      "aihotUrl": "https://aihot.news/items/dvvj5x0kn3nxgdyqrdjyw6c58",
+      "storyUrl": "https://aihot.news/story/ba1d5ac2-160e-4d9d-ae98-63405a9bb3f3",
+      "sourceCount": 5,
+      "participantCount": 11,
+      "latestAt": "2026-10-10T23:19:46.957Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "a7gbtbm6tcxqz7s7b369vdnvn",
       "title": "微软发布决策模型 Microsoft-Decision-1",
       "sourceName": "X：Satya Nadella (@satyanadella)",
@@ -468,7 +524,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "id": "nop1nw81y2obkwa9apzdu3176",
       "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
       "sourceName": "a16z：News（RSS）",
@@ -496,15 +552,15 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
       "id": "qi3wpj7l1sqi28okj1xttkzse",
       "title": "OpenAI解雇3名研究员，双方就指控各执一词",
       "sourceName": "The Decoder：AI News（RSS）",
       "sourceUrl": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
       "aihotUrl": "https://aihot.news/items/qi3wpj7l1sqi28okj1xttkzse",
       "storyUrl": "https://aihot.news/story/a2df69da-f530-4cf9-812f-48c246e2402e",
-      "sourceCount": 5,
-      "participantCount": 23,
+      "sourceCount": 4,
+      "participantCount": 20,
       "latestAt": "2026-10-09T11:45:04.000Z",
       "expanded": false,
       "latest": "",
@@ -524,72 +580,16 @@
       }
     },
     {
-      "rank": 8,
-      "id": "winsvtlfubhjfi0wnone83j5c",
-      "title": "Claude 上线 Dashboards 与 Motion 两项测试功能",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/dashboards-and-motion",
-      "aihotUrl": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c",
-      "storyUrl": "https://aihot.news/story/11746796-aea3-4e81-b36c-995f0cf5cdfe",
-      "sourceCount": 2,
-      "participantCount": 15,
-      "latestAt": "2026-10-09T06:57:33.323Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "id": "b2mwouqv4jhfj70uho7s7guti",
       "title": "OpenAI年化收入口径分歧：700亿还是500亿美元",
       "sourceName": "IT之家·人工智能",
       "sourceUrl": "https://www.ithome.com/1/010/751.htm",
       "aihotUrl": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
       "storyUrl": "https://aihot.news/story/d06a5836-f6cc-4ecf-a616-8dd42aceca87",
-      "sourceCount": 2,
-      "participantCount": 15,
+      "sourceCount": 1,
+      "participantCount": 14,
       "latestAt": "2026-10-10T01:15:50.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "zvw2i4tg1gnqq72t596vpqoyl",
-      "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-      "storyUrl": "https://aihot.news/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331",
-      "sourceCount": 2,
-      "participantCount": 11,
-      "latestAt": "2026-10-10T03:04:36.887Z",
       "expanded": false,
       "latest": "",
       "reports": [],

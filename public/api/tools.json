@@ -1,15 +1,24 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-10T21:32:18.236Z",
+  "checkedAt": "2026-10-11T00:24:21.479Z",
   "message": "",
   "codex": {
     "timezone": "Asia/Shanghai",
     "today": "2026-10-11",
-    "checkedAt": "2026-10-11T05:30:22.171+08:00",
-    "monitor": "healthy",
+    "checkedAt": "2026-10-11T06:10:22.166+08:00",
+    "monitor": "attention",
     "outage": false,
     "pageUrl": "https://aihot.news/codex-reset",
     "events": [
+      {
+        "id": "reset-2109045392684032299-1-1",
+        "label": "额度重置",
+        "status": "",
+        "title": "Tibo 预告将重置额度",
+        "at": "2026-10-11T06:16:20.000+08:00",
+        "pageUrl": "https://aihot.news/codex-reset",
+        "sourceUrl": "https://x.com/thsottiaux/status/2109045392684032299"
+      },
       {
         "id": "banked-2107913674593644711-1-1",
         "label": "重置卡发放",
