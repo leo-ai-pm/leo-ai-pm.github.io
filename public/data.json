@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月12日",
+  "date": "2026年10月13日",
   "demo": false,
-  "updatedAt": "2026-10-12T06:36:52.299Z",
+  "updatedAt": "2026-10-12T16:02:43.945Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 115,
-    "latestCount": 2,
+    "received": 164,
+    "latestCount": 3,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -128,8 +128,8 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "Thom_Wolf",
@@ -218,6 +218,43 @@
       }
     },
     {
+      "id": "aihot-qy34vomiupvjxhahybhk8qgkh",
+      "title": "Perplexity CEO 谈 AI 原生中小企业",
+      "brief": "聊得很开心！",
+      "summary": "聊得很开心！",
+      "category": "AI 动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "AravSrinivas",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2109666949836017732",
+      "aggregateUrl": "https://aihot.news/items/qy34vomiupvjxhahybhk8qgkh",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-12T15:26:11.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
+          }
+        ],
+        "caption": "AI 动态",
+        "author": {
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
       "id": "x-karpathy-2079610838143623371",
       "title": "Karpathy：用自由讲述给 LLM 补足上下文",
       "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -264,12 +301,19 @@
       "sourceUrl": "https://x.com/karpathy/status/2109361546505966046",
       "aihotUrl": "https://aihot.news/items/f572f90oc11zg6w7s815vz6m4",
       "storyUrl": "https://aihot.news/story/9ce2c8e5-8fa1-4763-b493-ddec042860cc",
-      "sourceCount": 7,
-      "participantCount": 20,
-      "latestAt": "2026-10-12T01:40:20.000Z",
+      "sourceCount": 8,
+      "participantCount": 23,
+      "latestAt": "2026-10-12T12:51:21.000Z",
       "expanded": true,
-      "latest": "Andrej Karpathy：人们对 LLM 能力的认知正分裂成四个层级",
+      "latest": "Andrej Karpathy 称外部世界只见过 AI 能力的预览，内部前沿系统已在处理专家需数年完成的任务",
       "reports": [
+        {
+          "title": "Andrej Karpathy 称外部世界只见过 AI 能力的预览，内部前沿系统已在处理专家需数年完成的任务",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+          "aihotUrl": "https://aihot.news/items/pg4wldk3gjjb74ihu7pwf6l8m",
+          "publishedAt": "2026-10-12T12:51:21.000Z"
+        },
         {
           "title": "Andrej Karpathy：人们对 LLM 能力的认知正分裂成四个层级",
           "sourceName": "X：邵猛 (@shao__meng)",
@@ -283,13 +327,6 @@
           "sourceUrl": "https://x.com/oran_ge/status/2109435789549715933",
           "aihotUrl": "https://aihot.news/items/ow74qa293gwrl3p6mv1usrt5a",
           "publishedAt": "2026-10-12T00:07:38.000Z"
-        },
-        {
-          "title": "Karpathy 认知漏斗引 indigo 解读：AI 能力认知正分裂为四种现实",
-          "sourceName": "X：indigo (@indigox)",
-          "sourceUrl": "https://x.com/indigox/status/2109431484104974690",
-          "aihotUrl": "https://aihot.news/items/zi1pkvqvyttwph3vh3pwkfko2",
-          "publishedAt": "2026-10-11T23:50:31.000Z"
         }
       ],
       "related": [],
@@ -308,6 +345,56 @@
     },
     {
       "rank": 2,
+      "id": "zqlqer8tnl7ejg2ow3xoq7b9q",
+      "title": "微软发布 Maia 300，2027 年扩至多吉瓦级部署",
+      "sourceName": "X：Satya Nadella (@satyanadella)",
+      "sourceUrl": "https://x.com/satyanadella/status/2109631106404487523",
+      "aihotUrl": "https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q",
+      "storyUrl": "https://aihot.news/story/aa2f60b8-b006-4122-a457-546a28c7f58b",
+      "sourceCount": 6,
+      "participantCount": 15,
+      "latestAt": "2026-10-12T15:24:03.000Z",
+      "expanded": true,
+      "latest": "微软计划到 2027 年将自研 Maia AI 芯片扩展至吉瓦级规模",
+      "reports": [
+        {
+          "title": "微软计划到 2027 年将自研 Maia AI 芯片扩展至吉瓦级规模",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+          "aihotUrl": "https://aihot.news/items/x3u8gm84b20vqg1lsnmwsvrbu",
+          "publishedAt": "2026-10-12T15:24:03.000Z"
+        },
+        {
+          "title": "微软 Maia 300 AI 芯片发布：台积电 N2P 工艺，288GB HBM4 内存、带宽 18TB/s",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/012/115.htm",
+          "aihotUrl": "https://aihot.news/items/y87vgmbb03z4tbsgl8g8wrf2r",
+          "publishedAt": "2026-10-12T14:45:30.847Z"
+        },
+        {
+          "title": "Microsoft 发布 Maia 300 芯片并将 Maia 系列扩展为自家主力推理系统",
+          "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "sourceUrl": "https://x.com/mustafasuleyman/status/2109655335250366752",
+          "aihotUrl": "https://aihot.news/items/i4htnp3pd63qb9dii08bm8l4k",
+          "publishedAt": "2026-10-12T14:40:02.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Satya Nadella (@satyanadella)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "yq7wqt5vmvcc23uv52ol3dt53",
       "title": "亚马逊洽谈约70亿美元收购Decart",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -315,7 +402,7 @@
       "aihotUrl": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
       "storyUrl": "https://aihot.news/story/03d4f9c6-4714-45e7-9db8-7af5df7e940a",
       "sourceCount": 2,
-      "participantCount": 10,
+      "participantCount": 14,
       "latestAt": "2026-10-12T03:02:07.000Z",
       "expanded": true,
       "latest": "WSJ 报道亚马逊洽购 Decart 约 70 亿美元，此前与 Nvidia 和 Anthropic 谈判破裂",
@@ -350,56 +437,6 @@
       }
     },
     {
-      "rank": 3,
-      "id": "pygydfau6gpr3a7v7ko4y49ww",
-      "title": "英伟达洽谈收购或追加投资Reflection AI",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
-      "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
-      "storyUrl": "https://aihot.news/story/244f781e-a578-4493-804d-4b4cfa063ea3",
-      "sourceCount": 4,
-      "participantCount": 18,
-      "latestAt": "2026-10-10T22:51:00.000Z",
-      "expanded": true,
-      "latest": "NVIDIA 传出收购 Reflection AI，作者盘点其近一年收购布局",
-      "reports": [
-        {
-          "title": "NVIDIA 传出收购 Reflection AI，作者盘点其近一年收购布局",
-          "sourceName": "X：马东锡 NLP (@dongxi_nlp)",
-          "sourceUrl": "https://x.com/dongxi_nlp/status/2109054116458566094",
-          "aihotUrl": "https://aihot.news/items/i1tx2kns2mxze0owzdnjfowdm",
-          "publishedAt": "2026-10-10T22:51:00.000Z"
-        },
-        {
-          "title": "消息称英伟达洽谈收购或追加投资 Reflection AI，加码开放权重模型",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/011/541.htm",
-          "aihotUrl": "https://aihot.news/items/a1g0dfc74eryqgog8jzv2iztr",
-          "publishedAt": "2026-10-10T22:46:30.270Z"
-        },
-        {
-          "title": "FT 报道 Nvidia 洽谈收购或追加投资 250 亿美元估值的开源权重模型公司 Reflection AI",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
-          "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
-          "publishedAt": "2026-10-10T20:58:40.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 4,
       "id": "ubbzc82ewyencdpy65uu3zwlo",
       "title": "纳德拉：把前沿模型当内部风险管控",
@@ -407,8 +444,8 @@
       "sourceUrl": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
       "aihotUrl": "https://aihot.news/items/ubbzc82ewyencdpy65uu3zwlo",
       "storyUrl": "https://aihot.news/story/ba1d5ac2-160e-4d9d-ae98-63405a9bb3f3",
-      "sourceCount": 6,
-      "participantCount": 17,
+      "sourceCount": 5,
+      "participantCount": 18,
       "latestAt": "2026-10-11T09:08:35.000Z",
       "expanded": false,
       "latest": "",
@@ -429,15 +466,71 @@
     },
     {
       "rank": 5,
+      "id": "uc0nso7voc9sgagnk82c0se5n",
+      "title": "微软总裁称AI监管不如牛奶洗衣机，呼吁业界担责",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/011/984.htm",
+      "aihotUrl": "https://aihot.news/items/uc0nso7voc9sgagnk82c0se5n",
+      "storyUrl": "https://aihot.news/story/5597a9c1-7e53-4213-b80f-6f99bbb10dd5",
+      "sourceCount": 2,
+      "participantCount": 8,
+      "latestAt": "2026-10-12T15:31:19.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "pygydfau6gpr3a7v7ko4y49ww",
+      "title": "英伟达洽谈收购或追加投资Reflection AI",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
+      "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
+      "storyUrl": "https://aihot.news/story/244f781e-a578-4493-804d-4b4cfa063ea3",
+      "sourceCount": 4,
+      "participantCount": 19,
+      "latestAt": "2026-10-10T22:51:00.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "z54sznsd0r2teb6gqyvwu4nc2",
       "title": "GPT-6.1 Sol 默认上下文提至 500k 并取消订阅长上下文费",
       "sourceName": "X：Tibo (@thsottiaux)",
       "sourceUrl": "https://x.com/thsottiaux/status/2109430343346581527",
       "aihotUrl": "https://aihot.news/items/z54sznsd0r2teb6gqyvwu4nc2",
       "storyUrl": "https://aihot.news/story/fa2e5d50-3b53-4b62-a0f1-5f2aef0240e3",
-      "sourceCount": 3,
-      "participantCount": 7,
-      "latestAt": "2026-10-12T00:23:08.010Z",
+      "sourceCount": 4,
+      "participantCount": 10,
+      "latestAt": "2026-10-12T07:13:58.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -456,72 +549,16 @@
       }
     },
     {
-      "rank": 6,
-      "id": "t84ku2v7k47stcgnoguw0jgra",
-      "title": "阶跃 Step 5 Preview 上线腾讯 WorkBuddy 限免",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/011/852.htm",
-      "aihotUrl": "https://aihot.news/items/t84ku2v7k47stcgnoguw0jgra",
-      "storyUrl": "https://aihot.news/story/792bbb90-504f-4bce-bd85-b7ac291511a8",
-      "sourceCount": 2,
-      "participantCount": 6,
-      "latestAt": "2026-10-12T04:34:29.490Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "bir8i91toko2odq1m8nqkaj0q",
-      "title": "无问芯穹完成23亿元C轮融资",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/011/849.htm",
-      "aihotUrl": "https://aihot.news/items/bir8i91toko2odq1m8nqkaj0q",
-      "storyUrl": "https://aihot.news/story/1f7cff1a-0a9f-4077-b0ea-3939cd6564a4",
-      "sourceCount": 1,
-      "participantCount": 6,
-      "latestAt": "2026-10-12T04:08:12.870Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 8,
-      "id": "ol0knd3cpgss7eue91y4kj5vz",
-      "title": "马斯克确认SpaceXAI更名SpaceXSI",
+      "id": "ifb7jnvz2xvy1atz9v2mzk432",
+      "title": "王兴兴：最大错误是对AI不够相信",
       "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/011/620.htm",
-      "aihotUrl": "https://aihot.news/items/ol0knd3cpgss7eue91y4kj5vz",
-      "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
-      "sourceCount": 2,
-      "participantCount": 11,
-      "latestAt": "2026-10-11T07:59:43.507Z",
+      "sourceUrl": "https://www.ithome.com/1/011/850.htm",
+      "aihotUrl": "https://aihot.news/items/ifb7jnvz2xvy1atz9v2mzk432",
+      "storyUrl": "https://aihot.news/story/0e3d8909-ddc1-4289-a020-d4e058d7f5a0",
+      "sourceCount": 1,
+      "participantCount": 7,
+      "latestAt": "2026-10-12T04:15:58.620Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -541,15 +578,15 @@
     },
     {
       "rank": 9,
-      "id": "atyp08chrii2nxc0vrxvjxv0y",
-      "title": "Anthropic 模型误报凶杀线索给费城警方",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
-      "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
+      "id": "t84ku2v7k47stcgnoguw0jgra",
+      "title": "阶跃 Step 5 Preview 上线腾讯 WorkBuddy 限免",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/011/852.htm",
+      "aihotUrl": "https://aihot.news/items/t84ku2v7k47stcgnoguw0jgra",
+      "storyUrl": "https://aihot.news/story/792bbb90-504f-4bce-bd85-b7ac291511a8",
       "sourceCount": 2,
-      "participantCount": 11,
-      "latestAt": "2026-10-10T14:41:16.000Z",
+      "participantCount": 7,
+      "latestAt": "2026-10-12T04:34:29.490Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -557,10 +594,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
@@ -569,15 +606,15 @@
     },
     {
       "rank": 10,
-      "id": "uob3jvsb97uh5achwaggjrhqh",
-      "title": "谷歌发布 Gemini 4 Argon，先供可信防御者",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
-      "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
+      "id": "d2forcea0e42m8ux4wnlf9g9r",
+      "title": "AMD发布Helion机架方案，面向代理式AI",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/012/103.htm",
+      "aihotUrl": "https://aihot.news/items/d2forcea0e42m8ux4wnlf9g9r",
+      "storyUrl": "https://aihot.news/story/9aa0716c-5b33-404a-a573-7c8b96447bf6",
       "sourceCount": 1,
-      "participantCount": 10,
-      "latestAt": "2026-10-10T08:59:49.000Z",
+      "participantCount": 5,
+      "latestAt": "2026-10-12T14:17:31.797Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -585,10 +622,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",

@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-12T06:36:43.625Z",
-      "lastSuccessAt": "2026-10-12T06:36:43.625Z",
-      "nextCheckAt": 1791790603625,
+      "checkedAt": "2026-10-12T16:02:35.358Z",
+      "lastSuccessAt": "2026-10-12T16:02:35.358Z",
+      "nextCheckAt": 1791824555358,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-12T06:36:43.625Z",
-      "lastSuccessAt": "2026-10-12T06:36:43.625Z",
-      "nextCheckAt": 1791790603625,
+      "checkedAt": "2026-10-12T16:02:35.360Z",
+      "lastSuccessAt": "2026-10-12T16:02:35.360Z",
+      "nextCheckAt": 1791824555360,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-12T06:36:43.626Z",
-      "lastSuccessAt": "2026-10-12T06:36:43.626Z",
-      "nextCheckAt": 1791790603626,
+      "checkedAt": "2026-10-12T16:02:35.361Z",
+      "lastSuccessAt": "2026-10-12T16:02:35.361Z",
+      "nextCheckAt": 1791824555361,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-12T16:02:35.611Z",
+      "lastSuccessAt": "2026-10-12T16:02:35.611Z",
+      "nextCheckAt": 1791824555611,
       "status": "ok",
-      "nextCheckAt": 1791790603807,
-      "checkedAt": "2026-10-12T06:36:43.807Z",
-      "lastSuccessAt": "2026-10-12T06:36:43.807Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791790603625,
+  "nextCheckAt": 1791824555358,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6476677.html",
-      "title": "灵光开始内测 Personal Agent",
-      "summary": "蚂蚁灵光的 Personal Agent 开始小范围内测，新版底部多了「我的生活」Tab。它能连上米家，管理门锁、灯和洗衣机，甚至自己找开源库、装 Python 环境，把 A4 文档排版好再通过打印机打出来。非常 AGI 的一次体验，新版到底新在哪？ 蚂蚁的灵光，开始小范围内测 Personal Agent 了，能够非常顺畅的接通外部能力…比如，直接让他操作我家的打印机，告诉我他这次更新了什么 非常 AGI 的体验 新版，新在哪 在新版",
-      "publishedAt": "2026-10-12T06:25:59.000Z",
-      "url": "https://www.woshipm.com/ai/6476677.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6476767.html",
+      "title": "项目案例分享：产品经理个人工作台",
+      "summary": "AI 产品经理的日常，总在写 PRD、竞品分析、提示词方案和评估报告之间来回切换，重复交代项目背景更是家常便饭。作者干脆自己搭了一个 AI 工作台，把立项、PRD、评估、版本规划等六个入口装进同一个项目空间，让上下文能复用、文档能接着改。本文完整拆解这个工作台的设计思路与使用流程，并分享从界面到协作的踩坑心得。 这阵子在折腾一个AI 产品经理工作台。 可以把立项报告、PRD、竞品分析放进去，还有提示词方案、效果评估和版本规划。做 AI",
+      "publishedAt": "2026-10-12T09:54:29.000Z",
+      "url": "https://www.woshipm.com/ai/6476767.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6476677.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6476767.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "蚂蚁灵光的 Personal Agent 开始小范围内测，新版底部多了「我的生活」Tab。它能连上米家，管理门锁、灯和洗衣机，甚至自己找开源库、装 Python 环境，把 A4 文档排版好再通过打印机打出来。非常 AGI 的一次体验，新版到底新在哪？ 蚂蚁的灵光，开始小范围内测 Personal Agent 了，能够非常顺畅的接通外部能力…比如，直接让他操作我家的打印机，告诉我他这次更新了什么 非常 AGI 的体验 新版，新在哪 在新版",
+      "brief": "AI 产品经理的日常，总在写 PRD、竞品分析、提示词方案和评估报告之间来回切换，重复交代项目背景更是家常便饭。作者干脆自己搭了一个 AI 工作台，把立项、PRD、评估、版本规划等六个入口装进同一个项目空间，让上下文能复用、文档能接着改。本文完整拆解这个工作台的设计思路与使用流程，并分享从界面到协作的踩坑心得。 这阵子在折腾一个AI 产品经理工作台。 可以把立项报告、PRD、竞品分析放进去，还有提示词方案、效果评估和版本规划。做 AI",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,15 +134,15 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6476622.html",
-      "title": "实测Octop开源智能伙伴，它是否干得过WorkBuddy",
-      "summary": "被称作「开源版 WorkBuddy」的 Octop，到底成色如何？老马从安装踩坑、接入模型，到专家、记忆、云端协同和插件市场，做了一轮完整体验。Agent 的外壳换了又换，本质却大同小异；真正决定能力的，还是模型本身。 这算迟到的测评了，之前一直有小伙伴想让老马实测一下Octop，看看这款开源的AI Agent到底怎样。 毕竟网上很多博主都在说，Octop就是开源版、内网版的WorkBuddy，甚至比WorkBuddy还强大，啥样牛啤的",
-      "publishedAt": "2026-10-12T03:38:53.000Z",
-      "url": "https://www.woshipm.com/ai/6476622.html",
+      "id": "woshipm:https://www.woshipm.com/it/6476880.html",
+      "title": "模型长出交互界面，“手搓”AI应用要全面退潮了？",
+      "summary": "OpenAI 推出 Intelligent UI，让 ChatGPT 从文字回答升级为可点击的图表、表单和交互工具，模型正从信息提供者变为任务交互入口。这一变化不仅冲击移动应用生态，更可能让手搓 AI 应用成为被跨过的弯路。本文深度解析 Intelligent UI 对应用入口、流量分配及国内大模型布局的深远影响。 10月7日，OpenAI宣布将GPT-6与Intelligent UI带入更广泛的ChatGPT日常聊天体验。用户向Cha",
+      "publishedAt": "2026-10-12T09:54:13.000Z",
+      "url": "https://www.woshipm.com/it/6476880.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6476622.html",
+      "sourceUrl": "https://www.woshipm.com/it/6476880.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "被称作「开源版 WorkBuddy」的 Octop，到底成色如何？老马从安装踩坑、接入模型，到专家、记忆、云端协同和插件市场，做了一轮完整体验。Agent 的外壳换了又换，本质却大同小异；真正决定能力的，还是模型本身。 这算迟到的测评了，之前一直有小伙伴想让老马实测一下Octop，看看这款开源的AI Agent到底怎样。 毕竟网上很多博主都在说，Octop就是开源版、内网版的WorkBuddy，甚至比WorkBuddy还强大，啥样牛啤的",
+      "brief": "OpenAI 推出 Intelligent UI，让 ChatGPT 从文字回答升级为可点击的图表、表单和交互工具，模型正从信息提供者变为任务交互入口。这一变化不仅冲击移动应用生态，更可能让手搓 AI 应用成为被跨过的弯路。本文深度解析 Intelligent UI 对应用入口、流量分配及国内大模型布局的深远影响。 10月7日，OpenAI宣布将GPT-6与Intelligent UI带入更广泛的ChatGPT日常聊天体验。用户向Cha",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,11 +174,11 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/chuangye/6475498.html",
-      "title": "Photoroom：3亿用户的 AI 抠图工具",
-      "summary": "手机拍一张商品照片，AI 自动去掉背景，再把商品放进白色摄影棚或者咖啡馆；如果卖的是衣服，还能生成一位虚拟模特。它可以一次处理 250张商品图片，让不同商品保持相同的背景、光线和模特风格。到今年6月，全球累计用户已达 3亿。 今天分享的是：Photoroom，https://www.photoroom.com/ 看到 Photoroom 之前，我也没想到（区区）一个抠图+换背景的 AI 工具能做这么大。 Photoroom 很简单，用户",
-      "publishedAt": "2026-10-12T02:45:34.000Z",
-      "url": "https://www.woshipm.com/chuangye/6475498.html",
+      "id": "ph:https://www.producthunt.com/products/kudos-smart-wallet",
+      "title": "Kudos 3.0",
+      "summary": "The AI that finds money you're missing and gets it back",
+      "publishedAt": "2026-10-12T01:58:06.000Z",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -188,37 +188,37 @@
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/chuangye/6475498.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "手机拍一张商品照片，AI 自动去掉背景，再把商品放进白色摄影棚或者咖啡馆；如果卖的是衣服，还能生成一位虚拟模特。它可以一次处理 250张商品图片，让不同商品保持相同的背景、光线和模特风格。到今年6月，全球累计用户已达 3亿。 今天分享的是：Photoroom，https://www.photoroom.com/ 看到 Photoroom 之前，我也没想到（区区）一个抠图+换背景的 AI 工具能做这么大。 Photoroom 很简单，用户",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The AI that finds money you're missing and gets it back",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
+      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/agibot",
-      "title": "Agibot",
-      "summary": "The always-on personal AI agent for your Mac. $0 forever",
-      "publishedAt": "2026-10-10T13:04:39.000Z",
-      "url": "https://www.producthunt.com/products/agibot",
+      "id": "ph:https://www.producthunt.com/products/excaliclaw",
+      "title": "ExcaliClaw",
+      "summary": "Hand-drawn diagrams your AI agent can draw with you",
+      "publishedAt": "2026-10-11T21:09:34.000Z",
+      "url": "https://www.producthunt.com/products/excaliclaw",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -242,11 +242,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/agibot",
+      "sourceUrl": "https://www.producthunt.com/products/excaliclaw",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "The always-on personal AI agent for your Mac. $0 forever",
+      "brief": "Hand-drawn diagrams your AI agent can draw with you",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -254,51 +254,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/farol-3",
-      "title": "Farol",
-      "summary": "The macOS terminal that shows which coding agent needs you",
-      "publishedAt": "2026-10-10T10:38:06.000Z",
-      "url": "https://www.producthunt.com/products/farol-3",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/farol-3",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The macOS terminal that shows which coding agent needs you",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/agentdock",
-      "title": "AgentDock",
-      "summary": "Answer Claude Code & Codex from one Inbox, in any terminal",
-      "publishedAt": "2026-10-09T21:55:39.000Z",
-      "url": "https://www.producthunt.com/products/agentdock",
+      "id": "ph:https://www.producthunt.com/products/manifold-mcp",
+      "title": "Manifold MCP",
+      "summary": "SEO, AI answers, social, ads and leads data for your agent",
+      "publishedAt": "2026-10-11T21:01:27.000Z",
+      "url": "https://www.producthunt.com/products/manifold-mcp",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -322,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/agentdock",
+      "sourceUrl": "https://www.producthunt.com/products/manifold-mcp",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Answer Claude Code & Codex from one Inbox, in any terminal",
+      "brief": "SEO, AI answers, social, ads and leads data for your agent",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
