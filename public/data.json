@@ -1,7 +1,7 @@
 {
   "date": "2026年10月13日",
   "demo": false,
-  "updatedAt": "2026-10-12T16:02:43.945Z",
+  "updatedAt": "2026-10-12T22:52:19.949Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 164,
-    "latestCount": 3,
+    "received": 265,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -47,8 +47,8 @@
         "group": "研究与方法",
         "focus": "LLM、模型使用与学习方法",
         "url": "https://x.com/karpathy",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "历史观点已核对"
       },
       {
         "handle": "swyx",
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 5,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 1,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -137,8 +137,8 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 2,
+        "status": "本次收录"
       }
     ]
   },
@@ -181,31 +181,37 @@
       }
     },
     {
-      "id": "aihot-k3xj40cybsjtxo8zm51onx4pu",
-      "title": "回复机器人转向提问式互动",
-      "brief": "令人沮丧的是，这个平台上普通的回复机器人已经把它的回复垃圾角度转向了提出有趣的问题。",
-      "summary": "令人沮丧的是，这个平台上普通的回复机器人已经把它的回复垃圾角度转向了提出有趣的问题。",
+      "id": "aihot-emce8ucafv5c69i0us750cs58",
+      "title": "OpenAI 与 Anthropic 的成本智能优化之争",
+      "brief": "是的，而且有理由认为，OpenAI 和 Anthropic 将最擅长解决如何用不同能力层级的智能体组合来优化 AI 成本/智能比的问题——这些智能体经过专门训练，能在各自的 harness 中良好协作。",
+      "summary": "是的，而且有理由认为，OpenAI 和 Anthropic 将最擅长解决如何用不同能力层级的智能体组合来优化 AI 成本/智能比的问题——这些智能体经过专门训练，能在各自的 harness 中良好协作。",
       "category": "AI 动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "emollick",
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2109500734207373434",
-      "aggregateUrl": "https://aihot.news/items/k3xj40cybsjtxo8zm51onx4pu",
+      "sourceUrl": "https://x.com/emollick/status/2109755776202137686",
+      "aggregateUrl": "https://aihot.news/items/emce8ucafv5c69i0us750cs58",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-12T04:25:42.000Z",
+      "publishedAt": "2026-10-12T21:19:09.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Ethan Mollick",
-            "asset": "/assets/identities/emollick.jpg",
-            "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          },
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "AI 动态",
@@ -218,22 +224,22 @@
       }
     },
     {
-      "id": "aihot-qy34vomiupvjxhahybhk8qgkh",
-      "title": "Perplexity CEO 谈 AI 原生中小企业",
-      "brief": "聊得很开心！",
-      "summary": "聊得很开心！",
-      "category": "AI 动态",
-      "topic": "AI 产品",
+      "id": "aihot-c1ekpz5xokpbq6r5t6fzcycra",
+      "title": "Perplexity：每个 Project 都是一个 Git 仓库",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布每个 Perplexity Project 都是一个 Git 仓库，团队为此构建了面向智能体的 Git forge。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布每个 Perplexity Project 都是一个 Git 仓库，团队为此构建了面向智能体的 Git forge。",
+      "category": "实践与观点",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2109666949836017732",
-      "aggregateUrl": "https://aihot.news/items/qy34vomiupvjxhahybhk8qgkh",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2109738344011972893",
+      "aggregateUrl": "https://aihot.news/items/c1ekpz5xokpbq6r5t6fzcycra",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-12T15:26:11.000Z",
+      "publishedAt": "2026-10-12T20:09:52.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -245,11 +251,48 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "AI 动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-h27nmjmgpgwlnxhoyfdz2gdy9",
+      "title": "Hugging Face 发布开放 SOTA 决策模型",
+      "brief": "开放且最先进的决策模型——就这么一说",
+      "summary": "开放且最先进的决策模型——就这么一说",
+      "category": "AI 动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2109679054559256890",
+      "aggregateUrl": "https://aihot.news/items/h27nmjmgpgwlnxhoyfdz2gdy9",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-12T16:14:17.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
+          }
+        ],
+        "caption": "AI 动态",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
@@ -295,45 +338,45 @@
   "ranking": [
     {
       "rank": 1,
-      "id": "f572f90oc11zg6w7s815vz6m4",
-      "title": "Karpathy：LLM 能力认知鸿沟扩大为漏斗",
-      "sourceName": "X：Andrej Karpathy (@karpathy)",
-      "sourceUrl": "https://x.com/karpathy/status/2109361546505966046",
-      "aihotUrl": "https://aihot.news/items/f572f90oc11zg6w7s815vz6m4",
-      "storyUrl": "https://aihot.news/story/9ce2c8e5-8fa1-4763-b493-ddec042860cc",
-      "sourceCount": 8,
-      "participantCount": 23,
-      "latestAt": "2026-10-12T12:51:21.000Z",
+      "id": "v3pogrzxrk9oba4blox86d0w8",
+      "title": "Meta 发布 Muse Wonder 系列前沿模型",
+      "sourceName": "Artificial Analysis 完整文章（网页）",
+      "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
+      "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
+      "storyUrl": "https://aihot.news/story/f7f99eb7-84e6-4450-a43f-668dca988b22",
+      "sourceCount": 14,
+      "participantCount": 49,
+      "latestAt": "2026-10-12T18:48:29.000Z",
       "expanded": true,
-      "latest": "Andrej Karpathy 称外部世界只见过 AI 能力的预览，内部前沿系统已在处理专家需数年完成的任务",
+      "latest": "Meta 发布前沿模型 Muse Wonder 系列，Muse Wonder Full 以 56 分跻身 AI 顶级梯队",
       "reports": [
         {
-          "title": "Andrej Karpathy 称外部世界只见过 AI 能力的预览，内部前沿系统已在处理专家需数年完成的任务",
+          "title": "Meta 发布前沿模型 Muse Wonder 系列，Muse Wonder Full 以 56 分跻身 AI 顶级梯队",
           "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
-          "aihotUrl": "https://aihot.news/items/pg4wldk3gjjb74ihu7pwf6l8m",
-          "publishedAt": "2026-10-12T12:51:21.000Z"
+          "sourceUrl": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+          "aihotUrl": "https://aihot.news/items/fol1fzzyt08lxoeumaubhax5r",
+          "publishedAt": "2026-10-12T18:48:29.000Z"
         },
         {
-          "title": "Andrej Karpathy：人们对 LLM 能力的认知正分裂成四个层级",
-          "sourceName": "X：邵猛 (@shao__meng)",
-          "sourceUrl": "https://x.com/shao__meng/status/2109459120881573998",
-          "aihotUrl": "https://aihot.news/items/l9xf1569rkx05ns7ps7dsqsbg",
-          "publishedAt": "2026-10-12T01:40:20.000Z"
+          "title": "Meta 发布前沿模型 Muse Wonder，多项基准超过 Opus 5.5 和 GPT-6 Astra",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2109715889130193210",
+          "aihotUrl": "https://aihot.news/items/c8qocn8v5ixe8m39ckbped8fu",
+          "publishedAt": "2026-10-12T18:40:39.000Z"
         },
         {
-          "title": "冷知识，大部分人不用大模型是因为大模型对他们没用，没有ROI 人不傻",
-          "sourceName": "X：Oran Ge (@oran_ge)",
-          "sourceUrl": "https://x.com/oran_ge/status/2109435789549715933",
-          "aihotUrl": "https://aihot.news/items/ow74qa293gwrl3p6mv1usrt5a",
-          "publishedAt": "2026-10-12T00:07:38.000Z"
+          "title": "Meta Muse Wonder 早期体验与进展",
+          "sourceName": "X：Ethan Mollick (@emollick)",
+          "sourceUrl": "https://x.com/emollick/status/2109714218014667039",
+          "aihotUrl": "https://aihot.news/items/t1z1qu6h3yn388iel1fvpjza1",
+          "publishedAt": "2026-10-12T18:34:00.000Z"
         }
       ],
       "related": [],
       "visual": {
         "entities": [
           {
-            "name": "X：Andrej Karpathy (@karpathy)",
+            "name": "Artificial Analysis 完整文章（网页）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -352,7 +395,7 @@
       "aihotUrl": "https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q",
       "storyUrl": "https://aihot.news/story/aa2f60b8-b006-4122-a457-546a28c7f58b",
       "sourceCount": 6,
-      "participantCount": 15,
+      "participantCount": 20,
       "latestAt": "2026-10-12T15:24:03.000Z",
       "expanded": true,
       "latest": "微软计划到 2027 年将自研 Maia AI 芯片扩展至吉瓦级规模",
@@ -395,38 +438,45 @@
     },
     {
       "rank": 3,
-      "id": "yq7wqt5vmvcc23uv52ol3dt53",
-      "title": "亚马逊洽谈约70亿美元收购Decart",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2109479701689565297",
-      "aihotUrl": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
-      "storyUrl": "https://aihot.news/story/03d4f9c6-4714-45e7-9db8-7af5df7e940a",
-      "sourceCount": 2,
-      "participantCount": 14,
-      "latestAt": "2026-10-12T03:02:07.000Z",
+      "id": "f572f90oc11zg6w7s815vz6m4",
+      "title": "Karpathy：LLM 能力认知鸿沟扩大为漏斗",
+      "sourceName": "X：Andrej Karpathy (@karpathy)",
+      "sourceUrl": "https://x.com/karpathy/status/2109361546505966046",
+      "aihotUrl": "https://aihot.news/items/f572f90oc11zg6w7s815vz6m4",
+      "storyUrl": "https://aihot.news/story/9ce2c8e5-8fa1-4763-b493-ddec042860cc",
+      "sourceCount": 8,
+      "participantCount": 25,
+      "latestAt": "2026-10-12T12:51:21.000Z",
       "expanded": true,
-      "latest": "WSJ 报道亚马逊洽购 Decart 约 70 亿美元，此前与 Nvidia 和 Anthropic 谈判破裂",
+      "latest": "Andrej Karpathy 称外部世界只见过 AI 能力的预览，内部前沿系统已在处理专家需数年完成的任务",
       "reports": [
         {
-          "title": "WSJ 报道亚马逊洽购 Decart 约 70 亿美元，此前与 Nvidia 和 Anthropic 谈判破裂",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2109479701689565297",
-          "aihotUrl": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
-          "publishedAt": "2026-10-12T03:02:07.000Z"
+          "title": "Andrej Karpathy 称外部世界只见过 AI 能力的预览，内部前沿系统已在处理专家需数年完成的任务",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+          "aihotUrl": "https://aihot.news/items/pg4wldk3gjjb74ihu7pwf6l8m",
+          "publishedAt": "2026-10-12T12:51:21.000Z"
         },
         {
-          "title": "消息称亚马逊洽谈以约 70 亿美元收购 AI 初创公司 Decart",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/011/720.htm",
-          "aihotUrl": "https://aihot.news/items/j24j6hpw87bni62cbxx20mykp",
-          "publishedAt": "2026-10-11T23:01:49.197Z"
+          "title": "Andrej Karpathy：人们对 LLM 能力的认知正分裂成四个层级",
+          "sourceName": "X：邵猛 (@shao__meng)",
+          "sourceUrl": "https://x.com/shao__meng/status/2109459120881573998",
+          "aihotUrl": "https://aihot.news/items/l9xf1569rkx05ns7ps7dsqsbg",
+          "publishedAt": "2026-10-12T01:40:20.000Z"
+        },
+        {
+          "title": "冷知识，大部分人不用大模型是因为大模型对他们没用，没有ROI 人不傻",
+          "sourceName": "X：Oran Ge (@oran_ge)",
+          "sourceUrl": "https://x.com/oran_ge/status/2109435789549715933",
+          "aihotUrl": "https://aihot.news/items/ow74qa293gwrl3p6mv1usrt5a",
+          "publishedAt": "2026-10-12T00:07:38.000Z"
         }
       ],
       "related": [],
       "visual": {
         "entities": [
           {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "name": "X：Andrej Karpathy (@karpathy)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -438,15 +488,15 @@
     },
     {
       "rank": 4,
-      "id": "ubbzc82ewyencdpy65uu3zwlo",
-      "title": "纳德拉：把前沿模型当内部风险管控",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
-      "aihotUrl": "https://aihot.news/items/ubbzc82ewyencdpy65uu3zwlo",
-      "storyUrl": "https://aihot.news/story/ba1d5ac2-160e-4d9d-ae98-63405a9bb3f3",
-      "sourceCount": 5,
-      "participantCount": 18,
-      "latestAt": "2026-10-11T09:08:35.000Z",
+      "id": "yq7wqt5vmvcc23uv52ol3dt53",
+      "title": "亚马逊洽谈约70亿美元收购Decart",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2109479701689565297",
+      "aihotUrl": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
+      "storyUrl": "https://aihot.news/story/03d4f9c6-4714-45e7-9db8-7af5df7e940a",
+      "sourceCount": 2,
+      "participantCount": 14,
+      "latestAt": "2026-10-12T03:02:07.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -454,7 +504,7 @@
       "visual": {
         "entities": [
           {
-            "name": "The Decoder：AI News（RSS）",
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -473,7 +523,7 @@
       "aihotUrl": "https://aihot.news/items/uc0nso7voc9sgagnk82c0se5n",
       "storyUrl": "https://aihot.news/story/5597a9c1-7e53-4213-b80f-6f99bbb10dd5",
       "sourceCount": 2,
-      "participantCount": 8,
+      "participantCount": 10,
       "latestAt": "2026-10-12T15:31:19.000Z",
       "expanded": false,
       "latest": "",
@@ -494,34 +544,6 @@
     },
     {
       "rank": 6,
-      "id": "pygydfau6gpr3a7v7ko4y49ww",
-      "title": "英伟达洽谈收购或追加投资Reflection AI",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2109025847835529580",
-      "aihotUrl": "https://aihot.news/items/pygydfau6gpr3a7v7ko4y49ww",
-      "storyUrl": "https://aihot.news/story/244f781e-a578-4493-804d-4b4cfa063ea3",
-      "sourceCount": 4,
-      "participantCount": 19,
-      "latestAt": "2026-10-10T22:51:00.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
       "id": "z54sznsd0r2teb6gqyvwu4nc2",
       "title": "GPT-6.1 Sol 默认上下文提至 500k 并取消订阅长上下文费",
       "sourceName": "X：Tibo (@thsottiaux)",
@@ -529,7 +551,7 @@
       "aihotUrl": "https://aihot.news/items/z54sznsd0r2teb6gqyvwu4nc2",
       "storyUrl": "https://aihot.news/story/fa2e5d50-3b53-4b62-a0f1-5f2aef0240e3",
       "sourceCount": 4,
-      "participantCount": 10,
+      "participantCount": 11,
       "latestAt": "2026-10-12T07:13:58.000Z",
       "expanded": false,
       "latest": "",
@@ -549,16 +571,44 @@
       }
     },
     {
-      "rank": 8,
-      "id": "ifb7jnvz2xvy1atz9v2mzk432",
-      "title": "王兴兴：最大错误是对AI不够相信",
+      "rank": 7,
+      "id": "d2forcea0e42m8ux4wnlf9g9r",
+      "title": "AMD发布Helion机架方案，面向代理式AI",
       "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/011/850.htm",
-      "aihotUrl": "https://aihot.news/items/ifb7jnvz2xvy1atz9v2mzk432",
-      "storyUrl": "https://aihot.news/story/0e3d8909-ddc1-4289-a020-d4e058d7f5a0",
+      "sourceUrl": "https://www.ithome.com/1/012/103.htm",
+      "aihotUrl": "https://aihot.news/items/d2forcea0e42m8ux4wnlf9g9r",
+      "storyUrl": "https://aihot.news/story/9aa0716c-5b33-404a-a573-7c8b96447bf6",
       "sourceCount": 1,
-      "participantCount": 7,
-      "latestAt": "2026-10-12T04:15:58.620Z",
+      "participantCount": 8,
+      "latestAt": "2026-10-12T14:17:31.797Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "a4u0jvjubwovt8s4dte0o5r8n",
+      "title": "谷歌正式发布 Fitbit Edge 健康手环",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/010/172.htm",
+      "aihotUrl": "https://aihot.news/items/a4u0jvjubwovt8s4dte0o5r8n",
+      "storyUrl": "https://aihot.news/story/97867a64-6acf-4162-84ef-ae703563ac91",
+      "sourceCount": 1,
+      "participantCount": 8,
+      "latestAt": "2026-10-12T19:55:44.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -578,15 +628,15 @@
     },
     {
       "rank": 9,
-      "id": "t84ku2v7k47stcgnoguw0jgra",
-      "title": "阶跃 Step 5 Preview 上线腾讯 WorkBuddy 限免",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/011/852.htm",
-      "aihotUrl": "https://aihot.news/items/t84ku2v7k47stcgnoguw0jgra",
-      "storyUrl": "https://aihot.news/story/792bbb90-504f-4bce-bd85-b7ac291511a8",
-      "sourceCount": 2,
+      "id": "ttzjdmgrt0vozxx3f9tmmpo35",
+      "title": "SubQ 发布 384K 上下文决策模型 Snap",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2109713379757867045",
+      "aihotUrl": "https://aihot.news/items/ttzjdmgrt0vozxx3f9tmmpo35",
+      "storyUrl": "https://aihot.news/story/a0882d61-22db-4402-a8a9-e37cb79d0c01",
+      "sourceCount": 1,
       "participantCount": 7,
-      "latestAt": "2026-10-12T04:34:29.490Z",
+      "latestAt": "2026-10-12T18:30:40.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -594,7 +644,7 @@
       "visual": {
         "entities": [
           {
-            "name": "IT之家·人工智能",
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -606,15 +656,15 @@
     },
     {
       "rank": 10,
-      "id": "d2forcea0e42m8ux4wnlf9g9r",
-      "title": "AMD发布Helion机架方案，面向代理式AI",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/012/103.htm",
-      "aihotUrl": "https://aihot.news/items/d2forcea0e42m8ux4wnlf9g9r",
-      "storyUrl": "https://aihot.news/story/9aa0716c-5b33-404a-a573-7c8b96447bf6",
-      "sourceCount": 1,
-      "participantCount": 5,
-      "latestAt": "2026-10-12T14:17:31.797Z",
+      "id": "ubbzc82ewyencdpy65uu3zwlo",
+      "title": "纳德拉：把前沿模型当内部风险管控",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+      "aihotUrl": "https://aihot.news/items/ubbzc82ewyencdpy65uu3zwlo",
+      "storyUrl": "https://aihot.news/story/ba1d5ac2-160e-4d9d-ae98-63405a9bb3f3",
+      "sourceCount": 2,
+      "participantCount": 13,
+      "latestAt": "2026-10-11T09:08:35.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -622,7 +672,7 @@
       "visual": {
         "entities": [
           {
-            "name": "IT之家·人工智能",
+            "name": "The Decoder：AI News（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
