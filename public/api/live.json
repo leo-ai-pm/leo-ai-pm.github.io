@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月12日",
     "demo": false,
-    "updatedAt": "2026-10-12T00:45:09.610Z",
+    "updatedAt": "2026-10-12T06:36:52.299Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 101,
+      "received": 115,
       "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 4,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -182,22 +182,22 @@
         }
       },
       {
-        "id": "aihot-upmzuryq8t0z2rkl7q9hhc2dc",
-        "title": "Karpathy 提出 LLM 能力认知漏斗，Ethan Mollick 补充实验室内部应用仍集中",
-        "brief": "Ethan Mollick 转引 Andrej Karpathy 的推文，Karpathy 估算约 75% 的人几乎没接触过 LLM，约 20% 是免费档轻度用户，约 2000 万数学与代码专业者能亲眼看到智能体在数周内完成过去数月的项目，而约 5000 名实验室内部人员则在观察数千智能体协作数周的软件大型项目、漏洞挖掘、网络攻防、科学发现与前沿数学进展。",
-        "summary": "Ethan Mollick 转引 Andrej Karpathy 的推文，Karpathy 估算约 75% 的人几乎没接触过 LLM，约 20% 是免费档轻度用户，约 2000 万数学与代码专业者能亲眼看到智能体在数周内完成过去数月的项目，而约 5000 名实验室内部人员则在观察数千智能体协作数周的软件大型项目、漏洞挖掘、网络攻防、科学发现与前沿数学进展。",
+        "id": "aihot-k3xj40cybsjtxo8zm51onx4pu",
+        "title": "回复机器人转向提问式互动",
+        "brief": "令人沮丧的是，这个平台上普通的回复机器人已经把它的回复垃圾角度转向了提出有趣的问题。",
+        "summary": "令人沮丧的是，这个平台上普通的回复机器人已经把它的回复垃圾角度转向了提出有趣的问题。",
         "category": "AI 动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "emollick",
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2109422437616029941",
-        "aggregateUrl": "https://aihot.news/items/upmzuryq8t0z2rkl7q9hhc2dc",
+        "sourceUrl": "https://x.com/emollick/status/2109500734207373434",
+        "aggregateUrl": "https://aihot.news/items/k3xj40cybsjtxo8zm51onx4pu",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-11T23:14:34.000Z",
+        "publishedAt": "2026-10-12T04:25:42.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -265,12 +265,19 @@
         "sourceUrl": "https://x.com/karpathy/status/2109361546505966046",
         "aihotUrl": "https://aihot.news/items/f572f90oc11zg6w7s815vz6m4",
         "storyUrl": "https://aihot.news/story/9ce2c8e5-8fa1-4763-b493-ddec042860cc",
-        "sourceCount": 6,
-        "participantCount": 13,
-        "latestAt": "2026-10-12T00:07:38.000Z",
+        "sourceCount": 7,
+        "participantCount": 20,
+        "latestAt": "2026-10-12T01:40:20.000Z",
         "expanded": true,
-        "latest": "冷知识，大部分人不用大模型是因为大模型对他们没用，没有ROI 人不傻",
+        "latest": "Andrej Karpathy：人们对 LLM 能力的认知正分裂成四个层级",
         "reports": [
+          {
+            "title": "Andrej Karpathy：人们对 LLM 能力的认知正分裂成四个层级",
+            "sourceName": "X：邵猛 (@shao__meng)",
+            "sourceUrl": "https://x.com/shao__meng/status/2109459120881573998",
+            "aihotUrl": "https://aihot.news/items/l9xf1569rkx05ns7ps7dsqsbg",
+            "publishedAt": "2026-10-12T01:40:20.000Z"
+          },
           {
             "title": "冷知识，大部分人不用大模型是因为大模型对他们没用，没有ROI 人不傻",
             "sourceName": "X：Oran Ge (@oran_ge)",
@@ -284,13 +291,6 @@
             "sourceUrl": "https://x.com/indigox/status/2109431484104974690",
             "aihotUrl": "https://aihot.news/items/zi1pkvqvyttwph3vh3pwkfko2",
             "publishedAt": "2026-10-11T23:50:31.000Z"
-          },
-          {
-            "title": "Karpathy：80 亿人被 AI 认知鸿沟分成四个层级",
-            "sourceName": "X：howie.serious (@howie_serious)",
-            "sourceUrl": "https://x.com/howie_serious/status/2109427343123239205",
-            "aihotUrl": "https://aihot.news/items/lf92qczuk9xyi17jhbi46o2mr",
-            "publishedAt": "2026-10-11T23:34:04.000Z"
           }
         ],
         "related": [],
@@ -309,6 +309,49 @@
       },
       {
         "rank": 2,
+        "id": "yq7wqt5vmvcc23uv52ol3dt53",
+        "title": "亚马逊洽谈约70亿美元收购Decart",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2109479701689565297",
+        "aihotUrl": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
+        "storyUrl": "https://aihot.news/story/03d4f9c6-4714-45e7-9db8-7af5df7e940a",
+        "sourceCount": 2,
+        "participantCount": 10,
+        "latestAt": "2026-10-12T03:02:07.000Z",
+        "expanded": true,
+        "latest": "WSJ 报道亚马逊洽购 Decart 约 70 亿美元，此前与 Nvidia 和 Anthropic 谈判破裂",
+        "reports": [
+          {
+            "title": "WSJ 报道亚马逊洽购 Decart 约 70 亿美元，此前与 Nvidia 和 Anthropic 谈判破裂",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2109479701689565297",
+            "aihotUrl": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
+            "publishedAt": "2026-10-12T03:02:07.000Z"
+          },
+          {
+            "title": "消息称亚马逊洽谈以约 70 亿美元收购 AI 初创公司 Decart",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/011/720.htm",
+            "aihotUrl": "https://aihot.news/items/j24j6hpw87bni62cbxx20mykp",
+            "publishedAt": "2026-10-11T23:01:49.197Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Rohan Paul (@rohanpaul_ai)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
         "id": "pygydfau6gpr3a7v7ko4y49ww",
         "title": "英伟达洽谈收购或追加投资Reflection AI",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -358,7 +401,7 @@
         }
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "ubbzc82ewyencdpy65uu3zwlo",
         "title": "纳德拉：把前沿模型当内部风险管控",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -366,33 +409,11 @@
         "aihotUrl": "https://aihot.news/items/ubbzc82ewyencdpy65uu3zwlo",
         "storyUrl": "https://aihot.news/story/ba1d5ac2-160e-4d9d-ae98-63405a9bb3f3",
         "sourceCount": 6,
-        "participantCount": 16,
+        "participantCount": 17,
         "latestAt": "2026-10-11T09:08:35.000Z",
-        "expanded": true,
-        "latest": "Microsoft CEO 纳德拉改用 Super Intelligence 表述并抨击 OpenAI 和 Anthropic",
-        "reports": [
-          {
-            "title": "Microsoft CEO 纳德拉改用 Super Intelligence 表述并抨击 OpenAI 和 Anthropic",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
-            "aihotUrl": "https://aihot.news/items/ubbzc82ewyencdpy65uu3zwlo",
-            "publishedAt": "2026-10-11T09:08:35.000Z"
-          },
-          {
-            "title": "微软 CEO 纳德拉发文：开发者应默认假设 AI 模型失控并设计强制中断机制",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/011/545.htm",
-            "aihotUrl": "https://aihot.news/items/dvvj5x0kn3nxgdyqrdjyw6c58",
-            "publishedAt": "2026-10-10T23:19:46.957Z"
-          },
-          {
-            "title": "纳德拉称应默认所有 AI 模型已被攻破并呼吁设置紧急制动",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-            "aihotUrl": "https://aihot.news/items/ikhcwb4q60hj65bnff3gqi2cm",
-            "publishedAt": "2026-10-10T22:10:17.000Z"
-          }
-        ],
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -408,44 +429,16 @@
         }
       },
       {
-        "rank": 4,
-        "id": "ol0knd3cpgss7eue91y4kj5vz",
-        "title": "马斯克确认SpaceXAI更名SpaceXSI",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/011/620.htm",
-        "aihotUrl": "https://aihot.news/items/ol0knd3cpgss7eue91y4kj5vz",
-        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
-        "sourceCount": 2,
-        "participantCount": 12,
-        "latestAt": "2026-10-11T07:59:43.507Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 5,
-        "id": "atyp08chrii2nxc0vrxvjxv0y",
-        "title": "Anthropic 模型误报凶杀线索给费城警方",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-        "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
-        "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
-        "sourceCount": 4,
-        "participantCount": 17,
-        "latestAt": "2026-10-10T14:41:16.000Z",
+        "id": "z54sznsd0r2teb6gqyvwu4nc2",
+        "title": "GPT-6.1 Sol 默认上下文提至 500k 并取消订阅长上下文费",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2109430343346581527",
+        "aihotUrl": "https://aihot.news/items/z54sznsd0r2teb6gqyvwu4nc2",
+        "storyUrl": "https://aihot.news/story/fa2e5d50-3b53-4b62-a0f1-5f2aef0240e3",
+        "sourceCount": 3,
+        "participantCount": 7,
+        "latestAt": "2026-10-12T00:23:08.010Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -453,10 +446,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -465,15 +458,15 @@
       },
       {
         "rank": 6,
-        "id": "j24j6hpw87bni62cbxx20mykp",
-        "title": "亚马逊洽谈约70亿美元收购Decart",
+        "id": "t84ku2v7k47stcgnoguw0jgra",
+        "title": "阶跃 Step 5 Preview 上线腾讯 WorkBuddy 限免",
         "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/011/720.htm",
-        "aihotUrl": "https://aihot.news/items/j24j6hpw87bni62cbxx20mykp",
-        "storyUrl": "https://aihot.news/story/03d4f9c6-4714-45e7-9db8-7af5df7e940a",
-        "sourceCount": 1,
+        "sourceUrl": "https://www.ithome.com/1/011/852.htm",
+        "aihotUrl": "https://aihot.news/items/t84ku2v7k47stcgnoguw0jgra",
+        "storyUrl": "https://aihot.news/story/792bbb90-504f-4bce-bd85-b7ac291511a8",
+        "sourceCount": 2,
         "participantCount": 6,
-        "latestAt": "2026-10-11T23:01:49.197Z",
+        "latestAt": "2026-10-12T04:34:29.490Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -493,6 +486,90 @@
       },
       {
         "rank": 7,
+        "id": "bir8i91toko2odq1m8nqkaj0q",
+        "title": "无问芯穹完成23亿元C轮融资",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/011/849.htm",
+        "aihotUrl": "https://aihot.news/items/bir8i91toko2odq1m8nqkaj0q",
+        "storyUrl": "https://aihot.news/story/1f7cff1a-0a9f-4077-b0ea-3939cd6564a4",
+        "sourceCount": 1,
+        "participantCount": 6,
+        "latestAt": "2026-10-12T04:08:12.870Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "ol0knd3cpgss7eue91y4kj5vz",
+        "title": "马斯克确认SpaceXAI更名SpaceXSI",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/011/620.htm",
+        "aihotUrl": "https://aihot.news/items/ol0knd3cpgss7eue91y4kj5vz",
+        "storyUrl": "https://aihot.news/story/397fcf8b-ea91-4150-a638-8fd4679eed40",
+        "sourceCount": 2,
+        "participantCount": 11,
+        "latestAt": "2026-10-11T07:59:43.507Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "atyp08chrii2nxc0vrxvjxv0y",
+        "title": "Anthropic 模型误报凶杀线索给费城警方",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "aihotUrl": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
+        "storyUrl": "https://aihot.news/story/4e124b64-1274-4d7e-8dfb-3e73663a850c",
+        "sourceCount": 2,
+        "participantCount": 11,
+        "latestAt": "2026-10-10T14:41:16.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "uob3jvsb97uh5achwaggjrhqh",
         "title": "谷歌发布 Gemini 4 Argon，先供可信防御者",
         "sourceName": "Google DeepMind：Blog（RSS）",
@@ -500,7 +577,7 @@
         "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
         "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
         "sourceCount": 1,
-        "participantCount": 11,
+        "participantCount": 10,
         "latestAt": "2026-10-10T08:59:49.000Z",
         "expanded": false,
         "latest": "",
@@ -518,97 +595,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 8,
-        "id": "dcr5jgm4psy1hqi0bplj2t5h3",
-        "title": "Grok Bot 拍照下单功能引安全质疑",
-        "sourceName": "X：Elon Musk (@elonmusk, xAI)",
-        "sourceUrl": "https://x.com/elonmusk/status/2109254811254403387",
-        "aihotUrl": "https://aihot.news/items/dcr5jgm4psy1hqi0bplj2t5h3",
-        "storyUrl": "https://aihot.news/story/0239e0cb-2576-40cc-beb9-1b5db49a64f9",
-        "sourceCount": 2,
-        "participantCount": 8,
-        "latestAt": "2026-10-11T12:11:34.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Elon Musk (@elonmusk, xAI)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "a7gbtbm6tcxqz7s7b369vdnvn",
-        "title": "微软发布决策模型 Microsoft-Decision-1",
-        "sourceName": "X：Satya Nadella (@satyanadella)",
-        "sourceUrl": "https://x.com/satyanadella/status/2108627925654503761",
-        "aihotUrl": "https://aihot.news/items/a7gbtbm6tcxqz7s7b369vdnvn",
-        "storyUrl": "https://aihot.news/story/cd73b967-8f2e-455c-b267-b0f1904a91c4",
-        "sourceCount": 2,
-        "participantCount": 8,
-        "latestAt": "2026-10-10T14:57:33.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Satya Nadella (@satyanadella)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "lahuztqitfbro4kg9otro2kpe",
-        "title": "高通 CEO 称 AI 公司要求 2028 年手机常驻运行 100B 模型",
-        "sourceName": "X：Alex Heath (@alexeheath)",
-        "sourceUrl": "https://x.com/alexeheath/status/2108962607369793659",
-        "aihotUrl": "https://aihot.news/items/lahuztqitfbro4kg9otro2kpe",
-        "storyUrl": "https://aihot.news/story/76ace905-68bc-41f1-a066-107e9b3928bf",
-        "sourceCount": 1,
-        "participantCount": 5,
-        "latestAt": "2026-10-10T16:47:22.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Alex Heath (@alexeheath)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-12T00:45:09.610Z",
-    "nextCheckAt": 1791766209610,
+    "checkedAt": "2026-10-12T06:36:52.299Z",
+    "nextCheckAt": 1791787312299,
     "intervalSeconds": 300,
     "message": ""
   }

@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-12T00:45:02.904Z",
-      "lastSuccessAt": "2026-10-12T00:45:02.904Z",
-      "nextCheckAt": 1791769502904,
+      "checkedAt": "2026-10-12T06:36:43.625Z",
+      "lastSuccessAt": "2026-10-12T06:36:43.625Z",
+      "nextCheckAt": 1791790603625,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-12T06:36:43.625Z",
+      "lastSuccessAt": "2026-10-12T06:36:43.625Z",
+      "nextCheckAt": 1791790603625,
       "status": "ok",
-      "nextCheckAt": 1791769502906,
-      "checkedAt": "2026-10-12T00:45:02.906Z",
-      "lastSuccessAt": "2026-10-12T00:45:02.906Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-12T00:45:02.907Z",
-      "lastSuccessAt": "2026-10-12T00:45:02.907Z",
-      "nextCheckAt": 1791769502907,
+      "checkedAt": "2026-10-12T06:36:43.626Z",
+      "lastSuccessAt": "2026-10-12T06:36:43.626Z",
+      "nextCheckAt": 1791790603626,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791769503121,
-      "checkedAt": "2026-10-12T00:45:03.121Z",
-      "lastSuccessAt": "2026-10-12T00:45:03.121Z",
+      "nextCheckAt": 1791790603807,
+      "checkedAt": "2026-10-12T06:36:43.807Z",
+      "lastSuccessAt": "2026-10-12T06:36:43.807Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791769502904,
+  "nextCheckAt": 1791790603625,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6476677.html",
+      "title": "灵光开始内测 Personal Agent",
+      "summary": "蚂蚁灵光的 Personal Agent 开始小范围内测，新版底部多了「我的生活」Tab。它能连上米家，管理门锁、灯和洗衣机，甚至自己找开源库、装 Python 环境，把 A4 文档排版好再通过打印机打出来。非常 AGI 的一次体验，新版到底新在哪？ 蚂蚁的灵光，开始小范围内测 Personal Agent 了，能够非常顺畅的接通外部能力…比如，直接让他操作我家的打印机，告诉我他这次更新了什么 非常 AGI 的体验 新版，新在哪 在新版",
+      "publishedAt": "2026-10-12T06:25:59.000Z",
+      "url": "https://www.woshipm.com/ai/6476677.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6476677.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "蚂蚁灵光的 Personal Agent 开始小范围内测，新版底部多了「我的生活」Tab。它能连上米家，管理门锁、灯和洗衣机，甚至自己找开源库、装 Python 环境，把 A4 文档排版好再通过打印机打出来。非常 AGI 的一次体验，新版到底新在哪？ 蚂蚁的灵光，开始小范围内测 Personal Agent 了，能够非常顺畅的接通外部能力…比如，直接让他操作我家的打印机，告诉我他这次更新了什么 非常 AGI 的体验 新版，新在哪 在新版",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6476622.html",
+      "title": "实测Octop开源智能伙伴，它是否干得过WorkBuddy",
+      "summary": "被称作「开源版 WorkBuddy」的 Octop，到底成色如何？老马从安装踩坑、接入模型，到专家、记忆、云端协同和插件市场，做了一轮完整体验。Agent 的外壳换了又换，本质却大同小异；真正决定能力的，还是模型本身。 这算迟到的测评了，之前一直有小伙伴想让老马实测一下Octop，看看这款开源的AI Agent到底怎样。 毕竟网上很多博主都在说，Octop就是开源版、内网版的WorkBuddy，甚至比WorkBuddy还强大，啥样牛啤的",
+      "publishedAt": "2026-10-12T03:38:53.000Z",
+      "url": "https://www.woshipm.com/ai/6476622.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6476622.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "被称作「开源版 WorkBuddy」的 Octop，到底成色如何？老马从安装踩坑、接入模型，到专家、记忆、云端协同和插件市场，做了一轮完整体验。Agent 的外壳换了又换，本质却大同小异；真正决定能力的，还是模型本身。 这算迟到的测评了，之前一直有小伙伴想让老马实测一下Octop，看看这款开源的AI Agent到底怎样。 毕竟网上很多博主都在说，Octop就是开源版、内网版的WorkBuddy，甚至比WorkBuddy还强大，啥样牛啤的",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/chuangye/6475498.html",
+      "title": "Photoroom：3亿用户的 AI 抠图工具",
+      "summary": "手机拍一张商品照片，AI 自动去掉背景，再把商品放进白色摄影棚或者咖啡馆；如果卖的是衣服，还能生成一位虚拟模特。它可以一次处理 250张商品图片，让不同商品保持相同的背景、光线和模特风格。到今年6月，全球累计用户已达 3亿。 今天分享的是：Photoroom，https://www.photoroom.com/ 看到 Photoroom 之前，我也没想到（区区）一个抠图+换背景的 AI 工具能做这么大。 Photoroom 很简单，用户",
+      "publishedAt": "2026-10-12T02:45:34.000Z",
+      "url": "https://www.woshipm.com/chuangye/6475498.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/chuangye/6475498.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "手机拍一张商品照片，AI 自动去掉背景，再把商品放进白色摄影棚或者咖啡馆；如果卖的是衣服，还能生成一位虚拟模特。它可以一次处理 250张商品图片，让不同商品保持相同的背景、光线和模特风格。到今年6月，全球累计用户已达 3亿。 今天分享的是：Photoroom，https://www.photoroom.com/ 看到 Photoroom 之前，我也没想到（区区）一个抠图+换背景的 AI 工具能做这么大。 Photoroom 很简单，用户",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "ph:https://www.producthunt.com/products/agibot",
       "title": "Agibot",
@@ -131,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/farol-3",
@@ -171,94 +291,14 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6475925.html",
-      "title": "Stripe创始人：AI agent 将重写整个互联网",
-      "summary": "Stripe 联合创始人 John Collison 在 Sourcery 播客访谈里聊 AI agent：填网页表单不是任何人的增值活动，computer use 是通往真实世界的向后兼容层，Stripe 把 2026 年 1 月 1 日定为「奇点纪元」第一天。 你有没有想过，如果你想让 AI 替你续一张驾照，要等多久，DMV（车管所）才会给自己的网站加上 MCP（让 AI 调用外部工具的协议）？Stripe 联合创始人 John C",
-      "publishedAt": "2026-10-10T09:30:10.000Z",
-      "url": "https://www.woshipm.com/ai/6475925.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6475925.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Stripe 联合创始人 John Collison 在 Sourcery 播客访谈里聊 AI agent：填网页表单不是任何人的增值活动，computer use 是通往真实世界的向后兼容层，Stripe 把 2026 年 1 月 1 日定为「奇点纪元」第一天。 你有没有想过，如果你想让 AI 替你续一张驾照，要等多久，DMV（车管所）才会给自己的网站加上 MCP（让 AI 调用外部工具的协议）？Stripe 联合创始人 John C",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6475913.html",
-      "title": "旅行成为个人 Agent 的高频场景，「豆包工作」把几十小时攻略浓缩成 PPT",
-      "summary": "作者把一份两人同行、六天五晚的北京旅行方案交给「豆包工作」：先用 Skill 录入旅行方法，再让三个 Agent 并行查资料，最后产出一份可继续修改、便于同行者讨论的行程文档与 PPT。 回顾一下国庆假期。共同出行中负责做攻略的人，要处理的事情通常比找几个好去处更琐碎：酒店离地铁近不近，逛完景点还要走多远才能吃饭，同伴临时想加一个展览，当天原有的安排又该怎样挪动。每个选项都牵动时间、预算和偏好，查到的信息还要被反复比较、解释和修改。 k",
-      "publishedAt": "2026-10-10T09:29:22.000Z",
-      "url": "https://www.woshipm.com/ai/6475913.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6475913.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "作者把一份两人同行、六天五晚的北京旅行方案交给「豆包工作」：先用 Skill 录入旅行方法，再让三个 Agent 并行查资料，最后产出一份可继续修改、便于同行者讨论的行程文档与 PPT。 回顾一下国庆假期。共同出行中负责做攻略的人，要处理的事情通常比找几个好去处更琐碎：酒店离地铁近不近，逛完景点还要走多远才能吃饭，同伴临时想加一个展览，当天原有的安排又该怎样挪动。每个选项都牵动时间、预算和偏好，查到的信息还要被反复比较、解释和修改。 k",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/lune-research",
-      "title": "Lune",
-      "summary": "The search engine built for scientific AI agents",
-      "publishedAt": "2026-10-10T03:56:36.000Z",
-      "url": "https://www.producthunt.com/products/lune-research",
+      "id": "ph:https://www.producthunt.com/products/agentdock",
+      "title": "AgentDock",
+      "summary": "Answer Claude Code & Codex from one Inbox, in any terminal",
+      "publishedAt": "2026-10-09T21:55:39.000Z",
+      "url": "https://www.producthunt.com/products/agentdock",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -282,11 +322,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/lune-research",
+      "sourceUrl": "https://www.producthunt.com/products/agentdock",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "The search engine built for scientific AI agents",
+      "brief": "Answer Claude Code & Codex from one Inbox, in any terminal",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
