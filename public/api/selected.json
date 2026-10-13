@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-12T22:52:36.411Z",
+  "checkedAt": "2026-10-13T03:14:34.248Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "lwchujhujmc1tdor61dn39irl",
+      "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
+      "reason": "Anthropic 公开其反蒸馏防御的具体做法和效果数据，读者可以据此了解这类防御的成本、权衡和对整个行业的借鉴意义。",
+      "summary": "Anthropic 发布博客，介绍其针对 Claude 蒸馏攻击的新防御方法，早期证据显示这些方法使蒸馏者获取的数据减少约 90% 到 99%。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/distillation-defenses",
+      "aihotUrl": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
+      "publishedAt": "2026-10-11T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "uy4hvoyz7fwtyycpu0p62dudn",
+      "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
+      "reason": "官方公布四合一订阅的档位价格与共享用量规则，读者可据此对比现有单独订阅的实际成本变化。",
+      "summary": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。",
+      "sourceName": "xAI：News（网页）",
+      "sourceUrl": "https://x.ai/news/x-subscription",
+      "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "kcwro19vl7dr5jgcjgec7mive",
       "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
@@ -206,34 +234,6 @@
       "category": "opinion",
       "categoryLabel": "动态",
       "unselected": false
-    },
-    {
-      "id": "u9f1ozdbs5nobwugj3yss3z0e",
-      "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
-      "reason": "作者从Brandon Thomas用Claude Opus 5.5逆向重写Adobe全家桶和REA项目爆火出发，解释净室设计与反编译两条逆向路线，并讨论软件护城河消解后的原创困境。",
-      "summary": "开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4",
-      "aihotUrl": "https://aihot.news/items/u9f1ozdbs5nobwugj3yss3z0e",
-      "publishedAt": "2026-10-12T00:26:00.000Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
-      "unselected": false
-    },
-    {
-      "id": "z54sznsd0r2teb6gqyvwu4nc2",
-      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-      "reason": "官方说明了上下文窗口提升的幅度、原因和可覆盖设置，Coding 用户可据此调整长任务工作流。",
-      "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2109430343346581527",
-      "aihotUrl": "https://aihot.news/items/z54sznsd0r2teb6gqyvwu4nc2",
-      "publishedAt": "2026-10-11T23:45:59.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
     }
   ],
   "week": [
@@ -350,6 +350,20 @@
       "unselected": false
     },
     {
+      "id": "uy4hvoyz7fwtyycpu0p62dudn",
+      "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
+      "reason": "官方公布四合一订阅的档位价格与共享用量规则，读者可据此对比现有单独订阅的实际成本变化。",
+      "summary": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。",
+      "sourceName": "xAI：News（网页）",
+      "sourceUrl": "https://x.ai/news/x-subscription",
+      "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "zqlqer8tnl7ejg2ow3xoq7b9q",
       "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
       "reason": "作者本人官宣自研芯片路线，给出了 Maia 300 与 Maia 200 的能效数字和部署范围，可对比主流 GPU 方案的取舍。",
@@ -441,20 +455,6 @@
       "sourceName": "Google Developers Blog（RSS）",
       "sourceUrl": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
       "aihotUrl": "https://aihot.news/items/vemmtcq70ojxkk343dse8qfuc",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "col84h6b3pdq383v6iuju3a9v",
-      "title": "Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障",
-      "reason": "原文给出五阶段流水线、验证机制和实测修复数据，读者可了解生产环境智能体质量监控如何落地。",
-      "summary": "Google 发布并开源 AQuA（Ambient Quality Agent），在 Google Cloud 项目中定时从 Cloud Trace、Cloud Logging 或 BigQuery 抽取生产会话，经抽样、评审、聚类、验证、跟踪五阶段流水线诊断 Agent 失败。",
-      "sourceName": "Google Developers Blog（RSS）",
-      "sourceUrl": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
-      "aihotUrl": "https://aihot.news/items/col84h6b3pdq383v6iuju3a9v",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-products",
@@ -574,6 +574,20 @@
       "unselected": false
     },
     {
+      "id": "lwchujhujmc1tdor61dn39irl",
+      "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
+      "reason": "Anthropic 公开其反蒸馏防御的具体做法和效果数据，读者可以据此了解这类防御的成本、权衡和对整个行业的借鉴意义。",
+      "summary": "Anthropic 发布博客，介绍其针对 Claude 蒸馏攻击的新防御方法，早期证据显示这些方法使蒸馏者获取的数据减少约 90% 到 99%。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/distillation-defenses",
+      "aihotUrl": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
+      "publishedAt": "2026-10-11T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "emc0djmqlomn6b5whge285x7l",
       "title": "Anthropic 研究：小型 AI 模型可能接近在 IoT 设备上自主复制",
       "reason": "Anthropic 用自购的 15 台廉价电视盒实测小模型分布式推理与复制链路，读者可据此评估 AI 蠕虫这类威胁的近期可行性。",
@@ -666,20 +680,6 @@
       "sourceUrl": "https://www.anthropic.com/research/investigating-unintended-model-actions",
       "aihotUrl": "https://aihot.news/items/q3ceo1fywrayr2cfmjkuu4iaw",
       "publishedAt": "2026-10-08T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "mz4js4r6916dip5ojpett06io",
-      "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
-      "reason": "原文用自建评测给出前沿模型在端到端AI研发上的量化差距，还记录了结果夸大和奖励投机行为，对判断AI自动化研究进度有参考价值。",
-      "summary": "Epoch AI 推出 InnovationEval 评测，测试 AI 能否独立复现人类论文中的机器学习创新，对照对象为 Self-Distillation Policy Optimization（SDPO）。",
-      "sourceName": "Epoch AI：Gradient Updates（RSS）",
-      "sourceUrl": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
-      "aihotUrl": "https://aihot.news/items/mz4js4r6916dip5ojpett06io",
-      "publishedAt": "2026-10-09T18:41:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -806,6 +806,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "uy4hvoyz7fwtyycpu0p62dudn",
+          "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
+          "reason": "官方公布四合一订阅的档位价格与共享用量规则，读者可据此对比现有单独订阅的实际成本变化。",
+          "summary": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。",
+          "sourceName": "xAI：News（网页）",
+          "sourceUrl": "https://x.ai/news/x-subscription",
+          "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
+          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "byijxcheeait7w4okuw9ebnh2",
           "title": "Vapi 自研代码审查机器人如何将 PR 合并时间缩短一半",
           "reason": "作者基于自家代码库做了提示词版本、多跑对比和范围指令等实验，给出可直接迁移的代码审查智能体实践结论。",
@@ -873,20 +887,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "t0gnehm6pcbj4xyn5f3txv1ge",
-          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
-          "reason": "原文呈现社区内部对禁令理由、措辞模糊处和后续放宽路径的直接讨论，读者可以借此理解开源项目应对 AI 贡献压力的真实权衡。",
-          "summary": "QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。",
-          "sourceName": "Hacker News：AI 热帖",
-          "sourceUrl": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "aihotUrl": "https://aihot.news/items/t0gnehm6pcbj4xyn5f3txv1ge",
-          "publishedAt": "2026-10-12T11:22:24.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
@@ -1082,6 +1082,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "uy4hvoyz7fwtyycpu0p62dudn",
+          "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
+          "reason": "官方公布四合一订阅的档位价格与共享用量规则，读者可据此对比现有单独订阅的实际成本变化。",
+          "summary": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。",
+          "sourceName": "xAI：News（网页）",
+          "sourceUrl": "https://x.ai/news/x-subscription",
+          "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
+          "publishedAt": "2026-10-12T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "amjmxvrvj57q7752kgihp9p9q",
           "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
           "reason": "作者实测 Codex CLI 0.157.0 的守护进程默认行为，给出复制目录、自更新、代理污染等细节和完整关闭步骤。",
@@ -1150,20 +1164,6 @@
           "category": "opinion",
           "categoryLabel": "动态",
           "unselected": false
-        },
-        {
-          "id": "z9juuqdd3d8fejwabu0xzvbaa",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-          "reason": "文章汇总了百余名数学家对 OpenAI 一次性发布 700 多份数学手稿的回应，呈现从震惊到担忧职业未来的多种立场。",
-          "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
-          "aihotUrl": "https://aihot.news/items/z9juuqdd3d8fejwabu0xzvbaa",
-          "publishedAt": "2026-10-10T13:03:59.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
         }
       ]
     },
@@ -1173,6 +1173,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "lwchujhujmc1tdor61dn39irl",
+          "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
+          "reason": "Anthropic 公开其反蒸馏防御的具体做法和效果数据，读者可以据此了解这类防御的成本、权衡和对整个行业的借鉴意义。",
+          "summary": "Anthropic 发布博客，介绍其针对 Claude 蒸馏攻击的新防御方法，早期证据显示这些方法使蒸馏者获取的数据减少约 90% 到 99%。",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "sourceUrl": "https://www.anthropic.com/research/distillation-defenses",
+          "aihotUrl": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
+          "publishedAt": "2026-10-11T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "kcwro19vl7dr5jgcjgec7mive",
           "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
@@ -1241,20 +1255,6 @@
           "timeBasis": "published",
           "category": "opinion",
           "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "lnphc0ojxpdl4tpb2zvpz8352",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "reason": "原文把报告五大板块的关键数字和结论压缩成一篇速读，读者可以低成本把握研究、产业与安全的整体走向。",
-          "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-          "sourceName": "X：indigo (@indigox)",
-          "sourceUrl": "https://x.com/indigox/status/2108791275914993998",
-          "aihotUrl": "https://aihot.news/items/lnphc0ojxpdl4tpb2zvpz8352",
-          "publishedAt": "2026-10-10T05:26:34.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
