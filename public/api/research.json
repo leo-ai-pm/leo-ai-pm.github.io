@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-13T03:14:12.871Z",
-      "lastSuccessAt": "2026-10-13T03:14:12.871Z",
-      "nextCheckAt": 1791864852871,
+      "checkedAt": "2026-10-13T10:43:44.459Z",
+      "lastSuccessAt": "2026-10-13T10:43:44.459Z",
+      "nextCheckAt": 1791891824459,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-13T03:14:12.872Z",
-      "lastSuccessAt": "2026-10-13T03:14:12.872Z",
-      "nextCheckAt": 1791864852872,
+      "checkedAt": "2026-10-13T10:43:44.460Z",
+      "lastSuccessAt": "2026-10-13T10:43:44.460Z",
+      "nextCheckAt": 1791891824460,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-13T03:14:12.873Z",
-      "lastSuccessAt": "2026-10-13T03:14:12.873Z",
-      "nextCheckAt": 1791864852873,
+      "checkedAt": "2026-10-13T10:43:44.461Z",
+      "lastSuccessAt": "2026-10-13T10:43:44.461Z",
+      "nextCheckAt": 1791891824461,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-13T10:43:44.731Z",
+      "lastSuccessAt": "2026-10-13T10:43:44.731Z",
+      "nextCheckAt": 1791891824731,
       "status": "ok",
-      "nextCheckAt": 1791864853043,
-      "checkedAt": "2026-10-13T03:14:13.043Z",
-      "lastSuccessAt": "2026-10-13T03:14:13.043Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791864852871,
+  "nextCheckAt": 1791891824459,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6476767.html",
-      "title": "项目案例分享：产品经理个人工作台",
-      "summary": "AI 产品经理的日常，总在写 PRD、竞品分析、提示词方案和评估报告之间来回切换，重复交代项目背景更是家常便饭。作者干脆自己搭了一个 AI 工作台，把立项、PRD、评估、版本规划等六个入口装进同一个项目空间，让上下文能复用、文档能接着改。本文完整拆解这个工作台的设计思路与使用流程，并分享从界面到协作的踩坑心得。 这阵子在折腾一个AI 产品经理工作台。 可以把立项报告、PRD、竞品分析放进去，还有提示词方案、效果评估和版本规划。做 AI",
-      "publishedAt": "2026-10-12T09:54:29.000Z",
-      "url": "https://www.woshipm.com/ai/6476767.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6477460.html",
+      "title": "开源「红绿灯」提示语，解决Agent刹不住车浪费token额度的老毛病",
+      "summary": "Agent 从不会主动说做完了，每轮都抛来一批新的优化清单，一个半小时的需求拖成一下午。作者手搓了不到三百字的进度提示语，用绿黄红三色收尾：绿灯只记搁置项，黄灯给带证据的后续计划，红灯存档结束，额度也省下来了。 我给Agent每次对话结尾加了三个emoji，把额度省下来了，也终于可以不需要被模型暗示把任务无限往下跑了。 现在是凌晨两点，我盯着屏幕上的Claude Code和Codex窗口发呆。本来我是想做一个逆向做一个vibe codi",
+      "publishedAt": "2026-10-13T08:56:20.000Z",
+      "url": "https://www.woshipm.com/ai/6477460.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6476767.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6477460.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "AI 产品经理的日常，总在写 PRD、竞品分析、提示词方案和评估报告之间来回切换，重复交代项目背景更是家常便饭。作者干脆自己搭了一个 AI 工作台，把立项、PRD、评估、版本规划等六个入口装进同一个项目空间，让上下文能复用、文档能接着改。本文完整拆解这个工作台的设计思路与使用流程，并分享从界面到协作的踩坑心得。 这阵子在折腾一个AI 产品经理工作台。 可以把立项报告、PRD、竞品分析放进去，还有提示词方案、效果评估和版本规划。做 AI",
+      "brief": "Agent 从不会主动说做完了，每轮都抛来一批新的优化清单，一个半小时的需求拖成一下午。作者手搓了不到三百字的进度提示语，用绿黄红三色收尾：绿灯只记搁置项，黄灯给带证据的后续计划，红灯存档结束，额度也省下来了。 我给Agent每次对话结尾加了三个emoji，把额度省下来了，也终于可以不需要被模型暗示把任务无限往下跑了。 现在是凌晨两点，我盯着屏幕上的Claude Code和Codex窗口发呆。本来我是想做一个逆向做一个vibe codi",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,15 +134,15 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/it/6476880.html",
-      "title": "模型长出交互界面，“手搓”AI应用要全面退潮了？",
-      "summary": "OpenAI 推出 Intelligent UI，让 ChatGPT 从文字回答升级为可点击的图表、表单和交互工具，模型正从信息提供者变为任务交互入口。这一变化不仅冲击移动应用生态，更可能让手搓 AI 应用成为被跨过的弯路。本文深度解析 Intelligent UI 对应用入口、流量分配及国内大模型布局的深远影响。 10月7日，OpenAI宣布将GPT-6与Intelligent UI带入更广泛的ChatGPT日常聊天体验。用户向Cha",
-      "publishedAt": "2026-10-12T09:54:13.000Z",
-      "url": "https://www.woshipm.com/it/6476880.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6477455.html",
+      "title": "蚂蚁灵光内测新版 Personal Agent：接管钉钉、遥控电脑，一手体验！",
+      "summary": "新版灵光从生成个人应用转向带长期记忆、能主动推进长程任务的 AI 管家，给每个用户一台 24 小时运行的 Linux 云电脑。作者实测让它接管散落各处的自家 Agent，一句话把电脑上的文件发回来、一句话调用电脑上的 Agent。 九月份，Personal Agent 突然“又”火了。 这个赛道半年前已经热过一次：当时龙虾刚出来，所有人都在养龙虾，朋友圈、公众号每天都是各种养龙虾。但后来许多人部署过龙虾后，没有找到真实的使用场景，龙虾的",
+      "publishedAt": "2026-10-13T08:52:21.000Z",
+      "url": "https://www.woshipm.com/ai/6477455.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/it/6476880.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6477455.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "OpenAI 推出 Intelligent UI，让 ChatGPT 从文字回答升级为可点击的图表、表单和交互工具，模型正从信息提供者变为任务交互入口。这一变化不仅冲击移动应用生态，更可能让手搓 AI 应用成为被跨过的弯路。本文深度解析 Intelligent UI 对应用入口、流量分配及国内大模型布局的深远影响。 10月7日，OpenAI宣布将GPT-6与Intelligent UI带入更广泛的ChatGPT日常聊天体验。用户向Cha",
+      "brief": "新版灵光从生成个人应用转向带长期记忆、能主动推进长程任务的 AI 管家，给每个用户一台 24 小时运行的 Linux 云电脑。作者实测让它接管散落各处的自家 Agent，一句话把电脑上的文件发回来、一句话调用电脑上的 Agent。 九月份，Personal Agent 突然“又”火了。 这个赛道半年前已经热过一次：当时龙虾刚出来，所有人都在养龙虾，朋友圈、公众号每天都是各种养龙虾。但后来许多人部署过龙虾后，没有找到真实的使用场景，龙虾的",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,11 +174,51 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/kudos-smart-wallet",
-      "title": "Kudos 3.0",
-      "summary": "The AI that finds money you're missing and gets it back",
-      "publishedAt": "2026-10-12T01:58:06.000Z",
-      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "id": "woshipm:https://www.woshipm.com/chuangye/6477434.html",
+      "title": "Cursor：从“AI代码补全”到“程序员的默认编辑器”，它如何用“信任”赢得2000万开发者",
+      "summary": "2023 年它只是 AI 代码补全工具，两年后年收入超过 5 亿美元、估值 90 亿美元。它没发明补全、没写 VS Code、没训大模型，只是把已有的东西重新组合，让程序员忘了自己在用 AI，靠的是解决信任难题。 今天聊Cursor。 你可能每天都在用它，也可能没用过，但你大概率听说过。2023年，它只是一个“AI代码补全工具”。两年后，它的年收入超过5亿美元，估值达到90亿美元。它是历史上增长最快的开发者工具之一。 但Cursor有一",
+      "publishedAt": "2026-10-13T08:44:01.000Z",
+      "url": "https://www.woshipm.com/chuangye/6477434.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/chuangye/6477434.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "2023 年它只是 AI 代码补全工具，两年后年收入超过 5 亿美元、估值 90 亿美元。它没发明补全、没写 VS Code、没训大模型，只是把已有的东西重新组合，让程序员忘了自己在用 AI，靠的是解决信任难题。 今天聊Cursor。 你可能每天都在用它，也可能没用过，但你大概率听说过。2023年，它只是一个“AI代码补全工具”。两年后，它的年收入超过5亿美元，估值达到90亿美元。它是历史上增长最快的开发者工具之一。 但Cursor有一",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/gotemail",
+      "title": "GotEmail",
+      "summary": "Native Mac mail with one-click sign-in codes and AI",
+      "publishedAt": "2026-10-13T06:49:28.000Z",
+      "url": "https://www.producthunt.com/products/gotemail",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -202,51 +242,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "sourceUrl": "https://www.producthunt.com/products/gotemail",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "The AI that finds money you're missing and gets it back",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/excaliclaw",
-      "title": "ExcaliClaw",
-      "summary": "Hand-drawn diagrams your AI agent can draw with you",
-      "publishedAt": "2026-10-11T21:09:34.000Z",
-      "url": "https://www.producthunt.com/products/excaliclaw",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/excaliclaw",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Hand-drawn diagrams your AI agent can draw with you",
+      "brief": "Native Mac mail with one-click sign-in codes and AI",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -254,11 +254,51 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/manifold-mcp",
-      "title": "Manifold MCP",
-      "summary": "SEO, AI answers, social, ads and leads data for your agent",
-      "publishedAt": "2026-10-11T21:01:27.000Z",
-      "url": "https://www.producthunt.com/products/manifold-mcp",
+      "id": "n8n:https://blog.n8n.io/spotlight-you-com/",
+      "title": "Build a morning AI news brief with You.com, Jev, and n8n",
+      "summary": "Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post.",
+      "publishedAt": "2026-10-13T05:45:04.000Z",
+      "url": "https://blog.n8n.io/spotlight-you-com/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/spotlight-you-com/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/the-drive-ai-2",
+      "title": "The Drive AI",
+      "summary": "The AI agent that does the work on your files",
+      "publishedAt": "2026-10-13T05:39:15.000Z",
+      "url": "https://www.producthunt.com/products/the-drive-ai-2",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -282,11 +322,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/manifold-mcp",
+      "sourceUrl": "https://www.producthunt.com/products/the-drive-ai-2",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "SEO, AI answers, social, ads and leads data for your agent",
+      "brief": "The AI agent that does the work on your files",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/openflowkit",
+      "title": "OpenFlowKit 2",
+      "summary": "Free, open-source diagrams you and your agent edit together",
+      "publishedAt": "2026-10-13T03:05:36.000Z",
+      "url": "https://www.producthunt.com/products/openflowkit",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/openflowkit",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Free, open-source diagrams you and your agent edit together",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -367,46 +447,6 @@
       "category": "工作流与实践",
       "platform": "英文官方博客",
       "brief": "An LLM knowledge graph and vector RAG ground models differently. See when to use each, how to build a knowledge graph from text, and how to run both smoothly.",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": true,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/introducing-n8n-agents/",
-      "title": "Introducing n8n Agents",
-      "summary": "n8n now has a new type of Agent. Describe what an agent should do, choose a model, the tools and workflows it can use, and it's ready to go!",
-      "publishedAt": "2026-09-25T12:00:23.000Z",
-      "url": "https://blog.n8n.io/introducing-n8n-agents/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/introducing-n8n-agents/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "n8n now has a new type of Agent. Describe what an agent should do, choose a model, the tools and workflows it can use, and it's ready to go!",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
