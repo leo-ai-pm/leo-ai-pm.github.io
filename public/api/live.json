@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月13日",
+    "date": "2026年10月14日",
     "demo": false,
-    "updatedAt": "2026-10-13T10:43:54.314Z",
+    "updatedAt": "2026-10-13T17:49:09.432Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 292,
-      "latestCount": 4,
+      "received": 352,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 6,
+          "matched": 9,
           "status": "本次收录"
         },
         {
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 3,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -138,8 +138,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 2,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         }
       ]
     },
@@ -182,10 +182,10 @@
         }
       },
       {
-        "id": "aihot-vm32k7gux2ef9sbzvm0mb455y",
-        "title": "19款手机端模型超越GPT-4",
-        "brief": "GPT-4曾整整一年是全球无可争议的最强模型，我们都在争论是否有人能追上，或者OpenAI是否掌握了别人不知道的秘方。",
-        "summary": "GPT-4曾整整一年是全球无可争议的最强模型，我们都在争论是否有人能追上，或者OpenAI是否掌握了别人不知道的秘方。",
+        "id": "aihot-g2q80cd512veenl3x5e8mlb6c",
+        "title": "Gemini 4 体感与其他模型差异明显",
+        "brief": "用 Gemini 4 会让你意识到，有多少其他模型一定是在蒸馏 Claude/GPT（或者用了类似的训练流程）。",
+        "summary": "用 Gemini 4 会让你意识到，有多少其他模型一定是在蒸馏 Claude/GPT（或者用了类似的训练流程）。",
         "category": "AI 动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -194,19 +194,19 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2109851162518425779",
-        "aggregateUrl": "https://aihot.news/items/vm32k7gux2ef9sbzvm0mb455y",
+        "sourceUrl": "https://x.com/emollick/status/2110060618258497764",
+        "aggregateUrl": "https://aihot.news/items/g2q80cd512veenl3x5e8mlb6c",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-13T03:38:10.000Z",
+        "publishedAt": "2026-10-13T17:30:29.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "AI 动态",
@@ -251,43 +251,6 @@
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
             "assetSource": "https://x.com/AravSrinivas",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-h27nmjmgpgwlnxhoyfdz2gdy9",
-        "title": "Hugging Face 发布开放 SOTA 决策模型",
-        "brief": "开放且最先进的决策模型——就这么一说",
-        "summary": "开放且最先进的决策模型——就这么一说",
-        "category": "AI 动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "Thom_Wolf",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Thomas Wolf · @Thom_Wolf",
-        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2109679054559256890",
-        "aggregateUrl": "https://aihot.news/items/h27nmjmgpgwlnxhoyfdz2gdy9",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-12T16:14:17.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
-            }
-          ],
-          "caption": "AI 动态",
-          "author": {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
             "tone": "#e9e4dc"
           }
         }
@@ -339,8 +302,8 @@
         "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
         "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
         "storyUrl": "https://aihot.news/story/f7f99eb7-84e6-4450-a43f-668dca988b22",
-        "sourceCount": 16,
-        "participantCount": 75,
+        "sourceCount": 15,
+        "participantCount": 77,
         "latestAt": "2026-10-13T02:39:07.000Z",
         "expanded": true,
         "latest": "Arena 测试 Meta Muse Wonder 3D 场景生成",
@@ -383,40 +346,132 @@
       },
       {
         "rank": 2,
+        "id": "smxxtw5ca2c9jscojk4ppe5hf",
+        "title": "Google 发布 Gemini 4 Argon，仅付费用户可用",
+        "sourceName": "Google Blog：AI（RSS）",
+        "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+        "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
+        "sourceCount": 13,
+        "participantCount": 40,
+        "latestAt": "2026-10-13T17:27:24.000Z",
+        "expanded": true,
+        "latest": "Google Antigravity 多智能体生成复杂建筑",
+        "reports": [
+          {
+            "title": "Google Antigravity 多智能体生成复杂建筑",
+            "sourceName": "X：Sundar Pichai (@sundarpichai)",
+            "sourceUrl": "https://x.com/sundarpichai/status/2110059845806399489",
+            "aihotUrl": "https://aihot.news/items/nmfhtnxj0jqlwjf1oihum3bmn",
+            "publishedAt": "2026-10-13T17:27:24.000Z"
+          },
+          {
+            "title": "Google 发布 Gemini 4 Argon，面向 API 付费层与 Ultra 等订阅用户",
+            "sourceName": "X：indigo (@indigox)",
+            "sourceUrl": "https://x.com/indigox/status/2110057673245007890",
+            "aihotUrl": "https://aihot.news/items/bpkm8rp1jweu5wdvco0a9l7s3",
+            "publishedAt": "2026-10-13T17:18:46.000Z"
+          },
+          {
+            "title": "Demis Hassabis 谈 Gemini 4 Argon：命名致敬氩激光器",
+            "sourceName": "X：Demis Hassabis (@demishassabis)",
+            "sourceUrl": "https://x.com/demishassabis/status/2110052931110318464",
+            "aihotUrl": "https://aihot.news/items/pdvhpsg95c59n4vy4czsky1h4",
+            "publishedAt": "2026-10-13T16:59:56.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "谷歌发布 Gemini 4 Argon，先供可信防御者",
+            "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
+          },
+          {
+            "title": "Gemini 4 Argon 上线 Devin Desktop 和 CLI",
+            "storyUrl": "https://aihot.news/story/a7a7ff6d-1fef-41b1-9a38-df96a697b231"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
+        "id": "kjcq4dywmvs5xijl4emac5o40",
+        "title": "苹果发布 HomeView 智能家居中枢",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+        "aihotUrl": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+        "storyUrl": "https://aihot.news/story/af69d9b9-5ada-463b-b9e9-39abe571b452",
+        "sourceCount": 5,
+        "participantCount": 28,
+        "latestAt": "2026-10-13T14:26:19.000Z",
+        "expanded": true,
+        "latest": "苹果发布 300 美元带屏智能家居中控 Apple HomeView",
+        "reports": [
+          {
+            "title": "苹果发布 300 美元带屏智能家居中控 Apple HomeView",
+            "sourceName": "X：Oran Ge (@oran_ge)",
+            "sourceUrl": "https://x.com/oran_ge/status/2110014271170170963",
+            "aihotUrl": "https://aihot.news/items/x4hj84drjc5s8vicqqcrcwdil",
+            "publishedAt": "2026-10-13T14:26:19.000Z"
+          },
+          {
+            "title": "Apple 发布首款智能家居屏 HomeView，售价 299 美元",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+            "aihotUrl": "https://aihot.news/items/jqltysdda3mbte93osz4xvzta",
+            "publishedAt": "2026-10-13T13:00:00.000Z"
+          },
+          {
+            "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+            "sourceName": "Apple：Newsroom（RSS）",
+            "sourceUrl": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+            "aihotUrl": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+            "publishedAt": "2026-10-13T12:59:16.617Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "苹果 J490 智能家居中枢最快下月发布",
+            "storyUrl": "https://aihot.news/story/15f2f6b1-985c-4a33-99a5-ed0b65c55553"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "Apple：Newsroom（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 4,
         "id": "uy4hvoyz7fwtyycpu0p62dudn",
-        "title": "xAI 推出 The X Subscription，Cursor 并入其中",
+        "title": "xAI 推出 The X Subscription，整合 Grok、Cursor 与 X Premium",
         "sourceName": "xAI：News（网页）",
         "sourceUrl": "https://x.ai/news/x-subscription",
         "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
         "storyUrl": "https://aihot.news/story/650e9193-a6bd-489e-8151-e3cbc367002c",
-        "sourceCount": 8,
-        "participantCount": 28,
-        "latestAt": "2026-10-13T09:32:28.967Z",
-        "expanded": true,
-        "latest": "SpaceX 推出 X Subscription 订阅服务，按档位整合 Grok、Cursor 和 X Premium",
-        "reports": [
-          {
-            "title": "SpaceX 推出 X Subscription 订阅服务，按档位整合 Grok、Cursor 和 X Premium",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/012/487.htm",
-            "aihotUrl": "https://aihot.news/items/qzdfizja9ffjiie5yjdnanmvp",
-            "publishedAt": "2026-10-13T09:32:28.967Z"
-          },
-          {
-            "title": "X 推出 Grok 与 Cursor 统一订阅套餐",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2109883434516496683",
-            "aihotUrl": "https://aihot.news/items/n4kozybht7490puh7rotc7ecl",
-            "publishedAt": "2026-10-13T05:46:25.000Z"
-          },
-          {
-            "title": "SpaceXSI 推出统一订阅「The X Subscription」，合并 Grok、Cursor 与 X Premium",
-            "sourceName": "X：邵猛 (@shao__meng)",
-            "sourceUrl": "https://x.com/shao__meng/status/2109816043615228269",
-            "aihotUrl": "https://aihot.news/items/qyztvyit4tfozz16svo7bc7p1",
-            "publishedAt": "2026-10-13T01:18:37.000Z"
-          }
-        ],
+        "sourceCount": 10,
+        "participantCount": 34,
+        "latestAt": "2026-10-13T13:50:19.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -432,7 +487,35 @@
         }
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "id": "vwu0li2nl5hztqeztnq8b5udc",
+        "title": "Character.AI申请破产 迪士尼2000万美元牵头竞购",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+        "aihotUrl": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+        "storyUrl": "https://aihot.news/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a",
+        "sourceCount": 4,
+        "participantCount": 20,
+        "latestAt": "2026-10-13T15:27:39.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "TechCrunch：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
         "id": "zqlqer8tnl7ejg2ow3xoq7b9q",
         "title": "微软发布 Maia 300，2027 年扩至多吉瓦级部署",
         "sourceName": "X：Satya Nadella (@satyanadella)",
@@ -440,33 +523,11 @@
         "aihotUrl": "https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q",
         "storyUrl": "https://aihot.news/story/aa2f60b8-b006-4122-a457-546a28c7f58b",
         "sourceCount": 6,
-        "participantCount": 28,
+        "participantCount": 30,
         "latestAt": "2026-10-12T15:24:03.000Z",
-        "expanded": true,
-        "latest": "微软计划到 2027 年将自研 Maia AI 芯片扩展至吉瓦级规模",
-        "reports": [
-          {
-            "title": "微软计划到 2027 年将自研 Maia AI 芯片扩展至吉瓦级规模",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
-            "aihotUrl": "https://aihot.news/items/x3u8gm84b20vqg1lsnmwsvrbu",
-            "publishedAt": "2026-10-12T15:24:03.000Z"
-          },
-          {
-            "title": "微软 Maia 300 AI 芯片发布：台积电 N2P 工艺，288GB HBM4 内存、带宽 18TB/s",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/012/115.htm",
-            "aihotUrl": "https://aihot.news/items/y87vgmbb03z4tbsgl8g8wrf2r",
-            "publishedAt": "2026-10-12T14:45:30.847Z"
-          },
-          {
-            "title": "Microsoft 发布 Maia 300 芯片并将 Maia 系列扩展为自家主力推理系统",
-            "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-            "sourceUrl": "https://x.com/mustafasuleyman/status/2109655335250366752",
-            "aihotUrl": "https://aihot.news/items/i4htnp3pd63qb9dii08bm8l4k",
-            "publishedAt": "2026-10-12T14:40:02.000Z"
-          }
-        ],
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -482,16 +543,16 @@
         }
       },
       {
-        "rank": 4,
+        "rank": 7,
         "id": "lwchujhujmc1tdor61dn39irl",
-        "title": "Anthropic发布防御蒸馏攻击新方法",
+        "title": "Anthropic发布防蒸馏攻击新方法",
         "sourceName": "Anthropic：Research（发表成果 · 网页）",
         "sourceUrl": "https://www.anthropic.com/research/distillation-defenses",
         "aihotUrl": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
         "storyUrl": "https://aihot.news/story/b3fcb5e6-44bc-41e7-a9ee-6e03dbed65f3",
-        "sourceCount": 2,
-        "participantCount": 15,
-        "latestAt": "2026-10-13T03:32:28.883Z",
+        "sourceCount": 4,
+        "participantCount": 18,
+        "latestAt": "2026-10-13T13:38:14.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -510,16 +571,44 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "id": "fi6ahpxthdbszqij928xydgj0",
+        "title": "苹果发布内置 Siri AI 的新款 Apple TV 4K",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/009/920.htm",
+        "aihotUrl": "https://aihot.news/items/fi6ahpxthdbszqij928xydgj0",
+        "storyUrl": "https://aihot.news/story/34bb70f2-b5d5-4815-9ad5-7118cb6e49a9",
+        "sourceCount": 1,
+        "participantCount": 13,
+        "latestAt": "2026-10-13T12:58:10.680Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
         "id": "emc0djmqlomn6b5whge285x7l",
         "title": "Anthropic研究：小模型或可在IoT设备自我复制",
         "sourceName": "Anthropic：Research（发表成果 · 网页）",
         "sourceUrl": "https://www.anthropic.com/research/self-replicating-ai",
         "aihotUrl": "https://aihot.news/items/emc0djmqlomn6b5whge285x7l",
         "storyUrl": "https://aihot.news/story/12f4e6cb-604e-40cd-a3c8-eeb6fead61ce",
-        "sourceCount": 2,
-        "participantCount": 14,
-        "latestAt": "2026-10-13T07:15:32.717Z",
+        "sourceCount": 3,
+        "participantCount": 16,
+        "latestAt": "2026-10-13T14:03:11.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -538,7 +627,7 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 10,
         "id": "f572f90oc11zg6w7s815vz6m4",
         "title": "Karpathy：LLM 能力认知鸿沟扩大为漏斗",
         "sourceName": "X：Andrej Karpathy (@karpathy)",
@@ -564,125 +653,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 7,
-        "id": "rsq1f3ypz6q4t00v2mphgdxec",
-        "title": "Anthropic 洽谈在大阪建首座日本数据中心",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/012/333.htm",
-        "aihotUrl": "https://aihot.news/items/rsq1f3ypz6q4t00v2mphgdxec",
-        "storyUrl": "https://aihot.news/story/06296e64-61e9-491e-99bc-0074421bdb06",
-        "sourceCount": 1,
-        "participantCount": 9,
-        "latestAt": "2026-10-13T06:18:39.147Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "uulqbw39adwk2f6uqdrit259l",
-        "title": "Character.AI申请破产 拟向迪士尼出售资产",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/012/420.htm",
-        "aihotUrl": "https://aihot.news/items/uulqbw39adwk2f6uqdrit259l",
-        "storyUrl": "https://aihot.news/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a",
-        "sourceCount": 1,
-        "participantCount": 8,
-        "latestAt": "2026-10-13T08:22:30.080Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "yq7wqt5vmvcc23uv52ol3dt53",
-        "title": "亚马逊洽谈约70亿美元收购Decart",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2109479701689565297",
-        "aihotUrl": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
-        "storyUrl": "https://aihot.news/story/03d4f9c6-4714-45e7-9db8-7af5df7e940a",
-        "sourceCount": 2,
-        "participantCount": 15,
-        "latestAt": "2026-10-12T03:02:07.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "qbolyx2wxlhhvl0uz5761faav",
-        "title": "字节Seed成立大模型安全与对齐部门",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/012/270.htm",
-        "aihotUrl": "https://aihot.news/items/qbolyx2wxlhhvl0uz5761faav",
-        "storyUrl": "https://aihot.news/story/5b0ef34e-b0d9-4616-906c-3c5513b5c75c",
-        "sourceCount": 1,
-        "participantCount": 8,
-        "latestAt": "2026-10-13T03:48:29.457Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-13T10:43:54.314Z",
-    "nextCheckAt": 1791888534314,
+    "checkedAt": "2026-10-13T17:49:09.432Z",
+    "nextCheckAt": 1791914049432,
     "intervalSeconds": 300,
     "message": ""
   }
