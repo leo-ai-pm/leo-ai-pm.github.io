@@ -296,9 +296,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-14T11:41:58.962Z",
-      "lastSuccessAt": "2026-10-14T11:41:58.962Z",
-      "nextCheckAt": 1791979018962,
+      "checkedAt": "2026-10-14T15:59:05.122Z",
+      "lastSuccessAt": "2026-10-14T15:59:05.122Z",
+      "nextCheckAt": 1791994445122,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -609,9 +609,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-14T11:41:59.096Z",
-      "lastSuccessAt": "2026-10-14T11:41:59.096Z",
-      "nextCheckAt": 1791979019096,
+      "checkedAt": "2026-10-14T15:59:05.174Z",
+      "lastSuccessAt": "2026-10-14T15:59:05.174Z",
+      "nextCheckAt": 1791994445174,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -631,6 +631,65 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492456&idx=1&sn=b9c30231c78d624929badf70e6bc7c08",
+          "creatorId": "huashu",
+          "title": "今年看到的最惊艳的个人AI作品！",
+          "summary": "昨天Sac发的自己花了16天用Opus5.5+Tripo3d+blender（应该还有unity）做的小王子游戏在X上大火了。 确实精细度无敌，让很多人再次看到了一个人+AI可能做出的作品的可能性。 其实我一个月前就做过Coding Agent+Tripo+Blender去做游戏的教程，甚至…演示的时间也用了小王子的案例，流量也还不错。 但是精细程度、完整度和 展示的案例表现确实完全不可同日而语的。所以特别知道这个制作的过程中细节处理有",
+          "publishedAt": "2026-10-14T02:33:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492456&idx=1&sn=b9c30231c78d624929badf70e6bc7c08",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+            "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "花叔",
+                "asset": "/assets/identities/creator_huashu.jpg",
+                "tone": "#e7e4dd"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492447&idx=1&sn=951b993b613ab3bbb2746317a29a6c04",
+          "creatorId": "huashu",
+          "title": "踩了无数坑后，实践出来的Claude Code省token小技巧👇 其实Opus5.5整体还挺耐用的，但是需要对默认设置稍微做点调整： 1、主力模型可以...",
+          "summary": "",
+          "publishedAt": "2026-10-13T12:47:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492447&idx=1&sn=951b993b613ab3bbb2746317a29a6c04",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "Claude Code",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492446&idx=1&sn=64769b72614c2f3fcee716042cc70bc1",
           "creatorId": "huashu",
@@ -863,69 +922,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492309&idx=1&sn=85a0f9ceeb9ff91dcb445fbcf0d79c00",
-          "creatorId": "huashu",
-          "title": "如何用好AI？从Andrej Karpathy的提示词策略讲起！",
-          "summary": "Andrej Karpathy昨天发了条X，讲当AI越来越强，输出速度也越来越快后，我们怎么更好地看懂AI的",
-          "publishedAt": "2026-10-03T06:52:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492309&idx=1&sn=85a0f9ceeb9ff91dcb445fbcf0d79c00",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492302&idx=1&sn=243931886fe60ee4b5020d655e80c6a0",
-          "creatorId": "huashu",
-          "title": "0基础速通！手把手教你用WorkBuddy开发出自己的第一个微信小程序",
-          "summary": "说起来，微信小程序是我用AI做产品这三年多里，折腾得最多的平台之一。",
-          "publishedAt": "2026-09-30T10:46:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492302&idx=1&sn=243931886fe60ee4b5020d655e80c6a0",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-14T11:41:59.098Z",
-      "lastSuccessAt": "2026-10-14T11:41:59.098Z",
-      "nextCheckAt": 1791979019098,
+      "checkedAt": "2026-10-14T15:59:05.176Z",
+      "lastSuccessAt": "2026-10-14T15:59:05.176Z",
+      "nextCheckAt": 1791994445176,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1240,9 +1241,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-14T11:41:59.365Z",
-      "lastSuccessAt": "2026-10-14T11:41:59.365Z",
-      "nextCheckAt": 1791979019365,
+      "checkedAt": "2026-10-14T15:59:05.410Z",
+      "lastSuccessAt": "2026-10-14T15:59:05.410Z",
+      "nextCheckAt": 1791994445410,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1562,9 +1563,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-14T11:41:59.395Z",
-      "lastSuccessAt": "2026-10-14T11:41:59.395Z",
-      "nextCheckAt": 1791979019395,
+      "checkedAt": "2026-10-14T15:59:05.605Z",
+      "lastSuccessAt": "2026-10-14T15:59:05.605Z",
+      "nextCheckAt": 1791994445605,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1584,6 +1585,35 @@
     {
       "id": "founder",
       "items": [
+        {
+          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517264&idx=1&sn=9b747b67f773a7d14fce374343ec6607",
+          "creatorId": "founder",
+          "title": "对话出海一叮易宛尧：品牌出海的每一个环节，都值得用 AI 重做一遍",
+          "summary": "操盘过 50 多家硬件公司出海，在 AI 硬件最热的一年为什么一家都没投",
+          "publishedAt": "2026-10-14T09:00:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517264&idx=1&sn=9b747b67f773a7d14fce374343ec6607",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中的经验适合什么规模和阶段的团队？",
+            "method": "从原文选出一条明确做法，用你的一项工作验证前提和代价，再找一个不适用的场景。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Founder Park",
+                "asset": "/assets/identities/creator_founder.jpg",
+                "tone": "#dfe9f3"
+              }
+            ],
+            "caption": "创业与商业",
+            "author": {
+              "name": "Founder Park",
+              "asset": "/assets/identities/creator_founder.jpg",
+              "tone": "#dfe9f3"
+            }
+          }
+        },
         {
           "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517258&idx=1&sn=fec86dc55a9be81dac3441ee2d587f92",
           "creatorId": "founder",
@@ -1844,40 +1874,11 @@
               "tone": "#dfe9f3"
             }
           }
-        },
-        {
-          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517070&idx=1&sn=2f88bef239d7dbe4956b8b105ac7431b",
-          "creatorId": "founder",
-          "title": "Meta 复盘 Muse：Agent 怎么才能像「一个人」长期存在？",
-          "summary": "​Meta 没有押注「未来一切都是 Chat」",
-          "publishedAt": "2026-09-24T11:00:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517070&idx=1&sn=2f88bef239d7dbe4956b8b105ac7431b",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Founder Park",
-                "asset": "/assets/identities/creator_founder.jpg",
-                "tone": "#dfe9f3"
-              }
-            ],
-            "caption": "创业与商业",
-            "author": {
-              "name": "Founder Park",
-              "asset": "/assets/identities/creator_founder.jpg",
-              "tone": "#dfe9f3"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-14T11:41:59.427Z",
-      "lastSuccessAt": "2026-10-14T11:41:59.427Z",
-      "nextCheckAt": 1791979019427,
+      "checkedAt": "2026-10-14T15:59:05.831Z",
+      "lastSuccessAt": "2026-10-14T15:59:05.831Z",
+      "nextCheckAt": 1791994445831,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1896,6 +1897,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1791979018962,
+  "nextCheckAt": 1791994445122,
   "refreshing": false
 }
