@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-14T01:05:44.888Z",
-      "lastSuccessAt": "2026-10-14T01:05:44.888Z",
-      "nextCheckAt": 1791943544888,
+      "checkedAt": "2026-10-14T06:04:07.587Z",
+      "lastSuccessAt": "2026-10-14T06:04:07.587Z",
+      "nextCheckAt": 1791961447587,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-14T06:04:07.588Z",
+      "lastSuccessAt": "2026-10-14T06:04:07.588Z",
+      "nextCheckAt": 1791961447588,
       "status": "ok",
-      "nextCheckAt": 1791943544889,
-      "checkedAt": "2026-10-14T01:05:44.889Z",
-      "lastSuccessAt": "2026-10-14T01:05:44.889Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-14T01:05:44.890Z",
-      "lastSuccessAt": "2026-10-14T01:05:44.890Z",
-      "nextCheckAt": 1791943544890,
+      "checkedAt": "2026-10-14T06:04:07.589Z",
+      "lastSuccessAt": "2026-10-14T06:04:07.589Z",
+      "nextCheckAt": 1791961447589,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1791943545124,
-      "checkedAt": "2026-10-14T01:05:45.124Z",
-      "lastSuccessAt": "2026-10-14T01:05:45.124Z",
+      "nextCheckAt": 1791961447741,
+      "checkedAt": "2026-10-14T06:04:07.741Z",
+      "lastSuccessAt": "2026-10-14T06:04:07.741Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1791943544888,
+  "nextCheckAt": 1791961447587,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6477610.html",
+      "title": "Meta 正式发布了新一代旗舰模型家族 Muse Wonder，智能水平仅落后Opus 5.5两分",
+      "summary": "Meta 发布新一代旗舰模型家族 Muse Wonder，推出标准版与 Full 两款，目标直指「个人超级智能」。它引入 Active Memory 主动记忆与 Active Focus 主动专注，官方称在个人与专业级 Agent、长期记忆与编程评测中领先。 Meta 正式发布了新一代旗舰模型家族 Muse Wonder，一次推出 Muse Wonder 和 Muse Wonder Full 两款模型。 这一次，Meta 把目标直接对准",
+      "publishedAt": "2026-10-14T02:17:29.000Z",
+      "url": "https://www.woshipm.com/ai/6477610.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6477610.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Meta 发布新一代旗舰模型家族 Muse Wonder，推出标准版与 Full 两款，目标直指「个人超级智能」。它引入 Active Memory 主动记忆与 Active Focus 主动专注，官方称在个人与专业级 Agent、长期记忆与编程评测中领先。 Meta 正式发布了新一代旗舰模型家族 Muse Wonder，一次推出 Muse Wonder 和 Muse Wonder Full 两款模型。 这一次，Meta 把目标直接对准",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6477756.html",
+      "title": "三万字长文：大语言模型从零入门",
+      "summary": "从图灵测试到香农的熵，从单个神经元到千亿参数，这篇文章用猜数字和接龙游戏串起大语言模型的完整原理。不堆公式，不要求机器学习背景，一步步讲清预测下一个 token 为何通向智能，又在哪里止步。 这篇文章想用一条线，讲清楚 ChatGPT 这类大语言模型是怎么回事：它在做什么、为什么能做到、怎么做到的、做不好什么。 不需要机器学习背景。用到的数学只有加减乘除和对数，对数也会从“折半了几次”讲起。全文的例子尽量来自同一个猜数字游戏和同一句“他",
+      "publishedAt": "2026-10-14T01:54:12.000Z",
+      "url": "https://www.woshipm.com/ai/6477756.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6477756.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "从图灵测试到香农的熵，从单个神经元到千亿参数，这篇文章用猜数字和接龙游戏串起大语言模型的完整原理。不堆公式，不要求机器学习背景，一步步讲清预测下一个 token 为何通向智能，又在哪里止步。 这篇文章想用一条线，讲清楚 ChatGPT 这类大语言模型是怎么回事：它在做什么、为什么能做到、怎么做到的、做不好什么。 不需要机器学习背景。用到的数学只有加减乘除和对数，对数也会从“折半了几次”讲起。全文的例子尽量来自同一个猜数字游戏和同一句“他",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
       "title": "Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents",
@@ -132,167 +212,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6477460.html",
-      "title": "开源「红绿灯」提示语，解决Agent刹不住车浪费token额度的老毛病",
-      "summary": "Agent 从不会主动说做完了，每轮都抛来一批新的优化清单，一个半小时的需求拖成一下午。作者手搓了不到三百字的进度提示语，用绿黄红三色收尾：绿灯只记搁置项，黄灯给带证据的后续计划，红灯存档结束，额度也省下来了。 我给Agent每次对话结尾加了三个emoji，把额度省下来了，也终于可以不需要被模型暗示把任务无限往下跑了。 现在是凌晨两点，我盯着屏幕上的Claude Code和Codex窗口发呆。本来我是想做一个逆向做一个vibe codi",
-      "publishedAt": "2026-10-13T08:56:20.000Z",
-      "url": "https://www.woshipm.com/ai/6477460.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6477460.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Agent 从不会主动说做完了，每轮都抛来一批新的优化清单，一个半小时的需求拖成一下午。作者手搓了不到三百字的进度提示语，用绿黄红三色收尾：绿灯只记搁置项，黄灯给带证据的后续计划，红灯存档结束，额度也省下来了。 我给Agent每次对话结尾加了三个emoji，把额度省下来了，也终于可以不需要被模型暗示把任务无限往下跑了。 现在是凌晨两点，我盯着屏幕上的Claude Code和Codex窗口发呆。本来我是想做一个逆向做一个vibe codi",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6477455.html",
-      "title": "蚂蚁灵光内测新版 Personal Agent：接管钉钉、遥控电脑，一手体验！",
-      "summary": "新版灵光从生成个人应用转向带长期记忆、能主动推进长程任务的 AI 管家，给每个用户一台 24 小时运行的 Linux 云电脑。作者实测让它接管散落各处的自家 Agent，一句话把电脑上的文件发回来、一句话调用电脑上的 Agent。 九月份，Personal Agent 突然“又”火了。 这个赛道半年前已经热过一次：当时龙虾刚出来，所有人都在养龙虾，朋友圈、公众号每天都是各种养龙虾。但后来许多人部署过龙虾后，没有找到真实的使用场景，龙虾的",
-      "publishedAt": "2026-10-13T08:52:21.000Z",
-      "url": "https://www.woshipm.com/ai/6477455.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6477455.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "新版灵光从生成个人应用转向带长期记忆、能主动推进长程任务的 AI 管家，给每个用户一台 24 小时运行的 Linux 云电脑。作者实测让它接管散落各处的自家 Agent，一句话把电脑上的文件发回来、一句话调用电脑上的 Agent。 九月份，Personal Agent 突然“又”火了。 这个赛道半年前已经热过一次：当时龙虾刚出来，所有人都在养龙虾，朋友圈、公众号每天都是各种养龙虾。但后来许多人部署过龙虾后，没有找到真实的使用场景，龙虾的",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/chuangye/6477434.html",
-      "title": "Cursor：从“AI代码补全”到“程序员的默认编辑器”，它如何用“信任”赢得2000万开发者",
-      "summary": "2023 年它只是 AI 代码补全工具，两年后年收入超过 5 亿美元、估值 90 亿美元。它没发明补全、没写 VS Code、没训大模型，只是把已有的东西重新组合，让程序员忘了自己在用 AI，靠的是解决信任难题。 今天聊Cursor。 你可能每天都在用它，也可能没用过，但你大概率听说过。2023年，它只是一个“AI代码补全工具”。两年后，它的年收入超过5亿美元，估值达到90亿美元。它是历史上增长最快的开发者工具之一。 但Cursor有一",
-      "publishedAt": "2026-10-13T08:44:01.000Z",
-      "url": "https://www.woshipm.com/chuangye/6477434.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/chuangye/6477434.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "2023 年它只是 AI 代码补全工具，两年后年收入超过 5 亿美元、估值 90 亿美元。它没发明补全、没写 VS Code、没训大模型，只是把已有的东西重新组合，让程序员忘了自己在用 AI，靠的是解决信任难题。 今天聊Cursor。 你可能每天都在用它，也可能没用过，但你大概率听说过。2023年，它只是一个“AI代码补全工具”。两年后，它的年收入超过5亿美元，估值达到90亿美元。它是历史上增长最快的开发者工具之一。 但Cursor有一",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/gotemail",
-      "title": "GotEmail",
-      "summary": "Native macOS mail app with one-click sign-in codes and AI",
-      "publishedAt": "2026-10-13T06:49:28.000Z",
-      "url": "https://www.producthunt.com/products/gotemail",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/gotemail",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Native macOS mail app with one-click sign-in codes and AI",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/spotlight-you-com/",
@@ -408,6 +328,46 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Free, open-source diagrams you and your agent edit together",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/toby-5",
+      "title": "Toby",
+      "summary": "Realistic mock interviews with an AI hiring manager",
+      "publishedAt": "2026-10-13T02:51:31.000Z",
+      "url": "https://www.producthunt.com/products/toby-5",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/toby-5",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Realistic mock interviews with an AI hiring manager",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

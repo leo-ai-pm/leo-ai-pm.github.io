@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-14T01:06:11.972Z",
+  "checkedAt": "2026-10-14T06:04:39.527Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "e8516i4snh2ut9d6zedoc9jsv",
+      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+      "reason": "作者实测了新开放模型在编程、写作和产品体验上的真实表现，读者可据此判断是否值得为它订阅付费。",
+      "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "sourceUrl": "https://x.com/Khazix0918/status/2110174495420064055",
+      "aihotUrl": "https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv",
+      "publishedAt": "2026-10-14T01:02:59.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "o8h7g7pscq0qrlenoadabbb96",
       "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
@@ -152,14 +166,14 @@
       "unselected": false
     },
     {
-      "id": "ekphiltd4fdsskdlueleul8qa",
-      "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
-      "reason": "原文给出赏金金额、6 天构建周期和 4 万美元算力等具体细节，可帮助读者理解 AI 辅助漏洞挖掘成本变化的实际案例。",
-      "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。",
-      "sourceName": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
-      "sourceUrl": "https://x.com/reach_vb/status/2110086935733833893",
-      "aihotUrl": "https://aihot.news/items/ekphiltd4fdsskdlueleul8qa",
-      "publishedAt": "2026-10-13T19:15:03.000Z",
+      "id": "w0kr5nvs73elhfd23vj0vm8hi",
+      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+      "reason": "原文给出算力成本、人工分工和漏洞链细节，读者可以据此评估 AI 智能体在真实漏洞挖掘中的实际投入产出。",
+      "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+      "aihotUrl": "https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi",
+      "publishedAt": "2026-10-14T02:58:37.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -336,6 +350,20 @@
   ],
   "week": [
     {
+      "id": "e8516i4snh2ut9d6zedoc9jsv",
+      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+      "reason": "作者实测了新开放模型在编程、写作和产品体验上的真实表现，读者可据此判断是否值得为它订阅付费。",
+      "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "sourceUrl": "https://x.com/Khazix0918/status/2110174495420064055",
+      "aihotUrl": "https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv",
+      "publishedAt": "2026-10-14T01:02:59.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
       "id": "ob6ryetyialrnqhyjusr2s1iz",
       "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
       "reason": "榜单给出了 Muse Wonder (Max) 与邻近模型的分差和名次变化，读者可以据此比较它在编码与文本上的实际位置。",
@@ -428,20 +456,6 @@
       "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
       "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
       "publishedAt": "2026-10-11T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "o8tu2a2i9r2roqh7un9l5grq2",
-      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-      "reason": "ARC Prize 官方公布 2026 赛季 ARC-AGI-2 高分赛况，88.06% 登顶并触发超过 85% 团队共享的 15 万美元奖金。",
-      "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。",
-      "sourceName": "X：ARC Prize (@arcprize)",
-      "sourceUrl": "https://x.com/arcprize/status/2108578092558250148",
-      "aihotUrl": "https://aihot.news/items/o8tu2a2i9r2roqh7un9l5grq2",
-      "publishedAt": "2026-10-09T15:19:27.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -602,14 +616,14 @@
       "unselected": false
     },
     {
-      "id": "ekphiltd4fdsskdlueleul8qa",
-      "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
-      "reason": "原文给出赏金金额、6 天构建周期和 4 万美元算力等具体细节，可帮助读者理解 AI 辅助漏洞挖掘成本变化的实际案例。",
-      "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。",
-      "sourceName": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
-      "sourceUrl": "https://x.com/reach_vb/status/2110086935733833893",
-      "aihotUrl": "https://aihot.news/items/ekphiltd4fdsskdlueleul8qa",
-      "publishedAt": "2026-10-13T19:15:03.000Z",
+      "id": "w0kr5nvs73elhfd23vj0vm8hi",
+      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+      "reason": "原文给出算力成本、人工分工和漏洞链细节，读者可以据此评估 AI 智能体在真实漏洞挖掘中的实际投入产出。",
+      "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+      "aihotUrl": "https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi",
+      "publishedAt": "2026-10-14T02:58:37.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -904,6 +918,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "e8516i4snh2ut9d6zedoc9jsv",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "reason": "作者实测了新开放模型在编程、写作和产品体验上的真实表现，读者可据此判断是否值得为它订阅付费。",
+          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+          "sourceName": "X：卡兹克 (@Khazix0918)",
+          "sourceUrl": "https://x.com/Khazix0918/status/2110174495420064055",
+          "aihotUrl": "https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv",
+          "publishedAt": "2026-10-14T01:02:59.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "o8h7g7pscq0qrlenoadabbb96",
           "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
           "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
@@ -971,20 +999,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "tmj0de0vmzpezz0o5j67nqskj",
-          "title": "Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图",
-          "reason": "作者以自建图库的亲历论证代码即图，并给出类型安全、并行与快照三者不可兼得的具体分析。",
-          "summary": "Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本身就是图，通过类型提示获得类型安全、通过 async 获得并行执行。",
-          "sourceName": "Pydantic AI 官方文章",
-          "sourceUrl": "https://pydantic.dev/articles/the-code-is-the-graph",
-          "aihotUrl": "https://aihot.news/items/tmj0de0vmzpezz0o5j67nqskj",
-          "publishedAt": "2026-10-13T09:00:00.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
           "unselected": false
         }
       ]
@@ -1180,6 +1194,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "e8516i4snh2ut9d6zedoc9jsv",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "reason": "作者实测了新开放模型在编程、写作和产品体验上的真实表现，读者可据此判断是否值得为它订阅付费。",
+          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+          "sourceName": "X：卡兹克 (@Khazix0918)",
+          "sourceUrl": "https://x.com/Khazix0918/status/2110174495420064055",
+          "aihotUrl": "https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv",
+          "publishedAt": "2026-10-14T01:02:59.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "oxaap1c1cvxi9ngybxks1gngi",
           "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
           "reason": "作者以100刀Ultra会员实测Argon的额度、前端与中文写作表现，并给出与GPT-6 Astra、Claude Opus 5.5的对比结论，可作订阅参考。",
@@ -1222,14 +1250,14 @@
           "unselected": false
         },
         {
-          "id": "ekphiltd4fdsskdlueleul8qa",
-          "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
-          "reason": "原文给出赏金金额、6 天构建周期和 4 万美元算力等具体细节，可帮助读者理解 AI 辅助漏洞挖掘成本变化的实际案例。",
-          "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。",
-          "sourceName": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
-          "sourceUrl": "https://x.com/reach_vb/status/2110086935733833893",
-          "aihotUrl": "https://aihot.news/items/ekphiltd4fdsskdlueleul8qa",
-          "publishedAt": "2026-10-13T19:15:03.000Z",
+          "id": "w0kr5nvs73elhfd23vj0vm8hi",
+          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+          "reason": "原文给出算力成本、人工分工和漏洞链细节，读者可以据此评估 AI 智能体在真实漏洞挖掘中的实际投入产出。",
+          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+          "aihotUrl": "https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi",
+          "publishedAt": "2026-10-14T02:58:37.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
@@ -1248,20 +1276,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "cgbpvdepk4p1jrrawgzbfbxov",
-          "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
-          "reason": "原文详述了 AI Search 用决策模型逐条读取轨迹的搜索机制和 8K token 预算的取舍设计，读者可以了解其与向量搜索的差异和实现细节。",
-          "summary": "LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。",
-          "sourceName": "LangChain：Blog（RSS）",
-          "sourceUrl": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
-          "aihotUrl": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
-          "publishedAt": "2026-10-13T12:59:12.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1271,6 +1285,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "e8516i4snh2ut9d6zedoc9jsv",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "reason": "作者实测了新开放模型在编程、写作和产品体验上的真实表现，读者可据此判断是否值得为它订阅付费。",
+          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+          "sourceName": "X：卡兹克 (@Khazix0918)",
+          "sourceUrl": "https://x.com/Khazix0918/status/2110174495420064055",
+          "aihotUrl": "https://aihot.news/items/e8516i4snh2ut9d6zedoc9jsv",
+          "publishedAt": "2026-10-14T01:02:59.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
         {
           "id": "oxaap1c1cvxi9ngybxks1gngi",
           "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
@@ -1339,20 +1367,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "kcwro19vl7dr5jgcjgec7mive",
-          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
-          "reason": "原文援引 Bloomberg 报道和 Tim Sweeney 回应，交代了 AI 先行开发模式的具体做法与项目延期，信息相对完整。",
-          "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
-          "sourceName": "Ars Technica：AI（RSS）",
-          "sourceUrl": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-          "aihotUrl": "https://aihot.news/items/kcwro19vl7dr5jgcjgec7mive",
-          "publishedAt": "2026-10-12T20:59:50.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
