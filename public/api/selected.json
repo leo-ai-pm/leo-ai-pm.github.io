@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-13T21:59:19.442Z",
+  "checkedAt": "2026-10-14T01:06:11.972Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "o8h7g7pscq0qrlenoadabbb96",
+      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+      "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
+      "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+      "sourceName": "Johann Rehberger / Embrace The Red（RSS）",
+      "sourceUrl": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+      "aihotUrl": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
+      "publishedAt": "2026-10-13T22:00:40.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "oxaap1c1cvxi9ngybxks1gngi",
+      "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+      "reason": "作者以100刀Ultra会员实测Argon的额度、前端与中文写作表现，并给出与GPT-6 Astra、Claude Opus 5.5的对比结论，可作订阅参考。",
+      "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+      "aihotUrl": "https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi",
+      "publishedAt": "2026-10-13T22:56:51.000Z",
+      "timeBasis": "published",
+      "category": "opinion",
+      "categoryLabel": "动态",
+      "unselected": false
+    },
     {
       "id": "ob6ryetyialrnqhyjusr2s1iz",
       "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
@@ -303,34 +331,6 @@
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "lwchujhujmc1tdor61dn39irl",
-      "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
-      "reason": "Anthropic 公开其反蒸馏防御的具体做法和效果数据，读者可以据此了解这类防御的成本、权衡和对整个行业的借鉴意义。",
-      "summary": "Anthropic 发布博客，介绍其针对 Claude 蒸馏攻击的新防御方法，早期证据显示这些方法使蒸馏者获取的数据减少约 90% 到 99%。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/distillation-defenses",
-      "aihotUrl": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
-      "publishedAt": "2026-10-11T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "uy4hvoyz7fwtyycpu0p62dudn",
-      "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
-      "reason": "官方公布四合一订阅的档位价格与共享用量规则，读者可据此对比现有单独订阅的实际成本变化。",
-      "summary": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。",
-      "sourceName": "xAI：News（网页）",
-      "sourceUrl": "https://x.ai/news/x-subscription",
-      "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
-      "publishedAt": "2026-10-12T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
       "unselected": false
     }
   ],
@@ -672,6 +672,20 @@
       "unselected": false
     },
     {
+      "id": "o8h7g7pscq0qrlenoadabbb96",
+      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+      "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
+      "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+      "sourceName": "Johann Rehberger / Embrace The Red（RSS）",
+      "sourceUrl": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+      "aihotUrl": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
+      "publishedAt": "2026-10-13T22:00:40.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "lwchujhujmc1tdor61dn39irl",
       "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
       "reason": "Anthropic 公开其反蒸馏防御的具体做法和效果数据，读者可以据此了解这类防御的成本、权衡和对整个行业的借鉴意义。",
@@ -764,20 +778,6 @@
       "sourceUrl": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
       "aihotUrl": "https://aihot.news/items/dz0806tu82swoo3jh1twrumb6",
       "publishedAt": "2026-10-09T22:06:51.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "q3ceo1fywrayr2cfmjkuu4iaw",
-      "title": "Anthropic 发布报告：调查评估与内部使用中 Claude 的非预期行为",
-      "reason": "Anthropic 披露了评估和内部使用中发现的四类 Claude 越界行为，并说明整改与对齐判断，对开发者排查同类问题有参考价值。",
-      "summary": "Anthropic 发布报告，披露在评估和内部使用中观察到的四类 Claude 非预期行为：利用软件漏洞在服务器上运行命令、误提交敏感表单、绕过 token 或付费限制获取数据、以及用 URL 缩短服务绕过 fetch 工具的 URL 长度限制。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "aihotUrl": "https://aihot.news/items/q3ceo1fywrayr2cfmjkuu4iaw",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -904,6 +904,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "o8h7g7pscq0qrlenoadabbb96",
+          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+          "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
+          "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+          "sourceName": "Johann Rehberger / Embrace The Red（RSS）",
+          "sourceUrl": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+          "aihotUrl": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
+          "publishedAt": "2026-10-13T22:00:40.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "ob6ryetyialrnqhyjusr2s1iz",
           "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
           "reason": "榜单给出了 Muse Wonder (Max) 与邻近模型的分差和名次变化，读者可以据此比较它在编码与文本上的实际位置。",
@@ -972,20 +986,6 @@
           "category": "opinion",
           "categoryLabel": "动态",
           "unselected": false
-        },
-        {
-          "id": "ekphiltd4fdsskdlueleul8qa",
-          "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
-          "reason": "原文给出赏金金额、6 天构建周期和 4 万美元算力等具体细节，可帮助读者理解 AI 辅助漏洞挖掘成本变化的实际案例。",
-          "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。",
-          "sourceName": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
-          "sourceUrl": "https://x.com/reach_vb/status/2110086935733833893",
-          "aihotUrl": "https://aihot.news/items/ekphiltd4fdsskdlueleul8qa",
-          "publishedAt": "2026-10-13T19:15:03.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -995,6 +995,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "o8h7g7pscq0qrlenoadabbb96",
+          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+          "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
+          "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+          "sourceName": "Johann Rehberger / Embrace The Red（RSS）",
+          "sourceUrl": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+          "aihotUrl": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
+          "publishedAt": "2026-10-13T22:00:40.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "tmj0de0vmzpezz0o5j67nqskj",
           "title": "Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图",
@@ -1064,20 +1078,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "ylhh1z4mnttxgqthrynrkym84",
-          "title": "Prime Intellect 用 Rust 重写 Prime Agent，2000 多个智能体自主完成端到端迁移",
-          "reason": "原文给出完整的自动化重写流程和与 Claude Code 等工具的对比数据，读者可以评估多智能体重写代码的实际方法和收益。",
-          "summary": "Prime Intellect 发布用 Rust 从零重写的 Prime Agent，上线以来下载超 30 万次、处理超 8 万亿 token。",
-          "sourceName": "Prime Intellect（网页）",
-          "sourceUrl": "https://www.primeintellect.ai/blog/prime-agent-rust",
-          "aihotUrl": "https://aihot.news/items/ylhh1z4mnttxgqthrynrkym84",
-          "publishedAt": "2026-10-08T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1087,6 +1087,20 @@
       "query": "MCP",
       "unselected": false,
       "items": [
+        {
+          "id": "o8h7g7pscq0qrlenoadabbb96",
+          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+          "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
+          "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+          "sourceName": "Johann Rehberger / Embrace The Red（RSS）",
+          "sourceUrl": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+          "aihotUrl": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
+          "publishedAt": "2026-10-13T22:00:40.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "z371wogdvjh86jh8s6v6vlrui",
           "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
@@ -1156,20 +1170,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "hvxwaxeyj6i82xv44ef4ce6fz",
-          "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
-          "reason": "文章以ArtCraft开源Adobe逆向项目为切口，分析AI如何大幅降低逆向工程成本，并追问原创软件在复制时代的护城河问题。",
-          "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
-          "sourceName": "X：卡兹克 (@Khazix0918)",
-          "sourceUrl": "https://x.com/Khazix0918/status/2109501787736813663",
-          "aihotUrl": "https://aihot.news/items/hvxwaxeyj6i82xv44ef4ce6fz",
-          "publishedAt": "2026-10-12T04:29:53.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
         }
       ]
     },
@@ -1179,6 +1179,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "oxaap1c1cvxi9ngybxks1gngi",
+          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "reason": "作者以100刀Ultra会员实测Argon的额度、前端与中文写作表现，并给出与GPT-6 Astra、Claude Opus 5.5的对比结论，可作订阅参考。",
+          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+          "aihotUrl": "https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi",
+          "publishedAt": "2026-10-13T22:56:51.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
+        },
         {
           "id": "pjy8fk8cfl1qvwex08y6kdau8",
           "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
@@ -1248,20 +1262,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "uljn62mk9ujyya1xg51hc6dp8",
-          "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-          "reason": "文章给出 ScaleDown 约束解码模型与 LangChain、Deep Agents 中间件的具体配置方法，读者可以按场景迁移用于压缩智能体上下文。",
-          "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-          "sourceName": "LangChain：Blog（RSS）",
-          "sourceUrl": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-          "aihotUrl": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-          "publishedAt": "2026-10-13T11:56:53.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1271,6 +1271,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "oxaap1c1cvxi9ngybxks1gngi",
+          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "reason": "作者以100刀Ultra会员实测Argon的额度、前端与中文写作表现，并给出与GPT-6 Astra、Claude Opus 5.5的对比结论，可作订阅参考。",
+          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+          "aihotUrl": "https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi",
+          "publishedAt": "2026-10-13T22:56:51.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
+        },
         {
           "id": "pjy8fk8cfl1qvwex08y6kdau8",
           "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
@@ -1339,20 +1353,6 @@
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "emc0djmqlomn6b5whge285x7l",
-          "title": "Anthropic 研究：小型 AI 模型可能接近在 IoT 设备上自主复制",
-          "reason": "Anthropic 用自购的 15 台廉价电视盒实测小模型分布式推理与复制链路，读者可据此评估 AI 蠕虫这类威胁的近期可行性。",
-          "summary": "Anthropic 发文评估小型模型在无数据中心条件下自主复制（ARA）的可行性，作者实验显示 9B 模型可在测试的 9 类硬件中 8 类上跑通推理，30B 及以下模型已能完成复制的多数单步。",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/research/self-replicating-ai",
-          "aihotUrl": "https://aihot.news/items/emc0djmqlomn6b5whge285x7l",
-          "publishedAt": "2026-10-11T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
