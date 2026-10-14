@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月14日",
+  "date": "2026年10月15日",
   "demo": false,
-  "updatedAt": "2026-10-14T15:59:26.523Z",
+  "updatedAt": "2026-10-14T20:08:48.967Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 400,
-    "latestCount": 5,
+    "received": 361,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -119,8 +119,8 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "AravSrinivas",
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 2,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -181,22 +181,22 @@
       }
     },
     {
-      "id": "aihot-qszbcpp3na3mhv6l8lxsn2p1h",
-      "title": "Ethan Mollick 观测到中国来源的开放权重模型智能体集群",
-      "brief": "Ethan Mollick 称首次清晰观测到一个来自中国、使用开放权重模型的 rogue agent fleet（流莽智能体集群），目标似乎是让 AI 专注做研究，据称为绘制中国公园最常用入口的地图。",
-      "summary": "Ethan Mollick 称首次清晰观测到一个来自中国、使用开放权重模型的 rogue agent fleet（流莽智能体集群），目标似乎是让 AI 专注做研究，据称为绘制中国公园最常用入口的地图。",
+      "id": "aihot-pvj3wl35jhpndjz31bux7uda4",
+      "title": "企业勿锁定当前AI方案",
+      "brief": "随着AI不断扩展的能力与AI能力实际被使用的程度之间的落差越来越大，锁定一个基于当今AI局限性的“够用就好”的方案所付出的代价也在增大。",
+      "summary": "随着AI不断扩展的能力与AI能力实际被使用的程度之间的落差越来越大，锁定一个基于当今AI局限性的“够用就好”的方案所付出的代价也在增大。",
       "category": "AI 动态",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "emollick",
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2110393411501244510",
-      "aggregateUrl": "https://aihot.news/items/qszbcpp3na3mhv6l8lxsn2p1h",
+      "sourceUrl": "https://x.com/emollick/status/2110447059086229670",
+      "aggregateUrl": "https://aihot.news/items/pvj3wl35jhpndjz31bux7uda4",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-14T15:32:53.000Z",
+      "publishedAt": "2026-10-14T19:06:03.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -218,54 +218,11 @@
       }
     },
     {
-      "id": "aihot-b2f3h454qou5v2v6y0x1i7xhe",
-      "title": "Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金",
-      "brief": "Greg Brockman 转述 XBOW 团队借助 OpenAI 的 GPT-5.6 Sol，用 6 天和 40000 美元算力找到 Chrome 关键漏洞，获 Google 2026 年规则下首笔 250000 美元全链漏洞赏金，影响约 10 亿 Windows Chrome 用户。",
-      "summary": "Greg Brockman 转述 XBOW 团队借助 OpenAI 的 GPT-5.6 Sol，用 6 天和 40000 美元算力找到 Chrome 关键漏洞，获 Google 2026 年规则下首笔 250000 美元全链漏洞赏金，影响约 10 亿 Windows Chrome 用户。",
-      "category": "行业观察",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "gdb",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Greg Brockman · @gdb",
-      "feedName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2110063893016096831",
-      "aggregateUrl": "https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-13T17:43:29.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Greg Brockman",
-            "asset": "/assets/identities/gdb.jpg",
-            "assetSource": "https://x.com/gdb",
-            "tone": "#e9e4dc"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "行业观察",
-        "author": {
-          "name": "Greg Brockman",
-          "asset": "/assets/identities/gdb.jpg",
-          "assetSource": "https://x.com/gdb",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-wfl88rajlxj2ajjptr67pckqk",
-      "title": "Perplexity Computer 帮用户将 Windows 专用机械键盘软件移植到 Linux",
-      "brief": "Perplexity CEO Aravind Srinivas 介绍用户用 Perplexity Computer 将一款仅支持 Windows、无文档的机械键盘应用移植到 Linux。",
-      "summary": "Perplexity CEO Aravind Srinivas 介绍用户用 Perplexity Computer 将一款仅支持 Windows、无文档的机械键盘应用移植到 Linux。",
-      "category": "实践与观点",
+      "id": "aihot-t21obwhf0o48yx300pi9wlrbz",
+      "title": "Perplexity Computer 支持 @Polymarket 标签",
+      "brief": "现在你可以在 Perplexity Computer 里 @Polymarket，用于市场和实时趋势研究任务！",
+      "summary": "现在你可以在 Perplexity Computer 里 @Polymarket，用于市场和实时趋势研究任务！",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -273,10 +230,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2110389625277813212",
-      "aggregateUrl": "https://aihot.news/items/wfl88rajlxj2ajjptr67pckqk",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2110433423894651279",
+      "aggregateUrl": "https://aihot.news/items/t21obwhf0o48yx300pi9wlrbz",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-14T15:17:50.000Z",
+      "publishedAt": "2026-10-14T18:11:52.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -288,7 +245,7 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -382,45 +339,45 @@
       "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
       "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
       "sourceCount": 21,
-      "participantCount": 94,
-      "latestAt": "2026-10-14T14:06:59.000Z",
+      "participantCount": 96,
+      "latestAt": "2026-10-14T18:38:43.000Z",
       "expanded": true,
-      "latest": "实测 Gemini 4 Argon 写作能力：百万上下文统一后表现如何",
+      "latest": "Gemini 4 Argon 发布，团队展示 5 个构建",
       "reports": [
+        {
+          "title": "Gemini 4 Argon 发布，团队展示 5 个构建",
+          "sourceName": "X：Google (@Google)",
+          "sourceUrl": "https://x.com/Google/status/2110440180142498036",
+          "aihotUrl": "https://aihot.news/items/yg9uxlb7su5trpaytqdu90ow3",
+          "publishedAt": "2026-10-14T18:38:43.000Z"
+        },
+        {
+          "title": "Sergey Brin 等谈 Gemini 4 Argon",
+          "sourceName": "X：Logan Kilpatrick (@OfficialLoganK)",
+          "sourceUrl": "https://x.com/OfficialLoganK/status/2110420958737813612",
+          "aihotUrl": "https://aihot.news/items/pp19ioj8buo8uhstonp009hhf",
+          "publishedAt": "2026-10-14T17:22:20.000Z"
+        },
         {
           "title": "实测 Gemini 4 Argon 写作能力：百万上下文统一后表现如何",
           "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
           "sourceUrl": "https://x.com/aiwarts/status/2110371796671492593",
           "aihotUrl": "https://aihot.news/items/jkfz8y2xe8ouudwz3fpobv4te",
           "publishedAt": "2026-10-14T14:06:59.000Z"
-        },
-        {
-          "title": "Google 全球发布 Gemini 4 Argon，Cursor 同步接入",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "sourceUrl": "https://x.com/testingcatalog/status/2110281620641010119",
-          "aihotUrl": "https://aihot.news/items/jpwvlwdu2jk92psbwzkem5b9f",
-          "publishedAt": "2026-10-14T08:08:40.000Z"
-        },
-        {
-          "title": "Gemini 4 Argon 上线 OpenCode Go",
-          "sourceName": "X：opencode (@opencode)",
-          "sourceUrl": "https://x.com/opencode/status/2110274311043072352",
-          "aihotUrl": "https://aihot.news/items/wk7r5xinml547sb3zrlwgd26q",
-          "publishedAt": "2026-10-14T07:39:37.000Z"
         }
       ],
       "related": [
         {
+          "title": "Gemini 4 Argon 让机器人看视频学会投沙包",
+          "storyUrl": "https://aihot.news/story/bfb954bb-de72-41f7-9621-9b84314ce826"
+        },
+        {
+          "title": "Ammaar Reshi 分享 Gemini 4 Argon 游戏提示词与代码",
+          "storyUrl": "https://aihot.news/story/c49b7253-3d56-43af-9600-fbee68e2d344"
+        },
+        {
           "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
           "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
-        },
-        {
-          "title": "用户反馈 Gemini 4 Argon 代码慢、Antigravity 缺内置浏览器",
-          "storyUrl": "https://aihot.news/story/83978a27-3dd3-4551-9e4f-7bdc2eb065ab"
-        },
-        {
-          "title": "Gemini 4 Argon 可将视频画面变成可演奏合成器",
-          "storyUrl": "https://aihot.news/story/c73de1ab-4ec9-4708-8a26-9271142d0700"
         }
       ],
       "visual": {
@@ -439,37 +396,37 @@
     {
       "rank": 2,
       "id": "fgxi5gwvctlssc05odpcyf6ov",
-      "title": "OpenAI工程师涉在会议室装窃听装置被捕",
+      "title": "OpenAI工程师涉在会议室装录音设备被捕",
       "sourceName": "X：OpenAI Newsroom (@OpenAINewsroom)",
       "sourceUrl": "https://x.com/OpenAINewsroom/status/2110095403198849132",
       "aihotUrl": "https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov",
       "storyUrl": "https://aihot.news/story/99f5c3c4-2817-4634-b110-98b7db9ef40c",
-      "sourceCount": 5,
-      "participantCount": 68,
-      "latestAt": "2026-10-14T12:37:05.000Z",
+      "sourceCount": 6,
+      "participantCount": 70,
+      "latestAt": "2026-10-14T19:07:37.000Z",
       "expanded": true,
-      "latest": "OpenAI 工程师涉嫌用妻子聊天机器人账号协助窃听高管会议室被捕",
+      "latest": "BBC 报道 OpenAI 沙特籍工程师涉窃听案：用录音设备藏身电视后被反监控团队发现",
       "reports": [
+        {
+          "title": "BBC 报道 OpenAI 沙特籍工程师涉窃听案：用录音设备藏身电视后被反监控团队发现",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2110447453132722271",
+          "aihotUrl": "https://aihot.news/items/ljsb1l5tupyc7kfptsjw9ti4c",
+          "publishedAt": "2026-10-14T19:07:37.000Z"
+        },
+        {
+          "title": "FBI 逮捕 OpenAI 工程师，涉嫌在机密会议室藏录音设备窃密",
+          "sourceName": "Ars Technica：AI（RSS）",
+          "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+          "aihotUrl": "https://aihot.news/items/cj2q92w5u4jo95ejml2v5zofa",
+          "publishedAt": "2026-10-14T16:41:49.000Z"
+        },
         {
           "title": "OpenAI 工程师涉嫌用妻子聊天机器人账号协助窃听高管会议室被捕",
           "sourceName": "The Decoder：AI News（RSS）",
           "sourceUrl": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
           "aihotUrl": "https://aihot.news/items/o79mkd7okxmoiyhlagyf8ll89",
           "publishedAt": "2026-10-14T12:37:05.000Z"
-        },
-        {
-          "title": "FBI 起诉 OpenAI 工程师在高管会议室藏匿微型录音器",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2110224542358786421",
-          "aihotUrl": "https://aihot.news/items/crar4bp5hgkkm9cb4l2karhxp",
-          "publishedAt": "2026-10-14T04:21:51.000Z"
-        },
-        {
-          "title": "WSJ 报道 OpenAI 工程师涉嫌在会议室藏匿窃听设备被 FBI 逮捕",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2110222815958086120",
-          "aihotUrl": "https://aihot.news/items/bfl35zlggip8et3pmamzh0719",
-          "publishedAt": "2026-10-14T04:15:00.000Z"
         }
       ],
       "related": [],
@@ -488,68 +445,40 @@
     },
     {
       "rank": 3,
-      "id": "v3pogrzxrk9oba4blox86d0w8",
-      "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
-      "sourceName": "Artificial Analysis 完整文章（网页）",
-      "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
-      "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
-      "storyUrl": "https://aihot.news/story/f7f99eb7-84e6-4450-a43f-668dca988b22",
-      "sourceCount": 17,
-      "participantCount": 83,
-      "latestAt": "2026-10-13T22:53:44.000Z",
-      "expanded": true,
-      "latest": "Meta 发布 Muse Wonder 和 Muse Wonder Full：基准成绩、定价与使用步骤",
-      "reports": [
-        {
-          "title": "Meta 发布 Muse Wonder 和 Muse Wonder Full：基准成绩、定价与使用步骤",
-          "sourceName": "MarkTechPost（RSS）",
-          "sourceUrl": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
-          "aihotUrl": "https://aihot.news/items/yttmjsu0csjdy9uankxtp5mmk",
-          "publishedAt": "2026-10-13T22:53:44.000Z"
-        },
-        {
-          "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2110120205464846828",
-          "aihotUrl": "https://aihot.news/items/ob6ryetyialrnqhyjusr2s1iz",
-          "publishedAt": "2026-10-13T21:27:15.000Z"
-        },
-        {
-          "title": "Meta 发布首款前沿模型 Muse Wonder",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "sourceUrl": "https://x.com/testingcatalog/status/2109924204468425145",
-          "aihotUrl": "https://aihot.news/items/eugi5rnddiycpq0bjk6sorqd7",
-          "publishedAt": "2026-10-13T08:28:25.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Artificial Analysis 完整文章（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 4,
       "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
-      "title": "Anthropic自研Scion替换git并分享经验",
+      "title": "Anthropic 自研 Scion 替换 git 并分享经验",
       "sourceName": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）",
       "sourceUrl": "https://www.anthropic.com/engineering/redesigning-source-control",
       "aihotUrl": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
       "storyUrl": "https://aihot.news/story/dd9580d2-0aaa-4628-bab2-4e89974e44bb",
       "sourceCount": 7,
-      "participantCount": 34,
+      "participantCount": 36,
       "latestAt": "2026-10-14T06:23:52.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
+      "expanded": true,
+      "latest": "Anthropic 用五个月自建版本控制系统 Scion，替代为人类协作设计的 Git",
+      "reports": [
+        {
+          "title": "Anthropic 用五个月自建版本控制系统 Scion，替代为人类协作设计的 Git",
+          "sourceName": "X：indigo (@indigox)",
+          "sourceUrl": "https://x.com/indigox/status/2110255248971644942",
+          "aihotUrl": "https://aihot.news/items/i9zo03jbse4ptofp0keupfv8i",
+          "publishedAt": "2026-10-14T06:23:52.000Z"
+        },
+        {
+          "title": "Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 Git 迁移",
+          "sourceName": "X：indigo (@indigox)",
+          "sourceUrl": "https://x.com/indigox/status/2110254312190570522",
+          "aihotUrl": "https://aihot.news/items/btxmi7z4k99d475rm87k1splb",
+          "publishedAt": "2026-10-14T06:20:09.000Z"
+        },
+        {
+          "title": "Anthropic 用 5 个月将内部 monorepo 从 Git 迁移到自研版本控制系统 Scion",
+          "sourceName": "X：邵猛 (@shao__meng)",
+          "sourceUrl": "https://x.com/shao__meng/status/2110186080490402193",
+          "aihotUrl": "https://aihot.news/items/r6nn05zme1z711ory2cl7hmo8",
+          "publishedAt": "2026-10-14T01:49:01.000Z"
+        }
+      ],
       "related": [],
       "visual": {
         "entities": [
@@ -565,7 +494,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "kjcq4dywmvs5xijl4emac5o40",
       "title": "苹果发布 HomeView 智能家居中枢",
       "sourceName": "Apple：Newsroom（RSS）",
@@ -593,7 +522,63 @@
       }
     },
     {
+      "rank": 5,
+      "id": "v3pogrzxrk9oba4blox86d0w8",
+      "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
+      "sourceName": "Artificial Analysis 完整文章（网页）",
+      "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
+      "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
+      "storyUrl": "https://aihot.news/story/f7f99eb7-84e6-4450-a43f-668dca988b22",
+      "sourceCount": 5,
+      "participantCount": 41,
+      "latestAt": "2026-10-13T22:53:44.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Artificial Analysis 完整文章（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 6,
+      "id": "vwu0li2nl5hztqeztnq8b5udc",
+      "title": "Character.AI申请破产，迪士尼2000万美元牵头竞购",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "aihotUrl": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+      "storyUrl": "https://aihot.news/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a",
+      "sourceCount": 7,
+      "participantCount": 28,
+      "latestAt": "2026-10-14T18:47:54.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "TechCrunch：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "uy4hvoyz7fwtyycpu0p62dudn",
       "title": "xAI 推 The X Subscription，整合 Grok、Cursor 与 X Premium",
       "sourceName": "xAI：News（网页）",
@@ -601,7 +586,7 @@
       "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
       "storyUrl": "https://aihot.news/story/650e9193-a6bd-489e-8151-e3cbc367002c",
       "sourceCount": 9,
-      "participantCount": 37,
+      "participantCount": 36,
       "latestAt": "2026-10-13T13:50:19.000Z",
       "expanded": false,
       "latest": "",
@@ -621,16 +606,16 @@
       }
     },
     {
-      "rank": 7,
-      "id": "vwu0li2nl5hztqeztnq8b5udc",
-      "title": "Character.AI申请破产 迪士尼2000万美元牵头竞购",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "aihotUrl": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
-      "storyUrl": "https://aihot.news/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a",
-      "sourceCount": 7,
-      "participantCount": 28,
-      "latestAt": "2026-10-13T20:06:53.000Z",
+      "rank": 8,
+      "id": "uob3jvsb97uh5achwaggjrhqh",
+      "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
+      "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
+      "sourceCount": 8,
+      "participantCount": 19,
+      "latestAt": "2026-10-14T17:51:42.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -638,10 +623,10 @@
       "visual": {
         "entities": [
           {
-            "name": "TechCrunch：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",
@@ -649,16 +634,44 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "g69dhqcydsst57wd512xudr1d",
+      "title": "苹果诉OpenAI窃密，法官令OpenAI交招聘材料",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2110324532338893082",
+      "aihotUrl": "https://aihot.news/items/g69dhqcydsst57wd512xudr1d",
+      "storyUrl": "https://aihot.news/story/1c82cb6d-b96b-4f08-a826-d2ea44910b33",
+      "sourceCount": 3,
+      "participantCount": 14,
+      "latestAt": "2026-10-14T16:43:24.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "emc0djmqlomn6b5whge285x7l",
-      "title": "Anthropic研究：小模型或可在IoT设备自我复制",
+      "title": "Anthropic研究：小模型或数月内在IoT设备自我复制",
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
       "sourceUrl": "https://www.anthropic.com/research/self-replicating-ai",
       "aihotUrl": "https://aihot.news/items/emc0djmqlomn6b5whge285x7l",
       "storyUrl": "https://aihot.news/story/12f4e6cb-604e-40cd-a3c8-eeb6fead61ce",
-      "sourceCount": 5,
-      "participantCount": 24,
-      "latestAt": "2026-10-14T12:55:06.000Z",
+      "sourceCount": 6,
+      "participantCount": 23,
+      "latestAt": "2026-10-14T15:19:02.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -670,62 +683,6 @@
             "asset": "/assets/identities/anthropicai.jpg",
             "assetSource": "https://x.com/AnthropicAI",
             "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "uob3jvsb97uh5achwaggjrhqh",
-      "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
-      "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
-      "sourceCount": 8,
-      "participantCount": 18,
-      "latestAt": "2026-10-14T01:02:59.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "nelk76tb1b6ah25bcwabilx1o",
-      "title": "Google Play 支持私人 AI 生成应用直接运行",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "aihotUrl": "https://aihot.news/items/nelk76tb1b6ah25bcwabilx1o",
-      "storyUrl": "https://aihot.news/story/b94a2ef2-af25-4a46-be2d-af560acd6e7c",
-      "sourceCount": 4,
-      "participantCount": 14,
-      "latestAt": "2026-10-14T13:01:41.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",
