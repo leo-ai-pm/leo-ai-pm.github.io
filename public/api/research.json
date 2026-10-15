@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-15T06:20:53.865Z",
-      "lastSuccessAt": "2026-10-15T06:20:53.865Z",
-      "nextCheckAt": 1792048853865,
+      "checkedAt": "2026-10-15T11:43:46.102Z",
+      "lastSuccessAt": "2026-10-15T11:43:46.102Z",
+      "nextCheckAt": 1792068226102,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-15T06:20:53.867Z",
-      "lastSuccessAt": "2026-10-15T06:20:53.867Z",
-      "nextCheckAt": 1792048853867,
+      "checkedAt": "2026-10-15T11:43:46.103Z",
+      "lastSuccessAt": "2026-10-15T11:43:46.103Z",
+      "nextCheckAt": 1792068226103,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-15T06:20:53.868Z",
-      "lastSuccessAt": "2026-10-15T06:20:53.868Z",
-      "nextCheckAt": 1792048853868,
+      "checkedAt": "2026-10-15T11:43:46.105Z",
+      "lastSuccessAt": "2026-10-15T11:43:46.105Z",
+      "nextCheckAt": 1792068226105,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-15T11:43:46.310Z",
+      "lastSuccessAt": "2026-10-15T11:43:46.310Z",
+      "nextCheckAt": 1792068226310,
       "status": "ok",
-      "nextCheckAt": 1792048854043,
-      "checkedAt": "2026-10-15T06:20:54.043Z",
-      "lastSuccessAt": "2026-10-15T06:20:54.043Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792048853865,
+  "nextCheckAt": 1792068226102,
   "refreshing": false,
   "items": [
     {
@@ -174,51 +174,11 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6478600.html",
-      "title": "腾讯「Rena览财」公测，一个股票分析Agent",
-      "summary": "腾讯上线个人金融 AI Agent「Rena 览财」，主打个股要闻速读、个股分析与智能问答三大场景，网页、小程序、微信助理多端即用。它不荐股、不交易，只做分析辅助，把专业投研能力降维给普通投资者，零门槛上手。 近日，腾讯上线了一个个人金融 AI Agent：Rena 览财。 不同于其他的金融 AI Agent，主要针对专业机构和专业人士。 Rena 览财，是一个 AI 驱动的个股分析师，主要针对个人用户。 产品 Slogan：你的个人股",
-      "publishedAt": "2026-10-15T03:04:38.000Z",
-      "url": "https://www.woshipm.com/ai/6478600.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478600.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "腾讯上线个人金融 AI Agent「Rena 览财」，主打个股要闻速读、个股分析与智能问答三大场景，网页、小程序、微信助理多端即用。它不荐股、不交易，只做分析辅助，把专业投研能力降维给普通投资者，零门槛上手。 近日，腾讯上线了一个个人金融 AI Agent：Rena 览财。 不同于其他的金融 AI Agent，主要针对专业机构和专业人士。 Rena 览财，是一个 AI 驱动的个股分析师，主要针对个人用户。 产品 Slogan：你的个人股",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/writerzroom",
-      "title": "WriterzRoom",
-      "summary": "Governed multi-agent AI content for regulated industries",
-      "publishedAt": "2026-10-14T04:35:22.000Z",
-      "url": "https://www.producthunt.com/products/writerzroom",
+      "id": "ph:https://www.producthunt.com/products/withhuman",
+      "title": "withHuman",
+      "summary": "A human approval layer for AI Agents",
+      "publishedAt": "2026-10-14T16:01:56.000Z",
+      "url": "https://www.producthunt.com/products/withhuman",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -242,11 +202,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/writerzroom",
+      "sourceUrl": "https://www.producthunt.com/products/withhuman",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Governed multi-agent AI content for regulated industries",
+      "brief": "A human approval layer for AI Agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/actually-asked",
+      "title": "Actually Asked",
+      "summary": "A self-improving branded AI FAQ page",
+      "publishedAt": "2026-10-14T15:36:37.000Z",
+      "url": "https://www.producthunt.com/products/actually-asked",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/actually-asked",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "A self-improving branded AI FAQ page",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -254,15 +254,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/vectorize",
-      "title": "Hindsight 1.0 + Memlake",
-      "summary": "Open source memory for AI agents to learn from experience",
-      "publishedAt": "2026-10-13T18:51:23.000Z",
-      "url": "https://www.producthunt.com/products/vectorize",
+      "id": "ph:https://www.producthunt.com/products/rushilo",
+      "title": "Rushilo",
+      "summary": "Edit video by talking to Claude Code or Codex",
+      "publishedAt": "2026-10-14T15:35:56.000Z",
+      "url": "https://www.producthunt.com/products/rushilo",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/vectorize",
+      "sourceUrl": "https://www.producthunt.com/products/rushilo",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Open source memory for AI agents to learn from experience",
+      "brief": "Edit video by talking to Claude Code or Codex",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -332,46 +332,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/apple-homepod-mini",
-      "title": "Apple HomePod mini 2",
-      "summary": "Apple's tiny smart speaker, now built for Siri AI",
-      "publishedAt": "2026-10-13T13:43:16.000Z",
-      "url": "https://www.producthunt.com/products/apple-homepod-mini",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/apple-homepod-mini",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Apple's tiny smart speaker, now built for Siri AI",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
