@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-15T11:43:46.102Z",
-      "lastSuccessAt": "2026-10-15T11:43:46.102Z",
-      "nextCheckAt": 1792068226102,
+      "checkedAt": "2026-10-15T15:45:46.256Z",
+      "lastSuccessAt": "2026-10-15T15:45:46.256Z",
+      "nextCheckAt": 1792082746256,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-15T11:43:46.103Z",
-      "lastSuccessAt": "2026-10-15T11:43:46.103Z",
-      "nextCheckAt": 1792068226103,
+      "checkedAt": "2026-10-15T15:45:46.257Z",
+      "lastSuccessAt": "2026-10-15T15:45:46.257Z",
+      "nextCheckAt": 1792082746257,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-15T11:43:46.105Z",
-      "lastSuccessAt": "2026-10-15T11:43:46.105Z",
-      "nextCheckAt": 1792068226105,
+      "checkedAt": "2026-10-15T15:45:46.258Z",
+      "lastSuccessAt": "2026-10-15T15:45:46.258Z",
+      "nextCheckAt": 1792082746258,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-15T11:43:46.310Z",
-      "lastSuccessAt": "2026-10-15T11:43:46.310Z",
-      "nextCheckAt": 1792068226310,
       "status": "ok",
+      "nextCheckAt": 1792082746720,
+      "checkedAt": "2026-10-15T15:45:46.720Z",
+      "lastSuccessAt": "2026-10-15T15:45:46.720Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,90 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792068226102,
+  "nextCheckAt": 1792082746256,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6478995.html",
+      "title": "对话OpenAI产品负责人：当模型三个月迭代一次，跟不上前沿研究的 PM 只是假装在做产品",
+      "summary": "当 AI 开始承担越来越多的执行工作，产品经理、工程师和设计师的价值将如何变化？在这期 Lenny’s Podcast 中，负责 OpenAI Codex 与 ChatGPT Work 产品的 Tara Seshan，分享了她在 AI 产品开发一线的观察。 加入 OpenAI 之前，她曾在 Stripe 工作六年，是公司最早的五位产品经理之一，也曾负责 Watershed 的产品，并有过创业和担任投资机构驻场创业者的经历。从成熟的支付业",
+      "publishedAt": "2026-10-15T12:50:36.000Z",
+      "url": "https://www.woshipm.com/ai/6478995.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6478995.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "当 AI 开始承担越来越多的执行工作，产品经理、工程师和设计师的价值将如何变化？在这期 Lenny’s Podcast 中，负责 OpenAI Codex 与 ChatGPT Work 产品的 Tara Seshan，分享了她在 AI 产品开发一线的观察。 加入 OpenAI 之前，她曾在 Stripe 工作六年，是公司最早的五位产品经理之一，也曾负责 Watershed 的产品，并有过创业和担任投资机构驻场创业者的经历。从成熟的支付业",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6478517.html",
+      "title": "实测开源Skill Anatomy：一句话让AI生成能转能拆的原理动画",
+      "summary": "一个叫 Anatomy 的开源 Skill，设计理念只有一句「物体本身，就是解释」：它会把要理解的原理做成能运转、能交互的机械模型动画，比如机械手表的内部结构。作者再把动画交给 AI 配上讲解和配音，一轮直出就能做出机械表、显卡的科普视频。 前两天发现了一个超棒的Skill，可能很多朋友也都刷到了。 叫Anatomy，中文含义是深度剖析。 这个东西，我觉得特别有意思。 它的核心设计理念，只有一句话。 The object is the",
+      "publishedAt": "2026-10-15T03:19:42.000Z",
+      "url": "https://www.woshipm.com/ai/6478517.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6478517.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "一个叫 Anatomy 的开源 Skill，设计理念只有一句「物体本身，就是解释」：它会把要理解的原理做成能运转、能交互的机械模型动画，比如机械手表的内部结构。作者再把动画交给 AI 配上讲解和配音，一轮直出就能做出机械表、显卡的科普视频。 前两天发现了一个超棒的Skill，可能很多朋友也都刷到了。 叫Anatomy，中文含义是深度剖析。 这个东西，我觉得特别有意思。 它的核心设计理念，只有一句话。 The object is the",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6478511.html",
       "title": "AgentHop：让你的 AI 和别人的 AI，直接开聊！",
@@ -131,52 +212,12 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6478505.html",
-      "title": "AI Agent 开始真正干活了，政务产品应该怎么切入？",
-      "summary": "OpenAI 发布 Agents API 公测版后，开发者可以让 Agent 持续执行复杂任务、调用不同工具，还能把一项工作拆给多个子智能体并行处理。放到政务产品上，难的并不是接入大模型，而是把业务拆成可执行步骤，并让每一步可被检查和追溯。 最近，OpenAI 发布了 Agents API 公测版。相比过去调用模型、拼接提示词的开发方式，这次更值得关注的是：开发者可以让 Agent 持续执行复杂任务，调用不同工具，还能把一项工作拆分给多",
-      "publishedAt": "2026-10-15T03:15:15.000Z",
-      "url": "https://www.woshipm.com/ai/6478505.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478505.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "OpenAI 发布 Agents API 公测版后，开发者可以让 Agent 持续执行复杂任务、调用不同工具，还能把一项工作拆给多个子智能体并行处理。放到政务产品上，难的并不是接入大模型，而是把业务拆成可执行步骤，并让每一步可被检查和追溯。 最近，OpenAI 发布了 Agents API 公测版。相比过去调用模型、拼接提示词的开发方式，这次更值得关注的是：开发者可以让 Agent 持续执行复杂任务，调用不同工具，还能把一项工作拆分给多",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/withhuman",
       "title": "withHuman",
-      "summary": "A human approval layer for AI Agents",
+      "summary": "A open-source human approval layer for AI Agents",
       "publishedAt": "2026-10-14T16:01:56.000Z",
       "url": "https://www.producthunt.com/products/withhuman",
       "linkKind": "original",
@@ -206,12 +247,12 @@
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "A human approval layer for AI Agents",
+      "brief": "A open-source human approval layer for AI Agents",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/actually-asked",
