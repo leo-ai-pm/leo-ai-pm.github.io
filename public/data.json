@@ -1,7 +1,7 @@
 {
   "date": "2026年10月15日",
   "demo": false,
-  "updatedAt": "2026-10-15T01:32:05.654Z",
+  "updatedAt": "2026-10-15T06:21:08.841Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 339,
-    "latestCount": 3,
+    "received": 338,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "karpathy",
@@ -143,6 +143,43 @@
     ]
   },
   "items": [
+    {
+      "id": "aihot-wpb04wb8luou98s4kdllexv9z",
+      "title": "OpenAI 即将上线新功能",
+      "brief": "将在接下来 2 小时内上线",
+      "summary": "将在接下来 2 小时内上线",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2110595554036400151",
+      "aggregateUrl": "https://aihot.news/items/wpb04wb8luou98s4kdllexv9z",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-15T04:56:07.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Tibo Sottiaux",
+          "asset": "/assets/identities/thsottiaux.jpg",
+          "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
     {
       "id": "aihot-skqw3g5thf63wpn4vas9rhdrv",
       "title": "Ethan Mollick 评 AI 改变游戏行业并引用 Epic 大规模转向 AI",
@@ -302,7 +339,7 @@
       "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
       "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
       "sourceCount": 20,
-      "participantCount": 97,
+      "participantCount": 98,
       "latestAt": "2026-10-14T22:49:14.000Z",
       "expanded": true,
       "latest": "Gemini 4 Argon 开发者对话",
@@ -331,16 +368,16 @@
       ],
       "related": [
         {
+          "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
+          "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
+        },
+        {
+          "title": "Ammaar Reshi 分享 Gemini 4 Argon 游戏提示词与代码",
+          "storyUrl": "https://aihot.news/story/c49b7253-3d56-43af-9600-fbee68e2d344"
+        },
+        {
           "title": "Gemini 4 Argon 解锁多项科学突破",
           "storyUrl": "https://aihot.news/story/60111923-f3bb-4324-86b7-c60d162f38ba"
-        },
-        {
-          "title": "Google 展示 Gemini 4 Argon 多个构建案例",
-          "storyUrl": "https://aihot.news/story/844ec8ec-a310-4f5c-a6bb-9be6314dd462"
-        },
-        {
-          "title": "Gemini 4 Argon 让机器人看视频学会投沙包",
-          "storyUrl": "https://aihot.news/story/bfb954bb-de72-41f7-9621-9b84314ce826"
         }
       ],
       "visual": {
@@ -365,7 +402,7 @@
       "aihotUrl": "https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov",
       "storyUrl": "https://aihot.news/story/99f5c3c4-2817-4634-b110-98b7db9ef40c",
       "sourceCount": 6,
-      "participantCount": 70,
+      "participantCount": 72,
       "latestAt": "2026-10-14T19:07:37.000Z",
       "expanded": true,
       "latest": "BBC 报道 OpenAI 沙特籍工程师涉窃听案：用录音设备藏身电视后被反监控团队发现",
@@ -415,7 +452,7 @@
       "aihotUrl": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
       "storyUrl": "https://aihot.news/story/dd9580d2-0aaa-4628-bab2-4e89974e44bb",
       "sourceCount": 7,
-      "participantCount": 36,
+      "participantCount": 37,
       "latestAt": "2026-10-14T06:23:52.000Z",
       "expanded": true,
       "latest": "Anthropic 用五个月自建版本控制系统 Scion，替代为人类协作设计的 Git",
@@ -514,6 +551,62 @@
     },
     {
       "rank": 6,
+      "id": "qld0z3p2gztpolbmviizsm66u",
+      "title": "xAI 发布 Grok Voice 3.0 语音模型并登顶评测榜",
+      "sourceName": "xAI：News（网页）",
+      "sourceUrl": "https://x.ai/news/grok-voice-3",
+      "aihotUrl": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
+      "storyUrl": "https://aihot.news/story/fe6db43a-46f1-4dc3-9324-85138dc82596",
+      "sourceCount": 6,
+      "participantCount": 15,
+      "latestAt": "2026-10-15T05:18:54.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "xAI：News（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "m3g8ouj0aocvboaot9bd2uta6",
+      "title": "Anthropic收入增速被指放缓，Q3约168亿美元",
+      "sourceName": "X：Oran Ge (@oran_ge)",
+      "sourceUrl": "https://x.com/oran_ge/status/2110600036476506158",
+      "aihotUrl": "https://aihot.news/items/m3g8ouj0aocvboaot9bd2uta6",
+      "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
+      "sourceCount": 1,
+      "participantCount": 12,
+      "latestAt": "2026-10-15T05:13:56.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "v3pogrzxrk9oba4blox86d0w8",
       "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
       "sourceName": "Artificial Analysis 完整文章（网页）",
@@ -521,7 +614,7 @@
       "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
       "storyUrl": "https://aihot.news/story/f7f99eb7-84e6-4450-a43f-668dca988b22",
       "sourceCount": 3,
-      "participantCount": 32,
+      "participantCount": 27,
       "latestAt": "2026-10-14T23:46:15.000Z",
       "expanded": false,
       "latest": "",
@@ -541,62 +634,6 @@
       }
     },
     {
-      "rank": 7,
-      "id": "vwu0li2nl5hztqeztnq8b5udc",
-      "title": "Character.AI申请破产，迪士尼2000万美元牵头竞购",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "aihotUrl": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
-      "storyUrl": "https://aihot.news/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a",
-      "sourceCount": 7,
-      "participantCount": 28,
-      "latestAt": "2026-10-14T18:47:54.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "TechCrunch：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "qld0z3p2gztpolbmviizsm66u",
-      "title": "xAI 发布 Grok Voice 3.0 语音模型",
-      "sourceName": "xAI：News（网页）",
-      "sourceUrl": "https://x.ai/news/grok-voice-3",
-      "aihotUrl": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
-      "storyUrl": "https://aihot.news/story/fe6db43a-46f1-4dc3-9324-85138dc82596",
-      "sourceCount": 5,
-      "participantCount": 13,
-      "latestAt": "2026-10-14T23:35:09.823Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "xAI：News（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 9,
       "id": "uob3jvsb97uh5achwaggjrhqh",
       "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
@@ -605,7 +642,7 @@
       "aihotUrl": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
       "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b",
       "sourceCount": 8,
-      "participantCount": 19,
+      "participantCount": 20,
       "latestAt": "2026-10-14T17:51:42.000Z",
       "expanded": false,
       "latest": "",
@@ -626,15 +663,15 @@
     },
     {
       "rank": 10,
-      "id": "kcwro19vl7dr5jgcjgec7mive",
-      "title": "Epic 转向 AI 优先开发，Disney 游戏延期",
-      "sourceName": "Ars Technica：AI（RSS）",
-      "sourceUrl": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "aihotUrl": "https://aihot.news/items/kcwro19vl7dr5jgcjgec7mive",
-      "storyUrl": "https://aihot.news/story/b8354181-64d5-482c-8340-9992708d2480",
-      "sourceCount": 3,
-      "participantCount": 13,
-      "latestAt": "2026-10-14T21:15:56.000Z",
+      "id": "vwu0li2nl5hztqeztnq8b5udc",
+      "title": "Character.AI申请破产，迪士尼2000万美元牵头竞购",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "aihotUrl": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+      "storyUrl": "https://aihot.news/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a",
+      "sourceCount": 7,
+      "participantCount": 25,
+      "latestAt": "2026-10-14T18:47:54.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -642,7 +679,7 @@
       "visual": {
         "entities": [
           {
-            "name": "Ars Technica：AI（RSS）",
+            "name": "TechCrunch：AI（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"

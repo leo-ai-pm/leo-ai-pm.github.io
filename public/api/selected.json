@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-15T01:32:23.393Z",
+  "checkedAt": "2026-10-15T06:21:26.291Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "f9mfexmd1udr4ehzn5t6pawi5",
+      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+      "reason": "原文交代了 Payload 集成到 Figma Make 后的后端能力、托管现状和开放计划，读者可据此判断对建站工作流的改变。",
+      "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。",
+      "sourceName": "Figma AI / Agent / Make",
+      "sourceUrl": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+      "aihotUrl": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5",
+      "publishedAt": "2026-10-15T04:50:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "kg6bx3goagkn4k8kt7jl9lqgd",
+      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+      "reason": "作者实测开源Skill Anatomy并给出成本、耗时和适用模型的数字，可帮读者判断是否值得装来生成科普视频。",
+      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "sourceUrl": "https://x.com/Khazix0918/status/2110587546271191166",
+      "aihotUrl": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
+      "publishedAt": "2026-10-15T04:24:18.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "s27ozk3mqeklm58sqxjeaz2wk",
       "title": "Databricks 讲解如何在 AI Runtime 上将 Qwen 3.8 27B 微调时间缩短 6 倍",
@@ -236,6 +264,20 @@
       "unselected": false
     },
     {
+      "id": "cklrpr58z4b8ilif89c5h1vr7",
+      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+      "reason": "官方开源的 Agent 工作台，给出办公 Skills、长任务续跑与智能路由的实测数据，轻量模型框架选型可参考。",
+      "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+      "sourceName": "公众号：面壁智能（MiniCPM）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "aihotUrl": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7",
+      "publishedAt": "2026-10-15T04:53:56.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "ooiqiluy56g21ir2u4phxjqu7",
       "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
       "reason": "官方介绍了增长功能的实际运作方式，包括广告投放前的审批机制和不加价的计费方式，读者可据此评估对自有产品的适用性。",
@@ -364,6 +406,20 @@
       "unselected": false
     },
     {
+      "id": "f9mfexmd1udr4ehzn5t6pawi5",
+      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+      "reason": "原文交代了 Payload 集成到 Figma Make 后的后端能力、托管现状和开放计划，读者可据此判断对建站工作流的改变。",
+      "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。",
+      "sourceName": "Figma AI / Agent / Make",
+      "sourceUrl": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+      "aihotUrl": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5",
+      "publishedAt": "2026-10-15T04:50:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "fuzrhjjahftxj9xj36god3pcf",
       "title": "vLLM 推出无需置信头的在线拟合接受估计器，让 EAGLE、MTP 等草稿模型可用 Adaptive Verification",
       "reason": "原文给出无置信头草稿模型启用 Adaptive Verification 的在线估计方法、设计取舍和实测数据，方法可直接在 vLLM 中配置复用。",
@@ -406,6 +462,20 @@
       "unselected": false
     },
     {
+      "id": "cklrpr58z4b8ilif89c5h1vr7",
+      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+      "reason": "官方开源的 Agent 工作台，给出办公 Skills、长任务续跑与智能路由的实测数据，轻量模型框架选型可参考。",
+      "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+      "sourceName": "公众号：面壁智能（MiniCPM）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "aihotUrl": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7",
+      "publishedAt": "2026-10-15T04:53:56.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "ooiqiluy56g21ir2u4phxjqu7",
       "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
       "reason": "官方介绍了增长功能的实际运作方式，包括广告投放前的审批机制和不加价的计费方式，读者可据此评估对自有产品的适用性。",
@@ -442,34 +512,6 @@
       "sourceUrl": "https://x.com/OpenRouter/status/2110044453977403412",
       "aihotUrl": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
       "publishedAt": "2026-10-13T16:26:15.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "cgbpvdepk4p1jrrawgzbfbxov",
-      "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
-      "reason": "原文详述了 AI Search 用决策模型逐条读取轨迹的搜索机制和 8K token 预算的取舍设计，读者可以了解其与向量搜索的差异和实现细节。",
-      "summary": "LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。",
-      "sourceName": "LangChain：Blog（RSS）",
-      "sourceUrl": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
-      "aihotUrl": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
-      "publishedAt": "2026-10-13T12:59:12.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "kjcq4dywmvs5xijl4emac5o40",
-      "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-      "reason": "官方通稿完整给出了定价、上市时间和 Siri AI 能力边界，还说明了欧盟不发售的原因。",
-      "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
-      "sourceName": "Apple：Newsroom（RSS）",
-      "sourceUrl": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "aihotUrl": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
-      "publishedAt": "2026-10-13T12:59:16.617Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -700,6 +742,20 @@
       "unselected": false
     },
     {
+      "id": "kg6bx3goagkn4k8kt7jl9lqgd",
+      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+      "reason": "作者实测开源Skill Anatomy并给出成本、耗时和适用模型的数字，可帮读者判断是否值得装来生成科普视频。",
+      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "sourceUrl": "https://x.com/Khazix0918/status/2110587546271191166",
+      "aihotUrl": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
+      "publishedAt": "2026-10-15T04:24:18.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "s27ozk3mqeklm58sqxjeaz2wk",
       "title": "Databricks 讲解如何在 AI Runtime 上将 Qwen 3.8 27B 微调时间缩短 6 倍",
       "reason": "原文给出从定位瓶颈到融合内核与数据打包的完整优化路径和量化结果，读者可迁移到自己的 LLM 微调任务。",
@@ -796,20 +852,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "byijxcheeait7w4okuw9ebnh2",
-      "title": "Vapi 自研代码审查机器人如何将 PR 合并时间缩短一半",
-      "reason": "作者基于自家代码库做了提示词版本、多跑对比和范围指令等实验，给出可直接迁移的代码审查智能体实践结论。",
-      "summary": "Vapi 工程师 Lat Ware 自研 Pedantic Review Bot，使 PR 从开到合并的平均时间从 130 多小时降到 65 小时。",
-      "sourceName": "Vapi 产品与 Agent 方法",
-      "sourceUrl": "https://vapi.ai/blog/ai-code-review-bot",
-      "aihotUrl": "https://aihot.news/items/byijxcheeait7w4okuw9ebnh2",
-      "publishedAt": "2026-10-12T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -819,6 +861,34 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "f9mfexmd1udr4ehzn5t6pawi5",
+          "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+          "reason": "原文交代了 Payload 集成到 Figma Make 后的后端能力、托管现状和开放计划，读者可据此判断对建站工作流的改变。",
+          "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。",
+          "sourceName": "Figma AI / Agent / Make",
+          "sourceUrl": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+          "aihotUrl": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5",
+          "publishedAt": "2026-10-15T04:50:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
+          "id": "kg6bx3goagkn4k8kt7jl9lqgd",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "reason": "作者实测开源Skill Anatomy并给出成本、耗时和适用模型的数字，可帮读者判断是否值得装来生成科普视频。",
+          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+          "sourceName": "X：卡兹克 (@Khazix0918)",
+          "sourceUrl": "https://x.com/Khazix0918/status/2110587546271191166",
+          "aihotUrl": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
+          "publishedAt": "2026-10-15T04:24:18.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "wn2lwzshkg8gt2sbjuj1qxd8y",
           "title": "OpenAI 团队分享如何用 GPT-6 系列模型维护大型代码库",
@@ -873,34 +943,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "qld0z3p2gztpolbmviizsm66u",
-          "title": "xAI 发布 Grok Voice 3.0 语音模型",
-          "reason": "官方发布给出多项第三方基准分数、时延和 API 定价，读者可以据此评估它在语音智能体场景的性价比。",
-          "summary": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。",
-          "sourceName": "xAI：News（网页）",
-          "sourceUrl": "https://x.ai/news/grok-voice-3",
-          "aihotUrl": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
-          "publishedAt": "2026-10-14T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "enqtz3wtz6khvf0m44z5a5jaz",
-          "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
-          "reason": "原文介绍了系统由来、四阶段智能体审阅流程和公开使用条件，读者可以了解其适用范围与接入方式。",
-          "summary": "Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证，最初面向计算机科学论文，现已扩展到法律、金融等领域。",
-          "sourceName": "Google Research：Blog（网页）",
-          "sourceUrl": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
-          "aihotUrl": "https://aihot.news/items/enqtz3wtz6khvf0m44z5a5jaz",
-          "publishedAt": "2026-10-14T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
@@ -1188,6 +1230,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "kg6bx3goagkn4k8kt7jl9lqgd",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "reason": "作者实测开源Skill Anatomy并给出成本、耗时和适用模型的数字，可帮读者判断是否值得装来生成科普视频。",
+          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+          "sourceName": "X：卡兹克 (@Khazix0918)",
+          "sourceUrl": "https://x.com/Khazix0918/status/2110587546271191166",
+          "aihotUrl": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
+          "publishedAt": "2026-10-15T04:24:18.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "yq46ddqwq7ns4ilpaqh6k0kql",
           "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
           "reason": "欧盟依据《人工智能法案》对两家实验室的安全事件启动调查，罚则上限和取证进展对同类监管走向有参照意义。",
@@ -1255,20 +1311,6 @@
           "timeBasis": "published",
           "category": "opinion",
           "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
-          "title": "Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移",
-          "reason": "Anthropic 自建版本控制系统 Scion 的完整复盘，给出面向智能体规模负载的设计原则、架构细节和实测收益，可迁移到其他大规模仓库场景。",
-          "summary": "Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。",
-          "sourceName": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/engineering/redesigning-source-control",
-          "aihotUrl": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
-          "publishedAt": "2026-10-13T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]

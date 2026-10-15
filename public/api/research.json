@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-15T01:31:54.380Z",
-      "lastSuccessAt": "2026-10-15T01:31:54.380Z",
-      "nextCheckAt": 1792031514380,
+      "checkedAt": "2026-10-15T06:20:53.865Z",
+      "lastSuccessAt": "2026-10-15T06:20:53.865Z",
+      "nextCheckAt": 1792048853865,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-15T01:31:54.381Z",
-      "lastSuccessAt": "2026-10-15T01:31:54.381Z",
-      "nextCheckAt": 1792031514381,
+      "checkedAt": "2026-10-15T06:20:53.867Z",
+      "lastSuccessAt": "2026-10-15T06:20:53.867Z",
+      "nextCheckAt": 1792048853867,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-15T01:31:54.382Z",
-      "lastSuccessAt": "2026-10-15T01:31:54.382Z",
-      "nextCheckAt": 1792031514382,
+      "checkedAt": "2026-10-15T06:20:53.868Z",
+      "lastSuccessAt": "2026-10-15T06:20:53.868Z",
+      "nextCheckAt": 1792048853868,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792031514486,
-      "checkedAt": "2026-10-15T01:31:54.486Z",
-      "lastSuccessAt": "2026-10-15T01:31:54.486Z",
+      "nextCheckAt": 1792048854043,
+      "checkedAt": "2026-10-15T06:20:54.043Z",
+      "lastSuccessAt": "2026-10-15T06:20:54.043Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,56 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792031514380,
+  "nextCheckAt": 1792048853865,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6478176.html",
-      "title": "实测Gemini 4 Argon写作能力，百万上下文竟恐怖如斯",
-      "summary": "Gemini 4 Argon 把输入输出窗口统一到 100 万，输出上限从 64K 提上来，写作强调直接、不套话。实测让模型给自己写小说：单章六万多字一气呵成不断层，跑分带上高思考模式拿下初榜魁首，编程重构也有斩获。 都说Google这次的Gemini 4 Argon统一了100 万的输入输出窗口（之前的输出上限只有 64K）。 写作能力有明显的提升，强调回答更直接，没有套话和陈词滥调，能够更好遵循我们提示语。科学写作就更强了，创意写作",
-      "publishedAt": "2026-10-14T09:03:13.000Z",
-      "url": "https://www.woshipm.com/ai/6478176.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478176.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Gemini 4 Argon 把输入输出窗口统一到 100 万，输出上限从 64K 提上来，写作强调直接、不套话。实测让模型给自己写小说：单章六万多字一气呵成不断层，跑分带上高思考模式拿下初榜魁首，编程重构也有斩获。 都说Google这次的Gemini 4 Argon统一了100 万的输入输出窗口（之前的输出上限只有 64K）。 写作能力有明显的提升，强调回答更直接，没有套话和陈词滥调，能够更好遵循我们提示语。科学写作就更强了，创意写作",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6478094.html",
-      "title": "「AI工坊」内测，一个抖音原生AI创作Agent",
-      "summary": "字节正在内测「抖音 AI 工坊」，一个专为抖音做内容的 Agent，有独立网站，也在创作者中心留了入口。AI 分身、抖音小程序、智能体、兴趣卡都收了进来，模型开放可配置。作者用一段提示词做了张日语学习兴趣卡，从生成、真机预览走到审核发布。 近日，字节正在内测一个叫做「抖音 AI 工坊」的产品。 这是一个专为抖音创作 AI 内容的 Agent。 有独立网站。 同时也在「抖音创作者中心」放置了入口。 获得使用资格后。 进入抖音 AI 工坊首",
-      "publishedAt": "2026-10-14T08:10:21.000Z",
-      "url": "https://www.woshipm.com/ai/6478094.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6478511.html",
+      "title": "AgentHop：让你的 AI 和别人的 AI，直接开聊！",
+      "summary": "两台没有公网 IP 的电脑、两个不同厂商的 Agent，过去只能靠人复制上下文、粘贴消息、再把结果传回去。AgentHop 用一个配对码建立加密通道，让两个 Agent 直接对话，可接入 Claude Code、Codex、Cursor 等工具。 两台没有公网 IP 的电脑，两个不同厂商的 Agent，过去通常只能靠人复制上下文、粘贴消息，再把结果传回去。AgentHop 提供了另一种方式：用一个配对码建立加密通道，让两个 Agent",
+      "publishedAt": "2026-10-15T03:16:05.000Z",
+      "url": "https://www.woshipm.com/ai/6478511.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -163,27 +122,27 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478094.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6478511.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "字节正在内测「抖音 AI 工坊」，一个专为抖音做内容的 Agent，有独立网站，也在创作者中心留了入口。AI 分身、抖音小程序、智能体、兴趣卡都收了进来，模型开放可配置。作者用一段提示词做了张日语学习兴趣卡，从生成、真机预览走到审核发布。 近日，字节正在内测一个叫做「抖音 AI 工坊」的产品。 这是一个专为抖音创作 AI 内容的 Agent。 有独立网站。 同时也在「抖音创作者中心」放置了入口。 获得使用资格后。 进入抖音 AI 工坊首",
+      "brief": "两台没有公网 IP 的电脑、两个不同厂商的 Agent，过去只能靠人复制上下文、粘贴消息、再把结果传回去。AgentHop 用一个配对码建立加密通道，让两个 Agent 直接对话，可接入 Claude Code、Codex、Cursor 等工具。 两台没有公网 IP 的电脑，两个不同厂商的 Agent，过去通常只能靠人复制上下文、粘贴消息，再把结果传回去。AgentHop 提供了另一种方式：用一个配对码建立加密通道，让两个 Agent",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6478059.html",
-      "title": "Agent 评测全流程拆解：数据集、Worker、评分器、发布门禁",
-      "summary": "开发一个能回答问题、调用工具的 Agent 不难，难的是判断它能不能进生产系统。文章结合内部一套 Agent 评测系统，先区分它与传统软件测试的差异，再沿着用例设计、任务执行、评分和回归的顺序，讲清任务、成功标准、执行证据三要素如何协作。 目前来说，我们想要自己开发一个能够回答问题、调用工具的 Agent，通常都不太难。有各种开发框架和 AI Coding 工具的帮助，在需求明确、功能不复杂的情况下，专业人员三到五天就能做出一个大致可用",
-      "publishedAt": "2026-10-14T07:56:09.000Z",
-      "url": "https://www.woshipm.com/ai/6478059.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6478505.html",
+      "title": "AI Agent 开始真正干活了，政务产品应该怎么切入？",
+      "summary": "OpenAI 发布 Agents API 公测版后，开发者可以让 Agent 持续执行复杂任务、调用不同工具，还能把一项工作拆给多个子智能体并行处理。放到政务产品上，难的并不是接入大模型，而是把业务拆成可执行步骤，并让每一步可被检查和追溯。 最近，OpenAI 发布了 Agents API 公测版。相比过去调用模型、拼接提示词的开发方式，这次更值得关注的是：开发者可以让 Agent 持续执行复杂任务，调用不同工具，还能把一项工作拆分给多",
+      "publishedAt": "2026-10-15T03:15:15.000Z",
+      "url": "https://www.woshipm.com/ai/6478505.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -203,11 +162,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478059.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6478505.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "开发一个能回答问题、调用工具的 Agent 不难，难的是判断它能不能进生产系统。文章结合内部一套 Agent 评测系统，先区分它与传统软件测试的差异，再沿着用例设计、任务执行、评分和回归的顺序，讲清任务、成功标准、执行证据三要素如何协作。 目前来说，我们想要自己开发一个能够回答问题、调用工具的 Agent，通常都不太难。有各种开发框架和 AI Coding 工具的帮助，在需求明确、功能不复杂的情况下，专业人员三到五天就能做出一个大致可用",
+      "brief": "OpenAI 发布 Agents API 公测版后，开发者可以让 Agent 持续执行复杂任务、调用不同工具，还能把一项工作拆给多个子智能体并行处理。放到政务产品上，难的并不是接入大模型，而是把业务拆成可执行步骤，并让每一步可被检查和追溯。 最近，OpenAI 发布了 Agents API 公测版。相比过去调用模型、拼接提示词的开发方式，这次更值得关注的是：开发者可以让 Agent 持续执行复杂任务，调用不同工具，还能把一项工作拆分给多",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6478600.html",
+      "title": "腾讯「Rena览财」公测，一个股票分析Agent",
+      "summary": "腾讯上线个人金融 AI Agent「Rena 览财」，主打个股要闻速读、个股分析与智能问答三大场景，网页、小程序、微信助理多端即用。它不荐股、不交易，只做分析辅助，把专业投研能力降维给普通投资者，零门槛上手。 近日，腾讯上线了一个个人金融 AI Agent：Rena 览财。 不同于其他的金融 AI Agent，主要针对专业机构和专业人士。 Rena 览财，是一个 AI 驱动的个股分析师，主要针对个人用户。 产品 Slogan：你的个人股",
+      "publishedAt": "2026-10-15T03:04:38.000Z",
+      "url": "https://www.woshipm.com/ai/6478600.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6478600.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "腾讯上线个人金融 AI Agent「Rena 览财」，主打个股要闻速读、个股分析与智能问答三大场景，网页、小程序、微信助理多端即用。它不荐股、不交易，只做分析辅助，把专业投研能力降维给普通投资者，零门槛上手。 近日，腾讯上线了一个个人金融 AI Agent：Rena 览财。 不同于其他的金融 AI Agent，主要针对专业机构和专业人士。 Rena 览财，是一个 AI 驱动的个股分析师，主要针对个人用户。 产品 Slogan：你的个人股",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
