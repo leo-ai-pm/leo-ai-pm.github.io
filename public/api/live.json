@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月15日",
     "demo": false,
-    "updatedAt": "2026-10-14T23:17:15.553Z",
+    "updatedAt": "2026-10-15T01:32:05.654Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 363,
-      "latestCount": 4,
+      "received": 339,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "karpathy",
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 8,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -144,43 +144,6 @@
       ]
     },
     "items": [
-      {
-        "id": "aihot-zhdk0voqw5grihl8f8axn71w3",
-        "title": "ChatGPT 与 Codex 桌面端磁盘占用优化",
-        "brief": "第 9 天/ 我们已对 chatgpt 和 codex 桌面应用的磁盘状态存储方式推出优化，可将磁盘占用量减少 60%。",
-        "summary": "第 9 天/ 我们已对 chatgpt 和 codex 桌面应用的磁盘状态存储方式推出优化，可将磁盘占用量减少 60%。",
-        "category": "产品动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "thsottiaux",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Tibo Sottiaux · @thsottiaux",
-        "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2110151780478927344",
-        "aggregateUrl": "https://aihot.news/items/zhdk0voqw5grihl8f8axn71w3",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-13T23:32:43.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "产品动态",
-          "author": {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
       {
         "id": "aihot-skqw3g5thf63wpn4vas9rhdrv",
         "title": "Ethan Mollick 评 AI 改变游戏行业并引用 Epic 大规模转向 AI",
@@ -339,12 +302,19 @@
         "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
         "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
         "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
-        "sourceCount": 21,
+        "sourceCount": 20,
         "participantCount": 97,
-        "latestAt": "2026-10-14T22:45:19.000Z",
+        "latestAt": "2026-10-14T22:49:14.000Z",
         "expanded": true,
-        "latest": "Gemini 4 Argon 向 Google AI Pro 和 Ultra 订阅用户全球开放",
+        "latest": "Gemini 4 Argon 开发者对话",
         "reports": [
+          {
+            "title": "Gemini 4 Argon 开发者对话",
+            "sourceName": "X：Gemini (@GeminiApp)",
+            "sourceUrl": "https://x.com/GeminiApp/status/2110503223060828495",
+            "aihotUrl": "https://aihot.news/items/n9qz2fkurlrhjlrivdwvaapp9",
+            "publishedAt": "2026-10-14T22:49:14.000Z"
+          },
           {
             "title": "Gemini 4 Argon 向 Google AI Pro 和 Ultra 订阅用户全球开放",
             "sourceName": "X：Gemini (@GeminiApp)",
@@ -358,13 +328,6 @@
             "sourceUrl": "https://x.com/GeminiApp/status/2110491358498865638",
             "aihotUrl": "https://aihot.news/items/rraljkr6dlbt4wabpcogmdlfv",
             "publishedAt": "2026-10-14T22:02:05.000Z"
-          },
-          {
-            "title": "Gemini 4 Argon 发布，团队展示 5 个构建",
-            "sourceName": "X：Google (@Google)",
-            "sourceUrl": "https://x.com/Google/status/2110440180142498036",
-            "aihotUrl": "https://aihot.news/items/yg9uxlb7su5trpaytqdu90ow3",
-            "publishedAt": "2026-10-14T18:38:43.000Z"
           }
         ],
         "related": [
@@ -524,34 +487,6 @@
       },
       {
         "rank": 5,
-        "id": "v3pogrzxrk9oba4blox86d0w8",
-        "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
-        "sourceName": "Artificial Analysis 完整文章（网页）",
-        "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
-        "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
-        "storyUrl": "https://aihot.news/story/f7f99eb7-84e6-4450-a43f-668dca988b22",
-        "sourceCount": 5,
-        "participantCount": 37,
-        "latestAt": "2026-10-14T20:19:17.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Artificial Analysis 完整文章（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
         "id": "g69dhqcydsst57wd512xudr1d",
         "title": "苹果诉OpenAI窃密，法官令OpenAI交招聘材料",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -559,7 +494,7 @@
         "aihotUrl": "https://aihot.news/items/g69dhqcydsst57wd512xudr1d",
         "storyUrl": "https://aihot.news/story/1c82cb6d-b96b-4f08-a826-d2ea44910b33",
         "sourceCount": 3,
-        "participantCount": 18,
+        "participantCount": 19,
         "latestAt": "2026-10-14T16:43:24.000Z",
         "expanded": false,
         "latest": "",
@@ -572,6 +507,34 @@
               "asset": "/assets/identities/openai.jpg",
               "assetSource": "https://x.com/OpenAI",
               "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "v3pogrzxrk9oba4blox86d0w8",
+        "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
+        "sourceName": "Artificial Analysis 完整文章（网页）",
+        "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
+        "aihotUrl": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
+        "storyUrl": "https://aihot.news/story/f7f99eb7-84e6-4450-a43f-668dca988b22",
+        "sourceCount": 3,
+        "participantCount": 32,
+        "latestAt": "2026-10-14T23:46:15.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Artificial Analysis 完整文章（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -608,15 +571,15 @@
       },
       {
         "rank": 8,
-        "id": "uy4hvoyz7fwtyycpu0p62dudn",
-        "title": "xAI 推 The X Subscription，整合 Grok、Cursor 与 X Premium",
+        "id": "qld0z3p2gztpolbmviizsm66u",
+        "title": "xAI 发布 Grok Voice 3.0 语音模型",
         "sourceName": "xAI：News（网页）",
-        "sourceUrl": "https://x.ai/news/x-subscription",
-        "aihotUrl": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
-        "storyUrl": "https://aihot.news/story/650e9193-a6bd-489e-8151-e3cbc367002c",
-        "sourceCount": 6,
-        "participantCount": 33,
-        "latestAt": "2026-10-13T13:50:19.000Z",
+        "sourceUrl": "https://x.ai/news/grok-voice-3",
+        "aihotUrl": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
+        "storyUrl": "https://aihot.news/story/fe6db43a-46f1-4dc3-9324-85138dc82596",
+        "sourceCount": 5,
+        "participantCount": 13,
+        "latestAt": "2026-10-14T23:35:09.823Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -694,8 +657,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-14T23:17:15.553Z",
-    "nextCheckAt": 1792020135553,
+    "checkedAt": "2026-10-15T01:32:05.654Z",
+    "nextCheckAt": 1792028225654,
     "intervalSeconds": 300,
     "message": ""
   }
