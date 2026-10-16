@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-15T22:39:05.737Z",
+  "checkedAt": "2026-10-16T00:49:31.873Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "dtcyj2lbnn0f9sbmvfqpmjfs6",
+      "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
+      "reason": "黄仁勋访谈把 SpaceX 列入 Nvidia 云客户，并透露双方合作设计太空服务器，Musk 追加算力规模可能超 10GW。",
+      "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
+      "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+      "sourceUrl": "https://x.com/elonmusk/status/2110877572011844019",
+      "aihotUrl": "https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6",
+      "publishedAt": "2026-10-15T23:36:46.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "ee1w5w87zh8hhwwwzqm8w65rd",
       "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
@@ -500,62 +514,6 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "eg7f0ohfzuyjux9ndx2ggk72s",
-      "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-      "reason": "原文给出具体硬指标与三模块架构，还对比了同类方案的延迟和算力门槛，读者可据此评估这条实时世界模型路线的落地价值。",
-      "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
-      "sourceName": "公众号：昆仑万维（天工）",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-      "aihotUrl": "https://aihot.news/items/eg7f0ohfzuyjux9ndx2ggk72s",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "s27ozk3mqeklm58sqxjeaz2wk",
-      "title": "Databricks 讲解如何在 AI Runtime 上将 Qwen 3.8 27B 微调时间缩短 6 倍",
-      "reason": "原文给出从定位瓶颈到融合内核与数据打包的完整优化路径和量化结果，读者可迁移到自己的 LLM 微调任务。",
-      "summary": "Databricks 演示通过系统性性能优化，将 Qwen 3.8 27B 在 AI Runtime 上的微调时间从 7 小时 44 分钟降至 1 小时 17 分钟，提速 6 倍。",
-      "sourceName": "Databricks：Blog（RSS）",
-      "sourceUrl": "https://www.databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime",
-      "aihotUrl": "https://aihot.news/items/s27ozk3mqeklm58sqxjeaz2wk",
-      "publishedAt": "2026-10-14T11:30:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "wn2lwzshkg8gt2sbjuj1qxd8y",
-      "title": "OpenAI 工程师分享用 GPT-6 系列模型清理代码库的实践与提示词",
-      "reason": "作者以一手实践给出可直接复用的 Codex 提示词和模型成本对比，读者可按小任务起步迁移到自己的代码库维护。",
-      "summary": "OpenAI Core Experimentation 团队工程师分享用 GPT-6 Astra 和 GPT-6.1 Sol 在 Codex 中做代码维护的实践，团队已合并超过 1,400 个维护 PR，删除逾 80 万行代码。",
-      "sourceName": "OpenAI Developers：Blog（网页）",
-      "sourceUrl": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
-      "aihotUrl": "https://aihot.news/items/wn2lwzshkg8gt2sbjuj1qxd8y",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "yq46ddqwq7ns4ilpaqh6k0kql",
-      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-      "reason": "欧盟依据《人工智能法案》对两家实验室的安全事件启动调查，罚则上限和取证进展对同类监管走向有参照意义。",
-      "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/013/154.htm",
-      "aihotUrl": "https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql",
-      "publishedAt": "2026-10-14T23:13:18.290Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
@@ -784,6 +742,20 @@
       "unselected": false
     },
     {
+      "id": "dtcyj2lbnn0f9sbmvfqpmjfs6",
+      "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
+      "reason": "黄仁勋访谈把 SpaceX 列入 Nvidia 云客户，并透露双方合作设计太空服务器，Musk 追加算力规模可能超 10GW。",
+      "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
+      "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+      "sourceUrl": "https://x.com/elonmusk/status/2110877572011844019",
+      "aihotUrl": "https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6",
+      "publishedAt": "2026-10-15T23:36:46.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "xl51s0hyyzi1krwrmown4hoqh",
       "title": "Anthropic 公布独立评估机制细节，METR 团队获类员工访问权限",
       "reason": "原文由 Anthropic 亲自说明独立评估机制的具体安排，读者可以了解第三方如何获得接近员工的访问权限和发布权。",
@@ -876,20 +848,6 @@
       "sourceUrl": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
       "aihotUrl": "https://aihot.news/items/gpgj8ws42xbs5zhbxfzvn2g6i",
       "publishedAt": "2026-10-14T18:47:54.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "x5umoaa0xhd8n76uysjppz2fa",
-      "title": "Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资",
-      "reason": "作者作为当事方给出融资规模、估值和业务数据，并说明自研底层技术栈与新产品线，读者可据此了解 Modal 的增长轨迹。",
-      "summary": "Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融资，投后估值 157.5 亿美元，由 Accel 领投，Kleiner Perkins 及现有投资方跟投。",
-      "sourceName": "Modal 官方工程博客（RSS）",
-      "sourceUrl": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
-      "aihotUrl": "https://aihot.news/items/x5umoaa0xhd8n76uysjppz2fa",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
