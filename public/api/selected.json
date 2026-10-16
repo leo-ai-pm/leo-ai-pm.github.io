@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-16T14:44:28.217Z",
+  "checkedAt": "2026-10-16T18:26:38.877Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "jn8i9j3ppsb0f79mrtldd43h8",
+      "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
+      "reason": "Anthropic 自己的研究，给出 Claude 优化量子电路的具体方法和量化改进，对理解 AI 辅助科学发现有参考价值。",
+      "summary": "Anthropic 发布研究报告，让 Claude Mythos 5 在闭环中自主优化量子电路：模型提出电路设计、由自动评估器验证正确性并按 qubit 数乘以门数打分，八项涵盖化学、优化、量子模拟和数论的任务均超过此前最优已发表设计，部分提升达一个数量级以上。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
     {
       "id": "j5vlb3dn14h2b4xy1hbdschyc",
       "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
@@ -430,160 +444,6 @@
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
-    },
-    {
-      "id": "bicfbjip5iq9ccp8x7sn9yw7k",
-      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-      "reason": "OpenRouter 上架该开放权重模型并给出定价与输入模态细节，读者可据此评估接入成本与适用场景。",
-      "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。",
-      "sourceName": "X：OpenRouter (@OpenRouter)",
-      "sourceUrl": "https://x.com/OpenRouter/status/2110793354154008685",
-      "aihotUrl": "https://aihot.news/items/bicfbjip5iq9ccp8x7sn9yw7k",
-      "publishedAt": "2026-10-15T18:02:06.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "rq32az1hr7zpbipiyega9ehjr",
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-      "reason": "原文来自 NVIDIA 官方发布，完整列出 RTX Spark 的硬件规格、AI、创作与游戏能力和首发机型，可据此评估本地 AI PC 的实际用途。",
-      "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-      "sourceName": "NVIDIA：Newsroom（RSS）",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "xl51s0hyyzi1krwrmown4hoqh",
-      "title": "Anthropic 公布独立评估机制细节，METR 团队获类员工访问权限",
-      "reason": "原文由 Anthropic 亲自说明独立评估机制的具体安排，读者可以了解第三方如何获得接近员工的访问权限和发布权。",
-      "summary": "Anthropic 宣布已向评估前沿 AI 模型的非营利机构 METR 的六名员工提供类员工访问权限，包括公司硬件、办公空间和与内部风险评估团队相当的内部系统访问，METR 将公开发布风险评估结果，Anthropic 不得否决发布但可要求删减少数预定义类别的信息。",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "aihotUrl": "https://aihot.news/items/xl51s0hyyzi1krwrmown4hoqh",
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "s80tw5g2v22j1se4bmqejyaq4",
-      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-      "reason": "Meta 开放了 Muse Spark 的权重，并给出 Helion 内核与 TorchTitan 微调支持，读者可据此评估其部署与定制路径。",
-      "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。",
-      "sourceName": "PyTorch：Blog（RSS）",
-      "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
-      "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
-      "publishedAt": "2026-10-15T17:55:52.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "fgtsm4cnci4asmyhhflxzfsga",
-      "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
-      "reason": "作者解释了为什么沙箱本身是 commodity 而生产级规模化才是难点，开源平台可用于自建企业级 Agent 基础设施。",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。",
-      "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2110785848958759165",
-      "aihotUrl": "https://aihot.news/items/fgtsm4cnci4asmyhhflxzfsga",
-      "publishedAt": "2026-10-15T17:32:17.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "j76j898zc7y8on4s10d4nvpan",
-      "title": "Apple 演示用 MLX 与 RDMA 在 Mac Studio 集群本地运行 816B 大模型",
-      "reason": "Apple 给出了在 Mac Studio 集群上跑 816B MoE 模型的并行方案与基准数据，可迁移到本地大模型部署实践。",
-      "summary": "Apple 机器学习研究团队演示如何在 Mac Studio 上本地运行近万亿参数的 Muse Spark Open 等前沿模型，使用今天发布的新版 MLX（v0.30.1 起）与 macOS 26.2 的 RDMA over Thunderbolt 驱动。",
-      "sourceName": "Apple Machine Learning Research（RSS）",
-      "sourceUrl": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "aihotUrl": "https://aihot.news/items/j76j898zc7y8on4s10d4nvpan",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "cvpbhz4ao2wr6pxpthix2z15c",
-      "title": "Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5%",
-      "reason": "ARC Prize 公布了 Gemini 4 Argon 在 ARC-AGI 三个版本上的得分与成本，读者可据此比较不同 harness 设置的差异。",
-      "summary": "ARC Prize 公布 Gemini 4 Argon 在 ARC-AGI (Verified) 的评测成绩。",
-      "sourceName": "X：ARC Prize (@arcprize)",
-      "sourceUrl": "https://x.com/arcprize/status/2110768288523251762",
-      "aihotUrl": "https://aihot.news/items/cvpbhz4ao2wr6pxpthix2z15c",
-      "publishedAt": "2026-10-15T16:22:30.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "i0rgqwqwxspm5dl3314cc3ewt",
-      "title": "Google 介绍 google/adk-recipes 仓库的三层结构与 Agent Platform 集成",
-      "reason": "官方详解 google/adk-recipes 三层结构，读者可以据此了解同一仓库如何同时服务 Agents CLI、Agent Garden 和 Gemini Enterprise。",
-      "summary": "Google Developers Blog 介绍 google/adk-recipes 仓库，它是 google/adk-samples 的重构后继版本，以 core/、plugins/、contrib/ 三层作为 Agent Platform 各入口的单一内容来源。",
-      "sourceName": "Google Developers Blog（RSS）",
-      "sourceUrl": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
-      "aihotUrl": "https://aihot.news/items/i0rgqwqwxspm5dl3314cc3ewt",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "f7ey01hbckuivmlgen9jq0vaf",
-      "title": "Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍",
-      "reason": "官方披露了 MAI-Base-2 的完整预训练方法，读者可以从中了解 scaling ladder、Muon 优化和多轮 dropless MoE 等可借鉴的工程细节。",
-      "summary": "Microsoft AI 宣布完成 MAI-Base-2 预训练，这是一个 800 亿激活、2.8T 总参数的 MoE 基础模型，在 held-out 评测中 BPB 低于所测全部开源权重模型，预训练 FLOPs 效率比 DeepSeek-V4-Pro-Base 高 4.2 至 12.3 倍。",
-      "sourceName": "Microsoft AI：官方博客（网页）",
-      "sourceUrl": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-      "aihotUrl": "https://aihot.news/items/f7ey01hbckuivmlgen9jq0vaf",
-      "publishedAt": "2026-10-15T16:09:01.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "mimehokpfhvz10dk3pdz131ky",
-      "title": "Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息",
-      "reason": "引用内容给出 Step 5 Preview 的参数规模、成本对比和部署入口，读者可据此评估其性价比与获取方式。",
-      "summary": "阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。",
-      "sourceName": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "sourceUrl": "https://x.com/StepFun_ai/status/2110755075845169428",
-      "aihotUrl": "https://aihot.news/items/mimehokpfhvz10dk3pdz131ky",
-      "publishedAt": "2026-10-15T15:30:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "ybc0etkws56yxmrveyttxz3lm",
-      "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-      "reason": "官方公布了参数规模、显存门槛、生成速度和评测对比，读者可以评估它在本地部署与微调场景中的适配性。",
-      "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
-      "sourceName": "Black Forest Labs：Blog（网页）",
-      "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein",
-      "aihotUrl": "https://aihot.news/items/ybc0etkws56yxmrveyttxz3lm",
-      "publishedAt": "2026-10-15T15:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
     }
   ],
   "week": [
@@ -924,6 +784,20 @@
       "unselected": false
     },
     {
+      "id": "jn8i9j3ppsb0f79mrtldd43h8",
+      "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
+      "reason": "Anthropic 自己的研究，给出 Claude 优化量子电路的具体方法和量化改进，对理解 AI 辅助科学发现有参考价值。",
+      "summary": "Anthropic 发布研究报告，让 Claude Mythos 5 在闭环中自主优化量子电路：模型提出电路设计、由自动评估器验证正确性并按 qubit 数乘以门数打分，八项涵盖化学、优化、量子模拟和数论的任务均超过此前最优已发表设计，部分提升达一个数量级以上。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "y1c13l53cd5u3wg565qu60q4d",
       "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
       "reason": "原文基于 9800 次试验给出开放权重与闭源模型在间接提示词注入下的易感率差距和分攻击数据，方法与结果可直接用于安全选型参考。",
@@ -1016,20 +890,6 @@
       "sourceUrl": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
       "aihotUrl": "https://aihot.news/items/w2408fxlrc7tc7nt3ivrzh9ys",
       "publishedAt": "2026-10-12T17:36:18.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "wzxf68r0rchangmvwm48qqhfk",
-      "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
-      "reason": "这条报道把系统架构和同行评审安排都讲清了，读者可以据此理解形式化证明工作流的可行性与验证方式。",
-      "summary": "Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
-      "aihotUrl": "https://aihot.news/items/wzxf68r0rchangmvwm48qqhfk",
-      "publishedAt": "2026-10-12T09:35:54.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -1524,6 +1384,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "jn8i9j3ppsb0f79mrtldd43h8",
+          "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
+          "reason": "Anthropic 自己的研究，给出 Claude 优化量子电路的具体方法和量化改进，对理解 AI 辅助科学发现有参考价值。",
+          "summary": "Anthropic 发布研究报告，让 Claude Mythos 5 在闭环中自主优化量子电路：模型提出电路设计、由自动评估器验证正确性并按 qubit 数乘以门数打分，八项涵盖化学、优化、量子模拟和数论的任务均超过此前最优已发表设计，部分提升达一个数量级以上。",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
+          "publishedAt": "2026-10-15T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "y1c13l53cd5u3wg565qu60q4d",
           "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
           "reason": "原文基于 9800 次试验给出开放权重与闭源模型在间接提示词注入下的易感率差距和分攻击数据，方法与结果可直接用于安全选型参考。",
@@ -1591,20 +1465,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "xl51s0hyyzi1krwrmown4hoqh",
-          "title": "Anthropic 公布独立评估机制细节，METR 团队获类员工访问权限",
-          "reason": "原文由 Anthropic 亲自说明独立评估机制的具体安排，读者可以了解第三方如何获得接近员工的访问权限和发布权。",
-          "summary": "Anthropic 宣布已向评估前沿 AI 模型的非营利机构 METR 的六名员工提供类员工访问权限，包括公司硬件、办公空间和与内部风险评估团队相当的内部系统访问，METR 将公开发布风险评估结果，Anthropic 不得否决发布但可要求删减少数预定义类别的信息。",
-          "sourceName": "Anthropic：Newsroom（网页）",
-          "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-          "aihotUrl": "https://aihot.news/items/xl51s0hyyzi1krwrmown4hoqh",
-          "publishedAt": "2026-10-14T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]

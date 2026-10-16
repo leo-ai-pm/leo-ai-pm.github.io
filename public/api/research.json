@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-16T14:43:55.664Z",
-      "lastSuccessAt": "2026-10-16T14:43:55.664Z",
-      "nextCheckAt": 1792165435664,
+      "checkedAt": "2026-10-16T18:26:10.304Z",
+      "lastSuccessAt": "2026-10-16T18:26:10.304Z",
+      "nextCheckAt": 1792178770304,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-16T14:43:55.665Z",
-      "lastSuccessAt": "2026-10-16T14:43:55.665Z",
-      "nextCheckAt": 1792165435665,
       "status": "ok",
+      "nextCheckAt": 1792178770305,
+      "checkedAt": "2026-10-16T18:26:10.305Z",
+      "lastSuccessAt": "2026-10-16T18:26:10.305Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-16T14:43:55.666Z",
-      "lastSuccessAt": "2026-10-16T14:43:55.666Z",
-      "nextCheckAt": 1792165435666,
+      "checkedAt": "2026-10-16T18:26:10.306Z",
+      "lastSuccessAt": "2026-10-16T18:26:10.306Z",
+      "nextCheckAt": 1792178770306,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-16T18:26:10.622Z",
+      "lastSuccessAt": "2026-10-16T18:26:10.622Z",
+      "nextCheckAt": 1792178770622,
       "status": "ok",
-      "nextCheckAt": 1792165435915,
-      "checkedAt": "2026-10-16T14:43:55.915Z",
-      "lastSuccessAt": "2026-10-16T14:43:55.915Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792165435664,
+  "nextCheckAt": 1792178770304,
   "refreshing": false,
   "items": [
+    {
+      "id": "n8n:https://blog.n8n.io/enterprise-workflow-automation/",
+      "title": "12 Best Enterprise Workflow Automation Platforms",
+      "summary": "Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows.",
+      "publishedAt": "2026-10-16T17:24:47.000Z",
+      "url": "https://blog.n8n.io/enterprise-workflow-automation/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/enterprise-workflow-automation/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6479316.html",
       "title": "微信「AI 录音笔」上线，实测惊艳，直接把聊天变成可交互网页",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6479314.html",
@@ -211,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/gbrain",
@@ -410,46 +450,6 @@
       "brief": "Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/",
-      "title": "How API Contract Testing Prevents Production Failures",
-      "summary": "API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run.",
-      "publishedAt": "2026-10-01T15:36:51.000Z",
-      "url": "https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run.",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"

@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月16日",
+    "date": "2026年10月17日",
     "demo": false,
-    "updatedAt": "2026-10-16T14:44:11.102Z",
+    "updatedAt": "2026-10-16T18:26:20.992Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 400,
-      "latestCount": 4,
+      "received": 362,
+      "latestCount": 5,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -111,8 +111,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 2,
+          "status": "本次收录"
         },
         {
           "handle": "gdb",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 4,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -225,10 +225,47 @@
         }
       },
       {
-        "id": "aihot-iht3y88kc2rblk4x4fspcgsv1",
-        "title": "Perplexity API 接入 Lovable 应用",
-        "brief": "Perplexity API 的采用正在扩大。",
-        "summary": "Perplexity API 的采用正在扩大。",
+        "id": "aihot-w2rdy5qmgmjivspmgj2fhsx81",
+        "title": "Sam Altman 晒 Navier-Stokes 里程碑 T 恤",
+        "brief": "Navier-Stokes 里程碑 T 恤的背面，是解答中链式推理的最后一行：",
+        "summary": "Navier-Stokes 里程碑 T 恤的背面，是解答中链式推理的最后一行：",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sama",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Sam Altman · @sama",
+        "feedName": "X：Sam Altman (@sama)",
+        "sourceUrl": "https://x.com/sama/status/2111139227761266699",
+        "aggregateUrl": "https://aihot.news/items/w2rdy5qmgmjivspmgj2fhsx81",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-16T16:56:29.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Sam Altman",
+              "asset": "/assets/identities/sama.jpg",
+              "assetSource": "https://x.com/sama",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Sam Altman",
+            "asset": "/assets/identities/sama.jpg",
+            "assetSource": "https://x.com/sama",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-lwwdyygu9m2ew0f7138j7g2u8",
+        "title": "Perplexity 接入 Plaid 变身个人 CFO",
+        "brief": "Perplexity 可以成为你的个人 CFO，只需在 Computer 中设置好 @Plaid 连接器。",
+        "summary": "Perplexity 可以成为你的个人 CFO，只需在 Computer 中设置好 @Plaid 连接器。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -237,10 +274,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2110856743148519578",
-        "aggregateUrl": "https://aihot.news/items/iht3y88kc2rblk4x4fspcgsv1",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2111141678027608364",
+        "aggregateUrl": "https://aihot.news/items/lwwdyygu9m2ew0f7138j7g2u8",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-15T22:14:00.000Z",
+        "publishedAt": "2026-10-16T17:06:13.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -262,11 +299,11 @@
         }
       },
       {
-        "id": "aihot-d05hylqwd6jhb21nml8o9w482",
-        "title": "Thomas Wolf 转评 Muse Spark Open 称其为迄今最强美国开源权重模型",
-        "brief": "Thomas Wolf 转发并评论 Muse Spark Open 的发布，称其为迄今最强美国开源权重模型。",
-        "summary": "Thomas Wolf 转发并评论 Muse Spark Open 的发布，称其为迄今最强美国开源权重模型。",
-        "category": "模型进展",
+        "id": "aihot-vmfyqqow9er9n3s8zfigo7kgj",
+        "title": "SAIR 推出 Open Math OS 数学基础设施",
+        "brief": "是时候发明数学 2.0 了 （声音响起）",
+        "summary": "是时候发明数学 2.0 了 （声音响起）",
+        "category": "行业观察",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -274,10 +311,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2110796670460182715",
-        "aggregateUrl": "https://aihot.news/items/d05hylqwd6jhb21nml8o9w482",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2111118995529273513",
+        "aggregateUrl": "https://aihot.news/items/vmfyqqow9er9n3s8zfigo7kgj",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-15T18:15:17.000Z",
+        "publishedAt": "2026-10-16T15:36:05.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -289,7 +326,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "模型进展",
+          "caption": "行业观察",
           "author": {
             "name": "Thomas Wolf",
             "asset": "/assets/identities/thom_wolf.jpg",
@@ -345,8 +382,8 @@
         "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
         "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
         "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
-        "sourceCount": 24,
-        "participantCount": 83,
+        "sourceCount": 23,
+        "participantCount": 84,
         "latestAt": "2026-10-16T02:26:04.000Z",
         "expanded": true,
         "latest": "Meta 发布 Muse Spark Open：816B 开源权重 MoE 模型，支持 1M 上下文",
@@ -395,8 +432,8 @@
         "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
         "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
         "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
-        "sourceCount": 5,
-        "participantCount": 33,
+        "sourceCount": 4,
+        "participantCount": 28,
         "latestAt": "2026-10-16T07:34:44.337Z",
         "expanded": true,
         "latest": "谷歌布林称 Gemini 正迈向递归自我改进（RSI）阶段",
@@ -458,8 +495,8 @@
         "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
         "aihotUrl": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
         "storyUrl": "https://aihot.news/story/e1654a62-6c1b-40ba-be4a-032beae55011",
-        "sourceCount": 20,
-        "participantCount": 30,
+        "sourceCount": 17,
+        "participantCount": 28,
         "latestAt": "2026-10-15T19:53:50.000Z",
         "expanded": true,
         "latest": "NVIDIA 发布 120B 开源多模态智能体模型 Nemotron 3.5 Super VL",
@@ -509,7 +546,7 @@
         "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
         "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
         "sourceCount": 6,
-        "participantCount": 28,
+        "participantCount": 27,
         "latestAt": "2026-10-16T00:54:07.827Z",
         "expanded": false,
         "latest": "",
@@ -530,34 +567,6 @@
       },
       {
         "rank": 5,
-        "id": "kbccvteado5kgzbk5ah9yv5ip",
-        "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
-        "sourceName": "X：卡兹克 (@Khazix0918)",
-        "sourceUrl": "https://x.com/Khazix0918/status/2110914404393091205",
-        "aihotUrl": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
-        "storyUrl": "https://aihot.news/story/1b39529e-2c70-4f97-828f-ae4a508ebff2",
-        "sourceCount": 5,
-        "participantCount": 19,
-        "latestAt": "2026-10-16T08:34:46.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：卡兹克 (@Khazix0918)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
         "id": "vo248l7ock6kltan370y7gmcd",
         "title": "DeepSeek 服务中断近5小时 致歉并补偿API用户",
         "sourceName": "X：邵猛 (@shao__meng)",
@@ -565,7 +574,7 @@
         "aihotUrl": "https://aihot.news/items/vo248l7ock6kltan370y7gmcd",
         "storyUrl": "https://aihot.news/story/c69fcda4-6491-4827-9c2b-42579fd92447",
         "sourceCount": 3,
-        "participantCount": 24,
+        "participantCount": 25,
         "latestAt": "2026-10-16T04:37:32.940Z",
         "expanded": false,
         "latest": "",
@@ -585,16 +594,16 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "p11tj593iq5nrtiotvoxllop4",
         "title": "商务部拟增列AI技术出口管制并答问",
         "sourceName": "IT之家·人工智能",
         "sourceUrl": "https://www.ithome.com/1/013/983.htm",
         "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
         "storyUrl": "https://aihot.news/story/799a2a3d-ea41-4491-afaf-9e6c06aebe64",
-        "sourceCount": 2,
-        "participantCount": 13,
-        "latestAt": "2026-10-16T13:48:47.000Z",
+        "sourceCount": 3,
+        "participantCount": 15,
+        "latestAt": "2026-10-16T17:42:47.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -613,7 +622,91 @@
         }
       },
       {
+        "rank": 7,
+        "id": "kbccvteado5kgzbk5ah9yv5ip",
+        "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
+        "sourceName": "X：卡兹克 (@Khazix0918)",
+        "sourceUrl": "https://x.com/Khazix0918/status/2110914404393091205",
+        "aihotUrl": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
+        "storyUrl": "https://aihot.news/story/1b39529e-2c70-4f97-828f-ae4a508ebff2",
+        "sourceCount": 5,
+        "participantCount": 19,
+        "latestAt": "2026-10-16T15:00:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：卡兹克 (@Khazix0918)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 8,
+        "id": "rq32az1hr7zpbipiyega9ehjr",
+        "title": "NVIDIA RTX Spark 笔记本开售，起价 2599 美元",
+        "sourceName": "NVIDIA：Newsroom（RSS）",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+        "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-10-16T15:00:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "qy7y0cfu1wbum1ej9urwylfxr",
+        "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
+        "sourceName": "Reflection Blog",
+        "sourceUrl": "https://reflection.ai/blog/introducing-beam",
+        "aihotUrl": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
+        "storyUrl": "https://aihot.news/story/553aab31-30b1-4787-bd62-3b006d83295e",
+        "sourceCount": 9,
+        "participantCount": 13,
+        "latestAt": "2026-10-16T14:22:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Hugging Face",
+              "asset": "/assets/identities/huggingface.jpg",
+              "assetSource": "https://x.com/huggingface",
+              "tone": "#f3ebd3"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "xl51s0hyyzi1krwrmown4hoqh",
         "title": "Anthropic向METR六名评估员开放员工级访问",
         "sourceName": "Anthropic：Newsroom（网页）",
@@ -639,69 +732,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 9,
-        "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
-        "title": "Anthropic 自研 Scion 替换 git 并分享经验",
-        "sourceName": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "aihotUrl": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
-        "storyUrl": "https://aihot.news/story/dd9580d2-0aaa-4628-bab2-4e89974e44bb",
-        "sourceCount": 1,
-        "participantCount": 18,
-        "latestAt": "2026-10-15T14:42:13.093Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "qy7y0cfu1wbum1ej9urwylfxr",
-        "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
-        "sourceName": "Reflection Blog",
-        "sourceUrl": "https://reflection.ai/blog/introducing-beam",
-        "aihotUrl": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
-        "storyUrl": "https://aihot.news/story/553aab31-30b1-4787-bd62-3b006d83295e",
-        "sourceCount": 9,
-        "participantCount": 11,
-        "latestAt": "2026-10-16T14:22:00.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-16T14:44:11.102Z",
-    "nextCheckAt": 1792162151102,
+    "checkedAt": "2026-10-16T18:26:20.992Z",
+    "nextCheckAt": 1792175480992,
     "intervalSeconds": 300,
     "message": ""
   }
