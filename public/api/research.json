@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-16T00:49:05.652Z",
-      "lastSuccessAt": "2026-10-16T00:49:05.652Z",
-      "nextCheckAt": 1792115345652,
+      "checkedAt": "2026-10-16T05:09:12.142Z",
+      "lastSuccessAt": "2026-10-16T05:09:12.142Z",
+      "nextCheckAt": 1792130952142,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-16T05:09:12.143Z",
+      "lastSuccessAt": "2026-10-16T05:09:12.143Z",
+      "nextCheckAt": 1792130952143,
       "status": "ok",
-      "nextCheckAt": 1792115345653,
-      "checkedAt": "2026-10-16T00:49:05.653Z",
-      "lastSuccessAt": "2026-10-16T00:49:05.653Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-16T00:49:05.654Z",
-      "lastSuccessAt": "2026-10-16T00:49:05.654Z",
-      "nextCheckAt": 1792115345654,
+      "checkedAt": "2026-10-16T05:09:12.145Z",
+      "lastSuccessAt": "2026-10-16T05:09:12.145Z",
+      "nextCheckAt": 1792130952145,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792115345846,
-      "checkedAt": "2026-10-16T00:49:05.846Z",
-      "lastSuccessAt": "2026-10-16T00:49:05.846Z",
+      "nextCheckAt": 1792130952337,
+      "checkedAt": "2026-10-16T05:09:12.337Z",
+      "lastSuccessAt": "2026-10-16T05:09:12.337Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,130 +90,9 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792115345652,
+  "nextCheckAt": 1792130952142,
   "refreshing": false,
   "items": [
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6478995.html",
-      "title": "对话OpenAI产品负责人：当模型三个月迭代一次，跟不上前沿研究的 PM 只是假装在做产品",
-      "summary": "当 AI 开始承担越来越多的执行工作，产品经理、工程师和设计师的价值将如何变化？在这期 Lenny’s Podcast 中，负责 OpenAI Codex 与 ChatGPT Work 产品的 Tara Seshan，分享了她在 AI 产品开发一线的观察。 加入 OpenAI 之前，她曾在 Stripe 工作六年，是公司最早的五位产品经理之一，也曾负责 Watershed 的产品，并有过创业和担任投资机构驻场创业者的经历。从成熟的支付业",
-      "publishedAt": "2026-10-15T12:50:36.000Z",
-      "url": "https://www.woshipm.com/ai/6478995.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478995.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当 AI 开始承担越来越多的执行工作，产品经理、工程师和设计师的价值将如何变化？在这期 Lenny’s Podcast 中，负责 OpenAI Codex 与 ChatGPT Work 产品的 Tara Seshan，分享了她在 AI 产品开发一线的观察。 加入 OpenAI 之前，她曾在 Stripe 工作六年，是公司最早的五位产品经理之一，也曾负责 Watershed 的产品，并有过创业和担任投资机构驻场创业者的经历。从成熟的支付业",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6478517.html",
-      "title": "实测开源Skill Anatomy：一句话让AI生成能转能拆的原理动画",
-      "summary": "一个叫 Anatomy 的开源 Skill，设计理念只有一句「物体本身，就是解释」：它会把要理解的原理做成能运转、能交互的机械模型动画，比如机械手表的内部结构。作者再把动画交给 AI 配上讲解和配音，一轮直出就能做出机械表、显卡的科普视频。 前两天发现了一个超棒的Skill，可能很多朋友也都刷到了。 叫Anatomy，中文含义是深度剖析。 这个东西，我觉得特别有意思。 它的核心设计理念，只有一句话。 The object is the",
-      "publishedAt": "2026-10-15T03:19:42.000Z",
-      "url": "https://www.woshipm.com/ai/6478517.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478517.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "一个叫 Anatomy 的开源 Skill，设计理念只有一句「物体本身，就是解释」：它会把要理解的原理做成能运转、能交互的机械模型动画，比如机械手表的内部结构。作者再把动画交给 AI 配上讲解和配音，一轮直出就能做出机械表、显卡的科普视频。 前两天发现了一个超棒的Skill，可能很多朋友也都刷到了。 叫Anatomy，中文含义是深度剖析。 这个东西，我觉得特别有意思。 它的核心设计理念，只有一句话。 The object is the",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6478511.html",
-      "title": "AgentHop：让你的 AI 和别人的 AI，直接开聊！",
-      "summary": "两台没有公网 IP 的电脑、两个不同厂商的 Agent，过去只能靠人复制上下文、粘贴消息、再把结果传回去。AgentHop 用一个配对码建立加密通道，让两个 Agent 直接对话，可接入 Claude Code、Codex、Cursor 等工具。 两台没有公网 IP 的电脑，两个不同厂商的 Agent，过去通常只能靠人复制上下文、粘贴消息，再把结果传回去。AgentHop 提供了另一种方式：用一个配对码建立加密通道，让两个 Agent",
-      "publishedAt": "2026-10-15T03:16:05.000Z",
-      "url": "https://www.woshipm.com/ai/6478511.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478511.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "两台没有公网 IP 的电脑、两个不同厂商的 Agent，过去只能靠人复制上下文、粘贴消息、再把结果传回去。AgentHop 用一个配对码建立加密通道，让两个 Agent 直接对话，可接入 Claude Code、Codex、Cursor 等工具。 两台没有公网 IP 的电脑，两个不同厂商的 Agent，过去通常只能靠人复制上下文、粘贴消息，再把结果传回去。AgentHop 提供了另一种方式：用一个配对码建立加密通道，让两个 Agent",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
     {
       "id": "ph:https://www.producthunt.com/products/withhuman",
       "title": "withHuman",
@@ -252,7 +131,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "lead"
     },
     {
       "id": "ph:https://www.producthunt.com/products/actually-asked",
@@ -292,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/rushilo",
@@ -332,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "n8n:https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
