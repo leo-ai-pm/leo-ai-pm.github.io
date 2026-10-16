@@ -1,7 +1,7 @@
 {
   "date": "2026年10月17日",
   "demo": false,
-  "updatedAt": "2026-10-16T21:37:06.186Z",
+  "updatedAt": "2026-10-16T23:51:16.326Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 357,
-    "latestCount": 5,
+    "received": 342,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 8,
+        "matched": 7,
         "status": "本次收录"
       },
       {
@@ -143,43 +143,6 @@
     ]
   },
   "items": [
-    {
-      "id": "aihot-seav2m7shbffxi1o0rpcgaqql",
-      "title": "GPT-Live-1.1 更新 ChatGPT 语音",
-      "brief": "Bonjour （引用推文核心要点：GPT-Live-1.1 为 ChatGPT、Codex 和 dots 的语音功能带来更新，新增法语、德语、印地语、墨西哥西班牙语、韩语和日语语音，口音更自然，减少\"checking...\"式的停顿。",
-      "summary": "Bonjour （引用推文核心要点：GPT-Live-1.1 为 ChatGPT、Codex 和 dots 的语音功能带来更新，新增法语、德语、印地语、墨西哥西班牙语、韩语和日语语音，口音更自然，减少\"checking...\"式的停顿。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2110864606088593672",
-      "aggregateUrl": "https://aihot.news/items/seav2m7shbffxi1o0rpcgaqql",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-15T22:45:14.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
     {
       "id": "aihot-z4getpr1u6f1gc0hldga7c7mt",
       "title": "无法算法过滤明显的AI垃圾回复？",
@@ -255,11 +218,11 @@
       }
     },
     {
-      "id": "aihot-j6x4v5u85i2nipwqzlkh9nrn4",
-      "title": "Perplexity 决策模型定价与推理优化",
-      "brief": "决策模型每百万输入 token 仅 1 美分（这是我们为 pplx-decider-flash 提供的定价），意味着 1000 万亿输入 token 最多只需花费 $10,000。",
-      "summary": "决策模型每百万输入 token 仅 1 美分（这是我们为 pplx-decider-flash 提供的定价），意味着 1000 万亿输入 token 最多只需花费 $10,000。",
-      "category": "AI 动态",
+      "id": "aihot-tm19lu4msw0riwojw5ayw28n2",
+      "title": "Perplexity Decider 模型上线 OpenRouter",
+      "brief": "OpenRouter 是使用 Perplexity Decider 模型的最佳平台",
+      "summary": "OpenRouter 是使用 Perplexity Decider 模型的最佳平台",
+      "category": "模型进展",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -267,10 +230,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2111184937919594786",
-      "aggregateUrl": "https://aihot.news/items/j6x4v5u85i2nipwqzlkh9nrn4",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2111209381966782725",
+      "aggregateUrl": "https://aihot.news/items/tm19lu4msw0riwojw5ayw28n2",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-16T19:58:07.000Z",
+      "publishedAt": "2026-10-16T21:35:15.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -282,7 +245,7 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "AI 动态",
+        "caption": "模型进展",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -376,11 +339,18 @@
       "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
       "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
       "sourceCount": 23,
-      "participantCount": 84,
-      "latestAt": "2026-10-16T02:26:04.000Z",
+      "participantCount": 85,
+      "latestAt": "2026-10-16T22:22:42.000Z",
       "expanded": true,
-      "latest": "Meta 发布 Muse Spark Open：816B 开源权重 MoE 模型，支持 1M 上下文",
+      "latest": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
       "reports": [
+        {
+          "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+          "sourceName": "X：Arena (@arena)",
+          "sourceUrl": "https://x.com/arena/status/2111221323217412318",
+          "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+          "publishedAt": "2026-10-16T22:22:42.000Z"
+        },
         {
           "title": "Meta 开源 816B MoE 模型 Muse Spark Open",
           "sourceName": "X：Testing Catalog (@testingcatalog)",
@@ -394,13 +364,6 @@
           "sourceUrl": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
           "aihotUrl": "https://aihot.news/items/wk83jwtn2s9gvhoaylkb46qte",
           "publishedAt": "2026-10-16T02:26:04.000Z"
-        },
-        {
-          "title": "Meta 首席 AI 官汪滔：不会开源最强模型，将继续发布优秀开源模型",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/013/736.htm",
-          "aihotUrl": "https://aihot.news/items/od3qgomgsvz5vbcuir08jge9q",
-          "publishedAt": "2026-10-16T01:25:04.973Z"
         }
       ],
       "related": [],
@@ -426,7 +389,7 @@
       "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
       "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
       "sourceCount": 4,
-      "participantCount": 26,
+      "participantCount": 25,
       "latestAt": "2026-10-16T07:34:44.337Z",
       "expanded": true,
       "latest": "谷歌布林称 Gemini 正迈向递归自我改进（RSI）阶段",
@@ -455,16 +418,16 @@
       ],
       "related": [
         {
+          "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
+          "storyUrl": "https://aihot.news/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
+        },
+        {
           "title": "Ammaar Reshi 用 Gemini 4 Argon 生成多款游戏并公开代码",
           "storyUrl": "https://aihot.news/story/c49b7253-3d56-43af-9600-fbee68e2d344"
         },
         {
           "title": "用户吐槽 Gemini 4 Argon 慢，Google 回应改进",
           "storyUrl": "https://aihot.news/story/83978a27-3dd3-4551-9e4f-7bdc2eb065ab"
-        },
-        {
-          "title": "Google 用 Gemini 4 Argon 让机器人看视频学投沙包",
-          "storyUrl": "https://aihot.news/story/bfb954bb-de72-41f7-9621-9b84314ce826"
         }
       ],
       "visual": {
@@ -621,6 +584,34 @@
     },
     {
       "rank": 7,
+      "id": "qy7y0cfu1wbum1ej9urwylfxr",
+      "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
+      "sourceName": "Reflection Blog",
+      "sourceUrl": "https://reflection.ai/blog/introducing-beam",
+      "aihotUrl": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
+      "storyUrl": "https://aihot.news/story/553aab31-30b1-4787-bd62-3b006d83295e",
+      "sourceCount": 9,
+      "participantCount": 15,
+      "latestAt": "2026-10-16T18:30:03.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "kbccvteado5kgzbk5ah9yv5ip",
       "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
       "sourceName": "X：卡兹克 (@Khazix0918)",
@@ -641,34 +632,6 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "qy7y0cfu1wbum1ej9urwylfxr",
-      "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
-      "sourceName": "Reflection Blog",
-      "sourceUrl": "https://reflection.ai/blog/introducing-beam",
-      "aihotUrl": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
-      "storyUrl": "https://aihot.news/story/553aab31-30b1-4787-bd62-3b006d83295e",
-      "sourceCount": 9,
-      "participantCount": 14,
-      "latestAt": "2026-10-16T18:30:03.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
           }
         ],
         "caption": "热点",

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-16T21:37:22.266Z",
+  "checkedAt": "2026-10-16T23:51:34.581Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,48 @@
     }
   ],
   "today": [
+    {
+      "id": "nextj30ehkdcjpzpk4fgz1p1w",
+      "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
+      "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
+      "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+      "aihotUrl": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "bjzjg5k7af07c1c20bc1a8gxp",
+      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+      "reason": "基于 Arena 自家 Code Arena 榜单给出 Muse Spark Open 的具体得分、排名与定价对比，读者可据此定位该开源模型的真实水准。",
+      "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2111221323217412318",
+      "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+      "publishedAt": "2026-10-16T22:22:42.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "oetmf0o04av0c4h7yrgfkb4zc",
+      "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
+      "reason": "调查用同一框架量化公众与前沿实验室员工对 AI 能力、生产率和失业预期的差距，数据可用于校准自己的判断。",
+      "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+      "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
     {
       "id": "ckrtcqc9dnngil5ev7m60ns4v",
       "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
@@ -332,37 +374,23 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "ee1w5w87zh8hhwwwzqm8w65rd",
-      "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
-      "reason": "原文介绍了 Krea 3 在 ComfyUI 的可用方式和参考图编辑能力，读者可以据此评估是否接入现有工作流。",
-      "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。",
-      "sourceName": "Comfy Blog",
-      "sourceUrl": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
-      "aihotUrl": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd",
-      "publishedAt": "2026-10-15T21:15:45.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "uszbj5nmdutp2pw789lr42hhj",
-      "title": "SGLang 为 816B 开源多模态 MoE 模型 Muse Spark Open 提供 Day-0 支持",
-      "reason": "原文给出了多平台推理与 RL 训练支持的完整细节和实测吞吐数据，读者可以据此评估大规模部署该模型的可行路径。",
-      "summary": "SGLang 团队宣布对 Meta 开源多模态 MoE 模型 Muse Spark Open（816B 参数、约 42B 激活、1M token 上下文）提供 Day-0 推理支持，权重提供 NVFP4 和 BF16 两种格式。",
-      "sourceName": "LMSYS Blog",
-      "sourceUrl": "https://www.lmsys.org/blog/2026-10-15-meta-muse-spark-open",
-      "aihotUrl": "https://aihot.news/items/uszbj5nmdutp2pw789lr42hhj",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "bjzjg5k7af07c1c20bc1a8gxp",
+      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+      "reason": "基于 Arena 自家 Code Arena 榜单给出 Muse Spark Open 的具体得分、排名与定价对比，读者可据此定位该开源模型的真实水准。",
+      "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
+      "sourceName": "X：Arena (@arena)",
+      "sourceUrl": "https://x.com/arena/status/2111221323217412318",
+      "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+      "publishedAt": "2026-10-16T22:22:42.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "a3roan35e4kghyxdjffek1hop",
       "title": "Reflection 发布首个开源权重模型 Beam，Artificial Analysis 评测得分 30 居美国开源模型第二",
@@ -456,20 +484,6 @@
       "sourceUrl": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
       "aihotUrl": "https://aihot.news/items/f7ey01hbckuivmlgen9jq0vaf",
       "publishedAt": "2026-10-15T16:09:01.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "mimehokpfhvz10dk3pdz131ky",
-      "title": "Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息",
-      "reason": "引用内容给出 Step 5 Preview 的参数规模、成本对比和部署入口，读者可据此评估其性价比与获取方式。",
-      "summary": "阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。",
-      "sourceName": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "sourceUrl": "https://x.com/StepFun_ai/status/2110755075845169428",
-      "aihotUrl": "https://aihot.news/items/mimehokpfhvz10dk3pdz131ky",
-      "publishedAt": "2026-10-15T15:30:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -700,6 +714,34 @@
       "unselected": false
     },
     {
+      "id": "nextj30ehkdcjpzpk4fgz1p1w",
+      "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
+      "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
+      "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+      "aihotUrl": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "oetmf0o04av0c4h7yrgfkb4zc",
+      "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
+      "reason": "调查用同一框架量化公众与前沿实验室员工对 AI 能力、生产率和失业预期的差距，数据可用于校准自己的判断。",
+      "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+      "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "ckrtcqc9dnngil5ev7m60ns4v",
       "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
       "reason": "原文由当事团队完整复盘 Claude 如何破解 NIST 曲线种子的来源，附可复现代码，读者能据此理解破解思路与结论。",
@@ -778,34 +820,6 @@
       "sourceUrl": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
       "aihotUrl": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
       "publishedAt": "2026-10-14T15:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "o8h7g7pscq0qrlenoadabbb96",
-      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-      "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
-      "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
-      "sourceName": "Johann Rehberger / Embrace The Red（RSS）",
-      "sourceUrl": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
-      "aihotUrl": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
-      "publishedAt": "2026-10-13T22:00:40.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "lwchujhujmc1tdor61dn39irl",
-      "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
-      "reason": "Anthropic 公开其反蒸馏防御的具体做法和效果数据，读者可以据此了解这类防御的成本、权衡和对整个行业的借鉴意义。",
-      "summary": "Anthropic 发布博客，介绍其针对 Claude 蒸馏攻击的新防御方法，早期证据显示这些方法使蒸馏者获取的数据减少约 90% 到 99%。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/distillation-defenses",
-      "aihotUrl": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
-      "publishedAt": "2026-10-11T16:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -932,6 +946,48 @@
       "unselected": false,
       "items": [
         {
+          "id": "nextj30ehkdcjpzpk4fgz1p1w",
+          "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
+          "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
+          "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+          "aihotUrl": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
+          "publishedAt": "2026-10-15T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
+          "id": "bjzjg5k7af07c1c20bc1a8gxp",
+          "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+          "reason": "基于 Arena 自家 Code Arena 榜单给出 Muse Spark Open 的具体得分、排名与定价对比，读者可据此定位该开源模型的真实水准。",
+          "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
+          "sourceName": "X：Arena (@arena)",
+          "sourceUrl": "https://x.com/arena/status/2111221323217412318",
+          "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+          "publishedAt": "2026-10-16T22:22:42.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
+          "id": "oetmf0o04av0c4h7yrgfkb4zc",
+          "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
+          "reason": "调查用同一框架量化公众与前沿实验室员工对 AI 能力、生产率和失业预期的差距，数据可用于校准自己的判断。",
+          "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+          "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+          "publishedAt": "2026-10-15T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "kovelcbltjj7xf054h8mffaxo",
           "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
           "reason": "原文给出 VERID 数字孪生、闭环适配体与全新蛋白设计三项进展的实验数据，可了解 AI 智能体走进湿实验室的真实差距与解法。",
@@ -972,48 +1028,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "a3roan35e4kghyxdjffek1hop",
-          "title": "Reflection 发布首个开源权重模型 Beam，Artificial Analysis 评测得分 30 居美国开源模型第二",
-          "reason": "第三方评测给出 Beam 在美国开源权重模型中的位置与 token 效率数据，可用于横向比较其智能体与编码能力。",
-          "summary": "Artificial Analysis 评测 Reflection 首个模型 Beam，其在 Artificial Analysis Intelligence Index 得 30 分，在美国开源权重模型中排第二，仅次于 Meta 的 Muse Spark Open（39）。",
-          "sourceName": "Artificial Analysis 完整文章（网页）",
-          "sourceUrl": "https://artificialanalysis.ai/articles/reflection-beam",
-          "aihotUrl": "https://aihot.news/items/a3roan35e4kghyxdjffek1hop",
-          "publishedAt": "2026-10-15T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "i6u3av7zg8n3gfy6g7ynhns56",
-          "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
-          "reason": "原文给出 SGLang 对 Beam 的原生支持细节与实测吞吐数据，读者可据此评估该推理栈在智能体负载下的服务性能。",
-          "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
-          "sourceName": "LMSYS Blog",
-          "sourceUrl": "https://www.lmsys.org/blog/2026-10-16-beam",
-          "aihotUrl": "https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56",
-          "publishedAt": "2026-10-16T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "f14brdupsvks0k2hoang4lx6w",
-          "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-          "reason": "Ollama 作为首发合作方介绍 Beam 的参数结构、上下文窗口和 ZDR 云端接入方式，读者可以据此评估在本机或云端运行该模型的可行性。",
-          "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
-          "sourceName": "Ollama：Blog（RSS）",
-          "sourceUrl": "https://ollama.com/blog/reflection-beam",
-          "aihotUrl": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w",
-          "publishedAt": "2026-10-16T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1023,6 +1037,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "bjzjg5k7af07c1c20bc1a8gxp",
+          "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+          "reason": "基于 Arena 自家 Code Arena 榜单给出 Muse Spark Open 的具体得分、排名与定价对比，读者可据此定位该开源模型的真实水准。",
+          "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
+          "sourceName": "X：Arena (@arena)",
+          "sourceUrl": "https://x.com/arena/status/2111221323217412318",
+          "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+          "publishedAt": "2026-10-16T22:22:42.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
         {
           "id": "f14brdupsvks0k2hoang4lx6w",
           "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
@@ -1092,20 +1120,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "lkdvh4f06zmcoz5dmkb34u40l",
-          "title": "Meta 开源 Muse Spark Open，Modal 上线共享端点按 token 计费",
-          "reason": "Meta 开源 Muse Spark Open 权重，Modal 已可部署，原文附 Terminal-Bench 等多基准对比，便于评估智能体编码用途。",
-          "summary": "Meta 发布 Muse Spark Open 开源权重，现已上线 Modal Auto Endpoints，以 Shared Endpoint 方式按 token 计费。",
-          "sourceName": "Modal 官方工程博客（RSS）",
-          "sourceUrl": "https://modal.com/blog/meta-muse-spark-open-now-available-on-modal",
-          "aihotUrl": "https://aihot.news/items/lkdvh4f06zmcoz5dmkb34u40l",
-          "publishedAt": "2026-10-15T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1115,6 +1129,20 @@
       "query": "MCP",
       "unselected": false,
       "items": [
+        {
+          "id": "nextj30ehkdcjpzpk4fgz1p1w",
+          "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
+          "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
+          "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+          "aihotUrl": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
+          "publishedAt": "2026-10-15T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "i0rgqwqwxspm5dl3314cc3ewt",
           "title": "Google 介绍 google/adk-recipes 仓库的三层结构与 Agent Platform 集成",
@@ -1183,20 +1211,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "ug7g6psicfobnnft0ebgpyl10",
-          "title": "NVIDIA RTX Spark 笔记本 10 月 16 日上市，生态伙伴同步推出本地 AI 软件更新",
-          "reason": "官方汇总了 RTX Spark 上市前的软件生态准备，从本地 Agent、创意应用到开发工具和 DLSS 5，读者可据此了解平台落地细节。",
-          "summary": "NVIDIA 官宣 RTX Spark 笔记本将于 10 月 16 日发售，配合发布推出覆盖 Agent、创意和开发工具的软件更新，该超芯片具备最高 128GB 统一内存和 1 petaflop AI 算力。",
-          "sourceName": "NVIDIA Blog（RSS）",
-          "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-          "aihotUrl": "https://aihot.news/items/ug7g6psicfobnnft0ebgpyl10",
-          "publishedAt": "2026-10-13T12:00:49.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
@@ -1300,6 +1314,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "nextj30ehkdcjpzpk4fgz1p1w",
+          "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
+          "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
+          "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+          "aihotUrl": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
+          "publishedAt": "2026-10-15T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
+          "id": "oetmf0o04av0c4h7yrgfkb4zc",
+          "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
+          "reason": "调查用同一框架量化公众与前沿实验室员工对 AI 能力、生产率和失业预期的差距，数据可用于校准自己的判断。",
+          "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+          "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+          "publishedAt": "2026-10-15T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "ckrtcqc9dnngil5ev7m60ns4v",
           "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
           "reason": "原文由当事团队完整复盘 Claude 如何破解 NIST 曲线种子的来源，附可复现代码，读者能据此理解破解思路与结论。",
@@ -1353,34 +1395,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "x02vc0ewajam37hjrbpwsfnre",
-          "title": "Claude Code 团队如何做代码审查",
-          "reason": "Claude Code 团队亲述自家六层代码审查流程与衡量指标，读者可对照调整自己团队的 AI 审查与人工介入方式。",
-          "summary": "Anthropic 团队介绍 Claude Code 的代码审查流程，机器承担大部分阅读，人类注意力集中在高风险决策。",
-          "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "sourceUrl": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-          "aihotUrl": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
-          "publishedAt": "2026-10-15T12:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "ldwt1jervkxlsh99322u661fc",
-          "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-          "reason": "路透社消息披露了 Anthropic 估值预期下调与营收增速放缓的具体数字，可帮助读者判断 AI 上市潮与基建投资情绪的走向。",
-          "summary": "路透社援引知情人士消息称，Anthropic 公布最新财务数据后，部分投资者开始考虑下调其 IPO 估值，此前预期 11 月上市时估值约 2 万亿美元，投资者日活动讨论约 1.5 万亿美元。",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/013/723.htm",
-          "aihotUrl": "https://aihot.news/items/ldwt1jervkxlsh99322u661fc",
-          "publishedAt": "2026-10-16T00:54:07.827Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
