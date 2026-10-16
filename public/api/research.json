@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-16T05:09:12.142Z",
-      "lastSuccessAt": "2026-10-16T05:09:12.142Z",
-      "nextCheckAt": 1792130952142,
+      "checkedAt": "2026-10-16T09:54:17.196Z",
+      "lastSuccessAt": "2026-10-16T09:54:17.196Z",
+      "nextCheckAt": 1792148057196,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-16T05:09:12.143Z",
-      "lastSuccessAt": "2026-10-16T05:09:12.143Z",
-      "nextCheckAt": 1792130952143,
+      "checkedAt": "2026-10-16T09:54:17.197Z",
+      "lastSuccessAt": "2026-10-16T09:54:17.197Z",
+      "nextCheckAt": 1792148057197,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-16T05:09:12.145Z",
-      "lastSuccessAt": "2026-10-16T05:09:12.145Z",
-      "nextCheckAt": 1792130952145,
+      "checkedAt": "2026-10-16T09:54:17.199Z",
+      "lastSuccessAt": "2026-10-16T09:54:17.199Z",
+      "nextCheckAt": 1792148057199,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792130952337,
-      "checkedAt": "2026-10-16T05:09:12.337Z",
-      "lastSuccessAt": "2026-10-16T05:09:12.337Z",
+      "nextCheckAt": 1792148057375,
+      "checkedAt": "2026-10-16T09:54:17.375Z",
+      "lastSuccessAt": "2026-10-16T09:54:17.375Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,209 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792130952142,
+  "nextCheckAt": 1792148057196,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6479316.html",
+      "title": "微信「AI 录音笔」上线，实测惊艳，直接把聊天变成可交互网页",
+      "summary": "微信输入法上线 AI 录音笔，边录边转文字，还能自动总结成可交互网页。作者用塑料普通话朗读六首古诗，又试了听播客、看直播、开会四种场景，网页支持意象点选与切换，Windows 版已经能用。 微信输入法，又憋了大招，上线「AI 录音笔」功能。 这个功能，可以说跨设备粘贴、隔空传送一样惊艳。 看我介绍，或者你体验过后，就会知道我为什么这么说。 微信输入法更新到最新版本后，打开进入首页，可看到首页最显眼处，有「AI 录音笔」入口。 主打两个功",
+      "publishedAt": "2026-10-16T09:24:13.000Z",
+      "url": "https://www.woshipm.com/ai/6479316.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6479316.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "微信输入法上线 AI 录音笔，边录边转文字，还能自动总结成可交互网页。作者用塑料普通话朗读六首古诗，又试了听播客、看直播、开会四种场景，网页支持意象点选与切换，Windows 版已经能用。 微信输入法，又憋了大招，上线「AI 录音笔」功能。 这个功能，可以说跨设备粘贴、隔空传送一样惊艳。 看我介绍，或者你体验过后，就会知道我为什么这么说。 微信输入法更新到最新版本后，打开进入首页，可看到首页最显眼处，有「AI 录音笔」入口。 主打两个功",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6479314.html",
+      "title": "花两千踩坑四大Personal Agent，我3个提示语把33%成功率救回来了",
+      "summary": "把 MUSE、Grok Bot、OpenAI Dots、Manus Cue 四款 Personal Agent 全测一遍，两周加三百多刀订阅费，换来的可委托率只有 33%。作者给出多任务进度条等提示语，配云电脑加本机 Codex，跑通采集与日报。 这篇文章应该是我今年最希望被打脸的。 两周前我把全部Personal Agent都试了，Google Muse、Grok Bot、OpenAI Dots、Manus Cue，一口气全冲了。 花",
+      "publishedAt": "2026-10-16T09:21:43.000Z",
+      "url": "https://www.woshipm.com/ai/6479314.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6479314.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "把 MUSE、Grok Bot、OpenAI Dots、Manus Cue 四款 Personal Agent 全测一遍，两周加三百多刀订阅费，换来的可委托率只有 33%。作者给出多任务进度条等提示语，配云电脑加本机 Codex，跑通采集与日报。 这篇文章应该是我今年最希望被打脸的。 两周前我把全部Personal Agent都试了，Google Muse、Grok Bot、OpenAI Dots、Manus Cue，一口气全冲了。 花",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6476164.html",
+      "title": "体验驱动商业： AI 产品的体验评测思路",
+      "summary": "AI产品体验评测不能照搬互联网老套路。本文基于多次从0到1的实战经验，提出一套面向对话式大模型的评测体系：三层结构、三段旅程、四类影响因素，并详解如何通过真实用户、真实场景与AI特性测量创新，让评测结果可归因、可落地，真正驱动业务增长。 上一篇讲的是为什么 AI 产品需要体验评测，互联网的成熟体系不能照搬；这一篇重点讲「怎么做」：笔者基于在互联网行业多次从 0 到 1 搭建体验评测体系的实践经验，并参考 AI 相关文献，规划了一套面向对",
+      "publishedAt": "2026-10-16T08:58:18.000Z",
+      "url": "https://www.woshipm.com/ai/6476164.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6476164.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "AI产品体验评测不能照搬互联网老套路。本文基于多次从0到1的实战经验，提出一套面向对话式大模型的评测体系：三层结构、三段旅程、四类影响因素，并详解如何通过真实用户、真实场景与AI特性测量创新，让评测结果可归因、可落地，真正驱动业务增长。 上一篇讲的是为什么 AI 产品需要体验评测，互联网的成熟体系不能照搬；这一篇重点讲「怎么做」：笔者基于在互联网行业多次从 0 到 1 搭建体验评测体系的实践经验，并参考 AI 相关文献，规划了一套面向对",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/parallax-5",
+      "title": "Parallax",
+      "summary": "Every coding agent you run, in one place.",
+      "publishedAt": "2026-10-15T19:25:02.000Z",
+      "url": "https://www.producthunt.com/products/parallax-5",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/parallax-5",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Every coding agent you run, in one place.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/harness-by-autonomous",
+      "title": "Harness by Autonomous",
+      "summary": "Every coding agent, every machine, one command center.",
+      "publishedAt": "2026-10-15T13:27:08.000Z",
+      "url": "https://www.producthunt.com/products/harness-by-autonomous",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/harness-by-autonomous",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Every coding agent, every machine, one command center.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "ph:https://www.producthunt.com/products/withhuman",
       "title": "withHuman",
@@ -131,87 +331,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/actually-asked",
-      "title": "Actually Asked",
-      "summary": "A self-improving branded AI FAQ page",
-      "publishedAt": "2026-10-14T15:36:37.000Z",
-      "url": "https://www.producthunt.com/products/actually-asked",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/actually-asked",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "A self-improving branded AI FAQ page",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/rushilo",
-      "title": "Rushilo",
-      "summary": "Edit video by talking to Claude Code or Codex",
-      "publishedAt": "2026-10-14T15:35:56.000Z",
-      "url": "https://www.producthunt.com/products/rushilo",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/rushilo",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Edit video by talking to Claude Code or Codex",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
