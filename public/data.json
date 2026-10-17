@@ -1,7 +1,7 @@
 {
   "date": "2026年10月17日",
   "demo": false,
-  "updatedAt": "2026-10-17T10:52:16.316Z",
+  "updatedAt": "2026-10-17T13:58:49.323Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 279,
+    "received": 261,
     "latestCount": 5,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -369,6 +369,56 @@
   "ranking": [
     {
       "rank": 1,
+      "id": "w34qm27sedtziwxig5ub9wwhr",
+      "title": "DeepSeek 发布 V4.1-Flash-1017 并开放搜索 API",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
+      "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+      "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
+      "sourceCount": 14,
+      "participantCount": 36,
+      "latestAt": "2026-10-17T12:55:16.000Z",
+      "expanded": true,
+      "latest": "DeepSeek 发布 V4.1-Flash-1017，Nathan Lambert 称其或凭内置视觉强于 GLM 5.3",
+      "reports": [
+        {
+          "title": "DeepSeek 发布 V4.1-Flash-1017，Nathan Lambert 称其或凭内置视觉强于 GLM 5.3",
+          "sourceName": "X：Nathan Lambert (@natolambert)",
+          "sourceUrl": "https://x.com/natolambert/status/2111440910257099072",
+          "aihotUrl": "https://aihot.news/items/ua39ly8afnr06q06b9tuk7yhy",
+          "publishedAt": "2026-10-17T12:55:16.000Z"
+        },
+        {
+          "title": "DeepSeek 发布 V4.1-Flash-1017 并将内部搜索引擎开放为 Search & Fetch API",
+          "sourceName": "X：邵猛 (@shao__meng)",
+          "sourceUrl": "https://x.com/shao__meng/status/2111436190612349384",
+          "aihotUrl": "https://aihot.news/items/skccm7zeft49lqkbm0wla8yua",
+          "publishedAt": "2026-10-17T12:36:31.000Z"
+        },
+        {
+          "title": "OpenAI 升级 GPT-6 Astra Pro，DeepSeek 发布 V4.1-Flash",
+          "sourceName": "X：Testing Catalog (@testingcatalog)",
+          "sourceUrl": "https://x.com/testingcatalog/status/2111409303701577925",
+          "aihotUrl": "https://aihot.news/items/ivatvasklri5wxuvipyld8veh",
+          "publishedAt": "2026-10-17T10:49:40.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "DeepSeek：API 更新日志",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "s80tw5g2v22j1se4bmqejyaq4",
       "title": "Meta 开源 816B 模型 Muse Spark Open，Apple 演示 Mac Studio 本地运行",
       "sourceName": "PyTorch：Blog（RSS）",
@@ -376,7 +426,7 @@
       "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
       "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
       "sourceCount": 17,
-      "participantCount": 82,
+      "participantCount": 83,
       "latestAt": "2026-10-16T22:22:42.000Z",
       "expanded": true,
       "latest": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
@@ -408,56 +458,6 @@
         "entities": [
           {
             "name": "PyTorch：Blog（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 2,
-      "id": "w34qm27sedtziwxig5ub9wwhr",
-      "title": "DeepSeek 发布 V4.1-Flash-1017 并开放权重",
-      "sourceName": "DeepSeek：API 更新日志",
-      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
-      "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
-      "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
-      "sourceCount": 11,
-      "participantCount": 24,
-      "latestAt": "2026-10-17T10:29:00.000Z",
-      "expanded": true,
-      "latest": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-      "reports": [
-        {
-          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-          "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-          "sourceUrl": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-          "aihotUrl": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
-          "publishedAt": "2026-10-17T10:29:00.000Z"
-        },
-        {
-          "title": "Thomas Wolf 点评 DeepSeek-V4.1-Flash-1017：自称 minor update 但 Terminal-Bench 4.0 从 31.2 升至 42.3",
-          "sourceName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-          "sourceUrl": "https://x.com/Thom_Wolf/status/2111401132840890440",
-          "aihotUrl": "https://aihot.news/items/u10wb9lknsrn2hx85ilsyldy5",
-          "publishedAt": "2026-10-17T10:17:12.000Z"
-        },
-        {
-          "title": "DeepSeek 发布 DeepSeek-V4.1-Flash-1017，性能更强且输出更省 token",
-          "sourceName": "X：Oran Ge (@oran_ge)",
-          "sourceUrl": "https://x.com/oran_ge/status/2111384805741105182",
-          "aihotUrl": "https://aihot.news/items/s3ft7zg3cpnmuk0xht19gtj5v",
-          "publishedAt": "2026-10-17T09:12:19.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "DeepSeek：API 更新日志",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -525,9 +525,9 @@
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
       "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
       "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
-      "sourceCount": 6,
+      "sourceCount": 7,
       "participantCount": 17,
-      "latestAt": "2026-10-16T23:54:20.000Z",
+      "latestAt": "2026-10-17T10:19:04.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -547,6 +547,34 @@
     },
     {
       "rank": 5,
+      "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
+      "title": "英伟达开源 Nemotron 3.5 Super VL 多模态智能体模型",
+      "sourceName": "NVIDIA Blog（RSS）",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "aihotUrl": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
+      "storyUrl": "https://aihot.news/story/e1654a62-6c1b-40ba-be4a-032beae55011",
+      "sourceCount": 13,
+      "participantCount": 25,
+      "latestAt": "2026-10-15T19:53:50.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "kbccvteado5kgzbk5ah9yv5ip",
       "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
       "sourceName": "X：卡兹克 (@Khazix0918)",
@@ -574,34 +602,6 @@
       }
     },
     {
-      "rank": 6,
-      "id": "allv4n9g9lhfy72m1pg725apv",
-      "title": "Anthropic三季度收入168亿美元，增速放缓",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-      "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
-      "sourceCount": 3,
-      "participantCount": 17,
-      "latestAt": "2026-10-16T00:54:07.827Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 7,
       "id": "smxxtw5ca2c9jscojk4ppe5hf",
       "title": "Google 发布 Gemini 4 Argon，付费用户独享",
@@ -610,7 +610,7 @@
       "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
       "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
       "sourceCount": 4,
-      "participantCount": 21,
+      "participantCount": 18,
       "latestAt": "2026-10-16T07:34:44.337Z",
       "expanded": false,
       "latest": "",
@@ -631,15 +631,15 @@
     },
     {
       "rank": 8,
-      "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
-      "title": "英伟达开源 Nemotron 3.5 Super VL 多模态智能体模型",
-      "sourceName": "NVIDIA Blog（RSS）",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-      "aihotUrl": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
-      "storyUrl": "https://aihot.news/story/e1654a62-6c1b-40ba-be4a-032beae55011",
-      "sourceCount": 14,
-      "participantCount": 25,
-      "latestAt": "2026-10-15T19:53:50.000Z",
+      "id": "allv4n9g9lhfy72m1pg725apv",
+      "title": "Anthropic三季度收入168亿美元，增速放缓",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+      "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+      "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
+      "sourceCount": 2,
+      "participantCount": 15,
+      "latestAt": "2026-10-16T00:54:07.827Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -647,10 +647,10 @@
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",

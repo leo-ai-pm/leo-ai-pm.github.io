@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-17T10:52:37.696Z",
+  "checkedAt": "2026-10-17T13:59:09.809Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "ffpkck4k06le4smuaz4slhvcz",
+      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "reason": "作者用一周实测讲清了如何在128G统一内存的RTX Spark笔记本上部署本地模型，并给出可复用的WorkBuddy专家整合流程。",
+      "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "aihotUrl": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
+      "publishedAt": "2026-10-17T10:19:04.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "xgj246drlw70qbgypibz6atla",
       "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
@@ -177,76 +191,6 @@
       "timeBasis": "published",
       "category": "opinion",
       "categoryLabel": "动态",
-      "unselected": false
-    },
-    {
-      "id": "d0pow9b93paydjtg2i76ang83",
-      "title": "vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持",
-      "reason": "原文给出了 Beam 在 vLLM 上的具体优化数据和部署命令，读者可以直接评估落地配置与吞吐收益。",
-      "summary": "vLLM 宣布从 Day 0 支持 Reflection 的 Beam 模型，这是一个 501B 参数、每 token 激活 23B 的 MoE 模型，在 NVIDIA Blackwell 上完成优化。",
-      "sourceName": "vLLM 官方博客（RSS）",
-      "sourceUrl": "https://vllm.ai/blog/2026-10-16-reflection-beam",
-      "aihotUrl": "https://aihot.news/items/d0pow9b93paydjtg2i76ang83",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "a3roan35e4kghyxdjffek1hop",
-      "title": "Reflection 发布首个开源权重模型 Beam，Artificial Analysis 评测得分 30 居美国开源模型第二",
-      "reason": "第三方评测给出 Beam 在美国开源权重模型中的位置与 token 效率数据，可用于横向比较其智能体与编码能力。",
-      "summary": "Artificial Analysis 评测 Reflection 首个模型 Beam，其在 Artificial Analysis Intelligence Index 得 30 分，在美国开源权重模型中排第二，仅次于 Meta 的 Muse Spark Open（39）。",
-      "sourceName": "Artificial Analysis 完整文章（网页）",
-      "sourceUrl": "https://artificialanalysis.ai/articles/reflection-beam",
-      "aihotUrl": "https://aihot.news/items/a3roan35e4kghyxdjffek1hop",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "i6u3av7zg8n3gfy6g7ynhns56",
-      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
-      "reason": "原文给出 SGLang 对 Beam 的原生支持细节与实测吞吐数据，读者可据此评估该推理栈在智能体负载下的服务性能。",
-      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
-      "sourceName": "LMSYS Blog",
-      "sourceUrl": "https://www.lmsys.org/blog/2026-10-16-beam",
-      "aihotUrl": "https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "f14brdupsvks0k2hoang4lx6w",
-      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-      "reason": "Ollama 作为首发合作方介绍 Beam 的参数结构、上下文窗口和 ZDR 云端接入方式，读者可以据此评估在本机或云端运行该模型的可行性。",
-      "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
-      "sourceName": "Ollama：Blog（RSS）",
-      "sourceUrl": "https://ollama.com/blog/reflection-beam",
-      "aihotUrl": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "xwgy3mhme6nur9kndswxlu0es",
-      "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
-      "reason": "官方宣布进入加拿大市场的节奏与本地合作细节，读者可了解自动驾驶服务落地的分阶段做法。",
-      "summary": "Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。",
-      "sourceName": "Waymo：Blog（网页）",
-      "sourceUrl": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-      "aihotUrl": "https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es",
-      "publishedAt": "2026-10-16T07:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
       "unselected": false
     }
   ],
@@ -700,6 +644,20 @@
       "unselected": false
     },
     {
+      "id": "ffpkck4k06le4smuaz4slhvcz",
+      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "reason": "作者用一周实测讲清了如何在128G统一内存的RTX Spark笔记本上部署本地模型，并给出可复用的WorkBuddy专家整合流程。",
+      "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "aihotUrl": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
+      "publishedAt": "2026-10-17T10:19:04.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "p4mq9t7wyzlxritu15i6d8dtv",
       "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
       "reason": "原文拆解了 Anthropic 重构代码评审的七层防线和收敛问题的具体解法，对引入 AI reviewer 的团队有可迁移的做法。",
@@ -792,20 +750,6 @@
       "sourceUrl": "https://x.com/Khazix0918/status/2110587546271191166",
       "aihotUrl": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
       "publishedAt": "2026-10-15T04:24:18.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "alrar23ypkk6umkz50eirp35h",
-      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-      "reason": "作者实测了开源 Anatomy Skill 生成原理科普视频的效果，还给出额度消耗、耗时和模型配置等一手数据，方便读者评估是否上手。",
-      "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-      "aihotUrl": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
-      "publishedAt": "2026-10-15T00:26:00.000Z",
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
