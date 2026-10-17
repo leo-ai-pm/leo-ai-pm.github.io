@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-17T06:16:14.706Z",
+  "checkedAt": "2026-10-17T10:52:37.696Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,48 @@
     }
   ],
   "today": [
+    {
+      "id": "xgj246drlw70qbgypibz6atla",
+      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+      "reason": "作者以官方身份说明 WorkBuddy Intl 已同步最新 DeepSeek 模型并限期免费，读者可直接试用体验。",
+      "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。",
+      "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "sourceUrl": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "aihotUrl": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
+      "publishedAt": "2026-10-17T10:29:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "w34qm27sedtziwxig5ub9wwhr",
+      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+      "reason": "原文列出各基准分数并说明 API 调用与价格不变，读者可直接评估新版模型是否值得切换。",
+      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-%E6%9B%B4%E6%96%B0",
+      "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "x7hxr1lvyddc8hrbrugfx4uyg",
+      "title": "DeepSeek 开放自研搜索 API",
+      "reason": "原文给出开放入口、索引规模与过滤机制，接入 RAG 或智能体的开发者可据此评估是否纳入现有工作流。",
+      "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#%E5%BC%80%E6%94%BE%E8%87%AA%E7%A0%94%E6%90%9C%E7%B4%A2-api",
+      "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "nextj30ehkdcjpzpk4fgz1p1w",
       "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
@@ -206,51 +248,23 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "p11tj593iq5nrtiotvoxllop4",
-      "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-      "reason": "商务部就目录修订答记者问，解释了哪些AI技术在列、哪些出海情形不受限，便于企业判断合规边界。",
-      "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/013/983.htm",
-      "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
-      "publishedAt": "2026-10-16T08:23:54.520Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "y1c13l53cd5u3wg565qu60q4d",
-      "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
-      "reason": "原文基于 9800 次试验给出开放权重与闭源模型在间接提示词注入下的易感率差距和分攻击数据，方法与结果可直接用于安全选型参考。",
-      "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
-      "sourceName": "PromptArmor：Threat Intelligence",
-      "sourceUrl": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-      "aihotUrl": "https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "bvljy29i9xwh3wnkwign3npt4",
-      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-      "reason": "丹麦最高法院首次明确 AI 合成儿童色情图像即使无真人原型也受《刑法》约束，为同类案件的量刑原则提供了参考。",
-      "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/013/914.htm",
-      "aihotUrl": "https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4",
-      "publishedAt": "2026-10-16T06:14:36.073Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "w34qm27sedtziwxig5ub9wwhr",
+      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+      "reason": "原文列出各基准分数并说明 API 调用与价格不变，读者可直接评估新版模型是否值得切换。",
+      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-%E6%9B%B4%E6%96%B0",
+      "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "bjzjg5k7af07c1c20bc1a8gxp",
       "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
@@ -295,9 +309,9 @@
     },
     {
       "id": "m4lwilxklwi3f3ctdlvxmzlxw",
-      "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
-      "reason": "作者实测后给出价格、积分成本和多场景样例，读者可据此评估 Kling 4.0 是否值得用在创作流程里。",
-      "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。",
+      "title": "可灵 Kling 4.0 深夜上线，支持30秒一镜到底直出",
+      "reason": "作者烧积分实测了多类场景，并给出积分定价和抽卡成本，读者可以据此评估它在真实创作流程里的可用性。",
+      "summary": "可灵AI正式上线视频模型 Kling 4.0，9月底曾向部分黑金年卡及Ultra年订用户开放4.0 Flash尝鲜版。",
       "sourceName": "公众号：数字生命卡兹克",
       "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
       "aihotUrl": "https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw",
@@ -350,17 +364,31 @@
       "unselected": false
     },
     {
-      "id": "f7ey01hbckuivmlgen9jq0vaf",
-      "title": "Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍",
-      "reason": "官方披露了 MAI-Base-2 的完整预训练方法，读者可以从中了解 scaling ladder、Muon 优化和多轮 dropless MoE 等可借鉴的工程细节。",
-      "summary": "Microsoft AI 宣布完成 MAI-Base-2 预训练，这是一个 800 亿激活、2.8T 总参数的 MoE 基础模型，在 held-out 评测中 BPB 低于所测全部开源权重模型，预训练 FLOPs 效率比 DeepSeek-V4-Pro-Base 高 4.2 至 12.3 倍。",
-      "sourceName": "Microsoft AI：官方博客（网页）",
-      "sourceUrl": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-      "aihotUrl": "https://aihot.news/items/f7ey01hbckuivmlgen9jq0vaf",
-      "publishedAt": "2026-10-15T16:09:01.000Z",
+      "id": "xgj246drlw70qbgypibz6atla",
+      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+      "reason": "作者以官方身份说明 WorkBuddy Intl 已同步最新 DeepSeek 模型并限期免费，读者可直接试用体验。",
+      "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。",
+      "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "sourceUrl": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "aihotUrl": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
+      "publishedAt": "2026-10-17T10:29:00.000Z",
       "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "x7hxr1lvyddc8hrbrugfx4uyg",
+      "title": "DeepSeek 开放自研搜索 API",
+      "reason": "原文给出开放入口、索引规模与过滤机制，接入 RAG 或智能体的开发者可据此评估是否纳入现有工作流。",
+      "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#%E5%BC%80%E6%94%BE%E8%87%AA%E7%A0%94%E6%90%9C%E7%B4%A2-api",
+      "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
       "unselected": false
     },
     {
@@ -442,34 +470,6 @@
       "sourceUrl": "https://claude.com/blog/code-review-is-now-generally-available",
       "aihotUrl": "https://aihot.news/items/wmxwoemumqiq2yfrjngl3a5rc",
       "publishedAt": "2026-10-15T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "e2ssy0a7scpnel6ppyl3r9f2t",
-      "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
-      "reason": "原文给出了 fast mode 正式开放后的速度、定价和平台覆盖变化，读者可据此评估是否切换到该模式。",
-      "summary": "Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。",
-      "sourceName": "X：Claude Devs (@ClaudeDevs)",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2110825294655562048",
-      "aihotUrl": "https://aihot.news/items/e2ssy0a7scpnel6ppyl3r9f2t",
-      "publishedAt": "2026-10-15T20:09:02.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "bme0mytjnlk0d2lk8hf7srzoh",
-      "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-      "reason": "官方说明 ChatGPT 新增读取与控制 Chrome 标签页的能力，聊天和工作两种场景的具体用途都写清楚了。",
-      "summary": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。",
-      "sourceName": "X：ChatGPT (@ChatGPT)",
-      "sourceUrl": "https://x.com/ChatGPT/status/2110823738531037651",
-      "aihotUrl": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
-      "publishedAt": "2026-10-15T20:02:51.000Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -820,6 +820,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "w34qm27sedtziwxig5ub9wwhr",
+          "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+          "reason": "原文列出各基准分数并说明 API 调用与价格不变，读者可直接评估新版模型是否值得切换。",
+          "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
+          "sourceName": "DeepSeek：API 更新日志",
+          "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-%E6%9B%B4%E6%96%B0",
+          "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+          "publishedAt": "2026-10-16T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "nextj30ehkdcjpzpk4fgz1p1w",
           "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
           "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
@@ -887,20 +901,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "j5vlb3dn14h2b4xy1hbdschyc",
-          "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-          "reason": "原文汇集 Cloudflare、Similarweb 等数据，指出智能体购物正遭遇电商封禁与消费者信任不足的双重阻力。",
-          "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。",
-          "sourceName": "a16z：News（RSS）",
-          "sourceUrl": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-          "aihotUrl": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
-          "publishedAt": "2026-10-16T14:00:39.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
           "unselected": false
         }
       ]
@@ -1096,6 +1096,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "xgj246drlw70qbgypibz6atla",
+          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+          "reason": "作者以官方身份说明 WorkBuddy Intl 已同步最新 DeepSeek 模型并限期免费，读者可直接试用体验。",
+          "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。",
+          "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "sourceUrl": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+          "aihotUrl": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
+          "publishedAt": "2026-10-17T10:29:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "d0pow9b93paydjtg2i76ang83",
           "title": "vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持",
           "reason": "原文给出了 Beam 在 vLLM 上的具体优化数据和部署命令，读者可以直接评估落地配置与吞吐收益。",
@@ -1160,20 +1174,6 @@
           "sourceUrl": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
           "aihotUrl": "https://aihot.news/items/gltyk3cw7d1qb6tvp83ticoba",
           "publishedAt": "2026-10-15T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "ldwt1jervkxlsh99322u661fc",
-          "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-          "reason": "路透社消息披露了 Anthropic 估值预期下调与营收增速放缓的具体数字，可帮助读者判断 AI 上市潮与基建投资情绪的走向。",
-          "summary": "路透社援引知情人士消息称，Anthropic 公布最新财务数据后，部分投资者开始考虑下调其 IPO 估值，此前预期 11 月上市时估值约 2 万亿美元，投资者日活动讨论约 1.5 万亿美元。",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/013/723.htm",
-          "aihotUrl": "https://aihot.news/items/ldwt1jervkxlsh99322u661fc",
-          "publishedAt": "2026-10-16T00:54:07.827Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
