@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-17T16:59:57.206Z",
+  "checkedAt": "2026-10-17T19:12:10.213Z",
   "message": "",
   "categories": [
     {
@@ -131,48 +131,6 @@
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
       "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "aihotUrl": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "kovelcbltjj7xf054h8mffaxo",
-      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-      "reason": "原文给出 VERID 数字孪生、闭环适配体与全新蛋白设计三项进展的实验数据，可了解 AI 智能体走进湿实验室的真实差距与解法。",
-      "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-      "sourceName": "Google Research：Blog（网页）",
-      "sourceUrl": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "aihotUrl": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "p4mq9t7wyzlxritu15i6d8dtv",
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "reason": "原文拆解了 Anthropic 重构代码评审的七层防线和收敛问题的具体解法，对引入 AI reviewer 的团队有可迁移的做法。",
-      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-      "sourceName": "X：邵猛 (@shao__meng)",
-      "sourceUrl": "https://x.com/shao__meng/status/2111274173192638932",
-      "aihotUrl": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
-      "publishedAt": "2026-10-17T01:52:43.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "jn8i9j3ppsb0f79mrtldd43h8",
-      "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
-      "reason": "Anthropic 自己的研究，给出 Claude 优化量子电路的具体方法和量化改进，对理解 AI 辅助科学发现有参考价值。",
-      "summary": "Anthropic 发布研究报告，让 Claude Mythos 5 在闭环中自主优化量子电路：模型提出电路设计、由自动评估器验证正确性并按 qubit 数乘以门数打分，八项涵盖化学、优化、量子模拟和数论的任务均超过此前最优已发表设计，部分提升达一个数量级以上。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
       "publishedAt": "2026-10-15T16:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
