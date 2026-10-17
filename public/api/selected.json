@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-17T13:59:09.809Z",
+  "checkedAt": "2026-10-17T16:59:57.206Z",
   "message": "",
   "categories": [
     {
@@ -177,20 +177,6 @@
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "j5vlb3dn14h2b4xy1hbdschyc",
-      "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-      "reason": "原文汇集 Cloudflare、Similarweb 等数据，指出智能体购物正遭遇电商封禁与消费者信任不足的双重阻力。",
-      "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。",
-      "sourceName": "a16z：News（RSS）",
-      "sourceUrl": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-      "aihotUrl": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
-      "publishedAt": "2026-10-16T14:00:39.000Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
       "unselected": false
     }
   ],
@@ -976,20 +962,6 @@
           "unselected": false
         },
         {
-          "id": "s27ozk3mqeklm58sqxjeaz2wk",
-          "title": "Databricks 讲解如何在 AI Runtime 上将 Qwen 3.8 27B 微调时间缩短 6 倍",
-          "reason": "原文给出从定位瓶颈到融合内核与数据打包的完整优化路径和量化结果，读者可迁移到自己的 LLM 微调任务。",
-          "summary": "Databricks 演示通过系统性性能优化，将 Qwen 3.8 27B 在 AI Runtime 上的微调时间从 7 小时 44 分钟降至 1 小时 17 分钟，提速 6 倍。",
-          "sourceName": "Databricks：Blog（RSS）",
-          "sourceUrl": "https://www.databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime",
-          "aihotUrl": "https://aihot.news/items/s27ozk3mqeklm58sqxjeaz2wk",
-          "publishedAt": "2026-10-14T11:30:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
           "id": "o8h7g7pscq0qrlenoadabbb96",
           "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
           "reason": "作者亲述漏洞原理与利用链，读者可学到 Windows 路径规范化缺陷如何绕过 AI 智能体安全检查的可迁移方法。",
@@ -1029,6 +1001,20 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "ug7g6psicfobnnft0ebgpyl10",
+          "title": "NVIDIA RTX Spark 笔记本 10 月 16 日上市，生态伙伴同步推出本地 AI 软件更新",
+          "reason": "官方汇总了 RTX Spark 上市前的软件生态准备，从本地 Agent、创意应用到开发工具和 DLSS 5，读者可据此了解平台落地细节。",
+          "summary": "NVIDIA 官宣 RTX Spark 笔记本将于 10 月 16 日发售，配合发布推出覆盖 Agent、创意和开发工具的软件更新，该超芯片具备最高 128GB 统一内存和 1 petaflop AI 算力。",
+          "sourceName": "NVIDIA Blog（RSS）",
+          "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+          "aihotUrl": "https://aihot.news/items/ug7g6psicfobnnft0ebgpyl10",
+          "publishedAt": "2026-10-13T12:00:49.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
           "unselected": false
         }
       ]

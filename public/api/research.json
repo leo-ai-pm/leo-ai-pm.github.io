@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-17T13:58:33.830Z",
-      "lastSuccessAt": "2026-10-17T13:58:33.830Z",
-      "nextCheckAt": 1792249113830,
+      "checkedAt": "2026-10-17T16:59:23.319Z",
+      "lastSuccessAt": "2026-10-17T16:59:23.319Z",
+      "nextCheckAt": 1792259963319,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1792249113832,
-      "checkedAt": "2026-10-17T13:58:33.832Z",
-      "lastSuccessAt": "2026-10-17T13:58:33.832Z",
+      "nextCheckAt": 1792259963320,
+      "checkedAt": "2026-10-17T16:59:23.320Z",
+      "lastSuccessAt": "2026-10-17T16:59:23.320Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-17T13:58:33.833Z",
-      "lastSuccessAt": "2026-10-17T13:58:33.833Z",
-      "nextCheckAt": 1792249113833,
+      "checkedAt": "2026-10-17T16:59:23.321Z",
+      "lastSuccessAt": "2026-10-17T16:59:23.321Z",
+      "nextCheckAt": 1792259963321,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792249114004,
-      "checkedAt": "2026-10-17T13:58:34.004Z",
-      "lastSuccessAt": "2026-10-17T13:58:34.004Z",
+      "nextCheckAt": 1792259963508,
+      "checkedAt": "2026-10-17T16:59:23.508Z",
+      "lastSuccessAt": "2026-10-17T16:59:23.508Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792249113830,
+  "nextCheckAt": 1792259963319,
   "refreshing": false,
   "items": [
     {
@@ -254,15 +254,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/harness-by-autonomous",
-      "title": "Harness by Autonomous",
-      "summary": "Every coding agent, every machine, one command center.",
-      "publishedAt": "2026-10-15T13:27:08.000Z",
-      "url": "https://www.producthunt.com/products/harness-by-autonomous",
+      "id": "ph:https://www.producthunt.com/products/nvidia",
+      "title": "Nemotron 3.5 Super VL",
+      "summary": "NVIDIA’s open multimodal model for specialized agents",
+      "publishedAt": "2026-10-15T15:27:13.000Z",
+      "url": "https://www.producthunt.com/products/nvidia",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/harness-by-autonomous",
+      "sourceUrl": "https://www.producthunt.com/products/nvidia",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Every coding agent, every machine, one command center.",
+      "brief": "NVIDIA’s open multimodal model for specialized agents",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

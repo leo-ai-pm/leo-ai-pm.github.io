@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月17日",
+  "date": "2026年10月18日",
   "demo": false,
-  "updatedAt": "2026-10-17T13:58:49.323Z",
+  "updatedAt": "2026-10-17T16:59:36.163Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 261,
-    "latestCount": 5,
+    "received": 222,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 2,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -110,8 +110,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 2,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 7,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -137,29 +137,29 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-rxio6y3s172g791gw9thbtvh4",
-      "title": "OpenAI 介绍 ChatGPT Space",
-      "brief": "什么是 ChatGPT Space，这才是问题所在。",
-      "summary": "什么是 ChatGPT Space，这才是问题所在。",
-      "category": "AI 动态",
-      "topic": "AI 产品",
+      "id": "aihot-cvptn8xtc9y6m72e983lrhrv2",
+      "title": "OpenAI员工用AI智能体处理税务",
+      "brief": "我的工作邮箱\"Burger\"应我私人邮箱\"Dorito\"的请求，通过邮件与它协调获取文件，随后又与我的注册会计师协调，完成了一些税务申报事宜。",
+      "summary": "我的工作邮箱\"Burger\"应我私人邮箱\"Dorito\"的请求，通过邮件与它协调获取文件，随后又与我的注册会计师协调，完成了一些税务申报事宜。",
+      "category": "实践与观点",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "thsottiaux",
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2111249534072529256",
-      "aggregateUrl": "https://aihot.news/items/rxio6y3s172g791gw9thbtvh4",
+      "sourceUrl": "https://x.com/thsottiaux/status/2111495392559067199",
+      "aggregateUrl": "https://aihot.news/items/cvptn8xtc9y6m72e983lrhrv2",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-17T00:14:48.000Z",
+      "publishedAt": "2026-10-17T16:31:45.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -171,7 +171,7 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "AI 动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
@@ -213,43 +213,6 @@
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
           "assetSource": "https://x.com/emollick",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-w2rdy5qmgmjivspmgj2fhsx81",
-      "title": "Sam Altman 晒 Navier-Stokes 里程碑 T 恤",
-      "brief": "Navier-Stokes 里程碑 T 恤的背面，是解答中链式推理的最后一行：",
-      "summary": "Navier-Stokes 里程碑 T 恤的背面，是解答中链式推理的最后一行：",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2111139227761266699",
-      "aggregateUrl": "https://aihot.news/items/w2rdy5qmgmjivspmgj2fhsx81",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-16T16:56:29.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
           "tone": "#e9e4dc"
         }
       }
@@ -376,7 +339,7 @@
       "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
       "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
       "sourceCount": 14,
-      "participantCount": 36,
+      "participantCount": 42,
       "latestAt": "2026-10-17T12:55:16.000Z",
       "expanded": true,
       "latest": "DeepSeek 发布 V4.1-Flash-1017，Nathan Lambert 称其或凭内置视觉强于 GLM 5.3",
@@ -426,31 +389,31 @@
       "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
       "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
       "sourceCount": 17,
-      "participantCount": 83,
-      "latestAt": "2026-10-16T22:22:42.000Z",
+      "participantCount": 82,
+      "latestAt": "2026-10-17T14:15:29.000Z",
       "expanded": true,
-      "latest": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+      "latest": "Meta 开源权重模型竞争力展望",
       "reports": [
+        {
+          "title": "Meta 开源权重模型竞争力展望",
+          "sourceName": "X：Nathan Lambert (@natolambert)",
+          "sourceUrl": "https://x.com/natolambert/status/2111461099140772137",
+          "aihotUrl": "https://aihot.news/items/o29h52bjq5lgan97a69yf5c2j",
+          "publishedAt": "2026-10-17T14:15:29.000Z"
+        },
+        {
+          "title": "Nathan Lambert 解析 Meta Muse 系列如何改变开放与闭源前沿格局",
+          "sourceName": "Nathan Lambert：Interconnects（RSS）",
+          "sourceUrl": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+          "aihotUrl": "https://aihot.news/items/ilprz4dbp4xk1f3shj463hg91",
+          "publishedAt": "2026-10-17T14:06:54.000Z"
+        },
         {
           "title": "Meta 发布 Muse Spark Open：816B 开源 MoE，1M 上下文",
           "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
           "sourceUrl": "https://x.com/rohanpaul_ai/status/2111247359015583920",
           "aihotUrl": "https://aihot.news/items/ueqic1dy2hdx4ua7yipobons6",
           "publishedAt": "2026-10-17T00:06:10.000Z"
-        },
-        {
-          "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2111221323217412318",
-          "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
-          "publishedAt": "2026-10-16T22:22:42.000Z"
-        },
-        {
-          "title": "Meta 开源 816B MoE 模型 Muse Spark Open",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "sourceUrl": "https://x.com/testingcatalog/status/2110990382670467547",
-          "aihotUrl": "https://aihot.news/items/veol4ypcuxzhts138fif5aqty",
-          "publishedAt": "2026-10-16T07:05:02.000Z"
         }
       ],
       "related": [],
@@ -519,14 +482,42 @@
     },
     {
       "rank": 4,
+      "id": "ckrtcqc9dnngil5ev7m60ns4v",
+      "title": "Claude 查明 NIST 椭圆曲线种子来源",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "aihotUrl": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v",
+      "storyUrl": "https://aihot.news/story/081bf642-6816-4c84-929e-3d3837dcfdb5",
+      "sourceCount": 3,
+      "participantCount": 12,
+      "latestAt": "2026-10-17T14:42:56.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "rq32az1hr7zpbipiyega9ehjr",
       "title": "NVIDIA RTX Spark 笔记本开售，起价 2599 美元",
       "sourceName": "NVIDIA：Newsroom（RSS）",
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
       "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
       "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
-      "sourceCount": 7,
-      "participantCount": 17,
+      "sourceCount": 6,
+      "participantCount": 15,
       "latestAt": "2026-10-17T10:19:04.000Z",
       "expanded": false,
       "latest": "",
@@ -546,70 +537,14 @@
       }
     },
     {
-      "rank": 5,
-      "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
-      "title": "英伟达开源 Nemotron 3.5 Super VL 多模态智能体模型",
-      "sourceName": "NVIDIA Blog（RSS）",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-      "aihotUrl": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
-      "storyUrl": "https://aihot.news/story/e1654a62-6c1b-40ba-be4a-032beae55011",
-      "sourceCount": 13,
-      "participantCount": 25,
-      "latestAt": "2026-10-15T19:53:50.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 6,
-      "id": "kbccvteado5kgzbk5ah9yv5ip",
-      "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
-      "sourceName": "X：卡兹克 (@Khazix0918)",
-      "sourceUrl": "https://x.com/Khazix0918/status/2110914404393091205",
-      "aihotUrl": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
-      "storyUrl": "https://aihot.news/story/1b39529e-2c70-4f97-828f-ae4a508ebff2",
-      "sourceCount": 5,
-      "participantCount": 19,
-      "latestAt": "2026-10-16T15:00:00.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：卡兹克 (@Khazix0918)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
       "id": "smxxtw5ca2c9jscojk4ppe5hf",
       "title": "Google 发布 Gemini 4 Argon，付费用户独享",
       "sourceName": "Google Blog：AI（RSS）",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
       "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "participantCount": 18,
       "latestAt": "2026-10-16T07:34:44.337Z",
       "expanded": false,
@@ -630,35 +565,7 @@
       }
     },
     {
-      "rank": 8,
-      "id": "allv4n9g9lhfy72m1pg725apv",
-      "title": "Anthropic三季度收入168亿美元，增速放缓",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-      "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
-      "sourceCount": 2,
-      "participantCount": 15,
-      "latestAt": "2026-10-16T00:54:07.827Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "id": "bme0mytjnlk0d2lk8hf7srzoh",
       "title": "OpenAI 将 computer use 能力引入 Chrome",
       "sourceName": "X：ChatGPT (@ChatGPT)",
@@ -666,7 +573,7 @@
       "aihotUrl": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
       "storyUrl": "https://aihot.news/story/13025e80-d645-4abb-87c1-f3e5ce826c4d",
       "sourceCount": 5,
-      "participantCount": 15,
+      "participantCount": 16,
       "latestAt": "2026-10-17T00:31:53.593Z",
       "expanded": false,
       "latest": "",
@@ -686,16 +593,16 @@
       }
     },
     {
-      "rank": 10,
-      "id": "qy7y0cfu1wbum1ej9urwylfxr",
-      "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
-      "sourceName": "Reflection Blog",
-      "sourceUrl": "https://reflection.ai/blog/introducing-beam",
-      "aihotUrl": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
-      "storyUrl": "https://aihot.news/story/553aab31-30b1-4787-bd62-3b006d83295e",
-      "sourceCount": 9,
-      "participantCount": 15,
-      "latestAt": "2026-10-16T18:30:03.000Z",
+      "rank": 8,
+      "id": "kbccvteado5kgzbk5ah9yv5ip",
+      "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "sourceUrl": "https://x.com/Khazix0918/status/2110914404393091205",
+      "aihotUrl": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
+      "storyUrl": "https://aihot.news/story/1b39529e-2c70-4f97-828f-ae4a508ebff2",
+      "sourceCount": 4,
+      "participantCount": 17,
+      "latestAt": "2026-10-16T15:00:00.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -703,10 +610,66 @@
       "visual": {
         "entities": [
           {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
+            "name": "X：卡兹克 (@Khazix0918)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "allv4n9g9lhfy72m1pg725apv",
+      "title": "Anthropic三季度收入168亿美元，增速放缓",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+      "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+      "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
+      "sourceCount": 1,
+      "participantCount": 14,
+      "latestAt": "2026-10-16T00:54:07.827Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "x6s9la8005d0zobyd908cf5su",
+      "title": "腾讯混元发布并开源 Hy Memory 2.0",
+      "sourceName": "X：邵猛 (@shao__meng)",
+      "sourceUrl": "https://x.com/shao__meng/status/2111082839068246301",
+      "aihotUrl": "https://aihot.news/items/x6s9la8005d0zobyd908cf5su",
+      "storyUrl": "https://aihot.news/story/a377431d-9822-42bd-a8d3-fd4ee14dc0b7",
+      "sourceCount": 4,
+      "participantCount": 12,
+      "latestAt": "2026-10-16T13:12:25.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：邵猛 (@shao__meng)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
