@@ -1,7 +1,7 @@
 {
   "date": "2026年10月17日",
   "demo": false,
-  "updatedAt": "2026-10-16T23:51:16.326Z",
+  "updatedAt": "2026-10-17T01:37:56.701Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 342,
-    "latestCount": 4,
+    "received": 311,
+    "latestCount": 5,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 2,
+        "status": "本次收录"
       },
       {
         "handle": "karpathy",
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 7,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 5,
+        "matched": 6,
         "status": "本次收录"
       },
       {
@@ -143,6 +143,43 @@
     ]
   },
   "items": [
+    {
+      "id": "aihot-rxio6y3s172g791gw9thbtvh4",
+      "title": "OpenAI 介绍 ChatGPT Space",
+      "brief": "什么是 ChatGPT Space，这才是问题所在。",
+      "summary": "什么是 ChatGPT Space，这才是问题所在。",
+      "category": "AI 动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2111249534072529256",
+      "aggregateUrl": "https://aihot.news/items/rxio6y3s172g791gw9thbtvh4",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-17T00:14:48.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "AI 动态",
+        "author": {
+          "name": "Tibo Sottiaux",
+          "asset": "/assets/identities/thsottiaux.jpg",
+          "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
     {
       "id": "aihot-z4getpr1u6f1gc0hldga7c7mt",
       "title": "无法算法过滤明显的AI垃圾回复？",
@@ -218,11 +255,11 @@
       }
     },
     {
-      "id": "aihot-tm19lu4msw0riwojw5ayw28n2",
-      "title": "Perplexity Decider 模型上线 OpenRouter",
-      "brief": "OpenRouter 是使用 Perplexity Decider 模型的最佳平台",
-      "summary": "OpenRouter 是使用 Perplexity Decider 模型的最佳平台",
-      "category": "模型进展",
+      "id": "aihot-zzjfi6l0stwgnolgya83n7f6q",
+      "title": "Perplexity 推出 Roadster 物理解析页面",
+      "brief": "roadster 背后的物理学 - https://roadster.pplx.app/",
+      "summary": "roadster 背后的物理学 - https://roadster.pplx.app/",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -230,10 +267,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2111209381966782725",
-      "aggregateUrl": "https://aihot.news/items/tm19lu4msw0riwojw5ayw28n2",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2111260882089243129",
+      "aggregateUrl": "https://aihot.news/items/zzjfi6l0stwgnolgya83n7f6q",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-16T21:35:15.000Z",
+      "publishedAt": "2026-10-17T00:59:54.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -245,7 +282,7 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -338,12 +375,19 @@
       "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
       "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
       "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
-      "sourceCount": 23,
-      "participantCount": 85,
+      "sourceCount": 17,
+      "participantCount": 79,
       "latestAt": "2026-10-16T22:22:42.000Z",
       "expanded": true,
       "latest": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
       "reports": [
+        {
+          "title": "Meta 发布 Muse Spark Open：816B 开源 MoE，1M 上下文",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2111247359015583920",
+          "aihotUrl": "https://aihot.news/items/ueqic1dy2hdx4ua7yipobons6",
+          "publishedAt": "2026-10-17T00:06:10.000Z"
+        },
         {
           "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
           "sourceName": "X：Arena (@arena)",
@@ -357,13 +401,6 @@
           "sourceUrl": "https://x.com/testingcatalog/status/2110990382670467547",
           "aihotUrl": "https://aihot.news/items/veol4ypcuxzhts138fif5aqty",
           "publishedAt": "2026-10-16T07:05:02.000Z"
-        },
-        {
-          "title": "Meta 发布 Muse Spark Open：816B 开源权重 MoE 模型，支持 1M 上下文",
-          "sourceName": "MarkTechPost（RSS）",
-          "sourceUrl": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
-          "aihotUrl": "https://aihot.news/items/wk83jwtn2s9gvhoaylkb46qte",
-          "publishedAt": "2026-10-16T02:26:04.000Z"
         }
       ],
       "related": [],
@@ -382,6 +419,65 @@
     },
     {
       "rank": 2,
+      "id": "rq32az1hr7zpbipiyega9ehjr",
+      "title": "NVIDIA RTX Spark 笔记本开售，起价 2599 美元",
+      "sourceName": "NVIDIA：Newsroom（RSS）",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+      "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
+      "sourceCount": 6,
+      "participantCount": 17,
+      "latestAt": "2026-10-16T23:54:20.000Z",
+      "expanded": true,
+      "latest": "Unsloth 适配 NVIDIA RTX Spark，笔记本本地可运行并训练 120B+ 参数模型",
+      "reports": [
+        {
+          "title": "Unsloth 适配 NVIDIA RTX Spark，笔记本本地可运行并训练 120B+ 参数模型",
+          "sourceName": "X：Unsloth (@UnslothAI)",
+          "sourceUrl": "https://x.com/UnslothAI/status/2111244381969863115",
+          "aihotUrl": "https://aihot.news/items/gfh55ke3d2q7ikzu9vzyve289",
+          "publishedAt": "2026-10-16T23:54:20.000Z"
+        },
+        {
+          "title": "OpenClaw 在新 NVIDIA RTX Spark 笔记本开箱即用",
+          "sourceName": "X：OpenClaw (@openclaw)",
+          "sourceUrl": "https://x.com/openclaw/status/2111190844225306694",
+          "aihotUrl": "https://aihot.news/items/djnuuw0fe2f88tzuguuo05d6b",
+          "publishedAt": "2026-10-16T20:21:35.000Z"
+        },
+        {
+          "title": "The Verge 一周实测 Nvidia RTX Spark N1X 五款笔记本",
+          "sourceName": "The Verge：AI（RSS）",
+          "sourceUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+          "aihotUrl": "https://aihot.news/items/ha80fetq7xniov9ngsyaob2wl",
+          "publishedAt": "2026-10-16T15:00:00.000Z"
+        }
+      ],
+      "related": [
+        {
+          "title": "微软 Surface Laptop Ultra 规格曝光并获首测",
+          "storyUrl": "https://aihot.news/story/21aed0b0-91c0-424f-a581-0ecf0785ffa3"
+        },
+        {
+          "title": "微软预售 5999 美元 Surface RTX Spark 开发主机",
+          "storyUrl": "https://aihot.news/story/4890f163-93a8-4155-90a5-42af23f38dbe"
+        }
+      ],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "smxxtw5ca2c9jscojk4ppe5hf",
       "title": "Google 发布 Gemini 4 Argon，付费用户独享",
       "sourceName": "Google Blog：AI（RSS）",
@@ -389,7 +485,7 @@
       "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
       "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
       "sourceCount": 4,
-      "participantCount": 25,
+      "participantCount": 24,
       "latestAt": "2026-10-16T07:34:44.337Z",
       "expanded": true,
       "latest": "谷歌布林称 Gemini 正迈向递归自我改进（RSI）阶段",
@@ -444,7 +540,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "allv4n9g9lhfy72m1pg725apv",
       "title": "Anthropic三季度收入168亿美元，增速放缓",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -452,63 +548,8 @@
       "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
       "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
       "sourceCount": 6,
-      "participantCount": 27,
+      "participantCount": 24,
       "latestAt": "2026-10-16T00:54:07.827Z",
-      "expanded": true,
-      "latest": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-      "reports": [
-        {
-          "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/013/723.htm",
-          "aihotUrl": "https://aihot.news/items/ldwt1jervkxlsh99322u661fc",
-          "publishedAt": "2026-10-16T00:54:07.827Z"
-        },
-        {
-          "title": "Anthropic Q3 营收 168 亿美元背后的减速隐忧",
-          "sourceName": "Azeem Azhar：Exponential View（RSS）",
-          "sourceUrl": "https://www.exponentialview.co/p/anthropic-the-agony-and-the-ecstasy",
-          "aihotUrl": "https://aihot.news/items/pc3crx3hhxve8se7qeveirnsx",
-          "publishedAt": "2026-10-15T16:29:01.000Z"
-        },
-        {
-          "title": "Anthropic 向投资人披露 Q3 季度收入环比增长近 50% 至 168 亿美元",
-          "sourceName": "Simon Willison 博客",
-          "sourceUrl": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-          "aihotUrl": "https://aihot.news/items/o1b4d2ciijy0a1btji6nj5t9s",
-          "publishedAt": "2026-10-15T13:04:03.000Z"
-        }
-      ],
-      "related": [
-        {
-          "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
-          "storyUrl": "https://aihot.news/story/935ed291-4d58-4132-a878-ce7fc3176c83"
-        }
-      ],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 4,
-      "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
-      "title": "英伟达开源 Nemotron 3.5 Super VL 多模态智能体模型",
-      "sourceName": "NVIDIA Blog（RSS）",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-      "aihotUrl": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
-      "storyUrl": "https://aihot.news/story/e1654a62-6c1b-40ba-be4a-032beae55011",
-      "sourceCount": 17,
-      "participantCount": 28,
-      "latestAt": "2026-10-15T19:53:50.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -516,10 +557,10 @@
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
@@ -556,15 +597,15 @@
     },
     {
       "rank": 6,
-      "id": "vo248l7ock6kltan370y7gmcd",
-      "title": "DeepSeek 服务中断近5小时 致歉并补偿API用户",
-      "sourceName": "X：邵猛 (@shao__meng)",
-      "sourceUrl": "https://x.com/shao__meng/status/2110628071615365330",
-      "aihotUrl": "https://aihot.news/items/vo248l7ock6kltan370y7gmcd",
-      "storyUrl": "https://aihot.news/story/c69fcda4-6491-4827-9c2b-42579fd92447",
-      "sourceCount": 3,
+      "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
+      "title": "英伟达开源 Nemotron 3.5 Super VL 多模态智能体模型",
+      "sourceName": "NVIDIA Blog（RSS）",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "aihotUrl": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
+      "storyUrl": "https://aihot.news/story/e1654a62-6c1b-40ba-be4a-032beae55011",
+      "sourceCount": 14,
       "participantCount": 25,
-      "latestAt": "2026-10-16T04:37:32.940Z",
+      "latestAt": "2026-10-15T19:53:50.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -572,10 +613,10 @@
       "visual": {
         "entities": [
           {
-            "name": "X：邵猛 (@shao__meng)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
           }
         ],
         "caption": "热点",
@@ -612,6 +653,34 @@
     },
     {
       "rank": 8,
+      "id": "vo248l7ock6kltan370y7gmcd",
+      "title": "DeepSeek 服务中断近5小时 致歉并补偿API用户",
+      "sourceName": "X：邵猛 (@shao__meng)",
+      "sourceUrl": "https://x.com/shao__meng/status/2110628071615365330",
+      "aihotUrl": "https://aihot.news/items/vo248l7ock6kltan370y7gmcd",
+      "storyUrl": "https://aihot.news/story/c69fcda4-6491-4827-9c2b-42579fd92447",
+      "sourceCount": 3,
+      "participantCount": 24,
+      "latestAt": "2026-10-16T04:37:32.940Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：邵猛 (@shao__meng)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "kbccvteado5kgzbk5ah9yv5ip",
       "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
       "sourceName": "X：卡兹克 (@Khazix0918)",
@@ -639,16 +708,16 @@
       }
     },
     {
-      "rank": 9,
-      "id": "rq32az1hr7zpbipiyega9ehjr",
-      "title": "NVIDIA RTX Spark 笔记本开售，起价 2599 美元",
-      "sourceName": "NVIDIA：Newsroom（RSS）",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
-      "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
+      "rank": 10,
+      "id": "bme0mytjnlk0d2lk8hf7srzoh",
+      "title": "OpenAI 将 computer use 能力引入 Chrome",
+      "sourceName": "X：ChatGPT (@ChatGPT)",
+      "sourceUrl": "https://x.com/ChatGPT/status/2110823738531037651",
+      "aihotUrl": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
+      "storyUrl": "https://aihot.news/story/13025e80-d645-4abb-87c1-f3e5ce826c4d",
       "sourceCount": 5,
       "participantCount": 14,
-      "latestAt": "2026-10-16T20:21:35.000Z",
+      "latestAt": "2026-10-17T00:31:53.593Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -656,38 +725,10 @@
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "xl51s0hyyzi1krwrmown4hoqh",
-      "title": "Anthropic向METR六名评估员开放员工级访问",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "aihotUrl": "https://aihot.news/items/xl51s0hyyzi1krwrmown4hoqh",
-      "storyUrl": "https://aihot.news/story/b8e9eff6-993f-4d6a-bc2f-5062db89ac84",
-      "sourceCount": 4,
-      "participantCount": 16,
-      "latestAt": "2026-10-16T13:11:55.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",

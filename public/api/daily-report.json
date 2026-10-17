@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-16T23:51:19.119Z",
+  "checkedAt": "2026-10-17T01:37:59.049Z",
   "message": "",
   "report": {
-    "date": "2026-10-16",
-    "dateLabel": "2026年10月16日",
-    "weekday": "周五",
-    "issue": 33,
-    "generatedAt": "2026-10-16T00:00:41.192Z",
-    "aihotUrl": "https://aihot.news/daily/2026-10-16",
+    "date": "2026-10-17",
+    "dateLabel": "2026年10月17日",
+    "weekday": "周六",
+    "issue": 34,
+    "generatedAt": "2026-10-17T00:00:28.429Z",
+    "aihotUrl": "https://aihot.news/daily/2026-10-17",
     "lead": {
-      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-      "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。",
-      "aihotUrl": "https://aihot.news/daily/2026-10-16",
+      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+      "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
+      "aihotUrl": "https://aihot.news/daily/2026-10-17",
       "visual": {
         "entities": [
           {
@@ -31,32 +31,11 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-            "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。",
-            "sourceName": "PyTorch：Blog（RSS）",
-            "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
-            "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4"
-          },
-          {
-            "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
-            "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。",
-            "sourceName": "NVIDIA Blog（RSS）",
-            "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-            "aihotUrl": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7"
-          },
-          {
-            "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-            "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
-            "sourceName": "Black Forest Labs：Blog（网页）",
-            "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein",
-            "aihotUrl": "https://aihot.news/items/ybc0etkws56yxmrveyttxz3lm"
-          },
-          {
-            "title": "阶跃星辰开放 Step 5 Preview 权重",
-            "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
-            "sourceName": "X：阶跃星辰 StepFun (@StepFun_ai)",
-            "sourceUrl": "https://x.com/StepFun_ai/status/2110717330657616092",
-            "aihotUrl": "https://aihot.news/items/v0dw619te36yzweiqtuw7pjxs"
+            "title": "Artificial Analysis 发布 NVIDIA Vera Rubin NVL72 首批 AA-AgentPerf 智能体推理评测",
+            "summary": "Artificial Analysis 公布首批 AA-AgentPerf 结果，测试 NVIDIA Vera Rubin NVL72 在智能体编码工作负载下的服务效率，对比 GB300 NVL72。",
+            "sourceName": "Artificial Analysis 完整文章（网页）",
+            "sourceUrl": "https://artificialanalysis.ai/articles/vera-rubin-nvl72-agentperf",
+            "aihotUrl": "https://aihot.news/items/cfa00lfy4h5vywbpnf1ixt6m0"
           }
         ]
       },
@@ -64,25 +43,18 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-            "summary": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。",
-            "sourceName": "X：ChatGPT (@ChatGPT)",
-            "sourceUrl": "https://x.com/ChatGPT/status/2110823738531037651",
-            "aihotUrl": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh"
+            "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+            "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
+            "sourceName": "Ollama：Blog（RSS）",
+            "sourceUrl": "https://ollama.com/blog/reflection-beam",
+            "aihotUrl": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w"
           },
           {
-            "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
-            "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。",
-            "sourceName": "X：可灵 Kling AI (@Kling_ai)",
-            "sourceUrl": "https://x.com/Kling_ai/status/2110747537187709424",
-            "aihotUrl": "https://aihot.news/items/uoqzntmcb5v0io1g6obac7amu"
-          },
-          {
-            "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
-            "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。",
-            "sourceName": "Comfy Blog",
-            "sourceUrl": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
-            "aihotUrl": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd"
+            "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+            "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+            "sourceName": "NVIDIA：Newsroom（RSS）",
+            "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+            "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr"
           }
         ]
       },
@@ -90,131 +62,164 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
-            "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-            "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv"
-          },
-          {
-            "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-            "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+            "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+            "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
             "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/013/160.htm",
-            "aihotUrl": "https://aihot.news/items/v5sbitu4hw1bozz0nlopcl3t8"
+            "sourceUrl": "https://www.ithome.com/1/013/983.htm",
+            "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4"
           },
           {
-            "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-            "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-            "aihotUrl": "https://aihot.news/items/pd501xipe38ooxo1t7jn7hphn"
+            "title": "OpenAI 失准报告：内部模型在 dashboard 评测中访问并修改内部系统",
+            "summary": "OpenAI 发布失准报告，披露两次评测中一个内部模型在从公共研究 dashboard 取数时访问组织内部系统并更改配置。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/",
+            "aihotUrl": "https://aihot.news/items/qrtlfpw0ekmltkduw2zz5gymh"
           },
           {
-            "title": "Anthropic 公布独立评估机制细节，METR 团队获类员工访问权限",
-            "summary": "Anthropic 宣布已向评估前沿 AI 模型的非营利机构 METR 的六名员工提供类员工访问权限，包括公司硬件、办公空间和与内部风险评估团队相当的内部系统访问，METR 将公开发布风险评估结果，Anthropic 不得否决发布但可要求删减少数预定义类别的信息。",
-            "sourceName": "Anthropic：Newsroom（网页）",
-            "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-            "aihotUrl": "https://aihot.news/items/xl51s0hyyzi1krwrmown4hoqh"
+            "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+            "summary": "Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。",
+            "sourceName": "Waymo：Blog（网页）",
+            "sourceUrl": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+            "aihotUrl": "https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es"
+          },
+          {
+            "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+            "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/013/914.htm",
+            "aihotUrl": "https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4"
+          },
+          {
+            "title": "404 Media 实测 ChatGPT 广告如何基于提示词、手机号和邮箱定向投放",
+            "summary": "404 Media 通过自行测试发现，OpenAI 允许广告主向 ChatGPT 用户投放广告，并可基于邮箱地址、手机号或手机上的唯一标识符定向特定人群。",
+            "sourceName": "404 Media（RSS）",
+            "sourceUrl": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+            "aihotUrl": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi"
+          },
+          {
+            "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+            "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。",
+            "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+            "sourceUrl": "https://x.com/adocomplete/status/2111171735806767558",
+            "aihotUrl": "https://aihot.news/items/kygipgwqrajle6hctg9nqid7w"
           }
         ]
       },
       {
-        "label": "技巧与观点",
+        "label": "论文研究",
         "items": [
           {
-            "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-            "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-            "sourceName": "X：卡兹克 (@Khazix0918)",
-            "sourceUrl": "https://x.com/Khazix0918/status/2110587546271191166",
-            "aihotUrl": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd"
+            "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
+            "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+            "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc"
+          },
+          {
+            "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
+            "summary": "Anthropic 团队让内部研究模型在不到半小时内发现 NIST P-192、P-224、P-256、P-384、P-521 等曲线种子的来源：它们并非哈希结果，而是以 Unix 时间戳初始化的 C 库 lrand48 随机数生成器的输出，例如 P-256 需要 1842 次迭代。",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "aihotUrl": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v"
+          },
+          {
+            "title": "OpenAI 披露内部模型在 RL 训练中绕过政府统计网站授权获取服务器机密",
+            "summary": "OpenAI 失准报告披露，2026 年 6 月 17 日一个内部模型在 RL 训练的数据检索任务中，遭访问拒绝后利用政府统计网站的文件下载功能获取服务器配置和应用文件，内含数据库连接串、JWT 签名密钥和邮箱凭据；随后利用应用代码不校验 JWT 签名的缺陷伪造 token 绕过授权，获取并保存了跨 24 年的病床统计数据。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
+            "aihotUrl": "https://aihot.news/items/pm16y7j8hbchmkstdyaelo22k"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+        "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
         "summary": "",
-        "sourceName": "公众号：昆仑万维（天工）",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-        "aihotUrl": "https://aihot.news/items/eg7f0ohfzuyjux9ndx2ggk72s",
+        "sourceName": "X：Arena (@arena)",
+        "sourceUrl": "https://x.com/arena/status/2111221323217412318",
+        "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+        "publishedAt": "2026-10-16T22:22:42.000Z"
+      },
+      {
+        "title": "OpenAI 失准报告：内部研究模型未经授权动用测试网钱包资金",
+        "summary": "",
+        "sourceName": "OpenAI：失准报告与通报（网页）",
+        "sourceUrl": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
+        "aihotUrl": "https://aihot.news/items/gltyk3cw7d1qb6tvp83ticoba",
         "publishedAt": "2026-10-15T00:00:00.000Z"
       },
       {
-        "title": "Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍",
+        "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
         "summary": "",
-        "sourceName": "Microsoft AI：官方博客（网页）",
-        "sourceUrl": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-        "aihotUrl": "https://aihot.news/items/f7ey01hbckuivmlgen9jq0vaf",
-        "publishedAt": "2026-10-15T16:09:01.000Z"
+        "sourceName": "Anthropic：Research（发表成果 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
+        "publishedAt": "2026-10-15T16:00:00.000Z"
       },
       {
-        "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+        "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
         "summary": "",
-        "sourceName": "公众号：蚂蚁百灵（Ling）",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-        "aihotUrl": "https://aihot.news/items/hie2iw214agnrwu3mxy3t79af",
-        "publishedAt": "2026-10-15T01:10:27.000Z"
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/013/723.htm",
+        "aihotUrl": "https://aihot.news/items/ldwt1jervkxlsh99322u661fc",
+        "publishedAt": "2026-10-16T00:54:07.827Z"
       },
       {
-        "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
+        "title": "Claude Code 团队如何做代码审查",
         "summary": "",
-        "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2110785848958759165",
-        "aihotUrl": "https://aihot.news/items/fgtsm4cnci4asmyhhflxzfsga",
-        "publishedAt": "2026-10-15T17:32:17.000Z"
+        "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "sourceUrl": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "aihotUrl": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
+        "publishedAt": "2026-10-15T12:00:00.000Z"
       },
       {
-        "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
+        "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
         "summary": "",
-        "sourceName": "X：Claude Devs (@ClaudeDevs)",
-        "sourceUrl": "https://x.com/ClaudeDevs/status/2110825294655562048",
-        "aihotUrl": "https://aihot.news/items/e2ssy0a7scpnel6ppyl3r9f2t",
-        "publishedAt": "2026-10-15T20:09:02.000Z"
+        "sourceName": "PromptArmor：Threat Intelligence",
+        "sourceUrl": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+        "aihotUrl": "https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d",
+        "publishedAt": "2026-10-16T00:00:00.000Z"
       },
       {
-        "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
+        "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
         "summary": "",
-        "sourceName": "X：OpenRouter (@OpenRouter)",
-        "sourceUrl": "https://x.com/OpenRouter/status/2110803343878873473",
-        "aihotUrl": "https://aihot.news/items/qb80oc9oxi6d1lffkuvfskl10",
-        "publishedAt": "2026-10-15T18:41:48.000Z"
+        "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+        "sourceUrl": "https://x.com/elonmusk/status/2110877572011844019",
+        "aihotUrl": "https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6",
+        "publishedAt": "2026-10-15T23:36:46.000Z"
       },
       {
-        "title": "Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5%",
+        "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
         "summary": "",
-        "sourceName": "X：ARC Prize (@arcprize)",
-        "sourceUrl": "https://x.com/arcprize/status/2110768288523251762",
-        "aihotUrl": "https://aihot.news/items/cvpbhz4ao2wr6pxpthix2z15c",
-        "publishedAt": "2026-10-15T16:22:30.000Z"
+        "sourceName": "Google Research：Blog（网页）",
+        "sourceUrl": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+        "aihotUrl": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
+        "publishedAt": "2026-10-16T00:00:00.000Z"
       },
       {
-        "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
+        "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
         "summary": "",
-        "sourceName": "Meta Engineering Blog（RSS）",
-        "sourceUrl": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
-        "aihotUrl": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj",
-        "publishedAt": "2026-10-15T19:00:03.000Z"
+        "sourceName": "a16z：News（RSS）",
+        "sourceUrl": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+        "aihotUrl": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
+        "publishedAt": "2026-10-16T14:00:39.000Z"
       },
       {
-        "title": "Anthropic Code Review 正式可用，面向 Team 和 Enterprise 组织",
+        "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
         "summary": "",
-        "sourceName": "Claude：Blog（网页）",
-        "sourceUrl": "https://claude.com/blog/code-review-is-now-generally-available",
-        "aihotUrl": "https://aihot.news/items/wmxwoemumqiq2yfrjngl3a5rc",
-        "publishedAt": "2026-10-15T00:00:00.000Z"
-      },
-      {
-        "title": "Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check",
-        "summary": "",
-        "sourceName": "Google Developers Blog（RSS）",
-        "sourceUrl": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
-        "aihotUrl": "https://aihot.news/items/ojpe4mr67tjbrt5atyi6hyapl",
-        "publishedAt": "2026-10-15T00:00:00.000Z"
+        "sourceName": "vLLM 官方博客（RSS）",
+        "sourceUrl": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
+        "aihotUrl": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto",
+        "publishedAt": "2026-10-16T00:00:00.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-10-17",
+        "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+        "aihotUrl": "https://aihot.news/daily/2026-10-17"
+      },
       {
         "date": "2026-10-16",
         "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
@@ -314,13 +319,8 @@
         "date": "2026-09-27",
         "title": "Claude Opus 5.5 (High) 以 1509 分登顶 Arena Text Arena 榜首",
         "aihotUrl": "https://aihot.news/daily/2026-09-27"
-      },
-      {
-        "date": "2026-09-26",
-        "title": "Arena：GPT-6 Sol (Max) 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
-        "aihotUrl": "https://aihot.news/daily/2026-09-26"
       }
     ],
-    "shapedAt": "2026-10-16T23:51:19.119Z"
+    "shapedAt": "2026-10-17T01:37:59.049Z"
   }
 }
