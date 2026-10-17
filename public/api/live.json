@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月18日",
     "demo": false,
-    "updatedAt": "2026-10-17T19:11:58.039Z",
+    "updatedAt": "2026-10-17T21:30:32.651Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 198,
-      "latestCount": 4,
+      "received": 135,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,8 +93,8 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "omarsar0",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 5,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -182,48 +182,11 @@
         }
       },
       {
-        "id": "aihot-z4getpr1u6f1gc0hldga7c7mt",
-        "title": "无法算法过滤明显的AI垃圾回复？",
-        "brief": "说真的，就没有办法用算法过滤掉那些明显的AI垃圾回复吗？",
-        "summary": "说真的，就没有办法用算法过滤掉那些明显的AI垃圾回复吗？",
-        "category": "AI 动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "emollick",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Ethan Mollick · @emollick",
-        "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2111183137011077220",
-        "aggregateUrl": "https://aihot.news/items/z4getpr1u6f1gc0hldga7c7mt",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-16T19:50:58.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Ethan Mollick",
-              "asset": "/assets/identities/emollick.jpg",
-              "assetSource": "https://x.com/emollick",
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "AI 动态",
-          "author": {
-            "name": "Ethan Mollick",
-            "asset": "/assets/identities/emollick.jpg",
-            "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-f0yzjrx1pzqszszjhme85k5es",
-        "title": "Vercel 开发者可在 AI Gateway 使用 Perplexity Decider",
-        "brief": "Vercel 开发者现在可以在 AI Gateway 上使用 Perplexity Decider！",
-        "summary": "Vercel 开发者现在可以在 AI Gateway 上使用 Perplexity Decider！",
-        "category": "产品动态",
+        "id": "aihot-zg8l7rnj464amx3hz7wjsxe4g",
+        "title": "Perplexity Decider Flash 可端侧运行",
+        "brief": "Perplexity Decider Flash 相当不错，运行速度极快，还能在你的 M4 Mac 16GB 上端侧运行。",
+        "summary": "Perplexity Decider Flash 相当不错，运行速度极快，还能在你的 M4 Mac 16GB 上端侧运行。",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -231,10 +194,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2111266278610743595",
-        "aggregateUrl": "https://aihot.news/items/f0yzjrx1pzqszszjhme85k5es",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2111550342425141529",
+        "aggregateUrl": "https://aihot.news/items/zg8l7rnj464amx3hz7wjsxe4g",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-17T01:21:20.000Z",
+        "publishedAt": "2026-10-17T20:10:06.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -246,7 +209,7 @@
               "tone": "#dcebea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "模型进展",
           "author": {
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
@@ -340,7 +303,7 @@
         "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
         "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
         "sourceCount": 15,
-        "participantCount": 45,
+        "participantCount": 46,
         "latestAt": "2026-10-17T17:31:24.000Z",
         "expanded": true,
         "latest": "Yuchen Jin 称 DeepSeek-V4.1-Flash-1017 以 1/83 成本达到 Opus 5 级编码表现",
@@ -390,7 +353,7 @@
         "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
         "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
         "sourceCount": 7,
-        "participantCount": 49,
+        "participantCount": 48,
         "latestAt": "2026-10-17T14:15:29.000Z",
         "expanded": true,
         "latest": "Meta 开源权重模型竞争力展望",
@@ -681,8 +644,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-17T19:11:58.039Z",
-    "nextCheckAt": 1792264618039,
+    "checkedAt": "2026-10-17T21:30:32.651Z",
+    "nextCheckAt": 1792272932651,
     "intervalSeconds": 300,
     "message": ""
   }

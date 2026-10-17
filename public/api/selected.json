@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-17T19:12:10.213Z",
+  "checkedAt": "2026-10-17T21:30:48.273Z",
   "message": "",
   "categories": [
     {
@@ -107,34 +107,6 @@
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "oetmf0o04av0c4h7yrgfkb4zc",
-      "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
-      "reason": "调查用同一框架量化公众与前沿实验室员工对 AI 能力、生产率和失业预期的差距，数据可用于校准自己的判断。",
-      "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
-      "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "ckrtcqc9dnngil5ev7m60ns4v",
-      "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
-      "reason": "原文由当事团队完整复盘 Claude 如何破解 NIST 曲线种子的来源，附可复现代码，读者能据此理解破解思路与结论。",
-      "summary": "Anthropic 团队让内部研究模型在不到半小时内发现 NIST P-192、P-224、P-256、P-384、P-521 等曲线种子的来源：它们并非哈希结果，而是以 Unix 时间戳初始化的 C 库 lrand48 随机数生成器的输出，例如 P-256 需要 1842 次迭代。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "aihotUrl": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
       "unselected": false
     }
   ],
