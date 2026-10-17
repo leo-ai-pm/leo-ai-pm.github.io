@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-17T21:30:24.675Z",
-      "lastSuccessAt": "2026-10-17T21:30:24.675Z",
-      "nextCheckAt": 1792276224675,
+      "checkedAt": "2026-10-17T23:20:35.104Z",
+      "lastSuccessAt": "2026-10-17T23:20:35.104Z",
+      "nextCheckAt": 1792282835104,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -25,9 +25,9 @@
     {
       "id": "woshipm",
       "status": "ok",
-      "nextCheckAt": 1792276224677,
-      "checkedAt": "2026-10-17T21:30:24.677Z",
-      "lastSuccessAt": "2026-10-17T21:30:24.677Z",
+      "nextCheckAt": 1792282835105,
+      "checkedAt": "2026-10-17T23:20:35.105Z",
+      "lastSuccessAt": "2026-10-17T23:20:35.105Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-17T21:30:24.678Z",
-      "lastSuccessAt": "2026-10-17T21:30:24.678Z",
-      "nextCheckAt": 1792276224678,
+      "checkedAt": "2026-10-17T23:20:35.106Z",
+      "lastSuccessAt": "2026-10-17T23:20:35.106Z",
+      "nextCheckAt": 1792282835106,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792276224904,
-      "checkedAt": "2026-10-17T21:30:24.904Z",
-      "lastSuccessAt": "2026-10-17T21:30:24.904Z",
+      "nextCheckAt": 1792282835277,
+      "checkedAt": "2026-10-17T23:20:35.277Z",
+      "lastSuccessAt": "2026-10-17T23:20:35.277Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792276224675,
+  "nextCheckAt": 1792282835104,
   "refreshing": false,
   "items": [
     {
@@ -254,15 +254,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/parallax-5",
-      "title": "Parallax",
-      "summary": "Every coding agent you run, in one place.",
-      "publishedAt": "2026-10-15T19:25:02.000Z",
-      "url": "https://www.producthunt.com/products/parallax-5",
+      "id": "ph:https://www.producthunt.com/products/toad-4",
+      "title": "Toad",
+      "summary": "Point your agent at any machine you own.",
+      "publishedAt": "2026-10-15T16:36:36.000Z",
+      "url": "https://www.producthunt.com/products/toad-4",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/parallax-5",
+      "sourceUrl": "https://www.producthunt.com/products/toad-4",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Every coding agent you run, in one place.",
+      "brief": "Point your agent at any machine you own.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

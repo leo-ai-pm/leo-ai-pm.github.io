@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月18日",
     "demo": false,
-    "updatedAt": "2026-10-17T21:30:32.651Z",
+    "updatedAt": "2026-10-17T23:20:46.152Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 135,
+      "received": 123,
       "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 4,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 4,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -145,22 +145,22 @@
     },
     "items": [
       {
-        "id": "aihot-cvptn8xtc9y6m72e983lrhrv2",
-        "title": "OpenAI员工用AI智能体处理税务",
-        "brief": "我的工作邮箱\"Burger\"应我私人邮箱\"Dorito\"的请求，通过邮件与它协调获取文件，随后又与我的注册会计师协调，完成了一些税务申报事宜。",
-        "summary": "我的工作邮箱\"Burger\"应我私人邮箱\"Dorito\"的请求，通过邮件与它协调获取文件，随后又与我的注册会计师协调，完成了一些税务申报事宜。",
-        "category": "实践与观点",
-        "topic": "Agent",
+        "id": "aihot-ylouc75akywlbx6bs05t8e8qf",
+        "title": "OpenAI 的 Tibo 推文：Done",
+        "brief": "完成",
+        "summary": "完成",
+        "category": "产品动态",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "thsottiaux",
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2111495392559067199",
-        "aggregateUrl": "https://aihot.news/items/cvptn8xtc9y6m72e983lrhrv2",
+        "sourceUrl": "https://x.com/thsottiaux/status/2111566005684289735",
+        "aggregateUrl": "https://aihot.news/items/ylouc75akywlbx6bs05t8e8qf",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-17T16:31:45.000Z",
+        "publishedAt": "2026-10-17T21:12:21.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -172,7 +172,7 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "实践与观点",
+          "caption": "产品动态",
           "author": {
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
@@ -303,7 +303,7 @@
         "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
         "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
         "sourceCount": 15,
-        "participantCount": 46,
+        "participantCount": 47,
         "latestAt": "2026-10-17T17:31:24.000Z",
         "expanded": true,
         "latest": "Yuchen Jin 称 DeepSeek-V4.1-Flash-1017 以 1/83 成本达到 Opus 5 级编码表现",
@@ -352,8 +352,8 @@
         "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
         "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
         "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
-        "sourceCount": 7,
-        "participantCount": 48,
+        "sourceCount": 5,
+        "participantCount": 41,
         "latestAt": "2026-10-17T14:15:29.000Z",
         "expanded": true,
         "latest": "Meta 开源权重模型竞争力展望",
@@ -396,6 +396,84 @@
       },
       {
         "rank": 3,
+        "id": "i06hfb4sg84wb8r2k15awogk3",
+        "title": "OpenCode 遭攻击，Anthropic 撤销受影响密钥",
+        "sourceName": "X：Testing Catalog (@testingcatalog)",
+        "sourceUrl": "https://x.com/testingcatalog/status/2111536604351246541",
+        "aihotUrl": "https://aihot.news/items/i06hfb4sg84wb8r2k15awogk3",
+        "storyUrl": "https://aihot.news/story/c3562486-19f9-44c5-9544-c3af3e3d43c5",
+        "sourceCount": 4,
+        "participantCount": 9,
+        "latestAt": "2026-10-17T21:04:12.000Z",
+        "expanded": true,
+        "latest": "Anthropic 就 OpenCode 安全泄露事件撤销受影响的 Claude API 密钥",
+        "reports": [
+          {
+            "title": "Anthropic 就 OpenCode 安全泄露事件撤销受影响的 Claude API 密钥",
+            "sourceName": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+            "sourceUrl": "https://x.com/lydiahallie/status/2111563956666110287",
+            "aihotUrl": "https://aihot.news/items/l77k5lljwa77u0w19gsgesqq0",
+            "publishedAt": "2026-10-17T21:04:12.000Z"
+          },
+          {
+            "title": "Nathan Lambert 质疑 OpenCode 事件中蒸馏一词被滥用",
+            "sourceName": "X：Nathan Lambert (@natolambert)",
+            "sourceUrl": "https://x.com/natolambert/status/2111549984373911572",
+            "aihotUrl": "https://aihot.news/items/uzg9o5b0me9km50ailo7avrqw",
+            "publishedAt": "2026-10-17T20:08:41.000Z"
+          },
+          {
+            "title": "OpenCode 官方通报大规模蒸馏攻击，1.4% Console 用户受影响",
+            "sourceName": "X：Testing Catalog (@testingcatalog)",
+            "sourceUrl": "https://x.com/testingcatalog/status/2111536604351246541",
+            "aihotUrl": "https://aihot.news/items/i06hfb4sg84wb8r2k15awogk3",
+            "publishedAt": "2026-10-17T19:15:31.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 4,
+        "id": "rq32az1hr7zpbipiyega9ehjr",
+        "title": "NVIDIA RTX Spark 笔记本开售，起价说法不一",
+        "sourceName": "NVIDIA：Newsroom（RSS）",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+        "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
+        "sourceCount": 6,
+        "participantCount": 16,
+        "latestAt": "2026-10-17T21:00:13.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
         "id": "p11tj593iq5nrtiotvoxllop4",
         "title": "商务部拟增列23项AI技术出口管制并答问",
         "sourceName": "IT之家·人工智能",
@@ -405,31 +483,9 @@
         "sourceCount": 5,
         "participantCount": 19,
         "latestAt": "2026-10-17T01:30:54.000Z",
-        "expanded": true,
-        "latest": "商务部科技部第48号公告拟管制AI技术出口，开源模型出口豁免与合规路径解读",
-        "reports": [
-          {
-            "title": "商务部科技部第48号公告拟管制AI技术出口，开源模型出口豁免与合规路径解读",
-            "sourceName": "X：邵猛 (@shao__meng)",
-            "sourceUrl": "https://x.com/shao__meng/status/2111268686103494921",
-            "aihotUrl": "https://aihot.news/items/rbi4unk6fp9zlmhz25wuwlad3",
-            "publishedAt": "2026-10-17T01:30:54.000Z"
-          },
-          {
-            "title": "中国拟将 40 项技术纳入出口限制目录，其中 23 项涉及大模型、AI 智能体等 AI 领域",
-            "sourceName": "X：X.PIN (@thexpin)",
-            "sourceUrl": "https://x.com/thexpin/status/2111160066430685325",
-            "aihotUrl": "https://aihot.news/items/juq556bxl7gsik9ay0sp65hha",
-            "publishedAt": "2026-10-16T18:19:17.000Z"
-          },
-          {
-            "title": "中国拟限制大模型权重及 23 项 AI 技术出口，开源发布可走快速许可",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
-            "aihotUrl": "https://aihot.news/items/d0cght53eynpgchp23ogard38",
-            "publishedAt": "2026-10-16T17:42:47.000Z"
-          }
-        ],
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -445,7 +501,7 @@
         }
       },
       {
-        "rank": 4,
+        "rank": 6,
         "id": "ckrtcqc9dnngil5ev7m60ns4v",
         "title": "Claude 查明 NIST 椭圆曲线种子来源",
         "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -466,62 +522,6 @@
               "asset": "/assets/identities/anthropicai.jpg",
               "assetSource": "https://x.com/AnthropicAI",
               "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
-        "id": "rq32az1hr7zpbipiyega9ehjr",
-        "title": "NVIDIA RTX Spark 笔记本开售，起价 2599 美元",
-        "sourceName": "NVIDIA：Newsroom（RSS）",
-        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
-        "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
-        "sourceCount": 6,
-        "participantCount": 15,
-        "latestAt": "2026-10-17T10:19:04.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
-        "id": "smxxtw5ca2c9jscojk4ppe5hf",
-        "title": "Google 发布 Gemini 4 Argon，付费用户独享",
-        "sourceName": "Google Blog：AI（RSS）",
-        "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-        "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
-        "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
-        "sourceCount": 3,
-        "participantCount": 18,
-        "latestAt": "2026-10-16T07:34:44.337Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -558,14 +558,42 @@
       },
       {
         "rank": 8,
+        "id": "smxxtw5ca2c9jscojk4ppe5hf",
+        "title": "Google 发布 Gemini 4 Argon，付费用户独享",
+        "sourceName": "Google Blog：AI（RSS）",
+        "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+        "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
+        "sourceCount": 3,
+        "participantCount": 16,
+        "latestAt": "2026-10-16T07:34:44.337Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
         "id": "bme0mytjnlk0d2lk8hf7srzoh",
         "title": "OpenAI 将 computer use 能力引入 Chrome",
         "sourceName": "X：ChatGPT (@ChatGPT)",
         "sourceUrl": "https://x.com/ChatGPT/status/2110823738531037651",
         "aihotUrl": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
         "storyUrl": "https://aihot.news/story/13025e80-d645-4abb-87c1-f3e5ce826c4d",
-        "sourceCount": 5,
-        "participantCount": 16,
+        "sourceCount": 3,
+        "participantCount": 14,
         "latestAt": "2026-10-17T00:31:53.593Z",
         "expanded": false,
         "latest": "",
@@ -585,44 +613,16 @@
         }
       },
       {
-        "rank": 9,
-        "id": "allv4n9g9lhfy72m1pg725apv",
-        "title": "Anthropic三季度收入168亿美元，增速放缓",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-        "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-        "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
-        "sourceCount": 1,
-        "participantCount": 14,
-        "latestAt": "2026-10-16T00:54:07.827Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 10,
-        "id": "qy7y0cfu1wbum1ej9urwylfxr",
-        "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
-        "sourceName": "Reflection Blog",
-        "sourceUrl": "https://reflection.ai/blog/introducing-beam",
-        "aihotUrl": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
-        "storyUrl": "https://aihot.news/story/553aab31-30b1-4787-bd62-3b006d83295e",
-        "sourceCount": 8,
-        "participantCount": 14,
-        "latestAt": "2026-10-16T18:30:03.000Z",
+        "id": "ew969eizz0eyqmitrz9g62chm",
+        "title": "Elorian 发布首个视觉推理模型 Glimpse",
+        "sourceName": "X：Testing Catalog (@testingcatalog)",
+        "sourceUrl": "https://x.com/testingcatalog/status/2111174690337177607",
+        "aihotUrl": "https://aihot.news/items/ew969eizz0eyqmitrz9g62chm",
+        "storyUrl": "https://aihot.news/story/d04da2cc-3656-4558-8c1a-a379c01b6dae",
+        "sourceCount": 4,
+        "participantCount": 10,
+        "latestAt": "2026-10-16T19:17:24.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -630,10 +630,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
+              "name": "X：Testing Catalog (@testingcatalog)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -644,8 +644,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-17T21:30:32.651Z",
-    "nextCheckAt": 1792272932651,
+    "checkedAt": "2026-10-17T23:20:46.152Z",
+    "nextCheckAt": 1792279546152,
     "intervalSeconds": 300,
     "message": ""
   }
