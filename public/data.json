@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月18日",
+  "date": "2026年10月19日",
   "demo": false,
-  "updatedAt": "2026-10-18T14:28:36.442Z",
+  "updatedAt": "2026-10-18T17:30:31.259Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 108,
-    "latestCount": 3,
+    "received": 96,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 3,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -137,17 +137,17 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-ylouc75akywlbx6bs05t8e8qf",
-      "title": "OpenAI 的 Tibo 推文：Done",
-      "brief": "完成",
-      "summary": "完成",
+      "id": "aihot-pcwbscohqy9tfq53w8i0ddmu0",
+      "title": "OpenAI 今日动态预告",
+      "brief": "今天在搞什么",
+      "summary": "今天在搞什么",
       "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -156,10 +156,10 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2111566005684289735",
-      "aggregateUrl": "https://aihot.news/items/ylouc75akywlbx6bs05t8e8qf",
+      "sourceUrl": "https://x.com/thsottiaux/status/2111849858374177222",
+      "aggregateUrl": "https://aihot.news/items/pcwbscohqy9tfq53w8i0ddmu0",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-17T21:12:21.000Z",
+      "publishedAt": "2026-10-18T16:00:17.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -181,34 +181,34 @@
       }
     },
     {
-      "id": "aihot-d6dq3yet9he6as49w4qichoje",
-      "title": "Fable 5.1 将博尔赫斯短篇做成 3D",
-      "brief": "Fable 5.1：“把博尔赫斯的短篇小说实现出来。",
-      "summary": "Fable 5.1：“把博尔赫斯的短篇小说实现出来。",
-      "category": "实践与观点",
-      "topic": "AI 产品",
+      "id": "aihot-y0fnbma27t3o4bikgejjl29m1",
+      "title": "Ethan Mollick 评多家平台封锁 AI Agent：这种策略在 Agent 时代难以持久",
+      "brief": "Ethan Mollick 转发并评论一份汇总：Delta 阻止 AI Agent 订机票，JPMorgan Chase 和 Charles Schwab 阻止 Agent 访问账户，Yelp 要求 Agent 付费数据授权，Amazon 已屏蔽 Grok bot 等购物 Agent。",
+      "summary": "Ethan Mollick 转发并评论一份汇总：Delta 阻止 AI Agent 订机票，JPMorgan Chase 和 Charles Schwab 阻止 Agent 访问账户，Yelp 要求 Agent 付费数据授权，Amazon 已屏蔽 Grok bot 等购物 Agent。",
+      "category": "AI 动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "emollick",
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2111700285814940159",
-      "aggregateUrl": "https://aihot.news/items/d6dq3yet9he6as49w4qichoje",
+      "sourceUrl": "https://x.com/emollick/status/2111858791939772731",
+      "aggregateUrl": "https://aihot.news/items/y0fnbma27t3o4bikgejjl29m1",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-18T06:05:56.000Z",
+      "publishedAt": "2026-10-18T16:35:47.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "AI 动态",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -218,11 +218,11 @@
       }
     },
     {
-      "id": "aihot-zg8l7rnj464amx3hz7wjsxe4g",
-      "title": "Perplexity Decider Flash 可端侧运行",
-      "brief": "Perplexity Decider Flash 相当不错，运行速度极快，还能在你的 M4 Mac 16GB 上端侧运行。",
-      "summary": "Perplexity Decider Flash 相当不错，运行速度极快，还能在你的 M4 Mac 16GB 上端侧运行。",
-      "category": "模型进展",
+      "id": "aihot-me71ywvn44806mn0g22bly558",
+      "title": "Perplexity Computer 打造赛博朋克浏览器游戏",
+      "brief": "由 Perplexity Computer 打造的赛博朋克风格 Roadster 自由漫游浏览器游戏：https://2049.pplx.app",
+      "summary": "由 Perplexity Computer 打造的赛博朋克风格 Roadster 自由漫游浏览器游戏：https://2049.pplx.app",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -230,10 +230,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2111550342425141529",
-      "aggregateUrl": "https://aihot.news/items/zg8l7rnj464amx3hz7wjsxe4g",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2111850132669075696",
+      "aggregateUrl": "https://aihot.news/items/me71ywvn44806mn0g22bly558",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-17T20:10:06.000Z",
+      "publishedAt": "2026-10-18T16:01:22.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -245,11 +245,54 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-jp3nr5sudg2xsnry3rc36jelk",
+      "title": "Thomas Wolf 估算 Hugging Face Hub 开源模型共享训练算力已近 $1B",
+      "brief": "Hugging Face 联创 Thomas Wolf 用 napkin math 估算，Meta、NVIDIA、阿里、DeepSeek、Moonshot、Mistral 等约 35 家机构已在 Hugging Face Hub 免费共享价值近 $1B 的训练算力（按当前 GPU 租用价折算），而 2023 年底这一数字还不到 $40M。",
+      "summary": "Hugging Face 联创 Thomas Wolf 用 napkin math 估算，Meta、NVIDIA、阿里、DeepSeek、Moonshot、Mistral 等约 35 家机构已在 Hugging Face Hub 免费共享价值近 $1B 的训练算力（按当前 GPU 租用价折算），而 2023 年底这一数字还不到 $40M。",
+      "category": "AI 动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2111856722553831489",
+      "aggregateUrl": "https://aihot.news/items/jp3nr5sudg2xsnry3rc36jelk",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-18T16:27:33.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Thomas Wolf",
+            "asset": "/assets/identities/thom_wolf.jpg",
+            "assetSource": "https://x.com/Thom_Wolf",
+            "tone": "#e9e4dc"
+          },
+          {
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
+          }
+        ],
+        "caption": "AI 动态",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
@@ -459,42 +502,14 @@
     },
     {
       "rank": 4,
-      "id": "rq32az1hr7zpbipiyega9ehjr",
-      "title": "NVIDIA RTX Spark 笔记本开售，起价说法不一",
-      "sourceName": "NVIDIA：Newsroom（RSS）",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
-      "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
-      "sourceCount": 6,
-      "participantCount": 14,
-      "latestAt": "2026-10-18T02:04:38.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "x7hxr1lvyddc8hrbrugfx4uyg",
       "title": "DeepSeek开放自研搜索API并按次计费",
       "sourceName": "DeepSeek：API 更新日志",
       "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
       "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
       "storyUrl": "https://aihot.news/story/e4dc2fdc-f282-4822-99ea-8562b2a2d07a",
-      "sourceCount": 2,
-      "participantCount": 10,
+      "sourceCount": 1,
+      "participantCount": 9,
       "latestAt": "2026-10-18T11:59:52.953Z",
       "expanded": false,
       "latest": "",
@@ -514,7 +529,63 @@
       }
     },
     {
+      "rank": 5,
+      "id": "rq32az1hr7zpbipiyega9ehjr",
+      "title": "NVIDIA RTX Spark 笔记本开售，起价说法不一",
+      "sourceName": "NVIDIA：Newsroom（RSS）",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+      "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
+      "sourceCount": 5,
+      "participantCount": 12,
+      "latestAt": "2026-10-18T02:04:38.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 6,
+      "id": "bhawxaabotw0ecxenp7uujfbo",
+      "title": "OpenAI API短暂出现三个aurora模型引用后移除",
+      "sourceName": "X：Testing Catalog (@testingcatalog)",
+      "sourceUrl": "https://x.com/testingcatalog/status/2111724606927028578",
+      "aihotUrl": "https://aihot.news/items/bhawxaabotw0ecxenp7uujfbo",
+      "storyUrl": "https://aihot.news/story/62564feb-43f0-4dcd-839a-23c34cd854a4",
+      "sourceCount": 1,
+      "participantCount": 8,
+      "latestAt": "2026-10-18T07:42:34.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "zdr1iocr9utx4dpu6qqhfj6r6",
       "title": "微软终止与Nscale数据中心合作",
       "sourceName": "IT之家·人工智能",
@@ -542,16 +613,16 @@
       }
     },
     {
-      "rank": 7,
-      "id": "bhawxaabotw0ecxenp7uujfbo",
-      "title": "OpenAI API短暂出现三个aurora模型引用后移除",
-      "sourceName": "X：Testing Catalog (@testingcatalog)",
-      "sourceUrl": "https://x.com/testingcatalog/status/2111724606927028578",
-      "aihotUrl": "https://aihot.news/items/bhawxaabotw0ecxenp7uujfbo",
-      "storyUrl": "https://aihot.news/story/62564feb-43f0-4dcd-839a-23c34cd854a4",
+      "rank": 8,
+      "id": "v5eu5y82xm0p72lcmumgbzis4",
+      "title": "我国首个全国产十万卡AI超集群真机亮相",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/014/456.htm",
+      "aihotUrl": "https://aihot.news/items/v5eu5y82xm0p72lcmumgbzis4",
+      "storyUrl": "https://aihot.news/story/55ac5afb-c949-4128-8fee-b0f02d4440cf",
       "sourceCount": 1,
-      "participantCount": 7,
-      "latestAt": "2026-10-18T07:42:34.000Z",
+      "participantCount": 6,
+      "latestAt": "2026-10-18T02:06:43.060Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -559,10 +630,10 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
@@ -570,7 +641,35 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "dx71nlu9cfqru07lmiqaiqu9d",
+      "title": "Google Research 开源 Harness² 智能体优化框架",
+      "sourceName": "MarkTechPost（RSS）",
+      "sourceUrl": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "aihotUrl": "https://aihot.news/items/dx71nlu9cfqru07lmiqaiqu9d",
+      "storyUrl": "https://aihot.news/story/f39d32a1-c72e-4310-b8d5-d7ab5345c6d1",
+      "sourceCount": 2,
+      "participantCount": 6,
+      "latestAt": "2026-10-18T08:15:04.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "ckrtcqc9dnngil5ev7m60ns4v",
       "title": "Claude 查明 NIST 椭圆曲线种子来源",
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -591,62 +690,6 @@
             "asset": "/assets/identities/anthropicai.jpg",
             "assetSource": "https://x.com/AnthropicAI",
             "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "noioo6ectkhpxnngwsnks37vv",
-      "title": "Anthropic 联创称 AI 到 2030 年可推高美国 GDP 近 50%",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/014/483.htm",
-      "aihotUrl": "https://aihot.news/items/noioo6ectkhpxnngwsnks37vv",
-      "storyUrl": "https://aihot.news/story/415f8e37-5dad-489c-a6e0-2606ac179820",
-      "sourceCount": 1,
-      "participantCount": 6,
-      "latestAt": "2026-10-18T04:27:27.713Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "s80tw5g2v22j1se4bmqejyaq4",
-      "title": "Meta 开源 816B 模型 Muse Spark Open，Apple 演示 Mac Studio 本地运行",
-      "sourceName": "PyTorch：Blog（RSS）",
-      "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
-      "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
-      "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
-      "sourceCount": 2,
-      "participantCount": 11,
-      "latestAt": "2026-10-17T14:15:29.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "PyTorch：Blog（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",

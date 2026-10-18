@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-18T14:28:59.959Z",
+  "checkedAt": "2026-10-18T17:30:49.148Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "w3vpc68lufgj57zcy1hd38a60",
+      "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+      "reason": "原文系统拆解浏览器智能体的组成、运行循环与选型边界，并用自家云端使用数据说明典型场景、成本风险与起步方法。",
+      "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+      "sourceName": "Browser Use",
+      "sourceUrl": "https://browser-use.com/posts/browser-agents",
+      "aihotUrl": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+      "publishedAt": "2026-10-18T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "bbr25r9mbi8zbbtmu2uiati7f",
       "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
@@ -518,6 +532,20 @@
       "unselected": false
     },
     {
+      "id": "w3vpc68lufgj57zcy1hd38a60",
+      "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+      "reason": "原文系统拆解浏览器智能体的组成、运行循环与选型边界，并用自家云端使用数据说明典型场景、成本风险与起步方法。",
+      "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+      "sourceName": "Browser Use",
+      "sourceUrl": "https://browser-use.com/posts/browser-agents",
+      "aihotUrl": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+      "publishedAt": "2026-10-18T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "i8vi0763u7lz34lkoagoh0agt",
       "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
       "reason": "作者亲测 RTX Spark 上的本地模型部署路径，并把整套流程封装成 WorkBuddy 专家，读者可以照着复现本地 Token 自由的用法。",
@@ -614,20 +642,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "ojpe4mr67tjbrt5atyi6hyapl",
-      "title": "Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check",
-      "reason": "原文给出从 CUJ 定义到 CI/CD 门禁的完整智能体评测流程，可用 agent-eval 工具包直接复现，避开四个常见评测陷阱。",
-      "summary": "Google Developers Blog 发布智能体评测实践指南，指出仅靠终端跑几个提示词的 vibe check 无法发现智能体重试循环、工具参数幻觉等隐性失败。",
-      "sourceName": "Google Developers Blog（RSS）",
-      "sourceUrl": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
-      "aihotUrl": "https://aihot.news/items/ojpe4mr67tjbrt5atyi6hyapl",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -637,6 +651,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "w3vpc68lufgj57zcy1hd38a60",
+          "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+          "reason": "原文系统拆解浏览器智能体的组成、运行循环与选型边界，并用自家云端使用数据说明典型场景、成本风险与起步方法。",
+          "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+          "sourceName": "Browser Use",
+          "sourceUrl": "https://browser-use.com/posts/browser-agents",
+          "aihotUrl": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+          "publishedAt": "2026-10-18T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "c7pt5mbzh5h0atlbprfzbs8o0",
           "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
@@ -705,20 +733,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "oetmf0o04av0c4h7yrgfkb4zc",
-          "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
-          "reason": "调查用同一框架量化公众与前沿实验室员工对 AI 能力、生产率和失业预期的差距，数据可用于校准自己的判断。",
-          "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
-          "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
-          "publishedAt": "2026-10-15T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
@@ -822,6 +836,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "w3vpc68lufgj57zcy1hd38a60",
+          "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+          "reason": "原文系统拆解浏览器智能体的组成、运行循环与选型边界，并用自家云端使用数据说明典型场景、成本风险与起步方法。",
+          "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+          "sourceName": "Browser Use",
+          "sourceUrl": "https://browser-use.com/posts/browser-agents",
+          "aihotUrl": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+          "publishedAt": "2026-10-18T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "nextj30ehkdcjpzpk4fgz1p1w",
           "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
           "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
@@ -889,20 +917,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "ug7g6psicfobnnft0ebgpyl10",
-          "title": "NVIDIA RTX Spark 笔记本 10 月 16 日上市，生态伙伴同步推出本地 AI 软件更新",
-          "reason": "官方汇总了 RTX Spark 上市前的软件生态准备，从本地 Agent、创意应用到开发工具和 DLSS 5，读者可据此了解平台落地细节。",
-          "summary": "NVIDIA 官宣 RTX Spark 笔记本将于 10 月 16 日发售，配合发布推出覆盖 Agent、创意和开发工具的软件更新，该超芯片具备最高 128GB 统一内存和 1 petaflop AI 算力。",
-          "sourceName": "NVIDIA Blog（RSS）",
-          "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-          "aihotUrl": "https://aihot.news/items/ug7g6psicfobnnft0ebgpyl10",
-          "publishedAt": "2026-10-13T12:00:49.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
