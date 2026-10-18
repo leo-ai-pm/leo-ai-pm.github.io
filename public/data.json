@@ -1,7 +1,7 @@
 {
   "date": "2026年10月19日",
   "demo": false,
-  "updatedAt": "2026-10-18T21:48:23.437Z",
+  "updatedAt": "2026-10-18T23:43:23.064Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 100,
+    "received": 104,
     "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 6,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -137,7 +137,7 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 1,
+        "matched": 3,
         "status": "本次收录"
       }
     ]
@@ -255,10 +255,10 @@
       }
     },
     {
-      "id": "aihot-jp3nr5sudg2xsnry3rc36jelk",
-      "title": "Thomas Wolf 估算 Hugging Face Hub 开源模型共享训练算力已近 $1B",
-      "brief": "Hugging Face 联创 Thomas Wolf 用 napkin math 估算，Meta、NVIDIA、阿里、DeepSeek、Moonshot、Mistral 等约 35 家机构已在 Hugging Face Hub 免费共享价值近 $1B 的训练算力（按当前 GPU 租用价折算），而 2023 年底这一数字还不到 $40M。",
-      "summary": "Hugging Face 联创 Thomas Wolf 用 napkin math 估算，Meta、NVIDIA、阿里、DeepSeek、Moonshot、Mistral 等约 35 家机构已在 Hugging Face Hub 免费共享价值近 $1B 的训练算力（按当前 GPU 租用价折算），而 2023 年底这一数字还不到 $40M。",
+      "id": "aihot-ap7kqmmlooykl1mgzllimu52q",
+      "title": "Hugging Face 上衍生模型最多的是 FLUX.1-dev",
+      "brief": "Hugging Face Hub 上被二次开发最多的模型不是 Llama 也不是 Qwen。",
+      "summary": "Hugging Face Hub 上被二次开发最多的模型不是 Llama 也不是 Qwen。",
       "category": "AI 动态",
       "topic": "AI 产品",
       "priority": "normal",
@@ -267,20 +267,14 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Thomas Wolf · @Thom_Wolf",
       "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2111856722553831489",
-      "aggregateUrl": "https://aihot.news/items/jp3nr5sudg2xsnry3rc36jelk",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2111960585369772163",
+      "aggregateUrl": "https://aihot.news/items/ap7kqmmlooykl1mgzllimu52q",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-18T16:27:33.000Z",
+      "publishedAt": "2026-10-18T23:20:16.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
-          {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
-            "tone": "#e9e4dc"
-          },
           {
             "name": "Hugging Face",
             "asset": "/assets/identities/huggingface.jpg",
@@ -345,7 +339,7 @@
       "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
       "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
       "sourceCount": 16,
-      "participantCount": 56,
+      "participantCount": 57,
       "latestAt": "2026-10-18T18:56:03.000Z",
       "expanded": true,
       "latest": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
@@ -443,6 +437,49 @@
     },
     {
       "rank": 3,
+      "id": "eg3kb6utc3fzmkjqyxdi4i92b",
+      "title": "Anthropic设公益基金 承诺投入5%股份",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund",
+      "aihotUrl": "https://aihot.news/items/eg3kb6utc3fzmkjqyxdi4i92b",
+      "storyUrl": "https://aihot.news/story/66a54812-6ab2-4206-8573-aaa6ccfc8532",
+      "sourceCount": 2,
+      "participantCount": 8,
+      "latestAt": "2026-10-18T20:37:40.000Z",
+      "expanded": true,
+      "latest": "Anthropic 承诺将 5% 股份投入新设的公益基金",
+      "reports": [
+        {
+          "title": "Anthropic 承诺将 5% 股份投入新设的公益基金",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "aihotUrl": "https://aihot.news/items/ql05agr2y1el1a6ei1yyvboe7",
+          "publishedAt": "2026-10-18T20:37:40.000Z"
+        },
+        {
+          "title": "Anthropic 设立 Public Benefit Fund 承诺投入 5% 股份并随估值增长递增",
+          "sourceName": "Anthropic：Newsroom（网页）",
+          "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund",
+          "aihotUrl": "https://aihot.news/items/eg3kb6utc3fzmkjqyxdi4i92b",
+          "publishedAt": "2026-10-17T16:00:00.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "x7hxr1lvyddc8hrbrugfx4uyg",
       "title": "DeepSeek开放自研搜索API并按次计费",
       "sourceName": "DeepSeek：API 更新日志",
@@ -452,24 +489,9 @@
       "sourceCount": 1,
       "participantCount": 10,
       "latestAt": "2026-10-18T11:59:52.953Z",
-      "expanded": true,
-      "latest": "DeepSeek API 支持网页搜索与抓取，每 1000 次成功请求 5 元",
-      "reports": [
-        {
-          "title": "DeepSeek API 支持网页搜索与抓取，每 1000 次成功请求 5 元",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/014/587.htm",
-          "aihotUrl": "https://aihot.news/items/er3xh4ssabjvhxp03wv8ajg31",
-          "publishedAt": "2026-10-18T11:59:52.953Z"
-        },
-        {
-          "title": "DeepSeek 开放自研搜索 API",
-          "sourceName": "DeepSeek：API 更新日志",
-          "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
-          "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
-          "publishedAt": "2026-10-16T16:00:00.000Z"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -478,34 +500,6 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 4,
-      "id": "oetmf0o04av0c4h7yrgfkb4zc",
-      "title": "Anthropic 发布内部 AI 经济影响研究",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
-      "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
-      "storyUrl": "https://aihot.news/story/4e5cc287-abde-4b0e-acf2-1ef380210117",
-      "sourceCount": 4,
-      "participantCount": 12,
-      "latestAt": "2026-10-18T06:27:48.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
@@ -570,15 +564,15 @@
     },
     {
       "rank": 7,
-      "id": "eg3kb6utc3fzmkjqyxdi4i92b",
-      "title": "Anthropic设公益基金 承诺投入5%股份",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund",
-      "aihotUrl": "https://aihot.news/items/eg3kb6utc3fzmkjqyxdi4i92b",
-      "storyUrl": "https://aihot.news/story/66a54812-6ab2-4206-8573-aaa6ccfc8532",
-      "sourceCount": 2,
-      "participantCount": 6,
-      "latestAt": "2026-10-18T20:37:40.000Z",
+      "id": "oetmf0o04av0c4h7yrgfkb4zc",
+      "title": "Anthropic 发布内部 AI 经济影响研究",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+      "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+      "storyUrl": "https://aihot.news/story/4e5cc287-abde-4b0e-acf2-1ef380210117",
+      "sourceCount": 4,
+      "participantCount": 10,
+      "latestAt": "2026-10-18T06:27:48.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
