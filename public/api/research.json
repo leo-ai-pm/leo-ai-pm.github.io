@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-18T05:59:48.602Z",
-      "lastSuccessAt": "2026-10-18T05:59:48.602Z",
-      "nextCheckAt": 1792306788602,
+      "checkedAt": "2026-10-18T10:52:48.014Z",
+      "lastSuccessAt": "2026-10-18T10:52:48.014Z",
+      "nextCheckAt": 1792324368014,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-18T05:59:48.603Z",
-      "lastSuccessAt": "2026-10-18T05:59:48.603Z",
-      "nextCheckAt": 1792306788603,
+      "checkedAt": "2026-10-18T10:52:48.015Z",
+      "lastSuccessAt": "2026-10-18T10:52:48.015Z",
+      "nextCheckAt": 1792324368015,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-18T05:59:48.604Z",
-      "lastSuccessAt": "2026-10-18T05:59:48.604Z",
-      "nextCheckAt": 1792306788604,
+      "checkedAt": "2026-10-18T10:52:48.016Z",
+      "lastSuccessAt": "2026-10-18T10:52:48.016Z",
+      "nextCheckAt": 1792324368016,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792306788901,
-      "checkedAt": "2026-10-18T05:59:48.901Z",
-      "lastSuccessAt": "2026-10-18T05:59:48.901Z",
+      "nextCheckAt": 1792324368247,
+      "checkedAt": "2026-10-18T10:52:48.247Z",
+      "lastSuccessAt": "2026-10-18T10:52:48.247Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,90 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792306788602,
+  "nextCheckAt": 1792324368014,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6480115.html",
+      "title": "Anthropic工程师亲写：怎样把模型用出“超乎想象”程度？",
+      "summary": "大多数人只把 AI 当聊天工具，输入问题、拿到答案，却从未真正挖掘它的潜力。Anthropic 工程师亲授一套方法：从提问高度、挖掘深度到拓展广度，三步调试就能让模型输出远超预期。本文拆解这套方法论，帮你看懂如何把 AI 用出真正的专业水准。 很多人对AI的应用，仅仅只是把它当做一个聊天工具。 知道它速度很快，一个输入进去，一个答案出来。 但最近Anthropic工程师亲写的一份文档告诉大家，AI不仅仅只有速度，还有高度、深度和广度，通",
+      "publishedAt": "2026-10-18T08:12:25.000Z",
+      "url": "https://www.woshipm.com/ai/6480115.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6480115.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "大多数人只把 AI 当聊天工具，输入问题、拿到答案，却从未真正挖掘它的潜力。Anthropic 工程师亲授一套方法：从提问高度、挖掘深度到拓展广度，三步调试就能让模型输出远超预期。本文拆解这套方法论，帮你看懂如何把 AI 用出真正的专业水准。 很多人对AI的应用，仅仅只是把它当做一个聊天工具。 知道它速度很快，一个输入进去，一个答案出来。 但最近Anthropic工程师亲写的一份文档告诉大家，AI不仅仅只有速度，还有高度、深度和广度，通",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6480028.html",
+      "title": "AI产品需求怎么写？从“功能描述”改成“任务和结果”",
+      "summary": "当AI客服需求遇上退款场景，产品经理如何避免“支持退款咨询”沦为一句空话？本文作者拉着客服一起写PRD，从一笔订单的查询、解释到转人工，拆解AI需求中“哪些事不该模型管”的边界，并分享如何用真实咨询路径验证设计、用客服和测试的视角补全异常场景。 这个退款助手的需求，我是拉着客服一起写的。 让她挑一笔还在处理中的退款单，从用户点进订单页开始，把她平时的操作走一遍。打开客服后台看订单状态，翻支付记录，审核卡住的再给财务发消息问一句。中间她会",
+      "publishedAt": "2026-10-18T05:47:19.000Z",
+      "url": "https://www.woshipm.com/ai/6480028.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6480028.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "当AI客服需求遇上退款场景，产品经理如何避免“支持退款咨询”沦为一句空话？本文作者拉着客服一起写PRD，从一笔订单的查询、解释到转人工，拆解AI需求中“哪些事不该模型管”的边界，并分享如何用真实咨询路径验证设计、用客服和测试的视角补全异常场景。 这个退款助手的需求，我是拉着客服一起写的。 让她挑一笔还在处理中的退款单，从用户点进订单页开始，把她平时的操作走一遍。打开客服后台看订单状态，翻支付记录，审核卡住的再给财务发消息问一句。中间她会",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/share/6480046.html",
       "title": "一个垂直场景工具的产品设计复盘：公文处理助手的五层功能架构",
@@ -131,87 +212,87 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ucd/6478923.html",
-      "title": "iPhone Duo：AI 时代硬件产品体验的 5 个趋势！",
-      "summary": "苹果首款折叠 iPhone Duo 没有堆砌硬件，而是围绕 AI 时代的生产力需求重新定义折叠屏逻辑。文章借此拆解 AI 时代硬件产品的五个趋势，从多任务并行、AI Agent 接管工作流到信息界面的角色分工，探讨硬件如何为人与 AI 的协同腾出空间。 苹果终于交出了首款折叠 iPhone：iPhone Duo。在直板手机陷入创新瓶颈、AI Agent 开始接管多任务工作流的当下，折叠机早已不是单纯追赶竞品的形态补位。苹果没有堆砌花哨硬",
-      "publishedAt": "2026-10-18T03:40:00.000Z",
-      "url": "https://www.woshipm.com/ucd/6478923.html",
+      "id": "ph:https://www.producthunt.com/products/tomo-for-chatgpt",
+      "title": "Tomo for ChatGPT",
+      "summary": "Ask anything. Then play it, Duolingo-style.",
+      "publishedAt": "2026-10-17T10:14:13.000Z",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ucd/6478923.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "苹果首款折叠 iPhone Duo 没有堆砌硬件，而是围绕 AI 时代的生产力需求重新定义折叠屏逻辑。文章借此拆解 AI 时代硬件产品的五个趋势，从多任务并行、AI Agent 接管工作流到信息界面的角色分工，探讨硬件如何为人与 AI 的协同腾出空间。 苹果终于交出了首款折叠 iPhone：iPhone Duo。在直板手机陷入创新瓶颈、AI Agent 开始接管多任务工作流的当下，折叠机早已不是单纯追赶竞品的形态补位。苹果没有堆砌花哨硬",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Ask anything. Then play it, Duolingo-style.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/share/6478798.html",
-      "title": "PostNitro 的增长难题：让用户做完第一篇，还得让他回来做第二篇",
-      "summary": "做内容工具最难受的增长，是每天有人注册、每月收入却停在原地。PostNitro 的复盘里，月经常性收入刚过约 5000 美元，此前在 4300 美元附近停了五个月，月流失一度达 20%—23%。它想靠 Agents 版本，让用户做完第一篇还回来做第二篇。 做内容工具，有一种增长最让人难受：每天都有人注册，每个月还是挣差不多的钱。 PostNitro 经历过这个阶段。2026年3月前后的历史复盘里，它的月经常性收入刚突破约5000美元，此",
-      "publishedAt": "2026-10-18T02:38:22.000Z",
-      "url": "https://www.woshipm.com/share/6478798.html",
+      "id": "ph:https://www.producthunt.com/products/mylens-ai",
+      "title": "MyLens",
+      "summary": "1-1 Live Presentations at Scale with AI.",
+      "publishedAt": "2026-10-16T21:46:17.000Z",
+      "url": "https://www.producthunt.com/products/mylens-ai",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6478798.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "做内容工具最难受的增长，是每天有人注册、每月收入却停在原地。PostNitro 的复盘里，月经常性收入刚过约 5000 美元，此前在 4300 美元附近停了五个月，月流失一度达 20%—23%。它想靠 Agents 版本，让用户做完第一篇还回来做第二篇。 做内容工具，有一种增长最让人难受：每天都有人注册，每个月还是挣差不多的钱。 PostNitro 经历过这个阶段。2026年3月前后的历史复盘里，它的月经常性收入刚突破约5000美元，此",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/mylens-ai",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "1-1 Live Presentations at Scale with AI.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/enterprise-workflow-automation/",
@@ -287,86 +368,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "600B open weights, trained for long-running agents",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/gbrain",
-      "title": "GBrain Tools",
-      "summary": "A password manager for AI",
-      "publishedAt": "2026-10-16T00:51:53.000Z",
-      "url": "https://www.producthunt.com/products/gbrain",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/gbrain",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "A password manager for AI",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/parallax-5",
-      "title": "Parallax",
-      "summary": "Every coding agent you run, in one place.",
-      "publishedAt": "2026-10-15T19:25:02.000Z",
-      "url": "https://www.producthunt.com/products/parallax-5",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/parallax-5",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Every coding agent you run, in one place.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

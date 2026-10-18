@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月18日",
     "demo": false,
-    "updatedAt": "2026-10-18T05:59:59.329Z",
+    "updatedAt": "2026-10-18T10:52:58.669Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 113,
-      "latestCount": 4,
+      "received": 104,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -138,8 +138,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 2,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         }
       ]
     },
@@ -182,11 +182,11 @@
         }
       },
       {
-        "id": "aihot-mgalevkxcgw9f4qav20utm1jv",
-        "title": "果蝇大脑接入Odyssey-3世界模型",
-        "brief": "既有趣，又让人本能地感到不安。",
-        "summary": "既有趣，又让人本能地感到不安。",
-        "category": "AI 动态",
+        "id": "aihot-d6dq3yet9he6as49w4qichoje",
+        "title": "Fable 5.1 将博尔赫斯短篇做成 3D",
+        "brief": "Fable 5.1：“把博尔赫斯的短篇小说实现出来。",
+        "summary": "Fable 5.1：“把博尔赫斯的短篇小说实现出来。",
+        "category": "实践与观点",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -194,22 +194,22 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2111672307139874844",
-        "aggregateUrl": "https://aihot.news/items/mgalevkxcgw9f4qav20utm1jv",
+        "sourceUrl": "https://x.com/emollick/status/2111700285814940159",
+        "aggregateUrl": "https://aihot.news/items/d6dq3yet9he6as49w4qichoje",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-18T04:14:45.000Z",
+        "publishedAt": "2026-10-18T06:05:56.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Ethan Mollick",
-              "asset": "/assets/identities/emollick.jpg",
-              "assetSource": "https://x.com/emollick",
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
-          "caption": "AI 动态",
+          "caption": "实践与观点",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -251,43 +251,6 @@
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
             "assetSource": "https://x.com/AravSrinivas",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-u10wb9lknsrn2hx85ilsyldy5",
-        "title": "Thomas Wolf 点评 DeepSeek-V4.1-Flash-1017：自称 minor update 但 Terminal-Bench 4.0 从 31.2 升至 42.3",
-        "brief": "DeepSeek 发布 DeepSeek-V4.1-Flash-1017，已上线官网、App 和 API。",
-        "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash-1017，已上线官网、App 和 API。",
-        "category": "AI 动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "Thom_Wolf",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Thomas Wolf · @Thom_Wolf",
-        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2111401132840890440",
-        "aggregateUrl": "https://aihot.news/items/u10wb9lknsrn2hx85ilsyldy5",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-17T10:17:12.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Thomas Wolf",
-              "asset": "/assets/identities/thom_wolf.jpg",
-              "assetSource": "https://x.com/Thom_Wolf",
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "AI 动态",
-          "author": {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
             "tone": "#e9e4dc"
           }
         }
@@ -340,7 +303,7 @@
         "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
         "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
         "sourceCount": 15,
-        "participantCount": 48,
+        "participantCount": 52,
         "latestAt": "2026-10-18T02:53:41.000Z",
         "expanded": true,
         "latest": "WorkBuddy 国际版限免 DeepSeek-V4.1-Flash-1017",
@@ -395,7 +358,7 @@
         "aihotUrl": "https://aihot.news/items/niwlbjnktvqnoi9st6lakhlo2",
         "storyUrl": "https://aihot.news/story/c3562486-19f9-44c5-9544-c3af3e3d43c5",
         "sourceCount": 5,
-        "participantCount": 13,
+        "participantCount": 17,
         "latestAt": "2026-10-18T00:19:10.557Z",
         "expanded": true,
         "latest": "OpenCode 遭蒸馏攻击：1.4% Console 用户 API 密钥可能外泄",
@@ -438,48 +401,57 @@
       },
       {
         "rank": 3,
-        "id": "s80tw5g2v22j1se4bmqejyaq4",
-        "title": "Meta 开源 816B 模型 Muse Spark Open，Apple 演示 Mac Studio 本地运行",
-        "sourceName": "PyTorch：Blog（RSS）",
-        "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
-        "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
-        "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
-        "sourceCount": 2,
-        "participantCount": 27,
-        "latestAt": "2026-10-17T14:15:29.000Z",
+        "id": "oetmf0o04av0c4h7yrgfkb4zc",
+        "title": "Anthropic 发布内部 AI 经济影响研究",
+        "sourceName": "Anthropic：Research（发表成果 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+        "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+        "storyUrl": "https://aihot.news/story/4e5cc287-abde-4b0e-acf2-1ef380210117",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-10-18T06:27:48.000Z",
         "expanded": true,
-        "latest": "Meta 开源权重模型竞争力展望",
+        "latest": "Anthropic 研究报告：员工预期 AI 到 2030 年完成 75% 的本职工作，美国普通劳动者只预期 28%",
         "reports": [
           {
-            "title": "Meta 开源权重模型竞争力展望",
-            "sourceName": "X：Nathan Lambert (@natolambert)",
-            "sourceUrl": "https://x.com/natolambert/status/2111461099140772137",
-            "aihotUrl": "https://aihot.news/items/o29h52bjq5lgan97a69yf5c2j",
-            "publishedAt": "2026-10-17T14:15:29.000Z"
-          },
-          {
-            "title": "Nathan Lambert 解析 Meta Muse 系列如何改变开放与闭源前沿格局",
-            "sourceName": "Nathan Lambert：Interconnects（RSS）",
-            "sourceUrl": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-            "aihotUrl": "https://aihot.news/items/ilprz4dbp4xk1f3shj463hg91",
-            "publishedAt": "2026-10-17T14:06:54.000Z"
-          },
-          {
-            "title": "Meta 发布 Muse Spark Open：816B 开源 MoE，1M 上下文",
+            "title": "Anthropic 研究报告：员工预期 AI 到 2030 年完成 75% 的本职工作，美国普通劳动者只预期 28%",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2111247359015583920",
-            "aihotUrl": "https://aihot.news/items/ueqic1dy2hdx4ua7yipobons6",
-            "publishedAt": "2026-10-17T00:06:10.000Z"
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2111705791036358879",
+            "aihotUrl": "https://aihot.news/items/lwuhkpo4mio18gn68j1o2jurj",
+            "publishedAt": "2026-10-18T06:27:48.000Z"
+          },
+          {
+            "title": "Anthropic 报告：初级技术岗招聘收缩，员工转向管理多个 Claude 实例",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/014/450.htm",
+            "aihotUrl": "https://aihot.news/items/hfl3pizpfxfhwv0p6ktjxktw7",
+            "publishedAt": "2026-10-18T01:22:06.977Z"
+          },
+          {
+            "title": "Anthropic 员工预期与模型增长情景",
+            "sourceName": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+            "sourceUrl": "https://x.com/PeterMcCrory/status/2111592828086411409",
+            "aihotUrl": "https://aihot.news/items/mc0smxkfz0sbxdmr9rixz33y6",
+            "publishedAt": "2026-10-17T22:58:56.000Z"
           }
         ],
-        "related": [],
+        "related": [
+          {
+            "title": "Anthropic 内部 AI Agent 工时达人类 6 倍，初级技术岗占比降至 14%",
+            "storyUrl": "https://aihot.news/story/fdccd883-6cec-4678-acc7-8a4ddbc4562c"
+          },
+          {
+            "title": "Anthropic 员工自建 Claude 智能体编队",
+            "storyUrl": "https://aihot.news/story/65b44977-7a57-49d2-9168-16134958e883"
+          }
+        ],
         "visual": {
           "entities": [
             {
-              "name": "PyTorch：Blog（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "热点",
@@ -495,7 +467,7 @@
         "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
         "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
         "sourceCount": 6,
-        "participantCount": 17,
+        "participantCount": 18,
         "latestAt": "2026-10-18T02:04:38.000Z",
         "expanded": false,
         "latest": "",
@@ -516,15 +488,15 @@
       },
       {
         "rank": 5,
-        "id": "oetmf0o04av0c4h7yrgfkb4zc",
-        "title": "Anthropic 发布内部 AI 经济影响研究",
-        "sourceName": "Anthropic：Research（发表成果 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
-        "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
-        "storyUrl": "https://aihot.news/story/4e5cc287-abde-4b0e-acf2-1ef380210117",
-        "sourceCount": 3,
-        "participantCount": 10,
-        "latestAt": "2026-10-18T01:22:06.977Z",
+        "id": "bhawxaabotw0ecxenp7uujfbo",
+        "title": "OpenAI API短暂出现三个aurora模型引用后移除",
+        "sourceName": "X：Testing Catalog (@testingcatalog)",
+        "sourceUrl": "https://x.com/testingcatalog/status/2111724606927028578",
+        "aihotUrl": "https://aihot.news/items/bhawxaabotw0ecxenp7uujfbo",
+        "storyUrl": "https://aihot.news/story/62564feb-43f0-4dcd-839a-23c34cd854a4",
+        "sourceCount": 1,
+        "participantCount": 7,
+        "latestAt": "2026-10-18T07:42:34.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -532,10 +504,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -544,15 +516,15 @@
       },
       {
         "rank": 6,
-        "id": "p11tj593iq5nrtiotvoxllop4",
-        "title": "商务部拟增列23项AI技术出口管制并答问",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/013/983.htm",
-        "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
-        "storyUrl": "https://aihot.news/story/799a2a3d-ea41-4491-afaf-9e6c06aebe64",
-        "sourceCount": 5,
-        "participantCount": 18,
-        "latestAt": "2026-10-17T01:30:54.000Z",
+        "id": "s80tw5g2v22j1se4bmqejyaq4",
+        "title": "Meta 开源 816B 模型 Muse Spark Open，Apple 演示 Mac Studio 本地运行",
+        "sourceName": "PyTorch：Blog（RSS）",
+        "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
+        "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
+        "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
+        "sourceCount": 2,
+        "participantCount": 15,
+        "latestAt": "2026-10-17T14:15:29.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -560,7 +532,7 @@
         "visual": {
           "entities": [
             {
-              "name": "IT之家·人工智能",
+              "name": "PyTorch：Blog（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -600,15 +572,15 @@
       },
       {
         "rank": 8,
-        "id": "ib3axwzp3wkqdd8teu8zpj7c9",
-        "title": "Meta 删除涉 AI 训练抓取争议条款",
-        "sourceName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-        "aihotUrl": "https://aihot.news/items/ib3axwzp3wkqdd8teu8zpj7c9",
-        "storyUrl": "https://aihot.news/story/278a9f24-bfd7-489e-98f4-958d6bbf2352",
-        "sourceCount": 4,
-        "participantCount": 8,
-        "latestAt": "2026-10-18T00:00:43.787Z",
+        "id": "noioo6ectkhpxnngwsnks37vv",
+        "title": "Anthropic 联创称 AI 到 2030 年可推高美国 GDP 近 50%",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/014/483.htm",
+        "aihotUrl": "https://aihot.news/items/noioo6ectkhpxnngwsnks37vv",
+        "storyUrl": "https://aihot.news/story/415f8e37-5dad-489c-a6e0-2606ac179820",
+        "sourceCount": 1,
+        "participantCount": 6,
+        "latestAt": "2026-10-18T04:27:27.713Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -616,10 +588,10 @@
         "visual": {
           "entities": [
             {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "热点",
@@ -628,15 +600,15 @@
       },
       {
         "rank": 9,
-        "id": "x6s9la8005d0zobyd908cf5su",
-        "title": "腾讯混元发布并开源 Hy Memory 2.0",
-        "sourceName": "X：邵猛 (@shao__meng)",
-        "sourceUrl": "https://x.com/shao__meng/status/2111082839068246301",
-        "aihotUrl": "https://aihot.news/items/x6s9la8005d0zobyd908cf5su",
-        "storyUrl": "https://aihot.news/story/a377431d-9822-42bd-a8d3-fd4ee14dc0b7",
+        "id": "p11tj593iq5nrtiotvoxllop4",
+        "title": "商务部拟增列23项AI技术出口管制并答问",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/013/983.htm",
+        "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
+        "storyUrl": "https://aihot.news/story/799a2a3d-ea41-4491-afaf-9e6c06aebe64",
         "sourceCount": 4,
-        "participantCount": 13,
-        "latestAt": "2026-10-16T13:12:25.000Z",
+        "participantCount": 12,
+        "latestAt": "2026-10-17T01:30:54.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -644,7 +616,7 @@
         "visual": {
           "entities": [
             {
-              "name": "X：邵猛 (@shao__meng)",
+              "name": "IT之家·人工智能",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -656,15 +628,15 @@
       },
       {
         "rank": 10,
-        "id": "ew969eizz0eyqmitrz9g62chm",
-        "title": "Elorian 发布首个视觉推理模型 Glimpse",
-        "sourceName": "X：Testing Catalog (@testingcatalog)",
-        "sourceUrl": "https://x.com/testingcatalog/status/2111174690337177607",
-        "aihotUrl": "https://aihot.news/items/ew969eizz0eyqmitrz9g62chm",
-        "storyUrl": "https://aihot.news/story/d04da2cc-3656-4558-8c1a-a379c01b6dae",
-        "sourceCount": 4,
-        "participantCount": 10,
-        "latestAt": "2026-10-16T19:17:24.000Z",
+        "id": "x7hxr1lvyddc8hrbrugfx4uyg",
+        "title": "DeepSeek开放自研搜索API",
+        "sourceName": "DeepSeek：API 更新日志",
+        "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
+        "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
+        "storyUrl": "https://aihot.news/story/e4dc2fdc-f282-4822-99ea-8562b2a2d07a",
+        "sourceCount": 1,
+        "participantCount": 8,
+        "latestAt": "2026-10-16T16:00:00.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -672,7 +644,7 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Testing Catalog (@testingcatalog)",
+              "name": "DeepSeek：API 更新日志",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -686,8 +658,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-18T05:59:59.329Z",
-    "nextCheckAt": 1792303499329,
+    "checkedAt": "2026-10-18T10:52:58.669Z",
+    "nextCheckAt": 1792321078669,
     "intervalSeconds": 300,
     "message": ""
   }
