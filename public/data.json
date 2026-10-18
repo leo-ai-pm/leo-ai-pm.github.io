@@ -1,7 +1,7 @@
 {
   "date": "2026年10月18日",
   "demo": false,
-  "updatedAt": "2026-10-18T10:52:58.669Z",
+  "updatedAt": "2026-10-18T14:28:36.442Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 104,
+    "received": 108,
     "latestCount": 3,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -302,7 +302,7 @@
       "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
       "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
       "sourceCount": 15,
-      "participantCount": 52,
+      "participantCount": 55,
       "latestAt": "2026-10-18T02:53:41.000Z",
       "expanded": true,
       "latest": "WorkBuddy 国际版限免 DeepSeek-V4.1-Flash-1017",
@@ -436,7 +436,7 @@
       ],
       "related": [
         {
-          "title": "Anthropic 内部 AI Agent 工时达人类 6 倍，初级技术岗占比降至 14%",
+          "title": "Anthropic 内部研究：AI Agent 工时达人类 6 倍，初级技术岗占比降至 14%",
           "storyUrl": "https://aihot.news/story/fdccd883-6cec-4678-acc7-8a4ddbc4562c"
         },
         {
@@ -466,7 +466,7 @@
       "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
       "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
       "sourceCount": 6,
-      "participantCount": 18,
+      "participantCount": 14,
       "latestAt": "2026-10-18T02:04:38.000Z",
       "expanded": false,
       "latest": "",
@@ -487,6 +487,62 @@
     },
     {
       "rank": 5,
+      "id": "x7hxr1lvyddc8hrbrugfx4uyg",
+      "title": "DeepSeek开放自研搜索API并按次计费",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
+      "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
+      "storyUrl": "https://aihot.news/story/e4dc2fdc-f282-4822-99ea-8562b2a2d07a",
+      "sourceCount": 2,
+      "participantCount": 10,
+      "latestAt": "2026-10-18T11:59:52.953Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "DeepSeek：API 更新日志",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "zdr1iocr9utx4dpu6qqhfj6r6",
+      "title": "微软终止与Nscale数据中心合作",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/014/574.htm",
+      "aihotUrl": "https://aihot.news/items/zdr1iocr9utx4dpu6qqhfj6r6",
+      "storyUrl": "https://aihot.news/story/a7a67ccd-5e78-4e12-9b42-fef5515ac35a",
+      "sourceCount": 1,
+      "participantCount": 7,
+      "latestAt": "2026-10-18T10:42:51.370Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "bhawxaabotw0ecxenp7uujfbo",
       "title": "OpenAI API短暂出现三个aurora模型引用后移除",
       "sourceName": "X：Testing Catalog (@testingcatalog)",
@@ -514,35 +570,7 @@
       }
     },
     {
-      "rank": 6,
-      "id": "s80tw5g2v22j1se4bmqejyaq4",
-      "title": "Meta 开源 816B 模型 Muse Spark Open，Apple 演示 Mac Studio 本地运行",
-      "sourceName": "PyTorch：Blog（RSS）",
-      "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
-      "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
-      "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
-      "sourceCount": 2,
-      "participantCount": 15,
-      "latestAt": "2026-10-17T14:15:29.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "PyTorch：Blog（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "id": "ckrtcqc9dnngil5ev7m60ns4v",
       "title": "Claude 查明 NIST 椭圆曲线种子来源",
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -570,7 +598,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "noioo6ectkhpxnngwsnks37vv",
       "title": "Anthropic 联创称 AI 到 2030 年可推高美国 GDP 近 50%",
       "sourceName": "IT之家·人工智能",
@@ -598,44 +626,16 @@
       }
     },
     {
-      "rank": 9,
-      "id": "p11tj593iq5nrtiotvoxllop4",
-      "title": "商务部拟增列23项AI技术出口管制并答问",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/013/983.htm",
-      "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
-      "storyUrl": "https://aihot.news/story/799a2a3d-ea41-4491-afaf-9e6c06aebe64",
-      "sourceCount": 4,
-      "participantCount": 12,
-      "latestAt": "2026-10-17T01:30:54.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 10,
-      "id": "x7hxr1lvyddc8hrbrugfx4uyg",
-      "title": "DeepSeek开放自研搜索API",
-      "sourceName": "DeepSeek：API 更新日志",
-      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
-      "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
-      "storyUrl": "https://aihot.news/story/e4dc2fdc-f282-4822-99ea-8562b2a2d07a",
-      "sourceCount": 1,
-      "participantCount": 8,
-      "latestAt": "2026-10-16T16:00:00.000Z",
+      "id": "s80tw5g2v22j1se4bmqejyaq4",
+      "title": "Meta 开源 816B 模型 Muse Spark Open，Apple 演示 Mac Studio 本地运行",
+      "sourceName": "PyTorch：Blog（RSS）",
+      "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
+      "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
+      "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
+      "sourceCount": 2,
+      "participantCount": 11,
+      "latestAt": "2026-10-17T14:15:29.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -643,7 +643,7 @@
       "visual": {
         "entities": [
           {
-            "name": "DeepSeek：API 更新日志",
+            "name": "PyTorch：Blog（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
