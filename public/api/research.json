@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-18T01:12:15.563Z",
-      "lastSuccessAt": "2026-10-18T01:12:15.563Z",
-      "nextCheckAt": 1792289535563,
+      "checkedAt": "2026-10-18T05:59:48.602Z",
+      "lastSuccessAt": "2026-10-18T05:59:48.602Z",
+      "nextCheckAt": 1792306788602,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-18T01:12:15.564Z",
-      "lastSuccessAt": "2026-10-18T01:12:15.564Z",
-      "nextCheckAt": 1792289535564,
+      "checkedAt": "2026-10-18T05:59:48.603Z",
+      "lastSuccessAt": "2026-10-18T05:59:48.603Z",
+      "nextCheckAt": 1792306788603,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-18T01:12:15.565Z",
-      "lastSuccessAt": "2026-10-18T01:12:15.565Z",
-      "nextCheckAt": 1792289535565,
+      "checkedAt": "2026-10-18T05:59:48.604Z",
+      "lastSuccessAt": "2026-10-18T05:59:48.604Z",
+      "nextCheckAt": 1792306788604,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792289535721,
-      "checkedAt": "2026-10-18T01:12:15.721Z",
-      "lastSuccessAt": "2026-10-18T01:12:15.721Z",
+      "nextCheckAt": 1792306788901,
+      "checkedAt": "2026-10-18T05:59:48.901Z",
+      "lastSuccessAt": "2026-10-18T05:59:48.901Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792289535563,
+  "nextCheckAt": 1792306788602,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6479905.html",
-      "title": "Vibe-Trading 部署实录：用开源 Agent 做 A 股研究与回测",
-      "summary": "香港大学团队开源的 Vibe-Trading 已在 GitHub 拿到 3.5 万 star，支持 A 股、港股、美股行情与策略回测。用自然语言提问题，它就能调数据、跑回测、出报告，从部署到实证一次跑通。 我之前分享过一款开源股票研究 Agent，它的架构设计很有参考价值，不过在 A 股数据和使用场景上还有些局限。感兴趣的朋友可以回顾： 部署TradingAgents：把一家公司“装进”大模型里，自动完成股票研究 最近我在 GitHub",
-      "publishedAt": "2026-10-18T00:46:18.000Z",
-      "url": "https://www.woshipm.com/ai/6479905.html",
+      "id": "woshipm:https://www.woshipm.com/share/6480046.html",
+      "title": "一个垂直场景工具的产品设计复盘：公文处理助手的五层功能架构",
+      "summary": "当大厂产品经理扎堆热门赛道时，一款深耕公文处理十年的Word/WPS插件却提供了更纯粹的样本。它从排版按钮集合演进为AI Agent可调用的文档处理引擎，其五层功能架构与“开放问题封闭化”的AI化路径，为所有垂直场景工具提供了可复用的方法论。 产品经理的研究对象往往集中在大厂产品和热门赛道，但一些深耕垂直场景的小产品，反而在需求拆解、功能架构、用户工作流理解上提供了更纯粹的样本。 本文复盘的对象是公文处理助手，一款持续迭代超过十年的Wo",
+      "publishedAt": "2026-10-18T04:27:13.000Z",
+      "url": "https://www.woshipm.com/share/6480046.html",
       "linkKind": "original",
       "opportunity": {
         "question": "生成结果离可以交付的设计，还差哪些人工修改？",
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6479905.html",
+      "sourceUrl": "https://www.woshipm.com/share/6480046.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "香港大学团队开源的 Vibe-Trading 已在 GitHub 拿到 3.5 万 star，支持 A 股、港股、美股行情与策略回测。用自然语言提问题，它就能调数据、跑回测、出报告，从部署到实证一次跑通。 我之前分享过一款开源股票研究 Agent，它的架构设计很有参考价值，不过在 A 股数据和使用场景上还有些局限。感兴趣的朋友可以回顾： 部署TradingAgents：把一家公司“装进”大模型里，自动完成股票研究 最近我在 GitHub",
+      "brief": "当大厂产品经理扎堆热门赛道时，一款深耕公文处理十年的Word/WPS插件却提供了更纯粹的样本。它从排版按钮集合演进为AI Agent可调用的文档处理引擎，其五层功能架构与“开放问题封闭化”的AI化路径，为所有垂直场景工具提供了可复用的方法论。 产品经理的研究对象往往集中在大厂产品和热门赛道，但一些深耕垂直场景的小产品，反而在需求拆解、功能架构、用户工作流理解上提供了更纯粹的样本。 本文复盘的对象是公文处理助手，一款持续迭代超过十年的Wo",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,15 +134,15 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/share/6423032.html",
-      "title": "留存率跌破 5%：为什么腾讯、钉钉都在悄悄砍掉“右侧 AI 抽屉”？",
-      "summary": "过去一年半，几乎所有SaaS产品都患上了“AI抽屉依赖症”：右上角加图标，右侧滑出侧边栏，结果次月留存跌破5%。本文犀利剖析这种“交互懒政”的三大致命伤，并揭示从微软Copilot到Cursor的行业转向，提出AI原生交互的四层演进阶梯与三条落地改造法则，帮你彻底告别功能坟场。 过去一年半，国内几乎所有做 SaaS、协作和后台工具的团队，都被按头做了一场统一的“整容手术”。 不管是做协同文档、表格、CRM、项目管理还是代码仓库，每个产品",
-      "publishedAt": "2026-10-17T06:34:40.000Z",
-      "url": "https://www.woshipm.com/share/6423032.html",
+      "id": "woshipm:https://www.woshipm.com/ucd/6478923.html",
+      "title": "iPhone Duo：AI 时代硬件产品体验的 5 个趋势！",
+      "summary": "苹果首款折叠 iPhone Duo 没有堆砌硬件，而是围绕 AI 时代的生产力需求重新定义折叠屏逻辑。文章借此拆解 AI 时代硬件产品的五个趋势，从多任务并行、AI Agent 接管工作流到信息界面的角色分工，探讨硬件如何为人与 AI 的协同腾出空间。 苹果终于交出了首款折叠 iPhone：iPhone Duo。在直板手机陷入创新瓶颈、AI Agent 开始接管多任务工作流的当下，折叠机早已不是单纯追赶竞品的形态补位。苹果没有堆砌花哨硬",
+      "publishedAt": "2026-10-18T03:40:00.000Z",
+      "url": "https://www.woshipm.com/ucd/6478923.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,11 +162,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6423032.html",
+      "sourceUrl": "https://www.woshipm.com/ucd/6478923.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "过去一年半，几乎所有SaaS产品都患上了“AI抽屉依赖症”：右上角加图标，右侧滑出侧边栏，结果次月留存跌破5%。本文犀利剖析这种“交互懒政”的三大致命伤，并揭示从微软Copilot到Cursor的行业转向，提出AI原生交互的四层演进阶梯与三条落地改造法则，帮你彻底告别功能坟场。 过去一年半，国内几乎所有做 SaaS、协作和后台工具的团队，都被按头做了一场统一的“整容手术”。 不管是做协同文档、表格、CRM、项目管理还是代码仓库，每个产品",
+      "brief": "苹果首款折叠 iPhone Duo 没有堆砌硬件，而是围绕 AI 时代的生产力需求重新定义折叠屏逻辑。文章借此拆解 AI 时代硬件产品的五个趋势，从多任务并行、AI Agent 接管工作流到信息界面的角色分工，探讨硬件如何为人与 AI 的协同腾出空间。 苹果终于交出了首款折叠 iPhone：iPhone Duo。在直板手机陷入创新瓶颈、AI Agent 开始接管多任务工作流的当下，折叠机早已不是单纯追赶竞品的形态补位。苹果没有堆砌花哨硬",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6478798.html",
+      "title": "PostNitro 的增长难题：让用户做完第一篇，还得让他回来做第二篇",
+      "summary": "做内容工具最难受的增长，是每天有人注册、每月收入却停在原地。PostNitro 的复盘里，月经常性收入刚过约 5000 美元，此前在 4300 美元附近停了五个月，月流失一度达 20%—23%。它想靠 Agents 版本，让用户做完第一篇还回来做第二篇。 做内容工具，有一种增长最让人难受：每天都有人注册，每个月还是挣差不多的钱。 PostNitro 经历过这个阶段。2026年3月前后的历史复盘里，它的月经常性收入刚突破约5000美元，此",
+      "publishedAt": "2026-10-18T02:38:22.000Z",
+      "url": "https://www.woshipm.com/share/6478798.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6478798.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "做内容工具最难受的增长，是每天有人注册、每月收入却停在原地。PostNitro 的复盘里，月经常性收入刚过约 5000 美元，此前在 4300 美元附近停了五个月，月流失一度达 20%—23%。它想靠 Agents 版本，让用户做完第一篇还回来做第二篇。 做内容工具，有一种增长最让人难受：每天都有人注册，每个月还是挣差不多的钱。 PostNitro 经历过这个阶段。2026年3月前后的历史复盘里，它的月经常性收入刚突破约5000美元，此",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -211,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/step-3-5-flash",
