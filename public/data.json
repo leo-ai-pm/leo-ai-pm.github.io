@@ -1,7 +1,7 @@
 {
   "date": "2026年10月18日",
   "demo": false,
-  "updatedAt": "2026-10-17T23:20:46.152Z",
+  "updatedAt": "2026-10-18T01:12:24.537Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 123,
-    "latestCount": 3,
+    "received": 116,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 5,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -92,8 +92,8 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "omarsar0",
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -176,6 +176,43 @@
           "name": "Tibo Sottiaux",
           "asset": "/assets/identities/thsottiaux.jpg",
           "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-bhcpkh1392ciuv90mm5xnbbdf",
+      "title": "政府与企业面临智能体AI访问抉择",
+      "brief": "政府和公司即将做出一个重大选择，因为它们正日益被大量智能体AI查询所淹没，这些查询绕过了原本限制访问的摩擦（见图表——这已经开始了！",
+      "summary": "政府和公司即将做出一个重大选择，因为它们正日益被大量智能体AI查询所淹没，这些查询绕过了原本限制访问的摩擦（见图表——这已经开始了！",
+      "category": "AI 动态",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "emollick",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Ethan Mollick · @emollick",
+      "feedName": "X：Ethan Mollick (@emollick)",
+      "sourceUrl": "https://x.com/emollick/status/2111595040913100837",
+      "aggregateUrl": "https://aihot.news/items/bhcpkh1392ciuv90mm5xnbbdf",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-17T23:07:43.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "AI 动态",
+        "author": {
+          "name": "Ethan Mollick",
+          "asset": "/assets/identities/emollick.jpg",
+          "assetSource": "https://x.com/emollick",
           "tone": "#e9e4dc"
         }
       }
@@ -351,8 +388,8 @@
       "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
       "aihotUrl": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
       "storyUrl": "https://aihot.news/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16",
-      "sourceCount": 5,
-      "participantCount": 41,
+      "sourceCount": 4,
+      "participantCount": 34,
       "latestAt": "2026-10-17T14:15:29.000Z",
       "expanded": true,
       "latest": "Meta 开源权重模型竞争力展望",
@@ -395,18 +432,25 @@
     },
     {
       "rank": 3,
-      "id": "i06hfb4sg84wb8r2k15awogk3",
+      "id": "niwlbjnktvqnoi9st6lakhlo2",
       "title": "OpenCode 遭攻击，Anthropic 撤销受影响密钥",
-      "sourceName": "X：Testing Catalog (@testingcatalog)",
-      "sourceUrl": "https://x.com/testingcatalog/status/2111536604351246541",
-      "aihotUrl": "https://aihot.news/items/i06hfb4sg84wb8r2k15awogk3",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/014/434.htm",
+      "aihotUrl": "https://aihot.news/items/niwlbjnktvqnoi9st6lakhlo2",
       "storyUrl": "https://aihot.news/story/c3562486-19f9-44c5-9544-c3af3e3d43c5",
-      "sourceCount": 4,
-      "participantCount": 9,
-      "latestAt": "2026-10-17T21:04:12.000Z",
+      "sourceCount": 5,
+      "participantCount": 11,
+      "latestAt": "2026-10-18T00:19:10.557Z",
       "expanded": true,
-      "latest": "Anthropic 就 OpenCode 安全泄露事件撤销受影响的 Claude API 密钥",
+      "latest": "OpenCode 遭蒸馏攻击：1.4% Console 用户 API 密钥可能外泄",
       "reports": [
+        {
+          "title": "OpenCode 遭蒸馏攻击：1.4% Console 用户 API 密钥可能外泄",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/014/434.htm",
+          "aihotUrl": "https://aihot.news/items/niwlbjnktvqnoi9st6lakhlo2",
+          "publishedAt": "2026-10-18T00:19:10.557Z"
+        },
         {
           "title": "Anthropic 就 OpenCode 安全泄露事件撤销受影响的 Claude API 密钥",
           "sourceName": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
@@ -420,13 +464,6 @@
           "sourceUrl": "https://x.com/natolambert/status/2111549984373911572",
           "aihotUrl": "https://aihot.news/items/uzg9o5b0me9km50ailo7avrqw",
           "publishedAt": "2026-10-17T20:08:41.000Z"
-        },
-        {
-          "title": "OpenCode 官方通报大规模蒸馏攻击，1.4% Console 用户受影响",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "sourceUrl": "https://x.com/testingcatalog/status/2111536604351246541",
-          "aihotUrl": "https://aihot.news/items/i06hfb4sg84wb8r2k15awogk3",
-          "publishedAt": "2026-10-17T19:15:31.000Z"
         }
       ],
       "related": [],
@@ -452,7 +489,7 @@
       "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
       "storyUrl": "https://aihot.news/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765",
       "sourceCount": 6,
-      "participantCount": 16,
+      "participantCount": 17,
       "latestAt": "2026-10-17T21:00:13.000Z",
       "expanded": false,
       "latest": "",
@@ -529,6 +566,34 @@
     },
     {
       "rank": 7,
+      "id": "ib3axwzp3wkqdd8teu8zpj7c9",
+      "title": "Meta 删除涉 AI 训练抓取争议条款",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "aihotUrl": "https://aihot.news/items/ib3axwzp3wkqdd8teu8zpj7c9",
+      "storyUrl": "https://aihot.news/story/278a9f24-bfd7-489e-98f4-958d6bbf2352",
+      "sourceCount": 4,
+      "participantCount": 8,
+      "latestAt": "2026-10-18T00:00:43.787Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "The Verge：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "x6s9la8005d0zobyd908cf5su",
       "title": "腾讯混元发布并开源 Hy Memory 2.0",
       "sourceName": "X：邵猛 (@shao__meng)",
@@ -556,44 +621,16 @@
       }
     },
     {
-      "rank": 8,
-      "id": "smxxtw5ca2c9jscojk4ppe5hf",
-      "title": "Google 发布 Gemini 4 Argon，付费用户独享",
-      "sourceName": "Google Blog：AI（RSS）",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "aihotUrl": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
-      "storyUrl": "https://aihot.news/story/b9d1e480-fac1-479a-9209-5241ad001528",
-      "sourceCount": 3,
-      "participantCount": 16,
-      "latestAt": "2026-10-16T07:34:44.337Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 9,
-      "id": "bme0mytjnlk0d2lk8hf7srzoh",
-      "title": "OpenAI 将 computer use 能力引入 Chrome",
-      "sourceName": "X：ChatGPT (@ChatGPT)",
-      "sourceUrl": "https://x.com/ChatGPT/status/2110823738531037651",
-      "aihotUrl": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
-      "storyUrl": "https://aihot.news/story/13025e80-d645-4abb-87c1-f3e5ce826c4d",
+      "id": "oetmf0o04av0c4h7yrgfkb4zc",
+      "title": "Anthropic 发布内部 AI 经济影响研究",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+      "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+      "storyUrl": "https://aihot.news/story/4e5cc287-abde-4b0e-acf2-1ef380210117",
       "sourceCount": 3,
-      "participantCount": 14,
-      "latestAt": "2026-10-17T00:31:53.593Z",
+      "participantCount": 9,
+      "latestAt": "2026-10-17T22:58:56.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -601,10 +638,10 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",

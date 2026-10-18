@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-17T23:20:35.104Z",
-      "lastSuccessAt": "2026-10-17T23:20:35.104Z",
-      "nextCheckAt": 1792282835104,
+      "checkedAt": "2026-10-18T01:12:15.563Z",
+      "lastSuccessAt": "2026-10-18T01:12:15.563Z",
+      "nextCheckAt": 1792289535563,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-18T01:12:15.564Z",
+      "lastSuccessAt": "2026-10-18T01:12:15.564Z",
+      "nextCheckAt": 1792289535564,
       "status": "ok",
-      "nextCheckAt": 1792282835105,
-      "checkedAt": "2026-10-17T23:20:35.105Z",
-      "lastSuccessAt": "2026-10-17T23:20:35.105Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-17T23:20:35.106Z",
-      "lastSuccessAt": "2026-10-17T23:20:35.106Z",
-      "nextCheckAt": 1792282835106,
+      "checkedAt": "2026-10-18T01:12:15.565Z",
+      "lastSuccessAt": "2026-10-18T01:12:15.565Z",
+      "nextCheckAt": 1792289535565,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792282835277,
-      "checkedAt": "2026-10-17T23:20:35.277Z",
-      "lastSuccessAt": "2026-10-17T23:20:35.277Z",
+      "nextCheckAt": 1792289535721,
+      "checkedAt": "2026-10-18T01:12:15.721Z",
+      "lastSuccessAt": "2026-10-18T01:12:15.721Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792282835104,
+  "nextCheckAt": 1792289535563,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6479905.html",
+      "title": "Vibe-Trading 部署实录：用开源 Agent 做 A 股研究与回测",
+      "summary": "香港大学团队开源的 Vibe-Trading 已在 GitHub 拿到 3.5 万 star，支持 A 股、港股、美股行情与策略回测。用自然语言提问题，它就能调数据、跑回测、出报告，从部署到实证一次跑通。 我之前分享过一款开源股票研究 Agent，它的架构设计很有参考价值，不过在 A 股数据和使用场景上还有些局限。感兴趣的朋友可以回顾： 部署TradingAgents：把一家公司“装进”大模型里，自动完成股票研究 最近我在 GitHub",
+      "publishedAt": "2026-10-18T00:46:18.000Z",
+      "url": "https://www.woshipm.com/ai/6479905.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6479905.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "香港大学团队开源的 Vibe-Trading 已在 GitHub 拿到 3.5 万 star，支持 A 股、港股、美股行情与策略回测。用自然语言提问题，它就能调数据、跑回测、出报告，从部署到实证一次跑通。 我之前分享过一款开源股票研究 Agent，它的架构设计很有参考价值，不过在 A 股数据和使用场景上还有些局限。感兴趣的朋友可以回顾： 部署TradingAgents：把一家公司“装进”大模型里，自动完成股票研究 最近我在 GitHub",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/share/6423032.html",
       "title": "留存率跌破 5%：为什么腾讯、钉钉都在悄悄砍掉“右侧 AI 抽屉”？",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "n8n:https://blog.n8n.io/enterprise-workflow-automation/",
@@ -211,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/gbrain",
@@ -254,15 +294,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/toad-4",
-      "title": "Toad",
-      "summary": "Point your agent at any machine you own.",
-      "publishedAt": "2026-10-15T16:36:36.000Z",
-      "url": "https://www.producthunt.com/products/toad-4",
+      "id": "ph:https://www.producthunt.com/products/parallax-5",
+      "title": "Parallax",
+      "summary": "Every coding agent you run, in one place.",
+      "publishedAt": "2026-10-15T19:25:02.000Z",
+      "url": "https://www.producthunt.com/products/parallax-5",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +322,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/toad-4",
+      "sourceUrl": "https://www.producthunt.com/products/parallax-5",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Point your agent at any machine you own.",
+      "brief": "Every coding agent you run, in one place.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

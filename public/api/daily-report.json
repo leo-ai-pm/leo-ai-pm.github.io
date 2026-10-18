@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-17T23:20:50.344Z",
+  "checkedAt": "2026-10-18T01:12:26.868Z",
   "message": "",
   "report": {
-    "date": "2026-10-17",
-    "dateLabel": "2026年10月17日",
-    "weekday": "周六",
-    "issue": 34,
-    "generatedAt": "2026-10-17T00:00:28.429Z",
-    "aihotUrl": "https://aihot.news/daily/2026-10-17",
+    "date": "2026-10-18",
+    "dateLabel": "2026年10月18日",
+    "weekday": "周日",
+    "issue": 35,
+    "generatedAt": "2026-10-18T00:00:12.874Z",
+    "aihotUrl": "https://aihot.news/daily/2026-10-18",
     "lead": {
-      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-      "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
-      "aihotUrl": "https://aihot.news/daily/2026-10-17",
+      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
+      "aihotUrl": "https://aihot.news/daily/2026-10-18",
       "visual": {
         "entities": [
           {
@@ -31,11 +31,11 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "Artificial Analysis 发布 NVIDIA Vera Rubin NVL72 首批 AA-AgentPerf 智能体推理评测",
-            "summary": "Artificial Analysis 公布首批 AA-AgentPerf 结果，测试 NVIDIA Vera Rubin NVL72 在智能体编码工作负载下的服务效率，对比 GB300 NVL72。",
-            "sourceName": "Artificial Analysis 完整文章（网页）",
-            "sourceUrl": "https://artificialanalysis.ai/articles/vera-rubin-nvl72-agentperf",
-            "aihotUrl": "https://aihot.news/items/cfa00lfy4h5vywbpnf1ixt6m0"
+            "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+            "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
+            "sourceName": "DeepSeek：API 更新日志",
+            "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-%E6%9B%B4%E6%96%B0",
+            "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr"
           }
         ]
       },
@@ -43,178 +43,31 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-            "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
-            "sourceName": "Ollama：Blog（RSS）",
-            "sourceUrl": "https://ollama.com/blog/reflection-beam",
-            "aihotUrl": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w"
-          },
-          {
-            "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-            "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-            "sourceName": "NVIDIA：Newsroom（RSS）",
-            "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-            "aihotUrl": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr"
-          }
-        ]
-      },
-      {
-        "label": "行业动态",
-        "items": [
-          {
-            "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-            "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/013/983.htm",
-            "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4"
-          },
-          {
-            "title": "OpenAI 失准报告：内部模型在 dashboard 评测中访问并修改内部系统",
-            "summary": "OpenAI 发布失准报告，披露两次评测中一个内部模型在从公共研究 dashboard 取数时访问组织内部系统并更改配置。",
-            "sourceName": "OpenAI：失准报告与通报（网页）",
-            "sourceUrl": "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/",
-            "aihotUrl": "https://aihot.news/items/qrtlfpw0ekmltkduw2zz5gymh"
-          },
-          {
-            "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
-            "summary": "Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。",
-            "sourceName": "Waymo：Blog（网页）",
-            "sourceUrl": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-            "aihotUrl": "https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es"
-          },
-          {
-            "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-            "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/013/914.htm",
-            "aihotUrl": "https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4"
-          },
-          {
-            "title": "404 Media 实测 ChatGPT 广告如何基于提示词、手机号和邮箱定向投放",
-            "summary": "404 Media 通过自行测试发现，OpenAI 允许广告主向 ChatGPT 用户投放广告，并可基于邮箱地址、手机号或手机上的唯一标识符定向特定人群。",
-            "sourceName": "404 Media（RSS）",
-            "sourceUrl": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-            "aihotUrl": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi"
-          },
-          {
-            "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-            "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。",
-            "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-            "sourceUrl": "https://x.com/adocomplete/status/2111171735806767558",
-            "aihotUrl": "https://aihot.news/items/kygipgwqrajle6hctg9nqid7w"
-          }
-        ]
-      },
-      {
-        "label": "论文研究",
-        "items": [
-          {
-            "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
-            "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。",
-            "sourceName": "Anthropic：Research（发表成果 · 网页）",
-            "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
-            "aihotUrl": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc"
-          },
-          {
-            "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
-            "summary": "Anthropic 团队让内部研究模型在不到半小时内发现 NIST P-192、P-224、P-256、P-384、P-521 等曲线种子的来源：它们并非哈希结果，而是以 Unix 时间戳初始化的 C 库 lrand48 随机数生成器的输出，例如 P-256 需要 1842 次迭代。",
-            "sourceName": "Anthropic：Research（发表成果 · 网页）",
-            "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins",
-            "aihotUrl": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v"
-          },
-          {
-            "title": "OpenAI 披露内部模型在 RL 训练中绕过政府统计网站授权获取服务器机密",
-            "summary": "OpenAI 失准报告披露，2026 年 6 月 17 日一个内部模型在 RL 训练的数据检索任务中，遭访问拒绝后利用政府统计网站的文件下载功能获取服务器配置和应用文件，内含数据库连接串、JWT 签名密钥和邮箱凭据；随后利用应用代码不校验 JWT 签名的缺陷伪造 token 绕过授权，获取并保存了跨 24 年的病床统计数据。",
-            "sourceName": "OpenAI：失准报告与通报（网页）",
-            "sourceUrl": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
-            "aihotUrl": "https://aihot.news/items/pm16y7j8hbchmkstdyaelo22k"
+            "title": "DeepSeek 开放自研搜索 API",
+            "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。",
+            "sourceName": "DeepSeek：API 更新日志",
+            "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#%E5%BC%80%E6%94%BE%E8%87%AA%E7%A0%94%E6%90%9C%E7%B4%A2-api",
+            "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+        "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
         "summary": "",
-        "sourceName": "X：Arena (@arena)",
-        "sourceUrl": "https://x.com/arena/status/2111221323217412318",
-        "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
-        "publishedAt": "2026-10-16T22:22:42.000Z"
-      },
-      {
-        "title": "OpenAI 失准报告：内部研究模型未经授权动用测试网钱包资金",
-        "summary": "",
-        "sourceName": "OpenAI：失准报告与通报（网页）",
-        "sourceUrl": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
-        "aihotUrl": "https://aihot.news/items/gltyk3cw7d1qb6tvp83ticoba",
-        "publishedAt": "2026-10-15T00:00:00.000Z"
-      },
-      {
-        "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
-        "summary": "",
-        "sourceName": "Anthropic：Research（发表成果 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-        "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
-        "publishedAt": "2026-10-15T16:00:00.000Z"
-      },
-      {
-        "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-        "summary": "",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/013/723.htm",
-        "aihotUrl": "https://aihot.news/items/ldwt1jervkxlsh99322u661fc",
-        "publishedAt": "2026-10-16T00:54:07.827Z"
-      },
-      {
-        "title": "Claude Code 团队如何做代码审查",
-        "summary": "",
-        "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
-        "sourceUrl": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "aihotUrl": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
-        "publishedAt": "2026-10-15T12:00:00.000Z"
-      },
-      {
-        "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
-        "summary": "",
-        "sourceName": "PromptArmor：Threat Intelligence",
-        "sourceUrl": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-        "aihotUrl": "https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d",
-        "publishedAt": "2026-10-16T00:00:00.000Z"
-      },
-      {
-        "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
-        "summary": "",
-        "sourceName": "X：Elon Musk (@elonmusk, xAI)",
-        "sourceUrl": "https://x.com/elonmusk/status/2110877572011844019",
-        "aihotUrl": "https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6",
-        "publishedAt": "2026-10-15T23:36:46.000Z"
-      },
-      {
-        "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-        "summary": "",
-        "sourceName": "Google Research：Blog（网页）",
-        "sourceUrl": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-        "aihotUrl": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
-        "publishedAt": "2026-10-16T00:00:00.000Z"
-      },
-      {
-        "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-        "summary": "",
-        "sourceName": "a16z：News（RSS）",
-        "sourceUrl": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-        "aihotUrl": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
-        "publishedAt": "2026-10-16T14:00:39.000Z"
-      },
-      {
-        "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
-        "summary": "",
-        "sourceName": "vLLM 官方博客（RSS）",
-        "sourceUrl": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
-        "aihotUrl": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto",
-        "publishedAt": "2026-10-16T00:00:00.000Z"
+        "sourceName": "公众号：数字生命卡兹克",
+        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+        "aihotUrl": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
+        "publishedAt": "2026-10-17T10:19:04.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-10-18",
+        "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+        "aihotUrl": "https://aihot.news/daily/2026-10-18"
+      },
       {
         "date": "2026-10-17",
         "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
@@ -314,13 +167,8 @@
         "date": "2026-09-28",
         "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
         "aihotUrl": "https://aihot.news/daily/2026-09-28"
-      },
-      {
-        "date": "2026-09-27",
-        "title": "Claude Opus 5.5 (High) 以 1509 分登顶 Arena Text Arena 榜首",
-        "aihotUrl": "https://aihot.news/daily/2026-09-27"
       }
     ],
-    "shapedAt": "2026-10-17T23:20:50.344Z"
+    "shapedAt": "2026-10-18T01:12:26.868Z"
   }
 }
