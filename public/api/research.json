@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-19T01:48:27.427Z",
-      "lastSuccessAt": "2026-10-19T01:48:27.427Z",
-      "nextCheckAt": 1792378107427,
+      "checkedAt": "2026-10-19T06:56:49.114Z",
+      "lastSuccessAt": "2026-10-19T06:56:49.114Z",
+      "nextCheckAt": 1792396609114,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-19T01:48:27.427Z",
-      "lastSuccessAt": "2026-10-19T01:48:27.427Z",
-      "nextCheckAt": 1792378107427,
+      "checkedAt": "2026-10-19T06:56:49.115Z",
+      "lastSuccessAt": "2026-10-19T06:56:49.115Z",
+      "nextCheckAt": 1792396609115,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-19T01:48:27.428Z",
-      "lastSuccessAt": "2026-10-19T01:48:27.428Z",
-      "nextCheckAt": 1792378107428,
+      "checkedAt": "2026-10-19T06:56:49.116Z",
+      "lastSuccessAt": "2026-10-19T06:56:49.116Z",
+      "nextCheckAt": 1792396609116,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792378107648,
-      "checkedAt": "2026-10-19T01:48:27.648Z",
-      "lastSuccessAt": "2026-10-19T01:48:27.648Z",
+      "nextCheckAt": 1792396609292,
+      "checkedAt": "2026-10-19T06:56:49.292Z",
+      "lastSuccessAt": "2026-10-19T06:56:49.292Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,28 +90,27 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792378107427,
+  "nextCheckAt": 1792396609114,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6480115.html",
-      "title": "Anthropic工程师亲写：怎样把模型用出“超乎想象”程度？",
-      "summary": "大多数人只把 AI 当聊天工具，输入问题、拿到答案，却从未真正挖掘它的潜力。Anthropic 工程师亲授一套方法：从提问高度、挖掘深度到拓展广度，三步调试就能让模型输出远超预期。本文拆解这套方法论，帮你看懂如何把 AI 用出真正的专业水准。 很多人对AI的应用，仅仅只是把它当做一个聊天工具。 知道它速度很快，一个输入进去，一个答案出来。 但最近Anthropic工程师亲写的一份文档告诉大家，AI不仅仅只有速度，还有高度、深度和广度，通",
-      "publishedAt": "2026-10-18T08:12:25.000Z",
-      "url": "https://www.woshipm.com/ai/6480115.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6480506.html",
+      "title": "一个 Personal Agent 创业者的思考",
+      "summary": "Ambi 创始人子皓做过 Plaud 合伙人、米公益，也带过百川智能医疗方向。他认为 OpenClaw 那波不是昙花一现，只是没跑出 C 端 PMF；这期播客聊 Personal AI 的形态，以及他为何不做成 Muse。 子皓是 Ambi 创始人，曾任 Plaud 合伙人兼中国区 CEO，还曾创办米公益，该公司后来被轻松筹收购。此后，他先后担任暖哇科技合伙人兼首席产品官、百川智能医疗方向产品及运营负责人。 本期播客原文约 31000",
+      "publishedAt": "2026-10-19T06:22:08.000Z",
+      "url": "https://www.woshipm.com/ai/6480506.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -123,96 +122,16 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6480115.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6480506.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "大多数人只把 AI 当聊天工具，输入问题、拿到答案，却从未真正挖掘它的潜力。Anthropic 工程师亲授一套方法：从提问高度、挖掘深度到拓展广度，三步调试就能让模型输出远超预期。本文拆解这套方法论，帮你看懂如何把 AI 用出真正的专业水准。 很多人对AI的应用，仅仅只是把它当做一个聊天工具。 知道它速度很快，一个输入进去，一个答案出来。 但最近Anthropic工程师亲写的一份文档告诉大家，AI不仅仅只有速度，还有高度、深度和广度，通",
+      "brief": "Ambi 创始人子皓做过 Plaud 合伙人、米公益，也带过百川智能医疗方向。他认为 OpenClaw 那波不是昙花一现，只是没跑出 C 端 PMF；这期播客聊 Personal AI 的形态，以及他为何不做成 Muse。 子皓是 Ambi 创始人，曾任 Plaud 合伙人兼中国区 CEO，还曾创办米公益，该公司后来被轻松筹收购。此后，他先后担任暖哇科技合伙人兼首席产品官、百川智能医疗方向产品及运营负责人。 本期播客原文约 31000",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6480028.html",
-      "title": "AI产品需求怎么写？从“功能描述”改成“任务和结果”",
-      "summary": "当AI客服需求遇上退款场景，产品经理如何避免“支持退款咨询”沦为一句空话？本文作者拉着客服一起写PRD，从一笔订单的查询、解释到转人工，拆解AI需求中“哪些事不该模型管”的边界，并分享如何用真实咨询路径验证设计、用客服和测试的视角补全异常场景。 这个退款助手的需求，我是拉着客服一起写的。 让她挑一笔还在处理中的退款单，从用户点进订单页开始，把她平时的操作走一遍。打开客服后台看订单状态，翻支付记录，审核卡住的再给财务发消息问一句。中间她会",
-      "publishedAt": "2026-10-18T05:47:19.000Z",
-      "url": "https://www.woshipm.com/ai/6480028.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6480028.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当AI客服需求遇上退款场景，产品经理如何避免“支持退款咨询”沦为一句空话？本文作者拉着客服一起写PRD，从一笔订单的查询、解释到转人工，拆解AI需求中“哪些事不该模型管”的边界，并分享如何用真实咨询路径验证设计、用客服和测试的视角补全异常场景。 这个退款助手的需求，我是拉着客服一起写的。 让她挑一笔还在处理中的退款单，从用户点进订单页开始，把她平时的操作走一遍。打开客服后台看订单状态，翻支付记录，审核卡住的再给财务发消息问一句。中间她会",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/share/6480046.html",
-      "title": "一个垂直场景工具的产品设计复盘：公文处理助手的五层功能架构",
-      "summary": "当大厂产品经理扎堆热门赛道时，一款深耕公文处理十年的Word/WPS插件却提供了更纯粹的样本。它从排版按钮集合演进为AI Agent可调用的文档处理引擎，其五层功能架构与“开放问题封闭化”的AI化路径，为所有垂直场景工具提供了可复用的方法论。 产品经理的研究对象往往集中在大厂产品和热门赛道，但一些深耕垂直场景的小产品，反而在需求拆解、功能架构、用户工作流理解上提供了更纯粹的样本。 本文复盘的对象是公文处理助手，一款持续迭代超过十年的Wo",
-      "publishedAt": "2026-10-18T04:27:13.000Z",
-      "url": "https://www.woshipm.com/share/6480046.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6480046.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当大厂产品经理扎堆热门赛道时，一款深耕公文处理十年的Word/WPS插件却提供了更纯粹的样本。它从排版按钮集合演进为AI Agent可调用的文档处理引擎，其五层功能架构与“开放问题封闭化”的AI化路径，为所有垂直场景工具提供了可复用的方法论。 产品经理的研究对象往往集中在大厂产品和热门赛道，但一些深耕垂直场景的小产品，反而在需求拆解、功能架构、用户工作流理解上提供了更纯粹的样本。 本文复盘的对象是公文处理助手，一款持续迭代超过十年的Wo",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/tomo-for-chatgpt",
@@ -252,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/mylens-ai",
@@ -292,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "n8n:https://blog.n8n.io/enterprise-workflow-automation/",
