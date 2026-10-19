@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-18T23:43:25.039Z",
+  "checkedAt": "2026-10-19T01:48:42.615Z",
   "message": "",
   "report": {
-    "date": "2026-10-18",
-    "dateLabel": "2026年10月18日",
-    "weekday": "周日",
-    "issue": 35,
-    "generatedAt": "2026-10-18T00:00:12.874Z",
-    "aihotUrl": "https://aihot.news/daily/2026-10-18",
+    "date": "2026-10-19",
+    "dateLabel": "2026年10月19日",
+    "weekday": "周一",
+    "issue": 36,
+    "generatedAt": "2026-10-19T00:00:14.129Z",
+    "aihotUrl": "https://aihot.news/daily/2026-10-19",
     "lead": {
-      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
-      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
-      "aihotUrl": "https://aihot.news/daily/2026-10-18",
+      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+      "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+      "aihotUrl": "https://aihot.news/daily/2026-10-19",
       "visual": {
         "entities": [
           {
-            "name": "AIHOT",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "今日导读",
@@ -28,41 +28,53 @@
     },
     "sections": [
       {
-        "label": "模型发布/更新",
+        "label": "行业动态",
         "items": [
           {
-            "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
-            "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
-            "sourceName": "DeepSeek：API 更新日志",
-            "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-%E6%9B%B4%E6%96%B0",
-            "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr"
+            "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+            "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+            "aihotUrl": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0"
+          },
+          {
+            "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+            "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+            "aihotUrl": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f"
           }
         ]
       },
       {
-        "label": "产品发布/更新",
+        "label": "技巧与观点",
         "items": [
           {
-            "title": "DeepSeek 开放自研搜索 API",
-            "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。",
-            "sourceName": "DeepSeek：API 更新日志",
-            "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#%E5%BC%80%E6%94%BE%E8%87%AA%E7%A0%94%E6%90%9C%E7%B4%A2-api",
-            "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg"
+            "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+            "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+            "sourceName": "Browser Use",
+            "sourceUrl": "https://browser-use.com/posts/browser-agents",
+            "aihotUrl": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
         "summary": "",
-        "sourceName": "公众号：数字生命卡兹克",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-        "aihotUrl": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
-        "publishedAt": "2026-10-17T10:19:04.000Z"
+        "sourceName": "X：Arena (@arena)",
+        "sourceUrl": "https://x.com/arena/status/2111894091168682086",
+        "aihotUrl": "https://aihot.news/items/bm95oliei5mcgy2tau7e22d59",
+        "publishedAt": "2026-10-18T18:56:03.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-10-19",
+        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+        "aihotUrl": "https://aihot.news/daily/2026-10-19"
+      },
       {
         "date": "2026-10-18",
         "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
@@ -162,13 +174,8 @@
         "date": "2026-09-29",
         "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元",
         "aihotUrl": "https://aihot.news/daily/2026-09-29"
-      },
-      {
-        "date": "2026-09-28",
-        "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-        "aihotUrl": "https://aihot.news/daily/2026-09-28"
       }
     ],
-    "shapedAt": "2026-10-18T23:43:25.039Z"
+    "shapedAt": "2026-10-19T01:48:42.615Z"
   }
 }
