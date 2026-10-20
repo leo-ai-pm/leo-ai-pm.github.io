@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-19T23:45:58.966Z",
-      "lastSuccessAt": "2026-10-19T23:45:58.966Z",
-      "nextCheckAt": 1792457158966,
+      "checkedAt": "2026-10-20T02:08:52.436Z",
+      "lastSuccessAt": "2026-10-20T02:08:52.436Z",
+      "nextCheckAt": 1792465732436,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-20T02:08:52.437Z",
+      "lastSuccessAt": "2026-10-20T02:08:52.437Z",
+      "nextCheckAt": 1792465732437,
       "status": "ok",
-      "nextCheckAt": 1792457158967,
-      "checkedAt": "2026-10-19T23:45:58.967Z",
-      "lastSuccessAt": "2026-10-19T23:45:58.967Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-19T23:45:58.968Z",
-      "lastSuccessAt": "2026-10-19T23:45:58.968Z",
-      "nextCheckAt": 1792457158968,
+      "checkedAt": "2026-10-20T02:08:52.438Z",
+      "lastSuccessAt": "2026-10-20T02:08:52.438Z",
+      "nextCheckAt": 1792465732438,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792457159274,
-      "checkedAt": "2026-10-19T23:45:59.274Z",
-      "lastSuccessAt": "2026-10-19T23:45:59.274Z",
+      "nextCheckAt": 1792465732634,
+      "checkedAt": "2026-10-20T02:08:52.634Z",
+      "lastSuccessAt": "2026-10-20T02:08:52.634Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,130 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792457158966,
+  "nextCheckAt": 1792465732436,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6480889.html",
+      "title": "别把手机 Agent 搬上车：从零到一做车载个人 Agent",
+      "summary": "当行业热议将手机 Multi-agent 搬上车时，本文冷静指出：车规级芯片、安全冗余与 10 年生命周期等硬约束，决定了座舱 Agent 不能照搬手机逻辑。文章提出「先 Job，再模型」的 AI Native 设计路径，从身份、记忆、授权三件套到六步落地法，为产品经理提供了一份可操作的座舱个人 Agent 构建指南。 01 开篇：别把手机 Agent / Multi-agent 的热闹搬上车 最近和几个 Tier1 的智舱供应商聊过，",
+      "publishedAt": "2026-10-20T01:46:37.000Z",
+      "url": "https://www.woshipm.com/ai/6480889.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6480889.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "当行业热议将手机 Multi-agent 搬上车时，本文冷静指出：车规级芯片、安全冗余与 10 年生命周期等硬约束，决定了座舱 Agent 不能照搬手机逻辑。文章提出「先 Job，再模型」的 AI Native 设计路径，从身份、记忆、授权三件套到六步落地法，为产品经理提供了一份可操作的座舱个人 Agent 构建指南。 01 开篇：别把手机 Agent / Multi-agent 的热闹搬上车 最近和几个 Tier1 的智舱供应商聊过，",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6478930.html",
+      "title": "提升Vibe Coding设计质量的10个技巧！",
+      "summary": "很多人用 Vibe Coding 时设计稿还原度低，设计细节反复说也改不对。文章按前期准备与代码产出两个阶段，整理提升还原度的十个技巧，覆盖底层大模型的选择、MCP 与 npm 包的安装，以及如何用约束规则缩小 AI 的上下文盲区。 经常有朋友来问我：“在 Vibe Coding 中有没有能够提升设计稿还原度的经验和方法？感觉自己用 AI 做 Coding 时的设计稿还原度很低，设计细节反复说好几遍也改不对，该怎么办呢？” 今天就给大家",
+      "publishedAt": "2026-10-20T01:12:02.000Z",
+      "url": "https://www.woshipm.com/ai/6478930.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6478930.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "很多人用 Vibe Coding 时设计稿还原度低，设计细节反复说也改不对。文章按前期准备与代码产出两个阶段，整理提升还原度的十个技巧，覆盖底层大模型的选择、MCP 与 npm 包的安装，以及如何用约束规则缩小 AI 的上下文盲区。 经常有朋友来问我：“在 Vibe Coding 中有没有能够提升设计稿还原度的经验和方法？感觉自己用 AI 做 Coding 时的设计稿还原度很低，设计细节反复说好几遍也改不对，该怎么办呢？” 今天就给大家",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6480798.html",
+      "title": "DeepSeek发布最新模型：一句话交付一个故宫，成本是GPT-6四十分之一",
+      "summary": "DeepSeek V4.1-Flash-1017 建立在 552B MoE 底座上，ProgramBench 从 20.3 升到 29.1。「帕累托改进」不是单纯降价，而是靠更短轨迹减少无效调用；但对比的闭源模型并非最新版，结论要拆开看。 当一个模型能从一句需求出发，完成规划、编码、运行和调试，开发者最该问的已经不只是“它能不能做出来”，而是“它能以多低的成本、在多长的任务链路里稳定做出来”。 DeepSeek V4.1-Flash-1",
+      "publishedAt": "2026-10-20T01:00:17.000Z",
+      "url": "https://www.woshipm.com/ai/6480798.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6480798.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "DeepSeek V4.1-Flash-1017 建立在 552B MoE 底座上，ProgramBench 从 20.3 升到 29.1。「帕累托改进」不是单纯降价，而是靠更短轨迹减少无效调用；但对比的闭源模型并非最新版，结论要拆开看。 当一个模型能从一句需求出发，完成规划、编码、运行和调试，开发者最该问的已经不只是“它能不能做出来”，而是“它能以多低的成本、在多长的任务链路里稳定做出来”。 DeepSeek V4.1-Flash-1",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/n8n-nvidia-dgx-spark/",
       "title": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
@@ -132,133 +253,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6480379.html",
-      "title": "OpenCode遭攻击：部分用户OpenAI、Anthropic等API密钥外泄",
-      "summary": "OpenCode 旧系统的访问控制失效，约 1.4% Console 用户工作区里的 OpenAI、Anthropic 等密钥可能暴露。先撤销再重建、按最小权限拆分，并核对账单与调用日志，是前 30 分钟的关键动作。 AI 编程工具把模型、终端、代码仓库和多家 API 服务连在一起，开发效率提高的同时，密钥也更容易穿过更多系统边界。一次历史系统的访问控制失效，足以让原本已经不再使用的凭据变成真实的账单与数据风险。 OpenCode 披露",
-      "publishedAt": "2026-10-19T09:53:48.000Z",
-      "url": "https://www.woshipm.com/ai/6480379.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          },
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6480379.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "OpenCode 旧系统的访问控制失效，约 1.4% Console 用户工作区里的 OpenAI、Anthropic 等密钥可能暴露。先撤销再重建、按最小权限拆分，并核对账单与调用日志，是前 30 分钟的关键动作。 AI 编程工具把模型、终端、代码仓库和多家 API 服务连在一起，开发效率提高的同时，密钥也更容易穿过更多系统边界。一次历史系统的访问控制失效，足以让原本已经不再使用的凭据变成真实的账单与数据风险。 OpenCode 披露",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6480687.html",
-      "title": "Agent 如何调用人类？RentAHuman 圈的「人奸」玩法越来越抽象了",
-      "summary": "当Agent开始花钱雇人举牌、穿人偶、刷好评，甚至替它摸草感受人生，人类从甲方沦为被调用的“活人感”资源。本文拆解RentAHuman等平台上正在成形的“人奸”生产关系，追问谁才是真正的主体与工具。 一直以来，我们和 AI 相处的逻辑都很质朴，奉行一种「人类 AI 赢学」。按照这套逻辑，人类是甲方，Agent 是工具，而且是底层工具。 所以大家乐于看 AI 这个小丑能有多小丑。 但到了 2026 年，这套赢法明显很难持续了。毕竟 Cla",
-      "publishedAt": "2026-10-19T08:27:05.000Z",
-      "url": "https://www.woshipm.com/ai/6480687.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6480687.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当Agent开始花钱雇人举牌、穿人偶、刷好评，甚至替它摸草感受人生，人类从甲方沦为被调用的“活人感”资源。本文拆解RentAHuman等平台上正在成形的“人奸”生产关系，追问谁才是真正的主体与工具。 一直以来，我们和 AI 相处的逻辑都很质朴，奉行一种「人类 AI 赢学」。按照这套逻辑，人类是甲方，Agent 是工具，而且是底层工具。 所以大家乐于看 AI 这个小丑能有多小丑。 但到了 2026 年，这套赢法明显很难持续了。毕竟 Cla",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6478928.html",
-      "title": "AI Coding中组件库的接入技巧+保姆级指令案例！",
-      "summary": "AI IDE 已成为前端开发与物料搭建的常用工具，但让 AI 准确调用组件并不容易。文章结合大厂项目经验，讲清 AI Coding 时接入组件库的三种路径：npm 包、MCP 与 Skills，并给出可直接复制的指令，帮助提升组件调用的准确率。 当下 AI IDE 已经成为前端开发、物料搭建的核心工具，很多团队都开始用 AI 辅助组件调用和页面搭建，也有越来越多的同学会问我类似的问题： “🤔 让 AI 调用组件有什么好的方法么？怎样做",
-      "publishedAt": "2026-10-19T07:42:01.000Z",
-      "url": "https://www.woshipm.com/ai/6478928.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478928.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "AI IDE 已成为前端开发与物料搭建的常用工具，但让 AI 准确调用组件并不容易。文章结合大厂项目经验，讲清 AI Coding 时接入组件库的三种路径：npm 包、MCP 与 Skills，并给出可直接复制的指令，帮助提升组件调用的准确率。 当下 AI IDE 已经成为前端开发、物料搭建的核心工具，很多团队都开始用 AI 辅助组件调用和页面搭建，也有越来越多的同学会问我类似的问题： “🤔 让 AI 调用组件有什么好的方法么？怎样做",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
