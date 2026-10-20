@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-20T13:02:31.083Z",
-      "lastSuccessAt": "2026-10-20T13:02:31.083Z",
-      "nextCheckAt": 1792504951083,
+      "checkedAt": "2026-10-20T17:54:51.916Z",
+      "lastSuccessAt": "2026-10-20T17:54:51.916Z",
+      "nextCheckAt": 1792522491916,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-20T13:02:31.084Z",
-      "lastSuccessAt": "2026-10-20T13:02:31.084Z",
-      "nextCheckAt": 1792504951084,
       "status": "ok",
+      "nextCheckAt": 1792522491917,
+      "checkedAt": "2026-10-20T17:54:51.917Z",
+      "lastSuccessAt": "2026-10-20T17:54:51.917Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-20T13:02:31.085Z",
-      "lastSuccessAt": "2026-10-20T13:02:31.085Z",
-      "nextCheckAt": 1792504951085,
+      "checkedAt": "2026-10-20T17:54:51.918Z",
+      "lastSuccessAt": "2026-10-20T17:54:51.918Z",
+      "nextCheckAt": 1792522491918,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-20T13:02:31.486Z",
-      "lastSuccessAt": "2026-10-20T13:02:31.486Z",
-      "nextCheckAt": 1792504951486,
+      "checkedAt": "2026-10-20T17:54:52.254Z",
+      "lastSuccessAt": "2026-10-20T17:54:52.254Z",
+      "nextCheckAt": 1792522492254,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792504951083,
+  "nextCheckAt": 1792522491916,
   "refreshing": false,
   "items": [
     {
@@ -450,7 +450,7 @@
       "platform": "英文官方博客",
       "brief": "Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google p",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
