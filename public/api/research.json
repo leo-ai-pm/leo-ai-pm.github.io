@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-20T07:40:56.463Z",
-      "lastSuccessAt": "2026-10-20T07:40:56.463Z",
-      "nextCheckAt": 1792485656463,
+      "checkedAt": "2026-10-20T13:02:31.083Z",
+      "lastSuccessAt": "2026-10-20T13:02:31.083Z",
+      "nextCheckAt": 1792504951083,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-20T07:40:56.464Z",
-      "lastSuccessAt": "2026-10-20T07:40:56.464Z",
-      "nextCheckAt": 1792485656464,
+      "checkedAt": "2026-10-20T13:02:31.084Z",
+      "lastSuccessAt": "2026-10-20T13:02:31.084Z",
+      "nextCheckAt": 1792504951084,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-20T07:40:56.465Z",
-      "lastSuccessAt": "2026-10-20T07:40:56.465Z",
-      "nextCheckAt": 1792485656465,
+      "checkedAt": "2026-10-20T13:02:31.085Z",
+      "lastSuccessAt": "2026-10-20T13:02:31.085Z",
+      "nextCheckAt": 1792504951085,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-20T13:02:31.486Z",
+      "lastSuccessAt": "2026-10-20T13:02:31.486Z",
+      "nextCheckAt": 1792504951486,
       "status": "ok",
-      "nextCheckAt": 1792485657561,
-      "checkedAt": "2026-10-20T07:40:57.561Z",
-      "lastSuccessAt": "2026-10-20T07:40:57.561Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792485656463,
+  "nextCheckAt": 1792504951083,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6478936.html",
+      "title": "调教 AI Prompt 超全教程+案例！减少返工80%！",
+      "summary": "很多人和 AI 聊了大半天仍拿不到满意结果，来回返工。文章指出与 AI 对话的底层逻辑不是“求它帮忙”而是“教它做事”，并按确定目标、输入指令、输出结果、校验迭代、沉淀复用五个环节，给出可落地的提示词方法与案例。 很多同学跟我说，做设计稿时自己跟 AI 聊了大半天，结果生成的内容还是不符合预期，来回改了十几次，本来想靠 AI 提效，最后反被 AI 消耗。 其实不是 AI 不行，是你没找对和 AI 对话的方法。我们与 AI 对话的底层逻辑",
+      "publishedAt": "2026-10-20T08:12:04.000Z",
+      "url": "https://www.woshipm.com/ai/6478936.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6478936.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "很多人和 AI 聊了大半天仍拿不到满意结果，来回返工。文章指出与 AI 对话的底层逻辑不是“求它帮忙”而是“教它做事”，并按确定目标、输入指令、输出结果、校验迭代、沉淀复用五个环节，给出可落地的提示词方法与案例。 很多同学跟我说，做设计稿时自己跟 AI 聊了大半天，结果生成的内容还是不符合预期，来回改了十几次，本来想靠 AI 提效，最后反被 AI 消耗。 其实不是 AI 不行，是你没找对和 AI 对话的方法。我们与 AI 对话的底层逻辑",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6481263.html",
+      "title": "斯坦福新课直接讲 personal agent，Grok Bot 工程师分享如何打造出 always-on agent",
+      "summary": "合上笔记本，AI 编程助手就停了。Lee Robinson 在斯坦福 CS146S 讲 Grok Bot 这类 always-on agent 怎么搭：服务器、沙箱、记忆与动态工具发现，把一切当成一台长期在线的电脑，只在真正需要判断时才来打扰你。 你有没有想过，我们现在用的 AI 编程助手，其实有一个很大的软肋：你一合上笔记本电脑，它就停了。它只会在你发消息的时候才动一下，你不说话，它就不存在。那如果有一种 agent（智能体），像一个",
+      "publishedAt": "2026-10-20T07:47:36.000Z",
+      "url": "https://www.woshipm.com/ai/6481263.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6481263.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "合上笔记本，AI 编程助手就停了。Lee Robinson 在斯坦福 CS146S 讲 Grok Bot 这类 always-on agent 怎么搭：服务器、沙箱、记忆与动态工具发现，把一切当成一台长期在线的电脑，只在真正需要判断时才来打扰你。 你有没有想过，我们现在用的 AI 编程助手，其实有一个很大的软肋：你一合上笔记本电脑，它就停了。它只会在你发消息的时候才动一下，你不说话，它就不存在。那如果有一种 agent（智能体），像一个",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6481268.html",
       "title": "不用 Opus！不用 AE！Fotor Agent 一句话生成可商用的 4K 高清 MG 动画视频",
@@ -127,86 +207,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "数据柱、流程节点、LOGO 演绎这类 MG 动画，以往只能开 AE 一帧帧调，改个数字整段重做。作者用 Fotor Agent 直接生成可商用的 4K MG 动画，一句话改需求，省掉外包排期，文中给出提示词与实操流程。 做过功能讲解视频的人，大概都经历过这种事。画面早就定了，最后卡在 MG 动画制作上：要么自己开 AE 一帧帧调，要么找外包排期。好不容易快交付了，对方一句 “数据改一下”，整段又得重来。 MG 动画就是动态图形（Moti",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6481261.html",
-      "title": "字节系创业者押注视频 Agent，「极致上下文」获超千万美元天使轮融资",
-      "summary": "视频 Agent Pexo 的母公司「极致上下文」完成超千万美元天使轮，达泰资本、松禾创投、视觉中国等入局。创始人廖谦出自生数科技与字节，曾主导 Vidu 产品与剪映海外 AI 平台，公司称用户复购率已超 50%。 视频 Agent Pexo （公司“极致上下文”）已完成超千万美元天使轮融资，投资方包括达泰资本、松禾创投、视觉中国、深圳天使母基金、深圳高新投、福迪创投等。本轮融资将主要用于 AI Content Agent 产品研发、全",
-      "publishedAt": "2026-10-20T06:40:26.000Z",
-      "url": "https://www.woshipm.com/ai/6481261.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6481261.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "视频 Agent Pexo 的母公司「极致上下文」完成超千万美元天使轮，达泰资本、松禾创投、视觉中国等入局。创始人廖谦出自生数科技与字节，曾主导 Vidu 产品与剪映海外 AI 平台，公司称用户复购率已超 50%。 视频 Agent Pexo （公司“极致上下文”）已完成超千万美元天使轮融资，投资方包括达泰资本、松禾创投、视觉中国、深圳天使母基金、深圳高新投、福迪创投等。本轮融资将主要用于 AI Content Agent 产品研发、全",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6481135.html",
-      "title": "WorkBuddy上的那个神秘模型，终于被人认领",
-      "summary": "WorkBuddy 国庆接入的匿名模型 Space-Bunny 一直很神秘，现在提供方认领了：它是 MiniMax M3.1-Flash 的早期版本，不是腾讯 Hy4，也不是月之暗面的新模型。它以匿名身份处理了超 200T token。 WorkBuddy 国庆期间接入的 Space-Bunny（太空兔）大模型。 一直很神秘。 目前，WorkBuddy 上，仍然显示为「匿名大模型」。 但就在刚刚，这个匿名模型，已被提供方认领了。 不是腾",
-      "publishedAt": "2026-10-20T06:23:22.000Z",
-      "url": "https://www.woshipm.com/ai/6481135.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6481135.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "WorkBuddy 国庆接入的匿名模型 Space-Bunny 一直很神秘，现在提供方认领了：它是 MiniMax M3.1-Flash 的早期版本，不是腾讯 Hy4，也不是月之暗面的新模型。它以匿名身份处理了超 200T token。 WorkBuddy 国庆期间接入的 Space-Bunny（太空兔）大模型。 一直很神秘。 目前，WorkBuddy 上，仍然显示为「匿名大模型」。 但就在刚刚，这个匿名模型，已被提供方认领了。 不是腾",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

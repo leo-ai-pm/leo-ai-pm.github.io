@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月20日",
     "demo": false,
-    "updatedAt": "2026-10-20T07:41:06.232Z",
+    "updatedAt": "2026-10-20T13:02:41.164Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 262,
+      "received": 270,
       "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 5,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -256,11 +256,11 @@
         }
       },
       {
-        "id": "aihot-bethnwe8f1mavuyoffd85vnwq",
-        "title": "Thomas Wolf 点赞开源语音到语音项目接入 Fish Audio Drama-3",
-        "brief": "Thomas Wolf 转发 @JackBoylan_98 的演示：Fish Audio 的 Drama-3 被添加进开源 speech-to-speech 项目，作者克隆了自己的声音，可通过说话直接让模型耳语、大笑、叹气或表现担忧，并感谢 @andimarafioti 的演示与采样建议。",
-        "summary": "Thomas Wolf 转发 @JackBoylan_98 的演示：Fish Audio 的 Drama-3 被添加进开源 speech-to-speech 项目，作者克隆了自己的声音，可通过说话直接让模型耳语、大笑、叹气或表现担忧，并感谢 @andimarafioti 的演示与采样建议。",
-        "category": "实践与观点",
+        "id": "aihot-ytacvdy0qrt3sxu22pt289qet",
+        "title": "DeepSeek 开源推理框架 DeepInfer，Thomas Wolf 盘点其连续开源的基础设施项目",
+        "brief": "Thomas Wolf 转评 DeepSeek 宣布将其生产推理框架 DeepInfer 开源，该框架支撑 DeepSeek-V4.1-Flash 的高吞吐低延迟推理，代码以 Apache 2.0 协议发布在 http://github.com/deepseek-ai/DeepInfer。",
+        "summary": "Thomas Wolf 转评 DeepSeek 宣布将其生产推理框架 DeepInfer 开源，该框架支撑 DeepSeek-V4.1-Flash 的高吞吐低延迟推理，代码以 Apache 2.0 协议发布在 http://github.com/deepseek-ai/DeepInfer。",
+        "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -268,10 +268,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2112288314715992479",
-        "aggregateUrl": "https://aihot.news/items/bethnwe8f1mavuyoffd85vnwq",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2112513796866813956",
+        "aggregateUrl": "https://aihot.news/items/ytacvdy0qrt3sxu22pt289qet",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-19T21:02:33.000Z",
+        "publishedAt": "2026-10-20T11:58:32.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -283,7 +283,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "实践与观点",
+          "caption": "产品动态",
           "author": {
             "name": "Thomas Wolf",
             "asset": "/assets/identities/thom_wolf.jpg",
@@ -340,11 +340,18 @@
         "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
         "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
         "sourceCount": 11,
-        "participantCount": 40,
-        "latestAt": "2026-10-20T03:29:27.000Z",
+        "participantCount": 44,
+        "latestAt": "2026-10-20T12:18:59.000Z",
         "expanded": true,
-        "latest": "MiniMax M3.1-Flash 上线 WorkBuddy",
+        "latest": "MiniMax M3.1 Flash 单提示词生成不存在的河流",
         "reports": [
+          {
+            "title": "MiniMax M3.1 Flash 单提示词生成不存在的河流",
+            "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+            "sourceUrl": "https://x.com/WorkBuddy_AI/status/2112518943734894961",
+            "aihotUrl": "https://aihot.news/items/mejtzz8topl8ma85gsyad46wa",
+            "publishedAt": "2026-10-20T12:18:59.000Z"
+          },
           {
             "title": "MiniMax M3.1-Flash 上线 WorkBuddy",
             "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
@@ -358,13 +365,6 @@
             "sourceUrl": "https://x.com/thexpin/status/2112380664855064835",
             "aihotUrl": "https://aihot.news/items/ckxgsb93m97atnuiw9i4tmkvf",
             "publishedAt": "2026-10-20T03:09:31.000Z"
-          },
-          {
-            "title": "MiniMax M3.1 Flash 限时免费开放",
-            "sourceName": "X：MiniMax (@MiniMax_AI)",
-            "sourceUrl": "https://x.com/MiniMax_AI/status/2112316375163359303",
-            "aihotUrl": "https://aihot.news/items/aregcqxe5vvmbcs5ggq6129lj",
-            "publishedAt": "2026-10-19T22:54:03.000Z"
           }
         ],
         "related": [],
@@ -383,50 +383,45 @@
       },
       {
         "rank": 2,
-        "id": "w34qm27sedtziwxig5ub9wwhr",
-        "title": "DeepSeek 发布 V4.1-Flash-1017 并开放搜索 API",
-        "sourceName": "DeepSeek：API 更新日志",
-        "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
-        "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
-        "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
-        "sourceCount": 4,
-        "participantCount": 40,
-        "latestAt": "2026-10-19T18:18:50.000Z",
+        "id": "ckykonvith99q6hvd0utjdwfn",
+        "title": "DeepSeek 开源内部推理框架 DeepInfer",
+        "sourceName": "公众号：DeepSeek（深度求索）",
+        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+        "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
+        "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
+        "sourceCount": 8,
+        "participantCount": 28,
+        "latestAt": "2026-10-20T12:13:58.000Z",
         "expanded": true,
-        "latest": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+        "latest": "DeepSeek 以 Apache 2.0 开源生产推理引擎 DeepInfer",
         "reports": [
           {
-            "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2112247114944360666",
-            "aihotUrl": "https://aihot.news/items/h6okcjroca6s95iemyh7dhpcm",
-            "publishedAt": "2026-10-19T18:18:50.000Z"
+            "title": "DeepSeek 以 Apache 2.0 开源生产推理引擎 DeepInfer",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2112517682646155349",
+            "aihotUrl": "https://aihot.news/items/ckn0qt2gr1byl2lbfm2mmy9ot",
+            "publishedAt": "2026-10-20T12:13:58.000Z"
           },
           {
-            "title": "OpenCode 更新 DeepSeek V4.1 Flash",
-            "sourceName": "X：opencode (@opencode)",
-            "sourceUrl": "https://x.com/opencode/status/2112220734768779441",
-            "aihotUrl": "https://aihot.news/items/ygeoomyaaisbv4x2vgnr68pmo",
-            "publishedAt": "2026-10-19T16:34:00.000Z"
+            "title": "DeepSeek 开源推理框架 DeepInfer，Thomas Wolf 盘点其连续开源的基础设施项目",
+            "sourceName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+            "sourceUrl": "https://x.com/Thom_Wolf/status/2112513796866813956",
+            "aihotUrl": "https://aihot.news/items/ytacvdy0qrt3sxu22pt289qet",
+            "publishedAt": "2026-10-20T11:58:32.000Z"
           },
           {
-            "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
-            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-            "sourceUrl": "https://x.com/ArtificialAnlys/status/2112218661432000694",
-            "aihotUrl": "https://aihot.news/items/wrlpmwb2tsk1moehp5kpsvovb",
-            "publishedAt": "2026-10-19T16:25:46.000Z"
+            "title": "DeepSeek 开源自研推理框架 DeepInfer",
+            "sourceName": "X：Nathan Lambert (@natolambert)",
+            "sourceUrl": "https://x.com/natolambert/status/2112509913847210471",
+            "aihotUrl": "https://aihot.news/items/iykrf6nfhefnznf9ebwhuybd4",
+            "publishedAt": "2026-10-20T11:43:06.000Z"
           }
         ],
-        "related": [
-          {
-            "title": "WorkBuddy延长DeepSeek V4.1 Flash免费期",
-            "storyUrl": "https://aihot.news/story/564ddd5d-5e02-4105-b3e5-b6d8f43abe78"
-          }
-        ],
+        "related": [],
         "visual": {
           "entities": [
             {
-              "name": "DeepSeek：API 更新日志",
+              "name": "公众号：DeepSeek（深度求索）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -439,37 +434,37 @@
       {
         "rank": 3,
         "id": "p04w1xjk7v6fmlskpf5vsnuka",
-        "title": "美国土安全部令文职机构移除DeepSeek及关联产品",
+        "title": "美国土安全部令联邦文职机构移除DeepSeek及关联产品",
         "sourceName": "Hacker News：AI 热帖",
         "sourceUrl": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
         "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
         "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
-        "sourceCount": 3,
-        "participantCount": 26,
-        "latestAt": "2026-10-20T06:48:18.000Z",
+        "sourceCount": 5,
+        "participantCount": 31,
+        "latestAt": "2026-10-20T11:34:54.000Z",
         "expanded": true,
-        "latest": "美国国土安全部下令联邦民事机构清除 DeepSeek 产品",
+        "latest": "美国国土安全部禁止联邦民用机构使用 DeepSeek 技术",
         "reports": [
+          {
+            "title": "美国国土安全部禁止联邦民用机构使用 DeepSeek 技术",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
+            "aihotUrl": "https://aihot.news/items/q25epswbwucfhv5dqpj7bq65m",
+            "publishedAt": "2026-10-20T11:34:54.000Z"
+          },
+          {
+            "title": "外交部回应美政府要求机构停用 DeepSeek：反对将科技经贸问题政治化",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/015/434.htm",
+            "aihotUrl": "https://aihot.news/items/acrg31bdkw2dqqduudi3zhzfd",
+            "publishedAt": "2026-10-20T09:20:36.667Z"
+          },
           {
             "title": "美国国土安全部下令联邦民事机构清除 DeepSeek 产品",
             "sourceName": "X：X.PIN (@thexpin)",
             "sourceUrl": "https://x.com/thexpin/status/2112435726432240076",
             "aihotUrl": "https://aihot.news/items/oc05t79cvsqdrwbo6rwq5x14b",
             "publishedAt": "2026-10-20T06:48:18.000Z"
-          },
-          {
-            "title": "美国国土安全部下令文职机构清除 DeepSeek 及基于其开发的产品",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2112265351492972953",
-            "aihotUrl": "https://aihot.news/items/wp13906rmbp565ug3w4thg0my",
-            "publishedAt": "2026-10-19T19:31:18.000Z"
-          },
-          {
-            "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-            "sourceName": "Hacker News：AI 热帖",
-            "sourceUrl": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-            "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
-            "publishedAt": "2026-10-19T15:05:00.000Z"
           }
         ],
         "related": [],
@@ -488,6 +483,34 @@
       },
       {
         "rank": 4,
+        "id": "w34qm27sedtziwxig5ub9wwhr",
+        "title": "DeepSeek 发布 V4.1-Flash-1017 并开放搜索 API",
+        "sourceName": "DeepSeek：API 更新日志",
+        "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
+        "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+        "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
+        "sourceCount": 6,
+        "participantCount": 36,
+        "latestAt": "2026-10-20T08:47:33.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "DeepSeek：API 更新日志",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
         "id": "eg3kb6utc3fzmkjqyxdi4i92b",
         "title": "Anthropic设公益基金 承诺投入5%股份",
         "sourceName": "Anthropic：Newsroom（网页）",
@@ -515,7 +538,35 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "id": "srgsfi8edabzrwgg6vjtgw3ya",
+        "title": "OpenAI 拟以超1.4万亿美元估值融资300亿美元",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+        "aihotUrl": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
+        "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
+        "sourceCount": 1,
+        "participantCount": 10,
+        "latestAt": "2026-10-20T08:06:25.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "i8s81ihzs5zl16pc3zgz4swkz",
         "title": "Viggle AI 发布 3D 原生世界模型 JST-2",
         "sourceName": "X：邵猛 (@shao__meng)",
@@ -543,35 +594,7 @@
         }
       },
       {
-        "rank": 6,
-        "id": "x7hxr1lvyddc8hrbrugfx4uyg",
-        "title": "DeepSeek开放自研搜索API并按次计费",
-        "sourceName": "DeepSeek：API 更新日志",
-        "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
-        "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
-        "storyUrl": "https://aihot.news/story/e4dc2fdc-f282-4822-99ea-8562b2a2d07a",
-        "sourceCount": 1,
-        "participantCount": 18,
-        "latestAt": "2026-10-18T11:59:52.953Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "DeepSeek：API 更新日志",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "id": "osk3jj5jltogwr6zpo09w80j8",
         "title": "Mercury 3 发布：速度与评测争议",
         "sourceName": "Inception Labs：Blog（网页）",
@@ -579,7 +602,7 @@
         "aihotUrl": "https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8",
         "storyUrl": "https://aihot.news/story/734c8ed5-330d-4d7c-bea5-a97d9707cfd8",
         "sourceCount": 4,
-        "participantCount": 10,
+        "participantCount": 11,
         "latestAt": "2026-10-20T03:32:43.000Z",
         "expanded": false,
         "latest": "",
@@ -599,34 +622,6 @@
         }
       },
       {
-        "rank": 8,
-        "id": "fgxi5gwvctlssc05odpcyf6ov",
-        "title": "OpenAI工程师涉装窃听器被捕，检方称获沙特支持",
-        "sourceName": "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "sourceUrl": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-        "aihotUrl": "https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov",
-        "storyUrl": "https://aihot.news/story/99f5c3c4-2817-4634-b110-98b7db9ef40c",
-        "sourceCount": 2,
-        "participantCount": 9,
-        "latestAt": "2026-10-19T20:21:53.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 9,
         "id": "szf3v3re4888fzekwoohhu8b4",
         "title": "AWS 发布 TorchNeuron：Trainium 原生 PyTorch 后端",
@@ -635,7 +630,7 @@
         "aihotUrl": "https://aihot.news/items/szf3v3re4888fzekwoohhu8b4",
         "storyUrl": "https://aihot.news/story/d4a859a3-d22e-4a8a-9b02-a8b854a91e44",
         "sourceCount": 3,
-        "participantCount": 9,
+        "participantCount": 11,
         "latestAt": "2026-10-19T20:09:24.000Z",
         "expanded": false,
         "latest": "",
@@ -656,15 +651,15 @@
       },
       {
         "rank": 10,
-        "id": "w5ksj7eghzbmzpf6lwds0un12",
-        "title": "Anthropic与Nscale洽谈第二笔450亿美元算力协议",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112421955093807572",
-        "aihotUrl": "https://aihot.news/items/w5ksj7eghzbmzpf6lwds0un12",
-        "storyUrl": "https://aihot.news/story/251e87c1-0766-4f22-81b3-13fc84cfed38",
+        "id": "fgxi5gwvctlssc05odpcyf6ov",
+        "title": "OpenAI工程师涉装窃听器被捕，检方称获沙特支持",
+        "sourceName": "X：OpenAI Newsroom (@OpenAINewsroom)",
+        "sourceUrl": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+        "aihotUrl": "https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov",
+        "storyUrl": "https://aihot.news/story/99f5c3c4-2817-4634-b110-98b7db9ef40c",
         "sourceCount": 2,
-        "participantCount": 8,
-        "latestAt": "2026-10-20T05:53:35.000Z",
+        "participantCount": 10,
+        "latestAt": "2026-10-20T07:47:28.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -672,10 +667,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -686,8 +681,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-20T07:41:06.232Z",
-    "nextCheckAt": 1792482366232,
+    "checkedAt": "2026-10-20T13:02:41.164Z",
+    "nextCheckAt": 1792501661164,
     "intervalSeconds": 300,
     "message": ""
   }

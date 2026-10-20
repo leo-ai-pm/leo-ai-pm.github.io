@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-20T07:41:25.142Z",
+  "checkedAt": "2026-10-20T13:02:59.340Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,62 @@
     }
   ],
   "today": [
+    {
+      "id": "b1pcaa7ceghor24vjgsjagqqd",
+      "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+      "reason": "原文给出 llm-d 1.0 的具体能力变化和实测成本数据，读者可据此评估自建推理基础设施是否划算。",
+      "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
+      "sourceName": "IBM Research：AI",
+      "sourceUrl": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
+      "aihotUrl": "https://aihot.news/items/b1pcaa7ceghor24vjgsjagqqd",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "mnqboa5pusqz9brarpfutz57b",
+      "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
+      "reason": "Waymo 官方宣布进入西班牙市场，给出了落地时间表、分阶段部署方式和安全数据，读者可了解其全球扩张节奏。",
+      "summary": "Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。",
+      "sourceName": "Waymo：Blog（网页）",
+      "sourceUrl": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
+      "aihotUrl": "https://aihot.news/items/mnqboa5pusqz9brarpfutz57b",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "ckykonvith99q6hvd0utjdwfn",
+      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+      "reason": "DeepSeek 将内部推理框架全面开源，给出仓库地址和兼容平台，开发者可据此优化大规模推理的成本。",
+      "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
+      "sourceName": "公众号：DeepSeek（深度求索）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+      "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
+      "publishedAt": "2026-10-20T08:54:54.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "srgsfi8edabzrwgg6vjtgw3ya",
+      "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+      "reason": "原文梳理了融资节奏背后的竞争逻辑和两家收入口径差异，提供了理解估值分歧的具体依据。",
+      "summary": "据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+      "aihotUrl": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
+      "publishedAt": "2026-10-20T08:06:25.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "m2ylwtzb8x49c32spfl1wplqz",
       "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
@@ -318,34 +374,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "szf3v3re4888fzekwoohhu8b4",
-      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-      "reason": "AWS 团队官方发布 Trainium 的原生 PyTorch 后端，说明 API 兼容路径、执行模式与开源计划，读者可据此评估迁移成本。",
-      "summary": "AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端，将于 10 月 20 日在 PyTorch Conference North America 上以 Apache 2.0 协议开放公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
-      "sourceName": "PyTorch：Blog（RSS）",
-      "sourceUrl": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
-      "aihotUrl": "https://aihot.news/items/szf3v3re4888fzekwoohhu8b4",
-      "publishedAt": "2026-10-19T12:45:23.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "wrnv8dd428iozlj5xax99zbmj",
-      "title": "MiniMax 发布 M3.1 Flash，推理提速近三倍、用量成本降低 70%",
-      "reason": "官方给出具体基准分数、推理速度和每百万 token 定价，读者可直接对比智能体任务的性价比变化。",
-      "summary": "MiniMax 发布 MiniMax M3.1 Flash，匿名模型 Space Bunny 是其早期版本，曾处理超过 200 万亿 token。",
-      "sourceName": "MiniMax：Blog（网页）",
-      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
-      "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-      "publishedAt": "2026-10-18T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
     }
   ],
   "week": [
@@ -462,6 +490,34 @@
       "unselected": false
     },
     {
+      "id": "b1pcaa7ceghor24vjgsjagqqd",
+      "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+      "reason": "原文给出 llm-d 1.0 的具体能力变化和实测成本数据，读者可据此评估自建推理基础设施是否划算。",
+      "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
+      "sourceName": "IBM Research：AI",
+      "sourceUrl": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
+      "aihotUrl": "https://aihot.news/items/b1pcaa7ceghor24vjgsjagqqd",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "ckykonvith99q6hvd0utjdwfn",
+      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+      "reason": "DeepSeek 将内部推理框架全面开源，给出仓库地址和兼容平台，开发者可据此优化大规模推理的成本。",
+      "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
+      "sourceName": "公众号：DeepSeek（深度求索）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+      "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
+      "publishedAt": "2026-10-20T08:54:54.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "hnasqdie0vmly79xyg2ehqcgb",
       "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
       "reason": "原文给出 Inception 扩散模型的速度、上下文、基准对比和上线折扣价格，可据此评估其相对现有模型的性价比。",
@@ -546,31 +602,31 @@
       "unselected": false
     },
     {
-      "id": "i6u3av7zg8n3gfy6g7ynhns56",
-      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
-      "reason": "原文给出 SGLang 对 Beam 的原生支持细节与实测吞吐数据，读者可据此评估该推理栈在智能体负载下的服务性能。",
-      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
-      "sourceName": "LMSYS Blog",
-      "sourceUrl": "https://www.lmsys.org/blog/2026-10-16-beam",
-      "aihotUrl": "https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "id": "mnqboa5pusqz9brarpfutz57b",
+      "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
+      "reason": "Waymo 官方宣布进入西班牙市场，给出了落地时间表、分阶段部署方式和安全数据，读者可了解其全球扩张节奏。",
+      "summary": "Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。",
+      "sourceName": "Waymo：Blog（网页）",
+      "sourceUrl": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
+      "aihotUrl": "https://aihot.news/items/mnqboa5pusqz9brarpfutz57b",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
-      "id": "f14brdupsvks0k2hoang4lx6w",
-      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-      "reason": "Ollama 作为首发合作方介绍 Beam 的参数结构、上下文窗口和 ZDR 云端接入方式，读者可以据此评估在本机或云端运行该模型的可行性。",
-      "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
-      "sourceName": "Ollama：Blog（RSS）",
-      "sourceUrl": "https://ollama.com/blog/reflection-beam",
-      "aihotUrl": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "id": "srgsfi8edabzrwgg6vjtgw3ya",
+      "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+      "reason": "原文梳理了融资节奏背后的竞争逻辑和两家收入口径差异，提供了理解估值分歧的具体依据。",
+      "summary": "据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+      "aihotUrl": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
+      "publishedAt": "2026-10-20T08:06:25.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -652,34 +708,6 @@
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
       "aihotUrl": "https://aihot.news/items/tdcasw4dwhyzne3hxo3dmizmz",
       "publishedAt": "2026-10-19T13:58:41.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "bbr25r9mbi8zbbtmu2uiati7f",
-      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-      "reason": "两起德国法院判例指向同一法律逻辑，文章还分析了 Google 以和解回避判例对 AI 搜索商业模式的潜在影响。",
-      "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
-      "aihotUrl": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
-      "publishedAt": "2026-10-18T10:52:39.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "xwgy3mhme6nur9kndswxlu0es",
-      "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
-      "reason": "官方宣布进入加拿大市场的节奏与本地合作细节，读者可了解自动驾驶服务落地的分阶段做法。",
-      "summary": "Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。",
-      "sourceName": "Waymo：Blog（网页）",
-      "sourceUrl": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-      "aihotUrl": "https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es",
-      "publishedAt": "2026-10-16T07:00:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -918,6 +946,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "b1pcaa7ceghor24vjgsjagqqd",
+          "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+          "reason": "原文给出 llm-d 1.0 的具体能力变化和实测成本数据，读者可据此评估自建推理基础设施是否划算。",
+          "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
+          "sourceName": "IBM Research：AI",
+          "sourceUrl": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
+          "aihotUrl": "https://aihot.news/items/b1pcaa7ceghor24vjgsjagqqd",
+          "publishedAt": "2026-10-20T12:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "awmaqqunma83599eii4g3akgw",
           "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
           "reason": "文章复盘了用AI拖延骗子和反制AI卖惨账号的两个真实案例，可以看清攻防双方的成本结构差异。",
@@ -985,20 +1027,6 @@
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "emuxoxo4dpkovprjlldl4ugqt",
-          "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
-          "reason": "Google 官方教程给出 ADK 非阻塞语音工具的两种模式和实测数字，可迁移到自己的 Gemini Live 语音智能体开发。",
-          "summary": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3.8-live 构建不出现冷场的语音智能体，核心是非阻塞工具调用。",
-          "sourceName": "Google Developers Blog（RSS）",
-          "sourceUrl": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-          "aihotUrl": "https://aihot.news/items/emuxoxo4dpkovprjlldl4ugqt",
-          "publishedAt": "2026-10-18T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
@@ -1170,20 +1198,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "uljn62mk9ujyya1xg51hc6dp8",
-          "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-          "reason": "文章给出 ScaleDown 约束解码模型与 LangChain、Deep Agents 中间件的具体配置方法，读者可以按场景迁移用于压缩智能体上下文。",
-          "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-          "sourceName": "LangChain：Blog（RSS）",
-          "sourceUrl": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-          "aihotUrl": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-          "publishedAt": "2026-10-13T11:56:53.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1193,6 +1207,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "srgsfi8edabzrwgg6vjtgw3ya",
+          "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+          "reason": "原文梳理了融资节奏背后的竞争逻辑和两家收入口径差异，提供了理解估值分歧的具体依据。",
+          "summary": "据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+          "aihotUrl": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
+          "publishedAt": "2026-10-20T08:06:25.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "apaky0ybxpb9uwt12jrwj954p",
           "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
@@ -1262,20 +1290,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "xgj246drlw70qbgypibz6atla",
-          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-          "reason": "作者以官方身份说明 WorkBuddy Intl 已同步最新 DeepSeek 模型并限期免费，读者可直接试用体验。",
-          "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。",
-          "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-          "sourceUrl": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-          "aihotUrl": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
-          "publishedAt": "2026-10-17T10:29:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1285,6 +1299,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "srgsfi8edabzrwgg6vjtgw3ya",
+          "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+          "reason": "原文梳理了融资节奏背后的竞争逻辑和两家收入口径差异，提供了理解估值分歧的具体依据。",
+          "summary": "据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+          "aihotUrl": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
+          "publishedAt": "2026-10-20T08:06:25.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "apaky0ybxpb9uwt12jrwj954p",
           "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
@@ -1353,20 +1381,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "jn8i9j3ppsb0f79mrtldd43h8",
-          "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
-          "reason": "Anthropic 自己的研究，给出 Claude 优化量子电路的具体方法和量化改进，对理解 AI 辅助科学发现有参考价值。",
-          "summary": "Anthropic 发布研究报告，让 Claude Mythos 5 在闭环中自主优化量子电路：模型提出电路设计、由自动评估器验证正确性并按 qubit 数乘以门数打分，八项涵盖化学、优化、量子模拟和数论的任务均超过此前最优已发表设计，部分提升达一个数量级以上。",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-          "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
-          "publishedAt": "2026-10-15T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
