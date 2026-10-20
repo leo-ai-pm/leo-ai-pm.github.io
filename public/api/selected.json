@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-20T17:55:17.102Z",
+  "checkedAt": "2026-10-20T21:31:29.314Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "ov4nfafvbhe7d8mj1uirkgsxb",
+      "title": "SpaceX 财报显示 AI 业务超预期，收入占比达 52% 并重回盈利",
+      "reason": "财报数字显示 SpaceX 的 AI 业务已占收入过半并推动公司重回盈利，可作观察 AI 基建投入与回报节奏的参照。",
+      "summary": "SpaceX 发布三季度财报，AI 相关业务表现好于投资者预期，AI 已占公司收入的 52%。",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
+      "publishedAt": "2026-10-20T20:40:41.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "bnkk7s6s6tijtopwjxvx6eiw3",
+      "title": "Meta 开源权重模型 Muse Spark Open 在 Fireworks 上线，主打长上下文编码与 Agent 工作",
+      "reason": "Meta 开源权重模型在 Fireworks 上线，文中汇总法律、金融、医疗等第三方基准成绩，可帮助评估其在专业场景的可用性。",
+      "summary": "Meta 的开源权重模型 Muse Spark Open 在 Fireworks 上 Day-0 开放 serverless 调用，为 816B 参数 MoE 模型，每 token 激活 42B 参数，上下文窗口 1M token。",
+      "sourceName": "Fireworks AI（网页）",
+      "sourceUrl": "https://fireworks.ai/blog/meta-muse-spark-open",
+      "aihotUrl": "https://aihot.news/items/bnkk7s6s6tijtopwjxvx6eiw3",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "v26pyuir21k0m4r02acyz6v4g",
       "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
@@ -290,62 +318,6 @@
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
-    },
-    {
-      "id": "p04w1xjk7v6fmlskpf5vsnuka",
-      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-      "reason": "禁令延伸到第三方 DeepSeek 魔改产品，给所有向美国联邦供货的 AI 厂商提出了溯源自家模型组件的新要求。",
-      "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-      "sourceName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-      "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
-      "publishedAt": "2026-10-19T15:05:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "h6okcjroca6s95iemyh7dhpcm",
-      "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
-      "reason": "Arena 用 7.5K 真实会话的数据说明该模型以约 27% 的成本拿下开源第一，读者可据此权衡 Agent 场景的性价比。",
-      "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2112247114944360666",
-      "aihotUrl": "https://aihot.news/items/h6okcjroca6s95iemyh7dhpcm",
-      "publishedAt": "2026-10-19T18:18:50.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "h3p20nlx7t5fr27k4viwlnpty",
-      "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
-      "reason": "原文给出第三方 Elo 分数和生成速度数据，读者可据此判断该模型在图生视频梯队中的位置。",
-      "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。",
-      "sourceName": "X：fal (@fal)",
-      "sourceUrl": "https://x.com/fal/status/2112600472922333263",
-      "aihotUrl": "https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty",
-      "publishedAt": "2026-10-20T17:42:57.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "osk3jj5jltogwr6zpo09w80j8",
-      "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
-      "reason": "官方发布给出扩散模型规模化的关键数据，包括速度、上下文和价格，可用作评估实时 AI 应用选型的参考。",
-      "summary": "Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。",
-      "sourceName": "Inception Labs：Blog（网页）",
-      "sourceUrl": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "aihotUrl": "https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8",
-      "publishedAt": "2026-10-19T07:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
     }
   ],
   "week": [
@@ -462,6 +434,20 @@
       "unselected": false
     },
     {
+      "id": "bnkk7s6s6tijtopwjxvx6eiw3",
+      "title": "Meta 开源权重模型 Muse Spark Open 在 Fireworks 上线，主打长上下文编码与 Agent 工作",
+      "reason": "Meta 开源权重模型在 Fireworks 上线，文中汇总法律、金融、医疗等第三方基准成绩，可帮助评估其在专业场景的可用性。",
+      "summary": "Meta 的开源权重模型 Muse Spark Open 在 Fireworks 上 Day-0 开放 serverless 调用，为 816B 参数 MoE 模型，每 token 激活 42B 参数，上下文窗口 1M token。",
+      "sourceName": "Fireworks AI（网页）",
+      "sourceUrl": "https://fireworks.ai/blog/meta-muse-spark-open",
+      "aihotUrl": "https://aihot.news/items/bnkk7s6s6tijtopwjxvx6eiw3",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "v26pyuir21k0m4r02acyz6v4g",
       "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
       "reason": "原文给出完整设计、消融和成本数据，读者可以据此评估生产级 Agent 记忆架构的选型与收益。",
@@ -560,17 +546,17 @@
       "unselected": false
     },
     {
-      "id": "szf3v3re4888fzekwoohhu8b4",
-      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端开源",
-      "reason": "原文给出 TorchNeuron 的架构、执行模式和兼容性测试数据，开发者可据此评估把现有 PyTorch 工作流迁到 Trainium 的成本。",
-      "summary": "AWS 宣布推出 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日以 Apache 2.0 协议在 PyTorch Conference North America 开启公测。",
-      "sourceName": "PyTorch：Blog（RSS）",
-      "sourceUrl": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
-      "aihotUrl": "https://aihot.news/items/szf3v3re4888fzekwoohhu8b4",
-      "publishedAt": "2026-10-19T12:45:23.000Z",
+      "id": "ov4nfafvbhe7d8mj1uirkgsxb",
+      "title": "SpaceX 财报显示 AI 业务超预期，收入占比达 52% 并重回盈利",
+      "reason": "财报数字显示 SpaceX 的 AI 业务已占收入过半并推动公司重回盈利，可作观察 AI 基建投入与回报节奏的参照。",
+      "summary": "SpaceX 发布三季度财报，AI 相关业务表现好于投资者预期，AI 已占公司收入的 52%。",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
+      "publishedAt": "2026-10-20T20:40:41.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -666,20 +652,6 @@
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
       "aihotUrl": "https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1",
       "publishedAt": "2026-10-19T20:21:53.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "x7nruknd2vvd2dlhipy8tzy5m",
-      "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-      "reason": "文章梳理了 Character.AI 因诉讼和监管调查走向破产的经过，并说明 Disney 如何通过破产程序只接下技术与团队而回避法律责任。",
-      "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。",
-      "sourceName": "Ars Technica：AI（RSS）",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "aihotUrl": "https://aihot.news/items/x7nruknd2vvd2dlhipy8tzy5m",
-      "publishedAt": "2026-10-19T14:45:43.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -918,6 +890,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "ov4nfafvbhe7d8mj1uirkgsxb",
+          "title": "SpaceX 财报显示 AI 业务超预期，收入占比达 52% 并重回盈利",
+          "reason": "财报数字显示 SpaceX 的 AI 业务已占收入过半并推动公司重回盈利，可作观察 AI 基建投入与回报节奏的参照。",
+          "summary": "SpaceX 发布三季度财报，AI 相关业务表现好于投资者预期，AI 已占公司收入的 52%。",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
+          "publishedAt": "2026-10-20T20:40:41.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
+          "id": "bnkk7s6s6tijtopwjxvx6eiw3",
+          "title": "Meta 开源权重模型 Muse Spark Open 在 Fireworks 上线，主打长上下文编码与 Agent 工作",
+          "reason": "Meta 开源权重模型在 Fireworks 上线，文中汇总法律、金融、医疗等第三方基准成绩，可帮助评估其在专业场景的可用性。",
+          "summary": "Meta 的开源权重模型 Muse Spark Open 在 Fireworks 上 Day-0 开放 serverless 调用，为 816B 参数 MoE 模型，每 token 激活 42B 参数，上下文窗口 1M token。",
+          "sourceName": "Fireworks AI（网页）",
+          "sourceUrl": "https://fireworks.ai/blog/meta-muse-spark-open",
+          "aihotUrl": "https://aihot.news/items/bnkk7s6s6tijtopwjxvx6eiw3",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "v26pyuir21k0m4r02acyz6v4g",
           "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
           "reason": "原文给出完整设计、消融和成本数据，读者可以据此评估生产级 Agent 记忆架构的选型与收益。",
@@ -972,34 +972,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "kvok7sv5ddw0i5n62gbtuwtt3",
-          "title": "METR 评测 Anthropic 2026 年 8 月风险报告对齐章节，认可低风险结论但质疑评估方法",
-          "reason": "METR 独立审查了 Anthropic 风险报告的对齐章节，指出隐藏 CoT 评估无法覆盖 CoT 合理化攻击面，并给出监测系统红队测试建议。",
-          "summary": "METR 发布对 Anthropic 2026 年 8 月风险报告“高风险场景中的错位”章节的独立外部审查，基本同意截至 2026 年 7 月 15 日 Mythos 5 和内部模型 Model 2 的灾难性错位风险为低，但认为这主要源于模型能力有限而非安全防护。",
-          "sourceName": "METR：Blog（网页）",
-          "sourceUrl": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/",
-          "aihotUrl": "https://aihot.news/items/kvok7sv5ddw0i5n62gbtuwtt3",
-          "publishedAt": "2026-10-19T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "oxl50pfymja6rgxkem3y0de9j",
-          "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
-          "reason": "原文完整披露设计流程、筛选标准和实验数据，读者可以了解 AI 驱动蛋白质设计在被忽视疾病上的真实进展与局限。",
-          "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-          "aihotUrl": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j",
-          "publishedAt": "2026-10-19T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
         }
       ]
     },
@@ -1009,6 +981,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "bnkk7s6s6tijtopwjxvx6eiw3",
+          "title": "Meta 开源权重模型 Muse Spark Open 在 Fireworks 上线，主打长上下文编码与 Agent 工作",
+          "reason": "Meta 开源权重模型在 Fireworks 上线，文中汇总法律、金融、医疗等第三方基准成绩，可帮助评估其在专业场景的可用性。",
+          "summary": "Meta 的开源权重模型 Muse Spark Open 在 Fireworks 上 Day-0 开放 serverless 调用，为 816B 参数 MoE 模型，每 token 激活 42B 参数，上下文窗口 1M token。",
+          "sourceName": "Fireworks AI（网页）",
+          "sourceUrl": "https://fireworks.ai/blog/meta-muse-spark-open",
+          "aihotUrl": "https://aihot.news/items/bnkk7s6s6tijtopwjxvx6eiw3",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "xil73ls42cqpszvsiuq6u41mj",
           "title": "Tessl 团队分享：不再逐行审查 AI 生成代码，改为验证意图",
@@ -1074,20 +1060,6 @@
           "sourceUrl": "https://x.com/arena/status/2111894091168682086",
           "aihotUrl": "https://aihot.news/items/bm95oliei5mcgy2tau7e22d59",
           "publishedAt": "2026-10-18T18:56:03.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "bjzjg5k7af07c1c20bc1a8gxp",
-          "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
-          "reason": "基于 Arena 自家 Code Arena 榜单给出 Muse Spark Open 的具体得分、排名与定价对比，读者可据此定位该开源模型的真实水准。",
-          "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2111221323217412318",
-          "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
-          "publishedAt": "2026-10-16T22:22:42.000Z",
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
