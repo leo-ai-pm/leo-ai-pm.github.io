@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-20T02:08:52.436Z",
-      "lastSuccessAt": "2026-10-20T02:08:52.436Z",
-      "nextCheckAt": 1792465732436,
+      "checkedAt": "2026-10-20T07:40:56.463Z",
+      "lastSuccessAt": "2026-10-20T07:40:56.463Z",
+      "nextCheckAt": 1792485656463,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-20T02:08:52.437Z",
-      "lastSuccessAt": "2026-10-20T02:08:52.437Z",
-      "nextCheckAt": 1792465732437,
+      "checkedAt": "2026-10-20T07:40:56.464Z",
+      "lastSuccessAt": "2026-10-20T07:40:56.464Z",
+      "nextCheckAt": 1792485656464,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-20T02:08:52.438Z",
-      "lastSuccessAt": "2026-10-20T02:08:52.438Z",
-      "nextCheckAt": 1792465732438,
+      "checkedAt": "2026-10-20T07:40:56.465Z",
+      "lastSuccessAt": "2026-10-20T07:40:56.465Z",
+      "nextCheckAt": 1792485656465,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792465732634,
-      "checkedAt": "2026-10-20T02:08:52.634Z",
-      "lastSuccessAt": "2026-10-20T02:08:52.634Z",
+      "nextCheckAt": 1792485657561,
+      "checkedAt": "2026-10-20T07:40:57.561Z",
+      "lastSuccessAt": "2026-10-20T07:40:57.561Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792465732436,
+  "nextCheckAt": 1792485656463,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6480889.html",
-      "title": "别把手机 Agent 搬上车：从零到一做车载个人 Agent",
-      "summary": "当行业热议将手机 Multi-agent 搬上车时，本文冷静指出：车规级芯片、安全冗余与 10 年生命周期等硬约束，决定了座舱 Agent 不能照搬手机逻辑。文章提出「先 Job，再模型」的 AI Native 设计路径，从身份、记忆、授权三件套到六步落地法，为产品经理提供了一份可操作的座舱个人 Agent 构建指南。 01 开篇：别把手机 Agent / Multi-agent 的热闹搬上车 最近和几个 Tier1 的智舱供应商聊过，",
-      "publishedAt": "2026-10-20T01:46:37.000Z",
-      "url": "https://www.woshipm.com/ai/6480889.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6481268.html",
+      "title": "不用 Opus！不用 AE！Fotor Agent 一句话生成可商用的 4K 高清 MG 动画视频",
+      "summary": "数据柱、流程节点、LOGO 演绎这类 MG 动画，以往只能开 AE 一帧帧调，改个数字整段重做。作者用 Fotor Agent 直接生成可商用的 4K MG 动画，一句话改需求，省掉外包排期，文中给出提示词与实操流程。 做过功能讲解视频的人，大概都经历过这种事。画面早就定了，最后卡在 MG 动画制作上：要么自己开 AE 一帧帧调，要么找外包排期。好不容易快交付了，对方一句 “数据改一下”，整段又得重来。 MG 动画就是动态图形（Moti",
+      "publishedAt": "2026-10-20T06:44:46.000Z",
+      "url": "https://www.woshipm.com/ai/6481268.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6480889.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6481268.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "当行业热议将手机 Multi-agent 搬上车时，本文冷静指出：车规级芯片、安全冗余与 10 年生命周期等硬约束，决定了座舱 Agent 不能照搬手机逻辑。文章提出「先 Job，再模型」的 AI Native 设计路径，从身份、记忆、授权三件套到六步落地法，为产品经理提供了一份可操作的座舱个人 Agent 构建指南。 01 开篇：别把手机 Agent / Multi-agent 的热闹搬上车 最近和几个 Tier1 的智舱供应商聊过，",
+      "brief": "数据柱、流程节点、LOGO 演绎这类 MG 动画，以往只能开 AE 一帧帧调，改个数字整段重做。作者用 Fotor Agent 直接生成可商用的 4K MG 动画，一句话改需求，省掉外包排期，文中给出提示词与实操流程。 做过功能讲解视频的人，大概都经历过这种事。画面早就定了，最后卡在 MG 动画制作上：要么自己开 AE 一帧帧调，要么找外包排期。好不容易快交付了，对方一句 “数据改一下”，整段又得重来。 MG 动画就是动态图形（Moti",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,15 +134,15 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6478930.html",
-      "title": "提升Vibe Coding设计质量的10个技巧！",
-      "summary": "很多人用 Vibe Coding 时设计稿还原度低，设计细节反复说也改不对。文章按前期准备与代码产出两个阶段，整理提升还原度的十个技巧，覆盖底层大模型的选择、MCP 与 npm 包的安装，以及如何用约束规则缩小 AI 的上下文盲区。 经常有朋友来问我：“在 Vibe Coding 中有没有能够提升设计稿还原度的经验和方法？感觉自己用 AI 做 Coding 时的设计稿还原度很低，设计细节反复说好几遍也改不对，该怎么办呢？” 今天就给大家",
-      "publishedAt": "2026-10-20T01:12:02.000Z",
-      "url": "https://www.woshipm.com/ai/6478930.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6481261.html",
+      "title": "字节系创业者押注视频 Agent，「极致上下文」获超千万美元天使轮融资",
+      "summary": "视频 Agent Pexo 的母公司「极致上下文」完成超千万美元天使轮，达泰资本、松禾创投、视觉中国等入局。创始人廖谦出自生数科技与字节，曾主导 Vidu 产品与剪映海外 AI 平台，公司称用户复购率已超 50%。 视频 Agent Pexo （公司“极致上下文”）已完成超千万美元天使轮融资，投资方包括达泰资本、松禾创投、视觉中国、深圳天使母基金、深圳高新投、福迪创投等。本轮融资将主要用于 AI Content Agent 产品研发、全",
+      "publishedAt": "2026-10-20T06:40:26.000Z",
+      "url": "https://www.woshipm.com/ai/6481261.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478930.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6481261.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "很多人用 Vibe Coding 时设计稿还原度低，设计细节反复说也改不对。文章按前期准备与代码产出两个阶段，整理提升还原度的十个技巧，覆盖底层大模型的选择、MCP 与 npm 包的安装，以及如何用约束规则缩小 AI 的上下文盲区。 经常有朋友来问我：“在 Vibe Coding 中有没有能够提升设计稿还原度的经验和方法？感觉自己用 AI 做 Coding 时的设计稿还原度很低，设计细节反复说好几遍也改不对，该怎么办呢？” 今天就给大家",
+      "brief": "视频 Agent Pexo 的母公司「极致上下文」完成超千万美元天使轮，达泰资本、松禾创投、视觉中国等入局。创始人廖谦出自生数科技与字节，曾主导 Vidu 产品与剪映海外 AI 平台，公司称用户复购率已超 50%。 视频 Agent Pexo （公司“极致上下文”）已完成超千万美元天使轮融资，投资方包括达泰资本、松禾创投、视觉中国、深圳天使母基金、深圳高新投、福迪创投等。本轮融资将主要用于 AI Content Agent 产品研发、全",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,24 +174,23 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6480798.html",
-      "title": "DeepSeek发布最新模型：一句话交付一个故宫，成本是GPT-6四十分之一",
-      "summary": "DeepSeek V4.1-Flash-1017 建立在 552B MoE 底座上，ProgramBench 从 20.3 升到 29.1。「帕累托改进」不是单纯降价，而是靠更短轨迹减少无效调用；但对比的闭源模型并非最新版，结论要拆开看。 当一个模型能从一句需求出发，完成规划、编码、运行和调试，开发者最该问的已经不只是“它能不能做出来”，而是“它能以多低的成本、在多长的任务链路里稳定做出来”。 DeepSeek V4.1-Flash-1",
-      "publishedAt": "2026-10-20T01:00:17.000Z",
-      "url": "https://www.woshipm.com/ai/6480798.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6481135.html",
+      "title": "WorkBuddy上的那个神秘模型，终于被人认领",
+      "summary": "WorkBuddy 国庆接入的匿名模型 Space-Bunny 一直很神秘，现在提供方认领了：它是 MiniMax M3.1-Flash 的早期版本，不是腾讯 Hy4，也不是月之暗面的新模型。它以匿名身份处理了超 200T token。 WorkBuddy 国庆期间接入的 Space-Bunny（太空兔）大模型。 一直很神秘。 目前，WorkBuddy 上，仍然显示为「匿名大模型」。 但就在刚刚，这个匿名模型，已被提供方认领了。 不是腾",
+      "publishedAt": "2026-10-20T06:23:22.000Z",
+      "url": "https://www.woshipm.com/ai/6481135.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -203,16 +202,136 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6480798.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6481135.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "DeepSeek V4.1-Flash-1017 建立在 552B MoE 底座上，ProgramBench 从 20.3 升到 29.1。「帕累托改进」不是单纯降价，而是靠更短轨迹减少无效调用；但对比的闭源模型并非最新版，结论要拆开看。 当一个模型能从一句需求出发，完成规划、编码、运行和调试，开发者最该问的已经不只是“它能不能做出来”，而是“它能以多低的成本、在多长的任务链路里稳定做出来”。 DeepSeek V4.1-Flash-1",
+      "brief": "WorkBuddy 国庆接入的匿名模型 Space-Bunny 一直很神秘，现在提供方认领了：它是 MiniMax M3.1-Flash 的早期版本，不是腾讯 Hy4，也不是月之暗面的新模型。它以匿名身份处理了超 200T token。 WorkBuddy 国庆期间接入的 Space-Bunny（太空兔）大模型。 一直很神秘。 目前，WorkBuddy 上，仍然显示为「匿名大模型」。 但就在刚刚，这个匿名模型，已被提供方认领了。 不是腾",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/lugh-xtudio",
+      "title": "Lugh Xtudio",
+      "summary": "The video studio where AI agents edit with you",
+      "publishedAt": "2026-10-20T03:08:40.000Z",
+      "url": "https://www.producthunt.com/products/lugh-xtudio",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/lugh-xtudio",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The video studio where AI agents edit with you",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/intel",
+      "title": "Intel® GPU D-series",
+      "summary": "Memory-rich AI inference without HBM",
+      "publishedAt": "2026-10-20T02:46:24.000Z",
+      "url": "https://www.producthunt.com/products/intel",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/intel",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Memory-rich AI inference without HBM",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/runinfra",
+      "title": "RunInfra",
+      "summary": "Open models, built for agents.",
+      "publishedAt": "2026-10-19T23:12:51.000Z",
+      "url": "https://www.producthunt.com/products/runinfra",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/runinfra",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Open models, built for agents.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/n8n-nvidia-dgx-spark/",
@@ -253,126 +372,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/point-and-yap",
-      "title": "Point and Yap",
-      "summary": "Point at your screen and start yapping to your agent via MCP",
-      "publishedAt": "2026-10-19T00:12:27.000Z",
-      "url": "https://www.producthunt.com/products/point-and-yap",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/point-and-yap",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Point at your screen and start yapping to your agent via MCP",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/beam-win",
-      "title": "Beam.win",
-      "summary": "Run AI agents on one Mac and use its windows on another",
-      "publishedAt": "2026-10-18T19:13:45.000Z",
-      "url": "https://www.producthunt.com/products/beam-win",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/beam-win",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Run AI agents on one Mac and use its windows on another",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
-      "title": "Own 1",
-      "summary": "Own your data. Own your AI. A mind of your own.",
-      "publishedAt": "2026-10-18T08:46:56.000Z",
-      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Own your data. Own your AI. A mind of your own.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-20T02:09:21.003Z",
+  "checkedAt": "2026-10-20T07:41:25.142Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "m2ylwtzb8x49c32spfl1wplqz",
+      "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+      "reason": "原文拆解了 LES 在调度、存储、计算三层的具体设计，并给出消融数据，方法可迁移到其他 MoE 模型的端侧部署。",
+      "summary": "面壁智能 MiniCPM-V 团队介绍支撑 MiniCPM-V 4.7 端侧运行的前瞻专家调度（LES）技术，称首次实现 35B-A3B 规模 MoE 在端侧实时无损运行，iPhone 18 Pro Max 实测解码超 20 token/s。",
+      "sourceName": "公众号：面壁智能（MiniCPM）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
+      "aihotUrl": "https://aihot.news/items/m2ylwtzb8x49c32spfl1wplqz",
+      "publishedAt": "2026-10-20T06:22:26.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "apaky0ybxpb9uwt12jrwj954p",
+      "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+      "reason": "作者逐页核对了 WhatsApp 全部 545 页帮助文档并留档，还给出用 Internet Archive 自行验证的方法，事实与证据链都在原文里。",
+      "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "aihotUrl": "https://aihot.news/items/apaky0ybxpb9uwt12jrwj954p",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "awmaqqunma83599eii4g3akgw",
       "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
@@ -546,6 +574,20 @@
       "unselected": false
     },
     {
+      "id": "apaky0ybxpb9uwt12jrwj954p",
+      "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+      "reason": "作者逐页核对了 WhatsApp 全部 545 页帮助文档并留档，还给出用 Internet Archive 自行验证的方法，事实与证据链都在原文里。",
+      "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "aihotUrl": "https://aihot.news/items/apaky0ybxpb9uwt12jrwj954p",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "awmaqqunma83599eii4g3akgw",
       "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
       "reason": "文章复盘了用AI拖延骗子和反制AI卖惨账号的两个真实案例，可以看清攻防双方的成本结构差异。",
@@ -638,20 +680,6 @@
       "sourceUrl": "https://waymo.com/blog/2026/10/waymo-in-toronto",
       "aihotUrl": "https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es",
       "publishedAt": "2026-10-16T07:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "p11tj593iq5nrtiotvoxllop4",
-      "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-      "reason": "商务部就目录修订答记者问，解释了哪些AI技术在列、哪些出海情形不受限，便于企业判断合规边界。",
-      "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/013/983.htm",
-      "aihotUrl": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
-      "publishedAt": "2026-10-16T08:23:54.520Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -770,6 +798,20 @@
       "unselected": false
     },
     {
+      "id": "m2ylwtzb8x49c32spfl1wplqz",
+      "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+      "reason": "原文拆解了 LES 在调度、存储、计算三层的具体设计，并给出消融数据，方法可迁移到其他 MoE 模型的端侧部署。",
+      "summary": "面壁智能 MiniCPM-V 团队介绍支撑 MiniCPM-V 4.7 端侧运行的前瞻专家调度（LES）技术，称首次实现 35B-A3B 规模 MoE 在端侧实时无损运行，iPhone 18 Pro Max 实测解码超 20 token/s。",
+      "sourceName": "公众号：面壁智能（MiniCPM）",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
+      "aihotUrl": "https://aihot.news/items/m2ylwtzb8x49c32spfl1wplqz",
+      "publishedAt": "2026-10-20T06:22:26.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "emuxoxo4dpkovprjlldl4ugqt",
       "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
       "reason": "Google 官方教程给出 ADK 非阻塞语音工具的两种模式和实测数字，可迁移到自己的 Gemini Live 语音智能体开发。",
@@ -862,20 +904,6 @@
       "sourceUrl": "https://x.com/Khazix0918/status/2111639562720329976",
       "aihotUrl": "https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt",
       "publishedAt": "2026-10-18T02:04:38.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "ffpkck4k06le4smuaz4slhvcz",
-      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
-      "reason": "作者用一周实测讲清了如何在128G统一内存的RTX Spark笔记本上部署本地模型，并给出可复用的WorkBuddy专家整合流程。",
-      "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-      "aihotUrl": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
-      "publishedAt": "2026-10-17T10:19:04.000Z",
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
@@ -1166,6 +1194,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "apaky0ybxpb9uwt12jrwj954p",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+          "reason": "作者逐页核对了 WhatsApp 全部 545 页帮助文档并留档，还给出用 Internet Archive 自行验证的方法，事实与证据链都在原文里。",
+          "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "aihotUrl": "https://aihot.news/items/apaky0ybxpb9uwt12jrwj954p",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "tzuiybo7a45sm87wj4rec2mvo",
           "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
           "reason": "原文给出低资源语言的两套自建评测和逐语言数据，读者可据此评估新模型在遗留系统维护与迁移上的可用性。",
@@ -1234,20 +1276,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "d0pow9b93paydjtg2i76ang83",
-          "title": "vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持",
-          "reason": "原文给出了 Beam 在 vLLM 上的具体优化数据和部署命令，读者可以直接评估落地配置与吞吐收益。",
-          "summary": "vLLM 宣布从 Day 0 支持 Reflection 的 Beam 模型，这是一个 501B 参数、每 token 激活 23B 的 MoE 模型，在 NVIDIA Blackwell 上完成优化。",
-          "sourceName": "vLLM 官方博客（RSS）",
-          "sourceUrl": "https://vllm.ai/blog/2026-10-16-reflection-beam",
-          "aihotUrl": "https://aihot.news/items/d0pow9b93paydjtg2i76ang83",
-          "publishedAt": "2026-10-16T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1257,6 +1285,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "apaky0ybxpb9uwt12jrwj954p",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+          "reason": "作者逐页核对了 WhatsApp 全部 545 页帮助文档并留档，还给出用 Internet Archive 自行验证的方法，事实与证据链都在原文里。",
+          "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "aihotUrl": "https://aihot.news/items/apaky0ybxpb9uwt12jrwj954p",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "nextj30ehkdcjpzpk4fgz1p1w",
           "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
@@ -1322,20 +1364,6 @@
           "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
           "aihotUrl": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
           "publishedAt": "2026-10-15T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "y1c13l53cd5u3wg565qu60q4d",
-          "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
-          "reason": "原文基于 9800 次试验给出开放权重与闭源模型在间接提示词注入下的易感率差距和分攻击数据，方法与结果可直接用于安全选型参考。",
-          "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
-          "sourceName": "PromptArmor：Threat Intelligence",
-          "sourceUrl": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-          "aihotUrl": "https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d",
-          "publishedAt": "2026-10-16T00:00:00.000Z",
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
