@@ -1,7 +1,7 @@
 {
   "date": "2026年10月22日",
   "demo": false,
-  "updatedAt": "2026-10-21T18:53:14.562Z",
+  "updatedAt": "2026-10-21T22:15:02.343Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 316,
+    "received": 344,
     "latestCount": 5,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -110,8 +110,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -128,8 +128,8 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "Thom_Wolf",
@@ -218,49 +218,6 @@
       }
     },
     {
-      "id": "aihot-wxpr6eo777vyhfdz8mrzkb4mj",
-      "title": "Sam Altman 欢迎 Aleksander 回归 OpenAI",
-      "brief": "我非常感谢 Aleksander 接受了我们的请求来承担这项工作；在直面超级智能的过程中，我们面临的安全与安保挑战是巨大的，而他拥有出色的技能组合来应对这一问题。",
-      "summary": "我非常感谢 Aleksander 接受了我们的请求来承担这项工作；在直面超级智能的过程中，我们面临的安全与安保挑战是巨大的，而他拥有出色的技能组合来应对这一问题。",
-      "category": "行业观察",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2112652656602923366",
-      "aggregateUrl": "https://aihot.news/items/wxpr6eo777vyhfdz8mrzkb4mj",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-20T21:10:19.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "行业观察",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
       "id": "aihot-n8qw4m9aqooe1vwmnx1wz8mqx",
       "title": "GPT-Rosalind 为 Perry 综合征相关药物研发提出新思路",
       "brief": "OpenAI 团队介绍 GPT-Rosalind 在药物发现中的新进展，针对与 Perry 综合征相关的基因 DCTN1 提出假说：胆固醇转运受阻可能使神经元缺乏所需胆固醇，从而参与神经退行性病变。",
@@ -293,6 +250,49 @@
           "name": "Greg Brockman",
           "asset": "/assets/identities/gdb.jpg",
           "assetSource": "https://x.com/gdb",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-skwzba7il09zaa47sbxe3av1v",
+      "title": "Perplexity 与英伟达提出 JOLT 自蒸馏训练法",
+      "brief": "Perplexity 与 NVIDIA AI 提出后训练方法 JOLT，让同一模型同时充当教师和学生，并训练教师从自身尝试的奖励中学习、惩罚偏离学生行为的漂移。",
+      "summary": "Perplexity 与 NVIDIA AI 提出后训练方法 JOLT，让同一模型同时充当教师和学生，并训练教师从自身尝试的奖励中学习、惩罚偏离学生行为的漂移。",
+      "category": "研究进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "AravSrinivas",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2113013527418146913",
+      "aggregateUrl": "https://aihot.news/items/skwzba7il09zaa47sbxe3av1v",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-21T21:04:17.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
+          },
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "研究进展",
+        "author": {
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
           "tone": "#e9e4dc"
         }
       }
@@ -425,18 +425,75 @@
     },
     {
       "rank": 2,
+      "id": "jgg0i29t3o1eycc24c3wev0fx",
+      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-duet",
+      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
+      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
+      "sourceCount": 7,
+      "participantCount": 31,
+      "latestAt": "2026-10-21T20:34:13.000Z",
+      "expanded": true,
+      "latest": "Anthropic 开启 Claude Duet 研究预览，Claude 作为主动智能体全天候运行",
+      "reports": [
+        {
+          "title": "Anthropic 开启 Claude Duet 研究预览，Claude 作为主动智能体全天候运行",
+          "sourceName": "X：indigo (@indigox)",
+          "sourceUrl": "https://x.com/indigox/status/2113005962500129102",
+          "aihotUrl": "https://aihot.news/items/tisnffuwv2ov3jlpl69oky69l",
+          "publishedAt": "2026-10-21T20:34:13.000Z"
+        },
+        {
+          "title": "Anthropic Claude Duet 智能体购物流程曝光",
+          "sourceName": "X：Testing Catalog (@testingcatalog)",
+          "sourceUrl": "https://x.com/testingcatalog/status/2113004898929299492",
+          "aihotUrl": "https://aihot.news/items/i1vq8101ct2018eczivrgj946",
+          "publishedAt": "2026-10-21T20:30:00.000Z"
+        },
+        {
+          "title": "Anthropic 开放 Claude Duet 研究预览，员工分享用它监控 Slack 和邮件的用法",
+          "sourceName": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+          "sourceUrl": "https://x.com/lydiahallie/status/2113002610806730780",
+          "aihotUrl": "https://aihot.news/items/ohzmj176mq6winc9r1lpegrf7",
+          "publishedAt": "2026-10-21T20:20:54.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "r4saw5foxj8v0eb82f3b66cs0",
       "title": "OpenAI称模型协助发现PHP核心漏洞，Wiz披露可致RCE",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
       "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
       "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
-      "sourceCount": 4,
-      "participantCount": 25,
-      "latestAt": "2026-10-21T18:41:53.000Z",
+      "sourceCount": 6,
+      "participantCount": 29,
+      "latestAt": "2026-10-21T19:45:01.000Z",
       "expanded": true,
-      "latest": "PHP 全线 8.x 发布安全更新，修复两个远程代码执行漏洞",
+      "latest": "GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞",
       "reports": [
+        {
+          "title": "GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+          "aihotUrl": "https://aihot.news/items/tpiikkbcjgufps65c47e75rbr",
+          "publishedAt": "2026-10-21T19:45:01.000Z"
+        },
         {
           "title": "PHP 全线 8.x 发布安全更新，修复两个远程代码执行漏洞",
           "sourceName": "Simon Willison 博客",
@@ -450,13 +507,6 @@
           "sourceUrl": "https://x.com/rohanpaul_ai/status/2112962364996038971",
           "aihotUrl": "https://aihot.news/items/heuaxyy5ixq9x5wtoobw5wq7e",
           "publishedAt": "2026-10-21T17:40:59.000Z"
-        },
-        {
-          "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
-          "sourceName": "X：OpenAI (@OpenAI)",
-          "sourceUrl": "https://x.com/OpenAI/status/2112945805686604033",
-          "aihotUrl": "https://aihot.news/items/b31hjqo2l088vfydp5gcdyv8p",
-          "publishedAt": "2026-10-21T16:35:11.000Z"
         }
       ],
       "related": [],
@@ -474,7 +524,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "h05v2w7n5qxnee1h89espx59t",
       "title": "马斯克称SpaceX与特斯拉已设委员会评估合并",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -482,19 +532,11 @@
       "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
       "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
       "sourceCount": 1,
-      "participantCount": 25,
+      "participantCount": 28,
       "latestAt": "2026-10-21T08:56:42.000Z",
-      "expanded": true,
-      "latest": "马斯克谈 SpaceX 与 Tesla 合并可能性：双方独立委员会已在评估",
-      "reports": [
-        {
-          "title": "马斯克谈 SpaceX 与 Tesla 合并可能性：双方独立委员会已在评估",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
-          "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
-          "publishedAt": "2026-10-21T08:56:42.000Z"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -510,44 +552,16 @@
       }
     },
     {
-      "rank": 4,
-      "id": "p04w1xjk7v6fmlskpf5vsnuka",
-      "title": "美土安全部令联邦文职机构移除DeepSeek及关联产品",
-      "sourceName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-      "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
-      "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
-      "sourceCount": 5,
-      "participantCount": 35,
-      "latestAt": "2026-10-21T13:04:19.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Hacker News：AI 热帖",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 5,
-      "id": "wrnv8dd428iozlj5xax99zbmj",
-      "title": "MiniMax 发布 M3.1 Flash，10 月 23 日开放权重",
-      "sourceName": "MiniMax：Blog（网页）",
-      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
-      "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-      "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
-      "sourceCount": 4,
-      "participantCount": 27,
-      "latestAt": "2026-10-21T17:54:47.000Z",
+      "id": "nkn1qfqlo0oyt205jfrk4th22",
+      "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "aihotUrl": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
+      "storyUrl": "https://aihot.news/story/4e5e0d5e-eb50-43cc-b997-7cd714147997",
+      "sourceCount": 5,
+      "participantCount": 16,
+      "latestAt": "2026-10-21T20:27:41.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -555,7 +569,7 @@
       "visual": {
         "entities": [
           {
-            "name": "MiniMax：Blog（网页）",
+            "name": "TechCrunch：AI（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -568,14 +582,14 @@
     {
       "rank": 6,
       "id": "bm4bwid4hdnitbtz7pr6gtd0r",
-      "title": "OpenAI模型上架Google Cloud，三款进入私测",
+      "title": "OpenAI三款模型上架Google Cloud私测",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
       "aihotUrl": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
       "storyUrl": "https://aihot.news/story/49445e2f-d496-4acd-bc5e-70027cffd24a",
-      "sourceCount": 3,
-      "participantCount": 13,
-      "latestAt": "2026-10-21T17:44:22.000Z",
+      "sourceCount": 5,
+      "participantCount": 16,
+      "latestAt": "2026-10-21T19:23:19.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -601,6 +615,34 @@
     },
     {
       "rank": 7,
+      "id": "p04w1xjk7v6fmlskpf5vsnuka",
+      "title": "美土安全部令联邦文职机构移除DeepSeek及关联产品",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
+      "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "sourceCount": 4,
+      "participantCount": 32,
+      "latestAt": "2026-10-21T13:04:19.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Hacker News：AI 热帖",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "uaewh6yvv55k3kqgy7zsxyqi7",
       "title": "OpenAI通报两起模型抑制失准监控事件",
       "sourceName": "OpenAI：失准报告与通报（网页）",
@@ -608,7 +650,7 @@
       "aihotUrl": "https://aihot.news/items/uaewh6yvv55k3kqgy7zsxyqi7",
       "storyUrl": "https://aihot.news/story/6377d69e-f704-4c53-9d7b-b67c0a2d6d07",
       "sourceCount": 5,
-      "participantCount": 16,
+      "participantCount": 18,
       "latestAt": "2026-10-21T13:57:43.000Z",
       "expanded": false,
       "latest": "",
@@ -628,7 +670,35 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "wrnv8dd428iozlj5xax99zbmj",
+      "title": "MiniMax 发布 M3.1 Flash，10 月 23 日开放权重",
+      "sourceName": "MiniMax：Blog（网页）",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
+      "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+      "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
+      "sourceCount": 4,
+      "participantCount": 25,
+      "latestAt": "2026-10-21T20:27:17.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "MiniMax：Blog（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "jz5y4ct5xtomf83iipzc4nkvf",
       "title": "NVIDIA发布DSX POD模块化AI工厂参考设计",
       "sourceName": "NVIDIA：Newsroom（RSS）",
@@ -649,62 +719,6 @@
             "asset": "/assets/identities/nvidia.jpg",
             "assetSource": "https://x.com/nvidia",
             "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "e35drm2tixen1lpydh1icju57",
-      "title": "Amodei 回应 Anthropic 安全立场批评",
-      "sourceName": "X：Dario Amodei (@DarioAmodei)",
-      "sourceUrl": "https://x.com/DarioAmodei/status/2112732230124818891",
-      "aihotUrl": "https://aihot.news/items/e35drm2tixen1lpydh1icju57",
-      "storyUrl": "https://aihot.news/story/91257b3c-06c3-4abf-96c2-d36872494857",
-      "sourceCount": 2,
-      "participantCount": 15,
-      "latestAt": "2026-10-21T06:40:27.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "u9skklgkszb3pcf3cvvc1nefk",
-      "title": "OpenAI收购药物研发平台Orchestra Bio并入Rosalind",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "aihotUrl": "https://aihot.news/items/u9skklgkszb3pcf3cvvc1nefk",
-      "storyUrl": "https://aihot.news/story/452085ae-c2fe-4a36-bf0b-115388db0e18",
-      "sourceCount": 5,
-      "participantCount": 17,
-      "latestAt": "2026-10-21T08:32:54.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
