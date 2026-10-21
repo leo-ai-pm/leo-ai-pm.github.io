@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月21日",
     "demo": false,
-    "updatedAt": "2026-10-21T00:04:35.872Z",
+    "updatedAt": "2026-10-21T04:32:25.361Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 307,
+      "received": 311,
       "latestCount": 5,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -145,11 +145,11 @@
     },
     "items": [
       {
-        "id": "aihot-quu21zc0qax8q6cwtbs76ppjw",
-        "title": "Codex 回应额度异常消耗：约 40000 个账号限额错配已修正并补偿",
-        "brief": "Codex 团队回应部分用户周末额度消耗异常的反馈，确认约 40,000 个账号实际执行的用量限制与其所选套餐不一致，已修正该问题并逐一联系受影响用户，将为其账户补加额度，并向用户致歉。",
-        "summary": "Codex 团队回应部分用户周末额度消耗异常的反馈，确认约 40,000 个账号实际执行的用量限制与其所选套餐不一致，已修正该问题并逐一联系受影响用户，将为其账户补加额度，并向用户致歉。",
-        "category": "行业观察",
+        "id": "aihot-gf3h1rt1vsjw3dnw4hxlie3fv",
+        "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+        "brief": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。",
+        "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。",
+        "category": "产品动态",
         "topic": "Agent",
         "priority": "normal",
         "platform": "X",
@@ -157,10 +157,10 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2112592264686149749",
-        "aggregateUrl": "https://aihot.news/items/quu21zc0qax8q6cwtbs76ppjw",
+        "sourceUrl": "https://x.com/thsottiaux/status/2112712984644784534",
+        "aggregateUrl": "https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-20T17:10:20.000Z",
+        "publishedAt": "2026-10-21T01:10:02.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -172,7 +172,7 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "行业观察",
+          "caption": "产品动态",
           "author": {
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
@@ -377,37 +377,37 @@
       {
         "rank": 1,
         "id": "ckykonvith99q6hvd0utjdwfn",
-        "title": "DeepSeek 开源内部推理框架 DeepInfer",
+        "title": "DeepSeek 开源生产推理框架 DeepInfer",
         "sourceName": "公众号：DeepSeek（深度求索）",
         "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
         "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
         "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
-        "sourceCount": 11,
-        "participantCount": 49,
-        "latestAt": "2026-10-20T18:56:15.000Z",
+        "sourceCount": 12,
+        "participantCount": 53,
+        "latestAt": "2026-10-21T04:00:03.000Z",
         "expanded": true,
-        "latest": "DeepSeek 开源推理框架 DeepInfer，采用 Apache License 2.0",
+        "latest": "Databricks 员工调侃 DeepSeek 开源 DeepInfer 并公布推理收入数据",
         "reports": [
+          {
+            "title": "Databricks 员工调侃 DeepSeek 开源 DeepInfer 并公布推理收入数据",
+            "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+            "sourceUrl": "https://x.com/Yuchenj_UW/status/2112755768693043468",
+            "aihotUrl": "https://aihot.news/items/l7yr3cl8jr8t7kmmxkpa6k1h2",
+            "publishedAt": "2026-10-21T04:00:03.000Z"
+          },
+          {
+            "title": "DeepSeek 开源推理框架 DeepInfer 并发布技术报告，公开大规模部署细节",
+            "sourceName": "X：邵猛 (@shao__meng)",
+            "sourceUrl": "https://x.com/shao__meng/status/2112740048299082127",
+            "aihotUrl": "https://aihot.news/items/zp7fjrp880cdsrcnfhoqw7ak7",
+            "publishedAt": "2026-10-21T02:57:34.000Z"
+          },
           {
             "title": "DeepSeek 开源推理框架 DeepInfer，采用 Apache License 2.0",
             "sourceName": "The Decoder：AI News（RSS）",
             "sourceUrl": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
             "aihotUrl": "https://aihot.news/items/q7sy38nan6ypdxhq57axgmmf6",
             "publishedAt": "2026-10-20T18:56:15.000Z"
-          },
-          {
-            "title": "DeepSeek 公开推理集群数据：单集群日服务 155 万亿 token，每 GPU 小时收入 $38",
-            "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-            "sourceUrl": "https://x.com/Yuchenj_UW/status/2112591074409742733",
-            "aihotUrl": "https://aihot.news/items/tbw48skvv9vc713okgcrvroca",
-            "publishedAt": "2026-10-20T17:05:36.000Z"
-          },
-          {
-            "title": "DeepSeek 开源 DeepInfer 推理框架，支撑 DeepSeek-V4.1-Flash 生产服务",
-            "sourceName": "MarkTechPost（RSS）",
-            "sourceUrl": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
-            "aihotUrl": "https://aihot.news/items/hgro6biofb0t2dc4mi4vfr35u",
-            "publishedAt": "2026-10-20T14:31:59.000Z"
           }
         ],
         "related": [],
@@ -426,56 +426,6 @@
       },
       {
         "rank": 2,
-        "id": "wrnv8dd428iozlj5xax99zbmj",
-        "title": "MiniMax 发布 M3.1 Flash，10 月 23 日开放权重",
-        "sourceName": "MiniMax：Blog（网页）",
-        "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
-        "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-        "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
-        "sourceCount": 12,
-        "participantCount": 48,
-        "latestAt": "2026-10-20T20:14:56.000Z",
-        "expanded": true,
-        "latest": "MiniMax M3.1 Flash 登顶搜索效率榜",
-        "reports": [
-          {
-            "title": "MiniMax M3.1 Flash 登顶搜索效率榜",
-            "sourceName": "X：MiniMax (@MiniMax_AI)",
-            "sourceUrl": "https://x.com/MiniMax_AI/status/2112638721040482341",
-            "aihotUrl": "https://aihot.news/items/keby8ihorkwnztf3py23qpab6",
-            "publishedAt": "2026-10-20T20:14:56.000Z"
-          },
-          {
-            "title": "MiniMax M3.1 Flash 影视级创作展示",
-            "sourceName": "X：MiniMax (@MiniMax_AI)",
-            "sourceUrl": "https://x.com/MiniMax_AI/status/2112612152280588733",
-            "aihotUrl": "https://aihot.news/items/ij0u3qeormc7mvgeivb2vrcbx",
-            "publishedAt": "2026-10-20T18:29:22.000Z"
-          },
-          {
-            "title": "MiniMax M3.1 Flash 上线 OpenClaw",
-            "sourceName": "X：OpenClaw (@openclaw)",
-            "sourceUrl": "https://x.com/openclaw/status/2112569427527172435",
-            "aihotUrl": "https://aihot.news/items/mguf6906e888pqtdplonie2k5",
-            "publishedAt": "2026-10-20T15:39:35.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "MiniMax：Blog（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 3,
         "id": "p04w1xjk7v6fmlskpf5vsnuka",
         "title": "美土安全部令联邦文职机构移除DeepSeek及关联产品",
         "sourceName": "Hacker News：AI 热帖",
@@ -483,7 +433,7 @@
         "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
         "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
         "sourceCount": 6,
-        "participantCount": 40,
+        "participantCount": 42,
         "latestAt": "2026-10-20T13:07:24.000Z",
         "expanded": true,
         "latest": "美国下令联邦机构移除 DeepSeek AI 系统",
@@ -515,6 +465,56 @@
           "entities": [
             {
               "name": "Hacker News：AI 热帖",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
+        "id": "wrnv8dd428iozlj5xax99zbmj",
+        "title": "MiniMax 发布 M3.1 Flash，10 月 23 日开放权重",
+        "sourceName": "MiniMax：Blog（网页）",
+        "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
+        "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+        "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
+        "sourceCount": 12,
+        "participantCount": 49,
+        "latestAt": "2026-10-20T20:14:56.000Z",
+        "expanded": true,
+        "latest": "MiniMax M3.1 Flash 登顶搜索效率榜",
+        "reports": [
+          {
+            "title": "MiniMax M3.1 Flash 登顶搜索效率榜",
+            "sourceName": "X：MiniMax (@MiniMax_AI)",
+            "sourceUrl": "https://x.com/MiniMax_AI/status/2112638721040482341",
+            "aihotUrl": "https://aihot.news/items/keby8ihorkwnztf3py23qpab6",
+            "publishedAt": "2026-10-20T20:14:56.000Z"
+          },
+          {
+            "title": "MiniMax M3.1 Flash 影视级创作展示",
+            "sourceName": "X：MiniMax (@MiniMax_AI)",
+            "sourceUrl": "https://x.com/MiniMax_AI/status/2112612152280588733",
+            "aihotUrl": "https://aihot.news/items/ij0u3qeormc7mvgeivb2vrcbx",
+            "publishedAt": "2026-10-20T18:29:22.000Z"
+          },
+          {
+            "title": "MiniMax M3.1 Flash 上线 OpenClaw",
+            "sourceName": "X：OpenClaw (@openclaw)",
+            "sourceUrl": "https://x.com/openclaw/status/2112569427527172435",
+            "aihotUrl": "https://aihot.news/items/mguf6906e888pqtdplonie2k5",
+            "publishedAt": "2026-10-20T15:39:35.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "MiniMax：Blog（网页）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -561,7 +561,7 @@
         "aihotUrl": "https://aihot.news/items/u9skklgkszb3pcf3cvvc1nefk",
         "storyUrl": "https://aihot.news/story/452085ae-c2fe-4a36-bf0b-115388db0e18",
         "sourceCount": 4,
-        "participantCount": 13,
+        "participantCount": 14,
         "latestAt": "2026-10-20T20:35:10.000Z",
         "expanded": false,
         "latest": "",
@@ -582,6 +582,40 @@
       },
       {
         "rank": 6,
+        "id": "lh8vm7yp332xoffhqoscusss4",
+        "title": "Google 与 Meta 开源 TorchTPU，Hugging Face 原生支持 TPU",
+        "sourceName": "PyTorch：Blog（RSS）",
+        "sourceUrl": "https://pytorch.org/blog/introducing-torchtpu/",
+        "aihotUrl": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
+        "storyUrl": "https://aihot.news/story/d7566385-503b-4b33-acd6-21a80dd4085a",
+        "sourceCount": 5,
+        "participantCount": 12,
+        "latestAt": "2026-10-20T19:31:43.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            },
+            {
+              "name": "Hugging Face",
+              "asset": "/assets/identities/huggingface.jpg",
+              "assetSource": "https://x.com/huggingface",
+              "tone": "#f3ebd3"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "duhjb2yq1x0tlcxiwgqwyrjxm",
         "title": "Google 将 Gemini 个人智能引入车载系统",
         "sourceName": "X：Google (@Google)",
@@ -609,40 +643,6 @@
         }
       },
       {
-        "rank": 7,
-        "id": "lh8vm7yp332xoffhqoscusss4",
-        "title": "Google 与 Meta 开源 TorchTPU，Hugging Face 原生支持 TPU",
-        "sourceName": "PyTorch：Blog（RSS）",
-        "sourceUrl": "https://pytorch.org/blog/introducing-torchtpu/",
-        "aihotUrl": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
-        "storyUrl": "https://aihot.news/story/d7566385-503b-4b33-acd6-21a80dd4085a",
-        "sourceCount": 5,
-        "participantCount": 10,
-        "latestAt": "2026-10-20T19:31:43.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            },
-            {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 8,
         "id": "asyalmeuxw45l5wj2tar3tda5",
         "title": "ChatGPT上线锁定聊天，全套餐可PIN或生物识别保护",
@@ -651,7 +651,7 @@
         "aihotUrl": "https://aihot.news/items/asyalmeuxw45l5wj2tar3tda5",
         "storyUrl": "https://aihot.news/story/4ae113ab-ed43-4b60-8667-e154b21617cd",
         "sourceCount": 4,
-        "participantCount": 9,
+        "participantCount": 11,
         "latestAt": "2026-10-20T23:22:26.990Z",
         "expanded": false,
         "latest": "",
@@ -672,34 +672,6 @@
       },
       {
         "rank": 9,
-        "id": "srgsfi8edabzrwgg6vjtgw3ya",
-        "title": "OpenAI 拟以超1.4万亿美元估值融资300亿美元",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112455383356989598",
-        "aihotUrl": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
-        "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
-        "sourceCount": 1,
-        "participantCount": 11,
-        "latestAt": "2026-10-20T08:06:25.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
         "id": "ov4nfafvbhe7d8mj1uirkgsxb",
         "title": "SpaceX 三季度 AI 业务收入占比过半并扭亏为盈",
         "sourceName": "TechCrunch：AI（RSS）",
@@ -707,7 +679,7 @@
         "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
         "storyUrl": "https://aihot.news/story/2ba6c88e-eaa2-47c1-b517-8f89994933d9",
         "sourceCount": 1,
-        "participantCount": 8,
+        "participantCount": 10,
         "latestAt": "2026-10-20T20:40:41.000Z",
         "expanded": false,
         "latest": "",
@@ -725,13 +697,41 @@
           "caption": "热点",
           "author": null
         }
+      },
+      {
+        "rank": 10,
+        "id": "tg02d4j3421erivjnmogan129",
+        "title": "Meta Muse首日留存超ChatGPT，14日反落后",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/015/631.htm",
+        "aihotUrl": "https://aihot.news/items/tg02d4j3421erivjnmogan129",
+        "storyUrl": "https://aihot.news/story/c36f8d4b-027d-40a0-8d41-321b17a56489",
+        "sourceCount": 3,
+        "participantCount": 10,
+        "latestAt": "2026-10-20T23:34:16.363Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-21T00:04:35.872Z",
-    "nextCheckAt": 1792541375872,
+    "checkedAt": "2026-10-21T04:32:25.361Z",
+    "nextCheckAt": 1792557445361,
     "intervalSeconds": 300,
     "message": ""
   }
