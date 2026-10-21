@@ -1,7 +1,7 @@
 {
   "date": "2026年10月21日",
   "demo": false,
-  "updatedAt": "2026-10-21T09:32:43.447Z",
+  "updatedAt": "2026-10-21T14:36:55.775Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 314,
+    "received": 330,
     "latestCount": 6,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -137,7 +137,7 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       }
     ]
@@ -335,11 +335,11 @@
       }
     },
     {
-      "id": "aihot-ytacvdy0qrt3sxu22pt289qet",
-      "title": "DeepSeek 开源推理框架 DeepInfer，Thomas Wolf 盘点其连续开源的基础设施项目",
-      "brief": "Thomas Wolf 转评 DeepSeek 宣布将其生产推理框架 DeepInfer 开源，该框架支撑 DeepSeek-V4.1-Flash 的高吞吐低延迟推理，代码以 Apache 2.0 协议发布在 http://github.com/deepseek-ai/DeepInfer。",
-      "summary": "Thomas Wolf 转评 DeepSeek 宣布将其生产推理框架 DeepInfer 开源，该框架支撑 DeepSeek-V4.1-Flash 的高吞吐低延迟推理，代码以 Apache 2.0 协议发布在 http://github.com/deepseek-ai/DeepInfer。",
-      "category": "产品动态",
+      "id": "aihot-fx4tzuw2bgmbhdebv7hre3i7x",
+      "title": "黄仁勋 keynote 逗机器小鸭",
+      "brief": "Jensen 在 keynote 上花了 10 分钟让小鸭子坐下，然后给它们讲解 Nvidia 的路线图 🥹",
+      "summary": "Jensen 在 keynote 上花了 10 分钟让小鸭子坐下，然后给它们讲解 Nvidia 的路线图 🥹",
+      "category": "行业观察",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -347,10 +347,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Thomas Wolf · @Thom_Wolf",
       "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2112513796866813956",
-      "aggregateUrl": "https://aihot.news/items/ytacvdy0qrt3sxu22pt289qet",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2112863605788168508",
+      "aggregateUrl": "https://aihot.news/items/fx4tzuw2bgmbhdebv7hre3i7x",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-20T11:58:32.000Z",
+      "publishedAt": "2026-10-21T11:08:33.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -362,7 +362,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "行业观察",
         "author": {
           "name": "Thomas Wolf",
           "asset": "/assets/identities/thom_wolf.jpg",
@@ -419,7 +419,7 @@
       "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
       "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
       "sourceCount": 13,
-      "participantCount": 60,
+      "participantCount": 62,
       "latestAt": "2026-10-21T09:26:08.000Z",
       "expanded": true,
       "latest": "DeepSeek 开源内部推理框架 DeepInfer",
@@ -470,10 +470,17 @@
       "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
       "sourceCount": 6,
       "participantCount": 44,
-      "latestAt": "2026-10-20T13:07:24.000Z",
+      "latestAt": "2026-10-21T13:04:19.000Z",
       "expanded": true,
-      "latest": "美国下令联邦机构移除 DeepSeek AI 系统",
+      "latest": "美国禁政府系统使用 DeepSeek，中国抗议并指其歧视，但国内仍封锁 ChatGPT、Claude 和 Gemini",
       "reports": [
+        {
+          "title": "美国禁政府系统使用 DeepSeek，中国抗议并指其歧视，但国内仍封锁 ChatGPT、Claude 和 Gemini",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+          "aihotUrl": "https://aihot.news/items/mcdgtzrqkovzwmnoq8u2tpr2g",
+          "publishedAt": "2026-10-21T13:04:19.000Z"
+        },
         {
           "title": "美国下令联邦机构移除 DeepSeek AI 系统",
           "sourceName": "TechCrunch：AI（RSS）",
@@ -487,13 +494,6 @@
           "sourceUrl": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
           "aihotUrl": "https://aihot.news/items/q25epswbwucfhv5dqpj7bq65m",
           "publishedAt": "2026-10-20T11:34:54.000Z"
-        },
-        {
-          "title": "外交部回应美政府要求机构停用 DeepSeek：反对将科技经贸问题政治化",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/015/434.htm",
-          "aihotUrl": "https://aihot.news/items/acrg31bdkw2dqqduudi3zhzfd",
-          "publishedAt": "2026-10-20T09:20:36.667Z"
         }
       ],
       "related": [],
@@ -518,8 +518,8 @@
       "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
       "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
       "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
-      "sourceCount": 12,
-      "participantCount": 50,
+      "sourceCount": 6,
+      "participantCount": 35,
       "latestAt": "2026-10-20T20:14:56.000Z",
       "expanded": true,
       "latest": "MiniMax M3.1 Flash 登顶搜索效率榜",
@@ -562,34 +562,6 @@
     },
     {
       "rank": 4,
-      "id": "w34qm27sedtziwxig5ub9wwhr",
-      "title": "DeepSeek 发布 V4.1-Flash-1017 并开放搜索 API",
-      "sourceName": "DeepSeek：API 更新日志",
-      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
-      "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
-      "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
-      "sourceCount": 7,
-      "participantCount": 31,
-      "latestAt": "2026-10-20T23:11:23.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "DeepSeek：API 更新日志",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "u9skklgkszb3pcf3cvvc1nefk",
       "title": "OpenAI收购药物研发平台Orchestra Bio并入Rosalind",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -597,7 +569,7 @@
       "aihotUrl": "https://aihot.news/items/u9skklgkszb3pcf3cvvc1nefk",
       "storyUrl": "https://aihot.news/story/452085ae-c2fe-4a36-bf0b-115388db0e18",
       "sourceCount": 5,
-      "participantCount": 16,
+      "participantCount": 17,
       "latestAt": "2026-10-21T08:32:54.000Z",
       "expanded": false,
       "latest": "",
@@ -617,7 +589,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "allv4n9g9lhfy72m1pg725apv",
       "title": "Anthropic三季度收入168亿美元，增速放缓",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -625,7 +597,7 @@
       "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
       "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
       "sourceCount": 1,
-      "participantCount": 13,
+      "participantCount": 14,
       "latestAt": "2026-10-21T04:32:45.000Z",
       "expanded": false,
       "latest": "",
@@ -645,7 +617,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "e35drm2tixen1lpydh1icju57",
       "title": "Amodei 回应 Anthropic 安全立场批评",
       "sourceName": "X：Dario Amodei (@DarioAmodei)",
@@ -653,7 +625,7 @@
       "aihotUrl": "https://aihot.news/items/e35drm2tixen1lpydh1icju57",
       "storyUrl": "https://aihot.news/story/91257b3c-06c3-4abf-96c2-d36872494857",
       "sourceCount": 2,
-      "participantCount": 12,
+      "participantCount": 14,
       "latestAt": "2026-10-21T06:40:27.000Z",
       "expanded": false,
       "latest": "",
@@ -673,7 +645,63 @@
       }
     },
     {
+      "rank": 7,
+      "id": "h05v2w7n5qxnee1h89espx59t",
+      "title": "马斯克称SpaceX与特斯拉已设委员会评估合并",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
+      "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
+      "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
+      "sourceCount": 1,
+      "participantCount": 13,
+      "latestAt": "2026-10-21T08:56:42.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 8,
+      "id": "w34qm27sedtziwxig5ub9wwhr",
+      "title": "DeepSeek 发布 V4.1-Flash-1017 并开放搜索 API",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
+      "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+      "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
+      "sourceCount": 6,
+      "participantCount": 24,
+      "latestAt": "2026-10-20T23:11:23.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "DeepSeek：API 更新日志",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "ov4nfafvbhe7d8mj1uirkgsxb",
       "title": "SpaceX 三季度 AI 收入占比过半，计划明年大幅扩算力",
       "sourceName": "TechCrunch：AI（RSS）",
@@ -681,7 +709,7 @@
       "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
       "storyUrl": "https://aihot.news/story/2ba6c88e-eaa2-47c1-b517-8f89994933d9",
       "sourceCount": 2,
-      "participantCount": 13,
+      "participantCount": 14,
       "latestAt": "2026-10-21T04:52:41.000Z",
       "expanded": false,
       "latest": "",
@@ -701,7 +729,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "tg02d4j3421erivjnmogan129",
       "title": "Meta Muse首日留存超ChatGPT，14日反落后",
       "sourceName": "IT之家·人工智能",
@@ -709,7 +737,7 @@
       "aihotUrl": "https://aihot.news/items/tg02d4j3421erivjnmogan129",
       "storyUrl": "https://aihot.news/story/c36f8d4b-027d-40a0-8d41-321b17a56489",
       "sourceCount": 3,
-      "participantCount": 11,
+      "participantCount": 13,
       "latestAt": "2026-10-20T23:34:16.363Z",
       "expanded": false,
       "latest": "",
@@ -722,40 +750,6 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "lh8vm7yp332xoffhqoscusss4",
-      "title": "Google 与 Meta 开源 TorchTPU，Hugging Face 原生支持 TPU",
-      "sourceName": "PyTorch：Blog（RSS）",
-      "sourceUrl": "https://pytorch.org/blog/introducing-torchtpu/",
-      "aihotUrl": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
-      "storyUrl": "https://aihot.news/story/d7566385-503b-4b33-acd6-21a80dd4085a",
-      "sourceCount": 5,
-      "participantCount": 12,
-      "latestAt": "2026-10-20T19:31:43.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          },
-          {
-            "name": "Hugging Face",
-            "asset": "/assets/identities/huggingface.jpg",
-            "assetSource": "https://x.com/huggingface",
-            "tone": "#f3ebd3"
           }
         ],
         "caption": "热点",
