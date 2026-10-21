@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月21日",
     "demo": false,
-    "updatedAt": "2026-10-21T04:32:25.361Z",
+    "updatedAt": "2026-10-21T09:32:43.447Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 311,
-      "latestCount": 5,
+      "received": 314,
+      "latestCount": 6,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -120,8 +120,8 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "AravSrinivas",
@@ -262,6 +262,43 @@
         }
       },
       {
+        "id": "aihot-oxxlplz8v1i6xltqccibe45eh",
+        "title": "OpenAI 收购 Orchestra Bio，加速药物研发协作",
+        "brief": "OpenAI 宣布收购 Orchestra Bio，这是一个帮助生物医药团队协调复杂药物研发流程的平台。",
+        "summary": "OpenAI 宣布收购 Orchestra Bio，这是一个帮助生物医药团队协调复杂药物研发流程的平台。",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "gdb",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Greg Brockman · @gdb",
+        "feedName": "X：Greg Brockman (@gdb)",
+        "sourceUrl": "https://x.com/gdb/status/2112797730829697108",
+        "aggregateUrl": "https://aihot.news/items/oxxlplz8v1i6xltqccibe45eh",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-21T06:46:47.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "行业观察",
+          "author": {
+            "name": "Greg Brockman",
+            "asset": "/assets/identities/gdb.jpg",
+            "assetSource": "https://x.com/gdb",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
         "id": "aihot-xj83i7raol3o1yd09xt6ogxr6",
         "title": "Perplexity Decider 在 Vals AI 金融基准上达帕累托最优",
         "brief": "Perplexity Decider 在 Vals AI 的 Financial ClaimBench 上达到帕累托最优",
@@ -382,12 +419,19 @@
         "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
         "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
         "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
-        "sourceCount": 12,
-        "participantCount": 53,
-        "latestAt": "2026-10-21T04:00:03.000Z",
+        "sourceCount": 13,
+        "participantCount": 60,
+        "latestAt": "2026-10-21T09:26:08.000Z",
         "expanded": true,
-        "latest": "Databricks 员工调侃 DeepSeek 开源 DeepInfer 并公布推理收入数据",
+        "latest": "DeepSeek 开源内部推理框架 DeepInfer",
         "reports": [
+          {
+            "title": "DeepSeek 开源内部推理框架 DeepInfer",
+            "sourceName": "X：X.PIN (@thexpin)",
+            "sourceUrl": "https://x.com/thexpin/status/2112837830544081199",
+            "aihotUrl": "https://aihot.news/items/eokygpb410q0isffci7g4a8ik",
+            "publishedAt": "2026-10-21T09:26:08.000Z"
+          },
           {
             "title": "Databricks 员工调侃 DeepSeek 开源 DeepInfer 并公布推理收入数据",
             "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
@@ -401,13 +445,6 @@
             "sourceUrl": "https://x.com/shao__meng/status/2112740048299082127",
             "aihotUrl": "https://aihot.news/items/zp7fjrp880cdsrcnfhoqw7ak7",
             "publishedAt": "2026-10-21T02:57:34.000Z"
-          },
-          {
-            "title": "DeepSeek 开源推理框架 DeepInfer，采用 Apache License 2.0",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
-            "aihotUrl": "https://aihot.news/items/q7sy38nan6ypdxhq57axgmmf6",
-            "publishedAt": "2026-10-20T18:56:15.000Z"
           }
         ],
         "related": [],
@@ -433,7 +470,7 @@
         "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
         "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
         "sourceCount": 6,
-        "participantCount": 42,
+        "participantCount": 44,
         "latestAt": "2026-10-20T13:07:24.000Z",
         "expanded": true,
         "latest": "美国下令联邦机构移除 DeepSeek AI 系统",
@@ -483,7 +520,7 @@
         "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
         "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
         "sourceCount": 12,
-        "participantCount": 49,
+        "participantCount": 50,
         "latestAt": "2026-10-20T20:14:56.000Z",
         "expanded": true,
         "latest": "MiniMax M3.1 Flash 登顶搜索效率榜",
@@ -533,7 +570,7 @@
         "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
         "storyUrl": "https://aihot.news/story/f8045374-7106-49b1-8fd8-ce824a952e45",
         "sourceCount": 7,
-        "participantCount": 38,
+        "participantCount": 31,
         "latestAt": "2026-10-20T23:11:23.000Z",
         "expanded": false,
         "latest": "",
@@ -555,14 +592,14 @@
       {
         "rank": 5,
         "id": "u9skklgkszb3pcf3cvvc1nefk",
-        "title": "OpenAI收购药物研发平台Orchestra Bio",
+        "title": "OpenAI收购药物研发平台Orchestra Bio并入Rosalind",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
         "aihotUrl": "https://aihot.news/items/u9skklgkszb3pcf3cvvc1nefk",
         "storyUrl": "https://aihot.news/story/452085ae-c2fe-4a36-bf0b-115388db0e18",
-        "sourceCount": 4,
-        "participantCount": 14,
-        "latestAt": "2026-10-20T20:35:10.000Z",
+        "sourceCount": 5,
+        "participantCount": 16,
+        "latestAt": "2026-10-21T08:32:54.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -582,6 +619,118 @@
       },
       {
         "rank": 6,
+        "id": "allv4n9g9lhfy72m1pg725apv",
+        "title": "Anthropic三季度收入168亿美元，增速放缓",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+        "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+        "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
+        "sourceCount": 1,
+        "participantCount": 13,
+        "latestAt": "2026-10-21T04:32:45.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "e35drm2tixen1lpydh1icju57",
+        "title": "Amodei 回应 Anthropic 安全立场批评",
+        "sourceName": "X：Dario Amodei (@DarioAmodei)",
+        "sourceUrl": "https://x.com/DarioAmodei/status/2112732230124818891",
+        "aihotUrl": "https://aihot.news/items/e35drm2tixen1lpydh1icju57",
+        "storyUrl": "https://aihot.news/story/91257b3c-06c3-4abf-96c2-d36872494857",
+        "sourceCount": 2,
+        "participantCount": 12,
+        "latestAt": "2026-10-21T06:40:27.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "ov4nfafvbhe7d8mj1uirkgsxb",
+        "title": "SpaceX 三季度 AI 收入占比过半，计划明年大幅扩算力",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
+        "storyUrl": "https://aihot.news/story/2ba6c88e-eaa2-47c1-b517-8f89994933d9",
+        "sourceCount": 2,
+        "participantCount": 13,
+        "latestAt": "2026-10-21T04:52:41.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "TechCrunch：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "tg02d4j3421erivjnmogan129",
+        "title": "Meta Muse首日留存超ChatGPT，14日反落后",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/015/631.htm",
+        "aihotUrl": "https://aihot.news/items/tg02d4j3421erivjnmogan129",
+        "storyUrl": "https://aihot.news/story/c36f8d4b-027d-40a0-8d41-321b17a56489",
+        "sourceCount": 3,
+        "participantCount": 11,
+        "latestAt": "2026-10-20T23:34:16.363Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "lh8vm7yp332xoffhqoscusss4",
         "title": "Google 与 Meta 开源 TorchTPU，Hugging Face 原生支持 TPU",
         "sourceName": "PyTorch：Blog（RSS）",
@@ -613,125 +762,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 7,
-        "id": "duhjb2yq1x0tlcxiwgqwyrjxm",
-        "title": "Google 将 Gemini 个人智能引入车载系统",
-        "sourceName": "X：Google (@Google)",
-        "sourceUrl": "https://x.com/Google/status/2112655614132285592",
-        "aihotUrl": "https://aihot.news/items/duhjb2yq1x0tlcxiwgqwyrjxm",
-        "storyUrl": "https://aihot.news/story/61963b38-0861-49cc-aeef-d4191c0e21d1",
-        "sourceCount": 3,
-        "participantCount": 11,
-        "latestAt": "2026-10-20T22:11:34.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "asyalmeuxw45l5wj2tar3tda5",
-        "title": "ChatGPT上线锁定聊天，全套餐可PIN或生物识别保护",
-        "sourceName": "X：ChatGPT (@ChatGPT)",
-        "sourceUrl": "https://x.com/ChatGPT/status/2112597766333673624",
-        "aihotUrl": "https://aihot.news/items/asyalmeuxw45l5wj2tar3tda5",
-        "storyUrl": "https://aihot.news/story/4ae113ab-ed43-4b60-8667-e154b21617cd",
-        "sourceCount": 4,
-        "participantCount": 11,
-        "latestAt": "2026-10-20T23:22:26.990Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：ChatGPT (@ChatGPT)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "ov4nfafvbhe7d8mj1uirkgsxb",
-        "title": "SpaceX 三季度 AI 业务收入占比过半并扭亏为盈",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-        "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
-        "storyUrl": "https://aihot.news/story/2ba6c88e-eaa2-47c1-b517-8f89994933d9",
-        "sourceCount": 1,
-        "participantCount": 10,
-        "latestAt": "2026-10-20T20:40:41.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "TechCrunch：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "tg02d4j3421erivjnmogan129",
-        "title": "Meta Muse首日留存超ChatGPT，14日反落后",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/015/631.htm",
-        "aihotUrl": "https://aihot.news/items/tg02d4j3421erivjnmogan129",
-        "storyUrl": "https://aihot.news/story/c36f8d4b-027d-40a0-8d41-321b17a56489",
-        "sourceCount": 3,
-        "participantCount": 10,
-        "latestAt": "2026-10-20T23:34:16.363Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-21T04:32:25.361Z",
-    "nextCheckAt": 1792557445361,
+    "checkedAt": "2026-10-21T09:32:43.447Z",
+    "nextCheckAt": 1792575463447,
     "intervalSeconds": 300,
     "message": ""
   }

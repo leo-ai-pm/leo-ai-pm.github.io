@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-21T04:32:13.799Z",
-      "lastSuccessAt": "2026-10-21T04:32:13.799Z",
-      "nextCheckAt": 1792560733799,
+      "checkedAt": "2026-10-21T09:32:30.449Z",
+      "lastSuccessAt": "2026-10-21T09:32:30.449Z",
+      "nextCheckAt": 1792578750449,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-21T04:32:13.800Z",
-      "lastSuccessAt": "2026-10-21T04:32:13.800Z",
-      "nextCheckAt": 1792560733800,
+      "checkedAt": "2026-10-21T09:32:30.450Z",
+      "lastSuccessAt": "2026-10-21T09:32:30.450Z",
+      "nextCheckAt": 1792578750450,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-21T04:32:13.801Z",
-      "lastSuccessAt": "2026-10-21T04:32:13.801Z",
-      "nextCheckAt": 1792560733801,
+      "checkedAt": "2026-10-21T09:32:30.451Z",
+      "lastSuccessAt": "2026-10-21T09:32:30.451Z",
+      "nextCheckAt": 1792578750451,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792560733979,
-      "checkedAt": "2026-10-21T04:32:13.979Z",
-      "lastSuccessAt": "2026-10-21T04:32:13.979Z",
+      "nextCheckAt": 1792578750590,
+      "checkedAt": "2026-10-21T09:32:30.590Z",
+      "lastSuccessAt": "2026-10-21T09:32:30.590Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792560733799,
+  "nextCheckAt": 1792578750449,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/share/6481760.html",
-      "title": "AI 产品面试真题题：你会如何选择模型？",
-      "summary": "面试官问「你会如何选择大模型」，多数人上来就报厂商名字。更稳的答法是先把业务链路拆开：识别意图、理解材料、调用工具各要什么能力，再谈版本、成本与响应时间，最后拿真实样本给出评测证据。 最近，一位产品同学想转型 AI 产品经理岗位。 他在面试中被问到：“你会如何选择大模型？” 我给他的建议是，先把业务里需要模型做的事讲清楚，再谈选哪一家。 顺着这个思路，评测怎么做、成本怎么比，也就有了依据。 后面我会持续整理这类面试题。 这篇先聊模型选型",
-      "publishedAt": "2026-10-21T03:34:38.000Z",
-      "url": "https://www.woshipm.com/share/6481760.html",
+      "id": "woshipm:https://www.woshipm.com/pd/6481688.html",
+      "title": "AI 时代下，需求文档的黄金模式：Spec",
+      "summary": "一位不懂代码的产品经理，用175天独立搭建起覆盖Web端、运营后台、数据采集、自动写作、短视频与支付会员的完整系统。他复盘了从失败到成功的需求开发模式，提出Spec三份文档（需求、设计、任务）缺一不可，并强调强制力必须落在机器上。本文深度拆解AI时代需求可判定性的核心瓶颈与Agent工具链的实战经验。 一个不懂代码的产品经理，用 175 天做出一套覆盖 Web 端、运营后台、后端接口、数据采集、自动写作、自动制作短视频与支付会员的系统。",
+      "publishedAt": "2026-10-21T08:03:42.000Z",
+      "url": "https://www.woshipm.com/pd/6481688.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6481760.html",
+      "sourceUrl": "https://www.woshipm.com/pd/6481688.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "面试官问「你会如何选择大模型」，多数人上来就报厂商名字。更稳的答法是先把业务链路拆开：识别意图、理解材料、调用工具各要什么能力，再谈版本、成本与响应时间，最后拿真实样本给出评测证据。 最近，一位产品同学想转型 AI 产品经理岗位。 他在面试中被问到：“你会如何选择大模型？” 我给他的建议是，先把业务里需要模型做的事讲清楚，再谈选哪一家。 顺着这个思路，评测怎么做、成本怎么比，也就有了依据。 后面我会持续整理这类面试题。 这篇先聊模型选型",
+      "brief": "一位不懂代码的产品经理，用175天独立搭建起覆盖Web端、运营后台、数据采集、自动写作、短视频与支付会员的完整系统。他复盘了从失败到成功的需求开发模式，提出Spec三份文档（需求、设计、任务）缺一不可，并强调强制力必须落在机器上。本文深度拆解AI时代需求可判定性的核心瓶颈与Agent工具链的实战经验。 一个不懂代码的产品经理，用 175 天做出一套覆盖 Web 端、运营后台、后端接口、数据采集、自动写作、自动制作短视频与支付会员的系统。",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,15 +134,15 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6481657.html",
-      "title": "月访问快过亿的WorkBuddy，又接新模型，实测便宜还能打",
-      "summary": "易观最新报告显示 WorkBuddy 9 月月访问超 8500 万，算上 CodeBuddy 已经过亿。接入新模型之后实测做视频、做 PPT、跑数据分析、生成教学动画四件事，看它到底便宜在哪，又能打在哪。 今天看到一个消息，WorkBuddy 9月月访问用户超8500 万，都快过亿了。 这数据，来源于易观分析最新发布的《2026年三季度中国办公智能体平台市场洞察》。 过去的 9 月月访问量，WorkBuddy 超过 8500万，断档式第",
-      "publishedAt": "2026-10-21T02:43:38.000Z",
-      "url": "https://www.woshipm.com/ai/6481657.html",
+      "id": "woshipm:https://www.woshipm.com/share/6476860.html",
+      "title": "复盘怎么做？从AAR、5Why到KISS的五大步骤与七大模型完整拆解",
+      "summary": "复盘源于围棋，本质是回看和盘点，把一段经历变成一套判断系统。五大步骤与七大模型，从对齐目标、还原过程、分析原因，到指引行动和资源判断，分别用上 AAR、STAR、5W1H、5Why、KISS 和 SMART 等工具。 不会复盘的人，很难有复利。 会复盘的人能做到：做正确的事+正确地做事。前者决定方向，后者决定效率。复盘就是要同时解决这两大问题。 会复盘的人，更会知道自己「不做什么」 正如段永平在雪球的简介，人们关注我们往往是因为我们做了",
+      "publishedAt": "2026-10-21T07:53:37.000Z",
+      "url": "https://www.woshipm.com/share/6476860.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6481657.html",
+      "sourceUrl": "https://www.woshipm.com/share/6476860.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "易观最新报告显示 WorkBuddy 9 月月访问超 8500 万，算上 CodeBuddy 已经过亿。接入新模型之后实测做视频、做 PPT、跑数据分析、生成教学动画四件事，看它到底便宜在哪，又能打在哪。 今天看到一个消息，WorkBuddy 9月月访问用户超8500 万，都快过亿了。 这数据，来源于易观分析最新发布的《2026年三季度中国办公智能体平台市场洞察》。 过去的 9 月月访问量，WorkBuddy 超过 8500万，断档式第",
+      "brief": "复盘源于围棋，本质是回看和盘点，把一段经历变成一套判断系统。五大步骤与七大模型，从对齐目标、还原过程、分析原因，到指引行动和资源判断，分别用上 AAR、STAR、5W1H、5Why、KISS 和 SMART 等工具。 不会复盘的人，很难有复利。 会复盘的人能做到：做正确的事+正确地做事。前者决定方向，后者决定效率。复盘就是要同时解决这两大问题。 会复盘的人，更会知道自己「不做什么」 正如段永平在雪球的简介，人们关注我们往往是因为我们做了",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,15 +174,15 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6481415.html",
-      "title": "如何让【模型本身】具有记忆：存入参数",
-      "summary": "上下文有三个来源，人给的、Agent 给的，以及模型自己内化进参数的。前两种对话结束就没了。记忆张量团队的 MemT 1.0 想走第三条路，把记忆直接写进参数：成本有优势、经验写得进去，但准确性不如原文。 这两天接触到了一个非常有探索性的记忆项目：摒弃外挂文本，将记忆存入参数 首先，我认为：上下文即一切对模型来说，上下文有三种来源：人给的、Agent 给的、模型内化了的 之前在新华社做分享时的 ppt 前两种都是文本：人复制资料、写提示",
-      "publishedAt": "2026-10-21T01:35:05.000Z",
-      "url": "https://www.woshipm.com/ai/6481415.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6478938.html",
+      "title": "如何从0-1写好一个Skill？超全教程+案例分享！",
+      "summary": "想拥有一个称心的 AI Skill，要么从零手写耗时费力，要么 AI 生成不达预期。文章分享做 Skills 的经验，从写出包含身份、用途、内容、交付要求与禁用规则的撰写指令，到检验与调优，帮你在 Trae 或 Claude Code 里快速起步。 对于经常用 Trae、Claude Code 做设计、编程协作的小伙伴来说，Skills 一定是提升效率的神器。不过想要一个让自己使用起来称心如意的 AI Skill，要么从零手写耗时费力，",
+      "publishedAt": "2026-10-21T07:44:05.000Z",
+      "url": "https://www.woshipm.com/ai/6478938.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -202,11 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6481415.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6478938.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "上下文有三个来源，人给的、Agent 给的，以及模型自己内化进参数的。前两种对话结束就没了。记忆张量团队的 MemT 1.0 想走第三条路，把记忆直接写进参数：成本有优势、经验写得进去，但准确性不如原文。 这两天接触到了一个非常有探索性的记忆项目：摒弃外挂文本，将记忆存入参数 首先，我认为：上下文即一切对模型来说，上下文有三种来源：人给的、Agent 给的、模型内化了的 之前在新华社做分享时的 ppt 前两种都是文本：人复制资料、写提示",
+      "brief": "想拥有一个称心的 AI Skill，要么从零手写耗时费力，要么 AI 生成不达预期。文章分享做 Skills 的经验，从写出包含身份、用途、内容、交付要求与禁用规则的撰写指令，到检验与调优，帮你在 Trae 或 Claude Code 里快速起步。 对于经常用 Trae、Claude Code 做设计、编程协作的小伙伴来说，Skills 一定是提升效率的神器。不过想要一个让自己使用起来称心如意的 AI Skill，要么从零手写耗时费力，",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -214,51 +214,11 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/lugh-xtudio",
-      "title": "Lugh Xtudio",
-      "summary": "The video studio where AI agents edit with you",
-      "publishedAt": "2026-10-20T03:08:40.000Z",
-      "url": "https://www.producthunt.com/products/lugh-xtudio",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/lugh-xtudio",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The video studio where AI agents edit with you",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/intel",
-      "title": "Intel® GPU D-series",
-      "summary": "Memory-rich AI inference without HBM",
-      "publishedAt": "2026-10-20T02:46:24.000Z",
-      "url": "https://www.producthunt.com/products/intel",
+      "id": "sspai:https://sspai.com/post/116445",
+      "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+      "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "url": "https://sspai.com/post/116445",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -268,6 +228,46 @@
       "visual": {
         "entities": [
           {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/116445",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/agent-pets",
+      "title": "Agent Pets",
+      "summary": "Coding agents as pets that live on every page in Chrome",
+      "publishedAt": "2026-10-21T04:55:21.000Z",
+      "url": "https://www.producthunt.com/products/agent-pets",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
             "name": "Product Hunt",
             "asset": null,
             "tone": "#f0e1d9"
@@ -282,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/intel",
+      "sourceUrl": "https://www.producthunt.com/products/agent-pets",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Memory-rich AI inference without HBM",
+      "brief": "Coding agents as pets that live on every page in Chrome",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -294,11 +294,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/runinfra",
-      "title": "RunInfra",
-      "summary": "Open models, built for agents.",
-      "publishedAt": "2026-10-19T23:12:51.000Z",
-      "url": "https://www.producthunt.com/products/runinfra",
+      "id": "ph:https://www.producthunt.com/products/mouse-1",
+      "title": "Mouse-1",
+      "summary": "A decision model for your agent harness.",
+      "publishedAt": "2026-10-21T02:01:18.000Z",
+      "url": "https://www.producthunt.com/products/mouse-1",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -322,11 +322,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/runinfra",
+      "sourceUrl": "https://www.producthunt.com/products/mouse-1",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Open models, built for agents.",
+      "brief": "A decision model for your agent harness.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/tend-5",
+      "title": "Tend",
+      "summary": "Personal AI for businesses and entrepreneurs.",
+      "publishedAt": "2026-10-20T18:30:09.000Z",
+      "url": "https://www.producthunt.com/products/tend-5",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/tend-5",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Personal AI for businesses and entrepreneurs.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
