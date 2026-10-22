@@ -1,7 +1,7 @@
 {
   "date": "2026年10月22日",
   "demo": false,
-  "updatedAt": "2026-10-21T22:15:02.343Z",
+  "updatedAt": "2026-10-22T00:43:09.776Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 344,
+    "received": 346,
     "latestCount": 5,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -144,22 +144,22 @@
   },
   "items": [
     {
-      "id": "aihot-gf3h1rt1vsjw3dnw4hxlie3fv",
-      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-      "brief": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。",
-      "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。",
+      "id": "aihot-pnlfya5gqik862fg5hn00d2qi",
+      "title": "OpenAI 的 Dot 系列三词推文",
+      "brief": "Dot，Dotter，Dottest",
+      "summary": "Dot，Dotter，Dottest",
       "category": "产品动态",
-      "topic": "Agent",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "thsottiaux",
       "sourceGroup": "产品与工程",
       "sourceName": "Tibo Sottiaux · @thsottiaux",
       "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2112712984644784534",
-      "aggregateUrl": "https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv",
+      "sourceUrl": "https://x.com/thsottiaux/status/2113029655095836957",
+      "aggregateUrl": "https://aihot.news/items/pnlfya5gqik862fg5hn00d2qi",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-21T01:10:02.000Z",
+      "publishedAt": "2026-10-21T22:08:22.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -255,11 +255,11 @@
       }
     },
     {
-      "id": "aihot-skwzba7il09zaa47sbxe3av1v",
-      "title": "Perplexity 与英伟达提出 JOLT 自蒸馏训练法",
-      "brief": "Perplexity 与 NVIDIA AI 提出后训练方法 JOLT，让同一模型同时充当教师和学生，并训练教师从自身尝试的奖励中学习、惩罚偏离学生行为的漂移。",
-      "summary": "Perplexity 与 NVIDIA AI 提出后训练方法 JOLT，让同一模型同时充当教师和学生，并训练教师从自身尝试的奖励中学习、惩罚偏离学生行为的漂移。",
-      "category": "研究进展",
+      "id": "aihot-iffsmio6ku9ivqwqti82yh9ee",
+      "title": "Perplexity Computer 上线 graphify 技能",
+      "brief": "/graphify 现已登陆 Computer。",
+      "summary": "/graphify 现已登陆 Computer。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -267,10 +267,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2113013527418146913",
-      "aggregateUrl": "https://aihot.news/items/skwzba7il09zaa47sbxe3av1v",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2113029257886847264",
+      "aggregateUrl": "https://aihot.news/items/iffsmio6ku9ivqwqti82yh9ee",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-21T21:04:17.000Z",
+      "publishedAt": "2026-10-21T22:06:47.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -280,15 +280,9 @@
             "asset": "/assets/identities/perplexity_ai.jpg",
             "assetSource": "https://x.com/perplexity_ai",
             "tone": "#dcebea"
-          },
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
           }
         ],
-        "caption": "研究进展",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -375,6 +369,106 @@
   "ranking": [
     {
       "rank": 1,
+      "id": "jgg0i29t3o1eycc24c3wev0fx",
+      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-duet",
+      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
+      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
+      "sourceCount": 8,
+      "participantCount": 41,
+      "latestAt": "2026-10-21T22:44:18.053Z",
+      "expanded": true,
+      "latest": "Anthropic 推出研究预览版 Claude Duet 主动式 AI 智能体应用",
+      "reports": [
+        {
+          "title": "Anthropic 推出研究预览版 Claude Duet 主动式 AI 智能体应用",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/016/169.htm",
+          "aihotUrl": "https://aihot.news/items/mwcqho433ujjvivrmnc8nhg6g",
+          "publishedAt": "2026-10-21T22:44:18.053Z"
+        },
+        {
+          "title": "Anthropic 开启 Claude Duet 研究预览，Claude 作为主动智能体全天候运行",
+          "sourceName": "X：indigo (@indigox)",
+          "sourceUrl": "https://x.com/indigox/status/2113005962500129102",
+          "aihotUrl": "https://aihot.news/items/tisnffuwv2ov3jlpl69oky69l",
+          "publishedAt": "2026-10-21T20:34:13.000Z"
+        },
+        {
+          "title": "Anthropic Claude Duet 智能体购物流程曝光",
+          "sourceName": "X：Testing Catalog (@testingcatalog)",
+          "sourceUrl": "https://x.com/testingcatalog/status/2113004898929299492",
+          "aihotUrl": "https://aihot.news/items/i1vq8101ct2018eczivrgj946",
+          "publishedAt": "2026-10-21T20:30:00.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "r4saw5foxj8v0eb82f3b66cs0",
+      "title": "OpenAI称模型协助发现PHP核心漏洞，Wiz披露可致RCE",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
+      "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
+      "sourceCount": 8,
+      "participantCount": 38,
+      "latestAt": "2026-10-22T00:06:00.000Z",
+      "expanded": true,
+      "latest": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+      "reports": [
+        {
+          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "aihotUrl": "https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi",
+          "publishedAt": "2026-10-22T00:06:00.000Z"
+        },
+        {
+          "title": "GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+          "aihotUrl": "https://aihot.news/items/tpiikkbcjgufps65c47e75rbr",
+          "publishedAt": "2026-10-21T19:45:01.000Z"
+        },
+        {
+          "title": "PHP 全线 8.x 发布安全更新，修复两个远程代码执行漏洞",
+          "sourceName": "Simon Willison 博客",
+          "sourceUrl": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+          "aihotUrl": "https://aihot.news/items/z9jpn45re8epy8fmhxal63va2",
+          "publishedAt": "2026-10-21T18:41:53.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "ckykonvith99q6hvd0utjdwfn",
       "title": "DeepSeek 开源生产推理框架 DeepInfer",
       "sourceName": "公众号：DeepSeek（深度求索）",
@@ -382,7 +476,7 @@
       "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
       "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
       "sourceCount": 13,
-      "participantCount": 65,
+      "participantCount": 66,
       "latestAt": "2026-10-21T09:26:08.000Z",
       "expanded": true,
       "latest": "DeepSeek 开源内部推理框架 DeepInfer",
@@ -417,106 +511,6 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 2,
-      "id": "jgg0i29t3o1eycc24c3wev0fx",
-      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-duet",
-      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
-      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
-      "sourceCount": 7,
-      "participantCount": 31,
-      "latestAt": "2026-10-21T20:34:13.000Z",
-      "expanded": true,
-      "latest": "Anthropic 开启 Claude Duet 研究预览，Claude 作为主动智能体全天候运行",
-      "reports": [
-        {
-          "title": "Anthropic 开启 Claude Duet 研究预览，Claude 作为主动智能体全天候运行",
-          "sourceName": "X：indigo (@indigox)",
-          "sourceUrl": "https://x.com/indigox/status/2113005962500129102",
-          "aihotUrl": "https://aihot.news/items/tisnffuwv2ov3jlpl69oky69l",
-          "publishedAt": "2026-10-21T20:34:13.000Z"
-        },
-        {
-          "title": "Anthropic Claude Duet 智能体购物流程曝光",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "sourceUrl": "https://x.com/testingcatalog/status/2113004898929299492",
-          "aihotUrl": "https://aihot.news/items/i1vq8101ct2018eczivrgj946",
-          "publishedAt": "2026-10-21T20:30:00.000Z"
-        },
-        {
-          "title": "Anthropic 开放 Claude Duet 研究预览，员工分享用它监控 Slack 和邮件的用法",
-          "sourceName": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-          "sourceUrl": "https://x.com/lydiahallie/status/2113002610806730780",
-          "aihotUrl": "https://aihot.news/items/ohzmj176mq6winc9r1lpegrf7",
-          "publishedAt": "2026-10-21T20:20:54.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 3,
-      "id": "r4saw5foxj8v0eb82f3b66cs0",
-      "title": "OpenAI称模型协助发现PHP核心漏洞，Wiz披露可致RCE",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
-      "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
-      "sourceCount": 6,
-      "participantCount": 29,
-      "latestAt": "2026-10-21T19:45:01.000Z",
-      "expanded": true,
-      "latest": "GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞",
-      "reports": [
-        {
-          "title": "GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
-          "aihotUrl": "https://aihot.news/items/tpiikkbcjgufps65c47e75rbr",
-          "publishedAt": "2026-10-21T19:45:01.000Z"
-        },
-        {
-          "title": "PHP 全线 8.x 发布安全更新，修复两个远程代码执行漏洞",
-          "sourceName": "Simon Willison 博客",
-          "sourceUrl": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-          "aihotUrl": "https://aihot.news/items/z9jpn45re8epy8fmhxal63va2",
-          "publishedAt": "2026-10-21T18:41:53.000Z"
-        },
-        {
-          "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2112962364996038971",
-          "aihotUrl": "https://aihot.news/items/heuaxyy5ixq9x5wtoobw5wq7e",
-          "publishedAt": "2026-10-21T17:40:59.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -559,9 +553,9 @@
       "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "aihotUrl": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
       "storyUrl": "https://aihot.news/story/4e5e0d5e-eb50-43cc-b997-7cd714147997",
-      "sourceCount": 5,
-      "participantCount": 16,
-      "latestAt": "2026-10-21T20:27:41.000Z",
+      "sourceCount": 6,
+      "participantCount": 18,
+      "latestAt": "2026-10-21T22:39:41.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -588,7 +582,7 @@
       "aihotUrl": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
       "storyUrl": "https://aihot.news/story/49445e2f-d496-4acd-bc5e-70027cffd24a",
       "sourceCount": 5,
-      "participantCount": 16,
+      "participantCount": 17,
       "latestAt": "2026-10-21T19:23:19.000Z",
       "expanded": false,
       "latest": "",
@@ -622,7 +616,7 @@
       "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
       "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
       "sourceCount": 4,
-      "participantCount": 32,
+      "participantCount": 30,
       "latestAt": "2026-10-21T13:04:19.000Z",
       "expanded": false,
       "latest": "",
@@ -649,8 +643,8 @@
       "sourceUrl": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/",
       "aihotUrl": "https://aihot.news/items/uaewh6yvv55k3kqgy7zsxyqi7",
       "storyUrl": "https://aihot.news/story/6377d69e-f704-4c53-9d7b-b67c0a2d6d07",
-      "sourceCount": 5,
-      "participantCount": 18,
+      "sourceCount": 4,
+      "participantCount": 17,
       "latestAt": "2026-10-21T13:57:43.000Z",
       "expanded": false,
       "latest": "",
@@ -671,15 +665,15 @@
     },
     {
       "rank": 9,
-      "id": "wrnv8dd428iozlj5xax99zbmj",
-      "title": "MiniMax 发布 M3.1 Flash，10 月 23 日开放权重",
-      "sourceName": "MiniMax：Blog（网页）",
-      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
-      "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-      "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
-      "sourceCount": 4,
-      "participantCount": 25,
-      "latestAt": "2026-10-21T20:27:17.000Z",
+      "id": "e35drm2tixen1lpydh1icju57",
+      "title": "Amodei 回应 Anthropic 安全立场批评",
+      "sourceName": "X：Dario Amodei (@DarioAmodei)",
+      "sourceUrl": "https://x.com/DarioAmodei/status/2112732230124818891",
+      "aihotUrl": "https://aihot.news/items/e35drm2tixen1lpydh1icju57",
+      "storyUrl": "https://aihot.news/story/91257b3c-06c3-4abf-96c2-d36872494857",
+      "sourceCount": 2,
+      "participantCount": 16,
+      "latestAt": "2026-10-21T06:40:27.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -687,10 +681,10 @@
       "visual": {
         "entities": [
           {
-            "name": "MiniMax：Blog（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
@@ -699,15 +693,15 @@
     },
     {
       "rank": 10,
-      "id": "jz5y4ct5xtomf83iipzc4nkvf",
-      "title": "NVIDIA发布DSX POD模块化AI工厂参考设计",
-      "sourceName": "NVIDIA：Newsroom（RSS）",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
-      "aihotUrl": "https://aihot.news/items/jz5y4ct5xtomf83iipzc4nkvf",
-      "storyUrl": "https://aihot.news/story/fbad6127-4a01-42b1-9cb2-0bd3b8ac311f",
-      "sourceCount": 3,
+      "id": "znxfhvd3rdohvd4nynrypst74",
+      "title": "宇树发布H2-X功夫机器人，称续航约8小时",
+      "sourceName": "X：宇树 Unitree (@UnitreeRobotics)",
+      "sourceUrl": "https://x.com/UnitreeRobotics/status/2112819774573179175",
+      "aihotUrl": "https://aihot.news/items/znxfhvd3rdohvd4nynrypst74",
+      "storyUrl": "https://aihot.news/story/17f55a61-59e1-4723-ac94-a66e106a8524",
+      "sourceCount": 2,
       "participantCount": 13,
-      "latestAt": "2026-10-21T13:42:05.000Z",
+      "latestAt": "2026-10-21T18:07:59.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -715,10 +709,10 @@
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "X：宇树 Unitree (@UnitreeRobotics)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
