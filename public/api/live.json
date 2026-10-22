@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月22日",
+    "date": "2026年10月23日",
     "demo": false,
-    "updatedAt": "2026-10-22T15:32:43.449Z",
+    "updatedAt": "2026-10-22T19:24:06.673Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 308,
-      "latestCount": 5,
+      "received": 322,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 2,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -138,8 +138,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         }
       ]
     },
@@ -219,31 +219,31 @@
         }
       },
       {
-        "id": "aihot-n8qw4m9aqooe1vwmnx1wz8mqx",
-        "title": "GPT-Rosalind 为 Perry 综合征相关药物研发提出新思路",
-        "brief": "OpenAI 团队介绍 GPT-Rosalind 在药物发现中的新进展，针对与 Perry 综合征相关的基因 DCTN1 提出假说：胆固醇转运受阻可能使神经元缺乏所需胆固醇，从而参与神经退行性病变。",
-        "summary": "OpenAI 团队介绍 GPT-Rosalind 在药物发现中的新进展，针对与 Perry 综合征相关的基因 DCTN1 提出假说：胆固醇转运受阻可能使神经元缺乏所需胆固醇，从而参与神经退行性病变。",
+        "id": "aihot-mox9z2bov61pdc1adwpraw1da",
+        "title": "Uber 向全体员工铺开 OpenAI 的 ChatGPT Work",
+        "brief": "OpenAI 总裁 Greg Brockman 宣布与 Uber 合作，将 ChatGPT Work 推向 Uber 全体员工，为全公司带来智能体能力。",
+        "summary": "OpenAI 总裁 Greg Brockman 宣布与 Uber 合作，将 ChatGPT Work 推向 Uber 全体员工，为全公司带来智能体能力。",
         "category": "行业观察",
-        "topic": "AI 产品",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "gdb",
         "sourceGroup": "行业与创业",
         "sourceName": "Greg Brockman · @gdb",
         "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2112950297404608595",
-        "aggregateUrl": "https://aihot.news/items/n8qw4m9aqooe1vwmnx1wz8mqx",
+        "sourceUrl": "https://x.com/gdb/status/2113325885491437764",
+        "aggregateUrl": "https://aihot.news/items/mox9z2bov61pdc1adwpraw1da",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-21T16:53:02.000Z",
+        "publishedAt": "2026-10-22T17:45:29.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Greg Brockman",
-              "asset": "/assets/identities/gdb.jpg",
-              "assetSource": "https://x.com/gdb",
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "行业观察",
@@ -256,11 +256,11 @@
         }
       },
       {
-        "id": "aihot-iffsmio6ku9ivqwqti82yh9ee",
-        "title": "Perplexity Computer 上线 graphify 技能",
-        "brief": "/graphify 现已登陆 Computer。",
-        "summary": "/graphify 现已登陆 Computer。",
-        "category": "产品动态",
+        "id": "aihot-grnsyu8f45m654lsabl0glekf",
+        "title": "Perplexity 用 AI 生成芯片制造科普视频",
+        "brief": "学习新知识时，没有专家资源不再是瓶颈。",
+        "summary": "学习新知识时，没有专家资源不再是瓶颈。",
+        "category": "AI 动态",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -268,10 +268,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2113029257886847264",
-        "aggregateUrl": "https://aihot.news/items/iffsmio6ku9ivqwqti82yh9ee",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2113302968309277133",
+        "aggregateUrl": "https://aihot.news/items/grnsyu8f45m654lsabl0glekf",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-21T22:06:47.000Z",
+        "publishedAt": "2026-10-22T16:14:25.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -283,48 +283,11 @@
               "tone": "#dcebea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "AI 动态",
           "author": {
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
             "assetSource": "https://x.com/AravSrinivas",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-rou1xasq356ic9r2gfeh76w4j",
-        "title": "Thomas Wolf 点评 Recursive_SI 开源本地编码模型 Flint：lm_head 量化到 4 bit 仍接近 bf16",
-        "brief": "Thomas Wolf 称自己对 AGI 的标准仍是 AI 拿诺贝尔奖，但称赞 Recursive_SI 的 Flint 敢于把通常建议保持高精度的 lm_head 量化到 4 bit，结果距 bf16 仅 0.7 个百分点且以开放权重发布在 Hugging Face hub。",
-        "summary": "Thomas Wolf 称自己对 AGI 的标准仍是 AI 拿诺贝尔奖，但称赞 Recursive_SI 的 Flint 敢于把通常建议保持高精度的 lm_head 量化到 4 bit，结果距 bf16 仅 0.7 个百分点且以开放权重发布在 Hugging Face hub。",
-        "category": "AI 动态",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "Thom_Wolf",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Thomas Wolf · @Thom_Wolf",
-        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2112967683813609724",
-        "aggregateUrl": "https://aihot.news/items/rou1xasq356ic9r2gfeh76w4j",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-21T18:02:07.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Thomas Wolf",
-              "asset": "/assets/identities/thom_wolf.jpg",
-              "assetSource": "https://x.com/Thom_Wolf",
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "AI 动态",
-          "author": {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
             "tone": "#e9e4dc"
           }
         }
@@ -376,8 +339,8 @@
         "sourceUrl": "https://claude.com/blog/claude-duet",
         "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
         "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
-        "sourceCount": 13,
-        "participantCount": 71,
+        "sourceCount": 12,
+        "participantCount": 75,
         "latestAt": "2026-10-22T13:53:26.000Z",
         "expanded": true,
         "latest": "Anthropic 推出面向专业用户的智能体应用 Claude Duet",
@@ -426,12 +389,19 @@
         "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
         "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
-        "sourceCount": 9,
-        "participantCount": 65,
-        "latestAt": "2026-10-22T05:13:16.000Z",
+        "sourceCount": 10,
+        "participantCount": 67,
+        "latestAt": "2026-10-22T15:25:02.000Z",
         "expanded": true,
-        "latest": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
+        "latest": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
         "reports": [
+          {
+            "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+            "sourceName": "Ars Technica：AI（RSS）",
+            "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+            "aihotUrl": "https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46",
+            "publishedAt": "2026-10-22T15:25:02.000Z"
+          },
           {
             "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
             "sourceName": "404 Media（RSS）",
@@ -445,13 +415,6 @@
             "sourceUrl": "https://x.com/rohanpaul_ai/status/2113136583985766442",
             "aihotUrl": "https://aihot.news/items/eme8i9igoadxb3beb902byfz0",
             "publishedAt": "2026-10-22T05:13:16.000Z"
-          },
-          {
-            "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-            "sourceName": "X：卡兹克 (@Khazix0918)",
-            "sourceUrl": "https://x.com/Khazix0918/status/2113096414469464281",
-            "aihotUrl": "https://aihot.news/items/h1v8wxdkljwpiyadhmy7miw4x",
-            "publishedAt": "2026-10-22T02:33:39.000Z"
           }
         ],
         "related": [],
@@ -480,10 +443,10 @@
         "participantCount": 21,
         "latestAt": "2026-10-22T13:11:13.000Z",
         "expanded": true,
-        "latest": "据报道 DeepSeek 在美国限制后数日完成约 150 亿美元融资",
+        "latest": "DeepSeek 在美国限制后据报融资约 150 亿美元",
         "reports": [
           {
-            "title": "据报道 DeepSeek 在美国限制后数日完成约 150 亿美元融资",
+            "title": "DeepSeek 在美国限制后据报融资约 150 亿美元",
             "sourceName": "TechCrunch：AI（RSS）",
             "sourceUrl": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
             "aihotUrl": "https://aihot.news/items/r5wm73jcdoc1sea7r4qfkg3lz",
@@ -525,34 +488,6 @@
       },
       {
         "rank": 4,
-        "id": "ckykonvith99q6hvd0utjdwfn",
-        "title": "DeepSeek 开源生产推理框架 DeepInfer",
-        "sourceName": "公众号：DeepSeek（深度求索）",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-        "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
-        "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
-        "sourceCount": 4,
-        "participantCount": 37,
-        "latestAt": "2026-10-21T09:26:08.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "公众号：DeepSeek（深度求索）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
         "id": "nkn1qfqlo0oyt205jfrk4th22",
         "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
         "sourceName": "TechCrunch：AI（RSS）",
@@ -560,7 +495,7 @@
         "aihotUrl": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
         "storyUrl": "https://aihot.news/story/4e5e0d5e-eb50-43cc-b997-7cd714147997",
         "sourceCount": 8,
-        "participantCount": 24,
+        "participantCount": 26,
         "latestAt": "2026-10-22T14:40:16.000Z",
         "expanded": false,
         "latest": "",
@@ -580,35 +515,7 @@
         }
       },
       {
-        "rank": 6,
-        "id": "h05v2w7n5qxnee1h89espx59t",
-        "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
-        "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
-        "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
-        "sourceCount": 1,
-        "participantCount": 29,
-        "latestAt": "2026-10-22T03:16:19.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
+        "rank": 5,
         "id": "bm4bwid4hdnitbtz7pr6gtd0r",
         "title": "OpenAI三款模型上架Google Cloud私测",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -642,16 +549,16 @@
         }
       },
       {
-        "rank": 8,
-        "id": "allv4n9g9lhfy72m1pg725apv",
-        "title": "Anthropic三季度收入168亿美元，增速放缓",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-        "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-        "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
-        "sourceCount": 2,
-        "participantCount": 20,
-        "latestAt": "2026-10-22T02:17:14.247Z",
+        "rank": 6,
+        "id": "ckykonvith99q6hvd0utjdwfn",
+        "title": "DeepSeek 开源生产推理框架 DeepInfer",
+        "sourceName": "公众号：DeepSeek（深度求索）",
+        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+        "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
+        "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
+        "sourceCount": 3,
+        "participantCount": 28,
+        "latestAt": "2026-10-21T09:26:08.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -659,10 +566,66 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "公众号：DeepSeek（深度求索）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "h05v2w7n5qxnee1h89espx59t",
+        "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
+        "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
+        "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
+        "sourceCount": 1,
+        "participantCount": 27,
+        "latestAt": "2026-10-22T03:16:19.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Rohan Paul (@rohanpaul_ai)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "c7kz49ohg81rxi4ozxv046ttp",
+        "title": "1Password 推出 AI 代理登录，Meta Muse、Grok Bot 接入",
+        "sourceName": "X：Grok Bot (@bot)",
+        "sourceUrl": "https://x.com/bot/status/2113332983226831339",
+        "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
+        "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
+        "sourceCount": 3,
+        "participantCount": 13,
+        "latestAt": "2026-10-22T18:15:24.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Grok Bot (@bot)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -678,7 +641,7 @@
         "aihotUrl": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
         "storyUrl": "https://aihot.news/story/bd558c88-9573-4806-a1aa-67426d33a87c",
         "sourceCount": 1,
-        "participantCount": 14,
+        "participantCount": 15,
         "latestAt": "2026-10-21T16:00:00.000Z",
         "expanded": false,
         "latest": "",
@@ -699,15 +662,15 @@
       },
       {
         "rank": 10,
-        "id": "uaewh6yvv55k3kqgy7zsxyqi7",
-        "title": "OpenAI通报两起模型抑制失准监控事件",
-        "sourceName": "OpenAI：失准报告与通报（网页）",
-        "sourceUrl": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/",
-        "aihotUrl": "https://aihot.news/items/uaewh6yvv55k3kqgy7zsxyqi7",
-        "storyUrl": "https://aihot.news/story/6377d69e-f704-4c53-9d7b-b67c0a2d6d07",
-        "sourceCount": 4,
-        "participantCount": 19,
-        "latestAt": "2026-10-21T13:57:43.000Z",
+        "id": "allv4n9g9lhfy72m1pg725apv",
+        "title": "Anthropic三季度收入168亿美元，增速放缓",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+        "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+        "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
+        "sourceCount": 2,
+        "participantCount": 18,
+        "latestAt": "2026-10-22T02:17:14.247Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -715,10 +678,10 @@
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "热点",
@@ -729,8 +692,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-22T15:32:43.449Z",
-    "nextCheckAt": 1792683463449,
+    "checkedAt": "2026-10-22T19:24:06.673Z",
+    "nextCheckAt": 1792697346673,
     "intervalSeconds": 300,
     "message": ""
   }
