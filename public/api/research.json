@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-22T10:32:20.166Z",
-      "lastSuccessAt": "2026-10-22T10:32:20.166Z",
-      "nextCheckAt": 1792668740166,
+      "checkedAt": "2026-10-22T15:32:28.923Z",
+      "lastSuccessAt": "2026-10-22T15:32:28.923Z",
+      "nextCheckAt": 1792686748923,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-22T10:32:20.167Z",
-      "lastSuccessAt": "2026-10-22T10:32:20.167Z",
-      "nextCheckAt": 1792668740167,
+      "checkedAt": "2026-10-22T15:32:28.924Z",
+      "lastSuccessAt": "2026-10-22T15:32:28.924Z",
+      "nextCheckAt": 1792686748924,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-22T10:32:20.169Z",
-      "lastSuccessAt": "2026-10-22T10:32:20.169Z",
-      "nextCheckAt": 1792668740169,
+      "checkedAt": "2026-10-22T15:32:28.925Z",
+      "lastSuccessAt": "2026-10-22T15:32:28.925Z",
+      "nextCheckAt": 1792686748925,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-22T15:32:29.159Z",
+      "lastSuccessAt": "2026-10-22T15:32:29.159Z",
+      "nextCheckAt": 1792686749159,
       "status": "ok",
-      "nextCheckAt": 1792668740445,
-      "checkedAt": "2026-10-22T10:32:20.445Z",
-      "lastSuccessAt": "2026-10-22T10:32:20.445Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792668740166,
+  "nextCheckAt": 1792686748923,
   "refreshing": false,
   "items": [
+    {
+      "id": "n8n:https://blog.n8n.io/self-hosted-llm/",
+      "title": "Self-Hosted LLM vs. Cloud APIs: How to Route Between Them",
+      "summary": "A self-hosted LLM isn’t always cheaper than an API. Learn when on-prem wins, what your hardware can run, and how to route between local and cloud models.",
+      "publishedAt": "2026-10-22T15:01:32.000Z",
+      "url": "https://blog.n8n.io/self-hosted-llm/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/self-hosted-llm/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "A self-hosted LLM isn’t always cheaper than an API. Learn when on-prem wins, what your hardware can run, and how to route between local and cloud models.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6482891.html",
       "title": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6482685.html",
@@ -174,15 +214,15 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6482555.html",
-      "title": "Vercel CEO 最新爆料：60% 的部署已经来自 agent，互联网正在为 AI 重做一遍",
-      "summary": "Vercel 上编程 agent 的部署占比，从年初的 3% 涨到 60%。Guillermo Rauch 在播客里复盘十年十亿次部署如何变成十个月十五亿次，也谈了人该站在哪里。 你有没有想过，如果有一天你每天在网上刷到的链接，大部分背后都不再是人写的代码，也不再是人点下的发布按钮，那互联网会变成什么样子？这件事其实已经在发生了。Vercel 的创始人兼 CEO Guillermo Rauch 在 Molly O’Shea 的播客 So",
-      "publishedAt": "2026-10-22T08:43:04.000Z",
-      "url": "https://www.woshipm.com/ai/6482555.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6482653.html",
+      "title": "备战双11，我用4个AI Agent读完400条评价改详情页",
+      "summary": "双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，",
+      "publishedAt": "2026-10-22T08:50:41.000Z",
+      "url": "https://www.woshipm.com/ai/6482653.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -202,16 +242,16 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6482555.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6482653.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Vercel 上编程 agent 的部署占比，从年初的 3% 涨到 60%。Guillermo Rauch 在播客里复盘十年十亿次部署如何变成十个月十五亿次，也谈了人该站在哪里。 你有没有想过，如果有一天你每天在网上刷到的链接，大部分背后都不再是人写的代码，也不再是人点下的发布按钮，那互联网会变成什么样子？这件事其实已经在发生了。Vercel 的创始人兼 CEO Guillermo Rauch 在 Molly O’Shea 的播客 So",
+      "brief": "双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/cleanslop",
@@ -450,47 +490,6 @@
       "brief": "Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
-      "title": "Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents",
-      "summary": "Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google p",
-      "publishedAt": "2026-10-13T16:09:03.000Z",
-      "url": "https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google p",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
