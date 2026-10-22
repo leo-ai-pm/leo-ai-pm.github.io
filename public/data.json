@@ -1,7 +1,7 @@
 {
   "date": "2026年10月23日",
   "demo": false,
-  "updatedAt": "2026-10-22T19:24:06.673Z",
+  "updatedAt": "2026-10-22T22:40:12.212Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 322,
+    "received": 325,
     "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 4,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -137,29 +137,29 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       }
     ]
   },
   "items": [
     {
-      "id": "aihot-pnlfya5gqik862fg5hn00d2qi",
-      "title": "OpenAI 的 Dot 系列三词推文",
-      "brief": "Dot，Dotter，Dottest",
-      "summary": "Dot，Dotter，Dottest",
-      "category": "产品动态",
-      "topic": "AI 产品",
+      "id": "aihot-u7tpqfjh9sthd98g48yheypuk",
+      "title": "Codex 计算机使用实用提示词",
+      "brief": "对具备计算机使用能力的 Codex 来说，这是一个非常有用的提示词。",
+      "summary": "对具备计算机使用能力的 Codex 来说，这是一个非常有用的提示词。",
+      "category": "实践与观点",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2113029655095836957",
-      "aggregateUrl": "https://aihot.news/items/pnlfya5gqik862fg5hn00d2qi",
+      "authorHandle": "emollick",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Ethan Mollick · @emollick",
+      "feedName": "X：Ethan Mollick (@emollick)",
+      "sourceUrl": "https://x.com/emollick/status/2113361252173091114",
+      "aggregateUrl": "https://aihot.news/items/u7tpqfjh9sthd98g48yheypuk",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-21T22:08:22.000Z",
+      "publishedAt": "2026-10-22T20:06:01.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -171,44 +171,7 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-du06sscmcy0xj8mnwr4fe8wpx",
-      "title": "Ethan Mollick 借 PHP 漏洞与连环安全事件谈攻防加速",
-      "brief": "Ethan Mollick 转发并评论一天内集中爆发的网络安全事件：PHP 两个未登录即可远程执行代码的关键漏洞细节在补丁发布前泄露，Censys 称约 150 万台服务器无补丁，NSA、FBI、CISA 及日本首相等多方呼吁系统下线，荷兰议会、维基百科、Archive.org 等相继下线。",
-      "summary": "Ethan Mollick 转发并评论一天内集中爆发的网络安全事件：PHP 两个未登录即可远程执行代码的关键漏洞细节在补丁发布前泄露，Censys 称约 150 万台服务器无补丁，NSA、FBI、CISA 及日本首相等多方呼吁系统下线，荷兰议会、维基百科、Archive.org 等相继下线。",
-      "category": "AI 动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "emollick",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Ethan Mollick · @emollick",
-      "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2113063313810792916",
-      "aggregateUrl": "https://aihot.news/items/du06sscmcy0xj8mnwr4fe8wpx",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-22T00:22:07.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Ethan Mollick",
-            "asset": "/assets/identities/emollick.jpg",
-            "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "AI 动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -255,22 +218,22 @@
       }
     },
     {
-      "id": "aihot-grnsyu8f45m654lsabl0glekf",
-      "title": "Perplexity 用 AI 生成芯片制造科普视频",
-      "brief": "学习新知识时，没有专家资源不再是瓶颈。",
-      "summary": "学习新知识时，没有专家资源不再是瓶颈。",
-      "category": "AI 动态",
-      "topic": "AI 产品",
+      "id": "aihot-btejiqir3mhmknjnzus99m2gu",
+      "title": "Perplexity Agent API 上线 Batch API",
+      "brief": "Batch API 现已在 Perplexity Agent API 上线。",
+      "summary": "Batch API 现已在 Perplexity Agent API 上线。",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2113302968309277133",
-      "aggregateUrl": "https://aihot.news/items/grnsyu8f45m654lsabl0glekf",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2113368776532271185",
+      "aggregateUrl": "https://aihot.news/items/btejiqir3mhmknjnzus99m2gu",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-22T16:14:25.000Z",
+      "publishedAt": "2026-10-22T20:35:55.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -282,11 +245,48 @@
             "tone": "#dcebea"
           }
         ],
-        "caption": "AI 动态",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
           "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-i91d64xx83rfgp5gfcn6gycw3",
+      "title": "Hugging Face 联合 TIGEM 等机构发布开源 DNA 模型 Carbon-X",
+      "brief": "Hugging Face 与 TIGEM、那不勒斯费德里科二世大学、中关村学院合作发布开源 14B 模型 Carbon-X，可读取原始 DNA 并用通俗英语解释。",
+      "summary": "Hugging Face 与 TIGEM、那不勒斯费德里科二世大学、中关村学院合作发布开源 14B 模型 Carbon-X，可读取原始 DNA 并用通俗英语解释。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "Thom_Wolf",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Thomas Wolf · @Thom_Wolf",
+      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sourceUrl": "https://x.com/Thom_Wolf/status/2113345703485309335",
+      "aggregateUrl": "https://aihot.news/items/i91d64xx83rfgp5gfcn6gycw3",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-22T19:04:14.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Hugging Face",
+            "asset": "/assets/identities/huggingface.jpg",
+            "assetSource": "https://x.com/huggingface",
+            "tone": "#f3ebd3"
+          }
+        ],
+        "caption": "模型进展",
+        "author": {
+          "name": "Thomas Wolf",
+          "asset": "/assets/identities/thom_wolf.jpg",
+          "assetSource": "https://x.com/Thom_Wolf",
           "tone": "#e9e4dc"
         }
       }
@@ -432,6 +432,56 @@
     },
     {
       "rank": 3,
+      "id": "c7kz49ohg81rxi4ozxv046ttp",
+      "title": "1Password 推出 AI 智能体代登录平台，多家接入",
+      "sourceName": "X：Grok Bot (@bot)",
+      "sourceUrl": "https://x.com/bot/status/2113332983226831339",
+      "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
+      "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
+      "sourceCount": 7,
+      "participantCount": 18,
+      "latestAt": "2026-10-22T22:06:28.000Z",
+      "expanded": true,
+      "latest": "Grok Bot 接入 1Password，可代用户登录网站",
+      "reports": [
+        {
+          "title": "Grok Bot 接入 1Password，可代用户登录网站",
+          "sourceName": "X：baltaaazr（SpaceXSI，Grok Bot 初版作者之一） (@baltaaazr)",
+          "sourceUrl": "https://x.com/baltaaazr/status/2113391564441727431",
+          "aihotUrl": "https://aihot.news/items/js0gow1n685p8cb3zq3waejos",
+          "publishedAt": "2026-10-22T22:06:28.000Z"
+        },
+        {
+          "title": "1Password 联合多家推出 Agents 平台",
+          "sourceName": "X：Testing Catalog (@testingcatalog)",
+          "sourceUrl": "https://x.com/testingcatalog/status/2113357243626516735",
+          "aihotUrl": "https://aihot.news/items/ssj56jg29d5yh3ijwgxbk9nia",
+          "publishedAt": "2026-10-22T19:50:05.000Z"
+        },
+        {
+          "title": "Grok Bot 接入 1Password 登录",
+          "sourceName": "X：Lingxi Li（SpaceXSI，Grok Bot 工程） (@lingxi)",
+          "sourceUrl": "https://x.com/lingxi/status/2113354560664395824",
+          "aihotUrl": "https://aihot.news/items/wh54saa7tg1j79c4lczgn2pty",
+          "publishedAt": "2026-10-22T19:39:26.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Grok Bot (@bot)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 4,
       "id": "wbi0gsddrrfnavs6vvuqb2r7j",
       "title": "DeepSeek新一轮融资升至约150亿美元",
       "sourceName": "X：X.PIN (@thexpin)",
@@ -441,37 +491,10 @@
       "sourceCount": 2,
       "participantCount": 21,
       "latestAt": "2026-10-22T13:11:13.000Z",
-      "expanded": true,
-      "latest": "DeepSeek 在美国限制后据报融资约 150 亿美元",
-      "reports": [
-        {
-          "title": "DeepSeek 在美国限制后据报融资约 150 亿美元",
-          "sourceName": "TechCrunch：AI（RSS）",
-          "sourceUrl": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-          "aihotUrl": "https://aihot.news/items/r5wm73jcdoc1sea7r4qfkg3lz",
-          "publishedAt": "2026-10-22T13:11:13.000Z"
-        },
-        {
-          "title": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2113106318659928525",
-          "aihotUrl": "https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah",
-          "publishedAt": "2026-10-22T03:13:00.000Z"
-        },
-        {
-          "title": "中国AI周报：DeepSeek联手华为、苹果接入千问",
-          "sourceName": "X：X.PIN (@thexpin)",
-          "sourceUrl": "https://x.com/thexpin/status/2112195911874932828",
-          "aihotUrl": "https://aihot.news/items/m5k3jze5pptpe8nhcgc8jl4hn",
-          "publishedAt": "2026-10-19T14:55:22.000Z"
-        }
-      ],
-      "related": [
-        {
-          "title": "高瓴合伙人严文韬加入DeepSeek任CFO",
-          "storyUrl": "https://aihot.news/story/47919c76-ffc3-4282-8808-a66cbef20936"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
       "visual": {
         "entities": [
           {
@@ -486,7 +509,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "nkn1qfqlo0oyt205jfrk4th22",
       "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
       "sourceName": "TechCrunch：AI（RSS）",
@@ -514,7 +537,35 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "h05v2w7n5qxnee1h89espx59t",
+      "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
+      "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
+      "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
+      "sourceCount": 2,
+      "participantCount": 24,
+      "latestAt": "2026-10-22T19:45:00.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "bm4bwid4hdnitbtz7pr6gtd0r",
       "title": "OpenAI三款模型上架Google Cloud私测",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -548,7 +599,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "id": "ckykonvith99q6hvd0utjdwfn",
       "title": "DeepSeek 开源生产推理框架 DeepInfer",
       "sourceName": "公众号：DeepSeek（深度求索）",
@@ -556,7 +607,7 @@
       "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
       "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
       "sourceCount": 3,
-      "participantCount": 28,
+      "participantCount": 26,
       "latestAt": "2026-10-21T09:26:08.000Z",
       "expanded": false,
       "latest": "",
@@ -576,72 +627,16 @@
       }
     },
     {
-      "rank": 7,
-      "id": "h05v2w7n5qxnee1h89espx59t",
-      "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
-      "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
-      "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
-      "sourceCount": 1,
-      "participantCount": 27,
-      "latestAt": "2026-10-22T03:16:19.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "c7kz49ohg81rxi4ozxv046ttp",
-      "title": "1Password 推出 AI 代理登录，Meta Muse、Grok Bot 接入",
-      "sourceName": "X：Grok Bot (@bot)",
-      "sourceUrl": "https://x.com/bot/status/2113332983226831339",
-      "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
-      "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
-      "sourceCount": 3,
-      "participantCount": 13,
-      "latestAt": "2026-10-22T18:15:24.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Grok Bot (@bot)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 9,
-      "id": "ofhppbtjnzfrzbv2a11sl8u7h",
-      "title": "Apple发布折叠屏iPhone Duo并公布应用适配",
-      "sourceName": "Apple：Newsroom（RSS）",
-      "sourceUrl": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "aihotUrl": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
-      "storyUrl": "https://aihot.news/story/bd558c88-9573-4806-a1aa-67426d33a87c",
-      "sourceCount": 1,
-      "participantCount": 15,
-      "latestAt": "2026-10-21T16:00:00.000Z",
+      "id": "xrz4fj30hoq167997p69rqe8v",
+      "title": "Canva发布首个自研图像生成模型Canva Craft",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "aihotUrl": "https://aihot.news/items/xrz4fj30hoq167997p69rqe8v",
+      "storyUrl": "https://aihot.news/story/159e1f8e-c18e-4c7c-9e3c-c4009494ac28",
+      "sourceCount": 3,
+      "participantCount": 10,
+      "latestAt": "2026-10-22T21:51:25.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -649,7 +644,7 @@
       "visual": {
         "entities": [
           {
-            "name": "Apple：Newsroom（RSS）",
+            "name": "The Verge：AI（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
