@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-22T00:42:56.375Z",
-      "lastSuccessAt": "2026-10-22T00:42:56.375Z",
-      "nextCheckAt": 1792633376375,
+      "checkedAt": "2026-10-22T05:26:21.854Z",
+      "lastSuccessAt": "2026-10-22T05:26:21.854Z",
+      "nextCheckAt": 1792650381854,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-22T05:26:21.855Z",
+      "lastSuccessAt": "2026-10-22T05:26:21.855Z",
+      "nextCheckAt": 1792650381855,
       "status": "ok",
-      "nextCheckAt": 1792633376376,
-      "checkedAt": "2026-10-22T00:42:56.376Z",
-      "lastSuccessAt": "2026-10-22T00:42:56.376Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-22T00:42:56.377Z",
-      "lastSuccessAt": "2026-10-22T00:42:56.377Z",
-      "nextCheckAt": 1792633376377,
+      "checkedAt": "2026-10-22T05:26:21.857Z",
+      "lastSuccessAt": "2026-10-22T05:26:21.857Z",
+      "nextCheckAt": 1792650381857,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-22T00:42:56.499Z",
-      "lastSuccessAt": "2026-10-22T00:42:56.499Z",
-      "nextCheckAt": 1792633376499,
       "status": "ok",
+      "nextCheckAt": 1792650382071,
+      "checkedAt": "2026-10-22T05:26:22.071Z",
+      "lastSuccessAt": "2026-10-22T05:26:22.071Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,55 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792633376375,
+  "nextCheckAt": 1792650381854,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/pd/6481688.html",
-      "title": "AI 时代下，需求文档的黄金模式：Spec",
-      "summary": "一位不懂代码的产品经理，用175天独立搭建起覆盖Web端、运营后台、数据采集、自动写作、短视频与支付会员的完整系统。他复盘了从失败到成功的需求开发模式，提出Spec三份文档（需求、设计、任务）缺一不可，并强调强制力必须落在机器上。本文深度拆解AI时代需求可判定性的核心瓶颈与Agent工具链的实战经验。 一个不懂代码的产品经理，用 175 天做出一套覆盖 Web 端、运营后台、后端接口、数据采集、自动写作、自动制作短视频与支付会员的系统。",
-      "publishedAt": "2026-10-21T08:03:42.000Z",
-      "url": "https://www.woshipm.com/pd/6481688.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/pd/6481688.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "一位不懂代码的产品经理，用175天独立搭建起覆盖Web端、运营后台、数据采集、自动写作、短视频与支付会员的完整系统。他复盘了从失败到成功的需求开发模式，提出Spec三份文档（需求、设计、任务）缺一不可，并强调强制力必须落在机器上。本文深度拆解AI时代需求可判定性的核心瓶颈与Agent工具链的实战经验。 一个不懂代码的产品经理，用 175 天做出一套覆盖 Web 端、运营后台、后端接口、数据采集、自动写作、自动制作短视频与支付会员的系统。",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/share/6476860.html",
-      "title": "复盘怎么做？从AAR、5Why到KISS的五大步骤与七大模型完整拆解",
-      "summary": "复盘源于围棋，本质是回看和盘点，把一段经历变成一套判断系统。五大步骤与七大模型，从对齐目标、还原过程、分析原因，到指引行动和资源判断，分别用上 AAR、STAR、5W1H、5Why、KISS 和 SMART 等工具。 不会复盘的人，很难有复利。 会复盘的人能做到：做正确的事+正确地做事。前者决定方向，后者决定效率。复盘就是要同时解决这两大问题。 会复盘的人，更会知道自己「不做什么」 正如段永平在雪球的简介，人们关注我们往往是因为我们做了",
-      "publishedAt": "2026-10-21T07:53:37.000Z",
-      "url": "https://www.woshipm.com/share/6476860.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6481835.html",
+      "title": "大模型竞争的新阶段：token hub 聚合与共赢",
+      "summary": "打车大战的剧本正在 token hub 上重演：高德不养车却成最大入口，OpenRouter 不造模型却年入千万。本文拆解 token hub 的四种模式与三种定价逻辑，揭示聚合平台表面三赢、暗地倾斜自营与收割数据的真实商业动机，帮你看懂大模型时代的流量入口争夺战。 我们用手机打车的时候，经常能看到这样的画面：打开高德地图，输入目的地，列表里躺着滴滴、T3、曹操、如祺好几家；打开滴滴，除了它自己的快车，也能叫到竞争对手的车。高德没有一辆",
+      "publishedAt": "2026-10-22T02:37:53.000Z",
+      "url": "https://www.woshipm.com/ai/6481835.html",
       "linkKind": "original",
       "opportunity": {
         "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
@@ -162,11 +122,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6476860.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6481835.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "复盘源于围棋，本质是回看和盘点，把一段经历变成一套判断系统。五大步骤与七大模型，从对齐目标、还原过程、分析原因，到指引行动和资源判断，分别用上 AAR、STAR、5W1H、5Why、KISS 和 SMART 等工具。 不会复盘的人，很难有复利。 会复盘的人能做到：做正确的事+正确地做事。前者决定方向，后者决定效率。复盘就是要同时解决这两大问题。 会复盘的人，更会知道自己「不做什么」 正如段永平在雪球的简介，人们关注我们往往是因为我们做了",
+      "brief": "打车大战的剧本正在 token hub 上重演：高德不养车却成最大入口，OpenRouter 不造模型却年入千万。本文拆解 token hub 的四种模式与三种定价逻辑，揭示聚合平台表面三赢、暗地倾斜自营与收割数据的真实商业动机，帮你看懂大模型时代的流量入口争夺战。 我们用手机打车的时候，经常能看到这样的画面：打开高德地图，输入目的地，列表里躺着滴滴、T3、曹操、如祺好几家；打开滴滴，除了它自己的快车，也能叫到竞争对手的车。高德没有一辆",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6482165.html",
+      "title": "把找商机交给AI：WorkBuddy如何助力乳制品业绩增长",
+      "summary": "To B 销售团队常因信息分散、响应慢而错失商机。本文以乳制品企业为例，拆解传统找商机的 5 个断点，并展示如何用 WorkBuddy 的「专家·技能·连接器」搭建自动化商机发现流水线，从信号扫描、评分到推送，实现不漏、不慢、有轻重地挖掘高价值机会。 一、引言：为什么该懂”专家·技能·连接器”？ 做了十几年产品，我越来越确信一件事：产品经理的核心竞争力，从来不是”自己干活有多快”，而是”能不能把对的任务，分给对的角色，并让它们像一个团队",
+      "publishedAt": "2026-10-22T02:34:26.000Z",
+      "url": "https://www.woshipm.com/ai/6482165.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6482165.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "To B 销售团队常因信息分散、响应慢而错失商机。本文以乳制品企业为例，拆解传统找商机的 5 个断点，并展示如何用 WorkBuddy 的「专家·技能·连接器」搭建自动化商机发现流水线，从信号扫描、评分到推送，实现不漏、不慢、有轻重地挖掘高价值机会。 一、引言：为什么该懂”专家·技能·连接器”？ 做了十几年产品，我越来越确信一件事：产品经理的核心竞争力，从来不是”自己干活有多快”，而是”能不能把对的任务，分给对的角色，并让它们像一个团队",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,11 +174,11 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6478938.html",
-      "title": "如何从0-1写好一个Skill？超全教程+案例分享！",
-      "summary": "想拥有一个称心的 AI Skill，要么从零手写耗时费力，要么 AI 生成不达预期。文章分享做 Skills 的经验，从写出包含身份、用途、内容、交付要求与禁用规则的撰写指令，到检验与调优，帮你在 Trae 或 Claude Code 里快速起步。 对于经常用 Trae、Claude Code 做设计、编程协作的小伙伴来说，Skills 一定是提升效率的神器。不过想要一个让自己使用起来称心如意的 AI Skill，要么从零手写耗时费力，",
-      "publishedAt": "2026-10-21T07:44:05.000Z",
-      "url": "https://www.woshipm.com/ai/6478938.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6482213.html",
+      "title": "实测ZCode办公模式，Workflow自动跑完10个UI竞品拆解，1h干完3天的活！",
+      "summary": "智谱上线 ZCode 办公模式，把「设一个目标、等一个结果」从编程搬到 PPT、Excel 与竞品拆解。作者用它一小时跑完十个 UI 竞品，连改版都靠一句话，过程与踩过的坑都记了下来。 智谱最近上线了 ZCode 办公模式。 就是专门为办公特训过的 GLM 模型 + 专门为工作打造的模型工作台。 它是「为行业专家而生」，擅长高级白领的复杂专业任务，不是大众向的简单ppt、word、报告。 相当于是国内版的Codex，原来用于编程的 ZC",
+      "publishedAt": "2026-10-22T02:34:20.000Z",
+      "url": "https://www.woshipm.com/ai/6482213.html",
       "linkKind": "original",
       "opportunity": {
         "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
@@ -202,11 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6478938.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6482213.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "想拥有一个称心的 AI Skill，要么从零手写耗时费力，要么 AI 生成不达预期。文章分享做 Skills 的经验，从写出包含身份、用途、内容、交付要求与禁用规则的撰写指令，到检验与调优，帮你在 Trae 或 Claude Code 里快速起步。 对于经常用 Trae、Claude Code 做设计、编程协作的小伙伴来说，Skills 一定是提升效率的神器。不过想要一个让自己使用起来称心如意的 AI Skill，要么从零手写耗时费力，",
+      "brief": "智谱上线 ZCode 办公模式，把「设一个目标、等一个结果」从编程搬到 PPT、Excel 与竞品拆解。作者用它一小时跑完十个 UI 竞品，连改版都靠一句话，过程与踩过的坑都记了下来。 智谱最近上线了 ZCode 办公模式。 就是专门为办公特训过的 GLM 模型 + 专门为工作打造的模型工作台。 它是「为行业专家而生」，擅长高级白领的复杂专业任务，不是大众向的简单ppt、word、报告。 相当于是国内版的Codex，原来用于编程的 ZC",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

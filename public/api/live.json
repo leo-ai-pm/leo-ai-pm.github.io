@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月22日",
     "demo": false,
-    "updatedAt": "2026-10-22T00:43:09.776Z",
+    "updatedAt": "2026-10-22T05:26:36.881Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 346,
+      "received": 337,
       "latestCount": 5,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 3,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -182,10 +182,10 @@
         }
       },
       {
-        "id": "aihot-sl6vxzy27w7e1jl90kyw6bqvz",
-        "title": "AI 编程工具与软件改进瓶颈之问",
-        "brief": "这是个有意思的问题，因为答案并不显而易见。",
-        "summary": "这是个有意思的问题，因为答案并不显而易见。",
+        "id": "aihot-du06sscmcy0xj8mnwr4fe8wpx",
+        "title": "Ethan Mollick 借 PHP 漏洞与连环安全事件谈攻防加速",
+        "brief": "Ethan Mollick 转发并评论一天内集中爆发的网络安全事件：PHP 两个未登录即可远程执行代码的关键漏洞细节在补丁发布前泄露，Censys 称约 150 万台服务器无补丁，NSA、FBI、CISA 及日本首相等多方呼吁系统下线，荷兰议会、维基百科、Archive.org 等相继下线。",
+        "summary": "Ethan Mollick 转发并评论一天内集中爆发的网络安全事件：PHP 两个未登录即可远程执行代码的关键漏洞细节在补丁发布前泄露，Censys 称约 150 万台服务器无补丁，NSA、FBI、CISA 及日本首相等多方呼吁系统下线，荷兰议会、维基百科、Archive.org 等相继下线。",
         "category": "AI 动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -194,10 +194,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2112968222538686592",
-        "aggregateUrl": "https://aihot.news/items/sl6vxzy27w7e1jl90kyw6bqvz",
+        "sourceUrl": "https://x.com/emollick/status/2113063313810792916",
+        "aggregateUrl": "https://aihot.news/items/du06sscmcy0xj8mnwr4fe8wpx",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-21T18:04:15.000Z",
+        "publishedAt": "2026-10-22T00:22:07.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -376,32 +376,32 @@
         "sourceUrl": "https://claude.com/blog/claude-duet",
         "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
         "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
-        "sourceCount": 8,
-        "participantCount": 41,
-        "latestAt": "2026-10-21T22:44:18.053Z",
+        "sourceCount": 10,
+        "participantCount": 51,
+        "latestAt": "2026-10-22T01:22:36.000Z",
         "expanded": true,
-        "latest": "Anthropic 推出研究预览版 Claude Duet 主动式 AI 智能体应用",
+        "latest": "Anthropic 开放 Claude Duet 研究预览，Claude 转型主动式智能体",
         "reports": [
+          {
+            "title": "Anthropic 开放 Claude Duet 研究预览，Claude 转型主动式智能体",
+            "sourceName": "X：邵猛 (@shao__meng)",
+            "sourceUrl": "https://x.com/shao__meng/status/2113078533841113182",
+            "aihotUrl": "https://aihot.news/items/hdb8avvdnwe0e91o7196cr3lh",
+            "publishedAt": "2026-10-22T01:22:36.000Z"
+          },
+          {
+            "title": "howie 谈 Claude Duet personal agent 与国内用户无缘",
+            "sourceName": "X：howie.serious (@howie_serious)",
+            "sourceUrl": "https://x.com/howie_serious/status/2113066047498793235",
+            "aihotUrl": "https://aihot.news/items/v3ila3aeou4c1i6tojdpoqohe",
+            "publishedAt": "2026-10-22T00:32:59.000Z"
+          },
           {
             "title": "Anthropic 推出研究预览版 Claude Duet 主动式 AI 智能体应用",
             "sourceName": "IT之家·人工智能",
             "sourceUrl": "https://www.ithome.com/1/016/169.htm",
             "aihotUrl": "https://aihot.news/items/mwcqho433ujjvivrmnc8nhg6g",
             "publishedAt": "2026-10-21T22:44:18.053Z"
-          },
-          {
-            "title": "Anthropic 开启 Claude Duet 研究预览，Claude 作为主动智能体全天候运行",
-            "sourceName": "X：indigo (@indigox)",
-            "sourceUrl": "https://x.com/indigox/status/2113005962500129102",
-            "aihotUrl": "https://aihot.news/items/tisnffuwv2ov3jlpl69oky69l",
-            "publishedAt": "2026-10-21T20:34:13.000Z"
-          },
-          {
-            "title": "Anthropic Claude Duet 智能体购物流程曝光",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2113004898929299492",
-            "aihotUrl": "https://aihot.news/items/i1vq8101ct2018eczivrgj946",
-            "publishedAt": "2026-10-21T20:30:00.000Z"
           }
         ],
         "related": [],
@@ -421,37 +421,37 @@
       {
         "rank": 2,
         "id": "r4saw5foxj8v0eb82f3b66cs0",
-        "title": "OpenAI称模型协助发现PHP核心漏洞，Wiz披露可致RCE",
+        "title": "OpenAI称AI模型协助发现PHP核心RCE漏洞，补丁已发布",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
         "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
-        "sourceCount": 8,
-        "participantCount": 38,
-        "latestAt": "2026-10-22T00:06:00.000Z",
+        "sourceCount": 9,
+        "participantCount": 48,
+        "latestAt": "2026-10-22T02:33:39.000Z",
         "expanded": true,
-        "latest": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "latest": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
         "reports": [
+          {
+            "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+            "sourceName": "X：卡兹克 (@Khazix0918)",
+            "sourceUrl": "https://x.com/Khazix0918/status/2113096414469464281",
+            "aihotUrl": "https://aihot.news/items/h1v8wxdkljwpiyadhmy7miw4x",
+            "publishedAt": "2026-10-22T02:33:39.000Z"
+          },
+          {
+            "title": "Ethan Mollick 借 PHP 漏洞与连环安全事件谈攻防加速",
+            "sourceName": "X：Ethan Mollick (@emollick)",
+            "sourceUrl": "https://x.com/emollick/status/2113063313810792916",
+            "aihotUrl": "https://aihot.news/items/du06sscmcy0xj8mnwr4fe8wpx",
+            "publishedAt": "2026-10-22T00:22:07.000Z"
+          },
           {
             "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
             "sourceName": "公众号：数字生命卡兹克",
             "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
             "aihotUrl": "https://aihot.news/items/ianx6h2f39f9xcxpno4a3cspi",
             "publishedAt": "2026-10-22T00:06:00.000Z"
-          },
-          {
-            "title": "GPT-5.6 Sol 与 Gemini 4 Argon 发现影响数百万网站的 PHP 关键漏洞",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
-            "aihotUrl": "https://aihot.news/items/tpiikkbcjgufps65c47e75rbr",
-            "publishedAt": "2026-10-21T19:45:01.000Z"
-          },
-          {
-            "title": "PHP 全线 8.x 发布安全更新，修复两个远程代码执行漏洞",
-            "sourceName": "Simon Willison 博客",
-            "sourceUrl": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-            "aihotUrl": "https://aihot.news/items/z9jpn45re8epy8fmhxal63va2",
-            "publishedAt": "2026-10-21T18:41:53.000Z"
           }
         ],
         "related": [],
@@ -477,7 +477,7 @@
         "aihotUrl": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
         "storyUrl": "https://aihot.news/story/dae7c054-a1fe-423d-bf36-68d8d8959457",
         "sourceCount": 13,
-        "participantCount": 66,
+        "participantCount": 68,
         "latestAt": "2026-10-21T09:26:08.000Z",
         "expanded": true,
         "latest": "DeepSeek 开源内部推理框架 DeepInfer",
@@ -520,62 +520,6 @@
       },
       {
         "rank": 4,
-        "id": "h05v2w7n5qxnee1h89espx59t",
-        "title": "马斯克称SpaceX与特斯拉已设委员会评估合并",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
-        "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
-        "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
-        "sourceCount": 1,
-        "participantCount": 28,
-        "latestAt": "2026-10-21T08:56:42.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
-        "id": "nkn1qfqlo0oyt205jfrk4th22",
-        "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-        "aihotUrl": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
-        "storyUrl": "https://aihot.news/story/4e5e0d5e-eb50-43cc-b997-7cd714147997",
-        "sourceCount": 6,
-        "participantCount": 18,
-        "latestAt": "2026-10-21T22:39:41.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "TechCrunch：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
         "id": "bm4bwid4hdnitbtz7pr6gtd0r",
         "title": "OpenAI三款模型上架Google Cloud私测",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -583,7 +527,7 @@
         "aihotUrl": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
         "storyUrl": "https://aihot.news/story/49445e2f-d496-4acd-bc5e-70027cffd24a",
         "sourceCount": 5,
-        "participantCount": 17,
+        "participantCount": 22,
         "latestAt": "2026-10-21T19:23:19.000Z",
         "expanded": false,
         "latest": "",
@@ -609,7 +553,91 @@
         }
       },
       {
+        "rank": 5,
+        "id": "h05v2w7n5qxnee1h89espx59t",
+        "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
+        "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
+        "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
+        "sourceCount": 1,
+        "participantCount": 27,
+        "latestAt": "2026-10-22T03:16:19.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Rohan Paul (@rohanpaul_ai)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "nkn1qfqlo0oyt205jfrk4th22",
+        "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "aihotUrl": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
+        "storyUrl": "https://aihot.news/story/4e5e0d5e-eb50-43cc-b997-7cd714147997",
+        "sourceCount": 7,
+        "participantCount": 19,
+        "latestAt": "2026-10-22T01:58:01.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "TechCrunch：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 7,
+        "id": "allv4n9g9lhfy72m1pg725apv",
+        "title": "Anthropic三季度收入168亿美元，增速放缓",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+        "aihotUrl": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+        "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf",
+        "sourceCount": 2,
+        "participantCount": 19,
+        "latestAt": "2026-10-22T02:17:14.247Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
         "id": "p04w1xjk7v6fmlskpf5vsnuka",
         "title": "美土安全部令联邦文职机构移除DeepSeek及关联产品",
         "sourceName": "Hacker News：AI 热帖",
@@ -617,7 +645,7 @@
         "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
         "storyUrl": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
         "sourceCount": 4,
-        "participantCount": 30,
+        "participantCount": 27,
         "latestAt": "2026-10-21T13:04:19.000Z",
         "expanded": false,
         "latest": "",
@@ -637,7 +665,7 @@
         }
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "uaewh6yvv55k3kqgy7zsxyqi7",
         "title": "OpenAI通报两起模型抑制失准监控事件",
         "sourceName": "OpenAI：失准报告与通报（网页）",
@@ -665,34 +693,6 @@
         }
       },
       {
-        "rank": 9,
-        "id": "e35drm2tixen1lpydh1icju57",
-        "title": "Amodei 回应 Anthropic 安全立场批评",
-        "sourceName": "X：Dario Amodei (@DarioAmodei)",
-        "sourceUrl": "https://x.com/DarioAmodei/status/2112732230124818891",
-        "aihotUrl": "https://aihot.news/items/e35drm2tixen1lpydh1icju57",
-        "storyUrl": "https://aihot.news/story/91257b3c-06c3-4abf-96c2-d36872494857",
-        "sourceCount": 2,
-        "participantCount": 16,
-        "latestAt": "2026-10-21T06:40:27.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 10,
         "id": "znxfhvd3rdohvd4nynrypst74",
         "title": "宇树发布H2-X功夫机器人，称续航约8小时",
@@ -701,7 +701,7 @@
         "aihotUrl": "https://aihot.news/items/znxfhvd3rdohvd4nynrypst74",
         "storyUrl": "https://aihot.news/story/17f55a61-59e1-4723-ac94-a66e106a8524",
         "sourceCount": 2,
-        "participantCount": 13,
+        "participantCount": 14,
         "latestAt": "2026-10-21T18:07:59.000Z",
         "expanded": false,
         "latest": "",
@@ -724,8 +724,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-22T00:43:09.776Z",
-    "nextCheckAt": 1792630089776,
+    "checkedAt": "2026-10-22T05:26:36.881Z",
+    "nextCheckAt": 1792647096881,
     "intervalSeconds": 300,
     "message": ""
   }
