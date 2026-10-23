@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-23T05:55:16.617Z",
-      "lastSuccessAt": "2026-10-23T05:55:16.617Z",
-      "nextCheckAt": 1792738516617,
+      "checkedAt": "2026-10-23T11:27:29.489Z",
+      "lastSuccessAt": "2026-10-23T11:27:29.489Z",
+      "nextCheckAt": 1792758449489,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-23T05:55:16.618Z",
-      "lastSuccessAt": "2026-10-23T05:55:16.618Z",
-      "nextCheckAt": 1792738516618,
+      "checkedAt": "2026-10-23T11:27:29.490Z",
+      "lastSuccessAt": "2026-10-23T11:27:29.490Z",
+      "nextCheckAt": 1792758449490,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-23T05:55:16.619Z",
-      "lastSuccessAt": "2026-10-23T05:55:16.619Z",
-      "nextCheckAt": 1792738516619,
+      "checkedAt": "2026-10-23T11:27:29.491Z",
+      "lastSuccessAt": "2026-10-23T11:27:29.491Z",
+      "nextCheckAt": 1792758449491,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792738516770,
-      "checkedAt": "2026-10-23T05:55:16.770Z",
-      "lastSuccessAt": "2026-10-23T05:55:16.770Z",
+      "nextCheckAt": 1792758449679,
+      "checkedAt": "2026-10-23T11:27:29.679Z",
+      "lastSuccessAt": "2026-10-23T11:27:29.679Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,210 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792738516617,
+  "nextCheckAt": 1792758449489,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6478947.html",
+      "title": "Prompt、Skill、Project、MCP，一套完整的 AI 工作流！",
+      "summary": "Prompt、Skill、Project、MCP 频繁出现，成为解锁 AI 高效工作的关键，但很多人对这四个词一知半解。文章逐个拆解它们的概念、特点与适用场景，并说明各自能为设计环节带来的提效作用，帮你在合适的任务里用对工具。 当下 AI 技术迭代速度飞快，Prompt、Skill、Project、MCP 这四个词汇频繁出现，也成为解锁 AI 高效工作的关键。但很多人对这四个概念一知半解，本文就为大家拆解下这四个词的核心概念和应用场景，",
+      "publishedAt": "2026-10-23T07:47:09.000Z",
+      "url": "https://www.woshipm.com/ai/6478947.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6478947.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Prompt、Skill、Project、MCP 频繁出现，成为解锁 AI 高效工作的关键，但很多人对这四个词一知半解。文章逐个拆解它们的概念、特点与适用场景，并说明各自能为设计环节带来的提效作用，帮你在合适的任务里用对工具。 当下 AI 技术迭代速度飞快，Prompt、Skill、Project、MCP 这四个词汇频繁出现，也成为解锁 AI 高效工作的关键。但很多人对这四个概念一知半解，本文就为大家拆解下这四个词的核心概念和应用场景，",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6483288.html",
+      "title": "Claude Duet 来了，Personal Agent 大战又添一员",
+      "summary": "当AI助手不再只是被动应答，而是主动替你梳理任务、推进工作，Personal Agent的竞争便进入了新阶段。Anthropic推出的Claude Duet，能跨应用持续跟进任务，在需要时向你确认。本文从产品设计、交互逻辑与行业格局出发，拆解这款助手如何重新定义人机协作的边界。 早上拿起手机，AI 先发来一句：“5件事在推进，2件需要你。” 这是Claude Duet 官网演示里的一个开场。消息发给经营咖啡品牌 Marlo 的 Maya",
+      "publishedAt": "2026-10-23T06:52:41.000Z",
+      "url": "https://www.woshipm.com/ai/6483288.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6483288.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "当AI助手不再只是被动应答，而是主动替你梳理任务、推进工作，Personal Agent的竞争便进入了新阶段。Anthropic推出的Claude Duet，能跨应用持续跟进任务，在需要时向你确认。本文从产品设计、交互逻辑与行业格局出发，拆解这款助手如何重新定义人机协作的边界。 早上拿起手机，AI 先发来一句：“5件事在推进，2件需要你。” 这是Claude Duet 官网演示里的一个开场。消息发给经营咖啡品牌 Marlo 的 Maya",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/instant-search-2",
+      "title": "Instant Search",
+      "summary": "The fastest, most precise local AI Search for your files.",
+      "publishedAt": "2026-10-23T05:36:03.000Z",
+      "url": "https://www.producthunt.com/products/instant-search-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/instant-search-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The fastest, most precise local AI Search for your files.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/termi-protocol",
+      "title": "Termi Protocol",
+      "summary": "Watch AI agents code in 3D and hand off the work",
+      "publishedAt": "2026-10-23T04:32:57.000Z",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/termi-protocol",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Watch AI agents code in 3D and hand off the work",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/monid",
+      "title": "Agent Hunt",
+      "summary": "Live rankings of the tools AI agents use most",
+      "publishedAt": "2026-10-23T04:03:20.000Z",
+      "url": "https://www.producthunt.com/products/monid",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/monid",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Live rankings of the tools AI agents use most",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "n8n:https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/",
       "title": "Hallucination Detection Methods for AI Agent Workflows",
@@ -131,7 +332,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/api-versioning-strategies/",
@@ -171,7 +372,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/stateful-vs-stateless/",
@@ -211,126 +412,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/cleanslop",
-      "title": "Agentic CleanSlop",
-      "summary": "Authenticate, scan and fix your app from your agent",
-      "publishedAt": "2026-10-22T06:28:58.000Z",
-      "url": "https://www.producthunt.com/products/cleanslop",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/cleanslop",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Authenticate, scan and fix your app from your agent",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/resend",
-      "title": "Resend Inboxes",
-      "summary": "Create shared inboxes, connect your agents, build workflows",
-      "publishedAt": "2026-10-22T05:25:49.000Z",
-      "url": "https://www.producthunt.com/products/resend",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/resend",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Create shared inboxes, connect your agents, build workflows",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/bits-4",
-      "title": "Bits",
-      "summary": "An open-source personal agent that gets you things done",
-      "publishedAt": "2026-10-21T20:59:15.000Z",
-      "url": "https://www.producthunt.com/products/bits-4",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/bits-4",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "An open-source personal agent that gets you things done",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {

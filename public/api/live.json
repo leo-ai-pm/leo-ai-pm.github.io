@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月23日",
     "demo": false,
-    "updatedAt": "2026-10-23T05:55:32.438Z",
+    "updatedAt": "2026-10-23T11:27:41.062Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 338,
+      "received": 344,
       "latestCount": 5,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -138,7 +138,7 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
+          "matched": 3,
           "status": "本次收录"
         }
       ]
@@ -293,11 +293,11 @@
         }
       },
       {
-        "id": "aihot-i91d64xx83rfgp5gfcn6gycw3",
-        "title": "Hugging Face 联合 TIGEM 等机构发布开源 DNA 模型 Carbon-X",
-        "brief": "Hugging Face 与 TIGEM、那不勒斯费德里科二世大学、中关村学院合作发布开源 14B 模型 Carbon-X，可读取原始 DNA 并用通俗英语解释。",
-        "summary": "Hugging Face 与 TIGEM、那不勒斯费德里科二世大学、中关村学院合作发布开源 14B 模型 Carbon-X，可读取原始 DNA 并用通俗英语解释。",
-        "category": "模型进展",
+        "id": "aihot-t1eayr2cd595toi5kav3y8ebr",
+        "title": "黄仁勋GTC展示带动MicroDucks销量",
+        "brief": "Jensen 效应 🦆 发布日：约售出 3,000 只 MicroDucks 在 @JensenHuang 于 @nvidia GTC 台上展示它之后 24 小时：又售出超过 4,000 只，且仍在增长 比我们（本就庞大的）发布日还多！",
+        "summary": "Jensen 效应 🦆 发布日：约售出 3,000 只 MicroDucks 在 @JensenHuang 于 @nvidia GTC 台上展示它之后 24 小时：又售出超过 4,000 只，且仍在增长 比我们（本就庞大的）发布日还多！",
+        "category": "行业观察",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -305,22 +305,22 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Thomas Wolf · @Thom_Wolf",
         "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2113345703485309335",
-        "aggregateUrl": "https://aihot.news/items/i91d64xx83rfgp5gfcn6gycw3",
+        "sourceUrl": "https://x.com/Thom_Wolf/status/2113578676189044827",
+        "aggregateUrl": "https://aihot.news/items/t1eayr2cd595toi5kav3y8ebr",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-22T19:04:14.000Z",
+        "publishedAt": "2026-10-23T10:29:59.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Hugging Face",
-              "asset": "/assets/identities/huggingface.jpg",
-              "assetSource": "https://x.com/huggingface",
-              "tone": "#f3ebd3"
+              "name": "Thomas Wolf",
+              "asset": "/assets/identities/thom_wolf.jpg",
+              "assetSource": "https://x.com/Thom_Wolf",
+              "tone": "#e9e4dc"
             }
           ],
-          "caption": "模型进展",
+          "caption": "行业观察",
           "author": {
             "name": "Thomas Wolf",
             "asset": "/assets/identities/thom_wolf.jpg",
@@ -370,56 +370,6 @@
     "ranking": [
       {
         "rank": 1,
-        "id": "r4saw5foxj8v0eb82f3b66cs0",
-        "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
-        "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
-        "sourceCount": 10,
-        "participantCount": 71,
-        "latestAt": "2026-10-22T15:25:02.000Z",
-        "expanded": true,
-        "latest": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-        "reports": [
-          {
-            "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-            "sourceName": "Ars Technica：AI（RSS）",
-            "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-            "aihotUrl": "https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46",
-            "publishedAt": "2026-10-22T15:25:02.000Z"
-          },
-          {
-            "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-            "sourceName": "404 Media（RSS）",
-            "sourceUrl": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
-            "aihotUrl": "https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum",
-            "publishedAt": "2026-10-22T14:23:36.000Z"
-          },
-          {
-            "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-            "aihotUrl": "https://aihot.news/items/eme8i9igoadxb3beb902byfz0",
-            "publishedAt": "2026-10-22T05:13:16.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 2,
         "id": "jgg0i29t3o1eycc24c3wev0fx",
         "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
         "sourceName": "Claude：Blog（网页）",
@@ -427,7 +377,7 @@
         "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
         "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
         "sourceCount": 11,
-        "participantCount": 77,
+        "participantCount": 78,
         "latestAt": "2026-10-22T13:53:26.000Z",
         "expanded": true,
         "latest": "Anthropic 推出面向专业用户的智能体应用 Claude Duet",
@@ -469,46 +419,96 @@
         }
       },
       {
-        "rank": 3,
-        "id": "c7kz49ohg81rxi4ozxv046ttp",
-        "title": "1Password 推出智能体代登录平台，多家接入",
-        "sourceName": "X：Grok Bot (@bot)",
-        "sourceUrl": "https://x.com/bot/status/2113332983226831339",
-        "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
-        "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
-        "sourceCount": 8,
-        "participantCount": 24,
-        "latestAt": "2026-10-22T23:54:44.317Z",
+        "rank": 2,
+        "id": "r4saw5foxj8v0eb82f3b66cs0",
+        "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
+        "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
+        "sourceCount": 10,
+        "participantCount": 71,
+        "latestAt": "2026-10-22T15:25:02.000Z",
         "expanded": true,
-        "latest": "1Password 推出 1Password for Agents 平台，让 AI 智能体不接触密码代用户登录",
+        "latest": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
         "reports": [
           {
-            "title": "1Password 推出 1Password for Agents 平台，让 AI 智能体不接触密码代用户登录",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/016/772.htm",
-            "aihotUrl": "https://aihot.news/items/ufgh0tnz983tihikp4mnexbch",
-            "publishedAt": "2026-10-22T23:54:44.317Z"
+            "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+            "sourceName": "Ars Technica：AI（RSS）",
+            "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+            "aihotUrl": "https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46",
+            "publishedAt": "2026-10-22T15:25:02.000Z"
           },
           {
-            "title": "Grok Bot 接入 1Password，可代用户登录网站",
-            "sourceName": "X：baltaaazr（SpaceXSI，Grok Bot 初版作者之一） (@baltaaazr)",
-            "sourceUrl": "https://x.com/baltaaazr/status/2113391564441727431",
-            "aihotUrl": "https://aihot.news/items/js0gow1n685p8cb3zq3waejos",
-            "publishedAt": "2026-10-22T22:06:28.000Z"
+            "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+            "sourceName": "404 Media（RSS）",
+            "sourceUrl": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
+            "aihotUrl": "https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum",
+            "publishedAt": "2026-10-22T14:23:36.000Z"
           },
           {
-            "title": "1Password 联合多家推出 Agents 平台",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2113357243626516735",
-            "aihotUrl": "https://aihot.news/items/ssj56jg29d5yh3ijwgxbk9nia",
-            "publishedAt": "2026-10-22T19:50:05.000Z"
+            "title": "Latent Space 汇总 PHP2Shell 事件：OpenAI Patch the Planet 与 Wiz 各自用 AI 模型独立发现 PHP 核心漏洞",
+            "sourceName": "Latent Space（RSS）",
+            "sourceUrl": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+            "aihotUrl": "https://aihot.news/items/ih894crlfahslc0pttsw80r0c",
+            "publishedAt": "2026-10-22T07:42:44.000Z"
           }
         ],
         "related": [],
         "visual": {
           "entities": [
             {
-              "name": "X：Grok Bot (@bot)",
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
+        "id": "hhz6fidb9kyh0dl536p3bpp7o",
+        "title": "月之暗面预热 Kimi K3.1，展示 Kimi Code 界面",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/017/098.htm",
+        "aihotUrl": "https://aihot.news/items/hhz6fidb9kyh0dl536p3bpp7o",
+        "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
+        "sourceCount": 3,
+        "participantCount": 20,
+        "latestAt": "2026-10-23T08:43:19.427Z",
+        "expanded": true,
+        "latest": "月之暗面预热 Kimi K3.1：24 秒视频展示 Kimi Code 界面",
+        "reports": [
+          {
+            "title": "月之暗面预热 Kimi K3.1：24 秒视频展示 Kimi Code 界面",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/017/098.htm",
+            "aihotUrl": "https://aihot.news/items/hhz6fidb9kyh0dl536p3bpp7o",
+            "publishedAt": "2026-10-23T08:43:19.427Z"
+          },
+          {
+            "title": "Kimi K3.1 预告聚焦工程任务",
+            "sourceName": "X：X.PIN (@thexpin)",
+            "sourceUrl": "https://x.com/thexpin/status/2113528381660676298",
+            "aihotUrl": "https://aihot.news/items/why3g1nibbjkqtk0yg04ct1kr",
+            "publishedAt": "2026-10-23T07:10:08.000Z"
+          },
+          {
+            "title": "Kimi K3.1 模型即将发布",
+            "sourceName": "X：Testing Catalog (@testingcatalog)",
+            "sourceUrl": "https://x.com/testingcatalog/status/2113501787005337991",
+            "aihotUrl": "https://aihot.news/items/hgk9tasrvchd21hof4x30yqb9",
+            "publishedAt": "2026-10-23T05:24:27.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -520,34 +520,6 @@
       },
       {
         "rank": 4,
-        "id": "wbi0gsddrrfnavs6vvuqb2r7j",
-        "title": "DeepSeek新一轮融资升至约150亿美元",
-        "sourceName": "X：X.PIN (@thexpin)",
-        "sourceUrl": "https://x.com/thexpin/status/2107524306058289533",
-        "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
-        "storyUrl": "https://aihot.news/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4",
-        "sourceCount": 2,
-        "participantCount": 23,
-        "latestAt": "2026-10-22T13:11:13.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：X.PIN (@thexpin)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
         "id": "ofhppbtjnzfrzbv2a11sl8u7h",
         "title": "Apple发布折叠屏iPhone Duo并公布应用适配",
         "sourceName": "Apple：Newsroom（RSS）",
@@ -555,7 +527,7 @@
         "aihotUrl": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
         "storyUrl": "https://aihot.news/story/bd558c88-9573-4806-a1aa-67426d33a87c",
         "sourceCount": 1,
-        "participantCount": 17,
+        "participantCount": 24,
         "latestAt": "2026-10-21T16:00:00.000Z",
         "expanded": false,
         "latest": "",
@@ -575,7 +547,147 @@
         }
       },
       {
+        "rank": 5,
+        "id": "c7kz49ohg81rxi4ozxv046ttp",
+        "title": "1Password 推出智能体代登录平台，多家接入",
+        "sourceName": "X：Grok Bot (@bot)",
+        "sourceUrl": "https://x.com/bot/status/2113332983226831339",
+        "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
+        "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
+        "sourceCount": 8,
+        "participantCount": 24,
+        "latestAt": "2026-10-22T23:54:44.317Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Grok Bot (@bot)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 6,
+        "id": "qexf6est4uitwd71p3ugedxo6",
+        "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+        "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
+        "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
+        "sourceCount": 3,
+        "participantCount": 18,
+        "latestAt": "2026-10-23T09:49:38.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "wbi0gsddrrfnavs6vvuqb2r7j",
+        "title": "DeepSeek新一轮融资升至约150亿美元",
+        "sourceName": "X：X.PIN (@thexpin)",
+        "sourceUrl": "https://x.com/thexpin/status/2107524306058289533",
+        "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
+        "storyUrl": "https://aihot.news/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4",
+        "sourceCount": 3,
+        "participantCount": 24,
+        "latestAt": "2026-10-23T07:59:21.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：X.PIN (@thexpin)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "wrnv8dd428iozlj5xax99zbmj",
+        "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
+        "sourceName": "MiniMax：Blog（网页）",
+        "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
+        "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+        "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-10-23T09:18:55.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "MiniMax：Blog（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "xrz4fj30hoq167997p69rqe8v",
+        "title": "Canva发布首个自研图像生成模型Canva Craft",
+        "sourceName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "aihotUrl": "https://aihot.news/items/xrz4fj30hoq167997p69rqe8v",
+        "storyUrl": "https://aihot.news/story/159e1f8e-c18e-4c7c-9e3c-c4009494ac28",
+        "sourceCount": 3,
+        "participantCount": 14,
+        "latestAt": "2026-10-22T21:51:25.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "The Verge：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "nkn1qfqlo0oyt205jfrk4th22",
         "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
         "sourceName": "TechCrunch：AI（RSS）",
@@ -601,131 +713,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 7,
-        "id": "wg3g8yf3e8c11smv9q88k4poz",
-        "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-        "aihotUrl": "https://aihot.news/items/wg3g8yf3e8c11smv9q88k4poz",
-        "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
-        "sourceCount": 2,
-        "participantCount": 13,
-        "latestAt": "2026-10-23T04:16:06.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "r7uwz6n0sd6jr2r0tb1fu3o0u",
-        "title": "微软发布MAI-DxO诊断系统，称准确率超急诊医生",
-        "sourceName": "Microsoft AI：官方博客（网页）",
-        "sourceUrl": "https://microsoft.ai/news/building-medical-superintelligence/",
-        "aihotUrl": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
-        "storyUrl": "https://aihot.news/story/b02e8d53-6175-40cc-be57-9404e3aa0345",
-        "sourceCount": 5,
-        "participantCount": 13,
-        "latestAt": "2026-10-22T23:23:36.967Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Microsoft AI：官方博客（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "h05v2w7n5qxnee1h89espx59t",
-        "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2112830424418500861",
-        "aihotUrl": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
-        "storyUrl": "https://aihot.news/story/e797c189-8889-4f65-b11d-e9a7f0ede229",
-        "sourceCount": 2,
-        "participantCount": 20,
-        "latestAt": "2026-10-22T19:45:00.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "bm4bwid4hdnitbtz7pr6gtd0r",
-        "title": "OpenAI三款模型上架Google Cloud私测",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
-        "aihotUrl": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
-        "storyUrl": "https://aihot.news/story/49445e2f-d496-4acd-bc5e-70027cffd24a",
-        "sourceCount": 5,
-        "participantCount": 25,
-        "latestAt": "2026-10-21T19:23:19.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            },
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-23T05:55:32.438Z",
-    "nextCheckAt": 1792735232438,
+    "checkedAt": "2026-10-23T11:27:41.062Z",
+    "nextCheckAt": 1792755161062,
     "intervalSeconds": 300,
     "message": ""
   }
