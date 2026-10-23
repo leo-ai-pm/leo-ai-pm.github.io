@@ -1,7 +1,7 @@
 {
   "date": "2026年10月23日",
   "demo": false,
-  "updatedAt": "2026-10-23T01:00:15.562Z",
+  "updatedAt": "2026-10-23T05:55:32.438Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 320,
-    "latestCount": 4,
+    "received": 338,
+    "latestCount": 5,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "karpathy",
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 1,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -144,22 +144,22 @@
   },
   "items": [
     {
-      "id": "aihot-u7tpqfjh9sthd98g48yheypuk",
-      "title": "Codex 计算机使用实用提示词",
-      "brief": "对具备计算机使用能力的 Codex 来说，这是一个非常有用的提示词。",
-      "summary": "对具备计算机使用能力的 Codex 来说，这是一个非常有用的提示词。",
-      "category": "实践与观点",
+      "id": "aihot-rma5wivjphtnzz9b68bev0o05",
+      "title": "OpenAI 第18天：多项更新与重置",
+      "brief": "第18天/ Decisions API 正式可用，OpenResponses 加入 Linux 基金会，我们发布了一些性能改进，Uber 正全面投入 codex & work。",
+      "summary": "第18天/ Decisions API 正式可用，OpenResponses 加入 Linux 基金会，我们发布了一些性能改进，Uber 正全面投入 codex & work。",
+      "category": "行业观察",
       "topic": "Agent",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "emollick",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Ethan Mollick · @emollick",
-      "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2113361252173091114",
-      "aggregateUrl": "https://aihot.news/items/u7tpqfjh9sthd98g48yheypuk",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2113492187770175603",
+      "aggregateUrl": "https://aihot.news/items/rma5wivjphtnzz9b68bev0o05",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-22T20:06:01.000Z",
+      "publishedAt": "2026-10-23T04:46:19.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -171,7 +171,44 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "实践与观点",
+        "caption": "行业观察",
+        "author": {
+          "name": "Tibo Sottiaux",
+          "asset": "/assets/identities/thsottiaux.jpg",
+          "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-h1guinkdg1gm3tlipogsm0inp",
+      "title": "Opus 4.8 同行评审胜过人类专家",
+      "brief": "在一项涵盖 124 篇哈佛社会科学论文的研究中，从统计分析到形式模型再到定性研究，无论以何种标准衡量，Opus 4.8 作为同行评审都胜过人类专家。",
+      "summary": "在一项涵盖 124 篇哈佛社会科学论文的研究中，从统计分析到形式模型再到定性研究，无论以何种标准衡量，Opus 4.8 作为同行评审都胜过人类专家。",
+      "category": "AI 动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "emollick",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Ethan Mollick · @emollick",
+      "feedName": "X：Ethan Mollick (@emollick)",
+      "sourceUrl": "https://x.com/emollick/status/2113483068174692831",
+      "aggregateUrl": "https://aihot.news/items/h1guinkdg1gm3tlipogsm0inp",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-10-23T04:10:04.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Ethan Mollick",
+            "asset": "/assets/identities/emollick.jpg",
+            "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "AI 动态",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -332,56 +369,6 @@
   "ranking": [
     {
       "rank": 1,
-      "id": "jgg0i29t3o1eycc24c3wev0fx",
-      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-duet",
-      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
-      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
-      "sourceCount": 11,
-      "participantCount": 76,
-      "latestAt": "2026-10-22T13:53:26.000Z",
-      "expanded": true,
-      "latest": "Anthropic 推出面向专业用户的智能体应用 Claude Duet",
-      "reports": [
-        {
-          "title": "Anthropic 推出面向专业用户的智能体应用 Claude Duet",
-          "sourceName": "TechCrunch：AI（RSS）",
-          "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-          "aihotUrl": "https://aihot.news/items/a368spor8qu8h59djii0rdjpl",
-          "publishedAt": "2026-10-22T13:53:26.000Z"
-        },
-        {
-          "title": "Anthropic 推出常驻智能体 Claude Duet 研究预览版",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
-          "aihotUrl": "https://aihot.news/items/src7uoi1zxjfkmq2bub2457td",
-          "publishedAt": "2026-10-22T08:35:22.000Z"
-        },
-        {
-          "title": "Anthropic 开放 Claude Duet 等待名单，GPT-6 系列登陆谷歌云",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "sourceUrl": "https://x.com/testingcatalog/status/2113184364209004811",
-          "aihotUrl": "https://aihot.news/items/oz0l01a9p2sbkryvj3kjmpydu",
-          "publishedAt": "2026-10-22T08:23:08.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 2,
       "id": "r4saw5foxj8v0eb82f3b66cs0",
       "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -389,7 +376,7 @@
       "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
       "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
       "sourceCount": 10,
-      "participantCount": 70,
+      "participantCount": 71,
       "latestAt": "2026-10-22T15:25:02.000Z",
       "expanded": true,
       "latest": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
@@ -431,6 +418,56 @@
       }
     },
     {
+      "rank": 2,
+      "id": "jgg0i29t3o1eycc24c3wev0fx",
+      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-duet",
+      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
+      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
+      "sourceCount": 11,
+      "participantCount": 77,
+      "latestAt": "2026-10-22T13:53:26.000Z",
+      "expanded": true,
+      "latest": "Anthropic 推出面向专业用户的智能体应用 Claude Duet",
+      "reports": [
+        {
+          "title": "Anthropic 推出面向专业用户的智能体应用 Claude Duet",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "aihotUrl": "https://aihot.news/items/a368spor8qu8h59djii0rdjpl",
+          "publishedAt": "2026-10-22T13:53:26.000Z"
+        },
+        {
+          "title": "Anthropic 推出常驻智能体 Claude Duet 研究预览版",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+          "aihotUrl": "https://aihot.news/items/src7uoi1zxjfkmq2bub2457td",
+          "publishedAt": "2026-10-22T08:35:22.000Z"
+        },
+        {
+          "title": "Anthropic 开放 Claude Duet 等待名单，GPT-6 系列登陆谷歌云",
+          "sourceName": "X：Testing Catalog (@testingcatalog)",
+          "sourceUrl": "https://x.com/testingcatalog/status/2113184364209004811",
+          "aihotUrl": "https://aihot.news/items/oz0l01a9p2sbkryvj3kjmpydu",
+          "publishedAt": "2026-10-22T08:23:08.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 3,
       "id": "c7kz49ohg81rxi4ozxv046ttp",
       "title": "1Password 推出智能体代登录平台，多家接入",
@@ -439,7 +476,7 @@
       "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
       "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
       "sourceCount": 8,
-      "participantCount": 19,
+      "participantCount": 24,
       "latestAt": "2026-10-22T23:54:44.317Z",
       "expanded": true,
       "latest": "1Password 推出 1Password for Agents 平台，让 AI 智能体不接触密码代用户登录",
@@ -489,7 +526,7 @@
       "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
       "storyUrl": "https://aihot.news/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4",
       "sourceCount": 2,
-      "participantCount": 21,
+      "participantCount": 23,
       "latestAt": "2026-10-22T13:11:13.000Z",
       "expanded": false,
       "latest": "",
@@ -510,6 +547,34 @@
     },
     {
       "rank": 5,
+      "id": "ofhppbtjnzfrzbv2a11sl8u7h",
+      "title": "Apple发布折叠屏iPhone Duo并公布应用适配",
+      "sourceName": "Apple：Newsroom（RSS）",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "aihotUrl": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
+      "storyUrl": "https://aihot.news/story/bd558c88-9573-4806-a1aa-67426d33a87c",
+      "sourceCount": 1,
+      "participantCount": 17,
+      "latestAt": "2026-10-21T16:00:00.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Apple：Newsroom（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "nkn1qfqlo0oyt205jfrk4th22",
       "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
       "sourceName": "TechCrunch：AI（RSS）",
@@ -517,7 +582,7 @@
       "aihotUrl": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
       "storyUrl": "https://aihot.news/story/4e5e0d5e-eb50-43cc-b997-7cd714147997",
       "sourceCount": 7,
-      "participantCount": 25,
+      "participantCount": 26,
       "latestAt": "2026-10-22T14:40:16.000Z",
       "expanded": false,
       "latest": "",
@@ -537,7 +602,35 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "id": "wg3g8yf3e8c11smv9q88k4poz",
+      "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "aihotUrl": "https://aihot.news/items/wg3g8yf3e8c11smv9q88k4poz",
+      "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
+      "sourceCount": 2,
+      "participantCount": 13,
+      "latestAt": "2026-10-23T04:16:06.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "r7uwz6n0sd6jr2r0tb1fu3o0u",
       "title": "微软发布MAI-DxO诊断系统，称准确率超急诊医生",
       "sourceName": "Microsoft AI：官方博客（网页）",
@@ -545,7 +638,7 @@
       "aihotUrl": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
       "storyUrl": "https://aihot.news/story/b02e8d53-6175-40cc-be57-9404e3aa0345",
       "sourceCount": 5,
-      "participantCount": 12,
+      "participantCount": 13,
       "latestAt": "2026-10-22T23:23:36.967Z",
       "expanded": false,
       "latest": "",
@@ -565,41 +658,7 @@
       }
     },
     {
-      "rank": 7,
-      "id": "bm4bwid4hdnitbtz7pr6gtd0r",
-      "title": "OpenAI三款模型上架Google Cloud私测",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
-      "aihotUrl": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
-      "storyUrl": "https://aihot.news/story/49445e2f-d496-4acd-bc5e-70027cffd24a",
-      "sourceCount": 5,
-      "participantCount": 24,
-      "latestAt": "2026-10-21T19:23:19.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          },
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "id": "h05v2w7n5qxnee1h89espx59t",
       "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -627,16 +686,16 @@
       }
     },
     {
-      "rank": 9,
-      "id": "srgsfi8edabzrwgg6vjtgw3ya",
-      "title": "OpenAI 洽谈最高 300 亿美元融资，估值说法不一",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2112455383356989598",
-      "aihotUrl": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
-      "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
-      "sourceCount": 1,
-      "participantCount": 12,
-      "latestAt": "2026-10-22T22:08:24.000Z",
+      "rank": 10,
+      "id": "bm4bwid4hdnitbtz7pr6gtd0r",
+      "title": "OpenAI三款模型上架Google Cloud私测",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
+      "aihotUrl": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
+      "storyUrl": "https://aihot.news/story/49445e2f-d496-4acd-bc5e-70027cffd24a",
+      "sourceCount": 5,
+      "participantCount": 25,
+      "latestAt": "2026-10-21T19:23:19.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -648,34 +707,12 @@
             "asset": "/assets/identities/openai.jpg",
             "assetSource": "https://x.com/OpenAI",
             "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "xrz4fj30hoq167997p69rqe8v",
-      "title": "Canva发布首个自研图像生成模型Canva Craft",
-      "sourceName": "The Verge：AI（RSS）",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "aihotUrl": "https://aihot.news/items/xrz4fj30hoq167997p69rqe8v",
-      "storyUrl": "https://aihot.news/story/159e1f8e-c18e-4c7c-9e3c-c4009494ac28",
-      "sourceCount": 3,
-      "participantCount": 11,
-      "latestAt": "2026-10-22T21:51:25.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
+          },
           {
-            "name": "The Verge：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",

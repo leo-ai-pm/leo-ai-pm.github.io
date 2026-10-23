@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-23T01:00:04.073Z",
-      "lastSuccessAt": "2026-10-23T01:00:04.073Z",
-      "nextCheckAt": 1792720804073,
+      "checkedAt": "2026-10-23T05:55:16.617Z",
+      "lastSuccessAt": "2026-10-23T05:55:16.617Z",
+      "nextCheckAt": 1792738516617,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-23T05:55:16.618Z",
+      "lastSuccessAt": "2026-10-23T05:55:16.618Z",
+      "nextCheckAt": 1792738516618,
       "status": "ok",
-      "nextCheckAt": 1792720804074,
-      "checkedAt": "2026-10-23T01:00:04.074Z",
-      "lastSuccessAt": "2026-10-23T01:00:04.074Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-23T01:00:04.075Z",
-      "lastSuccessAt": "2026-10-23T01:00:04.075Z",
-      "nextCheckAt": 1792720804075,
+      "checkedAt": "2026-10-23T05:55:16.619Z",
+      "lastSuccessAt": "2026-10-23T05:55:16.619Z",
+      "nextCheckAt": 1792738516619,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792720804205,
-      "checkedAt": "2026-10-23T01:00:04.205Z",
-      "lastSuccessAt": "2026-10-23T01:00:04.205Z",
+      "nextCheckAt": 1792738516770,
+      "checkedAt": "2026-10-23T05:55:16.770Z",
+      "lastSuccessAt": "2026-10-23T05:55:16.770Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792720804073,
+  "nextCheckAt": 1792738516617,
   "refreshing": false,
   "items": [
     {
@@ -212,126 +212,6 @@
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6482891.html",
-      "title": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
-      "summary": "直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。这篇把方法捋成文字版，先判断环节适不适合 AI，再拆成 IPO 原子化节点，最后决定哪些做成 Skill。 昨晚直播讲了两个多小时 AI 赋能怎么落地，这篇是整理后的文字版。 全文由 MiMo 基于录音妙记撰写整理，可能有未修正的转录错别字，我通读了一遍问题不大。 直播里被问得最多的就两个问题：找不到可以引入 AI 的场景；场景被塞过来，不知道怎么拆。 下面按",
-      "publishedAt": "2026-10-22T09:55:04.000Z",
-      "url": "https://www.woshipm.com/ai/6482891.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6482891.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。这篇把方法捋成文字版，先判断环节适不适合 AI，再拆成 IPO 原子化节点，最后决定哪些做成 Skill。 昨晚直播讲了两个多小时 AI 赋能怎么落地，这篇是整理后的文字版。 全文由 MiMo 基于录音妙记撰写整理，可能有未修正的转录错别字，我通读了一遍问题不大。 直播里被问得最多的就两个问题：找不到可以引入 AI 的场景；场景被塞过来，不知道怎么拆。 下面按",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6482685.html",
-      "title": "实测Nano Banana 2.1：拿10个电商场景正面PK，能把GPT拉下神坛吗？",
-      "summary": "谷歌AI重磅更新，Nano Banana 2.1与Gemini 4 Argon上线。本文通过五类商业素材实测，对比Nano Banana 2.1与GPT-image2.5在电商设计中的表现，从信息图到UGC风格，揭示各自优劣。文末附三步上手教程，助你一键生成跨境品牌级素材。 沉寂大半年的谷歌AI迎来了一波“史诗级”加强：Gemini 4 Argon 和Nano Banana 2.1都上线了。 事实真的如此？ 今天我带着大家深度实测下Na",
-      "publishedAt": "2026-10-22T08:59:34.000Z",
-      "url": "https://www.woshipm.com/ai/6482685.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6482685.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "谷歌AI重磅更新，Nano Banana 2.1与Gemini 4 Argon上线。本文通过五类商业素材实测，对比Nano Banana 2.1与GPT-image2.5在电商设计中的表现，从信息图到UGC风格，揭示各自优劣。文末附三步上手教程，助你一键生成跨境品牌级素材。 沉寂大半年的谷歌AI迎来了一波“史诗级”加强：Gemini 4 Argon 和Nano Banana 2.1都上线了。 事实真的如此？ 今天我带着大家深度实测下Na",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6482653.html",
-      "title": "备战双11，我用4个AI Agent读完400条评价改详情页",
-      "summary": "双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，",
-      "publishedAt": "2026-10-22T08:50:41.000Z",
-      "url": "https://www.woshipm.com/ai/6482653.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6482653.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "双 11 前一周，主推款转化率一路往下掉，设计问改哪几屏，他只憋出一句「保温要加强」。后来他把自家和三家竞品近 90 天的 400 条评价丢给豆包工作，让 4 个 Agent 分头读完。 最近和做电商的朋友交流，分享一下他用豆包工作来辅助电商运营岗位的经验 在双11预售开始前一周，店里的主推款保温杯转化率一直往下走。老板拍板改详情页，设计同事来问：“改哪几屏？先讲什么？”我答不上来，憋了半天只说出一句“保温那块好像要加强”。 改哪几屏，",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/cleanslop",
