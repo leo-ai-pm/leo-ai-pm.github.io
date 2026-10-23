@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月23日",
+    "date": "2026年10月24日",
     "demo": false,
-    "updatedAt": "2026-10-23T15:52:22.333Z",
+    "updatedAt": "2026-10-23T19:37:04.036Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 316,
-      "latestCount": 5,
+      "received": 296,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 4,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -120,8 +120,8 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "AravSrinivas",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 3,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -138,7 +138,7 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 3,
+          "matched": 2,
           "status": "本次收录"
         }
       ]
@@ -182,10 +182,10 @@
         }
       },
       {
-        "id": "aihot-ei0dxggfgn7d8f24nmxzdab3y",
-        "title": "Ethan Mollick 与提示词注入概念提出者都认为新型模型受注入攻击影响可能变小",
-        "brief": "Ethan Mollick 转引",
-        "summary": "Ethan Mollick 转引",
+        "id": "aihot-ymgu5kepfyiebv7zmxz53howh",
+        "title": "AI实验室内部模型与公开模型差距渐大",
+        "brief": "随着AI实验室的内部模型与它们对外发布的模型之间的差距不断扩大（出于安全考量和研究优势），OpenAI和Anthropic将越来越有动力直接利用这一优势进入新市场，尤其是在金融和生物科技领域。",
+        "summary": "随着AI实验室的内部模型与它们对外发布的模型之间的差距不断扩大（出于安全考量和研究优势），OpenAI和Anthropic将越来越有动力直接利用这一优势进入新市场，尤其是在金融和生物科技领域。",
         "category": "AI 动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -194,10 +194,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2113626577623826515",
-        "aggregateUrl": "https://aihot.news/items/ei0dxggfgn7d8f24nmxzdab3y",
+        "sourceUrl": "https://x.com/emollick/status/2113681838611087572",
+        "aggregateUrl": "https://aihot.news/items/ymgu5kepfyiebv7zmxz53howh",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-23T13:40:20.000Z",
+        "publishedAt": "2026-10-23T17:19:55.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -219,47 +219,10 @@
         }
       },
       {
-        "id": "aihot-mox9z2bov61pdc1adwpraw1da",
-        "title": "Uber 向全体员工铺开 OpenAI 的 ChatGPT Work",
-        "brief": "OpenAI 总裁 Greg Brockman 宣布与 Uber 合作，将 ChatGPT Work 推向 Uber 全体员工，为全公司带来智能体能力。",
-        "summary": "OpenAI 总裁 Greg Brockman 宣布与 Uber 合作，将 ChatGPT Work 推向 Uber 全体员工，为全公司带来智能体能力。",
-        "category": "行业观察",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "gdb",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Greg Brockman · @gdb",
-        "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2113325885491437764",
-        "aggregateUrl": "https://aihot.news/items/mox9z2bov61pdc1adwpraw1da",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-22T17:45:29.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "行业观察",
-          "author": {
-            "name": "Greg Brockman",
-            "asset": "/assets/identities/gdb.jpg",
-            "assetSource": "https://x.com/gdb",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-ezd6xgzbdrwqqgtw75pkkfqyc",
-        "title": "Perplexity 决策模型可在 Mac 本地运行",
-        "brief": "现在你可以在 Mac 上完全本地运行 Perplexity 决策模型，数据不会离开你的设备。",
-        "summary": "现在你可以在 Mac 上完全本地运行 Perplexity 决策模型，数据不会离开你的设备。",
+        "id": "aihot-u49tljg6ftld6y2vf085xd7xv",
+        "title": "Perplexity 企业管理员可设 Effort 上下限",
+        "brief": "我们让管理员能更好地控制内部人员如何使用 tokenmax，可以为 Effort 等级（与能力和成本相关）设置下限和上限。",
+        "summary": "我们让管理员能更好地控制内部人员如何使用 tokenmax，可以为 Effort 等级（与能力和成本相关）设置下限和上限。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -268,10 +231,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2113420151232352444",
-        "aggregateUrl": "https://aihot.news/items/ezd6xgzbdrwqqgtw75pkkfqyc",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2113683117651460532",
+        "aggregateUrl": "https://aihot.news/items/u49tljg6ftld6y2vf085xd7xv",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-23T00:00:04.000Z",
+        "publishedAt": "2026-10-23T17:25:00.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -370,48 +333,48 @@
     "ranking": [
       {
         "rank": 1,
-        "id": "r4saw5foxj8v0eb82f3b66cs0",
-        "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
-        "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
-        "sourceCount": 9,
-        "participantCount": 66,
-        "latestAt": "2026-10-22T15:25:02.000Z",
+        "id": "okgjn7r72wo7c5j0bu3o1vbie",
+        "title": "月之暗面发布 Kimi K3.1 Pro，权重定于 11 月 4 日前释出",
+        "sourceName": "Moonshot AI：Kimi Blog",
+        "sourceUrl": "https://www.kimi.com/blog/kimi-k3-1-pro",
+        "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+        "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
+        "sourceCount": 11,
+        "participantCount": 48,
+        "latestAt": "2026-10-23T18:31:22.000Z",
         "expanded": true,
-        "latest": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+        "latest": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
         "reports": [
           {
-            "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-            "sourceName": "Ars Technica：AI（RSS）",
-            "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-            "aihotUrl": "https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46",
-            "publishedAt": "2026-10-22T15:25:02.000Z"
+            "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+            "sourceName": "X：OpenRouter (@OpenRouter)",
+            "sourceUrl": "https://x.com/OpenRouter/status/2113699820124934334",
+            "aihotUrl": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+            "publishedAt": "2026-10-23T18:31:22.000Z"
           },
           {
-            "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-            "sourceName": "404 Media（RSS）",
-            "sourceUrl": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
-            "aihotUrl": "https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum",
-            "publishedAt": "2026-10-22T14:23:36.000Z"
+            "title": "Kimi K3.1 Pro 上线 OpenCode Go",
+            "sourceName": "X：opencode (@opencode)",
+            "sourceUrl": "https://x.com/opencode/status/2113699251616412056",
+            "aihotUrl": "https://aihot.news/items/l78hraip7k7b5v82v77nuqf3z",
+            "publishedAt": "2026-10-23T18:29:06.000Z"
           },
           {
-            "title": "Latent Space 汇总 PHP2Shell 事件：OpenAI Patch the Planet 与 Wiz 各自用 AI 模型独立发现 PHP 核心漏洞",
-            "sourceName": "Latent Space（RSS）",
-            "sourceUrl": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
-            "aihotUrl": "https://aihot.news/items/ih894crlfahslc0pttsw80r0c",
-            "publishedAt": "2026-10-22T07:42:44.000Z"
+            "title": "Kimi K3.1 Pro 以 55 分登 Artificial Analysis Intelligence Index 第 4，Lambert 称超 Fable 5.1 与 Astra 6",
+            "sourceName": "X：Nathan Lambert (@natolambert)",
+            "sourceUrl": "https://x.com/natolambert/status/2113696375552512202",
+            "aihotUrl": "https://aihot.news/items/t4sfa9hsyslb24kcu7lxqk4uk",
+            "publishedAt": "2026-10-23T18:17:41.000Z"
           }
         ],
         "related": [],
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Moonshot AI：Kimi Blog",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -426,8 +389,8 @@
         "sourceUrl": "https://claude.com/blog/claude-duet",
         "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
         "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
-        "sourceCount": 11,
-        "participantCount": 78,
+        "sourceCount": 10,
+        "participantCount": 73,
         "latestAt": "2026-10-22T13:53:26.000Z",
         "expanded": true,
         "latest": "Anthropic 推出面向专业用户的智能体应用 Claude Duet",
@@ -470,48 +433,48 @@
       },
       {
         "rank": 3,
-        "id": "hhz6fidb9kyh0dl536p3bpp7o",
-        "title": "月之暗面预热 Kimi K3.1，展示 Kimi Code 界面",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/017/098.htm",
-        "aihotUrl": "https://aihot.news/items/hhz6fidb9kyh0dl536p3bpp7o",
-        "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
-        "sourceCount": 3,
-        "participantCount": 22,
-        "latestAt": "2026-10-23T08:43:19.427Z",
+        "id": "r4saw5foxj8v0eb82f3b66cs0",
+        "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
+        "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
+        "sourceCount": 6,
+        "participantCount": 53,
+        "latestAt": "2026-10-22T15:25:02.000Z",
         "expanded": true,
-        "latest": "月之暗面预热 Kimi K3.1：24 秒视频展示 Kimi Code 界面",
+        "latest": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
         "reports": [
           {
-            "title": "月之暗面预热 Kimi K3.1：24 秒视频展示 Kimi Code 界面",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/017/098.htm",
-            "aihotUrl": "https://aihot.news/items/hhz6fidb9kyh0dl536p3bpp7o",
-            "publishedAt": "2026-10-23T08:43:19.427Z"
+            "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
+            "sourceName": "Ars Technica：AI（RSS）",
+            "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+            "aihotUrl": "https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46",
+            "publishedAt": "2026-10-22T15:25:02.000Z"
           },
           {
-            "title": "Kimi K3.1 预告聚焦工程任务",
-            "sourceName": "X：X.PIN (@thexpin)",
-            "sourceUrl": "https://x.com/thexpin/status/2113528381660676298",
-            "aihotUrl": "https://aihot.news/items/why3g1nibbjkqtk0yg04ct1kr",
-            "publishedAt": "2026-10-23T07:10:08.000Z"
+            "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+            "sourceName": "404 Media（RSS）",
+            "sourceUrl": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
+            "aihotUrl": "https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum",
+            "publishedAt": "2026-10-22T14:23:36.000Z"
           },
           {
-            "title": "Kimi K3.1 模型即将发布",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2113501787005337991",
-            "aihotUrl": "https://aihot.news/items/hgk9tasrvchd21hof4x30yqb9",
-            "publishedAt": "2026-10-23T05:24:27.000Z"
+            "title": "Latent Space 梳理 PHP2Shell 漏洞事件：OpenAI Patch the Planet 与 Wiz 各自发现 PHP 核心漏洞",
+            "sourceName": "Latent Space（RSS）",
+            "sourceUrl": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+            "aihotUrl": "https://aihot.news/items/ih894crlfahslc0pttsw80r0c",
+            "publishedAt": "2026-10-22T07:42:44.000Z"
           }
         ],
         "related": [],
         "visual": {
           "entities": [
             {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -527,7 +490,7 @@
         "aihotUrl": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
         "storyUrl": "https://aihot.news/story/bd558c88-9573-4806-a1aa-67426d33a87c",
         "sourceCount": 1,
-        "participantCount": 26,
+        "participantCount": 25,
         "latestAt": "2026-10-22T16:00:00.000Z",
         "expanded": false,
         "latest": "",
@@ -576,6 +539,34 @@
       },
       {
         "rank": 6,
+        "id": "wrnv8dd428iozlj5xax99zbmj",
+        "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
+        "sourceName": "MiniMax：Blog（网页）",
+        "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
+        "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+        "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
+        "sourceCount": 5,
+        "participantCount": 18,
+        "latestAt": "2026-10-23T18:48:42.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "MiniMax：Blog（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "wbi0gsddrrfnavs6vvuqb2r7j",
         "title": "DeepSeek新一轮融资升至约150亿美元",
         "sourceName": "X：X.PIN (@thexpin)",
@@ -583,7 +574,7 @@
         "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
         "storyUrl": "https://aihot.news/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4",
         "sourceCount": 3,
-        "participantCount": 27,
+        "participantCount": 26,
         "latestAt": "2026-10-23T07:59:21.000Z",
         "expanded": false,
         "latest": "",
@@ -603,7 +594,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "qexf6est4uitwd71p3ugedxo6",
         "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -631,34 +622,6 @@
         }
       },
       {
-        "rank": 8,
-        "id": "wrnv8dd428iozlj5xax99zbmj",
-        "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
-        "sourceName": "MiniMax：Blog（网页）",
-        "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
-        "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-        "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
-        "sourceCount": 4,
-        "participantCount": 16,
-        "latestAt": "2026-10-23T09:18:55.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "MiniMax：Blog（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 9,
         "id": "xffhf8h0e0r145getmi9k1zgs",
         "title": "OpenAI Decisions API 正式开放，输入每百万 token 0.1 美元",
@@ -667,7 +630,7 @@
         "aihotUrl": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
         "storyUrl": "https://aihot.news/story/30e9531f-5f58-4e7e-8a67-705e2340a4b6",
         "sourceCount": 4,
-        "participantCount": 15,
+        "participantCount": 16,
         "latestAt": "2026-10-22T23:48:13.607Z",
         "expanded": false,
         "latest": "",
@@ -718,8 +681,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-23T15:52:22.333Z",
-    "nextCheckAt": 1792771042333,
+    "checkedAt": "2026-10-23T19:37:04.036Z",
+    "nextCheckAt": 1792784524036,
     "intervalSeconds": 300,
     "message": ""
   }
