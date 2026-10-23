@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-23T11:27:29.489Z",
-      "lastSuccessAt": "2026-10-23T11:27:29.489Z",
-      "nextCheckAt": 1792758449489,
+      "checkedAt": "2026-10-23T15:52:01.491Z",
+      "lastSuccessAt": "2026-10-23T15:52:01.491Z",
+      "nextCheckAt": 1792774321491,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-23T11:27:29.490Z",
-      "lastSuccessAt": "2026-10-23T11:27:29.490Z",
-      "nextCheckAt": 1792758449490,
+      "checkedAt": "2026-10-23T15:52:01.492Z",
+      "lastSuccessAt": "2026-10-23T15:52:01.492Z",
+      "nextCheckAt": 1792774321492,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-23T11:27:29.491Z",
-      "lastSuccessAt": "2026-10-23T11:27:29.491Z",
-      "nextCheckAt": 1792758449491,
+      "checkedAt": "2026-10-23T15:52:01.493Z",
+      "lastSuccessAt": "2026-10-23T15:52:01.493Z",
+      "nextCheckAt": 1792774321493,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-23T15:52:01.814Z",
+      "lastSuccessAt": "2026-10-23T15:52:01.814Z",
+      "nextCheckAt": 1792774321814,
       "status": "ok",
-      "nextCheckAt": 1792758449679,
-      "checkedAt": "2026-10-23T11:27:29.679Z",
-      "lastSuccessAt": "2026-10-23T11:27:29.679Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792758449489,
+  "nextCheckAt": 1792774321491,
   "refreshing": false,
   "items": [
+    {
+      "id": "n8n:https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
+      "title": "AI Agent Memory: How LLM Agents Manage State in Production",
+      "summary": "Learn how AI agent memory works, explore short-term and long-term memory architectures, and discover how to combine n8n and Cognee to build AI workflows that retain context, share knowledge, and learn across sessions.",
+      "publishedAt": "2026-10-23T12:20:34.000Z",
+      "url": "https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Learn how AI agent memory works, explore short-term and long-term memory architectures, and discover how to combine n8n and Cognee to build AI workflows that retain context, share knowledge, and learn across sessions.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6478947.html",
       "title": "Prompt、Skill、Project、MCP，一套完整的 AI 工作流！",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6483288.html",
@@ -212,7 +252,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/termi-protocol",
@@ -368,46 +408,6 @@
       "category": "工作流与实践",
       "platform": "英文官方博客",
       "brief": "Compare API versioning strategies like URI, header, and date-based approaches, and learn how to handle a provider’s deprecation without breaking integration",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/stateful-vs-stateless/",
-      "title": "Stateful vs. Stateless: Managing Context in AI Agent Builds",
-      "summary": "Stateful versus stateless design changes how systems scale and remember context. Learn when to use memory nodes, state stores, or both.",
-      "publishedAt": "2026-10-22T15:44:39.000Z",
-      "url": "https://blog.n8n.io/stateful-vs-stateless/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/stateful-vs-stateless/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Stateful versus stateless design changes how systems scale and remember context. Learn when to use memory nodes, state stores, or both.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
