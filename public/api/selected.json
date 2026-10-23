@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-23T19:37:16.817Z",
+  "checkedAt": "2026-10-23T22:35:19.198Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "ss1c1fu81134agwcw2ae90gai",
+      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+      "reason": "OpenAI 亲述前沿模型训练环境的安全架构与红队结果，读者可以了解沙箱逃逸、缓存侧信道等真实攻击路径及纵深防御做法。",
+      "summary": "OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "g9tc56izmwy49zgw5ta4ubsya",
+      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+      "reason": "Anthropic 官方拆解 Claude Duet 的安全设计，读者可据此了解智能体在审批、凭证隔离和信息分级上的具体做法。",
+      "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+      "aihotUrl": "https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
     {
       "id": "g725ujk3cq0gquz6g2nlozeu4",
       "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
@@ -191,76 +219,6 @@
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "jsr18rtgxl0kvb0k7np7lpyou",
-      "title": "Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明",
-      "reason": "Anthropic 用 Claude 对 123 个 OSS-Fuzz 开源库在 RISC-V 汇编层面写 Rocq 证明，读者可以据此了解 LLM 规模化形式化验证的实际流程与局限。",
-      "summary": "Anthropic 与 Theorem 合作，用 Claude 将 OSS-Fuzz 模糊测试转化为规格，对 123 个开源库的 239 个入口点证明了任意 64 MB 以下输入不崩溃，生成约 1.8 亿行 Rocq 证明。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/formal-verification",
-      "aihotUrl": "https://aihot.news/items/jsr18rtgxl0kvb0k7np7lpyou",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "qexf6est4uitwd71p3ugedxo6",
-      "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-      "reason": "原文汇总 FT 与 CNBC 报道，给出估值目标下调幅度、领投方和 IPO 时间线，便于追踪 OpenAI 融资进展。",
-      "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-      "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
-      "publishedAt": "2026-10-23T09:49:38.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "h1d0qu9nsy86fmfqns5f3pkjb",
-      "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-      "reason": "原文说明了该智能体如何调查告警、验证修复并部署，可帮助读者判断它能否替代个人开发者深夜值班。",
-      "summary": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。",
-      "sourceName": "Replit：Blog（RSS）",
-      "sourceUrl": "https://replit.com/blog/replit-monitoring-agent",
-      "aihotUrl": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
-      "publishedAt": "2026-10-22T20:24:13.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "w7axcg0e1y7uoyro92cmanong",
-      "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-      "reason": "原文梳理了 SpaceX 与特斯拉合并讨论背后的财务动机、Musk 投票权变化和薪酬条款，读者可以借此区分叙事与利益。",
-      "summary": "The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。",
-      "sourceName": "The Verge：AI（RSS）",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "aihotUrl": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-      "publishedAt": "2026-10-22T19:45:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "ybo2q5ug2e71tfuab9m1t128o",
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-      "reason": "官方说明 Claude 各端默认开启 auto mode 的变化与手动切换入口，读者可据此评估权限模式对日常使用流程的影响。",
-      "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。",
-      "sourceName": "X：Claude (@claudeai)",
-      "sourceUrl": "https://x.com/claudeai/status/2113360845409583307",
-      "aihotUrl": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
-      "publishedAt": "2026-10-22T20:04:24.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
       "unselected": false
     }
   ],
@@ -490,6 +448,20 @@
       "unselected": false
     },
     {
+      "id": "ss1c1fu81134agwcw2ae90gai",
+      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+      "reason": "OpenAI 亲述前沿模型训练环境的安全架构与红队结果，读者可以了解沙箱逃逸、缓存侧信道等真实攻击路径及纵深防御做法。",
+      "summary": "OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "pjmxomdu7pnp68ckyfels66mt",
       "title": "iPhone Duo 全球 Apple Store 正式开售，首台可折叠 iPhone 上架",
       "reason": "Apple 官方说明 iPhone Duo 全球开售当天的门店体验与购买、设置服务，读者可了解首发渠道和新机配套安排。",
@@ -588,17 +560,17 @@
       "unselected": false
     },
     {
-      "id": "m34xrhmqj1is6d1v1jna3ed46",
-      "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-      "reason": "原文汇总了 NSA、NCSC 和白宫对 PHP 漏洞的处置表态，还引出 OpenAI 关于前沿 AI 发现漏洞的争议。",
-      "summary": "PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。",
-      "sourceName": "Ars Technica：AI（RSS）",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-      "aihotUrl": "https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46",
-      "publishedAt": "2026-10-22T15:25:02.000Z",
+      "id": "g9tc56izmwy49zgw5ta4ubsya",
+      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+      "reason": "Anthropic 官方拆解 Claude Duet 的安全设计，读者可据此了解智能体在审批、凭证隔离和信息分级上的具体做法。",
+      "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+      "aihotUrl": "https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
       "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
+      "category": "paper",
+      "categoryLabel": "论文",
       "unselected": false
     },
     {
@@ -694,20 +666,6 @@
       "sourceUrl": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
       "aihotUrl": "https://aihot.news/items/ndcmko0udqo2kgybo0kolxswj",
       "publishedAt": "2026-10-21T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "y1fd2c0s3ydociygdah7apvme",
-      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-      "reason": "微软研究员亲述证明过程，展示了人类引导多智能体迭代剪枝的科研协作方式，约百条研究路径中筛出关键判据。",
-      "summary": "Microsoft Research 的 Xinzhi Zhang 与 Zhao Song 证明 1995 年提出的 Kannan–Lovász–Simonovits（KLS）猜想，表明对数凹分布的最优平面切割与任意形状切割的差距不随维度增长，以普适常数为界。",
-      "sourceName": "Microsoft Research 博客（RSS）",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "aihotUrl": "https://aihot.news/items/y1fd2c0s3ydociygdah7apvme",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -834,6 +792,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "ss1c1fu81134agwcw2ae90gai",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "reason": "OpenAI 亲述前沿模型训练环境的安全架构与红队结果，读者可以了解沙箱逃逸、缓存侧信道等真实攻击路径及纵深防御做法。",
+          "summary": "OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
+          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
+          "id": "g9tc56izmwy49zgw5ta4ubsya",
+          "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+          "reason": "Anthropic 官方拆解 Claude Duet 的安全设计，读者可据此了解智能体在审批、凭证隔离和信息分级上的具体做法。",
+          "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。",
+          "sourceName": "Claude：Blog（网页）",
+          "sourceUrl": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+          "aihotUrl": "https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "g725ujk3cq0gquz6g2nlozeu4",
           "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
           "reason": "OpenRouter 上架页直接给出上下文长度、定价和试用链接，读者可以据此评估这个开源权重模型的使用成本。",
@@ -887,34 +873,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "mc8widr5lukck9npmgeat917x",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "reason": "WSJ 报道结合 Astra 模型透明度争议，交代了解雇事件与内部安全调查的来龙去脉。",
-          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "aihotUrl": "https://aihot.news/items/mc8widr5lukck9npmgeat917x",
-          "publishedAt": "2026-10-23T06:04:55.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "h0u2sgf6ve6eeu0hmswp2a314",
-          "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-          "reason": "官方公布权重开放和关键基准分数，并说明稀疏注意力等效率设计，可据此评估其在智能体与编码任务上的性价比。",
-          "summary": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。",
-          "sourceName": "X：MiniMax (@MiniMax_AI)",
-          "sourceUrl": "https://x.com/MiniMax_AI/status/2113436864904610008",
-          "aihotUrl": "https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314",
-          "publishedAt": "2026-10-23T01:06:29.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]
@@ -1110,6 +1068,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "ss1c1fu81134agwcw2ae90gai",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "reason": "OpenAI 亲述前沿模型训练环境的安全架构与红队结果，读者可以了解沙箱逃逸、缓存侧信道等真实攻击路径及纵深防御做法。",
+          "summary": "OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
+          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "dy6rkvc23lfrolo4y5hjg7evh",
           "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
           "reason": "原文列出 Kling 4.0 的时长、参考图数量和关键帧控制等具体规格，读者可直接对照现有视频工作流评估取舍。",
@@ -1178,20 +1150,6 @@
           "category": "industry",
           "categoryLabel": "行业",
           "unselected": false
-        },
-        {
-          "id": "w7axcg0e1y7uoyro92cmanong",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "reason": "原文梳理了 SpaceX 与特斯拉合并讨论背后的财务动机、Musk 投票权变化和薪酬条款，读者可以借此区分叙事与利益。",
-          "summary": "The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "aihotUrl": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-          "publishedAt": "2026-10-22T19:45:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -1201,6 +1159,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "g9tc56izmwy49zgw5ta4ubsya",
+          "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+          "reason": "Anthropic 官方拆解 Claude Duet 的安全设计，读者可据此了解智能体在审批、凭证隔离和信息分级上的具体做法。",
+          "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。",
+          "sourceName": "Claude：Blog（网页）",
+          "sourceUrl": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+          "aihotUrl": "https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya",
+          "publishedAt": "2026-10-23T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "poiju1x1007ttnz9cc4ioj6ro",
           "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
@@ -1266,20 +1238,6 @@
           "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
           "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
           "publishedAt": "2026-10-23T09:49:38.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "w7axcg0e1y7uoyro92cmanong",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "reason": "原文梳理了 SpaceX 与特斯拉合并讨论背后的财务动机、Musk 投票权变化和薪酬条款，读者可以借此区分叙事与利益。",
-          "summary": "The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "aihotUrl": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-          "publishedAt": "2026-10-22T19:45:00.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
