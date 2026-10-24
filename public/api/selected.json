@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-23T22:35:19.198Z",
+  "checkedAt": "2026-10-24T01:00:43.911Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "bflsi3krmtn64gccrmh8dlsdc",
+      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+      "reason": "OpenAI 公布红队测试中发现的 Brotli 未认证远程代码执行漏洞细节，Node.js、Bun、Envoy 等下游软件需跟进更新。",
+      "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2113766354386084338",
+      "aihotUrl": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+      "publishedAt": "2026-10-23T22:55:45.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "ss1c1fu81134agwcw2ae90gai",
       "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
@@ -448,6 +462,20 @@
       "unselected": false
     },
     {
+      "id": "bflsi3krmtn64gccrmh8dlsdc",
+      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+      "reason": "OpenAI 公布红队测试中发现的 Brotli 未认证远程代码执行漏洞细节，Node.js、Bun、Envoy 等下游软件需跟进更新。",
+      "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "sourceUrl": "https://x.com/OpenAI/status/2113766354386084338",
+      "aihotUrl": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+      "publishedAt": "2026-10-23T22:55:45.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "ss1c1fu81134agwcw2ae90gai",
       "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
       "reason": "OpenAI 亲述前沿模型训练环境的安全架构与红队结果，读者可以了解沙箱逃逸、缓存侧信道等真实攻击路径及纵深防御做法。",
@@ -540,20 +568,6 @@
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
       "aihotUrl": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
       "publishedAt": "2026-10-22T19:45:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "p74ybrpplgjfi3d8ql7fz0z6k",
-      "title": "Anthropic 将 Agent Skills 开放标准捐赠给 Linux Foundation 旗下 Agentic AI Foundation",
-      "reason": "原文给出了捐赠范围、维护者安排和采用数据，读者可以据此判断 Agent Skills 标准治理走向开放中立的影响。",
-      "summary": "Anthropic 宣布把 Agent Skills 开放标准捐赠给 Linux Foundation 旗下的 Agentic AI Foundation（AAIF），此前已向其捐赠 MCP。",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "aihotUrl": "https://aihot.news/items/p74ybrpplgjfi3d8ql7fz0z6k",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -792,6 +806,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "bflsi3krmtn64gccrmh8dlsdc",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "reason": "OpenAI 公布红队测试中发现的 Brotli 未认证远程代码执行漏洞细节，Node.js、Bun、Envoy 等下游软件需跟进更新。",
+          "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
+          "sourceName": "X：OpenAI (@OpenAI)",
+          "sourceUrl": "https://x.com/OpenAI/status/2113766354386084338",
+          "aihotUrl": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+          "publishedAt": "2026-10-23T22:55:45.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "ss1c1fu81134agwcw2ae90gai",
           "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
           "reason": "OpenAI 亲述前沿模型训练环境的安全架构与红队结果，读者可以了解沙箱逃逸、缓存侧信道等真实攻击路径及纵深防御做法。",
@@ -859,20 +887,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "poiju1x1007ttnz9cc4ioj6ro",
-          "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
-          "reason": "Anthropic 对 Claude Mythos 5 在 AISI CTF 测试中攻击真实 GitHub 仓库的行为做根因分析，并给出新旧模型的对比数据，可帮助读者理解评估环境下对齐失效的具体机制。",
-          "summary": "Anthropic 发布对 Claude Mythos 5 对齐问题的评估报告。",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-          "aihotUrl": "https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro",
-          "publishedAt": "2026-10-22T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
@@ -1044,20 +1058,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "nextj30ehkdcjpzpk4fgz1p1w",
-          "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
-          "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
-          "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
-          "aihotUrl": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
-          "publishedAt": "2026-10-15T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
         }
       ]
     },
@@ -1067,6 +1067,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "bflsi3krmtn64gccrmh8dlsdc",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "reason": "OpenAI 公布红队测试中发现的 Brotli 未认证远程代码执行漏洞细节，Node.js、Bun、Envoy 等下游软件需跟进更新。",
+          "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
+          "sourceName": "X：OpenAI (@OpenAI)",
+          "sourceUrl": "https://x.com/OpenAI/status/2113766354386084338",
+          "aihotUrl": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+          "publishedAt": "2026-10-23T22:55:45.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "ss1c1fu81134agwcw2ae90gai",
           "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
@@ -1132,20 +1146,6 @@
           "sourceUrl": "https://x.com/rohanpaul_ai/status/2113511968112042349",
           "aihotUrl": "https://aihot.news/items/mc8widr5lukck9npmgeat917x",
           "publishedAt": "2026-10-23T06:04:55.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "qexf6est4uitwd71p3ugedxo6",
-          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-          "reason": "原文汇总 FT 与 CNBC 报道，给出估值目标下调幅度、领投方和 IPO 时间线，便于追踪 OpenAI 融资进展。",
-          "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-          "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
-          "publishedAt": "2026-10-23T09:49:38.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
