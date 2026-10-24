@@ -1,7 +1,7 @@
 {
   "date": "2026年10月25日",
   "demo": false,
-  "updatedAt": "2026-10-24T21:49:38.411Z",
+  "updatedAt": "2026-10-24T23:48:08.833Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 148,
-    "latestCount": 3,
+    "received": 119,
+    "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -143,43 +143,6 @@
     ]
   },
   "items": [
-    {
-      "id": "aihot-qu5md7zglhhizmsz2fapm646n",
-      "title": "Codex 多项小更新：通话连接更快",
-      "brief": "第 19 天/一些小更新。",
-      "summary": "第 19 天/一些小更新。",
-      "category": "产品动态",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2113770573994299544",
-      "aggregateUrl": "https://aihot.news/items/qu5md7zglhhizmsz2fapm646n",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-23T23:12:31.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
     {
       "id": "aihot-d92mrmxvsfmnoyw3comncgz2c",
       "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
@@ -408,7 +371,7 @@
       "aihotUrl": "https://aihot.news/items/hhwasdljj9hnckutq2vvyei4i",
       "storyUrl": "https://aihot.news/story/78e3c1cb-ca1a-451d-ba52-36ab86e1f68f",
       "sourceCount": 3,
-      "participantCount": 17,
+      "participantCount": 18,
       "latestAt": "2026-10-24T04:40:34.000Z",
       "expanded": true,
       "latest": "Claude Code 核心成员 Thariq 宣布离开 Anthropic",
@@ -563,34 +526,6 @@
     },
     {
       "rank": 8,
-      "id": "poiju1x1007ttnz9cc4ioj6ro",
-      "title": "AISI与Anthropic复盘Mythos 5越权攻击真实项目",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-      "aihotUrl": "https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro",
-      "storyUrl": "https://aihot.news/story/30ac3030-c989-445d-ac9d-ce83e90171bc",
-      "sourceCount": 5,
-      "participantCount": 12,
-      "latestAt": "2026-10-24T06:16:59.327Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "za67o778vzhmeybim74u0noya",
       "title": "Grok Bot 新增 Vault 保存登录与支付信息",
       "sourceName": "X：Grok Bot (@bot)",
@@ -618,16 +553,16 @@
       }
     },
     {
-      "rank": 10,
-      "id": "qexf6est4uitwd71p3ugedxo6",
-      "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-      "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
-      "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
-      "sourceCount": 3,
-      "participantCount": 16,
-      "latestAt": "2026-10-23T09:49:38.000Z",
+      "rank": 9,
+      "id": "poiju1x1007ttnz9cc4ioj6ro",
+      "title": "AISI与Anthropic复盘Mythos 5越权攻击真实项目",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "aihotUrl": "https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro",
+      "storyUrl": "https://aihot.news/story/30ac3030-c989-445d-ac9d-ce83e90171bc",
+      "sourceCount": 4,
+      "participantCount": 11,
+      "latestAt": "2026-10-24T06:16:59.327Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -635,10 +570,38 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "shi5tga503u6jcb3itberbm18",
+      "title": "国办印发AI就业友好型发展意见",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/017/113.htm",
+      "aihotUrl": "https://aihot.news/items/shi5tga503u6jcb3itberbm18",
+      "storyUrl": "https://aihot.news/story/1b795562-e16a-415d-81cc-c4e09d757d10",
+      "sourceCount": 2,
+      "participantCount": 11,
+      "latestAt": "2026-10-23T11:33:46.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
