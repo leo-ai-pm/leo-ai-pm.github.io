@@ -1,7 +1,7 @@
 {
   "date": "2026年10月25日",
   "demo": false,
-  "updatedAt": "2026-10-24T17:01:31.627Z",
+  "updatedAt": "2026-10-24T19:23:39.607Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 209,
+    "received": 168,
     "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -345,7 +345,7 @@
       "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
       "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
       "sourceCount": 20,
-      "participantCount": 84,
+      "participantCount": 87,
       "latestAt": "2026-10-24T12:14:49.000Z",
       "expanded": true,
       "latest": "Nathan Lambert 谈模型真实可用性比 AA 分数更重要",
@@ -395,7 +395,7 @@
       "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
       "storyUrl": "https://aihot.news/story/c83d8538-d103-4a28-bd4a-629a69136b90",
       "sourceCount": 10,
-      "participantCount": 31,
+      "participantCount": 32,
       "latestAt": "2026-10-24T14:30:45.000Z",
       "expanded": true,
       "latest": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
@@ -495,7 +495,7 @@
       "aihotUrl": "https://aihot.news/items/m12zx4vkj1e4avkq0na431zbf",
       "storyUrl": "https://aihot.news/story/b88dc665-3526-426a-b781-8ca78f4d67e7",
       "sourceCount": 4,
-      "participantCount": 14,
+      "participantCount": 15,
       "latestAt": "2026-10-24T16:00:00.000Z",
       "expanded": false,
       "latest": "",
@@ -522,8 +522,8 @@
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "aihotUrl": "https://aihot.news/items/xrz4fj30hoq167997p69rqe8v",
       "storyUrl": "https://aihot.news/story/159e1f8e-c18e-4c7c-9e3c-c4009494ac28",
-      "sourceCount": 4,
-      "participantCount": 19,
+      "sourceCount": 3,
+      "participantCount": 18,
       "latestAt": "2026-10-23T11:36:30.000Z",
       "expanded": false,
       "latest": "",
@@ -572,6 +572,34 @@
     },
     {
       "rank": 7,
+      "id": "e5o9t8xv2z5j5ddhvtaee9zkg",
+      "title": "英国政府宣布投入6亿英镑应对AI风险",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/017/304.htm",
+      "aihotUrl": "https://aihot.news/items/e5o9t8xv2z5j5ddhvtaee9zkg",
+      "storyUrl": "https://aihot.news/story/aba7467e-1c4a-4e9e-8905-c142c1b9a046",
+      "sourceCount": 1,
+      "participantCount": 10,
+      "latestAt": "2026-10-24T00:59:37.777Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "dafrctufefr9jnoig0bblrx4a",
       "title": "Jassy 称 Amazon 算力缺口将延续至 2028 年后",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -599,7 +627,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "qexf6est4uitwd71p3ugedxo6",
       "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -620,34 +648,6 @@
             "asset": "/assets/identities/openai.jpg",
             "assetSource": "https://x.com/OpenAI",
             "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "c7kz49ohg81rxi4ozxv046ttp",
-      "title": "1Password 推出智能体代登录平台，多家接入",
-      "sourceName": "X：Grok Bot (@bot)",
-      "sourceUrl": "https://x.com/bot/status/2113332983226831339",
-      "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
-      "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
-      "sourceCount": 5,
-      "participantCount": 18,
-      "latestAt": "2026-10-22T23:54:44.317Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Grok Bot (@bot)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
