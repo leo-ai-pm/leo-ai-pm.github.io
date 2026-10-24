@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T05:40:06.156Z",
+  "checkedAt": "2026-10-24T09:49:46.840Z",
   "message": "",
   "categories": [
     {
@@ -178,62 +178,6 @@
       "category": "paper",
       "categoryLabel": "论文",
       "unselected": false
-    },
-    {
-      "id": "ih894crlfahslc0pttsw80r0c",
-      "title": "Latent Space 梳理 PHP2Shell 漏洞事件：OpenAI Patch the Planet 与 Wiz 各自发现 PHP 核心漏洞",
-      "reason": "这篇汇总在梳理 PHP2Shell 事件时间线时明确区分了经证实的细节与未经核实的传言，适合想了解 AI 辅助漏洞发现现状的读者。",
-      "summary": "Latent Space 的 AINews 汇总梳理了 PHP 核心漏洞 PHP2Shell（CVE-2026-109618、CVE-2026-109619）的披露时间线，研究者在 PHP 引擎的内存溢出和致命错误处理中发现缺陷，演示了对 WordPress、Drupal、Joomla 的预认证 RCE 和远程内存泄露。",
-      "sourceName": "Latent Space（RSS）",
-      "sourceUrl": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
-      "aihotUrl": "https://aihot.news/items/ih894crlfahslc0pttsw80r0c",
-      "publishedAt": "2026-10-22T07:42:44.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "shi5tga503u6jcb3itberbm18",
-      "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-      "reason": "政策文件列出创造就业新模式、开发新职业、减缓替代影响等具体举措，可了解官方对 AI 就业问题的应对框架。",
-      "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/017/113.htm",
-      "aihotUrl": "https://aihot.news/items/shi5tga503u6jcb3itberbm18",
-      "publishedAt": "2026-10-23T09:17:16.350Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "jmd8cc56pi525th3tcccmzxqf",
-      "title": "禾赛发布三维世界数据引擎 Kosmo 及 8K AI 空间相机 Kosmo One",
-      "reason": "原文给出扫描效率、建模成本与机器人训练成功率的对比数据，可帮助读者评估真实世界三维数据在具身智能中的实际作用。",
-      "summary": "10 月 14 日，禾赛科技正式发布三维世界数据引擎 Kosmo，同步推出集成 8K 影像系统的 AI 空间相机 Kosmo One 和云平台 Kosmo World，瞄准具身智能与世界模型的真实世界数据需求。",
-      "sourceName": "禾赛科技",
-      "sourceUrl": "https://www.hesaitech.com/cn/news/1526",
-      "aihotUrl": "https://aihot.news/items/jmd8cc56pi525th3tcccmzxqf",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "mc8widr5lukck9npmgeat917x",
-      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-      "reason": "WSJ 报道结合 Astra 模型透明度争议，交代了解雇事件与内部安全调查的来龙去脉。",
-      "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-      "aihotUrl": "https://aihot.news/items/mc8widr5lukck9npmgeat917x",
-      "publishedAt": "2026-10-23T06:04:55.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
@@ -308,20 +252,6 @@
       "unselected": false
     },
     {
-      "id": "tzuiybo7a45sm87wj4rec2mvo",
-      "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
-      "reason": "原文给出低资源语言的两套自建评测和逐语言数据，读者可据此评估新模型在遗留系统维护与迁移上的可用性。",
-      "summary": "OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/low-resource-programming-languages",
-      "aihotUrl": "https://aihot.news/items/tzuiybo7a45sm87wj4rec2mvo",
-      "publishedAt": "2026-10-19T12:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "h6okcjroca6s95iemyh7dhpcm",
       "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
       "reason": "Arena 用 7.5K 真实会话的数据说明该模型以约 27% 的成本拿下开源第一，读者可据此权衡 Agent 场景的性价比。",
@@ -344,6 +274,20 @@
       "sourceUrl": "https://x.com/fal/status/2112600472922333263",
       "aihotUrl": "https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty",
       "publishedAt": "2026-10-20T17:42:57.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "osk3jj5jltogwr6zpo09w80j8",
+      "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
+      "reason": "官方发布给出扩散模型规模化的关键数据，包括速度、上下文和价格，可用作评估实时 AI 应用选型的参考。",
+      "summary": "Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。",
+      "sourceName": "Inception Labs：Blog（网页）",
+      "sourceUrl": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "aihotUrl": "https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
