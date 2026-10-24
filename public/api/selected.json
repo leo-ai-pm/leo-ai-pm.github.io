@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T01:00:43.911Z",
+  "checkedAt": "2026-10-24T05:40:06.156Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "gwhdq3jo5p1z27wh2i46ntd2s",
+      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "reason": "作者实测视觉、3D 与视频动效方向，结合官方跑分和价格对比，能帮读者判断 Kimi K3.1 Pro 是否值得上手。",
+      "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+      "aihotUrl": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+      "publishedAt": "2026-10-24T02:08:43.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "bflsi3krmtn64gccrmh8dlsdc",
       "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
@@ -220,23 +234,23 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
+    }
+  ],
+  "week": [
     {
-      "id": "h0u2sgf6ve6eeu0hmswp2a314",
-      "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-      "reason": "官方公布权重开放和关键基准分数，并说明稀疏注意力等效率设计，可据此评估其在智能体与编码任务上的性价比。",
-      "summary": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。",
-      "sourceName": "X：MiniMax (@MiniMax_AI)",
-      "sourceUrl": "https://x.com/MiniMax_AI/status/2113436864904610008",
-      "aihotUrl": "https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314",
-      "publishedAt": "2026-10-23T01:06:29.000Z",
+      "id": "gwhdq3jo5p1z27wh2i46ntd2s",
+      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "reason": "作者实测视觉、3D 与视频动效方向，结合官方跑分和价格对比，能帮读者判断 Kimi K3.1 Pro 是否值得上手。",
+      "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+      "aihotUrl": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+      "publishedAt": "2026-10-24T02:08:43.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
-    }
-  ],
-  "week": [
+    },
     {
       "id": "f72pxwtco5m6mokzy5qa3sat8",
       "title": "Kimi K3.1 Pro 发布，以 55 分位列 Artificial Analysis Intelligence Index 第 4",
@@ -330,20 +344,6 @@
       "sourceUrl": "https://x.com/fal/status/2112600472922333263",
       "aihotUrl": "https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty",
       "publishedAt": "2026-10-20T17:42:57.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "osk3jj5jltogwr6zpo09w80j8",
-      "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
-      "reason": "官方发布给出扩散模型规模化的关键数据，包括速度、上下文和价格，可用作评估实时 AI 应用选型的参考。",
-      "summary": "Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。",
-      "sourceName": "Inception Labs：Blog（网页）",
-      "sourceUrl": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "aihotUrl": "https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8",
-      "publishedAt": "2026-10-19T07:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
