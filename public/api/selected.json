@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T19:23:58.337Z",
+  "checkedAt": "2026-10-24T21:49:57.750Z",
   "message": "",
   "categories": [
     {
@@ -79,34 +79,6 @@
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "ss1c1fu81134agwcw2ae90gai",
-      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-      "reason": "OpenAI 亲述前沿模型训练环境的安全架构与红队结果，读者可以了解沙箱逃逸、缓存侧信道等真实攻击路径及纵深防御做法。",
-      "summary": "OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
-      "publishedAt": "2026-10-23T10:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "g9tc56izmwy49zgw5ta4ubsya",
-      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
-      "reason": "Anthropic 官方拆解 Claude Duet 的安全设计，读者可据此了解智能体在审批、凭证隔离和信息分级上的具体做法。",
-      "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
-      "aihotUrl": "https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
       "unselected": false
     }
   ],
