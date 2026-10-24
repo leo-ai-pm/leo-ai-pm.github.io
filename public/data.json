@@ -1,7 +1,7 @@
 {
   "date": "2026年10月24日",
   "demo": false,
-  "updatedAt": "2026-10-24T09:49:32.369Z",
+  "updatedAt": "2026-10-24T13:39:05.112Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 249,
-    "latestCount": 5,
+    "received": 240,
+    "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -137,8 +137,8 @@
         "group": "研究与方法",
         "focus": "开源模型与研究生态",
         "url": "https://x.com/Thom_Wolf",
-        "matched": 2,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       }
     ]
   },
@@ -292,43 +292,6 @@
       }
     },
     {
-      "id": "aihot-t1eayr2cd595toi5kav3y8ebr",
-      "title": "黄仁勋GTC展示带动MicroDucks销量",
-      "brief": "Jensen 效应 🦆 发布日：约售出 3,000 只 MicroDucks 在 @JensenHuang 于 @nvidia GTC 台上展示它之后 24 小时：又售出超过 4,000 只，且仍在增长 比我们（本就庞大的）发布日还多！",
-      "summary": "Jensen 效应 🦆 发布日：约售出 3,000 只 MicroDucks 在 @JensenHuang 于 @nvidia GTC 台上展示它之后 24 小时：又售出超过 4,000 只，且仍在增长 比我们（本就庞大的）发布日还多！",
-      "category": "行业观察",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "Thom_Wolf",
-      "sourceGroup": "研究与方法",
-      "sourceName": "Thomas Wolf · @Thom_Wolf",
-      "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "sourceUrl": "https://x.com/Thom_Wolf/status/2113578676189044827",
-      "aggregateUrl": "https://aihot.news/items/t1eayr2cd595toi5kav3y8ebr",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-23T10:29:59.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "行业观察",
-        "author": {
-          "name": "Thomas Wolf",
-          "asset": "/assets/identities/thom_wolf.jpg",
-          "assetSource": "https://x.com/Thom_Wolf",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
       "id": "x-karpathy-2079610838143623371",
       "title": "Karpathy：用自由讲述给 LLM 补足上下文",
       "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -376,31 +339,31 @@
       "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
       "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
       "sourceCount": 21,
-      "participantCount": 78,
-      "latestAt": "2026-10-24T07:59:12.857Z",
+      "participantCount": 85,
+      "latestAt": "2026-10-24T12:14:49.000Z",
       "expanded": true,
-      "latest": "腾讯 WorkBuddy 接入 Kimi-K3.1-Pro，支持 100 万上下文",
+      "latest": "Nathan Lambert 谈模型真实可用性比 AA 分数更重要",
       "reports": [
         {
-          "title": "腾讯 WorkBuddy 接入 Kimi-K3.1-Pro，支持 100 万上下文",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/017/412.htm",
-          "aihotUrl": "https://aihot.news/items/ngk39t7hu2ch6ptu6rkjrpxjj",
-          "publishedAt": "2026-10-24T07:59:12.857Z"
+          "title": "Nathan Lambert 谈模型真实可用性比 AA 分数更重要",
+          "sourceName": "X：Nathan Lambert (@natolambert)",
+          "sourceUrl": "https://x.com/natolambert/status/2113967445727932676",
+          "aihotUrl": "https://aihot.news/items/db7o2n2i3ktwkfgl7bisyeht2",
+          "publishedAt": "2026-10-24T12:14:49.000Z"
         },
         {
-          "title": "Kimi K3.1 Pro 发布：2.8T MoE、1M 上下文",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "sourceUrl": "https://x.com/testingcatalog/status/2113903077992337472",
-          "aihotUrl": "https://aihot.news/items/hkua219yql7bgmqrpuxtt2axr",
-          "publishedAt": "2026-10-24T07:59:02.000Z"
+          "title": "Kimi 3.1 反响平平",
+          "sourceName": "X：Nathan Lambert (@natolambert)",
+          "sourceUrl": "https://x.com/natolambert/status/2113961148576063760",
+          "aihotUrl": "https://aihot.news/items/a542kzf6ld3bpft7o1dj2q96g",
+          "publishedAt": "2026-10-24T11:49:47.000Z"
         },
         {
-          "title": "Moonshot 发布 Kimi K3.1 Pro：2.8T 总参数、104B 激活，承诺 11 月 4 日开放权重",
-          "sourceName": "Latent Space（RSS）",
-          "sourceUrl": "https://latent.space/p/ainews-kimi-31/",
-          "aihotUrl": "https://aihot.news/items/rvz06j1zal6q4kfqkusgp980a",
-          "publishedAt": "2026-10-24T07:18:29.000Z"
+          "title": "月之暗面发布 Kimi K3.1 Pro，3 万亿级参数支持 100 万上下文",
+          "sourceName": "公众号：月之暗面（Kimi）",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484362&idx=1&sn=c8d82cda4f95dce3d77761d840939790",
+          "aihotUrl": "https://aihot.news/items/qnoz1o3zjy0b5jlulydn0nb34",
+          "publishedAt": "2026-10-24T09:58:17.000Z"
         }
       ],
       "related": [],
@@ -420,17 +383,24 @@
     {
       "rank": 2,
       "id": "ss1c1fu81134agwcw2ae90gai",
-      "title": "OpenAI 前沿训练断网，红队测出 Brotli 漏洞",
+      "title": "OpenAI 断网训练前沿模型，红队测出 Brotli 漏洞",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
       "storyUrl": "https://aihot.news/story/c83d8538-d103-4a28-bd4a-629a69136b90",
-      "sourceCount": 8,
-      "participantCount": 27,
-      "latestAt": "2026-10-24T06:46:06.000Z",
+      "sourceCount": 9,
+      "participantCount": 29,
+      "latestAt": "2026-10-24T11:12:36.000Z",
       "expanded": true,
-      "latest": "Dex Horthy 评 OpenAI 智能体用 CPU 缓存隐蔽通信：该技术此前已被演示，可能已存在于权重中",
+      "latest": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
       "reports": [
+        {
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+          "aihotUrl": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+          "publishedAt": "2026-10-24T11:12:36.000Z"
+        },
         {
           "title": "Dex Horthy 评 OpenAI 智能体用 CPU 缓存隐蔽通信：该技术此前已被演示，可能已存在于权重中",
           "sourceName": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
@@ -444,13 +414,6 @@
           "sourceUrl": "https://x.com/rohanpaul_ai/status/2113784545107644794",
           "aihotUrl": "https://aihot.news/items/tcekx7wlcz6yo6m2othrm9fsv",
           "publishedAt": "2026-10-24T00:08:02.000Z"
-        },
-        {
-          "title": "OpenAI 对前沿模型训练与评估实施断网隔离，构建离线沙箱",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/017/289.htm",
-          "aihotUrl": "https://aihot.news/items/gzx47tmo3icupytgl7t81yggs",
-          "publishedAt": "2026-10-23T23:33:53.537Z"
         }
       ],
       "related": [],
@@ -476,7 +439,7 @@
       "aihotUrl": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
       "storyUrl": "https://aihot.news/story/bd558c88-9573-4806-a1aa-67426d33a87c",
       "sourceCount": 1,
-      "participantCount": 31,
+      "participantCount": 29,
       "latestAt": "2026-10-22T16:00:00.000Z",
       "expanded": true,
       "latest": "iPhone Duo 全球 Apple Store 正式开售，首台可折叠 iPhone 上架",
@@ -519,34 +482,6 @@
     },
     {
       "rank": 4,
-      "id": "r4saw5foxj8v0eb82f3b66cs0",
-      "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
-      "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
-      "sourceCount": 1,
-      "participantCount": 34,
-      "latestAt": "2026-10-22T15:25:02.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "hhwasdljj9hnckutq2vvyei4i",
       "title": "Claude Code 核心成员 Thariq 离开 Anthropic",
       "sourceName": "X：Thariq (@trq212)",
@@ -554,7 +489,7 @@
       "aihotUrl": "https://aihot.news/items/hhwasdljj9hnckutq2vvyei4i",
       "storyUrl": "https://aihot.news/story/78e3c1cb-ca1a-451d-ba52-36ab86e1f68f",
       "sourceCount": 3,
-      "participantCount": 14,
+      "participantCount": 16,
       "latestAt": "2026-10-24T04:40:34.000Z",
       "expanded": false,
       "latest": "",
@@ -574,16 +509,16 @@
       }
     },
     {
-      "rank": 6,
-      "id": "jgg0i29t3o1eycc24c3wev0fx",
-      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-duet",
-      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
-      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
-      "sourceCount": 2,
-      "participantCount": 27,
-      "latestAt": "2026-10-23T19:33:25.000Z",
+      "rank": 5,
+      "id": "r4saw5foxj8v0eb82f3b66cs0",
+      "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "aihotUrl": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
+      "storyUrl": "https://aihot.news/story/17f9865a-cef7-4d98-9742-0796331c81ea",
+      "sourceCount": 1,
+      "participantCount": 26,
+      "latestAt": "2026-10-22T15:25:02.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -591,10 +526,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -602,15 +537,15 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "c7kz49ohg81rxi4ozxv046ttp",
       "title": "1Password 推出智能体代登录平台，多家接入",
       "sourceName": "X：Grok Bot (@bot)",
       "sourceUrl": "https://x.com/bot/status/2113332983226831339",
       "aihotUrl": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
       "storyUrl": "https://aihot.news/story/8b1cc389-bb11-4612-9ea6-a04753eeb832",
-      "sourceCount": 7,
-      "participantCount": 27,
+      "sourceCount": 6,
+      "participantCount": 24,
       "latestAt": "2026-10-22T23:54:44.317Z",
       "expanded": false,
       "latest": "",
@@ -630,7 +565,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "wrnv8dd428iozlj5xax99zbmj",
       "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
       "sourceName": "MiniMax：Blog（网页）",
@@ -658,7 +593,63 @@
       }
     },
     {
+      "rank": 8,
+      "id": "dafrctufefr9jnoig0bblrx4a",
+      "title": "Jassy 称 Amazon 算力缺口将延续至 2028 年后",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2113776070327738435",
+      "aihotUrl": "https://aihot.news/items/dafrctufefr9jnoig0bblrx4a",
+      "storyUrl": "https://aihot.news/story/ce94fc5b-16d5-45c6-8292-4451aa525e73",
+      "sourceCount": 2,
+      "participantCount": 10,
+      "latestAt": "2026-10-24T01:51:20.050Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 9,
+      "id": "jgg0i29t3o1eycc24c3wev0fx",
+      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-duet",
+      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
+      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
+      "sourceCount": 2,
+      "participantCount": 20,
+      "latestAt": "2026-10-23T19:33:25.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "xrz4fj30hoq167997p69rqe8v",
       "title": "Canva 发布首个自研图像模型 Canva Craft",
       "sourceName": "The Verge：AI（RSS）",
@@ -679,34 +670,6 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "qexf6est4uitwd71p3ugedxo6",
-      "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-      "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
-      "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
-      "sourceCount": 3,
-      "participantCount": 19,
-      "latestAt": "2026-10-23T09:49:38.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",

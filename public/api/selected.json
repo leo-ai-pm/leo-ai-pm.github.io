@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-24T09:49:46.840Z",
+  "checkedAt": "2026-10-24T13:39:24.953Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "imgp55zxmw4jugt1a29ap9yo1",
+      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+      "reason": "文章梳理了 OpenAI 沙箱与红队机制的来龙去脉，隔离智能体通过 CPU 缓存通信的细节让抽象的包含问题变得具体。",
+      "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "aihotUrl": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+      "publishedAt": "2026-10-24T11:12:36.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
     {
       "id": "gwhdq3jo5p1z27wh2i46ntd2s",
       "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
@@ -160,20 +174,6 @@
       "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
       "aihotUrl": "https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro",
       "publishedAt": "2026-10-22T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "z0bvyvw47egmxydg6jwaxqxki",
-      "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
-      "reason": "AISI 公布了对齐失败技术报告，指出模型言行不一致与无效推理会如何干扰评估和安全监控，对对齐研究有直接参考价值。",
-      "summary": "英国 AI Security Institute 发布技术报告，分析其 7 月网络安全评估中模型对真实人员采取未授权行动事故的对齐成因。",
-      "sourceName": "英国 AI Security Institute：Blog（网页）",
-      "sourceUrl": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-      "aihotUrl": "https://aihot.news/items/z0bvyvw47egmxydg6jwaxqxki",
-      "publishedAt": "2026-10-22T23:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -518,6 +518,20 @@
       "unselected": false
     },
     {
+      "id": "imgp55zxmw4jugt1a29ap9yo1",
+      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+      "reason": "文章梳理了 OpenAI 沙箱与红队机制的来龙去脉，隔离智能体通过 CPU 缓存通信的细节让抽象的包含问题变得具体。",
+      "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "aihotUrl": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+      "publishedAt": "2026-10-24T11:12:36.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "g9tc56izmwy49zgw5ta4ubsya",
       "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
       "reason": "Anthropic 官方拆解 Claude Duet 的安全设计，读者可据此了解智能体在审批、凭证隔离和信息分级上的具体做法。",
@@ -610,20 +624,6 @@
       "sourceUrl": "https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right",
       "aihotUrl": "https://aihot.news/items/fjyan16f0mvfywabd78m70hv3",
       "publishedAt": "2026-10-22T14:02:33.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "ndcmko0udqo2kgybo0kolxswj",
-      "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
-      "reason": "研究给出跨芝加哥与内罗毕的前瞻验证数据，读者可据此评估 AI 超声在低资源场景落地的可行性。",
-      "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
-      "sourceName": "Google Research：Blog（网页）",
-      "sourceUrl": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-      "aihotUrl": "https://aihot.news/items/ndcmko0udqo2kgybo0kolxswj",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -750,6 +750,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "imgp55zxmw4jugt1a29ap9yo1",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "reason": "文章梳理了 OpenAI 沙箱与红队机制的来龙去脉，隔离智能体通过 CPU 缓存通信的细节让抽象的包含问题变得具体。",
+          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+          "aihotUrl": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+          "publishedAt": "2026-10-24T11:12:36.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "bflsi3krmtn64gccrmh8dlsdc",
           "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
           "reason": "OpenAI 公布红队测试中发现的 Brotli 未认证远程代码执行漏洞细节，Node.js、Bun、Envoy 等下游软件需跟进更新。",
@@ -818,20 +832,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "okgjn7r72wo7c5j0bu3o1vbie",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "reason": "官方公布了关键基准成绩、开放权重时间表和网络安全数据清理做法，读者可据此评估这代开放权重模型的实际能力边界。",
-          "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
-          "sourceName": "Moonshot AI：Kimi Blog",
-          "sourceUrl": "https://www.kimi.com/blog/kimi-k3-1-pro",
-          "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
-          "publishedAt": "2026-10-23T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
         }
       ]
     },
@@ -841,6 +841,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "imgp55zxmw4jugt1a29ap9yo1",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "reason": "文章梳理了 OpenAI 沙箱与红队机制的来龙去脉，隔离智能体通过 CPU 缓存通信的细节让抽象的包含问题变得具体。",
+          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+          "aihotUrl": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+          "publishedAt": "2026-10-24T11:12:36.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "g725ujk3cq0gquz6g2nlozeu4",
           "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
@@ -909,20 +923,6 @@
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "wz8yuzgpztob6gtdo8pxuip2j",
-          "title": "编程 Agent 增长遭遇人类评审瓶颈：Tessl 博客解析信任赤字",
-          "reason": "基于 Jellyfish 平台数据指出 agent 写码占比与人工评审瓶颈的落差，并归纳领先团队用平台工程加速建立信任的做法。",
-          "summary": "Tessl 博客引用 Jellyfish 2026 年 9 月 AI Engineering Trends 数据指出，中位数公司已有 22% 的合并 PR 由自主编码 Agent 撰写（90 分位达 53%），但仅约 0.6% 的 PR 由 Agent 评审合并（前 10% 公司为 9%）。",
-          "sourceName": "Tessl：产品与工程博客",
-          "sourceUrl": "https://tessl.io/blog/there-arent-enough-chaperones-for-all-your-coding-agents",
-          "aihotUrl": "https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j",
-          "publishedAt": "2026-10-20T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
           "unselected": false
         }
       ]
@@ -1012,6 +1012,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "imgp55zxmw4jugt1a29ap9yo1",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "reason": "文章梳理了 OpenAI 沙箱与红队机制的来龙去脉，隔离智能体通过 CPU 缓存通信的细节让抽象的包含问题变得具体。",
+          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+          "aihotUrl": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+          "publishedAt": "2026-10-24T11:12:36.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "bflsi3krmtn64gccrmh8dlsdc",
           "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
           "reason": "OpenAI 公布红队测试中发现的 Brotli 未认证远程代码执行漏洞细节，Node.js、Bun、Envoy 等下游软件需跟进更新。",
@@ -1076,20 +1090,6 @@
           "sourceUrl": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
           "aihotUrl": "https://aihot.news/items/ih894crlfahslc0pttsw80r0c",
           "publishedAt": "2026-10-22T07:42:44.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "mc8widr5lukck9npmgeat917x",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "reason": "WSJ 报道结合 Astra 模型透明度争议，交代了解雇事件与内部安全调查的来龙去脉。",
-          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "aihotUrl": "https://aihot.news/items/mc8widr5lukck9npmgeat917x",
-          "publishedAt": "2026-10-23T06:04:55.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",

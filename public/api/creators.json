@@ -294,9 +294,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-24T09:49:22.475Z",
-      "lastSuccessAt": "2026-10-24T09:49:22.475Z",
-      "nextCheckAt": 1792836262475,
+      "checkedAt": "2026-10-24T13:38:53.212Z",
+      "lastSuccessAt": "2026-10-24T13:38:53.212Z",
+      "nextCheckAt": 1792850033212,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -608,9 +608,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-24T09:49:22.522Z",
-      "lastSuccessAt": "2026-10-24T09:49:22.522Z",
-      "nextCheckAt": 1792836262522,
+      "checkedAt": "2026-10-24T13:38:53.244Z",
+      "lastSuccessAt": "2026-10-24T13:38:53.244Z",
+      "nextCheckAt": 1792850033244,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -630,6 +630,65 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492613&idx=1&sn=eebb2ab7578436973765ebe31c1f1cd9",
+          "creatorId": "huashu",
+          "title": "Kimi超过OpenAI全系？K3.1 Pro实测对比Astra！",
+          "summary": "今天凌晨，Kimi K3.1 Pro正式发布了。 其实前段时间可以说是国产开源模型的至暗时刻了。Opus5.",
+          "publishedAt": "2026-10-24T04:49:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492613&idx=1&sn=eebb2ab7578436973765ebe31c1f1cd9",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "OpenAI",
+                "asset": "/assets/identities/openai.jpg",
+                "assetSource": "https://x.com/OpenAI",
+                "tone": "#e6eeea"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492594&idx=1&sn=5cfad5679528172d2161af7be1cab801",
+          "creatorId": "huashu",
+          "title": "huashu-design 3.0发布！让你的设计审美再提升100%！",
+          "summary": "huashu-design 3.0 发布了。 发布片里的每一页设计都是3.0自己做的（片子是用前几天开源的",
+          "publishedAt": "2026-10-23T14:24:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492594&idx=1&sn=5cfad5679528172d2161af7be1cab801",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+            "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "花叔",
+                "asset": "/assets/identities/creator_huashu.jpg",
+                "tone": "#e7e4dd"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492572&idx=1&sn=2516883697d3ec339ca532afd6c086e9",
           "creatorId": "huashu",
@@ -862,70 +921,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492433&idx=1&sn=488b5ef4ea8a460ef8ff985d50ceac66",
-          "creatorId": "huashu",
-          "title": "刚刚！他的GitHub星标破10万+了，凭什么？",
-          "summary": "刚刚！！我GitHub上的星标数🌟破10万+了。截至10月11号，64个自己创建的仓库加起来是101,808颗星，在gitstar的全球用户榜上排第79名左右。",
-          "publishedAt": "2026-10-11T04:57:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492433&idx=1&sn=488b5ef4ea8a460ef8ff985d50ceac66",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "GitHub",
-                "asset": "/assets/identities/github.jpg",
-                "assetSource": "https://x.com/github",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492420&idx=1&sn=c8a17ec7f3908a8c44637f6f38b9f0b7",
-          "creatorId": "huashu",
-          "title": "马斯克随手一转，把B站多年的家底暴露了！",
-          "summary": "B站up主做的黄仁勋AI巡演火到X上，连马斯克都忍不住接梗了😂 实在太有魔性。岂止老黄！门捷列夫、孙悟空……甭管能不能想到的“明星”都在b站开「世界巡演」 有个很有意思的点，之前在X刷屏的《丧尸清道夫》，还有火遍朋友圈的SBTI，创作源头都是 up 主（哦，还有女娲.skill和小猫补光灯的作者也是🐶 我其实挺好奇这是为什么？ 现阶段我的判断是，B站在成为 AI 创意内容/作品工场。b 站在这波 AI 浪潮里鲜见的优势是，这里聚集了",
-          "publishedAt": "2026-10-10T00:02:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492420&idx=1&sn=c8a17ec7f3908a8c44637f6f38b9f0b7",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-24T09:49:22.524Z",
-      "lastSuccessAt": "2026-10-24T09:49:22.524Z",
-      "nextCheckAt": 1792836262524,
+      "checkedAt": "2026-10-24T13:38:53.245Z",
+      "lastSuccessAt": "2026-10-24T13:38:53.245Z",
+      "nextCheckAt": 1792850033245,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -945,6 +945,36 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522057&idx=1&sn=da8beb79f2866f7e3a4e05861e05ee53",
+          "creatorId": "cyber",
+          "title": "Kimi K3.1：超越 Astra 大模王，贡献了最好的「秦始皇骑北极熊」",
+          "summary": "发布于 1024 程序员节",
+          "publishedAt": "2026-10-23T19:00:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522057&idx=1&sn=da8beb79f2866f7e3a4e05861e05ee53",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "OpenAI",
+                "asset": "/assets/identities/openai.jpg",
+                "assetSource": "https://x.com/OpenAI",
+                "tone": "#e6eeea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521995&idx=1&sn=c6654d5bbb0212c79aab9d5dc5fc8429",
           "creatorId": "cyber",
@@ -1206,40 +1236,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521698&idx=1&sn=c91e4fe3092231ebe8d5405119cd71ef",
-          "creatorId": "cyber",
-          "title": "企业微信 × WorkBuddy 彻底打通，接管了我的整个门店（附：大量可落地实践）",
-          "summary": "全自动管店",
-          "publishedAt": "2026-10-15T02:23:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521698&idx=1&sn=c91e4fe3092231ebe8d5405119cd71ef",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-24T09:49:22.776Z",
-      "lastSuccessAt": "2026-10-24T09:49:22.776Z",
-      "nextCheckAt": 1792836262776,
+      "checkedAt": "2026-10-24T13:38:53.466Z",
+      "lastSuccessAt": "2026-10-24T13:38:53.466Z",
+      "nextCheckAt": 1792850033466,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1552,9 +1553,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-24T09:49:22.798Z",
-      "lastSuccessAt": "2026-10-24T09:49:22.798Z",
-      "nextCheckAt": 1792836262798,
+      "checkedAt": "2026-10-24T13:38:53.491Z",
+      "lastSuccessAt": "2026-10-24T13:38:53.491Z",
+      "nextCheckAt": 1792850033491,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1866,9 +1867,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-24T09:49:22.802Z",
-      "lastSuccessAt": "2026-10-24T09:49:22.802Z",
-      "nextCheckAt": 1792836262802,
+      "checkedAt": "2026-10-24T13:38:53.547Z",
+      "lastSuccessAt": "2026-10-24T13:38:53.547Z",
+      "nextCheckAt": 1792850033547,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1887,6 +1888,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1792836262475,
+  "nextCheckAt": 1792850033212,
   "refreshing": false
 }
