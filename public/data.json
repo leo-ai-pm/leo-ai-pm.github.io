@@ -1,7 +1,7 @@
 {
   "date": "2026年10月26日",
   "demo": false,
-  "updatedAt": "2026-10-25T16:44:05.390Z",
+  "updatedAt": "2026-10-25T19:17:52.692Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -92,7 +92,7 @@
         "group": "研究与方法",
         "focus": "AI 使用实验与工作方式",
         "url": "https://x.com/emollick",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -181,11 +181,11 @@
       }
     },
     {
-      "id": "aihot-h1pig6v6ufbnn57ol3vl5zl8x",
-      "title": "AI 扩大高管管控范围",
-      "brief": "我看到大型组织因 AI 出现的一个现象是，高管角色及其管控范围在扩大，他们能直接监控整个公司。",
-      "summary": "我看到大型组织因 AI 出现的一个现象是，高管角色及其管控范围在扩大，他们能直接监控整个公司。",
-      "category": "AI 动态",
+      "id": "aihot-xgqqpi4xn8ksefujks5g4s05v",
+      "title": "Opus 5.5 重做著作网站",
+      "brief": "用 Opus 5.5 重做了我这本书的网站。",
+      "summary": "用 Opus 5.5 重做了我这本书的网站。",
+      "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -193,10 +193,10 @@
       "sourceGroup": "研究与方法",
       "sourceName": "Ethan Mollick · @emollick",
       "feedName": "X：Ethan Mollick (@emollick)",
-      "sourceUrl": "https://x.com/emollick/status/2114337256865493250",
-      "aggregateUrl": "https://aihot.news/items/h1pig6v6ufbnn57ol3vl5zl8x",
+      "sourceUrl": "https://x.com/emollick/status/2114404221021778347",
+      "aggregateUrl": "https://aihot.news/items/xgqqpi4xn8ksefujks5g4s05v",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-25T12:44:19.000Z",
+      "publishedAt": "2026-10-25T17:10:24.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -208,7 +208,7 @@
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "AI 动态",
+        "caption": "实践与观点",
         "author": {
           "name": "Ethan Mollick",
           "asset": "/assets/identities/emollick.jpg",
@@ -301,8 +301,8 @@
       "sourceUrl": "https://www.kimi.com/blog/kimi-k3-1-pro",
       "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
       "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
-      "sourceCount": 19,
-      "participantCount": 85,
+      "sourceCount": 13,
+      "participantCount": 61,
       "latestAt": "2026-10-24T12:14:49.000Z",
       "expanded": true,
       "latest": "Nathan Lambert 谈模型真实可用性比 AA 分数更重要",
@@ -591,34 +591,6 @@
     },
     {
       "rank": 9,
-      "id": "jgg0i29t3o1eycc24c3wev0fx",
-      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/claude-duet",
-      "aihotUrl": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
-      "storyUrl": "https://aihot.news/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd",
-      "sourceCount": 1,
-      "participantCount": 8,
-      "latestAt": "2026-10-23T19:33:25.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
       "id": "za67o778vzhmeybim74u0noya",
       "title": "Grok Bot 新增 Vault 保存登录与支付信息",
       "sourceName": "X：Grok Bot (@bot)",
@@ -636,6 +608,34 @@
         "entities": [
           {
             "name": "X：Grok Bot (@bot)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "hoy59yzbg5kl7komgxudp55jp",
+      "title": "Nanbeige发布33B开源模型，称多数基准领先",
+      "sourceName": "X：Testing Catalog (@testingcatalog)",
+      "sourceUrl": "https://x.com/testingcatalog/status/2114403162027155544",
+      "aihotUrl": "https://aihot.news/items/hoy59yzbg5kl7komgxudp55jp",
+      "storyUrl": "https://aihot.news/story/c91a54ad-7c60-4add-9a60-24a2a9485ff6",
+      "sourceCount": 1,
+      "participantCount": 4,
+      "latestAt": "2026-10-25T17:06:12.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Testing Catalog (@testingcatalog)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
