@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-25T06:56:48.653Z",
-      "lastSuccessAt": "2026-10-25T06:56:48.653Z",
-      "nextCheckAt": 1792915008653,
+      "checkedAt": "2026-10-25T12:29:25.946Z",
+      "lastSuccessAt": "2026-10-25T12:29:25.946Z",
+      "nextCheckAt": 1792934965946,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-25T06:56:48.654Z",
-      "lastSuccessAt": "2026-10-25T06:56:48.654Z",
-      "nextCheckAt": 1792915008654,
+      "checkedAt": "2026-10-25T12:29:25.947Z",
+      "lastSuccessAt": "2026-10-25T12:29:25.947Z",
+      "nextCheckAt": 1792934965947,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-25T06:56:48.655Z",
-      "lastSuccessAt": "2026-10-25T06:56:48.655Z",
-      "nextCheckAt": 1792915008655,
+      "checkedAt": "2026-10-25T12:29:25.949Z",
+      "lastSuccessAt": "2026-10-25T12:29:25.949Z",
+      "nextCheckAt": 1792934965949,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1792915008857,
-      "checkedAt": "2026-10-25T06:56:48.857Z",
-      "lastSuccessAt": "2026-10-25T06:56:48.857Z",
+      "nextCheckAt": 1792934966121,
+      "checkedAt": "2026-10-25T12:29:26.121Z",
+      "lastSuccessAt": "2026-10-25T12:29:26.121Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792915008653,
+  "nextCheckAt": 1792934965946,
   "refreshing": false,
   "items": [
     {
@@ -134,6 +134,46 @@
       "priority": "lead"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/agentgrid-io",
+      "title": "AgentGrid.io",
+      "summary": "Shared workspace for humans and agents",
+      "publishedAt": "2026-10-25T05:39:16.000Z",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/agentgrid-io",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Shared workspace for humans and agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
       "id": "woshipm:https://www.woshipm.com/chuangye/6483400.html",
       "title": "一条视频 1160万播放，为什么几乎没人下载 App？191个创业者的增长复盘",
       "summary": "370 次观看带来 3 个付费客户，1160 万播放却几乎没人下载——191 位创业者的获客复盘说明，播放量不等于生意。真正区分成败的是三个问题：内容吸引了谁、他们为什么看、看完知道下一步做什么。 今天分享一个周末刚看的初创 AI 公司获客方式的复盘研究，原文我放在文末的“阅读全文”里。 一位软件创业者在 YouTube 上发布了一条视频，只有 370次观看，却带来了 3位付费客户。 另一位做手机 App 的创业者，曾经发过一条播放量高",
@@ -174,11 +214,51 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/sideos-ai",
-      "title": "sideOS.ai",
-      "summary": "Local AI for dictation, meetings, background tasks and more",
-      "publishedAt": "2026-10-23T13:28:40.000Z",
-      "url": "https://www.producthunt.com/products/sideos-ai",
+      "id": "ph:https://www.producthunt.com/products/papermark-2",
+      "title": "Papermark Data Rooms",
+      "summary": "Secure data rooms your AI agents can run. Live in",
+      "publishedAt": "2026-10-24T19:09:46.000Z",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/papermark-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Secure data rooms your AI agents can run. Live in",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/yourcast",
+      "title": "Yourcast 2.0",
+      "summary": "AI summaries with tap-to-jump timestamps, right in Telegram",
+      "publishedAt": "2026-10-24T14:42:59.000Z",
+      "url": "https://www.producthunt.com/products/yourcast",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -202,16 +282,16 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/sideos-ai",
+      "sourceUrl": "https://www.producthunt.com/products/yourcast",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Local AI for dictation, meetings, background tasks and more",
+      "brief": "AI summaries with tap-to-jump timestamps, right in Telegram",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
@@ -251,86 +331,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/instant-search-2",
-      "title": "Instant Search",
-      "summary": "The fastest, most precise local AI Search for your files.",
-      "publishedAt": "2026-10-23T05:36:03.000Z",
-      "url": "https://www.producthunt.com/products/instant-search-2",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/instant-search-2",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The fastest, most precise local AI Search for your files.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/termi-protocol",
-      "title": "Termi Protocol",
-      "summary": "Watch AI agents code in 3D and hand off the work",
-      "publishedAt": "2026-10-23T04:32:57.000Z",
-      "url": "https://www.producthunt.com/products/termi-protocol",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/termi-protocol",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Watch AI agents code in 3D and hand off the work",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {

@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月25日",
     "demo": false,
-    "updatedAt": "2026-10-25T06:56:58.865Z",
+    "updatedAt": "2026-10-25T12:29:35.040Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 101,
+      "received": 98,
       "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -308,7 +308,7 @@
         "sourceUrl": "https://www.kimi.com/blog/kimi-k3-1-pro",
         "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
         "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
-        "sourceCount": 20,
+        "sourceCount": 19,
         "participantCount": 85,
         "latestAt": "2026-10-24T12:14:49.000Z",
         "expanded": true,
@@ -359,7 +359,7 @@
         "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
         "storyUrl": "https://aihot.news/story/c83d8538-d103-4a28-bd4a-629a69136b90",
         "sourceCount": 10,
-        "participantCount": 34,
+        "participantCount": 35,
         "latestAt": "2026-10-24T14:30:45.000Z",
         "expanded": true,
         "latest": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
@@ -409,7 +409,7 @@
         "aihotUrl": "https://aihot.news/items/rdaf8ek1z1l57i14ka0pvz1nt",
         "storyUrl": "https://aihot.news/story/b88dc665-3526-426a-b781-8ca78f4d67e7",
         "sourceCount": 6,
-        "participantCount": 19,
+        "participantCount": 20,
         "latestAt": "2026-10-25T04:48:40.000Z",
         "expanded": true,
         "latest": "Block 发布 Dessa：纯语音训练的全双工会话模型，可在 MacBook Pro 本地实时运行",
@@ -564,6 +564,40 @@
       },
       {
         "rank": 8,
+        "id": "b18largheqo95pfg2sbam8xcj",
+        "title": "OpenAI以最高九成折扣争夺Anthropic大客户",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+        "aihotUrl": "https://aihot.news/items/b18largheqo95pfg2sbam8xcj",
+        "storyUrl": "https://aihot.news/story/621e2b92-89e1-4710-a7b9-02c282d7c2a9",
+        "sourceCount": 1,
+        "participantCount": 5,
+        "latestAt": "2026-10-25T07:30:11.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            },
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
         "id": "za67o778vzhmeybim74u0noya",
         "title": "Grok Bot 新增 Vault 保存登录与支付信息",
         "sourceName": "X：Grok Bot (@bot)",
@@ -591,7 +625,7 @@
         }
       },
       {
-        "rank": 9,
+        "rank": 10,
         "id": "poiju1x1007ttnz9cc4ioj6ro",
         "title": "AISI与Anthropic复盘Mythos 5越权攻击真实项目",
         "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -617,41 +651,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 10,
-        "id": "v14cdk5hahufp3sl2ee37yz0v",
-        "title": "新实验室称靠转租锁定GPU算力盈利",
-        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-        "sourceUrl": "https://x.com/Yuchenj_UW/status/2114043133734637735",
-        "aihotUrl": "https://aihot.news/items/v14cdk5hahufp3sl2ee37yz0v",
-        "storyUrl": "https://aihot.news/story/2f24a1ea-ceda-427b-8246-13d6c592bc7d",
-        "sourceCount": 1,
-        "participantCount": 5,
-        "latestAt": "2026-10-24T17:15:34.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Yuchen Jin (@Yuchenj_UW)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-25T06:56:58.865Z",
-    "nextCheckAt": 1792911718865,
+    "checkedAt": "2026-10-25T12:29:35.040Z",
+    "nextCheckAt": 1792931675040,
     "intervalSeconds": 300,
     "message": ""
   }
