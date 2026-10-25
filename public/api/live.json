@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月26日",
     "demo": false,
-    "updatedAt": "2026-10-25T19:17:52.692Z",
+    "updatedAt": "2026-10-25T21:52:23.483Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 97,
+      "received": 94,
       "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -302,8 +302,8 @@
         "sourceUrl": "https://www.kimi.com/blog/kimi-k3-1-pro",
         "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
         "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
-        "sourceCount": 13,
-        "participantCount": 61,
+        "sourceCount": 11,
+        "participantCount": 55,
         "latestAt": "2026-10-24T12:14:49.000Z",
         "expanded": true,
         "latest": "Nathan Lambert 谈模型真实可用性比 AA 分数更重要",
@@ -352,8 +352,8 @@
         "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
         "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
         "storyUrl": "https://aihot.news/story/c83d8538-d103-4a28-bd4a-629a69136b90",
-        "sourceCount": 10,
-        "participantCount": 35,
+        "sourceCount": 7,
+        "participantCount": 28,
         "latestAt": "2026-10-24T14:30:45.000Z",
         "expanded": true,
         "latest": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
@@ -402,8 +402,8 @@
         "sourceUrl": "https://x.com/shao__meng/status/2114217554948333812",
         "aihotUrl": "https://aihot.news/items/rdaf8ek1z1l57i14ka0pvz1nt",
         "storyUrl": "https://aihot.news/story/b88dc665-3526-426a-b781-8ca78f4d67e7",
-        "sourceCount": 6,
-        "participantCount": 20,
+        "sourceCount": 5,
+        "participantCount": 17,
         "latestAt": "2026-10-25T04:48:40.000Z",
         "expanded": true,
         "latest": "Block 发布 Dessa：纯语音训练的全双工会话模型，可在 MacBook Pro 本地实时运行",
@@ -592,34 +592,6 @@
       },
       {
         "rank": 9,
-        "id": "za67o778vzhmeybim74u0noya",
-        "title": "Grok Bot 新增 Vault 保存登录与支付信息",
-        "sourceName": "X：Grok Bot (@bot)",
-        "sourceUrl": "https://x.com/bot/status/2113717946019397910",
-        "aihotUrl": "https://aihot.news/items/za67o778vzhmeybim74u0noya",
-        "storyUrl": "https://aihot.news/story/a1acc180-e449-4e25-a658-0eb17993f729",
-        "sourceCount": 5,
-        "participantCount": 10,
-        "latestAt": "2026-10-24T02:40:37.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Grok Bot (@bot)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
         "id": "hoy59yzbg5kl7komgxudp55jp",
         "title": "Nanbeige发布33B开源模型，称多数基准领先",
         "sourceName": "X：Testing Catalog (@testingcatalog)",
@@ -645,13 +617,41 @@
           "caption": "热点",
           "author": null
         }
+      },
+      {
+        "rank": 10,
+        "id": "v14cdk5hahufp3sl2ee37yz0v",
+        "title": "新实验室称靠转租GPU算力盈利",
+        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+        "sourceUrl": "https://x.com/Yuchenj_UW/status/2114043133734637735",
+        "aihotUrl": "https://aihot.news/items/v14cdk5hahufp3sl2ee37yz0v",
+        "storyUrl": "https://aihot.news/story/2f24a1ea-ceda-427b-8246-13d6c592bc7d",
+        "sourceCount": 1,
+        "participantCount": 5,
+        "latestAt": "2026-10-25T17:04:49.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Yuchen Jin (@Yuchenj_UW)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-25T19:17:52.692Z",
-    "nextCheckAt": 1792956172692,
+    "checkedAt": "2026-10-25T21:52:23.483Z",
+    "nextCheckAt": 1792965443483,
     "intervalSeconds": 300,
     "message": ""
   }
