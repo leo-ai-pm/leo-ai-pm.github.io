@@ -1,7 +1,7 @@
 {
   "date": "2026年10月25日",
   "demo": false,
-  "updatedAt": "2026-10-24T23:48:08.833Z",
+  "updatedAt": "2026-10-25T01:44:30.905Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 119,
+    "received": 112,
     "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -321,7 +321,7 @@
       "aihotUrl": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
       "storyUrl": "https://aihot.news/story/c83d8538-d103-4a28-bd4a-629a69136b90",
       "sourceCount": 10,
-      "participantCount": 32,
+      "participantCount": 34,
       "latestAt": "2026-10-24T14:30:45.000Z",
       "expanded": true,
       "latest": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
@@ -442,15 +442,15 @@
     },
     {
       "rank": 5,
-      "id": "wrnv8dd428iozlj5xax99zbmj",
-      "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
-      "sourceName": "MiniMax：Blog（网页）",
-      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
-      "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-      "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
-      "sourceCount": 5,
-      "participantCount": 18,
-      "latestAt": "2026-10-23T21:02:37.000Z",
+      "id": "dafrctufefr9jnoig0bblrx4a",
+      "title": "Jassy 称 Amazon 算力缺口将延续至 2028 年后",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2113776070327738435",
+      "aihotUrl": "https://aihot.news/items/dafrctufefr9jnoig0bblrx4a",
+      "storyUrl": "https://aihot.news/story/ce94fc5b-16d5-45c6-8292-4451aa525e73",
+      "sourceCount": 2,
+      "participantCount": 10,
+      "latestAt": "2026-10-24T01:51:20.050Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -458,7 +458,7 @@
       "visual": {
         "entities": [
           {
-            "name": "MiniMax：Blog（网页）",
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -498,34 +498,6 @@
     },
     {
       "rank": 7,
-      "id": "dafrctufefr9jnoig0bblrx4a",
-      "title": "Jassy 称 Amazon 算力缺口将延续至 2028 年后",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2113776070327738435",
-      "aihotUrl": "https://aihot.news/items/dafrctufefr9jnoig0bblrx4a",
-      "storyUrl": "https://aihot.news/story/ce94fc5b-16d5-45c6-8292-4451aa525e73",
-      "sourceCount": 2,
-      "participantCount": 10,
-      "latestAt": "2026-10-24T01:51:20.050Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "za67o778vzhmeybim74u0noya",
       "title": "Grok Bot 新增 Vault 保存登录与支付信息",
       "sourceName": "X：Grok Bot (@bot)",
@@ -543,6 +515,34 @@
         "entities": [
           {
             "name": "X：Grok Bot (@bot)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "wrnv8dd428iozlj5xax99zbmj",
+      "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
+      "sourceName": "MiniMax：Blog（网页）",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
+      "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+      "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
+      "sourceCount": 3,
+      "participantCount": 14,
+      "latestAt": "2026-10-23T21:02:37.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "MiniMax：Blog（网页）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
