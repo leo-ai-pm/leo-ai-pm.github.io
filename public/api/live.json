@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月25日",
     "demo": false,
-    "updatedAt": "2026-10-25T01:44:30.905Z",
+    "updatedAt": "2026-10-25T06:56:58.865Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 112,
-      "latestCount": 2,
+      "received": 101,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -144,6 +144,43 @@
       ]
     },
     "items": [
+      {
+        "id": "aihot-emnw0127sawwqu8f2qd6ru6s0",
+        "title": "OpenAI 的 Codex 已全面推送",
+        "brief": "已全部推送完成。",
+        "summary": "已全部推送完成。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2114237083652882932",
+        "aggregateUrl": "https://aihot.news/items/emnw0127sawwqu8f2qd6ru6s0",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-25T06:06:16.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
       {
         "id": "aihot-d92mrmxvsfmnoyw3comncgz2c",
         "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
@@ -272,7 +309,7 @@
         "aihotUrl": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
         "storyUrl": "https://aihot.news/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190",
         "sourceCount": 20,
-        "participantCount": 87,
+        "participantCount": 85,
         "latestAt": "2026-10-24T12:14:49.000Z",
         "expanded": true,
         "latest": "Nathan Lambert 谈模型真实可用性比 AA 分数更重要",
@@ -365,6 +402,56 @@
       },
       {
         "rank": 3,
+        "id": "rdaf8ek1z1l57i14ka0pvz1nt",
+        "title": "Block 发布纯语音模型 Dessa，仅限安全研究者测试",
+        "sourceName": "X：邵猛 (@shao__meng)",
+        "sourceUrl": "https://x.com/shao__meng/status/2114217554948333812",
+        "aihotUrl": "https://aihot.news/items/rdaf8ek1z1l57i14ka0pvz1nt",
+        "storyUrl": "https://aihot.news/story/b88dc665-3526-426a-b781-8ca78f4d67e7",
+        "sourceCount": 6,
+        "participantCount": 19,
+        "latestAt": "2026-10-25T04:48:40.000Z",
+        "expanded": true,
+        "latest": "Block 发布 Dessa：纯语音训练的全双工会话模型，可在 MacBook Pro 本地实时运行",
+        "reports": [
+          {
+            "title": "Block 发布 Dessa：纯语音训练的全双工会话模型，可在 MacBook Pro 本地实时运行",
+            "sourceName": "X：邵猛 (@shao__meng)",
+            "sourceUrl": "https://x.com/shao__meng/status/2114217554948333812",
+            "aihotUrl": "https://aihot.news/items/rdaf8ek1z1l57i14ka0pvz1nt",
+            "publishedAt": "2026-10-25T04:48:40.000Z"
+          },
+          {
+            "title": "Block 发布全双工语音模型 Dessa，支持 M4 Max 及以上 MacBook 本地运行",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/017/557.htm",
+            "aihotUrl": "https://aihot.news/items/b5m1iq1k38hc3i8hpuyyzkx32",
+            "publishedAt": "2026-10-25T02:29:30.333Z"
+          },
+          {
+            "title": "Block 发布本地运行的全双工语音模型 Dessa",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+            "aihotUrl": "https://aihot.news/items/m12zx4vkj1e4avkq0na431zbf",
+            "publishedAt": "2026-10-24T16:00:00.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：邵猛 (@shao__meng)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 4,
         "id": "hhwasdljj9hnckutq2vvyei4i",
         "title": "Claude Code 核心成员 Thariq 离开 Anthropic",
         "sourceName": "X：Thariq (@trq212)",
@@ -374,31 +461,9 @@
         "sourceCount": 3,
         "participantCount": 18,
         "latestAt": "2026-10-24T04:40:34.000Z",
-        "expanded": true,
-        "latest": "Claude Code 核心成员 Thariq 宣布离开 Anthropic",
-        "reports": [
-          {
-            "title": "Claude Code 核心成员 Thariq 宣布离开 Anthropic",
-            "sourceName": "X：邵猛 (@shao__meng)",
-            "sourceUrl": "https://x.com/shao__meng/status/2113853130593239251",
-            "aihotUrl": "https://aihot.news/items/gx3wy7j0pxgj622oi2xy4u4sd",
-            "publishedAt": "2026-10-24T04:40:34.000Z"
-          },
-          {
-            "title": "Claude Code 团队成员 Thariq 宣布离开 Anthropic",
-            "sourceName": "X：Thariq (@trq212)",
-            "sourceUrl": "https://x.com/trq212/status/2113844051938054167",
-            "aihotUrl": "https://aihot.news/items/hhwasdljj9hnckutq2vvyei4i",
-            "publishedAt": "2026-10-24T04:04:29.000Z"
-          },
-          {
-            "title": "Thariq Shihipar 离开 Anthropic",
-            "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-            "sourceUrl": "https://x.com/Yuchenj_UW/status/2113789482164277425",
-            "aihotUrl": "https://aihot.news/items/y850ni2bwa4z97mxz0t3crwqn",
-            "publishedAt": "2026-10-24T00:27:39.000Z"
-          }
-        ],
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -414,34 +479,6 @@
         }
       },
       {
-        "rank": 4,
-        "id": "m12zx4vkj1e4avkq0na431zbf",
-        "title": "Block 发布纯语音模型 Dessa，仅限安全研究者测试",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "aihotUrl": "https://aihot.news/items/m12zx4vkj1e4avkq0na431zbf",
-        "storyUrl": "https://aihot.news/story/b88dc665-3526-426a-b781-8ca78f4d67e7",
-        "sourceCount": 4,
-        "participantCount": 15,
-        "latestAt": "2026-10-24T16:00:00.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "TechCrunch：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 5,
         "id": "dafrctufefr9jnoig0bblrx4a",
         "title": "Jassy 称 Amazon 算力缺口将延续至 2028 年后",
@@ -450,7 +487,7 @@
         "aihotUrl": "https://aihot.news/items/dafrctufefr9jnoig0bblrx4a",
         "storyUrl": "https://aihot.news/story/ce94fc5b-16d5-45c6-8292-4451aa525e73",
         "sourceCount": 2,
-        "participantCount": 10,
+        "participantCount": 11,
         "latestAt": "2026-10-24T01:51:20.050Z",
         "expanded": false,
         "latest": "",
@@ -471,6 +508,34 @@
       },
       {
         "rank": 6,
+        "id": "ukda0jmhl5p6nl2lqyl40rzg4",
+        "title": "马东锡质疑Kimi公关风波由营销号操盘",
+        "sourceName": "X：马东锡 NLP (@dongxi_nlp)",
+        "sourceUrl": "https://x.com/dongxi_nlp/status/2114042998019264982",
+        "aihotUrl": "https://aihot.news/items/ukda0jmhl5p6nl2lqyl40rzg4",
+        "storyUrl": "https://aihot.news/story/4f173046-a6d0-4bbb-a1ae-34cc7d76548c",
+        "sourceCount": 2,
+        "participantCount": 10,
+        "latestAt": "2026-10-25T02:41:01.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：马东锡 NLP (@dongxi_nlp)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "e5o9t8xv2z5j5ddhvtaee9zkg",
         "title": "英国政府宣布投入6亿英镑应对AI风险",
         "sourceName": "IT之家·人工智能",
@@ -478,7 +543,7 @@
         "aihotUrl": "https://aihot.news/items/e5o9t8xv2z5j5ddhvtaee9zkg",
         "storyUrl": "https://aihot.news/story/aba7467e-1c4a-4e9e-8905-c142c1b9a046",
         "sourceCount": 1,
-        "participantCount": 10,
+        "participantCount": 11,
         "latestAt": "2026-10-24T00:59:37.777Z",
         "expanded": false,
         "latest": "",
@@ -498,7 +563,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "za67o778vzhmeybim74u0noya",
         "title": "Grok Bot 新增 Vault 保存登录与支付信息",
         "sourceName": "X：Grok Bot (@bot)",
@@ -516,34 +581,6 @@
           "entities": [
             {
               "name": "X：Grok Bot (@bot)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "wrnv8dd428iozlj5xax99zbmj",
-        "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
-        "sourceName": "MiniMax：Blog（网页）",
-        "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
-        "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-        "storyUrl": "https://aihot.news/story/589d286a-2a6d-48be-b14a-e61390534ec3",
-        "sourceCount": 3,
-        "participantCount": 14,
-        "latestAt": "2026-10-23T21:02:37.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "MiniMax：Blog（网页）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -583,15 +620,15 @@
       },
       {
         "rank": 10,
-        "id": "shi5tga503u6jcb3itberbm18",
-        "title": "国办印发AI就业友好型发展意见",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/017/113.htm",
-        "aihotUrl": "https://aihot.news/items/shi5tga503u6jcb3itberbm18",
-        "storyUrl": "https://aihot.news/story/1b795562-e16a-415d-81cc-c4e09d757d10",
-        "sourceCount": 2,
-        "participantCount": 11,
-        "latestAt": "2026-10-23T11:33:46.000Z",
+        "id": "v14cdk5hahufp3sl2ee37yz0v",
+        "title": "新实验室称靠转租锁定GPU算力盈利",
+        "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+        "sourceUrl": "https://x.com/Yuchenj_UW/status/2114043133734637735",
+        "aihotUrl": "https://aihot.news/items/v14cdk5hahufp3sl2ee37yz0v",
+        "storyUrl": "https://aihot.news/story/2f24a1ea-ceda-427b-8246-13d6c592bc7d",
+        "sourceCount": 1,
+        "participantCount": 5,
+        "latestAt": "2026-10-24T17:15:34.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -599,7 +636,7 @@
         "visual": {
           "entities": [
             {
-              "name": "IT之家·人工智能",
+              "name": "X：Yuchen Jin (@Yuchenj_UW)",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -613,8 +650,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-25T01:44:30.905Z",
-    "nextCheckAt": 1792892970905,
+    "checkedAt": "2026-10-25T06:56:58.865Z",
+    "nextCheckAt": 1792911718865,
     "intervalSeconds": 300,
     "message": ""
   }
