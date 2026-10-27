@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-27T11:03:50.517Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.517Z",
-      "nextCheckAt": 1793102630517,
+      "checkedAt": "2026-10-27T16:26:33.570Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.570Z",
+      "nextCheckAt": 1793121993570,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-27T11:03:50.518Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.518Z",
-      "nextCheckAt": 1793102630518,
+      "checkedAt": "2026-10-27T16:26:33.571Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.571Z",
+      "nextCheckAt": 1793121993571,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-27T11:03:50.519Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.519Z",
-      "nextCheckAt": 1793102630519,
+      "checkedAt": "2026-10-27T16:26:33.572Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.572Z",
+      "nextCheckAt": 1793121993572,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-27T11:03:50.712Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.712Z",
-      "nextCheckAt": 1793102630712,
+      "checkedAt": "2026-10-27T16:26:33.691Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.691Z",
+      "nextCheckAt": 1793121993691,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793102630517,
+  "nextCheckAt": 1793121993570,
   "refreshing": false,
   "items": [
     {
@@ -256,9 +256,50 @@
       "priority": "normal"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/openai",
+      "title": "GPT-6.1 Terra",
+      "summary": "Fast, capable computer use at half the price",
+      "publishedAt": "2026-10-26T23:33:48.000Z",
+      "url": "https://www.producthunt.com/products/openai",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/openai",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Fast, capable computer use at half the price",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
       "id": "ph:https://www.producthunt.com/products/pulsedev",
       "title": "PulseDev",
-      "summary": "Click any UI bug on localhost. Your AI agent fixes it.",
+      "summary": "Click any UI bug on localhost and your AI agent fixes it",
       "publishedAt": "2026-10-26T22:47:46.000Z",
       "url": "https://www.producthunt.com/products/pulsedev",
       "linkKind": "original",
@@ -288,47 +329,7 @@
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Click any UI bug on localhost. Your AI agent fixes it.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/revix-ai-2",
-      "title": "Revix AI",
-      "summary": "AI code review that learns your repo's own rules",
-      "publishedAt": "2026-10-26T21:29:10.000Z",
-      "url": "https://www.producthunt.com/products/revix-ai-2",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/revix-ai-2",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI code review that learns your repo's own rules",
+      "brief": "Click any UI bug on localhost and your AI agent fixes it",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

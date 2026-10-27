@@ -294,9 +294,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T11:03:50.464Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.464Z",
-      "nextCheckAt": 1793099930464,
+      "checkedAt": "2026-10-27T16:26:33.520Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.520Z",
+      "nextCheckAt": 1793119293520,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -608,9 +608,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T11:03:50.515Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.515Z",
-      "nextCheckAt": 1793099930515,
+      "checkedAt": "2026-10-27T16:26:33.568Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.568Z",
+      "nextCheckAt": 1793119293568,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -630,6 +630,36 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492632&idx=1&sn=2d90e78230061279e0c4f6211f20ff72",
+          "creatorId": "huashu",
+          "title": "每人每年140万美元，Anthropic用5300人疯狂给未来加注",
+          "summary": "昨天，Anthropic向SEC交了上市招股书，如果他们今年成功完成上市，据报道市值估计在1.5-2万亿美元",
+          "publishedAt": "2026-10-27T03:38:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492632&idx=1&sn=2d90e78230061279e0c4f6211f20ff72",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492613&idx=1&sn=eebb2ab7578436973765ebe31c1f1cd9",
           "creatorId": "huashu",
@@ -892,40 +922,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492446&idx=1&sn=64769b72614c2f3fcee716042cc70bc1",
-          "creatorId": "huashu",
-          "title": "当AI可以逆向一切的时候，我们还剩下些什么？",
-          "summary": "AI正在逆向一切。最近REA这个项目火得有点离谱，全称Reverse Engineer Anything，逆向一切，我写这篇的时候GitHub上已经12万star了。",
-          "publishedAt": "2026-10-12T08:06:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492446&idx=1&sn=64769b72614c2f3fcee716042cc70bc1",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-27T11:03:50.516Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.516Z",
-      "nextCheckAt": 1793099930516,
+      "checkedAt": "2026-10-27T16:26:33.569Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.569Z",
+      "nextCheckAt": 1793119293569,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -945,6 +946,65 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522103&idx=1&sn=53736ecbb76776bbcf0e2fe565265353",
+          "creatorId": "cyber",
+          "title": "此刻，带上你的 Agent，一同探索科学边界",
+          "summary": "A few shots at the never-done",
+          "publishedAt": "2026-10-27T12:43:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522103&idx=1&sn=53736ecbb76776bbcf0e2fe565265353",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "赛博禅心",
+                "asset": "/assets/identities/creator_cyber.jpg",
+                "tone": "#dcebea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522087&idx=1&sn=228ff873007af4c33f18a8505944b1ef",
+          "creatorId": "cyber",
+          "title": "Anthropic 递交招股书，股票代码 ：ANT",
+          "summary": "半年收入 163 亿美元，账面亏损 807 亿美金",
+          "publishedAt": "2026-10-26T15:13:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522087&idx=1&sn=228ff873007af4c33f18a8505944b1ef",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+            "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522081&idx=1&sn=63221c48642870a705416bd951408c1c",
           "creatorId": "cyber",
@@ -1177,70 +1237,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521795&idx=1&sn=3768fbef6f8600f3a9e8c927dd54b96d",
-          "creatorId": "cyber",
-          "title": "DeepSeek V4.1 Flash 新版发布： api 自带搜索能力",
-          "summary": "性价比惊人！同时全面开放自研搜索、网页抓取能力",
-          "publishedAt": "2026-10-17T08:32:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521795&idx=1&sn=3768fbef6f8600f3a9e8c927dd54b96d",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521779&idx=1&sn=b6d3643d20f17ea0aae8e865f31b1a0a",
-          "creatorId": "cyber",
-          "title": "英伟达芯片的笔记本今日开售，已体验&下单",
-          "summary": "英伟达的笔记本今天在京东 mall 的线下快开售，我跑到现场快速体验了一下，然后下了个单（这机器手感确实不错，尤其是它的触摸板，顶部也是可以按的，类似于苹果的那种） RTX Spark 的这个芯片，显卡性能大概相当于 5060 左右，最高有 128G 统一内存可选，推一些小模型是够了，比如说千问的 27B 现场还有目前还没发售的 RTX Spark 小盒子，你可以理解成基于英伟达的新 NUC",
-          "publishedAt": "2026-10-16T12:16:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247521779&idx=1&sn=b6d3643d20f17ea0aae8e865f31b1a0a",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-            "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "NVIDIA",
-                "asset": "/assets/identities/nvidia.jpg",
-                "assetSource": "https://x.com/nvidia",
-                "tone": "#e7edda"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-27T11:03:50.682Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.682Z",
-      "nextCheckAt": 1793099930682,
+      "checkedAt": "2026-10-27T16:26:33.716Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.716Z",
+      "nextCheckAt": 1793119293716,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1553,9 +1554,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T11:03:50.733Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.733Z",
-      "nextCheckAt": 1793099930733,
+      "checkedAt": "2026-10-27T16:26:33.784Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.784Z",
+      "nextCheckAt": 1793119293784,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1575,6 +1576,64 @@
     {
       "id": "founder",
       "items": [
+        {
+          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517457&idx=1&sn=3cc12e97de827c7260b91e937b2cf547",
+          "creatorId": "founder",
+          "title": "对话K2 Lab王铭：Muse帮人省钱，Moras帮人赚钱，这才是垂直赛道Personal AI的刚需",
+          "summary": "不收订阅费，3 个月帮达人带货 1000 万美金",
+          "publishedAt": "2026-10-27T06:30:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517457&idx=1&sn=3cc12e97de827c7260b91e937b2cf547",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中的经验适合什么规模和阶段的团队？",
+            "method": "从原文选出一条明确做法，用你的一项工作验证前提和代价，再找一个不适用的场景。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Founder Park",
+                "asset": "/assets/identities/creator_founder.jpg",
+                "tone": "#dfe9f3"
+              }
+            ],
+            "caption": "创业与商业",
+            "author": {
+              "name": "Founder Park",
+              "asset": "/assets/identities/creator_founder.jpg",
+              "tone": "#dfe9f3"
+            }
+          }
+        },
+        {
+          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517457&idx=2&sn=d24c975179582058a2cd33a4ab3dc200",
+          "creatorId": "founder",
+          "title": "聊Agent商业化、做AI产品、链接全球资源，近期这些活动别错过",
+          "summary": "10-11 月这些活动值得冲",
+          "publishedAt": "2026-10-27T06:30:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517457&idx=2&sn=d24c975179582058a2cd33a4ab3dc200",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Founder Park",
+                "asset": "/assets/identities/creator_founder.jpg",
+                "tone": "#dfe9f3"
+              }
+            ],
+            "caption": "创业与商业",
+            "author": {
+              "name": "Founder Park",
+              "asset": "/assets/identities/creator_founder.jpg",
+              "tone": "#dfe9f3"
+            }
+          }
+        },
         {
           "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517425&idx=1&sn=b6049efc02f06d6fe79a989ab1ed42af",
           "creatorId": "founder",
@@ -1807,69 +1866,11 @@
               "tone": "#dfe9f3"
             }
           }
-        },
-        {
-          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517276&idx=1&sn=02d1dd1449a855744081920a311e16fe",
-          "creatorId": "founder",
-          "title": "Step 5 Preview 开源，OpenRouter 周榜第二，模型训练技术细节揭秘！",
-          "summary": "不只是更多 Compute，还有更高效率的 Compute。",
-          "publishedAt": "2026-10-15T09:54:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517276&idx=1&sn=02d1dd1449a855744081920a311e16fe",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Founder Park",
-                "asset": "/assets/identities/creator_founder.jpg",
-                "tone": "#dfe9f3"
-              }
-            ],
-            "caption": "创业与商业",
-            "author": {
-              "name": "Founder Park",
-              "asset": "/assets/identities/creator_founder.jpg",
-              "tone": "#dfe9f3"
-            }
-          }
-        },
-        {
-          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517264&idx=1&sn=9b747b67f773a7d14fce374343ec6607",
-          "creatorId": "founder",
-          "title": "对话出海一叮易宛尧：品牌出海的每一个环节，都值得用 AI 重做一遍",
-          "summary": "操盘过 50 多家硬件公司出海，在 AI 硬件最热的一年为什么一家都没投",
-          "publishedAt": "2026-10-14T09:00:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517264&idx=1&sn=9b747b67f773a7d14fce374343ec6607",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中的经验适合什么规模和阶段的团队？",
-            "method": "从原文选出一条明确做法，用你的一项工作验证前提和代价，再找一个不适用的场景。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Founder Park",
-                "asset": "/assets/identities/creator_founder.jpg",
-                "tone": "#dfe9f3"
-              }
-            ],
-            "caption": "创业与商业",
-            "author": {
-              "name": "Founder Park",
-              "asset": "/assets/identities/creator_founder.jpg",
-              "tone": "#dfe9f3"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-27T11:03:50.800Z",
-      "lastSuccessAt": "2026-10-27T11:03:50.800Z",
-      "nextCheckAt": 1793099930800,
+      "checkedAt": "2026-10-27T16:26:33.788Z",
+      "lastSuccessAt": "2026-10-27T16:26:33.788Z",
+      "nextCheckAt": 1793119293788,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1888,6 +1889,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1793099930464,
+  "nextCheckAt": 1793119293520,
   "refreshing": false
 }
