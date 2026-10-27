@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月27日",
     "demo": false,
-    "updatedAt": "2026-10-27T00:44:25.095Z",
+    "updatedAt": "2026-10-27T05:40:39.942Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 239,
+      "received": 250,
       "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 2,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -145,10 +145,10 @@
     },
     "items": [
       {
-        "id": "aihot-l0775yzxbvsuwugaxcjefolcm",
-        "title": "十年前精准预测AI现状的小圈子",
-        "brief": "鉴于如今的一切对许多人来说显得如此突如其来，令人惊叹的是，十年前就有一小群人极其精准地预测了当今AI领域正在发生的一切（@kevinroose 在 The AGI Chronicles 中展示了这一点）。",
-        "summary": "鉴于如今的一切对许多人来说显得如此突如其来，令人惊叹的是，十年前就有一小群人极其精准地预测了当今AI领域正在发生的一切（@kevinroose 在 The AGI Chronicles 中展示了这一点）。",
+        "id": "aihot-cpsavanegtto7xotzxak5jgd9",
+        "title": "Ethan Mollick 谈 Claude 与 ChatGPT 取消详细思维链对人类监督的影响",
+        "brief": "Ethan Mollick 指出，Claude 和 ChatGPT 不再展示详细的摘要式思考过程（可能既有防蒸馏考虑也有 UX 考量），让人在回路中监督变得困难。",
+        "summary": "Ethan Mollick 指出，Claude 和 ChatGPT 不再展示详细的摘要式思考过程（可能既有防蒸馏考虑也有 UX 考量），让人在回路中监督变得困难。",
         "category": "AI 动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -157,10 +157,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2114860935613473022",
-        "aggregateUrl": "https://aihot.news/items/l0775yzxbvsuwugaxcjefolcm",
+        "sourceUrl": "https://x.com/emollick/status/2114942007533515261",
+        "aggregateUrl": "https://aihot.news/items/cpsavanegtto7xotzxak5jgd9",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-26T23:25:13.000Z",
+        "publishedAt": "2026-10-27T04:47:22.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -170,6 +170,12 @@
               "asset": "/assets/identities/emollick.jpg",
               "assetSource": "https://x.com/emollick",
               "tone": "#e9e4dc"
+            },
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "AI 动态",
@@ -351,32 +357,32 @@
         "sourceUrl": "https://www.anthropic.com/news/s1-sec",
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 13,
-        "participantCount": 73,
-        "latestAt": "2026-10-27T00:05:08.000Z",
+        "sourceCount": 14,
+        "participantCount": 79,
+        "latestAt": "2026-10-27T03:09:14.067Z",
         "expanded": true,
-        "latest": "Anthropic 向 SEC 递交 S-1 招股书，代码「ANT」，披露 2026 上半年营收 162.86 亿美元",
+        "latest": "Anthropic S-1 上市文件披露 AI 产业严重依赖天然气",
         "reports": [
+          {
+            "title": "Anthropic S-1 上市文件披露 AI 产业严重依赖天然气",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/018/270.htm",
+            "aihotUrl": "https://aihot.news/items/rc69ll5k6qnwpfqckkb1x8wmr",
+            "publishedAt": "2026-10-27T03:09:14.067Z"
+          },
+          {
+            "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+            "sourceName": "X：卡兹克 (@Khazix0918)",
+            "sourceUrl": "https://x.com/Khazix0918/status/2114878401190506902",
+            "aihotUrl": "https://aihot.news/items/t6evqsenxfytsi8wl7h1urjxr",
+            "publishedAt": "2026-10-27T00:34:38.000Z"
+          },
           {
             "title": "Anthropic 向 SEC 递交 S-1 招股书，代码「ANT」，披露 2026 上半年营收 162.86 亿美元",
             "sourceName": "X：indigo (@indigox)",
             "sourceUrl": "https://x.com/indigox/status/2114870981034725662",
             "aihotUrl": "https://aihot.news/items/yl0873sjcoprds9zoi03gv3dl",
             "publishedAt": "2026-10-27T00:05:08.000Z"
-          },
-          {
-            "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-            "sourceName": "公众号：数字生命卡兹克",
-            "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-            "aihotUrl": "https://aihot.news/items/dw9465ajr0oz1vf6ricf2074f",
-            "publishedAt": "2026-10-27T00:05:00.000Z"
-          },
-          {
-            "title": "Anthropic 在 IPO 文件中披露公司内部也存在对先进 AI 灾难性风险的担忧",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2114859840204165363",
-            "aihotUrl": "https://aihot.news/items/jb1oibqp1rw1ltmm9k7cg7b7q",
-            "publishedAt": "2026-10-26T23:20:52.000Z"
           }
         ],
         "related": [
@@ -406,12 +412,19 @@
         "sourceUrl": "https://x.com/thsottiaux/status/2114800277677092936",
         "aihotUrl": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
         "storyUrl": "https://aihot.news/story/30e9a1ca-aae1-410a-b1c6-53893df398db",
-        "sourceCount": 10,
-        "participantCount": 41,
-        "latestAt": "2026-10-26T23:53:07.000Z",
+        "sourceCount": 12,
+        "participantCount": 60,
+        "latestAt": "2026-10-27T02:45:27.000Z",
         "expanded": true,
-        "latest": "OpenAI 发布 GPT-6.1 Terra，主打视觉推理与 computer use",
+        "latest": "OpenAI 发布 GPT-6.1 Terra，API 价格为 GPT-6.1 Sol 的一半",
         "reports": [
+          {
+            "title": "OpenAI 发布 GPT-6.1 Terra，API 价格为 GPT-6.1 Sol 的一半",
+            "sourceName": "MarkTechPost（RSS）",
+            "sourceUrl": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+            "aihotUrl": "https://aihot.news/items/q7a8kw47lltqas4xqnxuevmlb",
+            "publishedAt": "2026-10-27T02:45:27.000Z"
+          },
           {
             "title": "OpenAI 发布 GPT-6.1 Terra，主打视觉推理与 computer use",
             "sourceName": "Simon Willison 博客",
@@ -425,13 +438,6 @@
             "sourceUrl": "https://www.ithome.com/1/018/200.htm",
             "aihotUrl": "https://aihot.news/items/h6rsobbmnxjkeqytqpdskjxu5",
             "publishedAt": "2026-10-26T23:26:19.790Z"
-          },
-          {
-            "title": "OpenClaw 已支持 OpenAI GPT-6.1 Terra",
-            "sourceName": "X：OpenClaw (@openclaw)",
-            "sourceUrl": "https://x.com/openclaw/status/2114850737645879629",
-            "aihotUrl": "https://aihot.news/items/sgt9mgk711emzu9tps4no8xll",
-            "publishedAt": "2026-10-26T22:44:42.000Z"
           }
         ],
         "related": [
@@ -459,54 +465,40 @@
       },
       {
         "rank": 3,
-        "id": "m4l5hb0qhkn1zzgbqzxe6o510",
-        "title": "微软向六万员工发出自愿离职邀约",
-        "sourceName": "X：Oran Ge (@oran_ge)",
-        "sourceUrl": "https://x.com/oran_ge/status/2114876309650497853",
-        "aihotUrl": "https://aihot.news/items/m4l5hb0qhkn1zzgbqzxe6o510",
-        "storyUrl": "https://aihot.news/story/1aa4aaac-b209-467a-98f0-a36afb168840",
-        "sourceCount": 1,
-        "participantCount": 21,
-        "latestAt": "2026-10-27T00:26:19.000Z",
-        "expanded": true,
-        "latest": "微软向六万员工发出 Voluntary Exit Offer 自愿离职邀约",
-        "reports": [
-          {
-            "title": "微软向六万员工发出 Voluntary Exit Offer 自愿离职邀约",
-            "sourceName": "X：Oran Ge (@oran_ge)",
-            "sourceUrl": "https://x.com/oran_ge/status/2114876309650497853",
-            "aihotUrl": "https://aihot.news/items/m4l5hb0qhkn1zzgbqzxe6o510",
-            "publishedAt": "2026-10-27T00:26:19.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Oran Ge (@oran_ge)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 4,
         "id": "jxpzj0z4beg1r0cktwzc0tmwe",
-        "title": "OpenAI宣布三项科学发现，细节未公开",
+        "title": "OpenAI 称 AI 取得三项科学发现，细节未公开",
         "sourceName": "IT之家·人工智能",
         "sourceUrl": "https://www.ithome.com/1/018/203.htm",
         "aihotUrl": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
         "storyUrl": "https://aihot.news/story/d79cd457-4d11-436e-954d-430d2aab4438",
-        "sourceCount": 4,
-        "participantCount": 17,
-        "latestAt": "2026-10-26T23:37:17.237Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
+        "sourceCount": 6,
+        "participantCount": 28,
+        "latestAt": "2026-10-27T04:03:33.000Z",
+        "expanded": true,
+        "latest": "AI数学能力演进时间线调侃",
+        "reports": [
+          {
+            "title": "AI数学能力演进时间线调侃",
+            "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
+            "sourceUrl": "https://x.com/Yuchenj_UW/status/2114930977218900313",
+            "aihotUrl": "https://aihot.news/items/hdemo1wkhb2pnu3kp6ra5r8nq",
+            "publishedAt": "2026-10-27T04:03:33.000Z"
+          },
+          {
+            "title": "OpenAI 宣布数学、计算机科学与物理新发现",
+            "sourceName": "X：Ethan Mollick (@emollick)",
+            "sourceUrl": "https://x.com/emollick/status/2114875372173144338",
+            "aihotUrl": "https://aihot.news/items/gdz7y49osoyqqurvub6zvxwzn",
+            "publishedAt": "2026-10-27T00:22:35.000Z"
+          },
+          {
+            "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/018/203.htm",
+            "aihotUrl": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
+            "publishedAt": "2026-10-26T23:37:17.237Z"
+          }
+        ],
         "related": [],
         "visual": {
           "entities": [
@@ -522,7 +514,63 @@
         }
       },
       {
+        "rank": 4,
+        "id": "m4l5hb0qhkn1zzgbqzxe6o510",
+        "title": "微软向约六万员工发出自愿离职邀约",
+        "sourceName": "X：Oran Ge (@oran_ge)",
+        "sourceUrl": "https://x.com/oran_ge/status/2114876309650497853",
+        "aihotUrl": "https://aihot.news/items/m4l5hb0qhkn1zzgbqzxe6o510",
+        "storyUrl": "https://aihot.news/story/1aa4aaac-b209-467a-98f0-a36afb168840",
+        "sourceCount": 1,
+        "participantCount": 29,
+        "latestAt": "2026-10-27T00:43:54.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Oran Ge (@oran_ge)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 5,
+        "id": "c05wmjyq8b00trv4dmhnb0gen",
+        "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
+        "sourceName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "aihotUrl": "https://aihot.news/items/c05wmjyq8b00trv4dmhnb0gen",
+        "storyUrl": "https://aihot.news/story/6f5a6f0d-d929-4115-a812-e6c107707ea4",
+        "sourceCount": 5,
+        "participantCount": 21,
+        "latestAt": "2026-10-27T01:12:21.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Hacker News：AI 热帖",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
         "id": "ji19kgoq8nfbm48kstr7gbs4g",
         "title": "债务市场收紧，200余家NeoCloud面临出清",
         "sourceName": "X：indigo (@indigox)",
@@ -550,63 +598,7 @@
         }
       },
       {
-        "rank": 6,
-        "id": "c05wmjyq8b00trv4dmhnb0gen",
-        "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
-        "sourceName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "aihotUrl": "https://aihot.news/items/c05wmjyq8b00trv4dmhnb0gen",
-        "storyUrl": "https://aihot.news/story/6f5a6f0d-d929-4115-a812-e6c107707ea4",
-        "sourceCount": 4,
-        "participantCount": 18,
-        "latestAt": "2026-10-26T22:38:46.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Hacker News：AI 热帖",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 7,
-        "id": "bc44sjhr0zz2k4wv2d8wvn2sw",
-        "title": "Apple发布新款iPad mini：OLED屏、A20 Pro、699美元起",
-        "sourceName": "Apple：Newsroom（RSS）",
-        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-        "aihotUrl": "https://aihot.news/items/bc44sjhr0zz2k4wv2d8wvn2sw",
-        "storyUrl": "https://aihot.news/story/38f6f5e5-65a5-4b0c-b595-a0b875834cff",
-        "sourceCount": 1,
-        "participantCount": 17,
-        "latestAt": "2026-10-25T16:00:00.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Apple：Newsroom（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
         "id": "el5ajsjzi2ya2wtygfxsp2iit",
         "title": "Meta 设无投票权 C 类股并拟融资至多 950 亿美元",
         "sourceName": "TechCrunch：AI（RSS）",
@@ -614,7 +606,7 @@
         "aihotUrl": "https://aihot.news/items/el5ajsjzi2ya2wtygfxsp2iit",
         "storyUrl": "https://aihot.news/story/5e617f03-d353-4828-93ae-f98b563f3b2b",
         "sourceCount": 3,
-        "participantCount": 17,
+        "participantCount": 18,
         "latestAt": "2026-10-26T18:40:26.000Z",
         "expanded": false,
         "latest": "",
@@ -634,6 +626,34 @@
         }
       },
       {
+        "rank": 8,
+        "id": "bc44sjhr0zz2k4wv2d8wvn2sw",
+        "title": "Apple发布新款iPad mini：OLED屏、A20 Pro、699美元起",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+        "aihotUrl": "https://aihot.news/items/bc44sjhr0zz2k4wv2d8wvn2sw",
+        "storyUrl": "https://aihot.news/story/38f6f5e5-65a5-4b0c-b595-a0b875834cff",
+        "sourceCount": 1,
+        "participantCount": 18,
+        "latestAt": "2026-10-25T16:00:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Apple：Newsroom（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 9,
         "id": "qzp95at6fpxmnd251zsidaard",
         "title": "Kimi为K3.1 Pro限流致歉并补偿订阅用户",
@@ -642,7 +662,7 @@
         "aihotUrl": "https://aihot.news/items/qzp95at6fpxmnd251zsidaard",
         "storyUrl": "https://aihot.news/story/f8dac6dc-f133-47be-90ad-b17297774877",
         "sourceCount": 3,
-        "participantCount": 14,
+        "participantCount": 16,
         "latestAt": "2026-10-26T08:05:00.000Z",
         "expanded": false,
         "latest": "",
@@ -663,15 +683,15 @@
       },
       {
         "rank": 10,
-        "id": "behw4be23eiasqfjlfzbqo7qm",
-        "title": "Apple发布27.2更新，Siri AI增记忆功能",
-        "sourceName": "Ars Technica：AI（RSS）",
-        "sourceUrl": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-        "aihotUrl": "https://aihot.news/items/behw4be23eiasqfjlfzbqo7qm",
-        "storyUrl": "https://aihot.news/story/96487cda-c78e-4bcc-a61e-ff8f8d64b5fa",
-        "sourceCount": 1,
-        "participantCount": 8,
-        "latestAt": "2026-10-26T20:04:16.000Z",
+        "id": "tkqoamgl02teospxvscgmjm7w",
+        "title": "SpaceX与Apollo达成约400亿美元GPU融资租赁",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "aihotUrl": "https://aihot.news/items/tkqoamgl02teospxvscgmjm7w",
+        "storyUrl": "https://aihot.news/story/77b4c833-c0d6-4d6c-8ccc-7024d94bbde8",
+        "sourceCount": 3,
+        "participantCount": 11,
+        "latestAt": "2026-10-26T18:48:52.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -679,7 +699,7 @@
         "visual": {
           "entities": [
             {
-              "name": "Ars Technica：AI（RSS）",
+              "name": "TechCrunch：AI（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -693,8 +713,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-27T00:44:25.095Z",
-    "nextCheckAt": 1793062165095,
+    "checkedAt": "2026-10-27T05:40:39.942Z",
+    "nextCheckAt": 1793079939942,
     "intervalSeconds": 300,
     "message": ""
   }

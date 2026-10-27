@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-27T00:44:16.033Z",
-      "lastSuccessAt": "2026-10-27T00:44:16.033Z",
-      "nextCheckAt": 1793065456033,
+      "checkedAt": "2026-10-27T05:40:30.381Z",
+      "lastSuccessAt": "2026-10-27T05:40:30.381Z",
+      "nextCheckAt": 1793083230381,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-27T00:44:16.034Z",
-      "lastSuccessAt": "2026-10-27T00:44:16.034Z",
-      "nextCheckAt": 1793065456034,
+      "checkedAt": "2026-10-27T05:40:30.382Z",
+      "lastSuccessAt": "2026-10-27T05:40:30.382Z",
+      "nextCheckAt": 1793083230382,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-27T00:44:16.035Z",
-      "lastSuccessAt": "2026-10-27T00:44:16.035Z",
-      "nextCheckAt": 1793065456035,
+      "checkedAt": "2026-10-27T05:40:30.383Z",
+      "lastSuccessAt": "2026-10-27T05:40:30.383Z",
+      "nextCheckAt": 1793083230383,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-27T00:44:16.154Z",
-      "lastSuccessAt": "2026-10-27T00:44:16.154Z",
-      "nextCheckAt": 1793065456154,
       "status": "ok",
+      "nextCheckAt": 1793083230552,
+      "checkedAt": "2026-10-27T05:40:30.552Z",
+      "lastSuccessAt": "2026-10-27T05:40:30.552Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793065456033,
+  "nextCheckAt": 1793083230381,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6484427.html",
+      "title": "实测Kimi K3.1 Pro，离第一梯队还有多远？",
+      "summary": "Kimi K3.1 Pro 在 AA 指数从 44 分跳到 55 分，是首个越过 50 分的国产模型，3 万亿参数、1M 上下文依旧开源。作者把它接进 Kimi Code 实测 3D 建模与长程编程，也记下了卡壳的地方。 前天凌晨1点，Kimi K3.1 Pro正式发布了。从命名上就很有意思，这是Kimi第一个带Pro后缀的模型。 能力如何呢？在最新的AA指数上，K3.1 Pro直接从前代模型的44分飙到了55分，仅次于Claude的5",
+      "publishedAt": "2026-10-27T02:17:44.000Z",
+      "url": "https://www.woshipm.com/ai/6484427.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6484427.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Kimi K3.1 Pro 在 AA 指数从 44 分跳到 55 分，是首个越过 50 分的国产模型，3 万亿参数、1M 上下文依旧开源。作者把它接进 Kimi Code 实测 3D 建模与长程编程，也记下了卡壳的地方。 前天凌晨1点，Kimi K3.1 Pro正式发布了。从命名上就很有意思，这是Kimi第一个带Pro后缀的模型。 能力如何呢？在最新的AA指数上，K3.1 Pro直接从前代模型的44分飙到了55分，仅次于Claude的5",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6483416.html",
+      "title": "做了半年 AI 项目，我依然不懂 RAG，但我转岗成功了",
+      "summary": "一位9年B端产品经理，面对AI浪潮也曾迷茫，却从业务痛点出发，用AI工具解决配置交付难题，半年内将效率提升数倍，并成功内部转岗AI产品经理。本文复盘了他的实战路径、踩坑经历与转型心法，告诉你业务经验才是AI产品经理的真正壁垒。 我是一个做了9年B端产品经理的人，业务方向一直是工程建设招投标方向。这个业务是解决方案类的业务，业务本身非常复杂，客户属于G端客户，各地区的客户还有自己的特性业务要做，要求私有化部署，所以我们的项目交付成本都非常",
+      "publishedAt": "2026-10-27T01:30:31.000Z",
+      "url": "https://www.woshipm.com/ai/6483416.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6483416.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "一位9年B端产品经理，面对AI浪潮也曾迷茫，却从业务痛点出发，用AI工具解决配置交付难题，半年内将效率提升数倍，并成功内部转岗AI产品经理。本文复盘了他的实战路径、踩坑经历与转型心法，告诉你业务经验才是AI产品经理的真正壁垒。 我是一个做了9年B端产品经理的人，业务方向一直是工程建设招投标方向。这个业务是解决方案类的业务，业务本身非常复杂，客户属于G端客户，各地区的客户还有自己的特性业务要做，要求私有化部署，所以我们的项目交付成本都非常",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6484437.html",
+      "title": "腾讯上线Nomas，一个交互式世界模型",
+      "summary": "腾讯混元视觉团队上线 Hy-Nomas，输入一段场景描述就能生成可漫游的 AI 世界，用 WASD 像玩游戏一样推镜头。作者拿橘猫厨房实测了多轮续写，也试了三种人称视角切换。 近日，腾讯上线了产品叫做 Hy-Nomas。 这是一个交互式视频世界生成模型。 或者叫做 AI 世界生成器，由混元的视觉生成团队推出。 你用文字描述一个场景，它会按照要求生成这个场景。 后续你可用提示词或者键盘操控镜头，它会按照你的要求边创建世界，边生成视频。 接",
+      "publishedAt": "2026-10-27T01:08:19.000Z",
+      "url": "https://www.woshipm.com/ai/6484437.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6484437.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "腾讯混元视觉团队上线 Hy-Nomas，输入一段场景描述就能生成可漫游的 AI 世界，用 WASD 像玩游戏一样推镜头。作者拿橘猫厨房实测了多轮续写，也试了三种人称视角切换。 近日，腾讯上线了产品叫做 Hy-Nomas。 这是一个交互式视频世界生成模型。 或者叫做 AI 世界生成器，由混元的视觉生成团队推出。 你用文字描述一个场景，它会按照要求生成这个场景。 后续你可用提示词或者键盘操控镜头，它会按照你的要求边创建世界，边生成视频。 接",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "ph:https://www.producthunt.com/products/jobmate-ai-3",
       "title": "Jobmate AI",
@@ -131,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/avp",
@@ -171,7 +291,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/whoiscooking",
@@ -211,7 +331,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
