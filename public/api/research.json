@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-25T21:52:16.384Z",
-      "lastSuccessAt": "2026-10-25T21:52:16.384Z",
-      "nextCheckAt": 1792968736384,
+      "checkedAt": "2026-10-27T00:44:16.033Z",
+      "lastSuccessAt": "2026-10-27T00:44:16.033Z",
+      "nextCheckAt": 1793065456033,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-27T00:44:16.034Z",
+      "lastSuccessAt": "2026-10-27T00:44:16.034Z",
+      "nextCheckAt": 1793065456034,
       "status": "ok",
-      "nextCheckAt": 1792968736385,
-      "checkedAt": "2026-10-25T21:52:16.385Z",
-      "lastSuccessAt": "2026-10-25T21:52:16.385Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-25T21:52:16.386Z",
-      "lastSuccessAt": "2026-10-25T21:52:16.386Z",
-      "nextCheckAt": 1792968736386,
+      "checkedAt": "2026-10-27T00:44:16.035Z",
+      "lastSuccessAt": "2026-10-27T00:44:16.035Z",
+      "nextCheckAt": 1793065456035,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-27T00:44:16.154Z",
+      "lastSuccessAt": "2026-10-27T00:44:16.154Z",
+      "nextCheckAt": 1793065456154,
       "status": "ok",
-      "nextCheckAt": 1792968736595,
-      "checkedAt": "2026-10-25T21:52:16.595Z",
-      "lastSuccessAt": "2026-10-25T21:52:16.595Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,175 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1792968736384,
+  "nextCheckAt": 1793065456033,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6483815.html",
-      "title": "逐渐被淘汰的AI产品设计与交互",
-      "summary": "AI模型能力飞速跃迁，产品设计正经历一场静默革命。复杂Prompt、独立功能入口、纯聊天交互等曾被视为标配的设计，正被Agent化、多模态与主动执行的新范式取代。本文深度剖析5种正在被淘汰的设计思路，揭示其背后的逻辑变迁，并为AI产品经理指明从“弥补模型缺陷”转向“解决用户长期需求”的迭代方向。 从2024到2026 年，随着模型的推理能力、工具调用、多模态、长上下文和 Agent 能力的发展，很多AI产品的设计正在发生变化。 一、产品",
-      "publishedAt": "2026-10-25T06:43:05.000Z",
-      "url": "https://www.woshipm.com/ai/6483815.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6483815.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "AI模型能力飞速跃迁，产品设计正经历一场静默革命。复杂Prompt、独立功能入口、纯聊天交互等曾被视为标配的设计，正被Agent化、多模态与主动执行的新范式取代。本文深度剖析5种正在被淘汰的设计思路，揭示其背后的逻辑变迁，并为AI产品经理指明从“弥补模型缺陷”转向“解决用户长期需求”的迭代方向。 从2024到2026 年，随着模型的推理能力、工具调用、多模态、长上下文和 Agent 能力的发展，很多AI产品的设计正在发生变化。 一、产品",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/agentgrid-io",
-      "title": "AgentGrid.io",
-      "summary": "Shared workspace for humans and agents",
-      "publishedAt": "2026-10-25T05:39:16.000Z",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/agentgrid-io",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Shared workspace for humans and agents",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/chuangye/6483400.html",
-      "title": "一条视频 1160万播放，为什么几乎没人下载 App？191个创业者的增长复盘",
-      "summary": "370 次观看带来 3 个付费客户，1160 万播放却几乎没人下载——191 位创业者的获客复盘说明，播放量不等于生意。真正区分成败的是三个问题：内容吸引了谁、他们为什么看、看完知道下一步做什么。 今天分享一个周末刚看的初创 AI 公司获客方式的复盘研究，原文我放在文末的“阅读全文”里。 一位软件创业者在 YouTube 上发布了一条视频，只有 370次观看，却带来了 3位付费客户。 另一位做手机 App 的创业者，曾经发过一条播放量高",
-      "publishedAt": "2026-10-25T03:57:13.000Z",
-      "url": "https://www.woshipm.com/chuangye/6483400.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/chuangye/6483400.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "370 次观看带来 3 个付费客户，1160 万播放却几乎没人下载——191 位创业者的获客复盘说明，播放量不等于生意。真正区分成败的是三个问题：内容吸引了谁、他们为什么看、看完知道下一步做什么。 今天分享一个周末刚看的初创 AI 公司获客方式的复盘研究，原文我放在文末的“阅读全文”里。 一位软件创业者在 YouTube 上发布了一条视频，只有 370次观看，却带来了 3位付费客户。 另一位做手机 App 的创业者，曾经发过一条播放量高",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/papermark-2",
-      "title": "Papermark Data Rooms",
-      "summary": "Secure data rooms your AI agents can run. Live in",
-      "publishedAt": "2026-10-24T19:09:46.000Z",
-      "url": "https://www.producthunt.com/products/papermark-2",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/papermark-2",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Secure data rooms your AI agents can run. Live in",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/yourcast",
-      "title": "Yourcast 2.0",
-      "summary": "AI summaries with tap-to-jump timestamps, right in Telegram",
-      "publishedAt": "2026-10-24T14:42:59.000Z",
-      "url": "https://www.producthunt.com/products/yourcast",
+      "id": "ph:https://www.producthunt.com/products/jobmate-ai-3",
+      "title": "Jobmate AI",
+      "summary": "The humanized AI Copilot for your entire Job search",
+      "publishedAt": "2026-10-25T22:59:42.000Z",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -282,16 +122,96 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/yourcast",
+      "sourceUrl": "https://www.producthunt.com/products/jobmate-ai-3",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "AI summaries with tap-to-jump timestamps, right in Telegram",
+      "brief": "The humanized AI Copilot for your entire Job search",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "lead"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/avp",
+      "title": "AVP",
+      "summary": "Open source alternative to Git for AI coding agents",
+      "publishedAt": "2026-10-25T22:53:07.000Z",
+      "url": "https://www.producthunt.com/products/avp",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/avp",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Open source alternative to Git for AI coding agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/whoiscooking",
+      "title": "WhoIsCooking",
+      "summary": "See which AI agent is heating your Mac and cool it down.",
+      "publishedAt": "2026-10-25T21:45:54.000Z",
+      "url": "https://www.producthunt.com/products/whoiscooking",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/whoiscooking",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "See which AI agent is heating your Mac and cool it down.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
     },
     {
       "id": "n8n:https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
@@ -336,7 +256,7 @@
     {
       "id": "n8n:https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/",
       "title": "Hallucination Detection Methods for AI Agent Workflows",
-      "summary": "AI agent hallucinations are hard to catch because they usually look like normal answers. An agent can invent a fact, misread retrieved context, or contradict itself without signaling that anything went wrong. Once that o",
+      "summary": "Learn practical hallucination detection methods for AI workflows. See how your team can identify unreliable outputs before they spread.",
       "publishedAt": "2026-10-22T17:21:13.000Z",
       "url": "https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/",
       "linkKind": "original",
@@ -366,7 +286,7 @@
       "sourceGroup": "工作流与实践",
       "category": "工作流与实践",
       "platform": "英文官方博客",
-      "brief": "AI agent hallucinations are hard to catch because they usually look like normal answers. An agent can invent a fact, misread retrieved context, or contradict itself without signaling that anything went wrong. Once that o",
+      "brief": "Learn practical hallucination detection methods for AI workflows. See how your team can identify unreliable outputs before they spread.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
