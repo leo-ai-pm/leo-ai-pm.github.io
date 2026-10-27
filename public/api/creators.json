@@ -294,9 +294,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T05:40:30.342Z",
-      "lastSuccessAt": "2026-10-27T05:40:30.342Z",
-      "nextCheckAt": 1793080530342,
+      "checkedAt": "2026-10-27T11:03:50.464Z",
+      "lastSuccessAt": "2026-10-27T11:03:50.464Z",
+      "nextCheckAt": 1793099930464,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -608,9 +608,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T05:40:30.378Z",
-      "lastSuccessAt": "2026-10-27T05:40:30.378Z",
-      "nextCheckAt": 1793080530378,
+      "checkedAt": "2026-10-27T11:03:50.515Z",
+      "lastSuccessAt": "2026-10-27T11:03:50.515Z",
+      "nextCheckAt": 1793099930515,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -923,9 +923,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T05:40:30.380Z",
-      "lastSuccessAt": "2026-10-27T05:40:30.380Z",
-      "nextCheckAt": 1793080530380,
+      "checkedAt": "2026-10-27T11:03:50.516Z",
+      "lastSuccessAt": "2026-10-27T11:03:50.516Z",
+      "nextCheckAt": 1793099930516,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1238,9 +1238,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T05:40:30.524Z",
-      "lastSuccessAt": "2026-10-27T05:40:30.524Z",
-      "nextCheckAt": 1793080530524,
+      "checkedAt": "2026-10-27T11:03:50.682Z",
+      "lastSuccessAt": "2026-10-27T11:03:50.682Z",
+      "nextCheckAt": 1793099930682,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1260,6 +1260,36 @@
     {
       "id": "khazix",
       "items": [
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "creatorId": "khazix",
+          "title": "Anthropic要IPO了，帮大家总结了一下招股书里11个有趣的细节。",
+          "summary": "昨天晚上，Anthropic终于公开了他们的IPO申请，把他们的招股书挂上了美国证监会的网站。",
+          "publishedAt": "2026-10-27T00:05:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "IPO",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687805&idx=1&sn=0f08cbd84fec963afc0236cb390483fd",
           "creatorId": "khazix",
@@ -1521,41 +1551,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-          "creatorId": "khazix",
-          "title": "实测Gemini 4 Argon - Google这跌跌撞撞的背水一战。",
-          "summary": "有点沉默了",
-          "publishedAt": "2026-10-13T22:56:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Google DeepMind",
-                "asset": "/assets/identities/googledeepmind.jpg",
-                "assetSource": "https://x.com/GoogleDeepMind",
-                "tone": "#e4eaf4"
-              }
-            ],
-            "caption": "产品与热点",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-10-27T05:40:30.674Z",
-      "lastSuccessAt": "2026-10-27T05:40:30.674Z",
-      "nextCheckAt": 1793080530674,
+      "checkedAt": "2026-10-27T11:03:50.733Z",
+      "lastSuccessAt": "2026-10-27T11:03:50.733Z",
+      "nextCheckAt": 1793099930733,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1867,9 +1867,9 @@
           }
         }
       ],
-      "checkedAt": "2026-10-27T05:40:30.690Z",
-      "lastSuccessAt": "2026-10-27T05:40:30.690Z",
-      "nextCheckAt": 1793080530690,
+      "checkedAt": "2026-10-27T11:03:50.800Z",
+      "lastSuccessAt": "2026-10-27T11:03:50.800Z",
+      "nextCheckAt": 1793099930800,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1888,6 +1888,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1793080530342,
+  "nextCheckAt": 1793099930464,
   "refreshing": false
 }
