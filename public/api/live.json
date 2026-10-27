@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月28日",
     "demo": false,
-    "updatedAt": "2026-10-27T16:26:43.421Z",
+    "updatedAt": "2026-10-27T20:55:08.203Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 244,
-      "latestCount": 5,
+      "received": 263,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "karpathy",
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 5,
+          "matched": 7,
           "status": "本次收录"
         },
         {
@@ -111,8 +111,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "gdb",
@@ -120,7 +120,7 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -138,17 +138,17 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         }
       ]
     },
     "items": [
       {
-        "id": "aihot-ilqrgoou5b15qbvd5haflxu12",
-        "title": "AI预测AI难题时间点",
-        "brief": "这永远不会过时（也说明即便是对AI而言，预测AI有多难） “嘿，Claude Fable 和 GPT-6 Astra，不许查任何资料，你们觉得我们什么时候能解决指数时间假说？",
-        "summary": "这永远不会过时（也说明即便是对AI而言，预测AI有多难） “嘿，Claude Fable 和 GPT-6 Astra，不许查任何资料，你们觉得我们什么时候能解决指数时间假说？",
+        "id": "aihot-j58ieq6crsegfgtaxqmntrz4a",
+        "title": "Ethan Mollick 反驳 AI 炒作论",
+        "brief": "那种反复出现的说法——AI 公司谈论生存性风险是为了制造炒作、抬高股价——一直都很奇怪。",
+        "summary": "那种反复出现的说法——AI 公司谈论生存性风险是为了制造炒作、抬高股价——一直都很奇怪。",
         "category": "AI 动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -157,10 +157,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2115066250938192118",
-        "aggregateUrl": "https://aihot.news/items/ilqrgoou5b15qbvd5haflxu12",
+        "sourceUrl": "https://x.com/emollick/status/2115150629836632473",
+        "aggregateUrl": "https://aihot.news/items/j58ieq6crsegfgtaxqmntrz4a",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-27T13:01:04.000Z",
+        "publishedAt": "2026-10-27T18:36:22.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -177,43 +177,6 @@
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
             "assetSource": "https://x.com/emollick",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-ow29rokluyokjaygcuxiremfc",
-        "title": "OpenAI 发布 GPT-6.1 Terra，主打计算机使用能力",
-        "brief": "OpenAI 发布 GPT-6.1 Terra，以更低价格提供快速且能力较强的计算机使用能力。",
-        "summary": "OpenAI 发布 GPT-6.1 Terra，以更低价格提供快速且能力较强的计算机使用能力。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "sama",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Sam Altman · @sama",
-        "feedName": "X：Sam Altman (@sama)",
-        "sourceUrl": "https://x.com/sama/status/2114818620782248024",
-        "aggregateUrl": "https://aihot.news/items/ow29rokluyokjaygcuxiremfc",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-26T20:37:05.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
             "tone": "#e9e4dc"
           }
         }
@@ -389,7 +352,7 @@
         "aihotUrl": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
         "storyUrl": "https://aihot.news/story/30e9a1ca-aae1-410a-b1c6-53893df398db",
         "sourceCount": 12,
-        "participantCount": 83,
+        "participantCount": 85,
         "latestAt": "2026-10-27T16:11:23.000Z",
         "expanded": true,
         "latest": "GPT-6.1 Terra (Max) 以 1671 分位列 Code Arena: WebDev 第 14 名",
@@ -443,32 +406,32 @@
         "sourceUrl": "https://www.anthropic.com/news/s1-sec",
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 13,
-        "participantCount": 88,
-        "latestAt": "2026-10-27T11:37:54.953Z",
+        "sourceCount": 14,
+        "participantCount": 91,
+        "latestAt": "2026-10-27T17:31:56.000Z",
         "expanded": true,
-        "latest": "Anthropic 在 S-1 文件中重申永远不会在 Claude 对话中展示广告",
+        "latest": "Azeem Azhar 图解 Anthropic S-1 财务数据",
         "reports": [
+          {
+            "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+            "sourceName": "Azeem Azhar：Exponential View（RSS）",
+            "sourceUrl": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+            "aihotUrl": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
+            "publishedAt": "2026-10-27T17:31:56.000Z"
+          },
+          {
+            "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+            "aihotUrl": "https://aihot.news/items/x9a9nhbuq2ncarw5i41jhryjc",
+            "publishedAt": "2026-10-27T16:51:22.000Z"
+          },
           {
             "title": "Anthropic 在 S-1 文件中重申永远不会在 Claude 对话中展示广告",
             "sourceName": "IT之家·人工智能",
             "sourceUrl": "https://www.ithome.com/1/018/641.htm",
             "aihotUrl": "https://aihot.news/items/kcf7zccr5zy620rfc3d7ufsbe",
             "publishedAt": "2026-10-27T11:37:54.953Z"
-          },
-          {
-            "title": "Anthropic 在 IPO 信中重申 Claude 永不投放广告",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
-            "aihotUrl": "https://aihot.news/items/mnd8e4p8qhc4gwhlz5drvjmmr",
-            "publishedAt": "2026-10-27T11:20:51.000Z"
-          },
-          {
-            "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-            "sourceName": "Latent Space（RSS）",
-            "sourceUrl": "https://latent.space/p/ainews-anthropic-s1/",
-            "aihotUrl": "https://aihot.news/items/nbvleghbxraalsahhggnc6qov",
-            "publishedAt": "2026-10-27T07:24:59.000Z"
           }
         ],
         "related": [
@@ -492,40 +455,68 @@
       },
       {
         "rank": 3,
+        "id": "l74eacnb38ytvm5hm8om7h7cs",
+        "title": "Google DeepMind 发布 Genie 4 世界模型研究预览版",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+        "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
+        "sourceCount": 10,
+        "participantCount": 33,
+        "latestAt": "2026-10-27T17:25:09.000Z",
+        "expanded": true,
+        "latest": "Google DeepMind 发布 Genie 4 实时世界模型",
+        "reports": [
+          {
+            "title": "Google DeepMind 发布 Genie 4 实时世界模型",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+            "aihotUrl": "https://aihot.news/items/p9lvo7nzdvuv6aspokwq01iz8",
+            "publishedAt": "2026-10-27T17:25:09.000Z"
+          },
+          {
+            "title": "Google DeepMind 发布实时世界模型 Genie 4，支持原生音频与实时提示词编辑",
+            "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+            "sourceUrl": "https://x.com/_philschmid/status/2115129878697697566",
+            "aihotUrl": "https://aihot.news/items/qps0q2mwa2o75qrcy5s94mn4t",
+            "publishedAt": "2026-10-27T17:13:54.000Z"
+          },
+          {
+            "title": "Genie 4 世界模型即将登陆 API",
+            "sourceName": "X：Logan Kilpatrick (@OfficialLoganK)",
+            "sourceUrl": "https://x.com/OfficialLoganK/status/2115129174826647863",
+            "aihotUrl": "https://aihot.news/items/eq28r5gyu02lqdqlklzeihm8c",
+            "publishedAt": "2026-10-27T17:11:07.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 4,
         "id": "jxpzj0z4beg1r0cktwzc0tmwe",
-        "title": "OpenAI 称 AI 取得三项科学发现，物理证明未公开引呼吁",
+        "title": "OpenAI 称 AI 三项科学发现，物理证明未公开引呼吁",
         "sourceName": "IT之家·人工智能",
         "sourceUrl": "https://www.ithome.com/1/018/203.htm",
         "aihotUrl": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
         "storyUrl": "https://aihot.news/story/d79cd457-4d11-436e-954d-430d2aab4438",
-        "sourceCount": 7,
-        "participantCount": 36,
-        "latestAt": "2026-10-27T16:00:19.000Z",
-        "expanded": true,
-        "latest": "数学与人工智能顾问小组公开呼吁 OpenAI 公布其搁置的 Yang-Mills 证明",
-        "reports": [
-          {
-            "title": "数学与人工智能顾问小组公开呼吁 OpenAI 公布其搁置的 Yang-Mills 证明",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2115111357242839117",
-            "aihotUrl": "https://aihot.news/items/srgpv3pyr3wqcuepg8s46labe",
-            "publishedAt": "2026-10-27T16:00:19.000Z"
-          },
-          {
-            "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
-            "aihotUrl": "https://aihot.news/items/xuhb122ijbtqkri3h6er2m21y",
-            "publishedAt": "2026-10-27T12:37:24.000Z"
-          },
-          {
-            "title": "AI数学能力演进时间线调侃",
-            "sourceName": "X：Yuchen Jin (@Yuchenj_UW)",
-            "sourceUrl": "https://x.com/Yuchenj_UW/status/2114930977218900313",
-            "aihotUrl": "https://aihot.news/items/hdemo1wkhb2pnu3kp6ra5r8nq",
-            "publishedAt": "2026-10-27T04:03:33.000Z"
-          }
-        ],
+        "sourceCount": 8,
+        "participantCount": 40,
+        "latestAt": "2026-10-27T17:08:08.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -541,7 +532,7 @@
         }
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": "m4l5hb0qhkn1zzgbqzxe6o510",
         "title": "微软向约六万员工发出自愿离职邀约",
         "sourceName": "X：Oran Ge (@oran_ge)",
@@ -569,7 +560,7 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 6,
         "id": "c05wmjyq8b00trv4dmhnb0gen",
         "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
         "sourceName": "Hacker News：AI 热帖",
@@ -597,7 +588,7 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "j9n2v4vucqk9r4mzddueppd2v",
         "title": "英伟达与Meta扩大Muse合作并投资30亿美元",
         "sourceName": "NVIDIA：Newsroom（RSS）",
@@ -625,7 +616,35 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "id": "o0okltd585bcx5lh6bkq53n59",
+        "title": "Apple发布搭载M6芯片的14英寸MacBook Pro",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+        "aihotUrl": "https://aihot.news/items/o0okltd585bcx5lh6bkq53n59",
+        "storyUrl": "https://aihot.news/story/93c5795b-86df-47b3-b461-db55ecc172a6",
+        "sourceCount": 1,
+        "participantCount": 15,
+        "latestAt": "2026-10-26T16:00:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Apple：Newsroom（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
         "id": "t75a9cjsxenae5ubp1blnv92v",
         "title": "蚂蚁发布灵光2.0，AI助理可跨会话持续办事",
         "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
@@ -653,35 +672,7 @@
         }
       },
       {
-        "rank": 8,
-        "id": "ji19kgoq8nfbm48kstr7gbs4g",
-        "title": "债务市场收紧，200余家NeoCloud面临出清",
-        "sourceName": "X：indigo (@indigox)",
-        "sourceUrl": "https://x.com/indigox/status/2114557866967519523",
-        "aihotUrl": "https://aihot.news/items/ji19kgoq8nfbm48kstr7gbs4g",
-        "storyUrl": "https://aihot.news/story/7a938db4-1e60-49e0-8ca2-48894983a894",
-        "sourceCount": 1,
-        "participantCount": 25,
-        "latestAt": "2026-10-26T03:20:56.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：indigo (@indigox)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "id": "g43csy4qvgx4ezf0475bmdglv",
         "title": "百度开源 Unlimited OCR 2 长文档识别模型",
         "sourceName": "X：百度 Baidu (@Baidu_Inc)",
@@ -689,7 +680,7 @@
         "aihotUrl": "https://aihot.news/items/g43csy4qvgx4ezf0475bmdglv",
         "storyUrl": "https://aihot.news/story/4facbbbf-0921-42f1-912f-3e45529c365f",
         "sourceCount": 3,
-        "participantCount": 14,
+        "participantCount": 15,
         "latestAt": "2026-10-27T12:57:42.000Z",
         "expanded": false,
         "latest": "",
@@ -707,41 +698,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 10,
-        "id": "el5ajsjzi2ya2wtygfxsp2iit",
-        "title": "Meta 设无投票权 C 类股并拟融资至多 950 亿美元",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-        "aihotUrl": "https://aihot.news/items/el5ajsjzi2ya2wtygfxsp2iit",
-        "storyUrl": "https://aihot.news/story/5e617f03-d353-4828-93ae-f98b563f3b2b",
-        "sourceCount": 3,
-        "participantCount": 20,
-        "latestAt": "2026-10-26T18:40:26.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "TechCrunch：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-27T16:26:43.421Z",
-    "nextCheckAt": 1793118703421,
+    "checkedAt": "2026-10-27T20:55:08.203Z",
+    "nextCheckAt": 1793134808203,
     "intervalSeconds": 300,
     "message": ""
   }
