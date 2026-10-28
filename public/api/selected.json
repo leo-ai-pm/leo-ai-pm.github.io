@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-28T18:48:02.652Z",
+  "checkedAt": "2026-10-28T22:53:24.461Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "p24kw8c06nmy1hzs3spvr4aha",
+      "title": "Every 解读 Anthropic S-1：上线超过六个月的模型贡献收入不足 20%",
+      "reason": "文章借 Anthropic S-1 数据点出模型六个月生命周期这一行业规律，读者可据此调整自己的模型选择习惯。",
+      "summary": "Every 的 Context Window 通讯解读 Anthropic 周一提交的上市 S-1 文件，指出其重度依赖最新模型，发布超过六个月的模型收入占比不足 20%。",
+      "sourceName": "Every：最新文章（网页）",
+      "sourceUrl": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now",
+      "aihotUrl": "https://aihot.news/items/p24kw8c06nmy1hzs3spvr4aha",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "opinion",
+      "categoryLabel": "动态",
+      "unselected": false
+    },
+    {
+      "id": "m5st8pvirbas7phreshbzkrc9",
+      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+      "reason": "官方披露 Q3 财务与 AI 业务数据，可据此了解 Google Cloud 增速、模型 API token 处理量等一手经营指标。",
+      "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。",
+      "sourceName": "X：Sundar Pichai (@sundarpichai)",
+      "sourceUrl": "https://x.com/sundarpichai/status/2115535455156642066",
+      "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
+      "publishedAt": "2026-10-28T20:05:31.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "neprl0bcwv1mo2pd4dk1lvpjr",
       "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
@@ -276,62 +304,6 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "axminfteoiwhm9xm2txq1u2ok",
-      "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
-      "reason": "Anthropic 官方公布了折扣幅度、覆盖范围和政府采用数据，读者可以据此了解其公共业务的推进方式。",
-      "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "aihotUrl": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "czkv5svlodxelpz10tt5fpnk7",
-      "title": "Anthropic 公布 Claude 加速药物研发的早期进展与六个合作案例",
-      "reason": "原文给出六个药物研发合作案例的具体数字与实验结果，读者可以据此判断 Claude 在研发各环节的实际表现。",
-      "summary": "Anthropic 生命科学团队宣布过去数月与 Generate Biomedicines、Divergence Labs、BigHat Biosciences、Enveda、The Column Group、Bristol Myers Squibb 六家机构开展药物研发合作，并已启动自有药物研发。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/early-progress-drug-development",
-      "aihotUrl": "https://aihot.news/items/czkv5svlodxelpz10tt5fpnk7",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "t13kjmoalf8m0luymjchvrysk",
-      "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-      "reason": "Gemini 内置 SynthID 检测能力，用户可直接询问某文件是否为 Google AI 生成，提供了可上手的内容溯源方法。",
-      "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。",
-      "sourceName": "X：Gemini (@GeminiApp)",
-      "sourceUrl": "https://x.com/GeminiApp/status/2115171788812669225",
-      "aihotUrl": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
-      "publishedAt": "2026-10-27T20:00:27.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "d0k8x9588e62wlqnfoq3bmtq0",
-      "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
-      "reason": "原文用随机分配智能体倾向的实验设计量化了专家的从随程度，还讨论了这种影响难以察觉的原因和可能的改进方向。",
-      "summary": "Anthropic 发表研究，让 50 名有因果推断经验的专业分析师用 Claude Code（Claude Opus 4.8）完成一项统计分析任务，并在分析师不知情的情况下用掷硬币随机设定智能体在四个分析决策上的倾向。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/agents-judgment-calls",
-      "aihotUrl": "https://aihot.news/items/d0k8x9588e62wlqnfoq3bmtq0",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
     }
   ],
   "week": [
@@ -560,6 +532,20 @@
       "unselected": false
     },
     {
+      "id": "m5st8pvirbas7phreshbzkrc9",
+      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+      "reason": "官方披露 Q3 财务与 AI 业务数据，可据此了解 Google Cloud 增速、模型 API token 处理量等一手经营指标。",
+      "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。",
+      "sourceName": "X：Sundar Pichai (@sundarpichai)",
+      "sourceUrl": "https://x.com/sundarpichai/status/2115535455156642066",
+      "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
+      "publishedAt": "2026-10-28T20:05:31.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "fbxzb7x7fzbjn0dmf367ywxrm",
       "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
       "reason": "作者提供了犹他州为期四周试点的一手数据，读者可据此评估 Claude Code 在政府开发者中的上手速度与实际节省时间。",
@@ -652,20 +638,6 @@
       "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
       "aihotUrl": "https://aihot.news/items/dk0g487d7s2n5hq9ex5bim1sy",
       "publishedAt": "2026-10-27T23:34:27.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "axminfteoiwhm9xm2txq1u2ok",
-      "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
-      "reason": "Anthropic 官方公布了折扣幅度、覆盖范围和政府采用数据，读者可以据此了解其公共业务的推进方式。",
-      "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "aihotUrl": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -1258,6 +1230,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "p24kw8c06nmy1hzs3spvr4aha",
+          "title": "Every 解读 Anthropic S-1：上线超过六个月的模型贡献收入不足 20%",
+          "reason": "文章借 Anthropic S-1 数据点出模型六个月生命周期这一行业规律，读者可据此调整自己的模型选择习惯。",
+          "summary": "Every 的 Context Window 通讯解读 Anthropic 周一提交的上市 S-1 文件，指出其重度依赖最新模型，发布超过六个月的模型收入占比不足 20%。",
+          "sourceName": "Every：最新文章（网页）",
+          "sourceUrl": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now",
+          "aihotUrl": "https://aihot.news/items/p24kw8c06nmy1hzs3spvr4aha",
+          "publishedAt": "2026-10-27T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
+        },
+        {
           "id": "x2h1bp5shee6v508nw7pjtvas",
           "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
           "reason": "作者基于 Anthropic S-1 逐项拆解其逾 4300 亿美元不可撤销算力承诺与收入结构风险，可用于对照招股书原文核实。",
@@ -1322,20 +1308,6 @@
           "sourceUrl": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
           "aihotUrl": "https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg",
           "publishedAt": "2026-10-28T10:56:24.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "gxwqce1swocfo9bp3dgqy3dnj",
-          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "reason": "作者拆解了 SemiAnalysis 播客对 Anthropic S-1 的解读，把毛利、留存和算力承诺等关键数字整理成一份可对照的参考。",
-          "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
-          "sourceName": "X：Saito 硬地骇客 (@SaitoWu)",
-          "sourceUrl": "https://x.com/SaitoWu/status/2115376256929948006",
-          "aihotUrl": "https://aihot.news/items/gxwqce1swocfo9bp3dgqy3dnj",
-          "publishedAt": "2026-10-28T09:32:56.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
