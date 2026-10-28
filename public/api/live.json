@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月28日",
     "demo": false,
-    "updatedAt": "2026-10-28T06:11:46.356Z",
+    "updatedAt": "2026-10-28T13:05:52.530Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 280,
+      "received": 289,
       "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 2,
+          "matched": 3,
           "status": "本次收录"
         },
         {
@@ -145,10 +145,10 @@
     },
     "items": [
       {
-        "id": "aihot-yebtsbm3jry8y8umsrd7ptj1h",
-        "title": "poteto.com 已上线",
-        "brief": "https://www.poteto.com 已上线",
-        "summary": "https://www.poteto.com 已上线",
+        "id": "aihot-yunlw3xkiymz66b6ekv51a9jr",
+        "title": "OpenAI 预告明日有好消息",
+        "brief": "搞定了。",
+        "summary": "搞定了。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -157,19 +157,19 @@
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2115297093879472332",
-        "aggregateUrl": "https://aihot.news/items/yebtsbm3jry8y8umsrd7ptj1h",
+        "sourceUrl": "https://x.com/thsottiaux/status/2115330127886463244",
+        "aggregateUrl": "https://aihot.news/items/yunlw3xkiymz66b6ekv51a9jr",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-28T04:18:22.000Z",
+        "publishedAt": "2026-10-28T06:29:38.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
             {
-              "name": "Tibo Sottiaux",
-              "asset": "/assets/identities/thsottiaux.jpg",
-              "assetSource": "https://x.com/thsottiaux",
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "产品动态",
@@ -182,11 +182,11 @@
         }
       },
       {
-        "id": "aihot-r1of88a7cko1bhntt77o1fntg",
-        "title": "Ethan Mollick 转评 Artificial Analysis v5 指数：开源权重模型与闭源差距扩大至 12 分",
-        "brief": "Ethan Mollick 转发 Artificial Analysis v5 智能指数，该版本改用封闭基准（告别 GDPval-AA）后测得开源权重模型差距进一步拉大。",
-        "summary": "Ethan Mollick 转发 Artificial Analysis v5 智能指数，该版本改用封闭基准（告别 GDPval-AA）后测得开源权重模型差距进一步拉大。",
-        "category": "模型进展",
+        "id": "aihot-q12xuluegg5hipf5mgcczp891",
+        "title": "1930年前数据训练模型的人格神经元实验",
+        "brief": "已有许多非常有趣的实验，通过激活开放 AI 模型中的单个神经元，将其锁定在特定人格上。",
+        "summary": "已有许多非常有趣的实验，通过激活开放 AI 模型中的单个神经元，将其锁定在特定人格上。",
+        "category": "研究进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -194,10 +194,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2115277286123704654",
-        "aggregateUrl": "https://aihot.news/items/r1of88a7cko1bhntt77o1fntg",
+        "sourceUrl": "https://x.com/emollick/status/2115419671877062710",
+        "aggregateUrl": "https://aihot.news/items/q12xuluegg5hipf5mgcczp891",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-28T02:59:39.000Z",
+        "publishedAt": "2026-10-28T12:25:27.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -209,7 +209,7 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "模型进展",
+          "caption": "研究进展",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
@@ -339,38 +339,42 @@
         "sourceUrl": "https://www.anthropic.com/news/s1-sec",
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 14,
-        "participantCount": 97,
-        "latestAt": "2026-10-28T02:05:34.000Z",
+        "sourceCount": 15,
+        "participantCount": 98,
+        "latestAt": "2026-10-28T09:32:56.000Z",
         "expanded": true,
-        "latest": "Anthropic IPO 文件将潜在市场规模估为每年 40 万亿美元",
+        "latest": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
         "reports": [
+          {
+            "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+            "sourceName": "X：Saito 硬地骇客 (@SaitoWu)",
+            "sourceUrl": "https://x.com/SaitoWu/status/2115376256929948006",
+            "aihotUrl": "https://aihot.news/items/gxwqce1swocfo9bp3dgqy3dnj",
+            "publishedAt": "2026-10-28T09:32:56.000Z"
+          },
+          {
+            "title": "Anthropic 上市文件披露四类芯片混用布局，分析师称英伟达定价权或承压",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/018/906.htm",
+            "aihotUrl": "https://aihot.news/items/c5zdgpchio31r2911elz4bbg6",
+            "publishedAt": "2026-10-28T06:35:47.357Z"
+          },
           {
             "title": "Anthropic IPO 文件将潜在市场规模估为每年 40 万亿美元",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
             "sourceUrl": "https://x.com/rohanpaul_ai/status/2115263675124838643",
             "aihotUrl": "https://aihot.news/items/q287d5f1xom92gova9cmmlq5g",
             "publishedAt": "2026-10-28T02:05:34.000Z"
-          },
-          {
-            "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-            "aihotUrl": "https://aihot.news/items/b61d349yqp5mt029fsa0ytbv9",
-            "publishedAt": "2026-10-28T01:15:28.000Z"
-          },
-          {
-            "title": "Anthropic IPO 后的治理结构解析：LTBT 与创始人如何掌握控制权",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-            "aihotUrl": "https://aihot.news/items/lre38a418cjju32u8z01oxq7p",
-            "publishedAt": "2026-10-27T21:38:28.000Z"
           }
         ],
         "related": [
           {
             "title": "Anthropic三季度收入168亿美元，增速放缓",
             "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
+          },
+          {
+            "title": "泄露文件：Anthropic 云算力受限且财务承压",
+            "storyUrl": "https://aihot.news/story/aae8dcdf-5e54-4323-b53e-5e0a336748d5"
           }
         ],
         "visual": {
@@ -394,32 +398,32 @@
         "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
         "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
-        "sourceCount": 15,
-        "participantCount": 58,
-        "latestAt": "2026-10-28T02:43:30.000Z",
+        "sourceCount": 16,
+        "participantCount": 64,
+        "latestAt": "2026-10-28T07:34:58.000Z",
         "expanded": true,
-        "latest": "Ethan Mollick 实测 Genie 4 实时交互式世界生成",
+        "latest": "Google DeepMind 发布 Genie 4 实时世界模型，原生生成音频并由 Gemini 3.8 Flash 在循环中规划",
         "reports": [
+          {
+            "title": "Google DeepMind 发布 Genie 4 世界模型",
+            "sourceName": "X：Testing Catalog (@testingcatalog)",
+            "sourceUrl": "https://x.com/testingcatalog/status/2115382733488746654",
+            "aihotUrl": "https://aihot.news/items/m6pqpwlsbsnmvhysnzidrwouj",
+            "publishedAt": "2026-10-28T09:58:40.000Z"
+          },
+          {
+            "title": "Google DeepMind 发布 Genie 4 实时世界模型，原生生成音频并由 Gemini 3.8 Flash 在循环中规划",
+            "sourceName": "MarkTechPost（RSS）",
+            "sourceUrl": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+            "aihotUrl": "https://aihot.news/items/qbvhe25k7w1yhyi1mrgxthypt",
+            "publishedAt": "2026-10-28T07:34:58.000Z"
+          },
           {
             "title": "Ethan Mollick 实测 Genie 4 实时交互式世界生成",
             "sourceName": "X：Ethan Mollick (@emollick)",
             "sourceUrl": "https://x.com/emollick/status/2115273222061015169",
             "aihotUrl": "https://aihot.news/items/e8t7f31b75h8lnfckkdxqpuzt",
             "publishedAt": "2026-10-28T02:43:30.000Z"
-          },
-          {
-            "title": "Google Genie 4 上线：Gemini Omni 驱动的实时交互世界模型",
-            "sourceName": "X：indigo (@indigox)",
-            "sourceUrl": "https://x.com/indigox/status/2115258086625861733",
-            "aihotUrl": "https://aihot.news/items/a4dviqjrqelpjjfunymjmfz68",
-            "publishedAt": "2026-10-28T01:43:22.000Z"
-          },
-          {
-            "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-            "sourceName": "X：卡兹克 (@Khazix0918)",
-            "sourceUrl": "https://x.com/Khazix0918/status/2115254998074589690",
-            "aihotUrl": "https://aihot.news/items/rd91oz9utgb5d2k9pf9yvu2xo",
-            "publishedAt": "2026-10-28T01:31:05.000Z"
           }
         ],
         "related": [],
@@ -445,7 +449,7 @@
         "aihotUrl": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
         "storyUrl": "https://aihot.news/story/30e9a1ca-aae1-410a-b1c6-53893df398db",
         "sourceCount": 12,
-        "participantCount": 87,
+        "participantCount": 88,
         "latestAt": "2026-10-28T02:01:04.710Z",
         "expanded": true,
         "latest": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为标记率上升",
@@ -528,7 +532,7 @@
         "aihotUrl": "https://aihot.news/items/m4l5hb0qhkn1zzgbqzxe6o510",
         "storyUrl": "https://aihot.news/story/1aa4aaac-b209-467a-98f0-a36afb168840",
         "sourceCount": 1,
-        "participantCount": 34,
+        "participantCount": 35,
         "latestAt": "2026-10-27T00:43:54.000Z",
         "expanded": false,
         "latest": "",
@@ -549,34 +553,6 @@
       },
       {
         "rank": 6,
-        "id": "o0okltd585bcx5lh6bkq53n59",
-        "title": "Apple发布搭载M6芯片的14英寸MacBook Pro",
-        "sourceName": "Apple：Newsroom（RSS）",
-        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "aihotUrl": "https://aihot.news/items/o0okltd585bcx5lh6bkq53n59",
-        "storyUrl": "https://aihot.news/story/93c5795b-86df-47b3-b461-db55ecc172a6",
-        "sourceCount": 1,
-        "participantCount": 18,
-        "latestAt": "2026-10-26T16:00:00.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Apple：Newsroom（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
         "id": "s06bmy25gmrtj73ordbvi4q9e",
         "title": "Anthropic公布药物研发合作，并传收购Mithril Medicine",
         "sourceName": "X：Anthropic (@AnthropicAI)",
@@ -584,7 +560,7 @@
         "aihotUrl": "https://aihot.news/items/s06bmy25gmrtj73ordbvi4q9e",
         "storyUrl": "https://aihot.news/story/37c4f934-a969-4d47-b4ab-d8394ef134ba",
         "sourceCount": 4,
-        "participantCount": 15,
+        "participantCount": 19,
         "latestAt": "2026-10-27T23:24:34.000Z",
         "expanded": false,
         "latest": "",
@@ -604,7 +580,63 @@
         }
       },
       {
+        "rank": 7,
+        "id": "jxc0l26zdfca6g34z6h20tfde",
+        "title": "OpenAI 拟采购谷歌 TPU 并招募工程师适配",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2115261691906978233",
+        "aihotUrl": "https://aihot.news/items/jxc0l26zdfca6g34z6h20tfde",
+        "storyUrl": "https://aihot.news/story/ff626510-f5f9-422e-afef-6eb6511db434",
+        "sourceCount": 2,
+        "participantCount": 14,
+        "latestAt": "2026-10-28T01:59:45.637Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 8,
+        "id": "hlzo912kzi3ltfvxlkandttt3",
+        "title": "Anthropic 一团队取消编程面试，改看原型",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+        "aihotUrl": "https://aihot.news/items/hlzo912kzi3ltfvxlkandttt3",
+        "storyUrl": "https://aihot.news/story/9b5967e4-e1bd-4efa-b770-4fe16ba97740",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-10-28T11:15:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
         "id": "j9n2v4vucqk9r4mzddueppd2v",
         "title": "英伟达与Meta扩大Muse合作并投资30亿美元",
         "sourceName": "NVIDIA：Newsroom（RSS）",
@@ -612,7 +644,7 @@
         "aihotUrl": "https://aihot.news/items/j9n2v4vucqk9r4mzddueppd2v",
         "storyUrl": "https://aihot.news/story/724567a6-6d89-45af-ac21-7ed9e27cce8b",
         "sourceCount": 4,
-        "participantCount": 19,
+        "participantCount": 20,
         "latestAt": "2026-10-27T12:10:02.000Z",
         "expanded": false,
         "latest": "",
@@ -632,34 +664,6 @@
         }
       },
       {
-        "rank": 9,
-        "id": "c05wmjyq8b00trv4dmhnb0gen",
-        "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
-        "sourceName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "aihotUrl": "https://aihot.news/items/c05wmjyq8b00trv4dmhnb0gen",
-        "storyUrl": "https://aihot.news/story/6f5a6f0d-d929-4115-a812-e6c107707ea4",
-        "sourceCount": 5,
-        "participantCount": 25,
-        "latestAt": "2026-10-27T01:12:21.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Hacker News：AI 热帖",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 10,
         "id": "t75a9cjsxenae5ubp1blnv92v",
         "title": "蚂蚁发布灵光2.0，AI助理可跨会话持续办事",
@@ -668,7 +672,7 @@
         "aihotUrl": "https://aihot.news/items/t75a9cjsxenae5ubp1blnv92v",
         "storyUrl": "https://aihot.news/story/8bcf43d2-9952-471e-a73f-aba4f4e855ee",
         "sourceCount": 3,
-        "participantCount": 16,
+        "participantCount": 19,
         "latestAt": "2026-10-27T13:22:20.000Z",
         "expanded": false,
         "latest": "",
@@ -691,8 +695,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-28T06:11:46.356Z",
-    "nextCheckAt": 1793168206356,
+    "checkedAt": "2026-10-28T13:05:52.530Z",
+    "nextCheckAt": 1793193052530,
     "intervalSeconds": 300,
     "message": ""
   }
