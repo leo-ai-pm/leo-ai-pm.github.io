@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月28日",
     "demo": false,
-    "updatedAt": "2026-10-28T00:24:30.405Z",
+    "updatedAt": "2026-10-28T06:11:46.356Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 268,
-      "latestCount": 2,
+      "received": 280,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 2,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 5,
+          "matched": 6,
           "status": "本次收录"
         },
         {
@@ -120,8 +120,8 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "AravSrinivas",
@@ -145,11 +145,48 @@
     },
     "items": [
       {
-        "id": "aihot-j58ieq6crsegfgtaxqmntrz4a",
-        "title": "Ethan Mollick 反驳 AI 炒作论",
-        "brief": "那种反复出现的说法——AI 公司谈论生存性风险是为了制造炒作、抬高股价——一直都很奇怪。",
-        "summary": "那种反复出现的说法——AI 公司谈论生存性风险是为了制造炒作、抬高股价——一直都很奇怪。",
-        "category": "AI 动态",
+        "id": "aihot-yebtsbm3jry8y8umsrd7ptj1h",
+        "title": "poteto.com 已上线",
+        "brief": "https://www.poteto.com 已上线",
+        "summary": "https://www.poteto.com 已上线",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2115297093879472332",
+        "aggregateUrl": "https://aihot.news/items/yebtsbm3jry8y8umsrd7ptj1h",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-28T04:18:22.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Tibo Sottiaux",
+              "asset": "/assets/identities/thsottiaux.jpg",
+              "assetSource": "https://x.com/thsottiaux",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-r1of88a7cko1bhntt77o1fntg",
+        "title": "Ethan Mollick 转评 Artificial Analysis v5 指数：开源权重模型与闭源差距扩大至 12 分",
+        "brief": "Ethan Mollick 转发 Artificial Analysis v5 智能指数，该版本改用封闭基准（告别 GDPval-AA）后测得开源权重模型差距进一步拉大。",
+        "summary": "Ethan Mollick 转发 Artificial Analysis v5 智能指数，该版本改用封闭基准（告别 GDPval-AA）后测得开源权重模型差距进一步拉大。",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -157,10 +194,10 @@
         "sourceGroup": "研究与方法",
         "sourceName": "Ethan Mollick · @emollick",
         "feedName": "X：Ethan Mollick (@emollick)",
-        "sourceUrl": "https://x.com/emollick/status/2115150629836632473",
-        "aggregateUrl": "https://aihot.news/items/j58ieq6crsegfgtaxqmntrz4a",
+        "sourceUrl": "https://x.com/emollick/status/2115277286123704654",
+        "aggregateUrl": "https://aihot.news/items/r1of88a7cko1bhntt77o1fntg",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-27T18:36:22.000Z",
+        "publishedAt": "2026-10-28T02:59:39.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -172,11 +209,48 @@
               "tone": "#e9e4dc"
             }
           ],
-          "caption": "AI 动态",
+          "caption": "模型进展",
           "author": {
             "name": "Ethan Mollick",
             "asset": "/assets/identities/emollick.jpg",
             "assetSource": "https://x.com/emollick",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-sj6of8ptc0hve6g3tmbex8vig",
+        "title": "OpenAI 谈 PHP2Shell 与安全态势",
+        "brief": "了解 PHP2Shell 以及当前新兴的整体安全态势：",
+        "summary": "了解 PHP2Shell 以及当前新兴的整体安全态势：",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "gdb",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Greg Brockman · @gdb",
+        "feedName": "X：Greg Brockman (@gdb)",
+        "sourceUrl": "https://x.com/gdb/status/2115270653452648605",
+        "aggregateUrl": "https://aihot.news/items/sj6of8ptc0hve6g3tmbex8vig",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-28T02:33:18.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "行业观察",
+          "author": {
+            "name": "Greg Brockman",
+            "asset": "/assets/identities/gdb.jpg",
+            "assetSource": "https://x.com/gdb",
             "tone": "#e9e4dc"
           }
         }
@@ -259,61 +333,6 @@
     "ranking": [
       {
         "rank": 1,
-        "id": "xmpu9lo3lbzld3tqsyrcy5e2v",
-        "title": "OpenAI 发布 GPT-6.1 Terra，API 价格减半",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2114800277677092936",
-        "aihotUrl": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
-        "storyUrl": "https://aihot.news/story/30e9a1ca-aae1-410a-b1c6-53893df398db",
-        "sourceCount": 12,
-        "participantCount": 86,
-        "latestAt": "2026-10-27T22:11:24.000Z",
-        "expanded": true,
-        "latest": "OpenAI 称 GPT-6.1 Terra 视觉任务胜过 Astra，快约 47% 且便宜约 92%",
-        "reports": [
-          {
-            "title": "OpenAI 称 GPT-6.1 Terra 视觉任务胜过 Astra，快约 47% 且便宜约 92%",
-            "sourceName": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
-            "sourceUrl": "https://x.com/reach_vb/status/2115204745677672511",
-            "aihotUrl": "https://aihot.news/items/schg3c7q2qw0mb9d9lswdid06",
-            "publishedAt": "2026-10-27T22:11:24.000Z"
-          },
-          {
-            "title": "GPT-6.1 Terra (Max) 以 1671 分位列 Code Arena: WebDev 第 14 名",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2115114146010485036",
-            "aihotUrl": "https://aihot.news/items/zw7gl9m30tt27k35hu744qcct",
-            "publishedAt": "2026-10-27T16:11:23.000Z"
-          },
-          {
-            "title": "GPT-6.1 Terra 实测：操控浏览器与电脑任务",
-            "sourceName": "X：卡兹克 (@Khazix0918)",
-            "sourceUrl": "https://x.com/Khazix0918/status/2115093669657371061",
-            "aihotUrl": "https://aihot.news/items/n8ns9t8r2dj5zei7awhdn4jms",
-            "publishedAt": "2026-10-27T14:50:02.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "OpenAI 年底前或发新模型，旗舰仍需对齐",
-            "storyUrl": "https://aihot.news/story/6f0275ab-048a-44b6-b135-97f958c2103a"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 2,
         "id": "xywgx35ocbe6mzl2pnajw8ruu",
         "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
         "sourceName": "Anthropic：Newsroom（网页）",
@@ -321,31 +340,31 @@
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
         "sourceCount": 14,
-        "participantCount": 92,
-        "latestAt": "2026-10-27T21:38:28.000Z",
+        "participantCount": 97,
+        "latestAt": "2026-10-28T02:05:34.000Z",
         "expanded": true,
-        "latest": "Anthropic IPO 后的治理结构解析：LTBT 与创始人如何掌握控制权",
+        "latest": "Anthropic IPO 文件将潜在市场规模估为每年 40 万亿美元",
         "reports": [
+          {
+            "title": "Anthropic IPO 文件将潜在市场规模估为每年 40 万亿美元",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2115263675124838643",
+            "aihotUrl": "https://aihot.news/items/q287d5f1xom92gova9cmmlq5g",
+            "publishedAt": "2026-10-28T02:05:34.000Z"
+          },
+          {
+            "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+            "aihotUrl": "https://aihot.news/items/b61d349yqp5mt029fsa0ytbv9",
+            "publishedAt": "2026-10-28T01:15:28.000Z"
+          },
           {
             "title": "Anthropic IPO 后的治理结构解析：LTBT 与创始人如何掌握控制权",
             "sourceName": "TechCrunch：AI（RSS）",
             "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
             "aihotUrl": "https://aihot.news/items/lre38a418cjju32u8z01oxq7p",
             "publishedAt": "2026-10-27T21:38:28.000Z"
-          },
-          {
-            "title": "Anthropic S-1 文件披露其 AI 可能勒索人类、产生意识乃至终结人类等风险因素",
-            "sourceName": "Ars Technica：AI（RSS）",
-            "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-            "aihotUrl": "https://aihot.news/items/p0qsqyotghrfc85w9omv8w3no",
-            "publishedAt": "2026-10-27T21:31:14.000Z"
-          },
-          {
-            "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-            "sourceName": "Azeem Azhar：Exponential View（RSS）",
-            "sourceUrl": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-            "aihotUrl": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
-            "publishedAt": "2026-10-27T17:31:56.000Z"
           }
         ],
         "related": [
@@ -368,39 +387,39 @@
         }
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": "l74eacnb38ytvm5hm8om7h7cs",
         "title": "Google DeepMind 发布 Genie 4 世界模型研究预览版",
         "sourceName": "Google DeepMind：Blog（RSS）",
         "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
         "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
-        "sourceCount": 12,
-        "participantCount": 40,
-        "latestAt": "2026-10-27T23:59:42.000Z",
+        "sourceCount": 15,
+        "participantCount": 58,
+        "latestAt": "2026-10-28T02:43:30.000Z",
         "expanded": true,
-        "latest": "Google DeepMind 发布交互式世界模型 Genie 4",
+        "latest": "Ethan Mollick 实测 Genie 4 实时交互式世界生成",
         "reports": [
           {
-            "title": "Google DeepMind 发布交互式世界模型 Genie 4",
-            "sourceName": "X：Demis Hassabis (@demishassabis)",
-            "sourceUrl": "https://x.com/demishassabis/status/2115232001275924722",
-            "aihotUrl": "https://aihot.news/items/d5bif7t1eui5glzu2ofyr6hgs",
-            "publishedAt": "2026-10-27T23:59:42.000Z"
+            "title": "Ethan Mollick 实测 Genie 4 实时交互式世界生成",
+            "sourceName": "X：Ethan Mollick (@emollick)",
+            "sourceUrl": "https://x.com/emollick/status/2115273222061015169",
+            "aihotUrl": "https://aihot.news/items/e8t7f31b75h8lnfckkdxqpuzt",
+            "publishedAt": "2026-10-28T02:43:30.000Z"
           },
           {
-            "title": "谷歌 DeepMind 发布 Genie 4 世界模型，皮查伊称其为迄今最逼真、最具互动性",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/018/718.htm",
-            "aihotUrl": "https://aihot.news/items/rg7byhsw8r3tp5gkcw9nrbdzv",
-            "publishedAt": "2026-10-27T23:42:02.223Z"
+            "title": "Google Genie 4 上线：Gemini Omni 驱动的实时交互世界模型",
+            "sourceName": "X：indigo (@indigox)",
+            "sourceUrl": "https://x.com/indigox/status/2115258086625861733",
+            "aihotUrl": "https://aihot.news/items/a4dviqjrqelpjjfunymjmfz68",
+            "publishedAt": "2026-10-28T01:43:22.000Z"
           },
           {
-            "title": "谷歌发布了目前最强的世界模型 Genie 4 虽然今年谷歌的模型整体比较拉胯 但看 Genie 4 的质感还是非常有希望的",
-            "sourceName": "X：Oran Ge (@oran_ge)",
-            "sourceUrl": "https://x.com/oran_ge/status/2115219518192816138",
-            "aihotUrl": "https://aihot.news/items/exu9ttevjze0t8r5jnwgymf4s",
-            "publishedAt": "2026-10-27T23:10:06.000Z"
+            "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+            "sourceName": "X：卡兹克 (@Khazix0918)",
+            "sourceUrl": "https://x.com/Khazix0918/status/2115254998074589690",
+            "aihotUrl": "https://aihot.news/items/rd91oz9utgb5d2k9pf9yvu2xo",
+            "publishedAt": "2026-10-28T01:31:05.000Z"
           }
         ],
         "related": [],
@@ -418,6 +437,61 @@
         }
       },
       {
+        "rank": 3,
+        "id": "xmpu9lo3lbzld3tqsyrcy5e2v",
+        "title": "OpenAI 发布 GPT-6.1 Terra，API 价格减半",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2114800277677092936",
+        "aihotUrl": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
+        "storyUrl": "https://aihot.news/story/30e9a1ca-aae1-410a-b1c6-53893df398db",
+        "sourceCount": 12,
+        "participantCount": 87,
+        "latestAt": "2026-10-28T02:01:04.710Z",
+        "expanded": true,
+        "latest": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为标记率上升",
+        "reports": [
+          {
+            "title": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为标记率上升",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/018/755.htm",
+            "aihotUrl": "https://aihot.news/items/vm6hvbtz3cgeqnwbphxrgvb2q",
+            "publishedAt": "2026-10-28T02:01:04.710Z"
+          },
+          {
+            "title": "OpenAI 称 GPT-6.1 Terra 视觉任务胜过 Astra，快约 47% 且便宜约 92%",
+            "sourceName": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+            "sourceUrl": "https://x.com/reach_vb/status/2115204745677672511",
+            "aihotUrl": "https://aihot.news/items/schg3c7q2qw0mb9d9lswdid06",
+            "publishedAt": "2026-10-27T22:11:24.000Z"
+          },
+          {
+            "title": "GPT-6.1 Terra (Max) 以 1671 分位列 Code Arena: WebDev 第 14 名",
+            "sourceName": "X：Arena (@arena)",
+            "sourceUrl": "https://x.com/arena/status/2115114146010485036",
+            "aihotUrl": "https://aihot.news/items/zw7gl9m30tt27k35hu744qcct",
+            "publishedAt": "2026-10-27T16:11:23.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "OpenAI 年底前或发新模型，旗舰仍需对齐",
+            "storyUrl": "https://aihot.news/story/6f0275ab-048a-44b6-b135-97f958c2103a"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 4,
         "id": "jxpzj0z4beg1r0cktwzc0tmwe",
         "title": "OpenAI 称三项科学发现，物理证明未公开引呼吁",
@@ -426,7 +500,7 @@
         "aihotUrl": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
         "storyUrl": "https://aihot.news/story/d79cd457-4d11-436e-954d-430d2aab4438",
         "sourceCount": 8,
-        "participantCount": 40,
+        "participantCount": 42,
         "latestAt": "2026-10-27T20:48:58.000Z",
         "expanded": false,
         "latest": "",
@@ -482,7 +556,7 @@
         "aihotUrl": "https://aihot.news/items/o0okltd585bcx5lh6bkq53n59",
         "storyUrl": "https://aihot.news/story/93c5795b-86df-47b3-b461-db55ecc172a6",
         "sourceCount": 1,
-        "participantCount": 16,
+        "participantCount": 18,
         "latestAt": "2026-10-26T16:00:00.000Z",
         "expanded": false,
         "latest": "",
@@ -510,7 +584,7 @@
         "aihotUrl": "https://aihot.news/items/s06bmy25gmrtj73ordbvi4q9e",
         "storyUrl": "https://aihot.news/story/37c4f934-a969-4d47-b4ab-d8394ef134ba",
         "sourceCount": 4,
-        "participantCount": 13,
+        "participantCount": 15,
         "latestAt": "2026-10-27T23:24:34.000Z",
         "expanded": false,
         "latest": "",
@@ -531,6 +605,34 @@
       },
       {
         "rank": 8,
+        "id": "j9n2v4vucqk9r4mzddueppd2v",
+        "title": "英伟达与Meta扩大Muse合作并投资30亿美元",
+        "sourceName": "NVIDIA：Newsroom（RSS）",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+        "aihotUrl": "https://aihot.news/items/j9n2v4vucqk9r4mzddueppd2v",
+        "storyUrl": "https://aihot.news/story/724567a6-6d89-45af-ac21-7ed9e27cce8b",
+        "sourceCount": 4,
+        "participantCount": 19,
+        "latestAt": "2026-10-27T12:10:02.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
         "id": "c05wmjyq8b00trv4dmhnb0gen",
         "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
         "sourceName": "Hacker News：AI 热帖",
@@ -551,34 +653,6 @@
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "j9n2v4vucqk9r4mzddueppd2v",
-        "title": "英伟达与Meta扩大Muse合作并投资30亿美元",
-        "sourceName": "NVIDIA：Newsroom（RSS）",
-        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-        "aihotUrl": "https://aihot.news/items/j9n2v4vucqk9r4mzddueppd2v",
-        "storyUrl": "https://aihot.news/story/724567a6-6d89-45af-ac21-7ed9e27cce8b",
-        "sourceCount": 4,
-        "participantCount": 17,
-        "latestAt": "2026-10-27T12:10:02.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
             }
           ],
           "caption": "热点",
@@ -617,8 +691,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-28T00:24:30.405Z",
-    "nextCheckAt": 1793147370405,
+    "checkedAt": "2026-10-28T06:11:46.356Z",
+    "nextCheckAt": 1793168206356,
     "intervalSeconds": 300,
     "message": ""
   }
