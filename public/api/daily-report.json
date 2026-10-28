@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-27T20:55:10.333Z",
+  "checkedAt": "2026-10-28T00:24:31.881Z",
   "message": "",
   "report": {
-    "date": "2026-10-27",
-    "dateLabel": "2026年10月27日",
-    "weekday": "周二",
-    "issue": 44,
-    "generatedAt": "2026-10-27T00:00:37.318Z",
-    "aihotUrl": "https://aihot.news/daily/2026-10-27",
+    "date": "2026-10-28",
+    "dateLabel": "2026年10月28日",
+    "weekday": "周三",
+    "issue": 45,
+    "generatedAt": "2026-10-28T00:00:06.513Z",
+    "aihotUrl": "https://aihot.news/daily/2026-10-28",
     "lead": {
-      "title": "Anthropic 向 SEC 提交 S-1 文件启动 IPO，拟以代码 ANT 登陆纳斯达克",
-      "summary": "Anthropic 向美国 SEC 提交 S-1 注册声明，推进 Class A 普通股的拟议 IPO，计划在纳斯达克全球精选市场以代码 ANT 上市。",
-      "aihotUrl": "https://aihot.news/daily/2026-10-27",
+      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+      "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。",
+      "aihotUrl": "https://aihot.news/daily/2026-10-28",
       "visual": {
         "entities": [
           {
@@ -31,11 +31,18 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-            "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。",
-            "sourceName": "X：Tibo (@thsottiaux)",
-            "sourceUrl": "https://x.com/thsottiaux/status/2114800277677092936",
-            "aihotUrl": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v"
+            "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+            "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
+            "sourceName": "Google DeepMind：Blog（RSS）",
+            "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+            "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs"
+          },
+          {
+            "title": "Liquid AI 发布 LFM3 多模态模型家族，主打专用智能与端侧部署",
+            "summary": "Liquid AI 发布新一代 Liquid Foundation Models 家族 LFM3，首个版本包含六款约 2B 参数的模型，覆盖文本、视觉、音频、omni 和决策模态，全部基于 LFM3-1.7B-Base，预训练使用 22T tokens。",
+            "sourceName": "Liquid AI 模型与工程博客（网页）",
+            "sourceUrl": "https://www.liquid.ai/blog/lfm3",
+            "aihotUrl": "https://aihot.news/items/vx4t4ldzajj3lhb8luhg9dy9s"
           }
         ]
       },
@@ -43,11 +50,25 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-            "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
-            "sourceName": "Gamma Changelog",
-            "sourceUrl": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-            "aihotUrl": "https://aihot.news/items/tckw64et369c0brghxzwke9qe"
+            "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+            "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+            "sourceName": "Replit：Blog（RSS）",
+            "sourceUrl": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+            "aihotUrl": "https://aihot.news/items/qoz4pwew5rsp1idirgbhtpj9d"
+          },
+          {
+            "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999",
+            "summary": "Apple 发布搭载全新 M6 芯片的 14 英寸 MacBook Pro，配备 12 核 CPU 和 12 核 GPU，相比 M5 图形性能最高快 30%、端侧 AI 工作负载最高快 25%，电池续航最长 24 小时。",
+            "sourceName": "Apple：Newsroom（RSS）",
+            "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+            "aihotUrl": "https://aihot.news/items/o0okltd585bcx5lh6bkq53n59"
+          },
+          {
+            "title": "Apple Creator Studio 推出更新：Final Cut Pro 集成 MotionVFX，Keynote、Pages、Numbers 新增智能助手与 MCP 支持",
+            "summary": "Apple 为 Creator Studio 推出更新，Final Cut Pro for Mac 内置 MotionVFX 视觉效果库并接入含视频素材的 Content Hub。",
+            "sourceName": "Apple：Newsroom（RSS）",
+            "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+            "aihotUrl": "https://aihot.news/items/z7h3xpbyfp9laquaq2njijzfo"
           }
         ]
       },
@@ -55,25 +76,39 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "Anthropic 向 SEC 提交 S-1 文件启动 IPO，拟以代码 ANT 登陆纳斯达克",
-            "summary": "Anthropic 向美国 SEC 提交 S-1 注册声明，推进 Class A 普通股的拟议 IPO，计划在纳斯达克全球精选市场以代码 ANT 上市。",
-            "sourceName": "Anthropic：Newsroom（网页）",
-            "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-            "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu"
+            "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+            "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。",
+            "sourceName": "X：卡兹克 (@Khazix0918)",
+            "sourceUrl": "https://x.com/Khazix0918/status/2114878401190506902",
+            "aihotUrl": "https://aihot.news/items/t6evqsenxfytsi8wl7h1urjxr"
           },
           {
-            "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-            "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。",
+            "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
+            "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+            "aihotUrl": "https://aihot.news/items/dk0g487d7s2n5hq9ex5bim1sy"
+          },
+          {
+            "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+            "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-            "aihotUrl": "https://aihot.news/items/j7spe7uspojyywb1pkgxn23hi"
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+            "aihotUrl": "https://aihot.news/items/o5s4s2z9njz29hgd7im06gzrf"
           },
           {
-            "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-            "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。",
-            "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-            "sourceUrl": "https://x.com/ClementDelangue/status/2114713576296300604",
-            "aihotUrl": "https://aihot.news/items/oq7hr7grajldk8bmtv95e180v"
+            "title": "NVIDIA 与 Meta 扩大 Muse 模型合作并投资 30 亿美元",
+            "summary": "NVIDIA 与 Meta 宣布扩大围绕 Muse 及 Muse 系列模型的合作，优化推理与训练性能，并考虑在 NVIDIA OpenShell 参考架构和 NVIDIA Sentry 监控等方向继续合作。",
+            "sourceName": "NVIDIA：Newsroom（RSS）",
+            "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+            "aihotUrl": "https://aihot.news/items/j9n2v4vucqk9r4mzddueppd2v"
+          },
+          {
+            "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
+            "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
+            "sourceName": "Anthropic：Newsroom（网页）",
+            "sourceUrl": "https://www.anthropic.com/news/expanding-partnership-gsa",
+            "aihotUrl": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok"
           }
         ]
       },
@@ -81,32 +116,11 @@
         "label": "论文研究",
         "items": [
           {
-            "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-            "summary": "Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。",
-            "sourceName": "Hacker News：AI 热帖",
-            "sourceUrl": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-            "aihotUrl": "https://aihot.news/items/c05wmjyq8b00trv4dmhnb0gen"
-          },
-          {
-            "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
-            "summary": "OpenAI 宣布三项涉及数学、计算机科学和物理的重大发现，包括证明局部光滑猜想、反驳指数时间假说（ETH），以及涉及 QCD 的量子场论存在性证明。",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-            "aihotUrl": "https://aihot.news/items/g635iqfo6m6mw2m4i2e2xn1xs"
-          },
-          {
-            "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
-            "summary": "OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取得三项成果，包括证明各维度的 local smoothing 猜想（进而解决 Kakeya 猜想与 Stein 限制猜想）、在 Lean 中验证 ETH 为假、以及给出 QCD 与纯 Yang–Mills 理论的严格存在性证明。",
-            "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-            "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-            "aihotUrl": "https://aihot.news/items/x7jvppwrm1ldjd93v0jvsfd9c"
-          },
-          {
-            "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
-            "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
-            "sourceName": "英国 AI Security Institute：Blog（网页）",
-            "sourceUrl": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
-            "aihotUrl": "https://aihot.news/items/w5optivkpl1pchxn85qaknu3d"
+            "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
+            "summary": "Anthropic 发表研究，让 50 名有因果推断经验的专业分析师用 Claude Code（Claude Opus 4.8）完成一项统计分析任务，并在分析师不知情的情况下用掷硬币随机设定智能体在四个分析决策上的倾向。",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/agents-judgment-calls",
+            "aihotUrl": "https://aihot.news/items/d0k8x9588e62wlqnfoq3bmtq0"
           }
         ]
       },
@@ -114,72 +128,87 @@
         "label": "技巧与观点",
         "items": [
           {
-            "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
-            "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
-            "sourceName": "Browser Use",
-            "sourceUrl": "https://browser-use.com/posts/coding-agent-logged-in-chrome",
-            "aihotUrl": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h"
-          },
-          {
-            "title": "SGLang 披露并修复 PD 分离服务中的跨请求 KVCache 竞态问题",
-            "summary": "SGLang 团队与 Cloudflare 协调披露 2026 年 8 月 27 日至 9 月 9 日影响 Workers AI 上 @cf/zai-org/glm-5.3 的跨请求 KVCache 暴露问题。",
-            "sourceName": "LMSYS Blog",
-            "sourceUrl": "https://www.lmsys.org/blog/2026-10-26-cf-security",
-            "aihotUrl": "https://aihot.news/items/bb39zcs7eu91fi0ze136tayg2"
-          },
-          {
-            "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-            "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
-            "sourceName": "X：卡兹克 (@Khazix0918)",
-            "sourceUrl": "https://x.com/Khazix0918/status/2114579883527655853",
-            "aihotUrl": "https://aihot.news/items/o1r046h1yurwlvv536eergn57"
+            "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+            "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+            "sourceName": "LangChain：Blog（RSS）",
+            "sourceUrl": "https://www.langchain.com/blog/design-agent",
+            "aihotUrl": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
         "summary": "",
-        "sourceName": "X：Unsloth (@UnslothAI)",
-        "sourceUrl": "https://x.com/UnslothAI/status/2114730104228286936",
-        "aihotUrl": "https://aihot.news/items/pkw262qrrom8w7qv6lq7nquxh",
-        "publishedAt": "2026-10-26T14:45:21.000Z"
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+        "aihotUrl": "https://aihot.news/items/xuhb122ijbtqkri3h6er2m21y",
+        "publishedAt": "2026-10-27T12:37:24.000Z"
       },
       {
-        "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+        "title": "Anthropic 公布 Claude 加速药物研发的早期进展与六个合作案例",
         "summary": "",
-        "sourceName": "X：可灵 Kling AI (@Kling_ai)",
-        "sourceUrl": "https://x.com/Kling_ai/status/2114574035468386746",
-        "aihotUrl": "https://aihot.news/items/he5bxeygbly5kef64gvs1tk6m",
-        "publishedAt": "2026-10-26T04:25:11.000Z"
+        "sourceName": "Anthropic：Research（发表成果 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/research/early-progress-drug-development",
+        "aihotUrl": "https://aihot.news/items/czkv5svlodxelpz10tt5fpnk7",
+        "publishedAt": "2026-10-26T16:00:00.000Z"
       },
       {
-        "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
+        "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定",
         "summary": "",
-        "sourceName": "Epoch AI：Gradient Updates（RSS）",
-        "sourceUrl": "https://epochai.substack.com/p/can-ai-automate-epoch",
-        "aihotUrl": "https://aihot.news/items/dgly2r4fwb6y80t3im8yqqvt1",
-        "publishedAt": "2026-10-26T16:33:24.000Z"
+        "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+        "sourceUrl": "https://allenai.org/blog/novelty-bench",
+        "aihotUrl": "https://aihot.news/items/p92a4pkxkheznj9nmt50o08l6",
+        "publishedAt": "2026-10-27T08:00:00.000Z"
       },
       {
-        "title": "Krea 推出面向 Adobe Premiere 的插件",
+        "title": "Microsoft AI 发布 MAI Image 2.7 图像编辑模型，登 Arena 第 3 和 Artificial Analysis 第 2",
         "summary": "",
-        "sourceName": "X：Krea AI (@krea_ai)",
-        "sourceUrl": "https://x.com/krea_ai/status/2114741513867395527",
-        "aihotUrl": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc",
-        "publishedAt": "2026-10-26T15:30:41.000Z"
+        "sourceName": "Microsoft AI：官方博客（网页）",
+        "sourceUrl": "https://microsoft.ai/news/mai-image-2-7-debut/",
+        "aihotUrl": "https://aihot.news/items/qlth5swcs2fjjk1wr21g0pi42",
+        "publishedAt": "2026-10-27T15:10:00.000Z"
       },
       {
-        "title": "英国 AISI 实测 ESM-2 预训练数据过滤可削弱目标能力但约 80 美元算力即可恢复",
+        "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
         "summary": "",
-        "sourceName": "英国 AI Security Institute：Blog（网页）",
-        "sourceUrl": "https://www.aisi.gov.uk/blog/pretraining-data-filtering-in-open-weight-biological-models",
-        "aihotUrl": "https://aihot.news/items/xm6i4tcgyby0bditot3bz9x8x",
-        "publishedAt": "2026-10-25T23:00:00.000Z"
+        "sourceName": "a16z：News（RSS）",
+        "sourceUrl": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+        "aihotUrl": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap",
+        "publishedAt": "2026-10-27T14:02:28.000Z"
+      },
+      {
+        "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+        "summary": "",
+        "sourceName": "X：Gemini (@GeminiApp)",
+        "sourceUrl": "https://x.com/GeminiApp/status/2115171788812669225",
+        "aihotUrl": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
+        "publishedAt": "2026-10-27T20:00:27.000Z"
+      },
+      {
+        "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
+        "summary": "",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "aihotUrl": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1",
+        "publishedAt": "2026-10-27T07:00:00.000Z"
+      },
+      {
+        "title": "Cursor design mode 新增 Annotate 功能",
+        "summary": "",
+        "sourceName": "X：Cursor (@cursor_ai)",
+        "sourceUrl": "https://x.com/cursor_ai/status/2115159585548021814",
+        "aihotUrl": "https://aihot.news/items/mb0ybs7gnyw4eeszyjo2optzy",
+        "publishedAt": "2026-10-27T19:11:57.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-10-28",
+        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+        "aihotUrl": "https://aihot.news/daily/2026-10-28"
+      },
       {
         "date": "2026-10-27",
         "title": "Anthropic 向 SEC 提交 S-1 文件启动 IPO，拟以代码 ANT 登陆纳斯达克",
@@ -279,13 +308,8 @@
         "date": "2026-10-08",
         "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
         "aihotUrl": "https://aihot.news/daily/2026-10-08"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
-        "aihotUrl": "https://aihot.news/daily/2026-10-07"
       }
     ],
-    "shapedAt": "2026-10-27T20:55:10.333Z"
+    "shapedAt": "2026-10-28T00:24:31.881Z"
   }
 }

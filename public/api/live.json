@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月28日",
     "demo": false,
-    "updatedAt": "2026-10-27T20:55:08.203Z",
+    "updatedAt": "2026-10-28T00:24:30.405Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 263,
-      "latestCount": 4,
+      "received": 268,
+      "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -93,7 +93,7 @@
           "group": "研究与方法",
           "focus": "AI 使用实验与工作方式",
           "url": "https://x.com/emollick",
-          "matched": 7,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -120,8 +120,8 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "AravSrinivas",
@@ -138,8 +138,8 @@
           "group": "研究与方法",
           "focus": "开源模型与研究生态",
           "url": "https://x.com/Thom_Wolf",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         }
       ]
     },
@@ -182,49 +182,6 @@
         }
       },
       {
-        "id": "aihot-yl5dpjt1yza73dtpsjuaqjodu",
-        "title": "Greg Brockman 宣布 OpenAI 在数学、复杂度理论和量子场论领域的三项科学发现",
-        "brief": "Greg Brockman 宣布三项重大科学发现，分别属于数学（调和分析）、计算机科学（复杂度理论）和物理（量子场论）。",
-        "summary": "Greg Brockman 宣布三项重大科学发现，分别属于数学（调和分析）、计算机科学（复杂度理论）和物理（量子场论）。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "gdb",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Greg Brockman · @gdb",
-        "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2114837059462627533",
-        "aggregateUrl": "https://aihot.news/items/yl5dpjt1yza73dtpsjuaqjodu",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-26T21:50:21.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Greg Brockman",
-              "asset": "/assets/identities/gdb.jpg",
-              "assetSource": "https://x.com/gdb",
-              "tone": "#e9e4dc"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "行业观察",
-          "author": {
-            "name": "Greg Brockman",
-            "asset": "/assets/identities/gdb.jpg",
-            "assetSource": "https://x.com/gdb",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
         "id": "aihot-hfwfn38qmhc4iyo1fn3n9930r",
         "title": "Perplexity Computer 可先跑模拟再实测",
         "brief": "你可以用 Perplexity Computer 先在模拟中运行，再到真实世界中测试。",
@@ -257,49 +214,6 @@
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
             "assetSource": "https://x.com/AravSrinivas",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-jlp96npmmoozg93d3m9usavgs",
-        "title": "Thomas Wolf：复现 OpenAI 智能体隐蔽通信研究时开放权重模型比闭源模型更能胜任",
-        "brief": "Thomas Wolf 转评开发者 @rauchg 的 cpu-chat 复现项目，该项目在多个 Firecracker microVM 之间通过 CPU 争用、缓存逐出时序和 DRAM 带宽争用三种机制实现智能体隐蔽通信，绕过了 Firecracker 的生产建议。",
-        "summary": "Thomas Wolf 转评开发者 @rauchg 的 cpu-chat 复现项目，该项目在多个 Firecracker microVM 之间通过 CPU 争用、缓存逐出时序和 DRAM 带宽争用三种机制实现智能体隐蔽通信，绕过了 Firecracker 的生产建议。",
-        "category": "AI 动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "Thom_Wolf",
-        "sourceGroup": "研究与方法",
-        "sourceName": "Thomas Wolf · @Thom_Wolf",
-        "feedName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "sourceUrl": "https://x.com/Thom_Wolf/status/2114840750936436837",
-        "aggregateUrl": "https://aihot.news/items/jlp96npmmoozg93d3m9usavgs",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-26T22:05:01.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Thomas Wolf",
-              "asset": "/assets/identities/thom_wolf.jpg",
-              "assetSource": "https://x.com/Thom_Wolf",
-              "tone": "#e9e4dc"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "AI 动态",
-          "author": {
-            "name": "Thomas Wolf",
-            "asset": "/assets/identities/thom_wolf.jpg",
-            "assetSource": "https://x.com/Thom_Wolf",
             "tone": "#e9e4dc"
           }
         }
@@ -352,11 +266,18 @@
         "aihotUrl": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
         "storyUrl": "https://aihot.news/story/30e9a1ca-aae1-410a-b1c6-53893df398db",
         "sourceCount": 12,
-        "participantCount": 85,
-        "latestAt": "2026-10-27T16:11:23.000Z",
+        "participantCount": 86,
+        "latestAt": "2026-10-27T22:11:24.000Z",
         "expanded": true,
-        "latest": "GPT-6.1 Terra (Max) 以 1671 分位列 Code Arena: WebDev 第 14 名",
+        "latest": "OpenAI 称 GPT-6.1 Terra 视觉任务胜过 Astra，快约 47% 且便宜约 92%",
         "reports": [
+          {
+            "title": "OpenAI 称 GPT-6.1 Terra 视觉任务胜过 Astra，快约 47% 且便宜约 92%",
+            "sourceName": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+            "sourceUrl": "https://x.com/reach_vb/status/2115204745677672511",
+            "aihotUrl": "https://aihot.news/items/schg3c7q2qw0mb9d9lswdid06",
+            "publishedAt": "2026-10-27T22:11:24.000Z"
+          },
           {
             "title": "GPT-6.1 Terra (Max) 以 1671 分位列 Code Arena: WebDev 第 14 名",
             "sourceName": "X：Arena (@arena)",
@@ -370,13 +291,6 @@
             "sourceUrl": "https://x.com/Khazix0918/status/2115093669657371061",
             "aihotUrl": "https://aihot.news/items/n8ns9t8r2dj5zei7awhdn4jms",
             "publishedAt": "2026-10-27T14:50:02.000Z"
-          },
-          {
-            "title": "OpenAI 发布 GPT-6.1 Terra，价格降 50%",
-            "sourceName": "X：Testing Catalog (@testingcatalog)",
-            "sourceUrl": "https://x.com/testingcatalog/status/2115017548651462990",
-            "aihotUrl": "https://aihot.news/items/u6pg4jgg776cvm1x1wm2jza3d",
-            "publishedAt": "2026-10-27T09:47:33.000Z"
           }
         ],
         "related": [
@@ -407,31 +321,31 @@
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
         "sourceCount": 14,
-        "participantCount": 91,
-        "latestAt": "2026-10-27T17:31:56.000Z",
+        "participantCount": 92,
+        "latestAt": "2026-10-27T21:38:28.000Z",
         "expanded": true,
-        "latest": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+        "latest": "Anthropic IPO 后的治理结构解析：LTBT 与创始人如何掌握控制权",
         "reports": [
+          {
+            "title": "Anthropic IPO 后的治理结构解析：LTBT 与创始人如何掌握控制权",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+            "aihotUrl": "https://aihot.news/items/lre38a418cjju32u8z01oxq7p",
+            "publishedAt": "2026-10-27T21:38:28.000Z"
+          },
+          {
+            "title": "Anthropic S-1 文件披露其 AI 可能勒索人类、产生意识乃至终结人类等风险因素",
+            "sourceName": "Ars Technica：AI（RSS）",
+            "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+            "aihotUrl": "https://aihot.news/items/p0qsqyotghrfc85w9omv8w3no",
+            "publishedAt": "2026-10-27T21:31:14.000Z"
+          },
           {
             "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
             "sourceName": "Azeem Azhar：Exponential View（RSS）",
             "sourceUrl": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
             "aihotUrl": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
             "publishedAt": "2026-10-27T17:31:56.000Z"
-          },
-          {
-            "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-            "aihotUrl": "https://aihot.news/items/x9a9nhbuq2ncarw5i41jhryjc",
-            "publishedAt": "2026-10-27T16:51:22.000Z"
-          },
-          {
-            "title": "Anthropic 在 S-1 文件中重申永远不会在 Claude 对话中展示广告",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/018/641.htm",
-            "aihotUrl": "https://aihot.news/items/kcf7zccr5zy620rfc3d7ufsbe",
-            "publishedAt": "2026-10-27T11:37:54.953Z"
           }
         ],
         "related": [
@@ -461,32 +375,32 @@
         "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
         "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
-        "sourceCount": 10,
-        "participantCount": 33,
-        "latestAt": "2026-10-27T17:25:09.000Z",
+        "sourceCount": 12,
+        "participantCount": 40,
+        "latestAt": "2026-10-27T23:59:42.000Z",
         "expanded": true,
-        "latest": "Google DeepMind 发布 Genie 4 实时世界模型",
+        "latest": "Google DeepMind 发布交互式世界模型 Genie 4",
         "reports": [
           {
-            "title": "Google DeepMind 发布 Genie 4 实时世界模型",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
-            "aihotUrl": "https://aihot.news/items/p9lvo7nzdvuv6aspokwq01iz8",
-            "publishedAt": "2026-10-27T17:25:09.000Z"
+            "title": "Google DeepMind 发布交互式世界模型 Genie 4",
+            "sourceName": "X：Demis Hassabis (@demishassabis)",
+            "sourceUrl": "https://x.com/demishassabis/status/2115232001275924722",
+            "aihotUrl": "https://aihot.news/items/d5bif7t1eui5glzu2ofyr6hgs",
+            "publishedAt": "2026-10-27T23:59:42.000Z"
           },
           {
-            "title": "Google DeepMind 发布实时世界模型 Genie 4，支持原生音频与实时提示词编辑",
-            "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-            "sourceUrl": "https://x.com/_philschmid/status/2115129878697697566",
-            "aihotUrl": "https://aihot.news/items/qps0q2mwa2o75qrcy5s94mn4t",
-            "publishedAt": "2026-10-27T17:13:54.000Z"
+            "title": "谷歌 DeepMind 发布 Genie 4 世界模型，皮查伊称其为迄今最逼真、最具互动性",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/018/718.htm",
+            "aihotUrl": "https://aihot.news/items/rg7byhsw8r3tp5gkcw9nrbdzv",
+            "publishedAt": "2026-10-27T23:42:02.223Z"
           },
           {
-            "title": "Genie 4 世界模型即将登陆 API",
-            "sourceName": "X：Logan Kilpatrick (@OfficialLoganK)",
-            "sourceUrl": "https://x.com/OfficialLoganK/status/2115129174826647863",
-            "aihotUrl": "https://aihot.news/items/eq28r5gyu02lqdqlklzeihm8c",
-            "publishedAt": "2026-10-27T17:11:07.000Z"
+            "title": "谷歌发布了目前最强的世界模型 Genie 4 虽然今年谷歌的模型整体比较拉胯 但看 Genie 4 的质感还是非常有希望的",
+            "sourceName": "X：Oran Ge (@oran_ge)",
+            "sourceUrl": "https://x.com/oran_ge/status/2115219518192816138",
+            "aihotUrl": "https://aihot.news/items/exu9ttevjze0t8r5jnwgymf4s",
+            "publishedAt": "2026-10-27T23:10:06.000Z"
           }
         ],
         "related": [],
@@ -506,14 +420,14 @@
       {
         "rank": 4,
         "id": "jxpzj0z4beg1r0cktwzc0tmwe",
-        "title": "OpenAI 称 AI 三项科学发现，物理证明未公开引呼吁",
+        "title": "OpenAI 称三项科学发现，物理证明未公开引呼吁",
         "sourceName": "IT之家·人工智能",
         "sourceUrl": "https://www.ithome.com/1/018/203.htm",
         "aihotUrl": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
         "storyUrl": "https://aihot.news/story/d79cd457-4d11-436e-954d-430d2aab4438",
         "sourceCount": 8,
         "participantCount": 40,
-        "latestAt": "2026-10-27T17:08:08.000Z",
+        "latestAt": "2026-10-27T20:48:58.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -561,6 +475,62 @@
       },
       {
         "rank": 6,
+        "id": "o0okltd585bcx5lh6bkq53n59",
+        "title": "Apple发布搭载M6芯片的14英寸MacBook Pro",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+        "aihotUrl": "https://aihot.news/items/o0okltd585bcx5lh6bkq53n59",
+        "storyUrl": "https://aihot.news/story/93c5795b-86df-47b3-b461-db55ecc172a6",
+        "sourceCount": 1,
+        "participantCount": 16,
+        "latestAt": "2026-10-26T16:00:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Apple：Newsroom（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "s06bmy25gmrtj73ordbvi4q9e",
+        "title": "Anthropic公布药物研发合作，并传收购Mithril Medicine",
+        "sourceName": "X：Anthropic (@AnthropicAI)",
+        "sourceUrl": "https://x.com/AnthropicAI/status/2115178675050307942",
+        "aihotUrl": "https://aihot.news/items/s06bmy25gmrtj73ordbvi4q9e",
+        "storyUrl": "https://aihot.news/story/37c4f934-a969-4d47-b4ab-d8394ef134ba",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-10-27T23:24:34.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
         "id": "c05wmjyq8b00trv4dmhnb0gen",
         "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
         "sourceName": "Hacker News：AI 热帖",
@@ -588,7 +558,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 9,
         "id": "j9n2v4vucqk9r4mzddueppd2v",
         "title": "英伟达与Meta扩大Muse合作并投资30亿美元",
         "sourceName": "NVIDIA：Newsroom（RSS）",
@@ -596,7 +566,7 @@
         "aihotUrl": "https://aihot.news/items/j9n2v4vucqk9r4mzddueppd2v",
         "storyUrl": "https://aihot.news/story/724567a6-6d89-45af-ac21-7ed9e27cce8b",
         "sourceCount": 4,
-        "participantCount": 16,
+        "participantCount": 17,
         "latestAt": "2026-10-27T12:10:02.000Z",
         "expanded": false,
         "latest": "",
@@ -616,35 +586,7 @@
         }
       },
       {
-        "rank": 8,
-        "id": "o0okltd585bcx5lh6bkq53n59",
-        "title": "Apple发布搭载M6芯片的14英寸MacBook Pro",
-        "sourceName": "Apple：Newsroom（RSS）",
-        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "aihotUrl": "https://aihot.news/items/o0okltd585bcx5lh6bkq53n59",
-        "storyUrl": "https://aihot.news/story/93c5795b-86df-47b3-b461-db55ecc172a6",
-        "sourceCount": 1,
-        "participantCount": 15,
-        "latestAt": "2026-10-26T16:00:00.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Apple：Newsroom（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "id": "t75a9cjsxenae5ubp1blnv92v",
         "title": "蚂蚁发布灵光2.0，AI助理可跨会话持续办事",
         "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
@@ -670,41 +612,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 10,
-        "id": "g43csy4qvgx4ezf0475bmdglv",
-        "title": "百度开源 Unlimited OCR 2 长文档识别模型",
-        "sourceName": "X：百度 Baidu (@Baidu_Inc)",
-        "sourceUrl": "https://x.com/Baidu_Inc/status/2114910381311512987",
-        "aihotUrl": "https://aihot.news/items/g43csy4qvgx4ezf0475bmdglv",
-        "storyUrl": "https://aihot.news/story/4facbbbf-0921-42f1-912f-3e45529c365f",
-        "sourceCount": 3,
-        "participantCount": 15,
-        "latestAt": "2026-10-27T12:57:42.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：百度 Baidu (@Baidu_Inc)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-27T20:55:08.203Z",
-    "nextCheckAt": 1793134808203,
+    "checkedAt": "2026-10-28T00:24:30.405Z",
+    "nextCheckAt": 1793147370405,
     "intervalSeconds": 300,
     "message": ""
   }
