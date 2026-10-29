@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-29T15:30:59.705Z",
-      "lastSuccessAt": "2026-10-29T15:30:59.705Z",
-      "nextCheckAt": 1793291459705,
+      "checkedAt": "2026-10-29T20:29:37.602Z",
+      "lastSuccessAt": "2026-10-29T20:29:37.602Z",
+      "nextCheckAt": 1793309377602,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-29T15:30:59.706Z",
-      "lastSuccessAt": "2026-10-29T15:30:59.706Z",
-      "nextCheckAt": 1793291459706,
       "status": "ok",
+      "nextCheckAt": 1793309377603,
+      "checkedAt": "2026-10-29T20:29:37.603Z",
+      "lastSuccessAt": "2026-10-29T20:29:37.603Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-29T15:30:59.708Z",
-      "lastSuccessAt": "2026-10-29T15:30:59.708Z",
-      "nextCheckAt": 1793291459708,
+      "checkedAt": "2026-10-29T20:29:37.604Z",
+      "lastSuccessAt": "2026-10-29T20:29:37.604Z",
+      "nextCheckAt": 1793309377604,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-29T15:30:59.922Z",
-      "lastSuccessAt": "2026-10-29T15:30:59.922Z",
-      "nextCheckAt": 1793291459922,
       "status": "ok",
+      "nextCheckAt": 1793309377863,
+      "checkedAt": "2026-10-29T20:29:37.863Z",
+      "lastSuccessAt": "2026-10-29T20:29:37.863Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793291459705,
+  "nextCheckAt": 1793309377602,
   "refreshing": false,
   "items": [
     {
@@ -488,7 +488,7 @@
       "platform": "英文官方博客",
       "brief": "Learn practical hallucination detection methods for AI workflows. See how your team can identify unreliable outputs before they spread.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
