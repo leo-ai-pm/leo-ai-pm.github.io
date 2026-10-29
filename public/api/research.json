@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-29T08:37:12.043Z",
-      "lastSuccessAt": "2026-10-29T08:37:12.043Z",
-      "nextCheckAt": 1793266632043,
+      "checkedAt": "2026-10-29T15:30:59.705Z",
+      "lastSuccessAt": "2026-10-29T15:30:59.705Z",
+      "nextCheckAt": 1793291459705,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-29T08:37:12.044Z",
-      "lastSuccessAt": "2026-10-29T08:37:12.044Z",
-      "nextCheckAt": 1793266632044,
+      "checkedAt": "2026-10-29T15:30:59.706Z",
+      "lastSuccessAt": "2026-10-29T15:30:59.706Z",
+      "nextCheckAt": 1793291459706,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-29T08:37:12.045Z",
-      "lastSuccessAt": "2026-10-29T08:37:12.045Z",
-      "nextCheckAt": 1793266632045,
+      "checkedAt": "2026-10-29T15:30:59.708Z",
+      "lastSuccessAt": "2026-10-29T15:30:59.708Z",
+      "nextCheckAt": 1793291459708,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-10-29T08:37:12.162Z",
-      "lastSuccessAt": "2026-10-29T08:37:12.162Z",
-      "nextCheckAt": 1793266632162,
+      "checkedAt": "2026-10-29T15:30:59.922Z",
+      "lastSuccessAt": "2026-10-29T15:30:59.922Z",
+      "nextCheckAt": 1793291459922,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793266632043,
+  "nextCheckAt": 1793291459705,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6486169.html",
-      "title": "首个记忆原生大模型开源，36B 本地部署实测：成功把规矩”刻”进脑子",
-      "summary": "AI 编程最痛的不是写不出代码，而是换个会话就忘光。MemT-1 想做的事很直接：把踩过的坑写进模型权重，36B 版本在单卡 A100 上跑通，长程任务里到底管不管用，这篇给了实测。 做智能体或者日常用 Cursor、Claude Code、Windsurf 等 AI 辅助写代码的老铁们，大概率都经历过同一种“内伤”： 你在项目根目录辛辛苦苦写了几百行 CLAUDE.md、AGENTS.md 或者 .cursorrules，把架构分层、",
-      "publishedAt": "2026-10-29T07:59:27.000Z",
-      "url": "https://www.woshipm.com/ai/6486169.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6486266.html",
+      "title": "鹅厂出手：面向Agent的网盘，到底应该长什么样？",
+      "summary": "作者手上十几个 AI 工具，一直想给它们找个共同的仓库。腾讯网盘把「面向 Agent」写进了定位，他把内测几天折腾下来的连接、授权、备份和跨工具取资料的体验记了一遍，哪些真省事，哪些还差口气。 必须承认，我现在用AI，某种意义上就是一种消费。 我的工具一大堆—— Claude Code、Codex、WorkBuddy、DeepSeek Harness、豆包工作、Grok Bot、Muse…… 总共10多个，神马都要尝试一下。 主打两个字",
+      "publishedAt": "2026-10-29T09:20:00.000Z",
+      "url": "https://www.woshipm.com/ai/6486266.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,16 +122,96 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6486169.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6486266.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "AI 编程最痛的不是写不出代码，而是换个会话就忘光。MemT-1 想做的事很直接：把踩过的坑写进模型权重，36B 版本在单卡 A100 上跑通，长程任务里到底管不管用，这篇给了实测。 做智能体或者日常用 Cursor、Claude Code、Windsurf 等 AI 辅助写代码的老铁们，大概率都经历过同一种“内伤”： 你在项目根目录辛辛苦苦写了几百行 CLAUDE.md、AGENTS.md 或者 .cursorrules，把架构分层、",
+      "brief": "作者手上十几个 AI 工具，一直想给它们找个共同的仓库。腾讯网盘把「面向 Agent」写进了定位，他把内测几天折腾下来的连接、授权、备份和跨工具取资料的体验记了一遍，哪些真省事，哪些还差口气。 必须承认，我现在用AI，某种意义上就是一种消费。 我的工具一大堆—— Claude Code、Codex、WorkBuddy、DeepSeek Harness、豆包工作、Grok Bot、Muse…… 总共10多个，神马都要尝试一下。 主打两个字",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6486200.html",
+      "title": "电商产品设计终极工作流：用AI一键生成可交互、可拆解的产品3D demo",
+      "summary": "从亚马逊评论中挖掘产品改进机会，再生成可交互的3D Demo，这套工作流让产品设计效率倍增。本文详细拆解如何用WorkBuddy和卖家精灵MCP，完成VOC分析、方案构思到三维演示的全过程，并附上实用提示词和模板，助你快速上手。 今天想给大家分享一个有趣又实用的电商产品设计工作流，对产品设计、运营、设计师都会有很大帮助，一起来看看！ 这套流程，用【WorkBuddy＋卖家精灵 MCP】，就能够跑通从Review中提炼用户需求、构思产品改",
+      "publishedAt": "2026-10-29T09:07:49.000Z",
+      "url": "https://www.woshipm.com/ai/6486200.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6486200.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "从亚马逊评论中挖掘产品改进机会，再生成可交互的3D Demo，这套工作流让产品设计效率倍增。本文详细拆解如何用WorkBuddy和卖家精灵MCP，完成VOC分析、方案构思到三维演示的全过程，并附上实用提示词和模板，助你快速上手。 今天想给大家分享一个有趣又实用的电商产品设计工作流，对产品设计、运营、设计师都会有很大帮助，一起来看看！ 这套流程，用【WorkBuddy＋卖家精灵 MCP】，就能够跑通从Review中提炼用户需求、构思产品改",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6486185.html",
+      "title": "ChatGPT 每月送 API 额度，最多 500 美元/月",
+      "summary": "OpenAI 给 ChatGPT 订阅加了项福利：Pro 和 Business 用户每月可领与订阅等额的 API 额度，最高 500 美元。与此同时，原有额度被砍掉一半，这笔账要怎么算，几步就能领。 OpenAI 给 ChatGPT 订阅加了一项福利：Pro 和 Business 用户，每月可领 API 额度，等同于订阅费用 Pro 按订阅档次，每个月分别 $100、$200、$500 Business 也是类似，Standard 每席",
+      "publishedAt": "2026-10-29T08:32:52.000Z",
+      "url": "https://www.woshipm.com/ai/6486185.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6486185.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "OpenAI 给 ChatGPT 订阅加了项福利：Pro 和 Business 用户每月可领与订阅等额的 API 额度，最高 500 美元。与此同时，原有额度被砍掉一半，这笔账要怎么算，几步就能领。 OpenAI 给 ChatGPT 订阅加了一项福利：Pro 和 Business 用户，每月可领 API 额度，等同于订阅费用 Pro 按订阅档次，每个月分别 $100、$200、$500 Business 也是类似，Standard 每席",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
     },
     {
       "id": "n8n:https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/",
@@ -171,86 +251,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6486061.html",
-      "title": "给 AI 写了一堆规则还在踩坑，终于有人从模型底层动刀了",
-      "summary": "10 月 20 日 MemOS 团队发布 MemT 1.0，想让记住、更新、调用经验变成模型自己的能力，而不是外挂一个更厚的 CLAUDE.md。啃完几十页报告，重点看两组数据：长对话下的速度与存储，编程 Agent 能否少踩坑。 不知道你有没有发现，这半年大家聊 Agent，绕来绕去总会绕到同一个词上：记忆。 Claude Code 有 CLAUDE.md，Hermes、OpenClaw 也各有各的记忆机制，专门做记忆的系统更是一个接",
-      "publishedAt": "2026-10-29T06:39:29.000Z",
-      "url": "https://www.woshipm.com/ai/6486061.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6486061.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "10 月 20 日 MemOS 团队发布 MemT 1.0，想让记住、更新、调用经验变成模型自己的能力，而不是外挂一个更厚的 CLAUDE.md。啃完几十页报告，重点看两组数据：长对话下的速度与存储，编程 Agent 能否少踩坑。 不知道你有没有发现，这半年大家聊 Agent，绕来绕去总会绕到同一个词上：记忆。 Claude Code 有 CLAUDE.md，Hermes、OpenClaw 也各有各的记忆机制，专门做记忆的系统更是一个接",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6486111.html",
-      "title": "AI产品接下来的革命方向：Personal Agent",
-      "summary": "当AI从聊天机器人进化成能替你发邮件、付钱、改日程的个人智能体，产品逻辑将彻底改变。本文从AI产品经理视角，深度剖析Personal Agent与Chatbot的本质区别、为何现在是爆发节点，以及对传统产品形态和PM岗位的冲击，并给出五条实操建议。 最近深度体验完muse、grok bot、dot这类产品之后，聊聊作为AI产品经理怎么看Personal Agent这个方向。 它和Chatbot的区别 很多人把个人智能体当成更聪明的聊天机",
-      "publishedAt": "2026-10-29T03:45:41.000Z",
-      "url": "https://www.woshipm.com/ai/6486111.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6486111.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当AI从聊天机器人进化成能替你发邮件、付钱、改日程的个人智能体，产品逻辑将彻底改变。本文从AI产品经理视角，深度剖析Personal Agent与Chatbot的本质区别、为何现在是爆发节点，以及对传统产品形态和PM岗位的冲击，并给出五条实操建议。 最近深度体验完muse、grok bot、dot这类产品之后，聊聊作为AI产品经理怎么看Personal Agent这个方向。 它和Chatbot的区别 很多人把个人智能体当成更聪明的聊天机",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
