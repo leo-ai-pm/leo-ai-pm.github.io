@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-29T02:17:42.701Z",
-      "lastSuccessAt": "2026-10-29T02:17:42.701Z",
-      "nextCheckAt": 1793243862701,
+      "checkedAt": "2026-10-29T08:37:12.043Z",
+      "lastSuccessAt": "2026-10-29T08:37:12.043Z",
+      "nextCheckAt": 1793266632043,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-29T02:17:42.701Z",
-      "lastSuccessAt": "2026-10-29T02:17:42.701Z",
-      "nextCheckAt": 1793243862701,
+      "checkedAt": "2026-10-29T08:37:12.044Z",
+      "lastSuccessAt": "2026-10-29T08:37:12.044Z",
+      "nextCheckAt": 1793266632044,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-29T02:17:42.702Z",
-      "lastSuccessAt": "2026-10-29T02:17:42.702Z",
-      "nextCheckAt": 1793243862702,
+      "checkedAt": "2026-10-29T08:37:12.045Z",
+      "lastSuccessAt": "2026-10-29T08:37:12.045Z",
+      "nextCheckAt": 1793266632045,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-10-29T08:37:12.162Z",
+      "lastSuccessAt": "2026-10-29T08:37:12.162Z",
+      "nextCheckAt": 1793266632162,
       "status": "ok",
-      "nextCheckAt": 1793243862887,
-      "checkedAt": "2026-10-29T02:17:42.887Z",
-      "lastSuccessAt": "2026-10-29T02:17:42.887Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,135 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793243862701,
+  "nextCheckAt": 1793266632043,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6485432.html",
-      "title": "腾讯网盘实测：跳出容量竞赛，大厂押注Agent存储",
-      "summary": "腾讯正在内测「腾讯网盘」，定位不再是文件仓库，而是多 Agent 的统一记忆底座，可连接腾讯文档、WorkBuddy 等智能体，让多个 AI 在同一份资料上协同工作。实测下来，长处与短板都相当清楚。 腾讯已开启“腾讯网盘”内测，部分功能仍在迭代完善，腾讯网盘计划配有App版本。腾讯网盘聚焦文件存储、数据管理与AI应用，连接分散的数据与内容，面向个人和团队提供更智能、高效的数字资产管理体验。和大众熟悉的传统网盘定位不同，这款新品核心思路不",
-      "publishedAt": "2026-10-28T07:51:46.000Z",
-      "url": "https://www.woshipm.com/ai/6485432.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6486169.html",
+      "title": "首个记忆原生大模型开源，36B 本地部署实测：成功把规矩”刻”进脑子",
+      "summary": "AI 编程最痛的不是写不出代码，而是换个会话就忘光。MemT-1 想做的事很直接：把踩过的坑写进模型权重，36B 版本在单卡 A100 上跑通，长程任务里到底管不管用，这篇给了实测。 做智能体或者日常用 Cursor、Claude Code、Windsurf 等 AI 辅助写代码的老铁们，大概率都经历过同一种“内伤”： 你在项目根目录辛辛苦苦写了几百行 CLAUDE.md、AGENTS.md 或者 .cursorrules，把架构分层、",
+      "publishedAt": "2026-10-29T07:59:27.000Z",
+      "url": "https://www.woshipm.com/ai/6486169.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6486169.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "AI 编程最痛的不是写不出代码，而是换个会话就忘光。MemT-1 想做的事很直接：把踩过的坑写进模型权重，36B 版本在单卡 A100 上跑通，长程任务里到底管不管用，这篇给了实测。 做智能体或者日常用 Cursor、Claude Code、Windsurf 等 AI 辅助写代码的老铁们，大概率都经历过同一种“内伤”： 你在项目根目录辛辛苦苦写了几百行 CLAUDE.md、AGENTS.md 或者 .cursorrules，把架构分层、",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "n8n:https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/",
+      "title": "Why We're Moving n8n's Automation Team Beyond the Service Desk Model",
+      "summary": "Romina da Costa, head of internal AI and automation at n8n, shares the four principles her team uses to help every team build and own its automations.",
+      "publishedAt": "2026-10-29T07:10:00.000Z",
+      "url": "https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Romina da Costa, head of internal AI and automation at n8n, shares the four principles her team uses to help every team build and own its automations.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6486061.html",
+      "title": "给 AI 写了一堆规则还在踩坑，终于有人从模型底层动刀了",
+      "summary": "10 月 20 日 MemOS 团队发布 MemT 1.0，想让记住、更新、调用经验变成模型自己的能力，而不是外挂一个更厚的 CLAUDE.md。啃完几十页报告，重点看两组数据：长对话下的速度与存储，编程 Agent 能否少踩坑。 不知道你有没有发现，这半年大家聊 Agent，绕来绕去总会绕到同一个词上：记忆。 Claude Code 有 CLAUDE.md，Hermes、OpenClaw 也各有各的记忆机制，专门做记忆的系统更是一个接",
+      "publishedAt": "2026-10-29T06:39:29.000Z",
+      "url": "https://www.woshipm.com/ai/6486061.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6486061.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "10 月 20 日 MemOS 团队发布 MemT 1.0，想让记住、更新、调用经验变成模型自己的能力，而不是外挂一个更厚的 CLAUDE.md。啃完几十页报告，重点看两组数据：长对话下的速度与存储，编程 Agent 能否少踩坑。 不知道你有没有发现，这半年大家聊 Agent，绕来绕去总会绕到同一个词上：记忆。 Claude Code 有 CLAUDE.md，Hermes、OpenClaw 也各有各的记忆机制，专门做记忆的系统更是一个接",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6486111.html",
+      "title": "AI产品接下来的革命方向：Personal Agent",
+      "summary": "当AI从聊天机器人进化成能替你发邮件、付钱、改日程的个人智能体，产品逻辑将彻底改变。本文从AI产品经理视角，深度剖析Personal Agent与Chatbot的本质区别、为何现在是爆发节点，以及对传统产品形态和PM岗位的冲击，并给出五条实操建议。 最近深度体验完muse、grok bot、dot这类产品之后，聊聊作为AI产品经理怎么看Personal Agent这个方向。 它和Chatbot的区别 很多人把个人智能体当成更聪明的聊天机",
+      "publishedAt": "2026-10-29T03:45:41.000Z",
+      "url": "https://www.woshipm.com/ai/6486111.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -122,103 +242,63 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6485432.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6486111.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "腾讯正在内测「腾讯网盘」，定位不再是文件仓库，而是多 Agent 的统一记忆底座，可连接腾讯文档、WorkBuddy 等智能体，让多个 AI 在同一份资料上协同工作。实测下来，长处与短板都相当清楚。 腾讯已开启“腾讯网盘”内测，部分功能仍在迭代完善，腾讯网盘计划配有App版本。腾讯网盘聚焦文件存储、数据管理与AI应用，连接分散的数据与内容，面向个人和团队提供更智能、高效的数字资产管理体验。和大众熟悉的传统网盘定位不同，这款新品核心思路不",
+      "brief": "当AI从聊天机器人进化成能替你发邮件、付钱、改日程的个人智能体，产品逻辑将彻底改变。本文从AI产品经理视角，深度剖析Personal Agent与Chatbot的本质区别、为何现在是爆发节点，以及对传统产品形态和PM岗位的冲击，并给出五条实操建议。 最近深度体验完muse、grok bot、dot这类产品之后，聊聊作为AI产品经理怎么看Personal Agent这个方向。 它和Chatbot的区别 很多人把个人智能体当成更聪明的聊天机",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/opera",
-      "title": "WebAI by Opera",
-      "summary": "Let websites use AI running on your computer",
-      "publishedAt": "2026-10-28T06:46:15.000Z",
-      "url": "https://www.producthunt.com/products/opera",
+      "id": "sspai:https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+      "title": "让 Agent 读懂你的身体：数据处理篇",
+      "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自<",
+      "publishedAt": "2026-10-29T03:29:46.000Z",
+      "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
       "linkKind": "original",
       "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "Product Hunt",
+            "name": "少数派",
             "asset": null,
-            "tone": "#f0e1d9"
+            "tone": "#eee3dc"
           }
         ],
-        "caption": "新品与竞品",
+        "caption": "工作流与实践",
         "author": {
-          "name": "Product Hunt",
+          "name": "少数派",
           "asset": null,
-          "tone": "#f0e1d9"
+          "tone": "#eee3dc"
         }
       },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/opera",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Let websites use AI running on your computer",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自<",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/openllm",
-      "title": "OpenLLM",
-      "summary": "Take your AI tokens anywhere",
-      "publishedAt": "2026-10-28T06:14:57.000Z",
-      "url": "https://www.producthunt.com/products/openllm",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/openllm",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Take your AI tokens anywhere",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/dedica",
-      "title": "Dedica",
-      "summary": "Check if AI agents can use your website",
-      "publishedAt": "2026-10-28T00:45:35.000Z",
-      "url": "https://www.producthunt.com/products/dedica",
+      "id": "ph:https://www.producthunt.com/products/flatbread",
+      "title": "Flatbread",
+      "summary": "Share the whole agent run, not a screenshot",
+      "publishedAt": "2026-10-28T23:47:45.000Z",
+      "url": "https://www.producthunt.com/products/flatbread",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -242,11 +322,91 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/dedica",
+      "sourceUrl": "https://www.producthunt.com/products/flatbread",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Check if AI agents can use your website",
+      "brief": "Share the whole agent run, not a screenshot",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/assemblyai",
+      "title": "AssemblyAI",
+      "summary": "text-to-speech built for voice agents",
+      "publishedAt": "2026-10-28T22:35:24.000Z",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/assemblyai",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "text-to-speech built for voice agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/polylane",
+      "title": "Polylane for ChatGPT",
+      "summary": "Ask ChatGPT what broke in production",
+      "publishedAt": "2026-10-28T22:04:42.000Z",
+      "url": "https://www.producthunt.com/products/polylane",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/polylane",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Ask ChatGPT what broke in production",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -327,46 +487,6 @@
       "category": "工作流与实践",
       "platform": "英文官方博客",
       "brief": "Learn practical hallucination detection methods for AI workflows. See how your team can identify unreliable outputs before they spread.",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/api-versioning-strategies/",
-      "title": "API Versioning Strategies for Stable Workflow Integrations",
-      "summary": "Compare API versioning strategies like URI, header, and date-based approaches, and learn how to handle a provider’s deprecation without breaking integration",
-      "publishedAt": "2026-10-22T16:15:48.000Z",
-      "url": "https://blog.n8n.io/api-versioning-strategies/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/api-versioning-strategies/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Compare API versioning strategies like URI, header, and date-based approaches, and learn how to handle a provider’s deprecation without breaking integration",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

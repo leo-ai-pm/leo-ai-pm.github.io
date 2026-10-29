@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-29T02:18:05.153Z",
+  "checkedAt": "2026-10-29T08:37:48.900Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "m1cx9dfhpep0da323x3tk7vht",
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
+      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+      "sourceName": "X：Addy Osmani (@addyosmani)",
+      "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
+      "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+      "publishedAt": "2026-10-29T06:13:39.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "wykbrcxndw1zv255b9y2usj7v",
       "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
@@ -303,20 +317,6 @@
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
-      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-      "reason": "作者亲自讲解 Claude Code Mods 的机制与上手方法，覆盖三个可复用的示例 mod，读者可照做搭建自己的定制界面。",
-      "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-      "sourceName": "X：Addy Osmani (@addyosmani)",
-      "sourceUrl": "https://x.com/addyosmani/status/2115326629488824753",
-      "aihotUrl": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb",
-      "publishedAt": "2026-10-28T06:15:43.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
       "unselected": false
     }
   ],
@@ -770,6 +770,20 @@
       "unselected": false
     },
     {
+      "id": "m1cx9dfhpep0da323x3tk7vht",
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
+      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+      "sourceName": "X：Addy Osmani (@addyosmani)",
+      "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
+      "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+      "publishedAt": "2026-10-29T06:13:39.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "l928e49lwysm0ymgmhyjrkc3z",
       "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
       "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
@@ -866,20 +880,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "rtbm48num2azmqgrrzy2ep7il",
-      "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
-      "reason": "Anthropic 根据多个企业部署对比总结何时把子智能体合并进主循环，并给出迁移套件、评估集和分阶段合并方法，可直接迁移到自己的 Agent 架构决策。",
-      "summary": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-      "aihotUrl": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -889,6 +889,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "m1cx9dfhpep0da323x3tk7vht",
+          "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+          "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
+          "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+          "sourceName": "X：Addy Osmani (@addyosmani)",
+          "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
+          "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+          "publishedAt": "2026-10-29T06:13:39.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "wykbrcxndw1zv255b9y2usj7v",
           "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
@@ -958,20 +972,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "tdp7qmrh74fdfarxbi4jaoc6v",
-          "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
-          "reason": "微软官方说明 Copilot harness 的能力和开放方式，开发者可据此评估是否用它托管多模型 Agent 运行时。",
-          "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
-          "sourceName": "Microsoft：Official Blog（RSS）",
-          "sourceUrl": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-          "aihotUrl": "https://aihot.news/items/tdp7qmrh74fdfarxbi4jaoc6v",
-          "publishedAt": "2026-10-28T16:51:35.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -981,6 +981,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "m1cx9dfhpep0da323x3tk7vht",
+          "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+          "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
+          "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+          "sourceName": "X：Addy Osmani (@addyosmani)",
+          "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
+          "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+          "publishedAt": "2026-10-29T06:13:39.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "wgss1ksoafvu62x799sdfs0fo",
           "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
@@ -1049,20 +1063,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "imgp55zxmw4jugt1a29ap9yo1",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "reason": "文章梳理了 OpenAI 沙箱与红队机制的来龙去脉，隔离智能体通过 CPU 缓存通信的细节让抽象的包含问题变得具体。",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-          "aihotUrl": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-          "publishedAt": "2026-10-24T11:12:36.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
@@ -1258,6 +1258,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "m1cx9dfhpep0da323x3tk7vht",
+          "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+          "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
+          "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+          "sourceName": "X：Addy Osmani (@addyosmani)",
+          "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
+          "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+          "publishedAt": "2026-10-29T06:13:39.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "l928e49lwysm0ymgmhyjrkc3z",
           "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
           "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
@@ -1322,20 +1336,6 @@
           "sourceUrl": "https://x.com/bcherny/status/2115491259381072269",
           "aihotUrl": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm",
           "publishedAt": "2026-10-28T17:09:54.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "vidjbhx5bf45wdl488kst1wv8",
-          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-          "reason": "原文整理了 IPO 文件中的现金规模与未生效租约义务数字，读者可以据此对照 Anthropic 资产与长期承诺的缺口。",
-          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-          "aihotUrl": "https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8",
-          "publishedAt": "2026-10-28T17:11:27.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
