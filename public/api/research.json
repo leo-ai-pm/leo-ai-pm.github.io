@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-28T22:53:05.078Z",
-      "lastSuccessAt": "2026-10-28T22:53:05.078Z",
-      "nextCheckAt": 1793231585078,
+      "checkedAt": "2026-10-29T02:17:42.701Z",
+      "lastSuccessAt": "2026-10-29T02:17:42.701Z",
+      "nextCheckAt": 1793243862701,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-10-29T02:17:42.701Z",
+      "lastSuccessAt": "2026-10-29T02:17:42.701Z",
+      "nextCheckAt": 1793243862701,
       "status": "ok",
-      "nextCheckAt": 1793231585078,
-      "checkedAt": "2026-10-28T22:53:05.078Z",
-      "lastSuccessAt": "2026-10-28T22:53:05.078Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-28T22:53:05.079Z",
-      "lastSuccessAt": "2026-10-28T22:53:05.079Z",
-      "nextCheckAt": 1793231585079,
+      "checkedAt": "2026-10-29T02:17:42.702Z",
+      "lastSuccessAt": "2026-10-29T02:17:42.702Z",
+      "nextCheckAt": 1793243862702,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1793231585306,
-      "checkedAt": "2026-10-28T22:53:05.306Z",
-      "lastSuccessAt": "2026-10-28T22:53:05.306Z",
+      "nextCheckAt": 1793243862887,
+      "checkedAt": "2026-10-29T02:17:42.887Z",
+      "lastSuccessAt": "2026-10-29T02:17:42.887Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793231585078,
+  "nextCheckAt": 1793243862701,
   "refreshing": false,
   "items": [
     {
@@ -134,86 +134,6 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6485427.html",
-      "title": "招 Agent 工程师，为什么张口就是 LangChain？",
-      "summary": "招聘 Agent 工程师，JD 第一行常写「熟悉 LangChain」。这个 2022 年 10 月才开源的项目，四年间从工具库长成 Agent 工程体系，它究竟解决了什么问题，又凭什么成了行业默认门槛？ 最近很多同学反映，找一个Agent工程师的工作，都要求要会langchain，好像不会langchain就不会开发Agent一样！今天我们就来捋一捋langchain这个开源框架。 LangChain 最早在 2022 年 10 月开",
-      "publishedAt": "2026-10-28T07:49:17.000Z",
-      "url": "https://www.woshipm.com/ai/6485427.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6485427.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "招聘 Agent 工程师，JD 第一行常写「熟悉 LangChain」。这个 2022 年 10 月才开源的项目，四年间从工具库长成 Agent 工程体系，它究竟解决了什么问题，又凭什么成了行业默认门槛？ 最近很多同学反映，找一个Agent工程师的工作，都要求要会langchain，好像不会langchain就不会开发Agent一样！今天我们就来捋一捋langchain这个开源框架。 LangChain 最早在 2022 年 10 月开",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6485473.html",
-      "title": "实测GPT-Image-2.5：用一张白底图跑完13个电商素材场景，比2.0强在哪？（附提示词）",
-      "summary": "GPT-Image-2.5 悄然上线，实测 13 个电商素材场景后，产品一致性、细节真实性和局部编辑准确度均有明显提升。本文以保湿精华为例，从白底主图到买家秀，逐一拆解 6 大核心场景的生成效果，并附完整提示词，带你直观感受新版本的真实实力。 前段时间OpenAI悄咪咪地发布了GPT-Image-2.5，虽然没有Image 2那么震撼，但我拿13个电商素材场景实测后，整体的感觉是： 产品一致性，细节真实性，局部编辑准确度，生图速度，都有",
-      "publishedAt": "2026-10-28T07:21:42.000Z",
-      "url": "https://www.woshipm.com/ai/6485473.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6485473.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "GPT-Image-2.5 悄然上线，实测 13 个电商素材场景后，产品一致性、细节真实性和局部编辑准确度均有明显提升。本文以保湿精华为例，从白底主图到买家秀，逐一拆解 6 大核心场景的生成效果，并附完整提示词，带你直观感受新版本的真实实力。 前段时间OpenAI悄咪咪地发布了GPT-Image-2.5，虽然没有Image 2那么震撼，但我拿13个电商素材场景实测后，整体的感觉是： 产品一致性，细节真实性，局部编辑准确度，生图速度，都有",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
       "id": "ph:https://www.producthunt.com/products/opera",
       "title": "WebAI by Opera",
       "summary": "Let websites use AI running on your computer",
@@ -251,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/openllm",
@@ -291,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/dedica",

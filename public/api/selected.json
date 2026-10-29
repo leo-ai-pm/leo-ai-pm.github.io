@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-28T22:53:24.461Z",
+  "checkedAt": "2026-10-29T02:18:05.153Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,62 @@
     }
   ],
   "today": [
+    {
+      "id": "wykbrcxndw1zv255b9y2usj7v",
+      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+      "reason": "原文给出长文本渲染与布局评测数字及开放权重部署路径，读者可以据此判断它在文字密集图像任务中的适用边界。",
+      "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+      "sourceName": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+      "sourceUrl": "https://openmoss.ai/blog/cn/moss-image/",
+      "aihotUrl": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
+      "publishedAt": "2026-10-28T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "l4znfnzfs6rz6vorl1wyj90gb",
+      "title": "OpenRouter 重建默认路由算法：TTFT 降 16.9%、429 错误减少 67%",
+      "reason": "OpenRouter 自己公布的路由算法实测数据与机制细节，读者可据此评估默认路由切换对现有调用成本和延迟的实际影响。",
+      "summary": "OpenRouter 宣布重建默认 provider 路由算法，从只按价格排序改为按 Routing Cost 综合 effective price、TTFT、吞吐、错误率和输出质量选路。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/",
+      "aihotUrl": "https://aihot.news/items/l4znfnzfs6rz6vorl1wyj90gb",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "l928e49lwysm0ymgmhyjrkc3z",
+      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+      "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
+      "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+      "aihotUrl": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "jpt1eeuj2p1mgrxbufuv3ntdn",
+      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+      "reason": "原文梳理了五条攻击链的关键数字和影响范围，读者可据此评估 AI 自主挖掘漏洞的实际能力边界。",
+      "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/019/268.htm",
+      "aihotUrl": "https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn",
+      "publishedAt": "2026-10-28T22:35:25.040Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
     {
       "id": "p24kw8c06nmy1hzs3spvr4aha",
       "title": "Every 解读 Anthropic S-1：上线超过六个月的模型贡献收入不足 20%",
@@ -262,51 +318,23 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
+    }
+  ],
+  "week": [
     {
-      "id": "b61d349yqp5mt029fsa0ytbv9",
-      "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-      "reason": "文章依据 Anthropic S-1 拆解各股东持股结构，说明为何战略投资者而非 VC 是 IPO 最大受益方，并提示云厂商利益冲突。",
-      "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "aihotUrl": "https://aihot.news/items/b61d349yqp5mt029fsa0ytbv9",
-      "publishedAt": "2026-10-28T01:15:28.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "ku284awvyj7i3dt4j7oflb78m",
-      "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-      "reason": "文章梳理了 Genie 4 相比 Genie 3 的画质、实时控制、原生音频等变化，并用视频路线与高斯泼溅路线的对比帮助读者理解世界模型走向。",
-      "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "aihotUrl": "https://aihot.news/items/ku284awvyj7i3dt4j7oflb78m",
-      "publishedAt": "2026-10-28T00:22:00.000Z",
+      "id": "wykbrcxndw1zv255b9y2usj7v",
+      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+      "reason": "原文给出长文本渲染与布局评测数字及开放权重部署路径，读者可以据此判断它在文字密集图像任务中的适用边界。",
+      "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+      "sourceName": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+      "sourceUrl": "https://openmoss.ai/blog/cn/moss-image/",
+      "aihotUrl": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
+      "publishedAt": "2026-10-28T16:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
     },
-    {
-      "id": "dk0g487d7s2n5hq9ex5bim1sy",
-      "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
-      "reason": "诉讼细节与 27 万条聊天记录呈现 GPT-4o 削药劝导过程，也暴露 OpenAI Model Spec 中医疗建议限制弱于版权规则的问题。",
-      "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "aihotUrl": "https://aihot.news/items/dk0g487d7s2n5hq9ex5bim1sy",
-      "publishedAt": "2026-10-27T23:34:27.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    }
-  ],
-  "week": [
     {
       "id": "fjeloaahylonpc0pv5tduusud",
       "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
@@ -406,17 +434,17 @@
       "unselected": false
     },
     {
-      "id": "zogr3l33craxfj4s296npqpqc",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
-      "reason": "官方公布了 GPT-6.1 Terra 在电脑操作、编码和成本上的具体数据与定价，便于开发者评估高吞吐任务是否值得迁移。",
-      "summary": "OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推理模型，标准 API 定价比 GPT-5.6 Terra 和 GPT-6.1 Sol 低 50%，为每百万输入 token $1、缓存输入 $0.05、输出 $5。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "aihotUrl": "https://aihot.news/items/zogr3l33craxfj4s296npqpqc",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "id": "l4znfnzfs6rz6vorl1wyj90gb",
+      "title": "OpenRouter 重建默认路由算法：TTFT 降 16.9%、429 错误减少 67%",
+      "reason": "OpenRouter 自己公布的路由算法实测数据与机制细节，读者可据此评估默认路由切换对现有调用成本和延迟的实际影响。",
+      "summary": "OpenRouter 宣布重建默认 provider 路由算法，从只按价格排序改为按 Routing Cost 综合 effective price、TTFT、吞吐、错误率和输出质量选路。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/",
+      "aihotUrl": "https://aihot.news/items/l4znfnzfs6rz6vorl1wyj90gb",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
       "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
+      "category": "ai-products",
+      "categoryLabel": "产品",
       "unselected": false
     },
     {
@@ -512,20 +540,6 @@
       "sourceUrl": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
       "aihotUrl": "https://aihot.news/items/tckw64et369c0brghxzwke9qe",
       "publishedAt": "2026-10-26T19:14:26.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "yims6bdgwsy052wrmjytgak8p",
-      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-      "reason": "发布方给出了 GPT-6.1 Terra 相对 GPT-6 Astra 的价格与速度对比和定价，便于评估 Agent 任务下的成本收益。",
-      "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。",
-      "sourceName": "X：OpenRouter (@OpenRouter)",
-      "sourceUrl": "https://x.com/OpenRouter/status/2114791584755839168",
-      "aihotUrl": "https://aihot.news/items/yims6bdgwsy052wrmjytgak8p",
-      "publishedAt": "2026-10-26T18:49:39.000Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -644,6 +658,20 @@
       "unselected": false
     },
     {
+      "id": "jpt1eeuj2p1mgrxbufuv3ntdn",
+      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+      "reason": "原文梳理了五条攻击链的关键数字和影响范围，读者可据此评估 AI 自主挖掘漏洞的实际能力边界。",
+      "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/019/268.htm",
+      "aihotUrl": "https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn",
+      "publishedAt": "2026-10-28T22:35:25.040Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "ctuk7r4h4qbyyligi680s7gtr",
       "title": "Cartesia 发布 H-Net 扩缩律研究：字节级层级网络比 BPE 提升最高 3-5x 计算效率",
       "reason": "Cartesia 原创研究给出 H-Net 替代 BPE 分词的对照实验与 3-5x 计算效率数据，可了解字节级学习的实际进展。",
@@ -742,17 +770,17 @@
       "unselected": false
     },
     {
-      "id": "xm6i4tcgyby0bditot3bz9x8x",
-      "title": "英国 AISI 实测 ESM-2 预训练数据过滤可削弱目标能力但约 80 美元算力即可恢复",
-      "reason": "原文给出实验数据说明预训练数据过滤能选择性削弱蛋白模型能力，但约 80 美元算力即可恢复，需配合数据访问控制。",
-      "summary": "英国 AI Security Institute 的 Chem-Bio 团队从零预训练 8M 到 3B 参数的 ESM-2 蛋白质语言模型，测试预训练数据过滤对专业科学模型的效果。",
-      "sourceName": "英国 AI Security Institute：Blog（网页）",
-      "sourceUrl": "https://www.aisi.gov.uk/blog/pretraining-data-filtering-in-open-weight-biological-models",
-      "aihotUrl": "https://aihot.news/items/xm6i4tcgyby0bditot3bz9x8x",
-      "publishedAt": "2026-10-25T23:00:00.000Z",
+      "id": "l928e49lwysm0ymgmhyjrkc3z",
+      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+      "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
+      "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+      "aihotUrl": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
       "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -862,6 +890,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "wykbrcxndw1zv255b9y2usj7v",
+          "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "reason": "原文给出长文本渲染与布局评测数字及开放权重部署路径，读者可以据此判断它在文字密集图像任务中的适用边界。",
+          "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+          "sourceName": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+          "sourceUrl": "https://openmoss.ai/blog/cn/moss-image/",
+          "aihotUrl": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
+          "publishedAt": "2026-10-28T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
+          "id": "l4znfnzfs6rz6vorl1wyj90gb",
+          "title": "OpenRouter 重建默认路由算法：TTFT 降 16.9%、429 错误减少 67%",
+          "reason": "OpenRouter 自己公布的路由算法实测数据与机制细节，读者可据此评估默认路由切换对现有调用成本和延迟的实际影响。",
+          "summary": "OpenRouter 宣布重建默认 provider 路由算法，从只按价格排序改为按 Routing Cost 综合 effective price、TTFT、吞吐、错误率和输出质量选路。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/",
+          "aihotUrl": "https://aihot.news/items/l4znfnzfs6rz6vorl1wyj90gb",
+          "publishedAt": "2026-10-28T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "neprl0bcwv1mo2pd4dk1lvpjr",
           "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
           "reason": "两位 OpenAI 年轻管理者以亲身经历提出 AI 进入组织架构的三种情形，并讨论其对层级、企业规模和薪酬差距的影响。",
@@ -915,34 +971,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "ja57b43t7h52wid2g4zu6vw2t",
-          "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
-          "reason": "a16z 基于 100 位 CISO 调研给出 2027 安全预算与采购优先级变化，并点明初创公司切入的缺口在哪。",
-          "summary": "a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。",
-          "sourceName": "a16z：News（RSS）",
-          "sourceUrl": "https://www.a16z.news/p/the-new-security-agenda",
-          "aihotUrl": "https://aihot.news/items/ja57b43t7h52wid2g4zu6vw2t",
-          "publishedAt": "2026-10-28T16:00:31.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "wgss1ksoafvu62x799sdfs0fo",
-          "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
-          "reason": "OpenRouter 实测了 Claude Code 走 API key 计费的真实成本，并提醒 Claude Code 自印的价格可能偏高。",
-          "summary": "OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/claude-code-usage-limit/",
-          "aihotUrl": "https://aihot.news/items/wgss1ksoafvu62x799sdfs0fo",
-          "publishedAt": "2026-10-28T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
@@ -1230,6 +1258,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "l928e49lwysm0ymgmhyjrkc3z",
+          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+          "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
+          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+          "aihotUrl": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "jpt1eeuj2p1mgrxbufuv3ntdn",
+          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "reason": "原文梳理了五条攻击链的关键数字和影响范围，读者可据此评估 AI 自主挖掘漏洞的实际能力边界。",
+          "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/019/268.htm",
+          "aihotUrl": "https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn",
+          "publishedAt": "2026-10-28T22:35:25.040Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "p24kw8c06nmy1hzs3spvr4aha",
           "title": "Every 解读 Anthropic S-1：上线超过六个月的模型贡献收入不足 20%",
           "reason": "文章借 Anthropic S-1 数据点出模型六个月生命周期这一行业规律，读者可据此调整自己的模型选择习惯。",
@@ -1280,34 +1336,6 @@
           "sourceUrl": "https://x.com/rohanpaul_ai/status/2115491649543635378",
           "aihotUrl": "https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8",
           "publishedAt": "2026-10-28T17:11:27.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "wgss1ksoafvu62x799sdfs0fo",
-          "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
-          "reason": "OpenRouter 实测了 Claude Code 走 API key 计费的真实成本，并提醒 Claude Code 自印的价格可能偏高。",
-          "summary": "OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/claude-code-usage-limit/",
-          "aihotUrl": "https://aihot.news/items/wgss1ksoafvu62x799sdfs0fo",
-          "publishedAt": "2026-10-28T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "klkmnzle2z7p5y6cl477ce7sg",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-          "reason": "安全公司用 AI 智能体渗透 Anthropic 内部系统，双方对影响范围各执一词，可用作观察第三方软件安全短板的案例。",
-          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
-          "aihotUrl": "https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg",
-          "publishedAt": "2026-10-28T10:56:24.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
