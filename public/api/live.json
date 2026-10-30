@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月30日",
     "demo": false,
-    "updatedAt": "2026-10-30T05:56:36.308Z",
+    "updatedAt": "2026-10-30T12:40:48.866Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 190,
+      "received": 196,
       "latestCount": 1,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -229,7 +229,7 @@
         "aihotUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
         "storyUrl": "https://aihot.news/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb",
         "sourceCount": 14,
-        "participantCount": 91,
+        "participantCount": 93,
         "latestAt": "2026-10-30T02:09:18.000Z",
         "expanded": true,
         "latest": "Artificial Analysis 推出 HLE-Diamond 榜单，Gemini 4 Carbon (high) 以 69% 居首",
@@ -284,7 +284,7 @@
         "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
         "storyUrl": "https://aihot.news/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076",
         "sourceCount": 3,
-        "participantCount": 30,
+        "participantCount": 33,
         "latestAt": "2026-10-30T00:34:52.630Z",
         "expanded": true,
         "latest": "OpenAI 取消 Pro 200 砍半计划，ChatGPT Pro 及 Business Premium 用量额度翻倍",
@@ -328,17 +328,24 @@
       {
         "rank": 3,
         "id": "upsd8u37hkkquohy3w3sjvszi",
-        "title": "Mistral 开源万亿参数 Le Chonk，Unsloth 推 1-bit 量化版",
+        "title": "Mistral 开放万亿参数 Le Chonk 权重，Unsloth 推 1-bit 量化版",
         "sourceName": "Hugging Face 官方团队博客",
         "sourceUrl": "https://huggingface.co/blog/mistral-large4",
         "aihotUrl": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
         "storyUrl": "https://aihot.news/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac",
         "sourceCount": 11,
-        "participantCount": 30,
-        "latestAt": "2026-10-30T01:09:09.660Z",
+        "participantCount": 34,
+        "latestAt": "2026-10-30T09:48:50.000Z",
         "expanded": true,
-        "latest": "Mistral AI 开放 Mistral Large 4 模型权重：1T 总参数，编码智能体省 Token 47%",
+        "latest": "Mistral 大模型 Le Chonk 训练营三周",
         "reports": [
+          {
+            "title": "Mistral 大模型 Le Chonk 训练营三周",
+            "sourceName": "X：Mistral AI (@MistralAI)",
+            "sourceUrl": "https://x.com/MistralAI/status/2116105034673058023",
+            "aihotUrl": "https://aihot.news/items/drwrjywgjnrxx4yil7uznr16m",
+            "publishedAt": "2026-10-30T09:48:50.000Z"
+          },
           {
             "title": "Mistral AI 开放 Mistral Large 4 模型权重：1T 总参数，编码智能体省 Token 47%",
             "sourceName": "IT之家·人工智能",
@@ -352,13 +359,6 @@
             "sourceUrl": "https://x.com/rohanpaul_ai/status/2115876025452331018",
             "aihotUrl": "https://aihot.news/items/qjlnyctm3t9mgkccrwthnyg1e",
             "publishedAt": "2026-10-29T18:38:50.000Z"
-          },
-          {
-            "title": "Mistral 开源 Large 4（Le Chonk）：编码领先开源模型，整体仍落后中国模型",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
-            "aihotUrl": "https://aihot.news/items/fupw23nwmctumoasz1rycmwpu",
-            "publishedAt": "2026-10-29T15:25:27.000Z"
           }
         ],
         "related": [],
@@ -384,7 +384,7 @@
         "aihotUrl": "https://aihot.news/items/urs0f8vvh3zel0gh18qvn8h09",
         "storyUrl": "https://aihot.news/story/add1dde9-53ea-4f82-9daa-6d50735a149c",
         "sourceCount": 2,
-        "participantCount": 37,
+        "participantCount": 35,
         "latestAt": "2026-10-29T00:31:38.000Z",
         "expanded": false,
         "latest": "",
@@ -412,7 +412,7 @@
         "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
         "storyUrl": "https://aihot.news/story/c432aa2e-0614-4744-8618-1769e016569b",
         "sourceCount": 4,
-        "participantCount": 24,
+        "participantCount": 26,
         "latestAt": "2026-10-29T16:24:55.000Z",
         "expanded": false,
         "latest": "",
@@ -433,14 +433,42 @@
       },
       {
         "rank": 6,
+        "id": "op2kjf327vilvhbxkjicxg5ec",
+        "title": "Reddit 转向登录优先，应对 AI 搜索流量下滑",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "aihotUrl": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
+        "storyUrl": "https://aihot.news/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d",
+        "sourceCount": 2,
+        "participantCount": 14,
+        "latestAt": "2026-10-30T06:59:22.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "TechCrunch：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "xywgx35ocbe6mzl2pnajw8ruu",
         "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
         "sourceName": "Anthropic：Newsroom（网页）",
         "sourceUrl": "https://www.anthropic.com/news/s1-sec",
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 6,
-        "participantCount": 27,
+        "sourceCount": 4,
+        "participantCount": 17,
         "latestAt": "2026-10-30T01:28:37.000Z",
         "expanded": false,
         "latest": "",
@@ -460,7 +488,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "hb9hlobx48r7sz850swx62efv",
         "title": "NVIDIA 发布开放权重语音模型 Nemotron 3.5 Transcribe",
         "sourceName": "IT之家·人工智能",
@@ -488,7 +516,35 @@
         }
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "id": "rccreyesa3aeph7jasj5spv29",
+        "title": "OpenAI重组Model Spec为五项核心价值观",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/updated-model-spec",
+        "aihotUrl": "https://aihot.news/items/rccreyesa3aeph7jasj5spv29",
+        "storyUrl": "https://aihot.news/story/255f7354-2733-447e-a6cc-f6f065893f9d",
+        "sourceCount": 2,
+        "participantCount": 11,
+        "latestAt": "2026-10-30T02:16:46.210Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "lq97h52ctxw2nkri4qqxj5lbx",
         "title": "纽时称中国情报人员接近黄仁勋，英伟达否认",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -514,69 +570,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 9,
-        "id": "s0x0m11ny4wsnv6aydm6oqy39",
-        "title": "OpenAI 向 Pro 与 Business 订阅者发放 API 额度",
-        "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-        "sourceUrl": "https://x.com/OpenAIDevs/status/2115583698074755078",
-        "aihotUrl": "https://aihot.news/items/s0x0m11ny4wsnv6aydm6oqy39",
-        "storyUrl": "https://aihot.news/story/08d907d8-e0b3-41bc-b07e-9b475c378c41",
-        "sourceCount": 2,
-        "participantCount": 17,
-        "latestAt": "2026-10-29T22:48:29.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "l74eacnb38ytvm5hm8om7h7cs",
-        "title": "Google DeepMind 发布 Genie 4 世界模型研究预览版",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
-        "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
-        "sourceCount": 1,
-        "participantCount": 24,
-        "latestAt": "2026-10-28T07:34:58.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-30T05:56:36.308Z",
-    "nextCheckAt": 1793340096308,
+    "checkedAt": "2026-10-30T12:40:48.866Z",
+    "nextCheckAt": 1793364348866,
     "intervalSeconds": 300,
     "message": ""
   }

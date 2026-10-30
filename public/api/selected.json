@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-30T05:56:56.482Z",
+  "checkedAt": "2026-10-30T12:41:11.970Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,62 @@
     }
   ],
   "today": [
+    {
+      "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "title": "Epoch AI 实验：GLM 5.3 利用补丁间隙自主攻破多个 Firefox 版本",
+      "reason": "Epoch AI 用实验说明开源权重模型可利用补丁间隙自主攻击 Firefox，读者能了解这一威胁的具体成本与可行的缓解方向。",
+      "summary": "Epoch AI 实验发现，Z.ai 8 月发布的开源权重模型 GLM 5.3 能从 Mozilla 已发布但未推送的安全修复中逆向出漏洞，以约 $1,000 算力自主攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本，最快一次仅用 12 小时，攻击通过串联补丁间隙漏洞与未公开漏洞绕过保护。",
+      "sourceName": "Epoch AI：Gradient Updates（RSS）",
+      "sourceUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+      "aihotUrl": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "publishedAt": "2026-10-30T12:07:16.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+      "reason": "Cursor 官方披露扩展市场安全事件细节与处置过程，给出受影响范围和版本升级指引，受影响用户可按步骤自查。",
+      "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。",
+      "sourceName": "X：Cursor (@cursor_ai)",
+      "sourceUrl": "https://x.com/cursor_ai/status/2116074289053175808",
+      "aihotUrl": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "publishedAt": "2026-10-30T07:46:39.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "pg7avew3q9ekdp3ydzhiuh9y4",
+      "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
+      "reason": "Cursor 官方披露恶意扩展事件细节，给出检测命令、修复脚本和完整 IOC，受影响用户可按步骤自查处置。",
+      "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+      "sourceName": "Cursor Blog",
+      "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "aihotUrl": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "puushryi79v0flh2um3a70xnw",
+      "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+      "reason": "原文梳理了 Google、Amazon、Microsoft 三家财报中 AI 投入与现金流变化的具体数字，读者可对比资本市场的不同反应。",
+      "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "aihotUrl": "https://aihot.news/items/puushryi79v0flh2um3a70xnw",
+      "publishedAt": "2026-10-29T21:29:51.580Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "ykvaq4vx3ydt23josezzan62r",
       "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
@@ -69,9 +125,9 @@
     },
     {
       "id": "fxmexzrmo7pw52vc5j6ej17kl",
-      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-      "reason": "原文给出 AWS 的资本开支数字与增长预测，可帮读者判断云厂商 AI 基建投入与市场反应。",
-      "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。",
+      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+      "reason": "原文给出 AWS 最新财报数字、2026 约 2200 亿美元 capex 计划和 Jassy 的万亿营收时间表，可帮助读者判断云厂商 AI 投入节奏。",
+      "summary": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。",
       "sourceName": "TechCrunch：AI（RSS）",
       "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "aihotUrl": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
@@ -346,34 +402,6 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "wry19y87ktlbmfwu581jjffj7",
-      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-      "reason": "文章把 Google 财报数据与 AI 搜索变现压力联系起来，读者可以借此核对市场担忧与官方说法之间的差距。",
-      "summary": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
-      "aihotUrl": "https://aihot.news/items/wry19y87ktlbmfwu581jjffj7",
-      "publishedAt": "2026-10-29T10:16:34.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "m1cx9dfhpep0da323x3tk7vht",
-      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-      "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
-      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-      "sourceName": "X：Addy Osmani (@addyosmani)",
-      "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
-      "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
-      "publishedAt": "2026-10-29T06:13:39.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "week": [
@@ -602,6 +630,34 @@
       "unselected": false
     },
     {
+      "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+      "reason": "Cursor 官方披露扩展市场安全事件细节与处置过程，给出受影响范围和版本升级指引，受影响用户可按步骤自查。",
+      "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。",
+      "sourceName": "X：Cursor (@cursor_ai)",
+      "sourceUrl": "https://x.com/cursor_ai/status/2116074289053175808",
+      "aihotUrl": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "publishedAt": "2026-10-30T07:46:39.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "pg7avew3q9ekdp3ydzhiuh9y4",
+      "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
+      "reason": "Cursor 官方披露恶意扩展事件细节，给出检测命令、修复脚本和完整 IOC，受影响用户可按步骤自查处置。",
+      "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+      "sourceName": "Cursor Blog",
+      "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "aihotUrl": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "puushryi79v0flh2um3a70xnw",
       "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
       "reason": "原文梳理了 Google、Amazon、Microsoft 三家财报中 AI 投入与现金流变化的具体数字，读者可对比资本市场的不同反应。",
@@ -631,9 +687,9 @@
     },
     {
       "id": "fxmexzrmo7pw52vc5j6ej17kl",
-      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-      "reason": "原文给出 AWS 的资本开支数字与增长预测，可帮读者判断云厂商 AI 基建投入与市场反应。",
-      "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。",
+      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+      "reason": "原文给出 AWS 最新财报数字、2026 约 2200 亿美元 capex 计划和 Jassy 的万亿营收时间表，可帮助读者判断云厂商 AI 投入节奏。",
+      "summary": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。",
       "sourceName": "TechCrunch：AI（RSS）",
       "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "aihotUrl": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
@@ -686,31 +742,17 @@
       "unselected": false
     },
     {
-      "id": "lq97h52ctxw2nkri4qqxj5lbx",
-      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-      "reason": "",
-      "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-      "aihotUrl": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
-      "publishedAt": "2026-10-29T13:42:38.000Z",
+      "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "title": "Epoch AI 实验：GLM 5.3 利用补丁间隙自主攻破多个 Firefox 版本",
+      "reason": "Epoch AI 用实验说明开源权重模型可利用补丁间隙自主攻击 Firefox，读者能了解这一威胁的具体成本与可行的缓解方向。",
+      "summary": "Epoch AI 实验发现，Z.ai 8 月发布的开源权重模型 GLM 5.3 能从 Mozilla 已发布但未推送的安全修复中逆向出漏洞，以约 $1,000 算力自主攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本，最快一次仅用 12 小时，攻击通过串联补丁间隙漏洞与未公开漏洞绕过保护。",
+      "sourceName": "Epoch AI：Gradient Updates（RSS）",
+      "sourceUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+      "aihotUrl": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "publishedAt": "2026-10-30T12:07:16.000Z",
       "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "x7qd347blfo2409za7srbypzw",
-      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-      "reason": "记者基于九名员工和内部记录还原 Proton 强推 AI 的内部冲突，读者可据此对照其他安全公司在效率与文化上的取舍。",
-      "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。",
-      "sourceName": "404 Media（RSS）",
-      "sourceUrl": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "aihotUrl": "https://aihot.news/items/x7qd347blfo2409za7srbypzw",
-      "publishedAt": "2026-10-29T14:21:49.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
+      "category": "paper",
+      "categoryLabel": "论文",
       "unselected": false
     },
     {
@@ -806,20 +848,6 @@
       "sourceUrl": "https://allenai.org/blog/novelty-bench",
       "aihotUrl": "https://aihot.news/items/p92a4pkxkheznj9nmt50o08l6",
       "publishedAt": "2026-10-27T08:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "x7jvppwrm1ldjd93v0jvsfd9c",
-      "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
-      "reason": "原文由当事方直接披露三项数学成果和三种外部协作发布模式，读者可据此了解其结果透明度与验证安排。",
-      "summary": "OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取得三项成果，包括证明各维度的 local smoothing 猜想（进而解决 Kakeya 猜想与 Stein 限制猜想）、在 Lean 中验证 ETH 为假、以及给出 QCD 与纯 Yang–Mills 理论的严格存在性证明。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "aihotUrl": "https://aihot.news/items/x7jvppwrm1ldjd93v0jvsfd9c",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -1222,6 +1250,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
+          "title": "Epoch AI 实验：GLM 5.3 利用补丁间隙自主攻破多个 Firefox 版本",
+          "reason": "Epoch AI 用实验说明开源权重模型可利用补丁间隙自主攻击 Firefox，读者能了解这一威胁的具体成本与可行的缓解方向。",
+          "summary": "Epoch AI 实验发现，Z.ai 8 月发布的开源权重模型 GLM 5.3 能从 Mozilla 已发布但未推送的安全修复中逆向出漏洞，以约 $1,000 算力自主攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本，最快一次仅用 12 小时，攻击通过串联补丁间隙漏洞与未公开漏洞绕过保护。",
+          "sourceName": "Epoch AI：Gradient Updates（RSS）",
+          "sourceUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+          "aihotUrl": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+          "publishedAt": "2026-10-30T12:07:16.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "puushryi79v0flh2um3a70xnw",
           "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
           "reason": "原文梳理了 Google、Amazon、Microsoft 三家财报中 AI 投入与现金流变化的具体数字，读者可对比资本市场的不同反应。",
@@ -1290,20 +1332,6 @@
           "category": "paper",
           "categoryLabel": "论文",
           "unselected": false
-        },
-        {
-          "id": "rccreyesa3aeph7jasj5spv29",
-          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-          "reason": "原文列出五项核心价值观及新增与退出的具体章节，读者可据此比较对齐框架的实际变化。",
-          "summary": "OpenAI 更新其公开的 Model Spec，将指导原则重组为五项核心价值观：忠实于人类意图、最小化伤害、诚实透明、促进人类自主和关怀。",
-          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "sourceUrl": "https://openai.com/index/updated-model-spec",
-          "aihotUrl": "https://aihot.news/items/rccreyesa3aeph7jasj5spv29",
-          "publishedAt": "2026-10-29T17:00:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -1313,6 +1341,48 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
+          "title": "Epoch AI 实验：GLM 5.3 利用补丁间隙自主攻破多个 Firefox 版本",
+          "reason": "Epoch AI 用实验说明开源权重模型可利用补丁间隙自主攻击 Firefox，读者能了解这一威胁的具体成本与可行的缓解方向。",
+          "summary": "Epoch AI 实验发现，Z.ai 8 月发布的开源权重模型 GLM 5.3 能从 Mozilla 已发布但未推送的安全修复中逆向出漏洞，以约 $1,000 算力自主攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本，最快一次仅用 12 小时，攻击通过串联补丁间隙漏洞与未公开漏洞绕过保护。",
+          "sourceName": "Epoch AI：Gradient Updates（RSS）",
+          "sourceUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+          "aihotUrl": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+          "publishedAt": "2026-10-30T12:07:16.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
+          "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+          "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+          "reason": "Cursor 官方披露扩展市场安全事件细节与处置过程，给出受影响范围和版本升级指引，受影响用户可按步骤自查。",
+          "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。",
+          "sourceName": "X：Cursor (@cursor_ai)",
+          "sourceUrl": "https://x.com/cursor_ai/status/2116074289053175808",
+          "aihotUrl": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+          "publishedAt": "2026-10-30T07:46:39.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
+          "id": "pg7avew3q9ekdp3ydzhiuh9y4",
+          "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
+          "reason": "Cursor 官方披露恶意扩展事件细节，给出检测命令、修复脚本和完整 IOC，受影响用户可按步骤自查处置。",
+          "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+          "sourceName": "Cursor Blog",
+          "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
+          "aihotUrl": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+          "publishedAt": "2026-10-29T12:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "kzenjo9w2bfhpsr0ub1gr95xj",
           "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
@@ -1353,48 +1423,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "wb6emxuh5ob2wh96egtwawgfu",
-          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
-          "reason": "作者通读 Anthropic 公开的 S-1 文件，用现金流和季度收入数据说明其财务状况与算力承诺之间的张力。",
-          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
-          "sourceName": "Timothy B. Lee：Understanding AI（RSS）",
-          "sourceUrl": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-          "aihotUrl": "https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu",
-          "publishedAt": "2026-10-29T19:10:41.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "r9bmkfh02wkycc8zmhw87h4q9",
-          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
-          "reason": "SemiAnalysis 分析师拆解 Anthropic S-1，给出了推理毛利、每兆瓦收入、客户支出结构等一手财务细节。",
-          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-          "aihotUrl": "https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9",
-          "publishedAt": "2026-10-29T14:00:00.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "x7qd347blfo2409za7srbypzw",
-          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-          "reason": "记者基于九名员工和内部记录还原 Proton 强推 AI 的内部冲突，读者可据此对照其他安全公司在效率与文化上的取舍。",
-          "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。",
-          "sourceName": "404 Media（RSS）",
-          "sourceUrl": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-          "aihotUrl": "https://aihot.news/items/x7qd347blfo2409za7srbypzw",
-          "publishedAt": "2026-10-29T14:21:49.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
