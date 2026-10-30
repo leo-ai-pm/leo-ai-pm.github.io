@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-29T20:30:04.767Z",
+  "checkedAt": "2026-10-30T00:12:38.541Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,48 @@
     }
   ],
   "today": [
+    {
+      "id": "gjz7lj8j6ojjyj80vkkhy786v",
+      "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
+      "reason": "原文给出 Droid 1.0 的基准对比数据和程序化工具调用设计细节，读者可以据此评估这个 Agent harness 的成本与质量取舍。",
+      "summary": "Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。",
+      "sourceName": "Factory 研究 / 产品（RSS）",
+      "sourceUrl": "https://factory.com/news/frontier-harness",
+      "aihotUrl": "https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "z9kqlhsgiz11fvlk3aodm6seg",
+      "title": "Figma 讲解如何训练专用画布编辑模型",
+      "reason": "原文拆解了 Figma 自研编辑模型从 SFT 到 RL 的训练路径与内部评测维度，可作专业领域后训练的参考方法。",
+      "summary": "Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。",
+      "sourceName": "Figma AI / Agent / Make",
+      "sourceUrl": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "aihotUrl": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
+      "publishedAt": "2026-10-29T21:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "op2kjf327vilvhbxkjicxg5ec",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+      "reason": "Reddit 财报披露搜索流量下滑与转向登录制策略，读者可以借此观察 AI 搜索对开放网络的商业冲击。",
+      "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "aihotUrl": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
+      "publishedAt": "2026-10-29T20:08:31.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "eq47lph0rzobf8cr950saiu8r",
       "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
@@ -318,34 +360,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "jpt1eeuj2p1mgrxbufuv3ntdn",
-      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-      "reason": "原文梳理了五条攻击链的关键数字和影响范围，读者可据此评估 AI 自主挖掘漏洞的实际能力边界。",
-      "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/019/268.htm",
-      "aihotUrl": "https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn",
-      "publishedAt": "2026-10-28T22:35:25.040Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "p24kw8c06nmy1hzs3spvr4aha",
-      "title": "Every 解读 Anthropic S-1：上线超过六个月的模型贡献收入不足 20%",
-      "reason": "文章借 Anthropic S-1 数据点出模型六个月生命周期这一行业规律，读者可据此调整自己的模型选择习惯。",
-      "summary": "Every 的 Context Window 通讯解读 Anthropic 周一提交的上市 S-1 文件，指出其重度依赖最新模型，发布超过六个月的模型收入占比不足 20%。",
-      "sourceName": "Every：最新文章（网页）",
-      "sourceUrl": "https://every.to/context-window/every-model-has-a-six-month-shelf-life-now",
-      "aihotUrl": "https://aihot.news/items/p24kw8c06nmy1hzs3spvr4aha",
-      "publishedAt": "2026-10-27T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
-      "unselected": false
     }
   ],
   "week": [
@@ -462,6 +476,20 @@
       "unselected": false
     },
     {
+      "id": "gjz7lj8j6ojjyj80vkkhy786v",
+      "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
+      "reason": "原文给出 Droid 1.0 的基准对比数据和程序化工具调用设计细节，读者可以据此评估这个 Agent harness 的成本与质量取舍。",
+      "summary": "Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。",
+      "sourceName": "Factory 研究 / 产品（RSS）",
+      "sourceUrl": "https://factory.com/news/frontier-harness",
+      "aihotUrl": "https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "nb40aoihhydhoo0acp0rcyaol",
       "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
       "reason": "官方补充技术报告和 Hy-Nomas-Bench 数据集，还放出与 Genie 4 的对比视频，便于研究者复现和评估该视频世界模型。",
@@ -560,17 +588,17 @@
       "unselected": false
     },
     {
-      "id": "xonc43xgcx39303i40k8022rl",
-      "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
-      "reason": "原文是 GitHub 官方对 Universe 2026 新品的集中说明，给出各功能的定位和关键数据，便于读者评估对现有工作流的影响。",
-      "summary": "GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。",
-      "sourceName": "GitHub Blog",
-      "sourceUrl": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-      "aihotUrl": "https://aihot.news/items/xonc43xgcx39303i40k8022rl",
-      "publishedAt": "2026-10-28T16:09:28.000Z",
+      "id": "op2kjf327vilvhbxkjicxg5ec",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+      "reason": "Reddit 财报披露搜索流量下滑与转向登录制策略，读者可以借此观察 AI 搜索对开放网络的商业冲击。",
+      "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "aihotUrl": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
+      "publishedAt": "2026-10-29T20:08:31.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -666,20 +694,6 @@
       "sourceUrl": "https://x.com/sundarpichai/status/2115535455156642066",
       "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
       "publishedAt": "2026-10-28T20:05:31.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "fbxzb7x7fzbjn0dmf367ywxrm",
-      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-      "reason": "作者提供了犹他州为期四周试点的一手数据，读者可据此评估 Claude Code 在政府开发者中的上手速度与实际节省时间。",
-      "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。",
-      "sourceName": "X：Boris Cherny (@bcherny)",
-      "sourceUrl": "https://x.com/bcherny/status/2115491259381072269",
-      "aihotUrl": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm",
-      "publishedAt": "2026-10-28T17:09:54.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -798,6 +812,20 @@
       "unselected": false
     },
     {
+      "id": "z9kqlhsgiz11fvlk3aodm6seg",
+      "title": "Figma 讲解如何训练专用画布编辑模型",
+      "reason": "原文拆解了 Figma 自研编辑模型从 SFT 到 RL 的训练路径与内部评测维度，可作专业领域后训练的参考方法。",
+      "summary": "Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。",
+      "sourceName": "Figma AI / Agent / Make",
+      "sourceUrl": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "aihotUrl": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
+      "publishedAt": "2026-10-29T21:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "m1cx9dfhpep0da323x3tk7vht",
       "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
       "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
@@ -894,20 +922,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "j5auxb780hddyh0hlgekuw03h",
-      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
-      "reason": "作者按编程智能体逐一梳理接入已登录 Chrome 的方案与配置，并解释为何复制 Cookie 行不通，方法可直接迁移到自己的工具链。",
-      "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
-      "sourceName": "Browser Use",
-      "sourceUrl": "https://browser-use.com/posts/coding-agent-logged-in-chrome",
-      "aihotUrl": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h",
-      "publishedAt": "2026-10-25T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -917,6 +931,34 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "gjz7lj8j6ojjyj80vkkhy786v",
+          "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
+          "reason": "原文给出 Droid 1.0 的基准对比数据和程序化工具调用设计细节，读者可以据此评估这个 Agent harness 的成本与质量取舍。",
+          "summary": "Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。",
+          "sourceName": "Factory 研究 / 产品（RSS）",
+          "sourceUrl": "https://factory.com/news/frontier-harness",
+          "aihotUrl": "https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
+          "id": "z9kqlhsgiz11fvlk3aodm6seg",
+          "title": "Figma 讲解如何训练专用画布编辑模型",
+          "reason": "原文拆解了 Figma 自研编辑模型从 SFT 到 RL 的训练路径与内部评测维度，可作专业领域后训练的参考方法。",
+          "summary": "Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。",
+          "sourceName": "Figma AI / Agent / Make",
+          "sourceUrl": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+          "aihotUrl": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
+          "publishedAt": "2026-10-29T21:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "ck2bk0ns12i2hkg4ae0eoeabv",
           "title": "OpenAI 详解如何检测前沿模型失准行为",
@@ -971,34 +1013,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "x7qd347blfo2409za7srbypzw",
-          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-          "reason": "记者基于九名员工和内部记录还原 Proton 强推 AI 的内部冲突，读者可据此对照其他安全公司在效率与文化上的取舍。",
-          "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。",
-          "sourceName": "404 Media（RSS）",
-          "sourceUrl": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-          "aihotUrl": "https://aihot.news/items/x7qd347blfo2409za7srbypzw",
-          "publishedAt": "2026-10-29T14:21:49.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "iuma7p8unle567lzy6hp5jpw9",
-          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-          "reason": "作者基于 Anthropic S-1 拆解其约 8500 亿美元 compute 承诺与增长压力，指出该公司商业模式押注递归自我改进。",
-          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-          "aihotUrl": "https://aihot.news/items/iuma7p8unle567lzy6hp5jpw9",
-          "publishedAt": "2026-10-29T13:30:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
@@ -1102,6 +1116,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "gjz7lj8j6ojjyj80vkkhy786v",
+          "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
+          "reason": "原文给出 Droid 1.0 的基准对比数据和程序化工具调用设计细节，读者可以据此评估这个 Agent harness 的成本与质量取舍。",
+          "summary": "Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。",
+          "sourceName": "Factory 研究 / 产品（RSS）",
+          "sourceUrl": "https://factory.com/news/frontier-harness",
+          "aihotUrl": "https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "mdcygre4ettjdbca7sq6vu7zx",
           "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
           "reason": "Wiz 结合自身三起案例与公开事件，提炼出七条可操作的智能体攻击指纹，对防御侧检测有直接参考价值。",
@@ -1170,20 +1198,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "z7h3xpbyfp9laquaq2njijzfo",
-          "title": "Apple Creator Studio 推出更新：Final Cut Pro 集成 MotionVFX，Keynote、Pages、Numbers 新增智能助手与 MCP 支持",
-          "reason": "官方新闻稿列出 Final Cut Pro、Logic Pro 与 Keynote 等应用的 AI 能力变化，读者可据此评估对创作工作流的影响。",
-          "summary": "Apple 为 Creator Studio 推出更新，Final Cut Pro for Mac 内置 MotionVFX 视觉效果库并接入含视频素材的 Content Hub。",
-          "sourceName": "Apple：Newsroom（RSS）",
-          "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-          "aihotUrl": "https://aihot.news/items/z7h3xpbyfp9laquaq2njijzfo",
-          "publishedAt": "2026-10-26T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1193,6 +1207,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "gjz7lj8j6ojjyj80vkkhy786v",
+          "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
+          "reason": "原文给出 Droid 1.0 的基准对比数据和程序化工具调用设计细节，读者可以据此评估这个 Agent harness 的成本与质量取舍。",
+          "summary": "Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。",
+          "sourceName": "Factory 研究 / 产品（RSS）",
+          "sourceUrl": "https://factory.com/news/frontier-harness",
+          "aihotUrl": "https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "wb6emxuh5ob2wh96egtwawgfu",
           "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
@@ -1262,20 +1290,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "r9bmkfh02wkycc8zmhw87h4q9",
-          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
-          "reason": "SemiAnalysis 分析师拆解 Anthropic S-1，给出了推理毛利、每兆瓦收入、客户支出结构等一手财务细节。",
-          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-          "aihotUrl": "https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9",
-          "publishedAt": "2026-10-29T14:00:00.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
         }
       ]
     },
@@ -1285,6 +1299,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "gjz7lj8j6ojjyj80vkkhy786v",
+          "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
+          "reason": "原文给出 Droid 1.0 的基准对比数据和程序化工具调用设计细节，读者可以据此评估这个 Agent harness 的成本与质量取舍。",
+          "summary": "Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。",
+          "sourceName": "Factory 研究 / 产品（RSS）",
+          "sourceUrl": "https://factory.com/news/frontier-harness",
+          "aihotUrl": "https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "wb6emxuh5ob2wh96egtwawgfu",
           "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
@@ -1350,20 +1378,6 @@
           "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
           "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
           "publishedAt": "2026-10-29T06:13:39.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "l928e49lwysm0ymgmhyjrkc3z",
-          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-          "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
-          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
-          "aihotUrl": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
-          "publishedAt": "2026-10-29T00:00:00.000Z",
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
