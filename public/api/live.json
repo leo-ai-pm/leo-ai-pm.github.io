@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年10月30日",
+    "date": "2026年10月31日",
     "demo": false,
-    "updatedAt": "2026-10-30T12:40:48.866Z",
+    "updatedAt": "2026-10-30T18:15:43.638Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 196,
+      "received": 165,
       "latestCount": 1,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "karpathy",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -145,22 +145,22 @@
     },
     "items": [
       {
-        "id": "aihot-cnv66vnpbk9tlu947xvls3iiq",
-        "title": "Perplexity Computer 上线 /unbroker 技能，帮你从数据经纪商网站删除个人信息",
-        "brief": "Perplexity CEO Aravind Srinivas 推荐用 Perplexity Computer 上的 /unbroker 技能删除自己在数据经纪商网站上的信息。",
-        "summary": "Perplexity CEO Aravind Srinivas 推荐用 Perplexity Computer 上的 /unbroker 技能删除自己在数据经纪商网站上的信息。",
+        "id": "aihot-pkh78xsbwlnsclkaui1tgb35e",
+        "title": "Perplexity Computer 通过新 Chrome 扩展接管本地浏览器任务",
+        "brief": "Perplexity CEO Aravind Srinivas 宣布 Perplexity Computer 现在可通过新的 Chrome 扩展，从 Mac 和 Windows 应用控制用户的 Google Chrome 浏览器，一次性设置后即可让智能体在已登录网站上执行本地浏览任务。",
+        "summary": "Perplexity CEO Aravind Srinivas 宣布 Perplexity Computer 现在可通过新的 Chrome 扩展，从 Mac 和 Windows 应用控制用户的 Google Chrome 浏览器，一次性设置后即可让智能体在已登录网站上执行本地浏览任务。",
         "category": "产品动态",
-        "topic": "AI 产品",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "AravSrinivas",
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2115868099329380781",
-        "aggregateUrl": "https://aihot.news/items/cnv66vnpbk9tlu947xvls3iiq",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2116186492758577575",
+        "aggregateUrl": "https://aihot.news/items/pkh78xsbwlnsclkaui1tgb35e",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-29T18:07:20.000Z",
+        "publishedAt": "2026-10-30T15:12:31.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -228,8 +228,8 @@
         "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
         "aihotUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
         "storyUrl": "https://aihot.news/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb",
-        "sourceCount": 14,
-        "participantCount": 93,
+        "sourceCount": 9,
+        "participantCount": 69,
         "latestAt": "2026-10-30T02:09:18.000Z",
         "expanded": true,
         "latest": "Artificial Analysis 推出 HLE-Diamond 榜单，Gemini 4 Carbon (high) 以 69% 居首",
@@ -277,6 +277,56 @@
       },
       {
         "rank": 2,
+        "id": "upsd8u37hkkquohy3w3sjvszi",
+        "title": "Mistral 开放万亿参数 Le Chonk 权重，Unsloth 推 1-bit 量化版",
+        "sourceName": "Hugging Face 官方团队博客",
+        "sourceUrl": "https://huggingface.co/blog/mistral-large4",
+        "aihotUrl": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
+        "storyUrl": "https://aihot.news/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac",
+        "sourceCount": 11,
+        "participantCount": 37,
+        "latestAt": "2026-10-30T09:48:50.000Z",
+        "expanded": true,
+        "latest": "Mistral 大模型 Le Chonk 训练营三周",
+        "reports": [
+          {
+            "title": "Mistral 大模型 Le Chonk 训练营三周",
+            "sourceName": "X：Mistral AI (@MistralAI)",
+            "sourceUrl": "https://x.com/MistralAI/status/2116105034673058023",
+            "aihotUrl": "https://aihot.news/items/drwrjywgjnrxx4yil7uznr16m",
+            "publishedAt": "2026-10-30T09:48:50.000Z"
+          },
+          {
+            "title": "Mistral AI 开放 Mistral Large 4 模型权重：1T 总参数，编码智能体省 Token 47%",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/019/865.htm",
+            "aihotUrl": "https://aihot.news/items/jp9ot6s32ux739qzz6pebo4n8",
+            "publishedAt": "2026-10-30T01:09:09.660Z"
+          },
+          {
+            "title": "Mistral 发布 1 万亿参数 Mistral Large 4 权重并将 API 价格约减半",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2115876025452331018",
+            "aihotUrl": "https://aihot.news/items/qjlnyctm3t9mgkccrwthnyg1e",
+            "publishedAt": "2026-10-29T18:38:50.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Hugging Face 官方团队博客",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
         "id": "funx6p4g0gju509j6n0oyxmqu",
         "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
         "sourceName": "X：Tibo (@thsottiaux)",
@@ -326,66 +376,16 @@
         }
       },
       {
-        "rank": 3,
-        "id": "upsd8u37hkkquohy3w3sjvszi",
-        "title": "Mistral 开放万亿参数 Le Chonk 权重，Unsloth 推 1-bit 量化版",
-        "sourceName": "Hugging Face 官方团队博客",
-        "sourceUrl": "https://huggingface.co/blog/mistral-large4",
-        "aihotUrl": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
-        "storyUrl": "https://aihot.news/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac",
-        "sourceCount": 11,
-        "participantCount": 34,
-        "latestAt": "2026-10-30T09:48:50.000Z",
-        "expanded": true,
-        "latest": "Mistral 大模型 Le Chonk 训练营三周",
-        "reports": [
-          {
-            "title": "Mistral 大模型 Le Chonk 训练营三周",
-            "sourceName": "X：Mistral AI (@MistralAI)",
-            "sourceUrl": "https://x.com/MistralAI/status/2116105034673058023",
-            "aihotUrl": "https://aihot.news/items/drwrjywgjnrxx4yil7uznr16m",
-            "publishedAt": "2026-10-30T09:48:50.000Z"
-          },
-          {
-            "title": "Mistral AI 开放 Mistral Large 4 模型权重：1T 总参数，编码智能体省 Token 47%",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/019/865.htm",
-            "aihotUrl": "https://aihot.news/items/jp9ot6s32ux739qzz6pebo4n8",
-            "publishedAt": "2026-10-30T01:09:09.660Z"
-          },
-          {
-            "title": "Mistral 发布 1 万亿参数 Mistral Large 4 权重并将 API 价格约减半",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2115876025452331018",
-            "aihotUrl": "https://aihot.news/items/qjlnyctm3t9mgkccrwthnyg1e",
-            "publishedAt": "2026-10-29T18:38:50.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Hugging Face 官方团队博客",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 4,
-        "id": "urs0f8vvh3zel0gh18qvn8h09",
-        "title": "Apple发布PROLED XDR屏MacBook Pro，首配触控",
-        "sourceName": "Apple：Newsroom（RSS）",
-        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-        "aihotUrl": "https://aihot.news/items/urs0f8vvh3zel0gh18qvn8h09",
-        "storyUrl": "https://aihot.news/story/add1dde9-53ea-4f82-9daa-6d50735a149c",
-        "sourceCount": 2,
-        "participantCount": 35,
-        "latestAt": "2026-10-29T00:31:38.000Z",
+        "id": "v4uwaucyf64u7bkzsyvri08w4",
+        "title": "Reddit 转向登录优先，应对搜索流量流失",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+        "aihotUrl": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
+        "storyUrl": "https://aihot.news/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d",
+        "sourceCount": 3,
+        "participantCount": 17,
+        "latestAt": "2026-10-30T17:15:24.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -393,7 +393,7 @@
         "visual": {
           "entities": [
             {
-              "name": "Apple：Newsroom（RSS）",
+              "name": "The Decoder：AI News（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -411,9 +411,9 @@
         "sourceUrl": "https://x.com/sundarpichai/status/2115535455156642066",
         "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
         "storyUrl": "https://aihot.news/story/c432aa2e-0614-4744-8618-1769e016569b",
-        "sourceCount": 4,
-        "participantCount": 26,
-        "latestAt": "2026-10-29T16:24:55.000Z",
+        "sourceCount": 5,
+        "participantCount": 27,
+        "latestAt": "2026-10-30T14:50:37.797Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -433,15 +433,15 @@
       },
       {
         "rank": 6,
-        "id": "op2kjf327vilvhbxkjicxg5ec",
-        "title": "Reddit 转向登录优先，应对 AI 搜索流量下滑",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-        "aihotUrl": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
-        "storyUrl": "https://aihot.news/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d",
+        "id": "urs0f8vvh3zel0gh18qvn8h09",
+        "title": "Apple发布PROLED XDR屏MacBook Pro，首配触控",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+        "aihotUrl": "https://aihot.news/items/urs0f8vvh3zel0gh18qvn8h09",
+        "storyUrl": "https://aihot.news/story/add1dde9-53ea-4f82-9daa-6d50735a149c",
         "sourceCount": 2,
-        "participantCount": 14,
-        "latestAt": "2026-10-30T06:59:22.000Z",
+        "participantCount": 26,
+        "latestAt": "2026-10-29T00:31:38.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -449,7 +449,7 @@
         "visual": {
           "entities": [
             {
-              "name": "TechCrunch：AI（RSS）",
+              "name": "Apple：Newsroom（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -467,9 +467,9 @@
         "sourceUrl": "https://www.anthropic.com/news/s1-sec",
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 4,
-        "participantCount": 17,
-        "latestAt": "2026-10-30T01:28:37.000Z",
+        "sourceCount": 3,
+        "participantCount": 15,
+        "latestAt": "2026-10-30T13:11:05.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -489,43 +489,15 @@
       },
       {
         "rank": 8,
-        "id": "hb9hlobx48r7sz850swx62efv",
-        "title": "NVIDIA 发布开放权重语音模型 Nemotron 3.5 Transcribe",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/019/545.htm",
-        "aihotUrl": "https://aihot.news/items/hb9hlobx48r7sz850swx62efv",
-        "storyUrl": "https://aihot.news/story/0aff3bb1-44c6-45f9-92fa-d4d7e6ec3945",
-        "sourceCount": 6,
-        "participantCount": 22,
-        "latestAt": "2026-10-29T07:31:29.940Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
         "id": "rccreyesa3aeph7jasj5spv29",
-        "title": "OpenAI重组Model Spec为五项核心价值观",
+        "title": "OpenAI将Model Spec重组为五项核心价值观",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "sourceUrl": "https://openai.com/index/updated-model-spec",
         "aihotUrl": "https://aihot.news/items/rccreyesa3aeph7jasj5spv29",
         "storyUrl": "https://aihot.news/story/255f7354-2733-447e-a6cc-f6f065893f9d",
-        "sourceCount": 2,
-        "participantCount": 11,
-        "latestAt": "2026-10-30T02:16:46.210Z",
+        "sourceCount": 3,
+        "participantCount": 12,
+        "latestAt": "2026-10-30T17:44:59.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -544,16 +516,16 @@
         }
       },
       {
-        "rank": 10,
-        "id": "lq97h52ctxw2nkri4qqxj5lbx",
-        "title": "纽时称中国情报人员接近黄仁勋，英伟达否认",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-        "aihotUrl": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
-        "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-        "sourceCount": 4,
-        "participantCount": 13,
-        "latestAt": "2026-10-29T18:29:12.000Z",
+        "rank": 9,
+        "id": "ycead8zu36at18yrrm22u6lrf",
+        "title": "Google卫星TPU在轨运行并回传首个响应",
+        "sourceName": "X：Sundar Pichai (@sundarpichai)",
+        "sourceUrl": "https://x.com/sundarpichai/status/2116214866444943853",
+        "aihotUrl": "https://aihot.news/items/ycead8zu36at18yrrm22u6lrf",
+        "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
+        "sourceCount": 3,
+        "participantCount": 7,
+        "latestAt": "2026-10-30T17:15:40.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -561,10 +533,38 @@
         "visual": {
           "entities": [
             {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
+        "id": "ov4nfafvbhe7d8mj1uirkgsxb",
+        "title": "SpaceX 三季度 AI 收入过半，Anthropic 成最大客户",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
+        "storyUrl": "https://aihot.news/story/2ba6c88e-eaa2-47c1-b517-8f89994933d9",
+        "sourceCount": 1,
+        "participantCount": 11,
+        "latestAt": "2026-10-29T22:48:33.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "热点",
@@ -575,8 +575,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-30T12:40:48.866Z",
-    "nextCheckAt": 1793364348866,
+    "checkedAt": "2026-10-30T18:15:43.638Z",
+    "nextCheckAt": 1793384443638,
     "intervalSeconds": 300,
     "message": ""
   }
