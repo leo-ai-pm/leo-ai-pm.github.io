@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-10-30T18:16:01.454Z",
+  "checkedAt": "2026-10-30T22:27:08.090Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "oas684tt9kpeds9cq7vgjvo1x",
+      "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
+      "reason": "OpenAI 汇编多领域法庭之友意见，读者可据此了解 AI 训练合理使用抗辩的核心论点与《纽约时报》诉讼的争议焦点。",
+      "summary": "OpenAI 整理了在《纽约时报》诉讼中提交给法院的多份支持合理使用的法庭之友意见摘要，作者包括图书馆协会、法律学者、独立创作者和美国政府等。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
+      "aihotUrl": "https://aihot.news/items/oas684tt9kpeds9cq7vgjvo1x",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "fxxkgtzpf2pb8xjnhu4jtis0b",
+      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+      "reason": "原文汇总四大科技公司的资本开支与自由现金流数据，可帮读者理解投资者为何开始担忧 AI 基建投入的回报。",
+      "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "aihotUrl": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
+      "publishedAt": "2026-10-30T21:17:40.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "l7y0gkoqx56dt6jxv6x0mcl0h",
       "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
@@ -51,6 +79,20 @@
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "cms82puwtmpssdpbjmajoopr9",
+      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+      "reason": "Google 在轨道卫星上启动 TPU 并让模型完成推理，展示了天基算力实验从发射走向实际运行的进展。",
+      "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
+      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
+      "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+      "publishedAt": "2026-10-30T18:28:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -111,9 +153,9 @@
     },
     {
       "id": "pg7avew3q9ekdp3ydzhiuh9y4",
-      "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
-      "reason": "Cursor 官方披露恶意扩展事件细节，给出检测命令、修复脚本和完整 IOC，受影响用户可按步骤自查处置。",
-      "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+      "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
+      "reason": "Cursor 给出受影响用户数、检测命令和完整修复脚本，受影响用户可据此自查并清理后门。",
+      "summary": "Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1.313 版本，非 Anthropic 官方开发，最多影响 4100 名用户。",
       "sourceName": "Cursor Blog",
       "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
       "aihotUrl": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
@@ -205,62 +247,6 @@
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "z9kqlhsgiz11fvlk3aodm6seg",
-      "title": "Figma 讲解如何训练专用画布编辑模型",
-      "reason": "原文拆解了 Figma 自研编辑模型从 SFT 到 RL 的训练路径与内部评测维度，可作专业领域后训练的参考方法。",
-      "summary": "Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。",
-      "sourceName": "Figma AI / Agent / Make",
-      "sourceUrl": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "aihotUrl": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
-      "publishedAt": "2026-10-29T21:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "v4uwaucyf64u7bkzsyvri08w4",
-      "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
-      "reason": "Reddit CEO 的一手数据和判断，说明 Google AI 搜索如何切断内容网站的流量，对依赖搜索的业务有普遍参考意义。",
-      "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "aihotUrl": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
-      "publishedAt": "2026-10-30T17:15:24.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "eq47lph0rzobf8cr950saiu8r",
-      "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
-      "reason": "原文点出采样步数从50步压到6步且开源，本地视频生成玩家可据此评估实际收益。",
-      "summary": "Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。",
-      "sourceName": "X：卡兹克 (@Khazix0918)",
-      "sourceUrl": "https://x.com/Khazix0918/status/2115898252004622617",
-      "aihotUrl": "https://aihot.news/items/eq47lph0rzobf8cr950saiu8r",
-      "publishedAt": "2026-10-29T20:07:09.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "wb6emxuh5ob2wh96egtwawgfu",
-      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
-      "reason": "作者通读 Anthropic 公开的 S-1 文件，用现金流和季度收入数据说明其财务状况与算力承诺之间的张力。",
-      "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
-      "sourceName": "Timothy B. Lee：Understanding AI（RSS）",
-      "sourceUrl": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-      "aihotUrl": "https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu",
-      "publishedAt": "2026-10-29T19:10:41.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
       "unselected": false
     }
   ],
@@ -490,6 +476,34 @@
       "unselected": false
     },
     {
+      "id": "oas684tt9kpeds9cq7vgjvo1x",
+      "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
+      "reason": "OpenAI 汇编多领域法庭之友意见，读者可据此了解 AI 训练合理使用抗辩的核心论点与《纽约时报》诉讼的争议焦点。",
+      "summary": "OpenAI 整理了在《纽约时报》诉讼中提交给法院的多份支持合理使用的法庭之友意见摘要，作者包括图书馆协会、法律学者、独立创作者和美国政府等。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
+      "aihotUrl": "https://aihot.news/items/oas684tt9kpeds9cq7vgjvo1x",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "fxxkgtzpf2pb8xjnhu4jtis0b",
+      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+      "reason": "原文汇总四大科技公司的资本开支与自由现金流数据，可帮读者理解投资者为何开始担忧 AI 基建投入的回报。",
+      "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "aihotUrl": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
+      "publishedAt": "2026-10-30T21:17:40.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "l7y0gkoqx56dt6jxv6x0mcl0h",
       "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
       "reason": "报道整合了本周多家巨头的股价、市值损失和支出数字，可看出市场对 AI 投入回报的担忧正在集中兑现。",
@@ -498,6 +512,20 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "aihotUrl": "https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h",
       "publishedAt": "2026-10-30T14:50:37.797Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "cms82puwtmpssdpbjmajoopr9",
+      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+      "reason": "Google 在轨道卫星上启动 TPU 并让模型完成推理，展示了天基算力实验从发射走向实际运行的进展。",
+      "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
+      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
+      "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+      "publishedAt": "2026-10-30T18:28:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -533,9 +561,9 @@
     },
     {
       "id": "pg7avew3q9ekdp3ydzhiuh9y4",
-      "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
-      "reason": "Cursor 官方披露恶意扩展事件细节，给出检测命令、修复脚本和完整 IOC，受影响用户可按步骤自查处置。",
-      "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+      "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
+      "reason": "Cursor 给出受影响用户数、检测命令和完整修复脚本，受影响用户可据此自查并清理后门。",
+      "summary": "Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1.313 版本，非 Anthropic 官方开发，最多影响 4100 名用户。",
       "sourceName": "Cursor Blog",
       "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
       "aihotUrl": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
@@ -554,48 +582,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
       "aihotUrl": "https://aihot.news/items/puushryi79v0flh2um3a70xnw",
       "publishedAt": "2026-10-29T21:29:51.580Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "kzenjo9w2bfhpsr0ub1gr95xj",
-      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-      "reason": "作者把 Google 和 Reddit 同日财报放在一起分析，指出 AI Mode 变现弱于传统搜索正在推动网站加门槛、让开放网络收缩。",
-      "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
-      "sourceName": "Platformer（热点 RSS）",
-      "sourceUrl": "https://www.platformer.news/thursday-newsletter-6/",
-      "aihotUrl": "https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj",
-      "publishedAt": "2026-10-30T00:51:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "fxmexzrmo7pw52vc5j6ej17kl",
-      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
-      "reason": "原文给出 AWS 最新财报数字、2026 约 2200 亿美元 capex 计划和 Jassy 的万亿营收时间表，可帮助读者判断云厂商 AI 投入节奏。",
-      "summary": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "aihotUrl": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "v4uwaucyf64u7bkzsyvri08w4",
-      "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
-      "reason": "Reddit CEO 的一手数据和判断，说明 Google AI 搜索如何切断内容网站的流量，对依赖搜索的业务有普遍参考意义。",
-      "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "aihotUrl": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
-      "publishedAt": "2026-10-30T17:15:24.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -784,6 +770,20 @@
       "unselected": false
     },
     {
+      "id": "mcucufe6w6qrftx6l40hkmjrz",
+      "title": "Pydantic AI 基准实测：代码模式让长任务成本降 58%、耗时降 51%",
+      "reason": "作者用 5276 次实测把代码模式的真实收益边界拆开，长任务省一半成本而短任务反而更贵，结论可直接迁移到自己的智能体设计。",
+      "summary": "Pydantic AI 的 Michael Pfaffenberger 发布一篇基准分析，用 5 个小型 CRUD 应用、8 个模型、5,276 次评分运行对比代码模式开与关。",
+      "sourceName": "Pydantic AI 官方文章",
+      "sourceUrl": "https://pydantic.dev/articles/why-code-mode-is-the-future",
+      "aihotUrl": "https://aihot.news/items/mcucufe6w6qrftx6l40hkmjrz",
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "wgss1ksoafvu62x799sdfs0fo",
       "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
       "reason": "OpenRouter 实测了 Claude Code 走 API key 计费的真实成本，并提醒 Claude Code 自印的价格可能偏高。",
@@ -810,20 +810,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "l63udrrcunv0qy04ve4s71g02",
-      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-      "reason": "LangChain 复盘自研设计 agent 从早期差评到可用的过程，并开源了 harness，读者可借鉴其教品味、建环境和异步子代理的具体做法。",
-      "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-      "sourceName": "LangChain：Blog（RSS）",
-      "sourceUrl": "https://www.langchain.com/blog/design-agent",
-      "aihotUrl": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02",
-      "publishedAt": "2026-10-27T16:45:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -833,6 +819,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "fxxkgtzpf2pb8xjnhu4jtis0b",
+          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+          "reason": "原文汇总四大科技公司的资本开支与自由现金流数据，可帮读者理解投资者为何开始担忧 AI 基建投入的回报。",
+          "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "aihotUrl": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
+          "publishedAt": "2026-10-30T21:17:40.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "hfhskyex3cjrs3huvpmi1z7bg",
           "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
@@ -902,20 +902,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "e234ewhx82g2zh3z2bgcjxx7d",
-          "title": "OpenAI 详解如何监控前沿模型的失对齐行为",
-          "reason": "OpenAI 公开了内部失对齐监控系统的分层架构、检出率数据和红队结果，读者可以据此了解前沿模型监控的实际做法与局限。",
-          "summary": "OpenAI 在 Alignment 博客介绍其针对前沿模型（如 GPT-6 Astra）的多层失对齐监控系统，覆盖训练、评估、内部使用和部分外部部署。",
-          "sourceName": "OpenAI：Alignment 研究博客（RSS）",
-          "sourceUrl": "https://alignment.openai.com/how-we-detect-frontier-model-misalignment/",
-          "aihotUrl": "https://aihot.news/items/e234ewhx82g2zh3z2bgcjxx7d",
-          "publishedAt": "2026-10-29T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
         }
       ]
     },
@@ -948,6 +934,20 @@
           "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
           "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
           "publishedAt": "2026-10-29T06:13:39.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "mcucufe6w6qrftx6l40hkmjrz",
+          "title": "Pydantic AI 基准实测：代码模式让长任务成本降 58%、耗时降 51%",
+          "reason": "作者用 5276 次实测把代码模式的真实收益边界拆开，长任务省一半成本而短任务反而更贵，结论可直接迁移到自己的智能体设计。",
+          "summary": "Pydantic AI 的 Michael Pfaffenberger 发布一篇基准分析，用 5 个小型 CRUD 应用、8 个模型、5,276 次评分运行对比代码模式开与关。",
+          "sourceName": "Pydantic AI 官方文章",
+          "sourceUrl": "https://pydantic.dev/articles/why-code-mode-is-the-future",
+          "aihotUrl": "https://aihot.news/items/mcucufe6w6qrftx6l40hkmjrz",
+          "publishedAt": "2026-10-28T09:00:00.000Z",
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
@@ -993,20 +993,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "w5optivkpl1pchxn85qaknu3d",
-          "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
-          "reason": "AISI 用 ReproBAIT 评测显示，仅凭公开论文和训练数据，部分生物 AI 工具能在几小时、几十美元内被编码智能体复现，数据治理或比藏代码更有效。",
-          "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
-          "sourceName": "英国 AI Security Institute：Blog（网页）",
-          "sourceUrl": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
-          "aihotUrl": "https://aihot.news/items/w5optivkpl1pchxn85qaknu3d",
-          "publishedAt": "2026-10-25T23:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
@@ -1110,6 +1096,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "oas684tt9kpeds9cq7vgjvo1x",
+          "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
+          "reason": "OpenAI 汇编多领域法庭之友意见，读者可据此了解 AI 训练合理使用抗辩的核心论点与《纽约时报》诉讼的争议焦点。",
+          "summary": "OpenAI 整理了在《纽约时报》诉讼中提交给法院的多份支持合理使用的法庭之友意见摘要，作者包括图书馆协会、法律学者、独立创作者和美国政府等。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
+          "aihotUrl": "https://aihot.news/items/oas684tt9kpeds9cq7vgjvo1x",
+          "publishedAt": "2026-10-30T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "l7y0gkoqx56dt6jxv6x0mcl0h",
           "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
           "reason": "报道整合了本周多家巨头的股价、市值损失和支出数字，可看出市场对 AI 投入回报的担忧正在集中兑现。",
@@ -1178,20 +1178,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "wb6emxuh5ob2wh96egtwawgfu",
-          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
-          "reason": "作者通读 Anthropic 公开的 S-1 文件，用现金流和季度收入数据说明其财务状况与算力承诺之间的张力。",
-          "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
-          "sourceName": "Timothy B. Lee：Understanding AI（RSS）",
-          "sourceUrl": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-          "aihotUrl": "https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu",
-          "publishedAt": "2026-10-29T19:10:41.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -1201,6 +1187,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "fxxkgtzpf2pb8xjnhu4jtis0b",
+          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+          "reason": "原文汇总四大科技公司的资本开支与自由现金流数据，可帮读者理解投资者为何开始担忧 AI 基建投入的回报。",
+          "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "aihotUrl": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
+          "publishedAt": "2026-10-30T21:17:40.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
           "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
@@ -1245,9 +1245,9 @@
         },
         {
           "id": "pg7avew3q9ekdp3ydzhiuh9y4",
-          "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
-          "reason": "Cursor 官方披露恶意扩展事件细节，给出检测命令、修复脚本和完整 IOC，受影响用户可按步骤自查处置。",
-          "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+          "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
+          "reason": "Cursor 给出受影响用户数、检测命令和完整修复脚本，受影响用户可据此自查并清理后门。",
+          "summary": "Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1.313 版本，非 Anthropic 官方开发，最多影响 4100 名用户。",
           "sourceName": "Cursor Blog",
           "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
           "aihotUrl": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
@@ -1269,20 +1269,6 @@
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "gzcwy89nkjreenv5eu1qaysdi",
-          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
-          "reason": "原文用同一批编码与基准任务实测三档模型，给出按工作负载选型的成本与可靠性结论。",
-          "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/",
-          "aihotUrl": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
-          "publishedAt": "2026-10-30T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]

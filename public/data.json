@@ -1,7 +1,7 @@
 {
   "date": "2026年10月31日",
   "demo": false,
-  "updatedAt": "2026-10-30T18:15:43.638Z",
+  "updatedAt": "2026-10-30T22:26:52.962Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 165,
+    "received": 168,
     "latestCount": 1,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -144,22 +144,22 @@
   },
   "items": [
     {
-      "id": "aihot-pkh78xsbwlnsclkaui1tgb35e",
-      "title": "Perplexity Computer 通过新 Chrome 扩展接管本地浏览器任务",
-      "brief": "Perplexity CEO Aravind Srinivas 宣布 Perplexity Computer 现在可通过新的 Chrome 扩展，从 Mac 和 Windows 应用控制用户的 Google Chrome 浏览器，一次性设置后即可让智能体在已登录网站上执行本地浏览任务。",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布 Perplexity Computer 现在可通过新的 Chrome 扩展，从 Mac 和 Windows 应用控制用户的 Google Chrome 浏览器，一次性设置后即可让智能体在已登录网站上执行本地浏览任务。",
-      "category": "产品动态",
-      "topic": "Agent",
+      "id": "aihot-fry3sr67xoubgdxura6c3js34",
+      "title": "Perplexity 分享 Gemini 4 Carbon 早期评测",
+      "brief": "分享 Gemini 4 Carbon 的早期评测。",
+      "summary": "分享 Gemini 4 Carbon 的早期评测。",
+      "category": "模型进展",
+      "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2116186492758577575",
-      "aggregateUrl": "https://aihot.news/items/pkh78xsbwlnsclkaui1tgb35e",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2116263856628703247",
+      "aggregateUrl": "https://aihot.news/items/fry3sr67xoubgdxura6c3js34",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-30T15:12:31.000Z",
+      "publishedAt": "2026-10-30T20:19:56.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -169,9 +169,15 @@
             "asset": "/assets/identities/perplexity_ai.jpg",
             "assetSource": "https://x.com/perplexity_ai",
             "tone": "#dcebea"
+          },
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
-        "caption": "产品动态",
+        "caption": "模型进展",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -227,12 +233,19 @@
       "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "aihotUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
       "storyUrl": "https://aihot.news/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb",
-      "sourceCount": 9,
-      "participantCount": 69,
+      "sourceCount": 3,
+      "participantCount": 53,
       "latestAt": "2026-10-30T02:09:18.000Z",
       "expanded": true,
       "latest": "Artificial Analysis 推出 HLE-Diamond 榜单，Gemini 4 Carbon (high) 以 69% 居首",
       "reports": [
+        {
+          "title": "Arena 周报：Gemini 4 Carbon 登顶 Text Arena，GPT-6.1 Terra 和 MAI-Image-2.7-Preview 新上榜",
+          "sourceName": "X：Arena (@arena)",
+          "sourceUrl": "https://x.com/arena/status/2116239697727180890",
+          "aihotUrl": "https://aihot.news/items/m0hw5ro69giqbw03je0o5fo2g",
+          "publishedAt": "2026-10-30T18:43:56.000Z"
+        },
         {
           "title": "Artificial Analysis 推出 HLE-Diamond 榜单，Gemini 4 Carbon (high) 以 69% 居首",
           "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
@@ -246,13 +259,6 @@
           "sourceUrl": "https://x.com/rohanpaul_ai/status/2115963043347878176",
           "aihotUrl": "https://aihot.news/items/w8mgec3plmnhihuoraivpdr87",
           "publishedAt": "2026-10-30T00:24:36.000Z"
-        },
-        {
-          "title": "Artificial Analysis 发布 Intelligence Index v5 与 Progress Index",
-          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-          "sourceUrl": "https://x.com/ArtificialAnlys/status/2115883284706349285",
-          "aihotUrl": "https://aihot.news/items/nlxrofhokbgwwu8xsy25zj72v",
-          "publishedAt": "2026-10-29T19:07:40.000Z"
         }
       ],
       "related": [
@@ -376,6 +382,62 @@
     },
     {
       "rank": 4,
+      "id": "cms82puwtmpssdpbjmajoopr9",
+      "title": "Google 卫星在轨 TPU 完成首次推理并回传俳句",
+      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
+      "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+      "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
+      "sourceCount": 5,
+      "participantCount": 16,
+      "latestAt": "2026-10-30T19:04:37.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
+      "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
+      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
+      "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+      "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
+      "sourceCount": 2,
+      "participantCount": 13,
+      "latestAt": "2026-10-30T18:00:40.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "v4uwaucyf64u7bkzsyvri08w4",
       "title": "Reddit 转向登录优先，应对搜索流量流失",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -383,7 +445,7 @@
       "aihotUrl": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
       "storyUrl": "https://aihot.news/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d",
       "sourceCount": 3,
-      "participantCount": 17,
+      "participantCount": 18,
       "latestAt": "2026-10-30T17:15:24.000Z",
       "expanded": false,
       "latest": "",
@@ -403,15 +465,15 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "id": "m5st8pvirbas7phreshbzkrc9",
       "title": "Alphabet Q3营收增25%，AI搜索变现承压",
       "sourceName": "X：Sundar Pichai (@sundarpichai)",
       "sourceUrl": "https://x.com/sundarpichai/status/2115535455156642066",
       "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
       "storyUrl": "https://aihot.news/story/c432aa2e-0614-4744-8618-1769e016569b",
-      "sourceCount": 5,
-      "participantCount": 27,
+      "sourceCount": 2,
+      "participantCount": 19,
       "latestAt": "2026-10-30T14:50:37.797Z",
       "expanded": false,
       "latest": "",
@@ -431,35 +493,7 @@
       }
     },
     {
-      "rank": 6,
-      "id": "urs0f8vvh3zel0gh18qvn8h09",
-      "title": "Apple发布PROLED XDR屏MacBook Pro，首配触控",
-      "sourceName": "Apple：Newsroom（RSS）",
-      "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "aihotUrl": "https://aihot.news/items/urs0f8vvh3zel0gh18qvn8h09",
-      "storyUrl": "https://aihot.news/story/add1dde9-53ea-4f82-9daa-6d50735a149c",
-      "sourceCount": 2,
-      "participantCount": 26,
-      "latestAt": "2026-10-29T00:31:38.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Apple：Newsroom（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
       "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
       "sourceName": "Anthropic：Newsroom（网页）",
@@ -467,7 +501,7 @@
       "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
       "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
       "sourceCount": 3,
-      "participantCount": 15,
+      "participantCount": 14,
       "latestAt": "2026-10-30T13:11:05.000Z",
       "expanded": false,
       "latest": "",
@@ -487,7 +521,35 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "urs0f8vvh3zel0gh18qvn8h09",
+      "title": "Apple发布PROLED XDR屏MacBook Pro，首配触控",
+      "sourceName": "Apple：Newsroom（RSS）",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "aihotUrl": "https://aihot.news/items/urs0f8vvh3zel0gh18qvn8h09",
+      "storyUrl": "https://aihot.news/story/add1dde9-53ea-4f82-9daa-6d50735a149c",
+      "sourceCount": 1,
+      "participantCount": 19,
+      "latestAt": "2026-10-29T00:31:38.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Apple：Newsroom（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "rccreyesa3aeph7jasj5spv29",
       "title": "OpenAI将Model Spec重组为五项核心价值观",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -508,62 +570,6 @@
             "asset": "/assets/identities/openai.jpg",
             "assetSource": "https://x.com/OpenAI",
             "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "ycead8zu36at18yrrm22u6lrf",
-      "title": "Google卫星TPU在轨运行并回传首个响应",
-      "sourceName": "X：Sundar Pichai (@sundarpichai)",
-      "sourceUrl": "https://x.com/sundarpichai/status/2116214866444943853",
-      "aihotUrl": "https://aihot.news/items/ycead8zu36at18yrrm22u6lrf",
-      "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
-      "sourceCount": 3,
-      "participantCount": 7,
-      "latestAt": "2026-10-30T17:15:40.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "ov4nfafvbhe7d8mj1uirkgsxb",
-      "title": "SpaceX 三季度 AI 收入过半，Anthropic 成最大客户",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "aihotUrl": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
-      "storyUrl": "https://aihot.news/story/2ba6c88e-eaa2-47c1-b517-8f89994933d9",
-      "sourceCount": 1,
-      "participantCount": 11,
-      "latestAt": "2026-10-29T22:48:33.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
