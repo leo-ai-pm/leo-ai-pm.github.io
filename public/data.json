@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月31日",
+  "date": "2026年11月1日",
   "demo": false,
-  "updatedAt": "2026-10-31T13:49:45.858Z",
+  "updatedAt": "2026-10-31T17:58:43.056Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 131,
+    "received": 112,
     "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -414,6 +414,34 @@
     },
     {
       "rank": 4,
+      "id": "qexf6est4uitwd71p3ugedxo6",
+      "title": "OpenAI 融资目标缩至约 200 亿美元，估值约 1.25 万亿",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+      "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
+      "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
+      "sourceCount": 4,
+      "participantCount": 15,
+      "latestAt": "2026-10-31T16:12:55.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
       "title": "Cursor 扩展市场现恶意 Claude Code 包",
       "sourceName": "X：Cursor (@cursor_ai)",
@@ -441,44 +469,16 @@
       }
     },
     {
-      "rank": 5,
-      "id": "funx6p4g0gju509j6n0oyxmqu",
-      "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
-      "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
-      "storyUrl": "https://aihot.news/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076",
-      "sourceCount": 3,
-      "participantCount": 33,
-      "latestAt": "2026-10-30T00:34:52.630Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 6,
-      "id": "upsd8u37hkkquohy3w3sjvszi",
-      "title": "Mistral 开放万亿参数 Le Chonk 权重，Unsloth 推 1-bit 量化版",
-      "sourceName": "Hugging Face 官方团队博客",
-      "sourceUrl": "https://huggingface.co/blog/mistral-large4",
-      "aihotUrl": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
-      "storyUrl": "https://aihot.news/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac",
-      "sourceCount": 8,
-      "participantCount": 33,
-      "latestAt": "2026-10-30T09:48:50.000Z",
+      "id": "xa6snded4wd516h4jrk06yzs3",
+      "title": "Altman 称本地推理浪费 DRAM 与算力",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "aihotUrl": "https://aihot.news/items/xa6snded4wd516h4jrk06yzs3",
+      "storyUrl": "https://aihot.news/story/a44b16b7-7b97-41d0-bb96-59c6565a7b2c",
+      "sourceCount": 2,
+      "participantCount": 14,
+      "latestAt": "2026-10-30T20:48:43.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -486,7 +486,7 @@
       "visual": {
         "entities": [
           {
-            "name": "Hugging Face 官方团队博客",
+            "name": "The Verge：AI（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -498,34 +498,6 @@
     },
     {
       "rank": 7,
-      "id": "qexf6est4uitwd71p3ugedxo6",
-      "title": "OpenAI 融资目标缩至约 200 亿美元，估值约 1.25 万亿",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-      "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
-      "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
-      "sourceCount": 3,
-      "participantCount": 13,
-      "latestAt": "2026-10-31T09:22:52.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "c0e1dz7rmmvy9vbujs0u6qmc8",
       "title": "四家AI公司支持robots.txt统一退出信号",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -553,7 +525,63 @@
       }
     },
     {
+      "rank": 8,
+      "id": "funx6p4g0gju509j6n0oyxmqu",
+      "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
+      "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
+      "storyUrl": "https://aihot.news/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076",
+      "sourceCount": 3,
+      "participantCount": 24,
+      "latestAt": "2026-10-30T00:34:52.630Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 9,
+      "id": "nhbx8dlr72taskf21px6whcu9",
+      "title": "Intel业绩展望不及预期，股价暴跌拖累美政府持股",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/020/613.htm",
+      "aihotUrl": "https://aihot.news/items/nhbx8dlr72taskf21px6whcu9",
+      "storyUrl": "https://aihot.news/story/bdc1453f-1065-4edf-9452-0bc58ce68689",
+      "sourceCount": 2,
+      "participantCount": 17,
+      "latestAt": "2026-10-31T13:30:27.350Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "fjeloaahylonpc0pv5tduusud",
       "title": "AA v5 改版：私有测试集拉大开源闭源差距，Gemini 4 Carbon 登顶",
       "sourceName": "Google DeepMind：Blog（RSS）",
@@ -561,7 +589,7 @@
       "aihotUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
       "storyUrl": "https://aihot.news/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb",
       "sourceCount": 2,
-      "participantCount": 22,
+      "participantCount": 19,
       "latestAt": "2026-10-31T00:01:04.000Z",
       "expanded": false,
       "latest": "",
@@ -574,34 +602,6 @@
             "asset": "/assets/identities/googledeepmind.jpg",
             "assetSource": "https://x.com/GoogleDeepMind",
             "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "v4uwaucyf64u7bkzsyvri08w4",
-      "title": "Reddit 转向登录优先，应对搜索流量流失",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "aihotUrl": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
-      "storyUrl": "https://aihot.news/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d",
-      "sourceCount": 3,
-      "participantCount": 19,
-      "latestAt": "2026-10-30T17:15:24.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "The Decoder：AI News（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
