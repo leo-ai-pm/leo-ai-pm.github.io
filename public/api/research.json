@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-31T01:45:22.759Z",
-      "lastSuccessAt": "2026-10-31T01:45:22.759Z",
-      "nextCheckAt": 1793414722759,
+      "checkedAt": "2026-10-31T07:32:40.965Z",
+      "lastSuccessAt": "2026-10-31T07:32:40.965Z",
+      "nextCheckAt": 1793435560965,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-31T01:45:22.760Z",
-      "lastSuccessAt": "2026-10-31T01:45:22.760Z",
-      "nextCheckAt": 1793414722760,
+      "checkedAt": "2026-10-31T07:32:40.966Z",
+      "lastSuccessAt": "2026-10-31T07:32:40.966Z",
+      "nextCheckAt": 1793435560966,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-31T01:45:22.761Z",
-      "lastSuccessAt": "2026-10-31T01:45:22.761Z",
-      "nextCheckAt": 1793414722761,
+      "checkedAt": "2026-10-31T07:32:40.967Z",
+      "lastSuccessAt": "2026-10-31T07:32:40.967Z",
+      "nextCheckAt": 1793435560967,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1793414722897,
-      "checkedAt": "2026-10-31T01:45:22.897Z",
-      "lastSuccessAt": "2026-10-31T01:45:22.897Z",
+      "nextCheckAt": 1793435561135,
+      "checkedAt": "2026-10-31T07:32:41.135Z",
+      "lastSuccessAt": "2026-10-31T07:32:41.135Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,216 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793414722759,
+  "nextCheckAt": 1793435560965,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6487189.html",
+      "title": "WorkBuddy本地部署超强OCR识别小模型",
+      "summary": "建筑图纸里的文字表格总提取不准，问题常常不在提示词，而在模型选型。这篇区分OCR专用模型与多模态模型的边界，用一段提示词把MiniCPM-OCR部署到本地，再拿25页施工图纸实测识别效果。 今天来填个坑的，之前老马写过一篇建筑行业怎么使用WorkBuddy来进行AI办公提升效率的文章。有位从业老哥留言，说我的法子行不通，瞬间就有点丈二和尚摸不着头脑。 他说自己做了几个Skill，发现WorkBuddy对于建筑施工方案，估计应该是图纸类的",
+      "publishedAt": "2026-10-31T06:25:39.000Z",
+      "url": "https://www.woshipm.com/ai/6487189.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6487189.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "建筑图纸里的文字表格总提取不准，问题常常不在提示词，而在模型选型。这篇区分OCR专用模型与多模态模型的边界，用一段提示词把MiniCPM-OCR部署到本地，再拿25页施工图纸实测识别效果。 今天来填个坑的，之前老马写过一篇建筑行业怎么使用WorkBuddy来进行AI办公提升效率的文章。有位从业老哥留言，说我的法子行不通，瞬间就有点丈二和尚摸不着头脑。 他说自己做了几个Skill，发现WorkBuddy对于建筑施工方案，估计应该是图纸类的",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/ac-bridge",
+      "title": "AC Bridge",
+      "summary": "Your smart lights show when Claude Code or Codex needs you.",
+      "publishedAt": "2026-10-31T04:20:01.000Z",
+      "url": "https://www.producthunt.com/products/ac-bridge",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/ac-bridge",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Your smart lights show when Claude Code or Codex needs you.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/godwit",
+      "title": "Godwit",
+      "summary": "An open-source, AI-native email client",
+      "publishedAt": "2026-10-31T03:45:26.000Z",
+      "url": "https://www.producthunt.com/products/godwit",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/godwit",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "An open-source, AI-native email client",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6487193.html",
+      "title": "OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确",
+      "summary": "定位不是替代旗舰，而是承接高频Agent任务。GPT-6.1 Terra主打视觉理解、桌面操作与工具调用，速度约为前代三倍，单任务成本压到旗舰的九分之一。文章算了成本账，也点出权限与审计的隐患。 GPT-6.1 Terra 的产品定位很清楚：不是替代所有旗舰模型，而是用更低成本处理大量需要视觉理解、桌面操作和工具调用的工作。OpenAI 表示，它的任务执行速度超过 GPT-6 Astra 和 GPT-6.1 Sol 的 3 倍，最高推理",
+      "publishedAt": "2026-10-31T03:33:56.000Z",
+      "url": "https://www.woshipm.com/ai/6487193.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          },
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6487193.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "定位不是替代旗舰，而是承接高频Agent任务。GPT-6.1 Terra主打视觉理解、桌面操作与工具调用，速度约为前代三倍，单任务成本压到旗舰的九分之一。文章算了成本账，也点出权限与审计的隐患。 GPT-6.1 Terra 的产品定位很清楚：不是替代所有旗舰模型，而是用更低成本处理大量需要视觉理解、桌面操作和工具调用的工作。OpenAI 表示，它的任务执行速度超过 GPT-6 Astra 和 GPT-6.1 Sol 的 3 倍，最高推理",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/pluto-door",
+      "title": "Pluto Door",
+      "summary": "SSH client with an AI agent and a desktop for every server",
+      "publishedAt": "2026-10-30T22:10:44.000Z",
+      "url": "https://www.producthunt.com/products/pluto-door",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/pluto-door",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "SSH client with an AI agent and a desktop for every server",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "n8n:https://blog.n8n.io/throttling-vs-rate-limiting/",
       "title": "Throttling vs. Rate Limiting: Backoff Strategies for Workflows",
@@ -131,247 +338,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6486947.html",
-      "title": "微信小微升级，开始Personal Agent化",
-      "summary": "灵光 2.0 向所有用户开放，千问 Go 紧随其后，微信小微也开始往 Personal Agent 的方向升级。国内的个人助理产品从 PPT 走进内测和公测，能力边界第一次能被真实使用检验。三条路线不同，但都在争同一个入口：谁替用户把事情真正办完。 之前，国内的 Personal Agent 产品探索。 还停留在媒体的报道中，大厂的 PPT 中，自媒体的小道消息中。 各种猜测、鼓吹满天飞。 现在，不一样了。 Personal Agent",
-      "publishedAt": "2026-10-30T09:12:40.000Z",
-      "url": "https://www.woshipm.com/ai/6486947.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6486947.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "灵光 2.0 向所有用户开放，千问 Go 紧随其后，微信小微也开始往 Personal Agent 的方向升级。国内的个人助理产品从 PPT 走进内测和公测，能力边界第一次能被真实使用检验。三条路线不同，但都在争同一个入口：谁替用户把事情真正办完。 之前，国内的 Personal Agent 产品探索。 还停留在媒体的报道中，大厂的 PPT 中，自媒体的小道消息中。 各种猜测、鼓吹满天飞。 现在，不一样了。 Personal Agent",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/it/6486812.html",
-      "title": "对话 Google AI 基建负责人：从芯片配比到全球部署，Agent 正在重写数据中心的建设逻辑",
-      "summary": "算力的账不能只看 FLOPS。Google AI 基建负责人 Amin Vahdat 谈 TPU 配比、十万卡集群的故障恢复，以及长时程 Agent 如何改写数据中心的供电与冷却，回报要算到任务真完成。 当一家公司的 AI 服务能力需要每六个月翻一倍，买更多芯片只是问题的开始。十万颗加速器组成的集群里，故障随时发生；模型几个月就会迭代，硬件却要使用多年；工程师还在优化上一代系统，下一代数据中心的供电和冷却方案就必须提前确定。 这正是 G",
-      "publishedAt": "2026-10-30T08:14:55.000Z",
-      "url": "https://www.woshipm.com/it/6486812.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/it/6486812.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "算力的账不能只看 FLOPS。Google AI 基建负责人 Amin Vahdat 谈 TPU 配比、十万卡集群的故障恢复，以及长时程 Agent 如何改写数据中心的供电与冷却，回报要算到任务真完成。 当一家公司的 AI 服务能力需要每六个月翻一倍，买更多芯片只是问题的开始。十万颗加速器组成的集群里，故障随时发生；模型几个月就会迭代，硬件却要使用多年；工程师还在优化上一代系统，下一代数据中心的供电和冷却方案就必须提前确定。 这正是 G",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6486774.html",
-      "title": "挖到个宝藏27B开源Code2Video模型！可本地安装，还送MG Skill～",
-      "summary": "HeyGen 的 Code2Video 榜单上，前八名清一色闭源，Claude Opus 5.5 排第一，开源模型多在百分之十上下。一个 27B 开源模型能本地安装，还能在 HyperFrames 里稳定出片。 老粉应该知道，我最开始是一个后端开发，剪辑和AE是完全一窍不通。 但从今年2月开始，我陆陆续续用代码做了不少视频： 用Remotion把公众号文章转成动画视频，基于HyperFrames搭了个宣传片专家团，给仓颉.Skill和W",
-      "publishedAt": "2026-10-30T07:36:28.000Z",
-      "url": "https://www.woshipm.com/ai/6486774.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6486774.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "HeyGen 的 Code2Video 榜单上，前八名清一色闭源，Claude Opus 5.5 排第一，开源模型多在百分之十上下。一个 27B 开源模型能本地安装，还能在 HyperFrames 里稳定出片。 老粉应该知道，我最开始是一个后端开发，剪辑和AE是完全一窍不通。 但从今年2月开始，我陆陆续续用代码做了不少视频： 用Remotion把公众号文章转成动画视频，基于HyperFrames搭了个宣传片专家团，给仓颉.Skill和W",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/ilse",
-      "title": "ilse",
-      "summary": "Point at your app and your AI agent changes the code",
-      "publishedAt": "2026-10-29T19:42:40.000Z",
-      "url": "https://www.producthunt.com/products/ilse",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/ilse",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Point at your app and your AI agent changes the code",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/faylee",
-      "title": "Faylee",
-      "summary": "Bug reports your coding agent can fix from one link",
-      "publishedAt": "2026-10-29T17:54:14.000Z",
-      "url": "https://www.producthunt.com/products/faylee",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/faylee",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Bug reports your coding agent can fix from one link",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/speakon",
-      "title": "SpeakON Agent",
-      "summary": "Turn natural speech into real work for an agent to complete",
-      "publishedAt": "2026-10-29T10:44:31.000Z",
-      "url": "https://www.producthunt.com/products/speakon",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/speakon",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Turn natural speech into real work for an agent to complete",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {

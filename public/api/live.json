@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月31日",
     "demo": false,
-    "updatedAt": "2026-10-31T01:45:32.157Z",
+    "updatedAt": "2026-10-31T07:32:52.425Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 170,
-      "latestCount": 1,
+      "received": 149,
+      "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -145,6 +145,43 @@
     },
     "items": [
       {
+        "id": "aihot-ay6edf3l7ce7uv3nm4xwl0j11",
+        "title": "ChatGPT 移动端支持多账号切换",
+        "brief": "第 26 天/ 你现在可以在移动端轻松切换多个账号，桌面端也即将支持。",
+        "summary": "第 26 天/ 你现在可以在移动端轻松切换多个账号，桌面端也即将支持。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2116405414921384099",
+        "aggregateUrl": "https://aihot.news/items/ay6edf3l7ce7uv3nm4xwl0j11",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-10-31T05:42:26.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Tibo Sottiaux",
+              "asset": "/assets/identities/thsottiaux.jpg",
+              "assetSource": "https://x.com/thsottiaux",
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
         "id": "aihot-fry3sr67xoubgdxura6c3js34",
         "title": "Perplexity 分享 Gemini 4 Carbon 早期评测",
         "brief": "分享 Gemini 4 Carbon 的早期评测。",
@@ -228,6 +265,56 @@
     "ranking": [
       {
         "rank": 1,
+        "id": "lnc48gxlu5nv0he3mw57lzmc6",
+        "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/020/392.htm",
+        "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
+        "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
+        "sourceCount": 3,
+        "participantCount": 25,
+        "latestAt": "2026-10-31T00:03:47.000Z",
+        "expanded": true,
+        "latest": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+        "reports": [
+          {
+            "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+            "sourceName": "公众号：千问APP（阿里）",
+            "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+            "aihotUrl": "https://aihot.news/items/cbggw7imkzd4c01ifblroln6v",
+            "publishedAt": "2026-10-31T00:03:47.000Z"
+          },
+          {
+            "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/020/395.htm",
+            "aihotUrl": "https://aihot.news/items/yrdu4gxaoljhhbkvw1xlvzc3p",
+            "publishedAt": "2026-10-30T23:09:21.313Z"
+          },
+          {
+            "title": "Apple 智能宣布入华：Siri、写作工具及视觉智能接入阿里千问，11 月 4 日开放测试",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/020/392.htm",
+            "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
+            "publishedAt": "2026-10-30T22:47:48.753Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
         "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
         "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
         "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
@@ -235,7 +322,7 @@
         "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
         "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
         "sourceCount": 3,
-        "participantCount": 20,
+        "participantCount": 24,
         "latestAt": "2026-10-30T23:26:41.593Z",
         "expanded": true,
         "latest": "Anthropic 将 Claude Max 20x 更名为 Ultra，验证账户取消 5 小时限制",
@@ -277,61 +364,6 @@
         }
       },
       {
-        "rank": 2,
-        "id": "fjeloaahylonpc0pv5tduusud",
-        "title": "AA v5 改版：私有测试集拉大开源闭源差距，Gemini 4 Carbon 登顶",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-        "aihotUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
-        "storyUrl": "https://aihot.news/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb",
-        "sourceCount": 2,
-        "participantCount": 41,
-        "latestAt": "2026-10-31T00:01:04.000Z",
-        "expanded": true,
-        "latest": "Artificial Analysis 发布 AA-Omniscience v1.1 基准",
-        "reports": [
-          {
-            "title": "Artificial Analysis 发布 AA-Omniscience v1.1 基准",
-            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-            "sourceUrl": "https://x.com/ArtificialAnlys/status/2116319506318635503",
-            "aihotUrl": "https://aihot.news/items/w7m4s81gyvzojuvli2wzofz03",
-            "publishedAt": "2026-10-31T00:01:04.000Z"
-          },
-          {
-            "title": "Arena 周报：Gemini 4 Carbon 登顶 Text Arena，GPT-6.1 Terra 和 MAI-Image-2.7-Preview 新上榜",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2116239697727180890",
-            "aihotUrl": "https://aihot.news/items/m0hw5ro69giqbw03je0o5fo2g",
-            "publishedAt": "2026-10-30T18:43:56.000Z"
-          },
-          {
-            "title": "Artificial Analysis 推出 HLE-Diamond 榜单，Gemini 4 Carbon (high) 以 69% 居首",
-            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-            "sourceUrl": "https://x.com/ArtificialAnlys/status/2115989388689813945",
-            "aihotUrl": "https://aihot.news/items/ftns9tvgp0a2dmb840s0tac6v",
-            "publishedAt": "2026-10-30T02:09:18.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "Arena发布Gemini 4 Carbon预览版初步评测",
-            "storyUrl": "https://aihot.news/story/7854c64b-7672-430a-9628-d417bee16a59"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 3,
         "id": "cms82puwtmpssdpbjmajoopr9",
         "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
@@ -340,7 +372,7 @@
         "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
         "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
         "sourceCount": 6,
-        "participantCount": 20,
+        "participantCount": 22,
         "latestAt": "2026-10-30T23:51:47.903Z",
         "expanded": true,
         "latest": "谷歌宣布 Project Suncatcher 在轨 TPU 首次完成 AI 响应里程碑",
@@ -383,15 +415,15 @@
       },
       {
         "rank": 4,
-        "id": "lnc48gxlu5nv0he3mw57lzmc6",
-        "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/020/392.htm",
-        "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
-        "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
+        "id": "funx6p4g0gju509j6n0oyxmqu",
+        "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
+        "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
+        "storyUrl": "https://aihot.news/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076",
         "sourceCount": 3,
-        "participantCount": 17,
-        "latestAt": "2026-10-31T00:03:47.000Z",
+        "participantCount": 34,
+        "latestAt": "2026-10-30T00:34:52.630Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -399,10 +431,10 @@
         "visual": {
           "entities": [
             {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -439,15 +471,15 @@
       },
       {
         "rank": 6,
-        "id": "funx6p4g0gju509j6n0oyxmqu",
-        "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
-        "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
-        "storyUrl": "https://aihot.news/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076",
-        "sourceCount": 3,
-        "participantCount": 33,
-        "latestAt": "2026-10-30T00:34:52.630Z",
+        "id": "fjeloaahylonpc0pv5tduusud",
+        "title": "AA v5 改版：私有测试集拉大开源闭源差距，Gemini 4 Carbon 登顶",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+        "aihotUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
+        "storyUrl": "https://aihot.news/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb",
+        "sourceCount": 2,
+        "participantCount": 28,
+        "latestAt": "2026-10-31T00:01:04.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -455,10 +487,10 @@
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -467,6 +499,34 @@
       },
       {
         "rank": 7,
+        "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+        "title": "Cursor 扩展市场现恶意 Claude Code 包",
+        "sourceName": "X：Cursor (@cursor_ai)",
+        "sourceUrl": "https://x.com/cursor_ai/status/2116074289053175808",
+        "aihotUrl": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+        "storyUrl": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6",
+        "sourceCount": 4,
+        "participantCount": 14,
+        "latestAt": "2026-10-31T05:36:34.647Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "Claude Code",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
         "id": "v4uwaucyf64u7bkzsyvri08w4",
         "title": "Reddit 转向登录优先，应对搜索流量流失",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -494,63 +554,7 @@
         }
       },
       {
-        "rank": 8,
-        "id": "gqwnd3g7cq03jlq6i7p8mrirs",
-        "title": "Intel业绩展望不及预期，股价暴跌致美政府持股缩水120亿美元",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-        "aihotUrl": "https://aihot.news/items/gqwnd3g7cq03jlq6i7p8mrirs",
-        "storyUrl": "https://aihot.news/story/bdc1453f-1065-4edf-9452-0bc58ce68689",
-        "sourceCount": 1,
-        "participantCount": 15,
-        "latestAt": "2026-10-30T21:54:34.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "TechCrunch：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 9,
-        "id": "m5st8pvirbas7phreshbzkrc9",
-        "title": "Alphabet Q3营收增25%，AI搜索变现承压",
-        "sourceName": "X：Sundar Pichai (@sundarpichai)",
-        "sourceUrl": "https://x.com/sundarpichai/status/2115535455156642066",
-        "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
-        "storyUrl": "https://aihot.news/story/c432aa2e-0614-4744-8618-1769e016569b",
-        "sourceCount": 2,
-        "participantCount": 17,
-        "latestAt": "2026-10-30T14:50:37.797Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Sundar Pichai (@sundarpichai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
         "id": "c0e1dz7rmmvy9vbujs0u6qmc8",
         "title": "四家AI公司支持robots.txt统一退出信号",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -558,7 +562,7 @@
         "aihotUrl": "https://aihot.news/items/c0e1dz7rmmvy9vbujs0u6qmc8",
         "storyUrl": "https://aihot.news/story/a28f10be-5030-4347-b3a3-38356ffe393f",
         "sourceCount": 2,
-        "participantCount": 8,
+        "participantCount": 12,
         "latestAt": "2026-10-30T20:26:10.000Z",
         "expanded": false,
         "latest": "",
@@ -576,13 +580,41 @@
           "caption": "热点",
           "author": null
         }
+      },
+      {
+        "rank": 10,
+        "id": "xywgx35ocbe6mzl2pnajw8ruu",
+        "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+        "sourceCount": 4,
+        "participantCount": 15,
+        "latestAt": "2026-10-31T03:25:09.697Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-31T01:45:32.157Z",
-    "nextCheckAt": 1793411432157,
+    "checkedAt": "2026-10-31T07:32:52.425Z",
+    "nextCheckAt": 1793432272425,
     "intervalSeconds": 300,
     "message": ""
   }
