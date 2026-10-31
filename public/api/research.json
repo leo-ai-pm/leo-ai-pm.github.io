@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-10-31T07:32:40.965Z",
-      "lastSuccessAt": "2026-10-31T07:32:40.965Z",
-      "nextCheckAt": 1793435560965,
+      "checkedAt": "2026-10-31T13:49:35.684Z",
+      "lastSuccessAt": "2026-10-31T13:49:35.684Z",
+      "nextCheckAt": 1793458175684,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-10-31T07:32:40.966Z",
-      "lastSuccessAt": "2026-10-31T07:32:40.966Z",
-      "nextCheckAt": 1793435560966,
+      "checkedAt": "2026-10-31T13:49:35.685Z",
+      "lastSuccessAt": "2026-10-31T13:49:35.685Z",
+      "nextCheckAt": 1793458175685,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-10-31T07:32:40.967Z",
-      "lastSuccessAt": "2026-10-31T07:32:40.967Z",
-      "nextCheckAt": 1793435560967,
+      "checkedAt": "2026-10-31T13:49:35.686Z",
+      "lastSuccessAt": "2026-10-31T13:49:35.686Z",
+      "nextCheckAt": 1793458175686,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1793435561135,
-      "checkedAt": "2026-10-31T07:32:41.135Z",
-      "lastSuccessAt": "2026-10-31T07:32:41.135Z",
+      "nextCheckAt": 1793458175923,
+      "checkedAt": "2026-10-31T13:49:35.923Z",
+      "lastSuccessAt": "2026-10-31T13:49:35.923Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,89 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793435560965,
+  "nextCheckAt": 1793458175684,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6487314.html",
+      "title": "同样用一个模型，为什么有的公司的 agent 更好用？",
+      "summary": "同一个模型、同样的预算，半年后两家公司的 agent 差距却越拉越大。文章借 LangChain 创始人 Harrison 的分享拆开 harness 这一层：工具、治理、上下文与基础设施，解释为什么管得住比选对模型更决定成败。 假设有两家公司，用的是同一个大模型，同一天接入，花的钱也差不多。半年以后，一家的 agent（能自己调用工具、自己完成任务的 AI）每天在生产环境里干活，另一家的还停在演示阶段，一碰到真实用户就出错。 差别出在",
+      "publishedAt": "2026-10-31T10:37:13.000Z",
+      "url": "https://www.woshipm.com/ai/6487314.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6487314.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "同一个模型、同样的预算，半年后两家公司的 agent 差距却越拉越大。文章借 LangChain 创始人 Harrison 的分享拆开 harness 这一层：工具、治理、上下文与基础设施，解释为什么管得住比选对模型更决定成败。 假设有两家公司，用的是同一个大模型，同一天接入，花的钱也差不多。半年以后，一家的 agent（能自己调用工具、自己完成任务的 AI）每天在生产环境里干活，另一家的还停在演示阶段，一碰到真实用户就出错。 差别出在",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6487296.html",
+      "title": "豆包学WorkBuddy，天天签到领额度，还开放模型",
+      "summary": "豆包把 WorkBuddy 那套每日签到领额度的玩法搬了过来，还顺手开放了模型选择。文章逐屏过了一遍签到入口、任务中心、额度兑换和模型下拉框，并算清每天到底能薅到多少额度。 AI Agent 时代，积分就是生产力。 每天早上WorkBuddy 签到领积分，已成了很多用户的习惯，我也是如此。 我担心每天忘记签到，还自己设了个定时任务。 每天自动执行去领取，一天都不错过。 并且，没事就去看看 WorkBuddy 的任务，看看是不是能薅点积分",
+      "publishedAt": "2026-10-31T07:42:35.000Z",
+      "url": "https://www.woshipm.com/ai/6487296.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6487296.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "豆包把 WorkBuddy 那套每日签到领额度的玩法搬了过来，还顺手开放了模型选择。文章逐屏过了一遍签到入口、任务中心、额度兑换和模型下拉框，并算清每天到底能薅到多少额度。 AI Agent 时代，积分就是生产力。 每天早上WorkBuddy 签到领积分，已成了很多用户的习惯，我也是如此。 我担心每天忘记签到，还自己设了个定时任务。 每天自动执行去领取，一天都不错过。 并且，没事就去看看 WorkBuddy 的任务，看看是不是能薅点积分",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6487189.html",
       "title": "WorkBuddy本地部署超强OCR识别小模型",
@@ -131,7 +211,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/ac-bridge",
@@ -171,7 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/godwit",
@@ -211,53 +291,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6487193.html",
-      "title": "OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确",
-      "summary": "定位不是替代旗舰，而是承接高频Agent任务。GPT-6.1 Terra主打视觉理解、桌面操作与工具调用，速度约为前代三倍，单任务成本压到旗舰的九分之一。文章算了成本账，也点出权限与审计的隐患。 GPT-6.1 Terra 的产品定位很清楚：不是替代所有旗舰模型，而是用更低成本处理大量需要视觉理解、桌面操作和工具调用的工作。OpenAI 表示，它的任务执行速度超过 GPT-6 Astra 和 GPT-6.1 Sol 的 3 倍，最高推理",
-      "publishedAt": "2026-10-31T03:33:56.000Z",
-      "url": "https://www.woshipm.com/ai/6487193.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          },
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6487193.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "定位不是替代旗舰，而是承接高频Agent任务。GPT-6.1 Terra主打视觉理解、桌面操作与工具调用，速度约为前代三倍，单任务成本压到旗舰的九分之一。文章算了成本账，也点出权限与审计的隐患。 GPT-6.1 Terra 的产品定位很清楚：不是替代所有旗舰模型，而是用更低成本处理大量需要视觉理解、桌面操作和工具调用的工作。OpenAI 表示，它的任务执行速度超过 GPT-6 Astra 和 GPT-6.1 Sol 的 3 倍，最高推理",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
