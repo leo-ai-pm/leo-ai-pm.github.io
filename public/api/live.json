@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年10月31日",
     "demo": false,
-    "updatedAt": "2026-10-30T22:26:52.962Z",
+    "updatedAt": "2026-10-31T01:45:32.157Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 168,
+      "received": 170,
       "latestCount": 1,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -228,18 +228,75 @@
     "ranking": [
       {
         "rank": 1,
+        "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
+        "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
+        "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
+        "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+        "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
+        "sourceCount": 3,
+        "participantCount": 20,
+        "latestAt": "2026-10-30T23:26:41.593Z",
+        "expanded": true,
+        "latest": "Anthropic 将 Claude Max 20x 更名为 Ultra，验证账户取消 5 小时限制",
+        "reports": [
+          {
+            "title": "Anthropic 将 Claude Max 20x 更名为 Ultra，验证账户取消 5 小时限制",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/020/398.htm",
+            "aihotUrl": "https://aihot.news/items/nzy7foue4yk7sgkczjh1gcr2o",
+            "publishedAt": "2026-10-30T23:26:41.593Z"
+          },
+          {
+            "title": "Anthropic 将 Claude Max 套餐更名 Max 与 Ultra，并移除已验证 Ultra 账户的 5 小时限制",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2116228809716605434",
+            "aihotUrl": "https://aihot.news/items/f02u5x88qixw7f2u0q979cusk",
+            "publishedAt": "2026-10-30T18:00:40.000Z"
+          },
+          {
+            "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
+            "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+            "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
+            "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+            "publishedAt": "2026-10-30T17:42:26.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
         "id": "fjeloaahylonpc0pv5tduusud",
         "title": "AA v5 改版：私有测试集拉大开源闭源差距，Gemini 4 Carbon 登顶",
         "sourceName": "Google DeepMind：Blog（RSS）",
         "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
         "aihotUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
         "storyUrl": "https://aihot.news/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb",
-        "sourceCount": 3,
-        "participantCount": 53,
-        "latestAt": "2026-10-30T02:09:18.000Z",
+        "sourceCount": 2,
+        "participantCount": 41,
+        "latestAt": "2026-10-31T00:01:04.000Z",
         "expanded": true,
-        "latest": "Artificial Analysis 推出 HLE-Diamond 榜单，Gemini 4 Carbon (high) 以 69% 居首",
+        "latest": "Artificial Analysis 发布 AA-Omniscience v1.1 基准",
         "reports": [
+          {
+            "title": "Artificial Analysis 发布 AA-Omniscience v1.1 基准",
+            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+            "sourceUrl": "https://x.com/ArtificialAnlys/status/2116319506318635503",
+            "aihotUrl": "https://aihot.news/items/w7m4s81gyvzojuvli2wzofz03",
+            "publishedAt": "2026-10-31T00:01:04.000Z"
+          },
           {
             "title": "Arena 周报：Gemini 4 Carbon 登顶 Text Arena，GPT-6.1 Terra 和 MAI-Image-2.7-Preview 新上榜",
             "sourceName": "X：Arena (@arena)",
@@ -253,13 +310,6 @@
             "sourceUrl": "https://x.com/ArtificialAnlys/status/2115989388689813945",
             "aihotUrl": "https://aihot.news/items/ftns9tvgp0a2dmb840s0tac6v",
             "publishedAt": "2026-10-30T02:09:18.000Z"
-          },
-          {
-            "title": "Gemini 4 Carbon 以 59 分登顶 Artificial Analysis 智能指数",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2115963043347878176",
-            "aihotUrl": "https://aihot.news/items/w8mgec3plmnhihuoraivpdr87",
-            "publishedAt": "2026-10-30T00:24:36.000Z"
           }
         ],
         "related": [
@@ -282,119 +332,41 @@
         }
       },
       {
-        "rank": 2,
-        "id": "upsd8u37hkkquohy3w3sjvszi",
-        "title": "Mistral 开放万亿参数 Le Chonk 权重，Unsloth 推 1-bit 量化版",
-        "sourceName": "Hugging Face 官方团队博客",
-        "sourceUrl": "https://huggingface.co/blog/mistral-large4",
-        "aihotUrl": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
-        "storyUrl": "https://aihot.news/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac",
-        "sourceCount": 11,
-        "participantCount": 37,
-        "latestAt": "2026-10-30T09:48:50.000Z",
-        "expanded": true,
-        "latest": "Mistral 大模型 Le Chonk 训练营三周",
-        "reports": [
-          {
-            "title": "Mistral 大模型 Le Chonk 训练营三周",
-            "sourceName": "X：Mistral AI (@MistralAI)",
-            "sourceUrl": "https://x.com/MistralAI/status/2116105034673058023",
-            "aihotUrl": "https://aihot.news/items/drwrjywgjnrxx4yil7uznr16m",
-            "publishedAt": "2026-10-30T09:48:50.000Z"
-          },
-          {
-            "title": "Mistral AI 开放 Mistral Large 4 模型权重：1T 总参数，编码智能体省 Token 47%",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/019/865.htm",
-            "aihotUrl": "https://aihot.news/items/jp9ot6s32ux739qzz6pebo4n8",
-            "publishedAt": "2026-10-30T01:09:09.660Z"
-          },
-          {
-            "title": "Mistral 发布 1 万亿参数 Mistral Large 4 权重并将 API 价格约减半",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2115876025452331018",
-            "aihotUrl": "https://aihot.news/items/qjlnyctm3t9mgkccrwthnyg1e",
-            "publishedAt": "2026-10-29T18:38:50.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Hugging Face 官方团队博客",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 3,
-        "id": "funx6p4g0gju509j6n0oyxmqu",
-        "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
-        "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
-        "storyUrl": "https://aihot.news/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076",
-        "sourceCount": 3,
-        "participantCount": 33,
-        "latestAt": "2026-10-30T00:34:52.630Z",
-        "expanded": true,
-        "latest": "OpenAI 取消 Pro 200 砍半计划，ChatGPT Pro 及 Business Premium 用量额度翻倍",
-        "reports": [
-          {
-            "title": "OpenAI 取消 Pro 200 砍半计划，ChatGPT Pro 及 Business Premium 用量额度翻倍",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/019/848.htm",
-            "aihotUrl": "https://aihot.news/items/t0x0u6c04lthvuf8wuyxi6xyg",
-            "publishedAt": "2026-10-30T00:34:52.630Z"
-          },
-          {
-            "title": "OpenAI 上调 Pro 订阅用量限额，与 Anthropic 竞争加剧",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-            "aihotUrl": "https://aihot.news/items/oqy2aualjir77cbaqep90ievj",
-            "publishedAt": "2026-10-29T20:01:27.000Z"
-          },
-          {
-            "title": "OpenAI 将用量限额恢复为双倍",
-            "sourceName": "X：Tibo (@thsottiaux)",
-            "sourceUrl": "https://x.com/thsottiaux/status/2115890336107233347",
-            "aihotUrl": "https://aihot.news/items/mmg71zfohqqooh0cmzml41iz9",
-            "publishedAt": "2026-10-29T19:35:42.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 4,
         "id": "cms82puwtmpssdpbjmajoopr9",
-        "title": "Google 卫星在轨 TPU 完成首次推理并回传俳句",
+        "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
         "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
         "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
         "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
         "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
-        "sourceCount": 5,
-        "participantCount": 16,
-        "latestAt": "2026-10-30T19:04:37.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
+        "sourceCount": 6,
+        "participantCount": 20,
+        "latestAt": "2026-10-30T23:51:47.903Z",
+        "expanded": true,
+        "latest": "谷歌宣布 Project Suncatcher 在轨 TPU 首次完成 AI 响应里程碑",
+        "reports": [
+          {
+            "title": "谷歌宣布 Project Suncatcher 在轨 TPU 首次完成 AI 响应里程碑",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/020/402.htm",
+            "aihotUrl": "https://aihot.news/items/gl2jonvofk3oha7gnkz6wzyut",
+            "publishedAt": "2026-10-30T23:51:47.903Z"
+          },
+          {
+            "title": "Google 2027 年发射两颗卫星测试太空 AI 计算",
+            "sourceName": "X：Google (@Google)",
+            "sourceUrl": "https://x.com/Google/status/2116244903155929115",
+            "aihotUrl": "https://aihot.news/items/p3yq1z51siyjig4rsj35vpyyx",
+            "publishedAt": "2026-10-30T19:04:37.000Z"
+          },
+          {
+            "title": "Google 确认 4 颗 TPU 在太空成功开机并回传推理结果",
+            "sourceName": "X：Google (@Google)",
+            "sourceUrl": "https://x.com/Google/status/2116244898269610456",
+            "aihotUrl": "https://aihot.news/items/grnwmg1uzetic318pznkl73qy",
+            "publishedAt": "2026-10-30T19:04:36.000Z"
+          }
+        ],
         "related": [],
         "visual": {
           "entities": [
@@ -410,16 +382,16 @@
         }
       },
       {
-        "rank": 5,
-        "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
-        "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
-        "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-        "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
-        "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
-        "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
-        "sourceCount": 2,
-        "participantCount": 13,
-        "latestAt": "2026-10-30T18:00:40.000Z",
+        "rank": 4,
+        "id": "lnc48gxlu5nv0he3mw57lzmc6",
+        "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/020/392.htm",
+        "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
+        "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
+        "sourceCount": 3,
+        "participantCount": 17,
+        "latestAt": "2026-10-31T00:03:47.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -427,10 +399,38 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
+        "id": "upsd8u37hkkquohy3w3sjvszi",
+        "title": "Mistral 开放万亿参数 Le Chonk 权重，Unsloth 推 1-bit 量化版",
+        "sourceName": "Hugging Face 官方团队博客",
+        "sourceUrl": "https://huggingface.co/blog/mistral-large4",
+        "aihotUrl": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
+        "storyUrl": "https://aihot.news/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac",
+        "sourceCount": 9,
+        "participantCount": 35,
+        "latestAt": "2026-10-30T09:48:50.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Hugging Face 官方团队博客",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -439,6 +439,34 @@
       },
       {
         "rank": 6,
+        "id": "funx6p4g0gju509j6n0oyxmqu",
+        "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
+        "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
+        "storyUrl": "https://aihot.news/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076",
+        "sourceCount": 3,
+        "participantCount": 33,
+        "latestAt": "2026-10-30T00:34:52.630Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "v4uwaucyf64u7bkzsyvri08w4",
         "title": "Reddit 转向登录优先，应对搜索流量流失",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -446,7 +474,7 @@
         "aihotUrl": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
         "storyUrl": "https://aihot.news/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d",
         "sourceCount": 3,
-        "participantCount": 18,
+        "participantCount": 19,
         "latestAt": "2026-10-30T17:15:24.000Z",
         "expanded": false,
         "latest": "",
@@ -466,7 +494,35 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "id": "gqwnd3g7cq03jlq6i7p8mrirs",
+        "title": "Intel业绩展望不及预期，股价暴跌致美政府持股缩水120亿美元",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "aihotUrl": "https://aihot.news/items/gqwnd3g7cq03jlq6i7p8mrirs",
+        "storyUrl": "https://aihot.news/story/bdc1453f-1065-4edf-9452-0bc58ce68689",
+        "sourceCount": 1,
+        "participantCount": 15,
+        "latestAt": "2026-10-30T21:54:34.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "TechCrunch：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
         "id": "m5st8pvirbas7phreshbzkrc9",
         "title": "Alphabet Q3营收增25%，AI搜索变现承压",
         "sourceName": "X：Sundar Pichai (@sundarpichai)",
@@ -474,7 +530,7 @@
         "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
         "storyUrl": "https://aihot.news/story/c432aa2e-0614-4744-8618-1769e016569b",
         "sourceCount": 2,
-        "participantCount": 19,
+        "participantCount": 17,
         "latestAt": "2026-10-30T14:50:37.797Z",
         "expanded": false,
         "latest": "",
@@ -494,16 +550,16 @@
         }
       },
       {
-        "rank": 8,
-        "id": "xywgx35ocbe6mzl2pnajw8ruu",
-        "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 3,
-        "participantCount": 14,
-        "latestAt": "2026-10-30T13:11:05.000Z",
+        "rank": 10,
+        "id": "c0e1dz7rmmvy9vbujs0u6qmc8",
+        "title": "四家AI公司支持robots.txt统一退出信号",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "aihotUrl": "https://aihot.news/items/c0e1dz7rmmvy9vbujs0u6qmc8",
+        "storyUrl": "https://aihot.news/story/a28f10be-5030-4347-b3a3-38356ffe393f",
+        "sourceCount": 2,
+        "participantCount": 8,
+        "latestAt": "2026-10-30T20:26:10.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -511,66 +567,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "urs0f8vvh3zel0gh18qvn8h09",
-        "title": "Apple发布PROLED XDR屏MacBook Pro，首配触控",
-        "sourceName": "Apple：Newsroom（RSS）",
-        "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-        "aihotUrl": "https://aihot.news/items/urs0f8vvh3zel0gh18qvn8h09",
-        "storyUrl": "https://aihot.news/story/add1dde9-53ea-4f82-9daa-6d50735a149c",
-        "sourceCount": 1,
-        "participantCount": 19,
-        "latestAt": "2026-10-29T00:31:38.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Apple：Newsroom（RSS）",
+              "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "rccreyesa3aeph7jasj5spv29",
-        "title": "OpenAI将Model Spec重组为五项核心价值观",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/updated-model-spec",
-        "aihotUrl": "https://aihot.news/items/rccreyesa3aeph7jasj5spv29",
-        "storyUrl": "https://aihot.news/story/255f7354-2733-447e-a6cc-f6f065893f9d",
-        "sourceCount": 3,
-        "participantCount": 12,
-        "latestAt": "2026-10-30T17:44:59.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -581,8 +581,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-10-30T22:26:52.962Z",
-    "nextCheckAt": 1793399512962,
+    "checkedAt": "2026-10-31T01:45:32.157Z",
+    "nextCheckAt": 1793411432157,
     "intervalSeconds": 300,
     "message": ""
   }
