@@ -1,7 +1,7 @@
 {
   "date": "2026年11月1日",
   "demo": false,
-  "updatedAt": "2026-11-01T00:22:54.446Z",
+  "updatedAt": "2026-11-01T06:43:54.374Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 58,
-    "latestCount": 2,
+    "received": 52,
+    "latestCount": 1,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -144,43 +144,6 @@
   },
   "items": [
     {
-      "id": "aihot-ay6edf3l7ce7uv3nm4xwl0j11",
-      "title": "ChatGPT 移动端支持多账号切换",
-      "brief": "第 26 天/ 你现在可以在移动端轻松切换多个账号，桌面端也即将支持。",
-      "summary": "第 26 天/ 你现在可以在移动端轻松切换多个账号，桌面端也即将支持。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2116405414921384099",
-      "aggregateUrl": "https://aihot.news/items/ay6edf3l7ce7uv3nm4xwl0j11",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-10-31T05:42:26.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
       "id": "aihot-bdr4wzfygol4lz52ptme168wh",
       "title": "Perplexity 用一句话生成互动博物馆",
       "brief": "电脑，给我建一座互动博物馆",
@@ -265,7 +228,7 @@
       "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
       "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
       "sourceCount": 3,
-      "participantCount": 26,
+      "participantCount": 29,
       "latestAt": "2026-10-31T00:03:47.000Z",
       "expanded": true,
       "latest": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
@@ -308,56 +271,6 @@
     },
     {
       "rank": 2,
-      "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
-      "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
-      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-      "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
-      "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
-      "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
-      "sourceCount": 3,
-      "participantCount": 26,
-      "latestAt": "2026-10-30T23:26:41.593Z",
-      "expanded": true,
-      "latest": "Anthropic 将 Claude Max 20x 更名为 Ultra，验证账户取消 5 小时限制",
-      "reports": [
-        {
-          "title": "Anthropic 将 Claude Max 20x 更名为 Ultra，验证账户取消 5 小时限制",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/020/398.htm",
-          "aihotUrl": "https://aihot.news/items/nzy7foue4yk7sgkczjh1gcr2o",
-          "publishedAt": "2026-10-30T23:26:41.593Z"
-        },
-        {
-          "title": "Anthropic 将 Claude Max 套餐更名 Max 与 Ultra，并移除已验证 Ultra 账户的 5 小时限制",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2116228809716605434",
-          "aihotUrl": "https://aihot.news/items/f02u5x88qixw7f2u0q979cusk",
-          "publishedAt": "2026-10-30T18:00:40.000Z"
-        },
-        {
-          "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
-          "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-          "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
-          "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
-          "publishedAt": "2026-10-30T17:42:26.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 3,
       "id": "qexf6est4uitwd71p3ugedxo6",
       "title": "OpenAI 融资目标缩至约 200 亿美元，估值约 1.25 万亿",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -365,7 +278,7 @@
       "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
       "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
       "sourceCount": 4,
-      "participantCount": 17,
+      "participantCount": 20,
       "latestAt": "2026-10-31T16:12:55.000Z",
       "expanded": true,
       "latest": "OpenAI 传闻将新一轮融资目标下调至 200 亿美元",
@@ -407,7 +320,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "cms82puwtmpssdpbjmajoopr9",
       "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
       "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
@@ -415,11 +328,33 @@
       "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
       "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
       "sourceCount": 6,
-      "participantCount": 24,
+      "participantCount": 26,
       "latestAt": "2026-10-30T23:51:47.903Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
+      "expanded": true,
+      "latest": "谷歌宣布 Project Suncatcher 在轨 TPU 首次完成 AI 响应里程碑",
+      "reports": [
+        {
+          "title": "谷歌宣布 Project Suncatcher 在轨 TPU 首次完成 AI 响应里程碑",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/020/402.htm",
+          "aihotUrl": "https://aihot.news/items/gl2jonvofk3oha7gnkz6wzyut",
+          "publishedAt": "2026-10-30T23:51:47.903Z"
+        },
+        {
+          "title": "Google 2027 年发射两颗卫星测试太空 AI 计算",
+          "sourceName": "X：Google (@Google)",
+          "sourceUrl": "https://x.com/Google/status/2116244903155929115",
+          "aihotUrl": "https://aihot.news/items/p3yq1z51siyjig4rsj35vpyyx",
+          "publishedAt": "2026-10-30T19:04:37.000Z"
+        },
+        {
+          "title": "Google 确认 4 颗 TPU 在太空成功开机并回传推理结果",
+          "sourceName": "X：Google (@Google)",
+          "sourceUrl": "https://x.com/Google/status/2116244898269610456",
+          "aihotUrl": "https://aihot.news/items/grnwmg1uzetic318pznkl73qy",
+          "publishedAt": "2026-10-30T19:04:36.000Z"
+        }
+      ],
       "related": [],
       "visual": {
         "entities": [
@@ -435,7 +370,119 @@
       }
     },
     {
+      "rank": 4,
+      "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
+      "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
+      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
+      "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+      "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
+      "sourceCount": 3,
+      "participantCount": 26,
+      "latestAt": "2026-10-30T23:26:41.593Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 5,
+      "id": "xa6snded4wd516h4jrk06yzs3",
+      "title": "Altman 称本地推理浪费 DRAM 与算力",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "aihotUrl": "https://aihot.news/items/xa6snded4wd516h4jrk06yzs3",
+      "storyUrl": "https://aihot.news/story/a44b16b7-7b97-41d0-bb96-59c6565a7b2c",
+      "sourceCount": 1,
+      "participantCount": 19,
+      "latestAt": "2026-10-30T20:48:43.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "The Verge：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "oig5qkyz9fzkdpchgk7l2cmm3",
+      "title": "DeepSeek提出Super-agent双层架构",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/020/615.htm",
+      "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
+      "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
+      "sourceCount": 1,
+      "participantCount": 14,
+      "latestAt": "2026-10-31T13:36:35.640Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
+      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
+      "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
+      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+      "storyUrl": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b",
+      "sourceCount": 3,
+      "participantCount": 10,
+      "latestAt": "2026-11-01T00:22:41.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
       "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
       "title": "Cursor 扩展市场现恶意 Claude Code 包",
       "sourceName": "X：Cursor (@cursor_ai)",
@@ -463,35 +510,7 @@
       }
     },
     {
-      "rank": 6,
-      "id": "xa6snded4wd516h4jrk06yzs3",
-      "title": "Altman 称本地推理浪费 DRAM 与算力",
-      "sourceName": "The Verge：AI（RSS）",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "aihotUrl": "https://aihot.news/items/xa6snded4wd516h4jrk06yzs3",
-      "storyUrl": "https://aihot.news/story/a44b16b7-7b97-41d0-bb96-59c6565a7b2c",
-      "sourceCount": 1,
-      "participantCount": 13,
-      "latestAt": "2026-10-30T20:48:43.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "The Verge：AI（RSS）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "id": "c0e1dz7rmmvy9vbujs0u6qmc8",
       "title": "四家AI公司支持robots.txt统一退出信号",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -499,7 +518,7 @@
       "aihotUrl": "https://aihot.news/items/c0e1dz7rmmvy9vbujs0u6qmc8",
       "storyUrl": "https://aihot.news/story/a28f10be-5030-4347-b3a3-38356ffe393f",
       "sourceCount": 2,
-      "participantCount": 14,
+      "participantCount": 15,
       "latestAt": "2026-10-30T20:26:10.000Z",
       "expanded": false,
       "latest": "",
@@ -509,62 +528,6 @@
         "entities": [
           {
             "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "oig5qkyz9fzkdpchgk7l2cmm3",
-      "title": "DeepSeek提出Super-agent双层架构",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/020/615.htm",
-      "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
-      "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
-      "sourceCount": 1,
-      "participantCount": 9,
-      "latestAt": "2026-10-31T13:36:35.640Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "nhbx8dlr72taskf21px6whcu9",
-      "title": "Intel业绩展望不及预期，股价暴跌拖累美政府持股",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/020/613.htm",
-      "aihotUrl": "https://aihot.news/items/nhbx8dlr72taskf21px6whcu9",
-      "storyUrl": "https://aihot.news/story/bdc1453f-1065-4edf-9452-0bc58ce68689",
-      "sourceCount": 2,
-      "participantCount": 15,
-      "latestAt": "2026-10-31T13:30:27.350Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"

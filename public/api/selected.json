@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-01T00:23:12.213Z",
+  "checkedAt": "2026-11-01T06:44:23.582Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
+      "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+      "reason": "作者以重度用户视角梳理额度合并对聊天和编码习惯的实际冲击，并回溯按条数与按 Token 计费的机制差异，便于理解订阅策略变化的影响。",
+      "summary": "作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
+      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+      "publishedAt": "2026-11-01T00:22:41.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "yww15c701iat30p8ttjf029ij",
+      "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
+      "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
+      "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
+      "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "dpm21l66z2iizblehsdg09c8t",
       "title": "美国白宫科技顾问萨克斯称 Anthropic 可能成为资本主义史上最伟大企业",
@@ -51,34 +79,6 @@
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "yqblvh40gus1ssc0rjvawh6fu",
-      "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-      "reason": "报道披露了 Anthropic 招股文件中的表外债务细节，可帮助读者理解 AI 基建支出与资产负债表之间的差距。",
-      "summary": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/020/444.htm",
-      "aihotUrl": "https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu",
-      "publishedAt": "2026-10-31T03:25:09.697Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "upl3hjjdokqe13w3ieo9opr0v",
-      "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
-      "reason": "教程给出可直接复用的 TypeScript 代码和真实成本数据，读者可以照着搭一个带限额和人工审批的定时 Agent。",
-      "summary": "OpenRouter 发布教程，演示用 @openrouter/agent 0.11.0 在 TypeScript 中搭建定时运行的常驻 AI Agent，监控 Hacker News 并生成摘要。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
-      "aihotUrl": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v",
-      "publishedAt": "2026-10-31T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
       "unselected": false
     }
   ],
@@ -308,6 +308,20 @@
       "unselected": false
     },
     {
+      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
+      "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+      "reason": "作者以重度用户视角梳理额度合并对聊天和编码习惯的实际冲击，并回溯按条数与按 Token 计费的机制差异，便于理解订阅策略变化的影响。",
+      "summary": "作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
+      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+      "publishedAt": "2026-11-01T00:22:41.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "htfc0ler37j2h4hoqll6jewz3",
       "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
       "reason": "原文汇总五巨头财报披露的支出承诺构成和自由现金流变化，读者可以据此看清各家AI基建投入的规模差异与回收压力。",
@@ -400,20 +414,6 @@
       "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
       "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
       "publishedAt": "2026-10-30T18:28:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "hfhskyex3cjrs3huvpmi1z7bg",
-      "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
-      "reason": "公司官方披露 ARR 增长节奏和按结果计费、Poppy 开放标准等经营思路，读者可据此理解 Agent 商业化的一种路径。",
-      "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
-      "sourceName": "Sierra：Blog（RSS）",
-      "sourceUrl": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-      "aihotUrl": "https://aihot.news/items/hfhskyex3cjrs3huvpmi1z7bg",
-      "publishedAt": "2026-10-30T12:50:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -532,6 +532,20 @@
       "unselected": false
     },
     {
+      "id": "yww15c701iat30p8ttjf029ij",
+      "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
+      "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
+      "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
+      "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "upl3hjjdokqe13w3ieo9opr0v",
       "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
       "reason": "教程给出可直接复用的 TypeScript 代码和真实成本数据，读者可以照着搭一个带限额和人工审批的定时 Agent。",
@@ -628,20 +642,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "wgss1ksoafvu62x799sdfs0fo",
-      "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
-      "reason": "OpenRouter 实测了 Claude Code 走 API key 计费的真实成本，并提醒 Claude Code 自印的价格可能偏高。",
-      "summary": "OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/claude-code-usage-limit/",
-      "aihotUrl": "https://aihot.news/items/wgss1ksoafvu62x799sdfs0fo",
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -651,6 +651,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "yww15c701iat30p8ttjf029ij",
+          "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
+          "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
+          "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
+          "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
+          "publishedAt": "2026-11-01T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "upl3hjjdokqe13w3ieo9opr0v",
           "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
@@ -720,20 +734,6 @@
           "category": "industry",
           "categoryLabel": "行业",
           "unselected": false
-        },
-        {
-          "id": "kzenjo9w2bfhpsr0ub1gr95xj",
-          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-          "reason": "作者把 Google 和 Reddit 同日财报放在一起分析，指出 AI Mode 变现弱于传统搜索正在推动网站加门槛、让开放网络收缩。",
-          "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
-          "sourceName": "Platformer（热点 RSS）",
-          "sourceUrl": "https://www.platformer.news/thursday-newsletter-6/",
-          "aihotUrl": "https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj",
-          "publishedAt": "2026-10-30T00:51:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -743,6 +743,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "yww15c701iat30p8ttjf029ij",
+          "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
+          "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
+          "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
+          "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
+          "publishedAt": "2026-11-01T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "gzcwy89nkjreenv5eu1qaysdi",
           "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
@@ -811,20 +825,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "reason": "作者亲自讲解 Claude Code Mods 的机制与上手方法，覆盖三个可复用的示例 mod，读者可照做搭建自己的定制界面。",
-          "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-          "sourceName": "X：Addy Osmani (@addyosmani)",
-          "sourceUrl": "https://x.com/addyosmani/status/2115326629488824753",
-          "aihotUrl": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb",
-          "publishedAt": "2026-10-28T06:15:43.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
@@ -928,6 +928,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
+          "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+          "reason": "作者以重度用户视角梳理额度合并对聊天和编码习惯的实际冲击，并回溯按条数与按 Token 计费的机制差异，便于理解订阅策略变化的影响。",
+          "summary": "作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
+          "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+          "publishedAt": "2026-11-01T00:22:41.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "htfc0ler37j2h4hoqll6jewz3",
           "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
           "reason": "原文汇总五巨头财报披露的支出承诺构成和自由现金流变化，读者可以据此看清各家AI基建投入的规模差异与回收压力。",
@@ -996,20 +1010,6 @@
           "category": "industry",
           "categoryLabel": "行业",
           "unselected": false
-        },
-        {
-          "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
-          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-          "reason": "Epoch AI 用自建实验给出量化数据，展示开源权重模型如何在补丁窗口期内低成本复现漏洞利用，并给出缩短发布周期的防御建议。",
-          "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-          "sourceName": "Epoch AI：Gradient Updates（RSS）",
-          "sourceUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-          "aihotUrl": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
-          "publishedAt": "2026-10-30T12:07:16.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
-          "unselected": false
         }
       ]
     },
@@ -1019,6 +1019,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "yww15c701iat30p8ttjf029ij",
+          "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
+          "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
+          "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
+          "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
+          "publishedAt": "2026-11-01T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "dpm21l66z2iizblehsdg09c8t",
           "title": "美国白宫科技顾问萨克斯称 Anthropic 可能成为资本主义史上最伟大企业",
@@ -1087,20 +1101,6 @@
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
-          "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
-          "reason": "Anthropic 员工确认订阅改名与 Ultra 取消 5 小时限制的细节，订阅者可据此确认是否受影响。",
-          "summary": "Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。",
-          "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-          "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
-          "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
-          "publishedAt": "2026-10-30T17:42:26.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]

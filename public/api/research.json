@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-01T00:22:47.181Z",
-      "lastSuccessAt": "2026-11-01T00:22:47.181Z",
-      "nextCheckAt": 1793496167181,
+      "checkedAt": "2026-11-01T06:43:41.153Z",
+      "lastSuccessAt": "2026-11-01T06:43:41.153Z",
+      "nextCheckAt": 1793519021153,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-01T06:43:41.153Z",
+      "lastSuccessAt": "2026-11-01T06:43:41.153Z",
+      "nextCheckAt": 1793519021153,
       "status": "ok",
-      "nextCheckAt": 1793496167182,
-      "checkedAt": "2026-11-01T00:22:47.182Z",
-      "lastSuccessAt": "2026-11-01T00:22:47.182Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-01T00:22:47.184Z",
-      "lastSuccessAt": "2026-11-01T00:22:47.184Z",
-      "nextCheckAt": 1793496167184,
+      "checkedAt": "2026-11-01T06:43:41.154Z",
+      "lastSuccessAt": "2026-11-01T06:43:41.154Z",
+      "nextCheckAt": 1793519021154,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1793496167427,
-      "checkedAt": "2026-11-01T00:22:47.427Z",
-      "lastSuccessAt": "2026-11-01T00:22:47.427Z",
+      "nextCheckAt": 1793519021474,
+      "checkedAt": "2026-11-01T06:43:41.474Z",
+      "lastSuccessAt": "2026-11-01T06:43:41.474Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793496167181,
+  "nextCheckAt": 1793519021153,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6487314.html",
-      "title": "同样用一个模型，为什么有的公司的 agent 更好用？",
-      "summary": "同一个模型、同样的预算，半年后两家公司的 agent 差距却越拉越大。文章借 LangChain 创始人 Harrison 的分享拆开 harness 这一层：工具、治理、上下文与基础设施，解释为什么管得住比选对模型更决定成败。 假设有两家公司，用的是同一个大模型，同一天接入，花的钱也差不多。半年以后，一家的 agent（能自己调用工具、自己完成任务的 AI）每天在生产环境里干活，另一家的还停在演示阶段，一碰到真实用户就出错。 差别出在",
-      "publishedAt": "2026-10-31T10:37:13.000Z",
-      "url": "https://www.woshipm.com/ai/6487314.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6487433.html",
+      "title": "当 AI 开始替用户搜索和推荐，企业的获客逻辑会改变吗？",
+      "summary": "当用户开始向AI询问“推荐几款CRM”或“有哪些AI客服方案”，企业的获客逻辑正被悄然改写。本文通过实验数据与搜索行为分析，揭示AI如何成为新的信息筛选者，并探讨企业应如何调整内容策略，以在AI生成的答案中占据一席之地。 过去，企业要让客户找到自己，通常需要做几件事。 在搜索引擎上争取更好的排名，在小红书和抖音上生产内容，在微信生态里建立私域，在电商平台争取搜索曝光和商品推荐。 无论渠道如何变化，底层逻辑大体一致： 企业争取曝光，用户接",
+      "publishedAt": "2026-11-01T03:55:43.000Z",
+      "url": "https://www.woshipm.com/ai/6487433.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6487314.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6487433.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "同一个模型、同样的预算，半年后两家公司的 agent 差距却越拉越大。文章借 LangChain 创始人 Harrison 的分享拆开 harness 这一层：工具、治理、上下文与基础设施，解释为什么管得住比选对模型更决定成败。 假设有两家公司，用的是同一个大模型，同一天接入，花的钱也差不多。半年以后，一家的 agent（能自己调用工具、自己完成任务的 AI）每天在生产环境里干活，另一家的还停在演示阶段，一碰到真实用户就出错。 差别出在",
+      "brief": "当用户开始向AI询问“推荐几款CRM”或“有哪些AI客服方案”，企业的获客逻辑正被悄然改写。本文通过实验数据与搜索行为分析，揭示AI如何成为新的信息筛选者，并探讨企业应如何调整内容策略，以在AI生成的答案中占据一席之地。 过去，企业要让客户找到自己，通常需要做几件事。 在搜索引擎上争取更好的排名，在小红书和抖音上生产内容，在微信生态里建立私域，在电商平台争取搜索曝光和商品推荐。 无论渠道如何变化，底层逻辑大体一致： 企业争取曝光，用户接",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,51 +134,11 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6487296.html",
-      "title": "豆包学WorkBuddy，天天签到领额度，还开放模型",
-      "summary": "豆包把 WorkBuddy 那套每日签到领额度的玩法搬了过来，还顺手开放了模型选择。文章逐屏过了一遍签到入口、任务中心、额度兑换和模型下拉框，并算清每天到底能薅到多少额度。 AI Agent 时代，积分就是生产力。 每天早上WorkBuddy 签到领积分，已成了很多用户的习惯，我也是如此。 我担心每天忘记签到，还自己设了个定时任务。 每天自动执行去领取，一天都不错过。 并且，没事就去看看 WorkBuddy 的任务，看看是不是能薅点积分",
-      "publishedAt": "2026-10-31T07:42:35.000Z",
-      "url": "https://www.woshipm.com/ai/6487296.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6487296.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "豆包把 WorkBuddy 那套每日签到领额度的玩法搬了过来，还顺手开放了模型选择。文章逐屏过了一遍签到入口、任务中心、额度兑换和模型下拉框，并算清每天到底能薅到多少额度。 AI Agent 时代，积分就是生产力。 每天早上WorkBuddy 签到领积分，已成了很多用户的习惯，我也是如此。 我担心每天忘记签到，还自己设了个定时任务。 每天自动执行去领取，一天都不错过。 并且，没事就去看看 WorkBuddy 的任务，看看是不是能薅点积分",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6487189.html",
-      "title": "WorkBuddy本地部署超强OCR识别小模型",
-      "summary": "建筑图纸里的文字表格总提取不准，问题常常不在提示词，而在模型选型。这篇区分OCR专用模型与多模态模型的边界，用一段提示词把MiniCPM-OCR部署到本地，再拿25页施工图纸实测识别效果。 今天来填个坑的，之前老马写过一篇建筑行业怎么使用WorkBuddy来进行AI办公提升效率的文章。有位从业老哥留言，说我的法子行不通，瞬间就有点丈二和尚摸不着头脑。 他说自己做了几个Skill，发现WorkBuddy对于建筑施工方案，估计应该是图纸类的",
-      "publishedAt": "2026-10-31T06:25:39.000Z",
-      "url": "https://www.woshipm.com/ai/6487189.html",
+      "id": "woshipm:https://www.woshipm.com/evaluating/6486885.html",
+      "title": "从 Agent 开发平台到 AI 团队工作台：扣子的三次转向与它的结构性约束",
+      "summary": "扣子拿下2025年中国智能体开发平台公有云市场19.3%份额第一，靠的不是可视化搭建界面的易用性，而是分发网络加执行环境——把Agent送到用户面前并让它动手。本文对比Dify、阿里云百炼、腾讯云ADP，拆解扣子三年三跳的产品主线、并入豆包后的身份取舍，以及声量与收入严重不匹配的早期商业化现实。 分析对象：扣子（Coze） 对比竞品：Dify、阿里云百炼 Agent Studio、腾讯云 ADP 核心结论： 扣子的真实产品不是「可视化搭",
+      "publishedAt": "2026-11-01T02:58:02.000Z",
+      "url": "https://www.woshipm.com/evaluating/6486885.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -202,11 +162,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6487189.html",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6486885.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "建筑图纸里的文字表格总提取不准，问题常常不在提示词，而在模型选型。这篇区分OCR专用模型与多模态模型的边界，用一段提示词把MiniCPM-OCR部署到本地，再拿25页施工图纸实测识别效果。 今天来填个坑的，之前老马写过一篇建筑行业怎么使用WorkBuddy来进行AI办公提升效率的文章。有位从业老哥留言，说我的法子行不通，瞬间就有点丈二和尚摸不着头脑。 他说自己做了几个Skill，发现WorkBuddy对于建筑施工方案，估计应该是图纸类的",
+      "brief": "扣子拿下2025年中国智能体开发平台公有云市场19.3%份额第一，靠的不是可视化搭建界面的易用性，而是分发网络加执行环境——把Agent送到用户面前并让它动手。本文对比Dify、阿里云百炼、腾讯云ADP，拆解扣子三年三跳的产品主线、并入豆包后的身份取舍，以及声量与收入严重不匹配的早期商业化现实。 分析对象：扣子（Coze） 对比竞品：Dify、阿里云百炼 Agent Studio、腾讯云 ADP 核心结论： 扣子的真实产品不是「可视化搭",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6487373.html",
+      "title": "教你用WorkBuddy自动生成3D模型",
+      "summary": "DeepSeek-V4.1-Flash 发布后，用 WorkBuddy 自动操作 Blender 建模的效果有了起色。文章从装软件开始，用一句提示词建出一幢九十年代居民楼，再把 blend 转成 glb 挂到网页上在线预览，并划清哪些做法算作弊。 在GPT6模型发布的时候，不知道有多少小伙伴还记得，很多AI博主拿这个模型，使用Codex的Computer Use能力，自动操作开源的3D建模软件Blender，做出很多不错的3D模型效果。",
+      "publishedAt": "2026-11-01T01:45:52.000Z",
+      "url": "https://www.woshipm.com/ai/6487373.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6487373.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "DeepSeek-V4.1-Flash 发布后，用 WorkBuddy 自动操作 Blender 建模的效果有了起色。文章从装软件开始，用一句提示词建出一幢九十年代居民楼，再把 blend 转成 glb 挂到网页上在线预览，并划清哪些做法算作弊。 在GPT6模型发布的时候，不知道有多少小伙伴还记得，很多AI博主拿这个模型，使用Codex的Computer Use能力，自动操作开源的3D建模软件Blender，做出很多不错的3D模型效果。",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
