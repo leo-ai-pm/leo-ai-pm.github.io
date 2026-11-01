@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月2日",
     "demo": false,
-    "updatedAt": "2026-11-01T18:37:07.340Z",
+    "updatedAt": "2026-11-01T22:22:28.660Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 41,
-      "latestCount": 1,
+      "received": 43,
+      "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -48,8 +48,8 @@
           "group": "研究与方法",
           "focus": "LLM、模型使用与学习方法",
           "url": "https://x.com/karpathy",
-          "matched": 0,
-          "status": "历史观点已核对"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "swyx",
@@ -145,10 +145,53 @@
     },
     "items": [
       {
-        "id": "aihot-bdr4wzfygol4lz52ptme168wh",
-        "title": "Perplexity 用一句话生成互动博物馆",
-        "brief": "电脑，给我建一座互动博物馆",
-        "summary": "电脑，给我建一座互动博物馆",
+        "id": "aihot-epg27jolnkk7xfw3dy6xtb5xs",
+        "title": "Andrej Karpathy 用 Claude 打造 HackerTube 视频推荐站",
+        "brief": "Andrej Karpathy 发布周末项目 HackerTube（hackertube.org），用 Claude 从 20 年 HN 的 4300 万条评论中筛出 6454 个持续被推荐的视频，全程约 2 小时完成。",
+        "summary": "Andrej Karpathy 发布周末项目 HackerTube（hackertube.org），用 Claude 从 20 年 HN 的 4300 万条评论中筛出 6454 个持续被推荐的视频，全程约 2 小时完成。",
+        "category": "实践与观点",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "karpathy",
+        "sourceGroup": "研究与方法",
+        "sourceName": "Andrej Karpathy · @karpathy",
+        "feedName": "X：Andrej Karpathy (@karpathy)",
+        "sourceUrl": "https://x.com/karpathy/status/2116957135661945283",
+        "aggregateUrl": "https://aihot.news/items/epg27jolnkk7xfw3dy6xtb5xs",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-01T18:14:46.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Andrej Karpathy",
+              "asset": "/assets/identities/karpathy.jpg",
+              "assetSource": "https://x.com/karpathy",
+              "tone": "#e9e4dc"
+            },
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Andrej Karpathy",
+            "asset": "/assets/identities/karpathy.jpg",
+            "assetSource": "https://x.com/karpathy",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-r6z2rg6px15gh8ak1c259g2xo",
+        "title": "Perplexity 推出 GTA VI 地图 Leonida 的 3D 对照版，可并排比较真实佛罗里达",
+        "brief": "Perplexity CEO Aravind Srinivas 展示了用 Computer 构建的非官方 GTA VI 地图，把游戏中的 Leonida 地标与粉丝识别出的真实佛罗里达地点配对，可并排比较两份地图并以 3D 形式探索 Leonida 近似版。",
+        "summary": "Perplexity CEO Aravind Srinivas 展示了用 Computer 构建的非官方 GTA VI 地图，把游戏中的 Leonida 地标与粉丝识别出的真实佛罗里达地点配对，可并排比较两份地图并以 3D 形式探索 Leonida 近似版。",
         "category": "产品动态",
         "topic": "AI 产品",
         "priority": "normal",
@@ -157,10 +200,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2116638385121185862",
-        "aggregateUrl": "https://aihot.news/items/bdr4wzfygol4lz52ptme168wh",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2116956758480732377",
+        "aggregateUrl": "https://aihot.news/items/r6z2rg6px15gh8ak1c259g2xo",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-10-31T21:08:10.000Z",
+        "publishedAt": "2026-11-01T18:13:17.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -279,7 +322,7 @@
         "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
         "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
         "sourceCount": 4,
-        "participantCount": 33,
+        "participantCount": 31,
         "latestAt": "2026-11-01T15:05:52.000Z",
         "expanded": true,
         "latest": "Apple Intelligence 中国区功能12月上线，千问接入 Siri、写作工具和视觉智能",
@@ -400,15 +443,15 @@
       },
       {
         "rank": 5,
-        "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
-        "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
-        "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-        "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
-        "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
-        "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
-        "sourceCount": 1,
-        "participantCount": 21,
-        "latestAt": "2026-10-30T23:26:41.593Z",
+        "id": "k02hyr58q45b0ip29mm5bfxkf",
+        "title": "Karpathy用Claude从HN评论筛出6454个视频",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2116983513425883148",
+        "aihotUrl": "https://aihot.news/items/k02hyr58q45b0ip29mm5bfxkf",
+        "storyUrl": "https://aihot.news/story/6e51648d-3894-48aa-8f3d-1a81b5ecd218",
+        "sourceCount": 2,
+        "participantCount": 9,
+        "latestAt": "2026-11-01T19:59:35.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -428,42 +471,14 @@
       },
       {
         "rank": 6,
-        "id": "xa6snded4wd516h4jrk06yzs3",
-        "title": "Altman 称本地推理浪费 DRAM 与算力",
-        "sourceName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-        "aihotUrl": "https://aihot.news/items/xa6snded4wd516h4jrk06yzs3",
-        "storyUrl": "https://aihot.news/story/a44b16b7-7b97-41d0-bb96-59c6565a7b2c",
-        "sourceCount": 1,
-        "participantCount": 18,
-        "latestAt": "2026-10-30T20:48:43.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
         "id": "u0icl9u1j0rleehslmzq89pe5",
         "title": "四家AI公司支持robots.txt统一退出信号",
         "sourceName": "IT之家·人工智能",
         "sourceUrl": "https://www.ithome.com/1/020/837.htm",
         "aihotUrl": "https://aihot.news/items/u0icl9u1j0rleehslmzq89pe5",
         "storyUrl": "https://aihot.news/story/a28f10be-5030-4347-b3a3-38356ffe393f",
-        "sourceCount": 2,
-        "participantCount": 16,
+        "sourceCount": 1,
+        "participantCount": 12,
         "latestAt": "2026-11-01T14:19:52.347Z",
         "expanded": false,
         "latest": "",
@@ -483,16 +498,16 @@
         }
       },
       {
-        "rank": 8,
-        "id": "cms82puwtmpssdpbjmajoopr9",
-        "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
-        "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
-        "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
-        "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
-        "sourceCount": 2,
-        "participantCount": 16,
-        "latestAt": "2026-10-30T23:51:47.903Z",
+        "rank": 7,
+        "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
+        "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
+        "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "sourceUrl": "https://x.com/adocomplete/status/2116224220539883992",
+        "aihotUrl": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+        "storyUrl": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb",
+        "sourceCount": 1,
+        "participantCount": 14,
+        "latestAt": "2026-10-30T23:26:41.593Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -500,10 +515,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "热点",
@@ -511,7 +526,7 @@
         }
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "k0xci1tn1nue1lop6rwik8l8v",
         "title": "Anthropic 限制 Claude Code 复刻现有游戏",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -519,7 +534,7 @@
         "aihotUrl": "https://aihot.news/items/k0xci1tn1nue1lop6rwik8l8v",
         "storyUrl": "https://aihot.news/story/d45eae25-a69c-47b6-81b2-cc5f83aff926",
         "sourceCount": 1,
-        "participantCount": 8,
+        "participantCount": 9,
         "latestAt": "2026-10-31T06:26:18.023Z",
         "expanded": false,
         "latest": "",
@@ -539,16 +554,44 @@
         }
       },
       {
+        "rank": 9,
+        "id": "cms82puwtmpssdpbjmajoopr9",
+        "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
+        "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+        "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
+        "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+        "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
+        "sourceCount": 1,
+        "participantCount": 11,
+        "latestAt": "2026-10-30T23:51:47.903Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 10,
-        "id": "tnolng6fji63rqg1jkkxlamrp",
-        "title": "黑石下调Anthropic上市后评级预期至投机级",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/020/610.htm",
-        "aihotUrl": "https://aihot.news/items/tnolng6fji63rqg1jkkxlamrp",
-        "storyUrl": "https://aihot.news/story/7735066d-339d-4415-b051-7919ab018f34",
-        "sourceCount": 2,
+        "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+        "title": "Cursor 扩展市场现恶意 Claude Code 包",
+        "sourceName": "X：Cursor (@cursor_ai)",
+        "sourceUrl": "https://x.com/cursor_ai/status/2116074289053175808",
+        "aihotUrl": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+        "storyUrl": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6",
+        "sourceCount": 1,
         "participantCount": 10,
-        "latestAt": "2026-10-31T13:10:01.110Z",
+        "latestAt": "2026-10-31T05:36:34.647Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -562,7 +605,7 @@
               "tone": "#eddfd0"
             }
           ],
-          "caption": "热点",
+          "caption": "Claude Code",
           "author": null
         }
       }
@@ -570,8 +613,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-01T18:37:07.340Z",
-    "nextCheckAt": 1793558527340,
+    "checkedAt": "2026-11-01T22:22:28.660Z",
+    "nextCheckAt": 1793572048660,
     "intervalSeconds": 300,
     "message": ""
   }

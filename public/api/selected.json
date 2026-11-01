@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-01T18:37:26.849Z",
+  "checkedAt": "2026-11-01T22:22:48.753Z",
   "message": "",
   "categories": [
     {
@@ -602,6 +602,20 @@
       "unselected": false
     },
     {
+      "id": "mhw3rtr5o13p5777y7el9tczk",
+      "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
+      "reason": "原文给出了一个 Claude Code 实用技巧，输入 ultrathink 可提升当前回合的推理努力，适合编码工作流直接复用。",
+      "summary": "Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude 工作期间输入 ultrathink，可提升该回合剩余部分的推理努力，该功能适用于最新版本的终端。",
+      "sourceName": "X：Addy Osmani (@addyosmani)",
+      "sourceUrl": "https://x.com/addyosmani/status/2116986087390486816",
+      "aihotUrl": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
+      "publishedAt": "2026-11-01T20:09:49.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "l928e49lwysm0ymgmhyjrkc3z",
       "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
       "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
@@ -610,20 +624,6 @@
       "sourceUrl": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
       "aihotUrl": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
       "publishedAt": "2026-10-29T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "mcucufe6w6qrftx6l40hkmjrz",
-      "title": "Pydantic AI 基准实测：代码模式让长任务成本降 58%、耗时降 51%",
-      "reason": "作者用 5276 次实测把代码模式的真实收益边界拆开，长任务省一半成本而短任务反而更贵，结论可直接迁移到自己的智能体设计。",
-      "summary": "Pydantic AI 的 Michael Pfaffenberger 发布一篇基准分析，用 5 个小型 CRUD 应用、8 个模型、5,276 次评分运行对比代码模式开与关。",
-      "sourceName": "Pydantic AI 官方文章",
-      "sourceUrl": "https://pydantic.dev/articles/why-code-mode-is-the-future",
-      "aihotUrl": "https://aihot.news/items/mcucufe6w6qrftx6l40hkmjrz",
-      "publishedAt": "2026-10-28T09:00:00.000Z",
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
@@ -772,6 +772,20 @@
           "unselected": false
         },
         {
+          "id": "mhw3rtr5o13p5777y7el9tczk",
+          "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
+          "reason": "原文给出了一个 Claude Code 实用技巧，输入 ultrathink 可提升当前回合的推理努力，适合编码工作流直接复用。",
+          "summary": "Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude 工作期间输入 ultrathink，可提升该回合剩余部分的推理努力，该功能适用于最新版本的终端。",
+          "sourceName": "X：Addy Osmani (@addyosmani)",
+          "sourceUrl": "https://x.com/addyosmani/status/2116986087390486816",
+          "aihotUrl": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
+          "publishedAt": "2026-11-01T20:09:49.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "mcucufe6w6qrftx6l40hkmjrz",
           "title": "Pydantic AI 基准实测：代码模式让长任务成本降 58%、耗时降 51%",
           "reason": "作者用 5276 次实测把代码模式的真实收益边界拆开，长任务省一半成本而短任务反而更贵，结论可直接迁移到自己的智能体设计。",
@@ -797,20 +811,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "xonc43xgcx39303i40k8022rl",
-          "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
-          "reason": "原文是 GitHub 官方对 Universe 2026 新品的集中说明，给出各功能的定位和关键数据，便于读者评估对现有工作流的影响。",
-          "summary": "GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。",
-          "sourceName": "GitHub Blog",
-          "sourceUrl": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-          "aihotUrl": "https://aihot.news/items/xonc43xgcx39303i40k8022rl",
-          "publishedAt": "2026-10-28T16:09:28.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
