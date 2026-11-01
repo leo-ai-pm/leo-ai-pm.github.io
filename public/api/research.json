@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-01T06:43:41.153Z",
-      "lastSuccessAt": "2026-11-01T06:43:41.153Z",
-      "nextCheckAt": 1793519021153,
+      "checkedAt": "2026-11-01T13:49:45.077Z",
+      "lastSuccessAt": "2026-11-01T13:49:45.077Z",
+      "nextCheckAt": 1793544585077,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-01T06:43:41.153Z",
-      "lastSuccessAt": "2026-11-01T06:43:41.153Z",
-      "nextCheckAt": 1793519021153,
+      "checkedAt": "2026-11-01T13:49:45.078Z",
+      "lastSuccessAt": "2026-11-01T13:49:45.078Z",
+      "nextCheckAt": 1793544585078,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-01T06:43:41.154Z",
-      "lastSuccessAt": "2026-11-01T06:43:41.154Z",
-      "nextCheckAt": 1793519021154,
+      "checkedAt": "2026-11-01T13:49:45.079Z",
+      "lastSuccessAt": "2026-11-01T13:49:45.079Z",
+      "nextCheckAt": 1793544585079,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-01T13:49:45.272Z",
+      "lastSuccessAt": "2026-11-01T13:49:45.272Z",
+      "nextCheckAt": 1793544585272,
       "status": "ok",
-      "nextCheckAt": 1793519021474,
-      "checkedAt": "2026-11-01T06:43:41.474Z",
-      "lastSuccessAt": "2026-11-01T06:43:41.474Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793519021153,
+  "nextCheckAt": 1793544585077,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/evaluating/6487428.html",
+      "title": "实测灵光 2.0：对标 Muse 背后，中美 Personal Agent 的底层逻辑其实截然不同",
+      "summary": "灵光 2.0 想把 AI 从一次性的任务执行者，变成持续跟进生活事务的个人助理：记住需求、盯住变化，在你离开对话之后继续干活。背靠支付宝，它在信息管理、内容生产和交易执行三条线上各走到了哪一步，又不得不把哪些事交还给你，四个维度逐一实测。 在大模型行业卷完参数、卷完长文本，又在 GUI Agent 的延迟与高错误率里撞得头破血流之后，Personal Agent 到底该怎么落地，成了 2026 年下半年所有大厂的必答题。 2026 年",
+      "publishedAt": "2026-11-01T06:41:58.000Z",
+      "url": "https://www.woshipm.com/evaluating/6487428.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/evaluating/6487428.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "灵光 2.0 想把 AI 从一次性的任务执行者，变成持续跟进生活事务的个人助理：记住需求、盯住变化，在你离开对话之后继续干活。背靠支付宝，它在信息管理、内容生产和交易执行三条线上各走到了哪一步，又不得不把哪些事交还给你，四个维度逐一实测。 在大模型行业卷完参数、卷完长文本，又在 GUI Agent 的延迟与高错误率里撞得头破血流之后，Personal Agent 到底该怎么落地，成了 2026 年下半年所有大厂的必答题。 2026 年",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6487433.html",
       "title": "当 AI 开始替用户搜索和推荐，企业的获客逻辑会改变吗？",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/evaluating/6486885.html",
@@ -174,44 +214,84 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6487373.html",
-      "title": "教你用WorkBuddy自动生成3D模型",
-      "summary": "DeepSeek-V4.1-Flash 发布后，用 WorkBuddy 自动操作 Blender 建模的效果有了起色。文章从装软件开始，用一句提示词建出一幢九十年代居民楼，再把 blend 转成 glb 挂到网页上在线预览，并划清哪些做法算作弊。 在GPT6模型发布的时候，不知道有多少小伙伴还记得，很多AI博主拿这个模型，使用Codex的Computer Use能力，自动操作开源的3D建模软件Blender，做出很多不错的3D模型效果。",
-      "publishedAt": "2026-11-01T01:45:52.000Z",
-      "url": "https://www.woshipm.com/ai/6487373.html",
+      "id": "ph:https://www.producthunt.com/products/agentmash",
+      "title": "agentmash",
+      "summary": "open-source multiplayer AI for teams' coding agents",
+      "publishedAt": "2026-10-31T18:08:19.000Z",
+      "url": "https://www.producthunt.com/products/agentmash",
       "linkKind": "original",
       "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6487373.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "DeepSeek-V4.1-Flash 发布后，用 WorkBuddy 自动操作 Blender 建模的效果有了起色。文章从装软件开始，用一句提示词建出一幢九十年代居民楼，再把 blend 转成 glb 挂到网页上在线预览，并划清哪些做法算作弊。 在GPT6模型发布的时候，不知道有多少小伙伴还记得，很多AI博主拿这个模型，使用Codex的Computer Use能力，自动操作开源的3D建模软件Blender，做出很多不错的3D模型效果。",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/agentmash",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "open-source multiplayer AI for teams' coding agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/ernd",
+      "title": "ernd",
+      "summary": "The credit card for the AI stack",
+      "publishedAt": "2026-10-31T08:07:30.000Z",
+      "url": "https://www.producthunt.com/products/ernd",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/ernd",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The credit card for the AI stack",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/ac-bridge",
@@ -247,86 +327,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Your smart lights show when Claude Code or Codex needs you.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/godwit",
-      "title": "Godwit",
-      "summary": "An open-source, AI-native email client",
-      "publishedAt": "2026-10-31T03:45:26.000Z",
-      "url": "https://www.producthunt.com/products/godwit",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/godwit",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "An open-source, AI-native email client",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/pluto-door",
-      "title": "Pluto Door",
-      "summary": "SSH client with an AI agent and a desktop for every server",
-      "publishedAt": "2026-10-30T22:10:44.000Z",
-      "url": "https://www.producthunt.com/products/pluto-door",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/pluto-door",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "SSH client with an AI agent and a desktop for every server",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -411,46 +411,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
-      "title": "让 Agent 读懂你的身体：数据处理篇",
-      "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自<",
-      "publishedAt": "2026-10-29T03:29:46.000Z",
-      "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自<",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"
     },
     {

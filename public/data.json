@@ -1,7 +1,7 @@
 {
   "date": "2026年11月1日",
   "demo": false,
-  "updatedAt": "2026-11-01T06:43:54.374Z",
+  "updatedAt": "2026-11-01T13:49:53.894Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 52,
+    "received": 51,
     "latestCount": 1,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -221,6 +221,56 @@
   "ranking": [
     {
       "rank": 1,
+      "id": "oig5qkyz9fzkdpchgk7l2cmm3",
+      "title": "DeepSeek开源Super-agent双层架构原型",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/020/615.htm",
+      "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
+      "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
+      "sourceCount": 3,
+      "participantCount": 26,
+      "latestAt": "2026-11-01T11:47:08.000Z",
+      "expanded": true,
+      "latest": "DeepSeek 发布 Super-agent 英文版文章并招产品经理",
+      "reports": [
+        {
+          "title": "DeepSeek 发布 Super-agent 英文版文章并招产品经理",
+          "sourceName": "X：Tianyi Cui（@tianyi）",
+          "sourceUrl": "https://x.com/tianyi/status/2116859582639403080",
+          "aihotUrl": "https://aihot.news/items/xwuom8k0bngxktjl6qgy9lul5",
+          "publishedAt": "2026-11-01T11:47:08.000Z"
+        },
+        {
+          "title": "DeepSeek 官方发布 Super-agent 英文文章并招产品经理",
+          "sourceName": "X：Tianyi Cui（@tianyi）",
+          "sourceUrl": "https://x.com/tianyi/status/2116858974867993047",
+          "aihotUrl": "https://aihot.news/items/n6caspmdigjsbdbi2vq0d2n28",
+          "publishedAt": "2026-11-01T11:44:43.000Z"
+        },
+        {
+          "title": "DeepSeek 开源 Router-Worker 编码智能体 dsh-superagent",
+          "sourceName": "MarkTechPost（RSS）",
+          "sourceUrl": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+          "aihotUrl": "https://aihot.news/items/j8xxhoehp8lpglfuqqj6xu63m",
+          "publishedAt": "2026-11-01T07:47:17.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "lnc48gxlu5nv0he3mw57lzmc6",
       "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
       "sourceName": "IT之家·人工智能",
@@ -228,7 +278,7 @@
       "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
       "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
       "sourceCount": 3,
-      "participantCount": 29,
+      "participantCount": 32,
       "latestAt": "2026-10-31T00:03:47.000Z",
       "expanded": true,
       "latest": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
@@ -270,7 +320,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "qexf6est4uitwd71p3ugedxo6",
       "title": "OpenAI 融资目标缩至约 200 亿美元，估值约 1.25 万亿",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -278,7 +328,7 @@
       "aihotUrl": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
       "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd",
       "sourceCount": 4,
-      "participantCount": 20,
+      "participantCount": 21,
       "latestAt": "2026-10-31T16:12:55.000Z",
       "expanded": true,
       "latest": "OpenAI 传闻将新一轮融资目标下调至 200 亿美元",
@@ -320,49 +370,27 @@
       }
     },
     {
-      "rank": 3,
-      "id": "cms82puwtmpssdpbjmajoopr9",
-      "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
-      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
-      "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
-      "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
-      "sourceCount": 6,
-      "participantCount": 26,
-      "latestAt": "2026-10-30T23:51:47.903Z",
-      "expanded": true,
-      "latest": "谷歌宣布 Project Suncatcher 在轨 TPU 首次完成 AI 响应里程碑",
-      "reports": [
-        {
-          "title": "谷歌宣布 Project Suncatcher 在轨 TPU 首次完成 AI 响应里程碑",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/020/402.htm",
-          "aihotUrl": "https://aihot.news/items/gl2jonvofk3oha7gnkz6wzyut",
-          "publishedAt": "2026-10-30T23:51:47.903Z"
-        },
-        {
-          "title": "Google 2027 年发射两颗卫星测试太空 AI 计算",
-          "sourceName": "X：Google (@Google)",
-          "sourceUrl": "https://x.com/Google/status/2116244903155929115",
-          "aihotUrl": "https://aihot.news/items/p3yq1z51siyjig4rsj35vpyyx",
-          "publishedAt": "2026-10-30T19:04:37.000Z"
-        },
-        {
-          "title": "Google 确认 4 颗 TPU 在太空成功开机并回传推理结果",
-          "sourceName": "X：Google (@Google)",
-          "sourceUrl": "https://x.com/Google/status/2116244898269610456",
-          "aihotUrl": "https://aihot.news/items/grnwmg1uzetic318pznkl73qy",
-          "publishedAt": "2026-10-30T19:04:36.000Z"
-        }
-      ],
+      "rank": 4,
+      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
+      "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
+      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+      "storyUrl": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b",
+      "sourceCount": 4,
+      "participantCount": 13,
+      "latestAt": "2026-11-01T09:51:06.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
           {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -370,7 +398,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
       "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
       "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
@@ -398,7 +426,35 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "cms82puwtmpssdpbjmajoopr9",
+      "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
+      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "sourceUrl": "https://x.com/_philschmid/status/2116235686445502608",
+      "aihotUrl": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+      "storyUrl": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad",
+      "sourceCount": 6,
+      "participantCount": 26,
+      "latestAt": "2026-10-30T23:51:47.903Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "xa6snded4wd516h4jrk06yzs3",
       "title": "Altman 称本地推理浪费 DRAM 与算力",
       "sourceName": "The Verge：AI（RSS）",
@@ -406,7 +462,7 @@
       "aihotUrl": "https://aihot.news/items/xa6snded4wd516h4jrk06yzs3",
       "storyUrl": "https://aihot.news/story/a44b16b7-7b97-41d0-bb96-59c6565a7b2c",
       "sourceCount": 1,
-      "participantCount": 19,
+      "participantCount": 18,
       "latestAt": "2026-10-30T20:48:43.000Z",
       "expanded": false,
       "latest": "",
@@ -426,99 +482,15 @@
       }
     },
     {
-      "rank": 6,
-      "id": "oig5qkyz9fzkdpchgk7l2cmm3",
-      "title": "DeepSeek提出Super-agent双层架构",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/020/615.htm",
-      "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
-      "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
-      "sourceCount": 1,
-      "participantCount": 14,
-      "latestAt": "2026-10-31T13:36:35.640Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
-      "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
-      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
-      "storyUrl": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b",
-      "sourceCount": 3,
-      "participantCount": 10,
-      "latestAt": "2026-11-01T00:22:41.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 8,
-      "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
-      "title": "Cursor 扩展市场现恶意 Claude Code 包",
-      "sourceName": "X：Cursor (@cursor_ai)",
-      "sourceUrl": "https://x.com/cursor_ai/status/2116074289053175808",
-      "aihotUrl": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
-      "storyUrl": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6",
-      "sourceCount": 4,
-      "participantCount": 18,
-      "latestAt": "2026-10-31T05:36:34.647Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "c0e1dz7rmmvy9vbujs0u6qmc8",
       "title": "四家AI公司支持robots.txt统一退出信号",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "aihotUrl": "https://aihot.news/items/c0e1dz7rmmvy9vbujs0u6qmc8",
       "storyUrl": "https://aihot.news/story/a28f10be-5030-4347-b3a3-38356ffe393f",
-      "sourceCount": 2,
-      "participantCount": 15,
+      "sourceCount": 1,
+      "participantCount": 14,
       "latestAt": "2026-10-30T20:26:10.000Z",
       "expanded": false,
       "latest": "",
@@ -538,6 +510,34 @@
       }
     },
     {
+      "rank": 9,
+      "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "title": "Cursor 扩展市场现恶意 Claude Code 包",
+      "sourceName": "X：Cursor (@cursor_ai)",
+      "sourceUrl": "https://x.com/cursor_ai/status/2116074289053175808",
+      "aihotUrl": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "storyUrl": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6",
+      "sourceCount": 3,
+      "participantCount": 14,
+      "latestAt": "2026-10-31T05:36:34.647Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "Claude Code",
+        "author": null
+      }
+    },
+    {
       "rank": 10,
       "id": "tnolng6fji63rqg1jkkxlamrp",
       "title": "黑石下调Anthropic上市后评级预期至投机级",
@@ -546,7 +546,7 @@
       "aihotUrl": "https://aihot.news/items/tnolng6fji63rqg1jkkxlamrp",
       "storyUrl": "https://aihot.news/story/7735066d-339d-4415-b051-7919ab018f34",
       "sourceCount": 2,
-      "participantCount": 10,
+      "participantCount": 11,
       "latestAt": "2026-10-31T13:10:01.110Z",
       "expanded": false,
       "latest": "",
