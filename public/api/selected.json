@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-01T22:22:48.753Z",
+  "checkedAt": "2026-11-02T01:45:37.830Z",
   "message": "",
   "categories": [
     {
@@ -26,45 +26,17 @@
   ],
   "today": [
     {
-      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
-      "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
-      "reason": "作者以重度用户视角梳理额度合并对聊天和编码习惯的实际冲击，并回溯按条数与按 Token 计费的机制差异，便于理解订阅策略变化的影响。",
-      "summary": "作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。",
+      "id": "dzwfvd9xp6v4qaj6olxezpier",
+      "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
+      "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
+      "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
       "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
-      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
-      "publishedAt": "2026-11-01T00:22:41.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "yww15c701iat30p8ttjf029ij",
-      "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
-      "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
-      "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
-      "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
+      "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
+      "publishedAt": "2026-11-02T00:19:00.000Z",
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "dpm21l66z2iizblehsdg09c8t",
-      "title": "美国白宫科技顾问萨克斯称 Anthropic 可能成为资本主义史上最伟大企业",
-      "reason": "萨克斯基于 S-1 财务数据分析 Anthropic 的现金储备与 IPO 融资需求，读者可借此了解其看多逻辑和资本效率论点。",
-      "summary": "美国白宫科学与技术顾问会议主席戴维·萨克斯在 All-In 播客分析 Anthropic 的 S-1 文件，称其很可能成为资本主义历史上最伟大企业，也可能是回报最高的风险投资项目。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/020/633.htm",
-      "aihotUrl": "https://aihot.news/items/dpm21l66z2iizblehsdg09c8t",
-      "publishedAt": "2026-10-31T22:56:28.467Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
       "unselected": false
     }
   ],
@@ -518,6 +490,20 @@
       "unselected": false
     },
     {
+      "id": "dzwfvd9xp6v4qaj6olxezpier",
+      "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
+      "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
+      "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
+      "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
+      "publishedAt": "2026-11-02T00:19:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "yww15c701iat30p8ttjf029ij",
       "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
       "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
@@ -614,20 +600,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "l928e49lwysm0ymgmhyjrkc3z",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-      "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
-      "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
-      "aihotUrl": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -637,6 +609,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "dzwfvd9xp6v4qaj6olxezpier",
+          "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
+          "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
+          "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
+          "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
+          "publishedAt": "2026-11-02T00:19:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "yww15c701iat30p8ttjf029ij",
           "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
@@ -702,20 +688,6 @@
           "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
           "aihotUrl": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
           "publishedAt": "2026-10-30T21:17:40.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "hfhskyex3cjrs3huvpmi1z7bg",
-          "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
-          "reason": "公司官方披露 ARR 增长节奏和按结果计费、Poppy 开放标准等经营思路，读者可据此理解 Agent 商业化的一种路径。",
-          "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
-          "sourceName": "Sierra：Blog（RSS）",
-          "sourceUrl": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-          "aihotUrl": "https://aihot.news/items/hfhskyex3cjrs3huvpmi1z7bg",
-          "publishedAt": "2026-10-30T12:50:00.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
@@ -914,6 +886,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "dzwfvd9xp6v4qaj6olxezpier",
+          "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
+          "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
+          "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
+          "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
+          "publishedAt": "2026-11-02T00:19:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
           "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
           "reason": "作者以重度用户视角梳理额度合并对聊天和编码习惯的实际冲击，并回溯按条数与按 Token 计费的机制差异，便于理解订阅策略变化的影响。",
@@ -982,20 +968,6 @@
           "category": "industry",
           "categoryLabel": "行业",
           "unselected": false
-        },
-        {
-          "id": "l7y0gkoqx56dt6jxv6x0mcl0h",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "reason": "报道整合了本周多家巨头的股价、市值损失和支出数字，可看出市场对 AI 投入回报的担忧正在集中兑现。",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "sourceName": "Hacker News：AI 热帖",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "aihotUrl": "https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h",
-          "publishedAt": "2026-10-30T14:50:37.797Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -1005,6 +977,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "dzwfvd9xp6v4qaj6olxezpier",
+          "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
+          "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
+          "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
+          "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
+          "publishedAt": "2026-11-02T00:19:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "yww15c701iat30p8ttjf029ij",
           "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
@@ -1073,20 +1059,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "fxxkgtzpf2pb8xjnhu4jtis0b",
-          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-          "reason": "原文汇总四大科技公司的资本开支与自由现金流数据，可帮读者理解投资者为何开始担忧 AI 基建投入的回报。",
-          "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
-          "sourceName": "TechCrunch：AI（RSS）",
-          "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-          "aihotUrl": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
-          "publishedAt": "2026-10-30T21:17:40.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
