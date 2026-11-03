@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月4日",
     "demo": false,
-    "updatedAt": "2026-11-03T16:05:07.395Z",
+    "updatedAt": "2026-11-03T21:42:18.203Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 150,
-      "latestCount": 2,
+      "received": 185,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -129,8 +129,8 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 2,
+          "status": "本次收录"
         },
         {
           "handle": "Thom_Wolf",
@@ -219,6 +219,43 @@
         }
       },
       {
+        "id": "aihot-e12li1t64q33npg2g7ty5vobj",
+        "title": "Perplexity Computer 支持 Agent Plugins，可打包应用连接与技能",
+        "brief": "Perplexity CEO Aravind Srinivas 宣布其 Agent 框架 Computer 现已支持 Agent Plugins，可在单个连接器之上的抽象层操作应用包及其对应技能。",
+        "summary": "Perplexity CEO Aravind Srinivas 宣布其 Agent 框架 Computer 现已支持 Agent Plugins，可在单个连接器之上的抽象层操作应用包及其对应技能。",
+        "category": "产品动态",
+        "topic": "Agent",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "AravSrinivas",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Aravind Srinivas · @AravSrinivas",
+        "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2117725519982784940",
+        "aggregateUrl": "https://aihot.news/items/e12li1t64q33npg2g7ty5vobj",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-03T21:08:04.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Perplexity",
+              "asset": "/assets/identities/perplexity_ai.jpg",
+              "assetSource": "https://x.com/perplexity_ai",
+              "tone": "#dcebea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Aravind Srinivas",
+            "asset": "/assets/identities/aravsrinivas.jpg",
+            "assetSource": "https://x.com/AravSrinivas",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
         "id": "x-karpathy-2079610838143623371",
         "title": "Karpathy：用自由讲述给 LLM 补足上下文",
         "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -266,7 +303,7 @@
         "aihotUrl": "https://aihot.news/items/zdajxfep092u90haul1cu9if9",
         "storyUrl": "https://aihot.news/story/6967bf9e-459b-487f-93ce-2804c3605d57",
         "sourceCount": 4,
-        "participantCount": 51,
+        "participantCount": 53,
         "latestAt": "2026-11-03T02:00:55.937Z",
         "expanded": true,
         "latest": "MIT CSAIL 提出「权重空间编程」：GPT-6 Astra 仅修改 Qwen3.5-0.8B 约 0.016% 权重，MATH-500 成绩提升至 6 倍",
@@ -315,32 +352,32 @@
         "sourceUrl": "https://www.anthropic.com/news/s1-sec",
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 3,
-        "participantCount": 38,
-        "latestAt": "2026-11-03T08:03:19.683Z",
+        "sourceCount": 4,
+        "participantCount": 39,
+        "latestAt": "2026-11-03T17:07:01.000Z",
         "expanded": true,
-        "latest": "Anthropic 在 S-1/A 招股文件中警示递归自我改进（RSI）临近",
+        "latest": "Anthropic S-1 新披露显示算力成本占比升至 58%，利润率承压",
         "reports": [
+          {
+            "title": "Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺",
+            "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+            "sourceUrl": "https://www.wheresyoured.at/running-dry/",
+            "aihotUrl": "https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5",
+            "publishedAt": "2026-11-03T17:16:20.000Z"
+          },
+          {
+            "title": "Anthropic S-1 新披露显示算力成本占比升至 58%，利润率承压",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+            "aihotUrl": "https://aihot.news/items/byq9z2oinyhjrd8hrxql51wg5",
+            "publishedAt": "2026-11-03T17:07:01.000Z"
+          },
           {
             "title": "Anthropic 在 S-1/A 招股文件中警示递归自我改进（RSI）临近",
             "sourceName": "IT之家·人工智能",
             "sourceUrl": "https://www.ithome.com/1/021/626.htm",
             "aihotUrl": "https://aihot.news/items/fey67gtp70ulqn8j5il7kycxg",
             "publishedAt": "2026-11-03T08:03:19.683Z"
-          },
-          {
-            "title": "Anthropic 修订版 IPO 文件披露 8954 亿美元算力承诺，总额可达 1.07 万亿美元",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2117407218849157258",
-            "aihotUrl": "https://aihot.news/items/dertdpzq3sm7jhkbxyfqwxspp",
-            "publishedAt": "2026-11-03T00:03:15.000Z"
-          },
-          {
-            "title": "Anthropic 在 S-1A 中披露可能很快达到自身 RSI 定义",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-            "aihotUrl": "https://aihot.news/items/uj1dp8gyin78j1xfse943y5w0",
-            "publishedAt": "2026-11-02T22:14:50.000Z"
           }
         ],
         "related": [
@@ -372,6 +409,56 @@
       },
       {
         "rank": 3,
+        "id": "jk7mp3gxpm7orfsalkr0s30rw",
+        "title": "Google将引导学习引入Search和Classroom，K-12学生AI工具默认关闭",
+        "sourceName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+        "aihotUrl": "https://aihot.news/items/jk7mp3gxpm7orfsalkr0s30rw",
+        "storyUrl": "https://aihot.news/story/956471b6-c78b-44c7-b4d4-e00583803aca",
+        "sourceCount": 4,
+        "participantCount": 15,
+        "latestAt": "2026-11-03T17:54:43.000Z",
+        "expanded": true,
+        "latest": "Google 允许学校关闭 AI 工具，但须一并放弃 Google Search",
+        "reports": [
+          {
+            "title": "Google 允许学校关闭 AI 工具，但须一并放弃 Google Search",
+            "sourceName": "Ars Technica：AI（RSS）",
+            "sourceUrl": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+            "aihotUrl": "https://aihot.news/items/jxxyvfa5y9r3zg96942piqltb",
+            "publishedAt": "2026-11-03T17:54:43.000Z"
+          },
+          {
+            "title": "Google 将在拒绝 AI 功能的学校完全关闭 Search",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+            "aihotUrl": "https://aihot.news/items/jk7mp3gxpm7orfsalkr0s30rw",
+            "publishedAt": "2026-11-03T17:00:04.000Z"
+          },
+          {
+            "title": "Google 宣布明年起默认关闭 K-12 学生的 AI 工具，学校若禁用 AI 将同时失去 Google Search",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+            "aihotUrl": "https://aihot.news/items/jvnxjmtlp3vtya5c18i1h5uqo",
+            "publishedAt": "2026-11-03T16:30:34.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 4,
         "id": "wrmi17szf006yhdo1g9uufn74",
         "title": "马斯克承认Grok Bot成本高于收入并下调限额",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -379,33 +466,11 @@
         "aihotUrl": "https://aihot.news/items/wrmi17szf006yhdo1g9uufn74",
         "storyUrl": "https://aihot.news/story/8b71dc45-4e03-41aa-a2e0-97b2a37915dc",
         "sourceCount": 3,
-        "participantCount": 23,
+        "participantCount": 25,
         "latestAt": "2026-11-02T18:15:39.000Z",
-        "expanded": true,
-        "latest": "SpaceX 据传削减 Grok Bot 配额，Musk 称运营成本相对收入难以持续",
-        "reports": [
-          {
-            "title": "SpaceX 据传削减 Grok Bot 配额，Musk 称运营成本相对收入难以持续",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
-            "aihotUrl": "https://aihot.news/items/wrmi17szf006yhdo1g9uufn74",
-            "publishedAt": "2026-11-02T18:15:39.000Z"
-          },
-          {
-            "title": "Elon Musk 以成本过高为由下调 Grok Bot 用量限制",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-            "aihotUrl": "https://aihot.news/items/v1wva24hgmyo9nqvnl8igv5el",
-            "publishedAt": "2026-11-02T16:23:21.000Z"
-          },
-          {
-            "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本相对收入高到难以为继",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/021/271.htm",
-            "aihotUrl": "https://aihot.news/items/p3z27natibus5va8kmqy4wwdp",
-            "publishedAt": "2026-11-02T13:38:33.037Z"
-          }
-        ],
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -421,44 +486,16 @@
         }
       },
       {
-        "rank": 4,
-        "id": "k02hyr58q45b0ip29mm5bfxkf",
-        "title": "Karpathy用Claude从HN评论筛出6454个视频",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2116983513425883148",
-        "aihotUrl": "https://aihot.news/items/k02hyr58q45b0ip29mm5bfxkf",
-        "storyUrl": "https://aihot.news/story/6e51648d-3894-48aa-8f3d-1a81b5ecd218",
-        "sourceCount": 3,
-        "participantCount": 29,
-        "latestAt": "2026-11-02T02:29:50.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 5,
-        "id": "oig5qkyz9fzkdpchgk7l2cmm3",
-        "title": "DeepSeek 开源 Super-agent 双层架构原型",
+        "id": "lnc48gxlu5nv0he3mw57lzmc6",
+        "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
         "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/020/615.htm",
-        "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
-        "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
-        "sourceCount": 1,
-        "participantCount": 21,
-        "latestAt": "2026-11-02T14:30:00.000Z",
+        "sourceUrl": "https://www.ithome.com/1/020/392.htm",
+        "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
+        "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
+        "sourceCount": 2,
+        "participantCount": 14,
+        "latestAt": "2026-11-03T20:31:34.443Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -478,6 +515,34 @@
       },
       {
         "rank": 6,
+        "id": "k02hyr58q45b0ip29mm5bfxkf",
+        "title": "Karpathy用Claude从HN评论筛出6454个视频",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2116983513425883148",
+        "aihotUrl": "https://aihot.news/items/k02hyr58q45b0ip29mm5bfxkf",
+        "storyUrl": "https://aihot.news/story/6e51648d-3894-48aa-8f3d-1a81b5ecd218",
+        "sourceCount": 1,
+        "participantCount": 22,
+        "latestAt": "2026-11-02T02:29:50.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "renaizbi0xzvltnhnz8mummjt",
         "title": "DeepSeek Harness 推出 Creator Mode",
         "sourceName": "X：Tianyi Cui（@tianyi）",
@@ -505,7 +570,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "hf03pwablxanh9desil5cbu9d",
         "title": "OpenAI新设国家安全顾问，Driscoll出任",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -533,7 +598,35 @@
         }
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "id": "oig5qkyz9fzkdpchgk7l2cmm3",
+        "title": "DeepSeek 开源 Super-agent 双层架构原型",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/020/615.htm",
+        "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
+        "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
+        "sourceCount": 1,
+        "participantCount": 19,
+        "latestAt": "2026-11-02T14:30:00.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
         "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
         "sourceName": "公众号：数字生命卡兹克",
@@ -559,69 +652,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 9,
-        "id": "zop4hs8jdxl6mxz00dsu88e2c",
-        "title": "Nvidia要求云客户减少中国业务并披露终端用户",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2117608629939679350",
-        "aihotUrl": "https://aihot.news/items/zop4hs8jdxl6mxz00dsu88e2c",
-        "storyUrl": "https://aihot.news/story/c98381fe-9875-4ca9-91a2-e8ce9f8796ec",
-        "sourceCount": 2,
-        "participantCount": 9,
-        "latestAt": "2026-11-03T13:23:35.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "acf7r1s4jnc5uean49urp6sj5",
-        "title": "美团龙猫发布 LongCat-2.5 原生多模态模型",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/020/873.htm",
-        "aihotUrl": "https://aihot.news/items/acf7r1s4jnc5uean49urp6sj5",
-        "storyUrl": "https://aihot.news/story/e3ffefd6-5164-4d6a-99a8-7637c4fa57aa",
-        "sourceCount": 3,
-        "participantCount": 14,
-        "latestAt": "2026-11-02T14:35:23.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-03T16:05:07.395Z",
-    "nextCheckAt": 1793722207395,
+    "checkedAt": "2026-11-03T21:42:18.203Z",
+    "nextCheckAt": 1793742438203,
     "intervalSeconds": 300,
     "message": ""
   }

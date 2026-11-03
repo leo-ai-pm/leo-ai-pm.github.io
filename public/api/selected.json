@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-03T16:05:28.230Z",
+  "checkedAt": "2026-11-03T21:42:34.160Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,62 @@
     }
   ],
   "today": [
+    {
+      "id": "dmvn8r8406f7g9vutizbxqesj",
+      "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
+      "reason": "原文把近期多起安全事件拆成可控的攻击路径，并给出立即与30天内可执行的公司安全清单，方法可迁移。",
+      "summary": "Cognition 发布2026年11月实用安全指南，回顾近期重大安全事件并给出公司可执行的安全加固清单。",
+      "sourceName": "Cognition 模型 / Devin 博客（网页）",
+      "sourceUrl": "https://cognition.com/blog/practical-guide-to-security-november-2026",
+      "aihotUrl": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "recqqiy27l866jfbhjk0cusqh",
+      "title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案",
+      "reason": "原文展示了直接用现有 OpenHands harness 做 RL 后训练的完整流程和实验结果，开发者可据此评估是否把后训练纳入自己的 agent 开发循环。",
+      "summary": "OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。",
+      "sourceName": "OpenHands 官方博客",
+      "sourceUrl": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake",
+      "aihotUrl": "https://aihot.news/items/recqqiy27l866jfbhjk0cusqh",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "fvf2qsdi4s11bz1denqd5rzff",
+      "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
+      "reason": "原文用六个模型对比评测与生产数据，发现评测成绩反而更低，并把差距归因于模型对评测目标的误判。",
+      "summary": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。",
+      "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+      "sourceUrl": "https://alignment.openai.com/eval-production-behavior-gap/",
+      "aihotUrl": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "zv5dl1agqwo6tkmhdamy17lt5",
+      "title": "Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺",
+      "reason": "作者基于 OpenAI 融资缩水与 Anthropic 修订后的 S-1/A 数据，逐项拆解两家公司的成本、承诺与依赖结构，提供可核对的财务细节。",
+      "summary": "Ed Zitron 撰文认为 AI 行业资金正在枯竭。",
+      "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+      "sourceUrl": "https://www.wheresyoured.at/running-dry/",
+      "aihotUrl": "https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5",
+      "publishedAt": "2026-11-03T17:16:20.000Z",
+      "timeBasis": "published",
+      "category": "opinion",
+      "categoryLabel": "动态",
+      "unselected": false
+    },
     {
       "id": "op93lgz2xx0ck3znfm724ebfu",
       "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
@@ -108,62 +164,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "sg5u3u91kw42j1grtyp3ny65n",
-      "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
-      "reason": "原文给出了 500k 至 1M token 请求下 TTFT 中位数下降约 35% 的数据，以及线程生命周期和接入方式，便于评估长会话智能体的延迟收益。",
-      "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/message-threads",
-      "aihotUrl": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
-      "publishedAt": "2026-11-02T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "wlmiqh13694tqabyvu6nzvlrs",
-      "title": "OpenAI 训练并部署激活分类器作为前沿模型安全监控层",
-      "reason": "OpenAI 官方披露激活分类器的架构、训练与部署细节，并给出其相对文本分类器在越狱鲁棒性上的实验对比。",
-      "summary": "OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。",
-      "sourceName": "OpenAI：Alignment 研究博客（RSS）",
-      "sourceUrl": "https://alignment.openai.com/training-activation-classifiers/",
-      "aihotUrl": "https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs",
-      "publishedAt": "2026-11-02T20:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "owfopy087lszd1cpfp3c82pxv",
-      "title": "Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元",
-      "reason": "原文汇总多家媒体信源，把 Anthropic 营收激增与巨额亏损、算力承诺和 IPO 压力放在同一语境下呈现。",
-      "summary": "据 Bloomberg 与 The Information，Anthropic 该季度营收近 170 亿美元，为一年前的十二倍，但运营成本达 175 亿美元，季度净亏损 233 亿美元，高于去年同期的 121 亿美元。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
-      "aihotUrl": "https://aihot.news/items/owfopy087lszd1cpfp3c82pxv",
-      "publishedAt": "2026-11-02T16:26:03.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "xiu342i7osbgfxe2ezhrjndl0",
-      "title": "Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付",
-      "reason": "原文梳理了 Anthropic 更新 IPO 文件中的算力承诺结构和可取消比例，读者可以据此评估其现金流与扩张风险。",
-      "summary": "Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2117368258571784296",
-      "aihotUrl": "https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0",
-      "publishedAt": "2026-11-02T21:28:26.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
@@ -246,34 +246,6 @@
       "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
       "aihotUrl": "https://aihot.news/items/ku284awvyj7i3dt4j7oflb78m",
       "publishedAt": "2026-10-28T00:22:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "vx4t4ldzajj3lhb8luhg9dy9s",
-      "title": "Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型",
-      "reason": "原文给出 LFM3 各模型的具体架构、基准和端侧性能数据，读者可以据此评估小参数量多模态模型在本地方案中的可行性。",
-      "summary": "Liquid AI 发布新一代 LFM3 模型家族，以 LFM3-1.7B-Base 为共享骨干，首批开放六个 2B 级模型（文本、视觉、音频、omni 及两个决策模型）的开放权重，可在 Hugging Face、Playground 和 Liquid AI API 获取。",
-      "sourceName": "Liquid AI 模型与工程博客（网页）",
-      "sourceUrl": "https://www.liquid.ai/blog/lfm3",
-      "aihotUrl": "https://aihot.news/items/vx4t4ldzajj3lhb8luhg9dy9s",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "zd8g1y3609zl72lnwis70owqt",
-      "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-      "reason": "原文给出双 SOTA 得分、吞吐实测与免检比例数据，并首次引入独立的解析结果判别模型，可用于评估文档解析落地方案。",
-      "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。",
-      "sourceName": "公众号：面壁智能（MiniCPM）",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "aihotUrl": "https://aihot.news/items/zd8g1y3609zl72lnwis70owqt",
-      "publishedAt": "2026-10-28T11:38:17.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -504,6 +476,20 @@
       "unselected": false
     },
     {
+      "id": "fvf2qsdi4s11bz1denqd5rzff",
+      "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
+      "reason": "原文用六个模型对比评测与生产数据，发现评测成绩反而更低，并把差距归因于模型对评测目标的误判。",
+      "summary": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。",
+      "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+      "sourceUrl": "https://alignment.openai.com/eval-production-behavior-gap/",
+      "aihotUrl": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "wlmiqh13694tqabyvu6nzvlrs",
       "title": "OpenAI 训练并部署激活分类器作为前沿模型安全监控层",
       "reason": "OpenAI 官方披露激活分类器的架构、训练与部署细节，并给出其相对文本分类器在越狱鲁棒性上的实验对比。",
@@ -602,17 +588,31 @@
       "unselected": false
     },
     {
-      "id": "ctuk7r4h4qbyyligi680s7gtr",
-      "title": "Cartesia 发布 H-Net 扩缩律研究：字节级层级网络比 BPE 提升最高 3-5x 计算效率",
-      "reason": "Cartesia 原创研究给出 H-Net 替代 BPE 分词的对照实验与 3-5x 计算效率数据，可了解字节级学习的实际进展。",
-      "summary": "Cartesia 发布系列博客第一篇，报告其层级网络（H-Net）在字节级语言建模上的扩缩律结果：与严格匹配的 BPE Transformer 相比，1-stage H-Net 在验证损失上节省 1.28x 计算，下游评测约 2x，代码任务中位数 2.04x、分布外编程语言中位数达 3.10x（如 Prolog 5.37x）。",
-      "sourceName": "Cartesia 产品与研究",
-      "sourceUrl": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
-      "aihotUrl": "https://aihot.news/items/ctuk7r4h4qbyyligi680s7gtr",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "id": "dmvn8r8406f7g9vutizbxqesj",
+      "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
+      "reason": "原文把近期多起安全事件拆成可控的攻击路径，并给出立即与30天内可执行的公司安全清单，方法可迁移。",
+      "summary": "Cognition 发布2026年11月实用安全指南，回顾近期重大安全事件并给出公司可执行的安全加固清单。",
+      "sourceName": "Cognition 模型 / Devin 博客（网页）",
+      "sourceUrl": "https://cognition.com/blog/practical-guide-to-security-november-2026",
+      "aihotUrl": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
       "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "recqqiy27l866jfbhjk0cusqh",
+      "title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案",
+      "reason": "原文展示了直接用现有 OpenHands harness 做 RL 后训练的完整流程和实验结果，开发者可据此评估是否把后训练纳入自己的 agent 开发循环。",
+      "summary": "OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。",
+      "sourceName": "OpenHands 官方博客",
+      "sourceUrl": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake",
+      "aihotUrl": "https://aihot.news/items/recqqiy27l866jfbhjk0cusqh",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -698,34 +698,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "z9kqlhsgiz11fvlk3aodm6seg",
-      "title": "Figma 讲解如何训练专用画布编辑模型",
-      "reason": "原文拆解了 Figma 自研编辑模型从 SFT 到 RL 的训练路径与内部评测维度，可作专业领域后训练的参考方法。",
-      "summary": "Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT，让早期 Llama 3.3 70B 在编辑任务上接近当时顶级模型，后转向 RL 并结合确定性校验器与视觉评委做评测。",
-      "sourceName": "Figma AI / Agent / Make",
-      "sourceUrl": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "aihotUrl": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
-      "publishedAt": "2026-10-29T21:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "jwesxv6ocruk1r44ar9hj14i0",
-      "title": "Manus 联合创始人复盘：用 Manus 重建 Manus 的内部实验",
-      "reason": "Manus 联合创始人复盘公司全面用 agent 工作的一手经验，给出了可行做法、失败教训和尚未解决的问题。",
-      "summary": "Manus 联合创始人张涛撰文复盘公司全面转向人机协作开发的内部实验，介绍内部工具 Mono 如何统一仓库上下文并让单人端到端交付需求，工程师同时推进 10 到 20 个请求已成常态。",
-      "sourceName": "Manus：Blog（网页）",
-      "sourceUrl": "https://manus.im/zh-cn/blog/rebuilding-manus-with-manus",
-      "aihotUrl": "https://aihot.news/items/jwesxv6ocruk1r44ar9hj14i0",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -735,6 +707,48 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "dmvn8r8406f7g9vutizbxqesj",
+          "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
+          "reason": "原文把近期多起安全事件拆成可控的攻击路径，并给出立即与30天内可执行的公司安全清单，方法可迁移。",
+          "summary": "Cognition 发布2026年11月实用安全指南，回顾近期重大安全事件并给出公司可执行的安全加固清单。",
+          "sourceName": "Cognition 模型 / Devin 博客（网页）",
+          "sourceUrl": "https://cognition.com/blog/practical-guide-to-security-november-2026",
+          "aihotUrl": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
+          "publishedAt": "2026-11-02T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "recqqiy27l866jfbhjk0cusqh",
+          "title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案",
+          "reason": "原文展示了直接用现有 OpenHands harness 做 RL 后训练的完整流程和实验结果，开发者可据此评估是否把后训练纳入自己的 agent 开发循环。",
+          "summary": "OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。",
+          "sourceName": "OpenHands 官方博客",
+          "sourceUrl": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake",
+          "aihotUrl": "https://aihot.news/items/recqqiy27l866jfbhjk0cusqh",
+          "publishedAt": "2026-11-03T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "fvf2qsdi4s11bz1denqd5rzff",
+          "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
+          "reason": "原文用六个模型对比评测与生产数据，发现评测成绩反而更低，并把差距归因于模型对评测目标的误判。",
+          "summary": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。",
+          "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+          "sourceUrl": "https://alignment.openai.com/eval-production-behavior-gap/",
+          "aihotUrl": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff",
+          "publishedAt": "2026-11-03T08:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "bfx52184e0ssnqgdq42o8dg36",
           "title": "Mistral Large 4 以开放权重发布并附技术报告",
@@ -776,48 +790,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "sg5u3u91kw42j1grtyp3ny65n",
-          "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
-          "reason": "原文给出了 500k 至 1M token 请求下 TTFT 中位数下降约 35% 的数据，以及线程生命周期和接入方式，便于评估长会话智能体的延迟收益。",
-          "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
-          "sourceName": "Claude：Blog（网页）",
-          "sourceUrl": "https://claude.com/blog/message-threads",
-          "aihotUrl": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
-          "publishedAt": "2026-11-02T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "l37ydaic43icz85huclc2io6c",
-          "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
-          "reason": "原文把自动化科研的思路从解题转向造工具，并给出蛋白质设计、量子码、处理器等具体成果和可复用的 Harness 分层设计。",
-          "summary": "腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。",
-          "sourceName": "公众号：腾讯混元",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498763&idx=1&sn=279f8fb4e43a987fdc0aa2af0b0f7958",
-          "aihotUrl": "https://aihot.news/items/l37ydaic43icz85huclc2io6c",
-          "publishedAt": "2026-11-02T10:06:28.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "dzwfvd9xp6v4qaj6olxezpier",
-          "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
-          "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
-          "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
-          "sourceName": "公众号：数字生命卡兹克",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
-          "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-          "publishedAt": "2026-11-02T00:19:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -827,6 +799,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "dmvn8r8406f7g9vutizbxqesj",
+          "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
+          "reason": "原文把近期多起安全事件拆成可控的攻击路径，并给出立即与30天内可执行的公司安全清单，方法可迁移。",
+          "summary": "Cognition 发布2026年11月实用安全指南，回顾近期重大安全事件并给出公司可执行的安全加固清单。",
+          "sourceName": "Cognition 模型 / Devin 博客（网页）",
+          "sourceUrl": "https://cognition.com/blog/practical-guide-to-security-november-2026",
+          "aihotUrl": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
+          "publishedAt": "2026-11-02T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "op93lgz2xx0ck3znfm724ebfu",
           "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
@@ -896,20 +882,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "mhw3rtr5o13p5777y7el9tczk",
-          "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
-          "reason": "原文给出了一个 Claude Code 实用技巧，输入 ultrathink 可提升当前回合的推理努力，适合编码工作流直接复用。",
-          "summary": "Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude 工作期间输入 ultrathink，可提升该回合剩余部分的推理努力，该功能适用于最新版本的终端。",
-          "sourceName": "X：Addy Osmani (@addyosmani)",
-          "sourceUrl": "https://x.com/addyosmani/status/2116986087390486816",
-          "aihotUrl": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-          "publishedAt": "2026-11-01T20:09:49.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -919,6 +891,20 @@
       "query": "MCP",
       "unselected": false,
       "items": [
+        {
+          "id": "dmvn8r8406f7g9vutizbxqesj",
+          "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
+          "reason": "原文把近期多起安全事件拆成可控的攻击路径，并给出立即与30天内可执行的公司安全清单，方法可迁移。",
+          "summary": "Cognition 发布2026年11月实用安全指南，回顾近期重大安全事件并给出公司可执行的安全加固清单。",
+          "sourceName": "Cognition 模型 / Devin 博客（网页）",
+          "sourceUrl": "https://cognition.com/blog/practical-guide-to-security-november-2026",
+          "aihotUrl": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
+          "publishedAt": "2026-11-02T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "qit1hgequ8pknedqqvuei5wfh",
           "title": "Gemini API 的 Computer Use 工具正式开放（GA）",
@@ -988,20 +974,6 @@
           "category": "opinion",
           "categoryLabel": "动态",
           "unselected": false
-        },
-        {
-          "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "reason": "作者亲自讲解 Claude Code Mods 的机制与上手方法，覆盖三个可复用的示例 mod，读者可照做搭建自己的定制界面。",
-          "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-          "sourceName": "X：Addy Osmani (@addyosmani)",
-          "sourceUrl": "https://x.com/addyosmani/status/2115326629488824753",
-          "aihotUrl": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb",
-          "publishedAt": "2026-10-28T06:15:43.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1011,6 +983,34 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "fvf2qsdi4s11bz1denqd5rzff",
+          "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
+          "reason": "原文用六个模型对比评测与生产数据，发现评测成绩反而更低，并把差距归因于模型对评测目标的误判。",
+          "summary": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。",
+          "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+          "sourceUrl": "https://alignment.openai.com/eval-production-behavior-gap/",
+          "aihotUrl": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff",
+          "publishedAt": "2026-11-03T08:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
+          "id": "zv5dl1agqwo6tkmhdamy17lt5",
+          "title": "Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺",
+          "reason": "作者基于 OpenAI 融资缩水与 Anthropic 修订后的 S-1/A 数据，逐项拆解两家公司的成本、承诺与依赖结构，提供可核对的财务细节。",
+          "summary": "Ed Zitron 撰文认为 AI 行业资金正在枯竭。",
+          "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "sourceUrl": "https://www.wheresyoured.at/running-dry/",
+          "aihotUrl": "https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5",
+          "publishedAt": "2026-11-03T17:16:20.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
+        },
         {
           "id": "op93lgz2xx0ck3znfm724ebfu",
           "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
@@ -1066,34 +1066,6 @@
           "category": "paper",
           "categoryLabel": "论文",
           "unselected": false
-        },
-        {
-          "id": "sxbs5a90fgybhyucacmzvrc6w",
-          "title": "OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰",
-          "reason": "OpenAI 首次系统化说明其校园电力弹性安排，给出 Georgia Power 合同的具体可削减容量与电费影响数据。",
-          "summary": "OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策制定者合作，让未来算力校园在电网紧张时降低用电需求，首站为 Effingham County 校园。",
-          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "sourceUrl": "https://openai.com/index/grid-protectors-program",
-          "aihotUrl": "https://aihot.news/items/sxbs5a90fgybhyucacmzvrc6w",
-          "publishedAt": "2026-11-02T15:00:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "dzwfvd9xp6v4qaj6olxezpier",
-          "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
-          "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
-          "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
-          "sourceName": "公众号：数字生命卡兹克",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
-          "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-          "publishedAt": "2026-11-02T00:19:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1103,6 +1075,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "zv5dl1agqwo6tkmhdamy17lt5",
+          "title": "Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺",
+          "reason": "作者基于 OpenAI 融资缩水与 Anthropic 修订后的 S-1/A 数据，逐项拆解两家公司的成本、承诺与依赖结构，提供可核对的财务细节。",
+          "summary": "Ed Zitron 撰文认为 AI 行业资金正在枯竭。",
+          "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "sourceUrl": "https://www.wheresyoured.at/running-dry/",
+          "aihotUrl": "https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5",
+          "publishedAt": "2026-11-03T17:16:20.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
+        },
         {
           "id": "op93lgz2xx0ck3znfm724ebfu",
           "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
@@ -1168,20 +1154,6 @@
           "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
           "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
           "publishedAt": "2026-11-02T00:19:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "yww15c701iat30p8ttjf029ij",
-          "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
-          "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
-          "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
-          "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
-          "publishedAt": "2026-11-01T00:00:00.000Z",
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
