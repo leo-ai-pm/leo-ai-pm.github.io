@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-03T07:58:44.121Z",
+  "checkedAt": "2026-11-03T16:05:28.230Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "op93lgz2xx0ck3znfm724ebfu",
+      "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
+      "reason": "案例显示自托管开源模型在成本大幅下降后改变了工程师的使用习惯，对思考前沿 API 定价有参考意义。",
+      "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "aihotUrl": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
+      "publishedAt": "2026-11-02T22:11:24.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "bfx52184e0ssnqgdq42o8dg36",
+      "title": "Mistral Large 4 以开放权重发布并附技术报告",
+      "reason": "原文给出模型权重开放入口与技术报告链接，读者可以据此了解模型在代码智能体与安全方向的能力定位。",
+      "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。",
+      "sourceName": "X：Mistral AI (@MistralAI)",
+      "sourceUrl": "https://x.com/MistralAI/status/2117562068220195097",
+      "aihotUrl": "https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36",
+      "publishedAt": "2026-11-03T10:18:34.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "uinaiwkzg4u2exkfgv4oha9p7",
       "title": "Addy Osmani 谈 Agent 时代如何保持批判性思维",
@@ -136,37 +164,23 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "sxbs5a90fgybhyucacmzvrc6w",
-      "title": "OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰",
-      "reason": "OpenAI 首次系统化说明其校园电力弹性安排，给出 Georgia Power 合同的具体可削减容量与电费影响数据。",
-      "summary": "OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策制定者合作，让未来算力校园在电网紧张时降低用电需求，首站为 Effingham County 校园。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/grid-protectors-program",
-      "aihotUrl": "https://aihot.news/items/sxbs5a90fgybhyucacmzvrc6w",
-      "publishedAt": "2026-11-02T15:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "l37ydaic43icz85huclc2io6c",
-      "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
-      "reason": "原文把自动化科研的思路从解题转向造工具，并给出蛋白质设计、量子码、处理器等具体成果和可复用的 Harness 分层设计。",
-      "summary": "腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。",
-      "sourceName": "公众号：腾讯混元",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498763&idx=1&sn=279f8fb4e43a987fdc0aa2af0b0f7958",
-      "aihotUrl": "https://aihot.news/items/l37ydaic43icz85huclc2io6c",
-      "publishedAt": "2026-11-02T10:06:28.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "bfx52184e0ssnqgdq42o8dg36",
+      "title": "Mistral Large 4 以开放权重发布并附技术报告",
+      "reason": "原文给出模型权重开放入口与技术报告链接，读者可以据此了解模型在代码智能体与安全方向的能力定位。",
+      "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。",
+      "sourceName": "X：Mistral AI (@MistralAI)",
+      "sourceUrl": "https://x.com/MistralAI/status/2117562068220195097",
+      "aihotUrl": "https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36",
+      "publishedAt": "2026-11-03T10:18:34.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "eq47lph0rzobf8cr950saiu8r",
       "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
@@ -260,20 +274,6 @@
       "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
       "aihotUrl": "https://aihot.news/items/zd8g1y3609zl72lnwis70owqt",
       "publishedAt": "2026-10-28T11:38:17.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "l74eacnb38ytvm5hm8om7h7cs",
-      "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
-      "reason": "官方完整说明了 Genie 4 的实时交互、原生音频和与 Gemini 协作机制，也坦陈当前在长时一致性和物理精度上的局限。",
-      "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
-      "publishedAt": "2026-10-27T16:01:38.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -392,6 +392,20 @@
       "unselected": false
     },
     {
+      "id": "op93lgz2xx0ck3znfm724ebfu",
+      "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
+      "reason": "案例显示自托管开源模型在成本大幅下降后改变了工程师的使用习惯，对思考前沿 API 定价有参考意义。",
+      "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "aihotUrl": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
+      "publishedAt": "2026-11-02T22:11:24.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "hf03pwablxanh9desil5cbu9d",
       "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
       "reason": "原文交代了这一新设职位的职责范围和 Driscoll 的军方背景，读者可据此了解 OpenAI 在国家安全方向的布局。",
@@ -484,20 +498,6 @@
       "sourceUrl": "https://www.ithome.com/1/020/444.htm",
       "aihotUrl": "https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu",
       "publishedAt": "2026-10-31T03:25:09.697Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "cbggw7imkzd4c01ifblroln6v",
-      "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-      "reason": "官方宣布合作细节与开放时间线，中国用户可据此了解千问将以何种方式进入 iPhone 的系统级体验。",
-      "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。",
-      "sourceName": "公众号：千问APP（阿里）",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "aihotUrl": "https://aihot.news/items/cbggw7imkzd4c01ifblroln6v",
-      "publishedAt": "2026-10-31T00:03:47.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -714,14 +714,14 @@
       "unselected": false
     },
     {
-      "id": "m1cx9dfhpep0da323x3tk7vht",
-      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-      "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
-      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-      "sourceName": "X：Addy Osmani (@addyosmani)",
-      "sourceUrl": "https://x.com/addyosmani/status/2115688494865465370",
-      "aihotUrl": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
-      "publishedAt": "2026-10-29T06:13:39.000Z",
+      "id": "jwesxv6ocruk1r44ar9hj14i0",
+      "title": "Manus 联合创始人复盘：用 Manus 重建 Manus 的内部实验",
+      "reason": "Manus 联合创始人复盘公司全面用 agent 工作的一手经验，给出了可行做法、失败教训和尚未解决的问题。",
+      "summary": "Manus 联合创始人张涛撰文复盘公司全面转向人机协作开发的内部实验，介绍内部工具 Mono 如何统一仓库上下文并让单人端到端交付需求，工程师同时推进 10 到 20 个请求已成常态。",
+      "sourceName": "Manus：Blog（网页）",
+      "sourceUrl": "https://manus.im/zh-cn/blog/rebuilding-manus-with-manus",
+      "aihotUrl": "https://aihot.news/items/jwesxv6ocruk1r44ar9hj14i0",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
@@ -735,6 +735,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "bfx52184e0ssnqgdq42o8dg36",
+          "title": "Mistral Large 4 以开放权重发布并附技术报告",
+          "reason": "原文给出模型权重开放入口与技术报告链接，读者可以据此了解模型在代码智能体与安全方向的能力定位。",
+          "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。",
+          "sourceName": "X：Mistral AI (@MistralAI)",
+          "sourceUrl": "https://x.com/MistralAI/status/2117562068220195097",
+          "aihotUrl": "https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36",
+          "publishedAt": "2026-11-03T10:18:34.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
         {
           "id": "uinaiwkzg4u2exkfgv4oha9p7",
           "title": "Addy Osmani 谈 Agent 时代如何保持批判性思维",
@@ -804,20 +818,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "yww15c701iat30p8ttjf029ij",
-          "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
-          "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
-          "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
-          "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
-          "publishedAt": "2026-11-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -827,6 +827,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "op93lgz2xx0ck3znfm724ebfu",
+          "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
+          "reason": "案例显示自托管开源模型在成本大幅下降后改变了工程师的使用习惯，对思考前沿 API 定价有参考意义。",
+          "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+          "aihotUrl": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
+          "publishedAt": "2026-11-02T22:11:24.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "yww15c701iat30p8ttjf029ij",
           "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
@@ -856,6 +870,20 @@
           "unselected": false
         },
         {
+          "id": "jwesxv6ocruk1r44ar9hj14i0",
+          "title": "Manus 联合创始人复盘：用 Manus 重建 Manus 的内部实验",
+          "reason": "Manus 联合创始人复盘公司全面用 agent 工作的一手经验，给出了可行做法、失败教训和尚未解决的问题。",
+          "summary": "Manus 联合创始人张涛撰文复盘公司全面转向人机协作开发的内部实验，介绍内部工具 Mono 如何统一仓库上下文并让单人端到端交付需求，工程师同时推进 10 到 20 个请求已成常态。",
+          "sourceName": "Manus：Blog（网页）",
+          "sourceUrl": "https://manus.im/zh-cn/blog/rebuilding-manus-with-manus",
+          "aihotUrl": "https://aihot.news/items/jwesxv6ocruk1r44ar9hj14i0",
+          "publishedAt": "2026-10-29T16:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "m1cx9dfhpep0da323x3tk7vht",
           "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
           "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
@@ -878,34 +906,6 @@
           "sourceUrl": "https://x.com/addyosmani/status/2116986087390486816",
           "aihotUrl": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
           "publishedAt": "2026-11-01T20:09:49.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "mcucufe6w6qrftx6l40hkmjrz",
-          "title": "Pydantic AI 基准实测：代码模式让长任务成本降 58%、耗时降 51%",
-          "reason": "作者用 5276 次实测把代码模式的真实收益边界拆开，长任务省一半成本而短任务反而更贵，结论可直接迁移到自己的智能体设计。",
-          "summary": "Pydantic AI 的 Michael Pfaffenberger 发布一篇基准分析，用 5 个小型 CRUD 应用、8 个模型、5,276 次评分运行对比代码模式开与关。",
-          "sourceName": "Pydantic AI 官方文章",
-          "sourceUrl": "https://pydantic.dev/articles/why-code-mode-is-the-future",
-          "aihotUrl": "https://aihot.news/items/mcucufe6w6qrftx6l40hkmjrz",
-          "publishedAt": "2026-10-28T09:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "wgss1ksoafvu62x799sdfs0fo",
-          "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
-          "reason": "OpenRouter 实测了 Claude Code 走 API key 计费的真实成本，并提醒 Claude Code 自印的价格可能偏高。",
-          "summary": "OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/claude-code-usage-limit/",
-          "aihotUrl": "https://aihot.news/items/wgss1ksoafvu62x799sdfs0fo",
-          "publishedAt": "2026-10-28T00:00:00.000Z",
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
@@ -1012,6 +1012,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "op93lgz2xx0ck3znfm724ebfu",
+          "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
+          "reason": "案例显示自托管开源模型在成本大幅下降后改变了工程师的使用习惯，对思考前沿 API 定价有参考意义。",
+          "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+          "aihotUrl": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
+          "publishedAt": "2026-11-02T22:11:24.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "ewvepczpb5fewcbzo2tkqdldm",
           "title": "Google AI Studio 弃用 Gemini 2.5 Pro 与 2.5 Flash，API 请求将于 12 月 1 日起自动路由",
           "reason": "原文明确了弃用时间、自动路由目标和计费规则，以及破坏性 API 变更点，方便开发者提前迁移。",
@@ -1080,20 +1094,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
-          "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
-          "reason": "作者以重度用户视角梳理额度合并对聊天和编码习惯的实际冲击，并回溯按条数与按 Token 计费的机制差异，便于理解订阅策略变化的影响。",
-          "summary": "作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。",
-          "sourceName": "公众号：数字生命卡兹克",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
-          "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
-          "publishedAt": "2026-11-01T00:22:41.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -1103,6 +1103,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "op93lgz2xx0ck3znfm724ebfu",
+          "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
+          "reason": "案例显示自托管开源模型在成本大幅下降后改变了工程师的使用习惯，对思考前沿 API 定价有参考意义。",
+          "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+          "aihotUrl": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
+          "publishedAt": "2026-11-02T22:11:24.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "sg5u3u91kw42j1grtyp3ny65n",
           "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
@@ -1171,20 +1185,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "dpm21l66z2iizblehsdg09c8t",
-          "title": "美国白宫科技顾问萨克斯称 Anthropic 可能成为资本主义史上最伟大企业",
-          "reason": "萨克斯基于 S-1 财务数据分析 Anthropic 的现金储备与 IPO 融资需求，读者可借此了解其看多逻辑和资本效率论点。",
-          "summary": "美国白宫科学与技术顾问会议主席戴维·萨克斯在 All-In 播客分析 Anthropic 的 S-1 文件，称其很可能成为资本主义历史上最伟大企业，也可能是回报最高的风险投资项目。",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/020/633.htm",
-          "aihotUrl": "https://aihot.news/items/dpm21l66z2iizblehsdg09c8t",
-          "publishedAt": "2026-10-31T22:56:28.467Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
           "unselected": false
         }
       ]

@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-03T07:58:09.799Z",
-      "lastSuccessAt": "2026-11-03T07:58:09.799Z",
-      "nextCheckAt": 1793696289799,
+      "checkedAt": "2026-11-03T16:04:57.847Z",
+      "lastSuccessAt": "2026-11-03T16:04:57.847Z",
+      "nextCheckAt": 1793725497847,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-03T07:58:09.800Z",
-      "lastSuccessAt": "2026-11-03T07:58:09.800Z",
-      "nextCheckAt": 1793696289800,
+      "checkedAt": "2026-11-03T16:04:57.848Z",
+      "lastSuccessAt": "2026-11-03T16:04:57.848Z",
+      "nextCheckAt": 1793725497848,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-03T07:58:09.801Z",
-      "lastSuccessAt": "2026-11-03T07:58:09.801Z",
-      "nextCheckAt": 1793696289801,
+      "checkedAt": "2026-11-03T16:04:57.850Z",
+      "lastSuccessAt": "2026-11-03T16:04:57.850Z",
+      "nextCheckAt": 1793725497850,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-03T16:04:58.000Z",
+      "lastSuccessAt": "2026-11-03T16:04:58.000Z",
+      "nextCheckAt": 1793725498000,
       "status": "ok",
-      "nextCheckAt": 1793696289928,
-      "checkedAt": "2026-11-03T07:58:09.928Z",
-      "lastSuccessAt": "2026-11-03T07:58:09.928Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,96 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793696289799,
+  "nextCheckAt": 1793725497847,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6488219.html",
-      "title": "金融AI产品如何落地？银行与证券智能体的场景设计和风险治理",
-      "summary": "金融行业正在成为企业级智能体落地的重要试炼场。银行关注信贷、风控与运营流程的安全执行，证券公司则更重视投研、合规和客户服务中的专业能力。但无论业务如何不同，数据安全、专业知识理解、跨系统执行、权限治理与操作审计，都是金融智能体绕不开的准入门槛。金融机构真正需要的，不只是一个会分析的AI，而是一套能够在复杂业务体系中可靠运行的智能化基础设施。 2026年，金融行业正在成为企业级智能体落地最受关注的行业之一。 过去一年，大模型厂商、云厂商、",
-      "publishedAt": "2026-11-03T07:11:04.000Z",
-      "url": "https://www.woshipm.com/ai/6488219.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6488579.html",
+      "title": "从OpenClaw，怎么走到了Super Agent？",
+      "summary": "从Bot到工作台再回到Bot，Agent产品的演进看似绕圈，实则是两个朴素需求在驱动：深入真实工作环境，以及随时找到那个懂你的助手。本文梳理一年来的产品逻辑，并揭示DeepSeek Harness带来的新变量——Agent开始参与建设自己的工作环境。 最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。 很多人说没看懂，也有很多人说，这就是自己工作的日常。这里想聊一下，过去这一年观察到的Agent产品",
+      "publishedAt": "2026-11-03T09:47:16.000Z",
+      "url": "https://www.woshipm.com/ai/6488579.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6488579.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "从Bot到工作台再回到Bot，Agent产品的演进看似绕圈，实则是两个朴素需求在驱动：深入真实工作环境，以及随时找到那个懂你的助手。本文梳理一年来的产品逻辑，并揭示DeepSeek Harness带来的新变量——Agent开始参与建设自己的工作环境。 最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。 很多人说没看懂，也有很多人说，这就是自己工作的日常。这里想聊一下，过去这一年观察到的Agent产品",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6488400.html",
+      "title": "RSI 向前迈进一大步？GPT-6 像编程一样编辑模型权重，数学能力提高 6 倍",
+      "summary": "昨晚推上最热的研究：我们可能可以像编程一样，让 AI 编写 AI 模型的权重文件。团队用 GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重，只改动 0.016%，MATH-500 准确率就提到原来的约 6 倍，IFEval 指令跟随提到约 3 倍。 昨晚推上 AI 圈最热门的研究： 我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。 有个团队用 GPT-6 Astra 直接编辑了 Qwen3.5-0.",
+      "publishedAt": "2026-11-03T08:29:19.000Z",
+      "url": "https://www.woshipm.com/ai/6488400.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6488400.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "昨晚推上最热的研究：我们可能可以像编程一样，让 AI 编写 AI 模型的权重文件。团队用 GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重，只改动 0.016%，MATH-500 准确率就提到原来的约 6 倍，IFEval 指令跟随提到约 3 倍。 昨晚推上 AI 圈最热门的研究： 我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。 有个团队用 GPT-6 Astra 直接编辑了 Qwen3.5-0.",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6488368.html",
+      "title": "体验完升级后的字节Gauth，AI家教离一人一课又近了一步",
+      "summary": "拍张照就能拿到答案和完整解题步骤，但看懂过程不等于吃透知识点。升级后的字节 Gauth 让 AI 老师一边讲解一边在白板上绘图，配合动态演示把抽象内容讲明白。作者体验后认为，这离「一人一课」的个性化课堂又近了一步。 个性化的专属课堂。 如今用 AI 辅导学习已经十分普遍，碰到不会的题目拍个照就能拿到答案和完整解题步骤。 但看得懂解题过程，不等于吃透背后的知识点。 不少内容单靠文字、公式很难讲明白，如果能像线下老师那样，一边讲解一边绘图，",
+      "publishedAt": "2026-11-03T08:02:52.000Z",
+      "url": "https://www.woshipm.com/ai/6488368.html",
       "linkKind": "original",
       "opportunity": {
         "question": "生成结果离可以交付的设计，还差哪些人工修改？",
@@ -122,51 +203,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6488219.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6488368.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "金融行业正在成为企业级智能体落地的重要试炼场。银行关注信贷、风控与运营流程的安全执行，证券公司则更重视投研、合规和客户服务中的专业能力。但无论业务如何不同，数据安全、专业知识理解、跨系统执行、权限治理与操作审计，都是金融智能体绕不开的准入门槛。金融机构真正需要的，不只是一个会分析的AI，而是一套能够在复杂业务体系中可靠运行的智能化基础设施。 2026年，金融行业正在成为企业级智能体落地最受关注的行业之一。 过去一年，大模型厂商、云厂商、",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6488279.html",
-      "title": "帮你的 DeepSeek Harness 做出有设计感、没 AI 味的东西",
-      "summary": "DeepSeek Harness 的插件生态里，好玩的多、有用的少。作者把做 PPT Skill 和去 AI 味 Skill 的经验打包成一个设计插件，让普通用户也能低成本做出有版式、没有 AI 腔的内容，装好之后 Codex 与 Claude Code 都能直接调用。 最近 DeepSeek Harness 的插件生态非常火。 前几天我列了几个热门插件，很多朋友说： 为啥都是好玩的，没有比较有用的？ 我其实做过好几个设计类的 Skil",
-      "publishedAt": "2026-11-03T06:51:14.000Z",
-      "url": "https://www.woshipm.com/ai/6488279.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6488279.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "DeepSeek Harness 的插件生态里，好玩的多、有用的少。作者把做 PPT Skill 和去 AI 味 Skill 的经验打包成一个设计插件，让普通用户也能低成本做出有版式、没有 AI 腔的内容，装好之后 Codex 与 Claude Code 都能直接调用。 最近 DeepSeek Harness 的插件生态非常火。 前几天我列了几个热门插件，很多朋友说： 为啥都是好玩的，没有比较有用的？ 我其实做过好几个设计类的 Skil",
+      "brief": "拍张照就能拿到答案和完整解题步骤，但看懂过程不等于吃透知识点。升级后的字节 Gauth 让 AI 老师一边讲解一边在白板上绘图，配合动态演示把抽象内容讲明白。作者体验后认为，这离「一人一课」的个性化课堂又近了一步。 个性化的专属课堂。 如今用 AI 辅导学习已经十分普遍，碰到不会的题目拍个照就能拿到答案和完整解题步骤。 但看得懂解题过程，不等于吃透背后的知识点。 不少内容单靠文字、公式很难讲明白，如果能像线下老师那样，一边讲解一边绘图，",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,11 +215,11 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6488276.html",
-      "title": "刚刚，DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
-      "summary": "程序员还在群里讨论 Bug 怎么修，AI 可能已经复现问题、跑完测试，把修复代码提交到了 GitHub。DeepSeek Harness 的 Super-agent 架构，让 Router 负责调度、Worker 并行执行，AI 从会话工具变成长期在线的数字同事。 当程序员还在群聊里讨论 Bug 怎么修时，AI 可能已经完成了问题复现，分析了代码，跑完测试，甚至把修复代码提交到了 GitHub。真正改变工作方式的，不是又多了一个聊天窗口",
-      "publishedAt": "2026-11-03T06:32:48.000Z",
-      "url": "https://www.woshipm.com/ai/6488276.html",
+      "id": "sspai:https://sspai.com/post/118317",
+      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。",
+      "publishedAt": "2026-11-03T07:12:54.000Z",
+      "url": "https://sspai.com/post/118317",
       "linkKind": "original",
       "opportunity": {
         "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
@@ -188,37 +229,37 @@
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "工作流与实践",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6488276.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "程序员还在群里讨论 Bug 怎么修，AI 可能已经复现问题、跑完测试，把修复代码提交到了 GitHub。DeepSeek Harness 的 Super-agent 架构，让 Router 负责调度、Worker 并行执行，AI 从会话工具变成长期在线的数字同事。 当程序员还在群聊里讨论 Bug 怎么修时，AI 可能已经完成了问题复现，分析了代码，跑完测试，甚至把修复代码提交到了 GitHub。真正改变工作方式的，不是又多了一个聊天窗口",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/118317",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/xmind",
-      "title": "Xmind 2027",
-      "summary": "Your mind map is now an AI thinking partner",
-      "publishedAt": "2026-11-02T00:24:06.000Z",
-      "url": "https://www.producthunt.com/products/xmind",
+      "id": "ph:https://www.producthunt.com/products/nexupira",
+      "title": "NEXUPIRA",
+      "summary": "AI teammates that hand back finished work",
+      "publishedAt": "2026-11-03T06:48:10.000Z",
+      "url": "https://www.producthunt.com/products/nexupira",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -242,11 +283,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/xmind",
+      "sourceUrl": "https://www.producthunt.com/products/nexupira",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Your mind map is now an AI thinking partner",
+      "brief": "AI teammates that hand back finished work",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -254,51 +295,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/friday-work",
-      "title": "Friday Work",
-      "summary": "When Claude hits its limit, your task keeps going",
-      "publishedAt": "2026-11-01T22:55:35.000Z",
-      "url": "https://www.producthunt.com/products/friday-work",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/friday-work",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "When Claude hits its limit, your task keeps going",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/agent-inbox",
-      "title": "Agent Inbox",
-      "summary": "Give your agent an email address, Slack and Telegram handle",
-      "publishedAt": "2026-11-01T12:10:54.000Z",
-      "url": "https://www.producthunt.com/products/agent-inbox",
+      "id": "ph:https://www.producthunt.com/products/one-roof",
+      "title": "One Roof",
+      "summary": "A new way to build with agents. You stay in charge.",
+      "publishedAt": "2026-11-03T01:06:08.000Z",
+      "url": "https://www.producthunt.com/products/one-roof",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -322,11 +323,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/agent-inbox",
+      "sourceUrl": "https://www.producthunt.com/products/one-roof",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Give your agent an email address, Slack and Telegram handle",
+      "brief": "A new way to build with agents. You stay in charge.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/nana-2",
+      "title": "nana",
+      "summary": "One terminal for every coding agent, on Windows",
+      "publishedAt": "2026-11-03T00:12:59.000Z",
+      "url": "https://www.producthunt.com/products/nana-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/nana-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "One terminal for every coding agent, on Windows",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
