@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-02T18:33:36.762Z",
+  "checkedAt": "2026-11-03T01:11:16.145Z",
   "message": "",
   "categories": [
     {
@@ -26,6 +26,62 @@
   ],
   "today": [
     {
+      "id": "hf03pwablxanh9desil5cbu9d",
+      "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
+      "reason": "原文交代了这一新设职位的职责范围和 Driscoll 的军方背景，读者可据此了解 OpenAI 在国家安全方向的布局。",
+      "summary": "OpenAI 宣布任命 Dan Driscoll 为新设的国家安全现代化高级顾问，就先进 AI 如何加强国家与网络安全提供建议，重点与美国盟友合作推动民主 AI 的负责任使用。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
+      "aihotUrl": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "v41vn9hb5ywv10e68wycj1bjk",
+      "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
+      "reason": "作者亲测给出从配置、人设到防泄露的完整流程，读者可照步骤在 QQ、微信、飞书养出自己的大肥鱼。",
+      "summary": "数字生命卡兹克发布一篇 DeepSeek Harness 养鱼教程，讲解如何在 QQ、微信、飞书接入大肥鱼，并让它去 B 站刷视频、在抖音发视频和直播。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog",
+      "aihotUrl": "https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk",
+      "publishedAt": "2026-11-03T00:18:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "sg5u3u91kw42j1grtyp3ny65n",
+      "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
+      "reason": "原文给出了 500k 至 1M token 请求下 TTFT 中位数下降约 35% 的数据，以及线程生命周期和接入方式，便于评估长会话智能体的延迟收益。",
+      "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/message-threads",
+      "aihotUrl": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
+      "id": "wlmiqh13694tqabyvu6nzvlrs",
+      "title": "OpenAI 训练并部署激活分类器作为前沿模型安全监控层",
+      "reason": "OpenAI 官方披露激活分类器的架构、训练与部署细节，并给出其相对文本分类器在越狱鲁棒性上的实验对比。",
+      "summary": "OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。",
+      "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+      "sourceUrl": "https://alignment.openai.com/training-activation-classifiers/",
+      "aihotUrl": "https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs",
+      "publishedAt": "2026-11-02T20:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "owfopy087lszd1cpfp3c82pxv",
       "title": "Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元",
       "reason": "原文汇总多家媒体信源，把 Anthropic 营收激增与巨额亏损、算力承诺和 IPO 压力放在同一语境下呈现。",
@@ -40,14 +96,14 @@
       "unselected": false
     },
     {
-      "id": "xvemmg9p83lxqktk7mc47zhcr",
-      "title": "Anthropic 更新 IPO 文件首次披露第三季度财报，从盈利 9.74 亿美元转为亏损 5.67 亿美元",
-      "reason": "原文汇总了 Anthropic 更新 IPO 文件中的三季度财务细节，读者可以据此了解算力支出对其利润率的具体挤压。",
-      "summary": "Anthropic 更新 S-1 IPO 文件并首次披露第三季度业绩，经营利润从二季度盈利 9.74 亿美元转为三季度亏损 5.67 亿美元，主因是 50 亿美元的高价短期算力和 20 亿美元员工捐赠配比的非现金支出。",
+      "id": "xiu342i7osbgfxe2ezhrjndl0",
+      "title": "Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付",
+      "reason": "原文梳理了 Anthropic 更新 IPO 文件中的算力承诺结构和可取消比例，读者可以据此评估其现金流与扩张风险。",
+      "summary": "Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2117285920500273582",
-      "aihotUrl": "https://aihot.news/items/xvemmg9p83lxqktk7mc47zhcr",
-      "publishedAt": "2026-11-02T16:01:15.000Z",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2117368258571784296",
+      "aihotUrl": "https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0",
+      "publishedAt": "2026-11-02T21:28:26.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -79,20 +135,6 @@
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "dzwfvd9xp6v4qaj6olxezpier",
-      "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
-      "reason": "作者把自己一年搭建的Agent自动化架构拆成事件中台、执行、CI和飞书决策四层，给出可复用的规则与流程细节。",
-      "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
-      "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-      "publishedAt": "2026-11-02T00:19:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
       "unselected": false
     }
   ],
@@ -210,6 +252,20 @@
       "unselected": false
     },
     {
+      "id": "sg5u3u91kw42j1grtyp3ny65n",
+      "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
+      "reason": "原文给出了 500k 至 1M token 请求下 TTFT 中位数下降约 35% 的数据，以及线程生命周期和接入方式，便于评估长会话智能体的延迟收益。",
+      "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/message-threads",
+      "aihotUrl": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "l37ydaic43icz85huclc2io6c",
       "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
       "reason": "原文把自动化科研的思路从解题转向造工具，并给出蛋白质设计、量子码、处理器等具体成果和可复用的 Harness 分层设计。",
@@ -308,17 +364,17 @@
       "unselected": false
     },
     {
-      "id": "funx6p4g0gju509j6n0oyxmqu",
-      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-      "reason": "作者以官方身份宣布用量上限调整的具体方案，涉及多个订阅档位，使用者可据此核对自身配额变化。",
-      "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
-      "aihotUrl": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
-      "publishedAt": "2026-10-29T16:56:07.000Z",
+      "id": "hf03pwablxanh9desil5cbu9d",
+      "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
+      "reason": "原文交代了这一新设职位的职责范围和 Driscoll 的军方背景，读者可据此了解 OpenAI 在国家安全方向的布局。",
+      "summary": "OpenAI 宣布任命 Dan Driscoll 为新设的国家安全现代化高级顾问，就先进 AI 如何加强国家与网络安全提供建议，重点与美国盟友合作推动民主 AI 的负责任使用。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
+      "aihotUrl": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -336,14 +392,14 @@
       "unselected": false
     },
     {
-      "id": "xvemmg9p83lxqktk7mc47zhcr",
-      "title": "Anthropic 更新 IPO 文件首次披露第三季度财报，从盈利 9.74 亿美元转为亏损 5.67 亿美元",
-      "reason": "原文汇总了 Anthropic 更新 IPO 文件中的三季度财务细节，读者可以据此了解算力支出对其利润率的具体挤压。",
-      "summary": "Anthropic 更新 S-1 IPO 文件并首次披露第三季度业绩，经营利润从二季度盈利 9.74 亿美元转为三季度亏损 5.67 亿美元，主因是 50 亿美元的高价短期算力和 20 亿美元员工捐赠配比的非现金支出。",
+      "id": "xiu342i7osbgfxe2ezhrjndl0",
+      "title": "Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付",
+      "reason": "原文梳理了 Anthropic 更新 IPO 文件中的算力承诺结构和可取消比例，读者可以据此评估其现金流与扩张风险。",
+      "summary": "Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2117285920500273582",
-      "aihotUrl": "https://aihot.news/items/xvemmg9p83lxqktk7mc47zhcr",
-      "publishedAt": "2026-11-02T16:01:15.000Z",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2117368258571784296",
+      "aihotUrl": "https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0",
+      "publishedAt": "2026-11-02T21:28:26.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -420,17 +476,17 @@
       "unselected": false
     },
     {
-      "id": "oas684tt9kpeds9cq7vgjvo1x",
-      "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
-      "reason": "OpenAI 汇编多领域法庭之友意见，读者可据此了解 AI 训练合理使用抗辩的核心论点与《纽约时报》诉讼的争议焦点。",
-      "summary": "OpenAI 整理了在《纽约时报》诉讼中提交给法院的多份支持合理使用的法庭之友意见摘要，作者包括图书馆协会、法律学者、独立创作者和美国政府等。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
-      "aihotUrl": "https://aihot.news/items/oas684tt9kpeds9cq7vgjvo1x",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "id": "wlmiqh13694tqabyvu6nzvlrs",
+      "title": "OpenAI 训练并部署激活分类器作为前沿模型安全监控层",
+      "reason": "OpenAI 官方披露激活分类器的架构、训练与部署细节，并给出其相对文本分类器在越狱鲁棒性上的实验对比。",
+      "summary": "OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。",
+      "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+      "sourceUrl": "https://alignment.openai.com/training-activation-classifiers/",
+      "aihotUrl": "https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs",
+      "publishedAt": "2026-11-02T20:00:00.000Z",
       "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
+      "category": "paper",
+      "categoryLabel": "论文",
       "unselected": false
     },
     {
@@ -532,17 +588,17 @@
       "unselected": false
     },
     {
-      "id": "d0k8x9588e62wlqnfoq3bmtq0",
-      "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
-      "reason": "原文用随机分配智能体倾向的实验设计量化了专家的从随程度，还讨论了这种影响难以察觉的原因和可能的改进方向。",
-      "summary": "Anthropic 发表研究，让 50 名有因果推断经验的专业分析师用 Claude Code（Claude Opus 4.8）完成一项统计分析任务，并在分析师不知情的情况下用掷硬币随机设定智能体在四个分析决策上的倾向。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/agents-judgment-calls",
-      "aihotUrl": "https://aihot.news/items/d0k8x9588e62wlqnfoq3bmtq0",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "id": "v41vn9hb5ywv10e68wycj1bjk",
+      "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
+      "reason": "作者亲测给出从配置、人设到防泄露的完整流程，读者可照步骤在 QQ、微信、飞书养出自己的大肥鱼。",
+      "summary": "数字生命卡兹克发布一篇 DeepSeek Harness 养鱼教程，讲解如何在 QQ、微信、飞书接入大肥鱼，并让它去 B 站刷视频、在抖音发视频和直播。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog",
+      "aihotUrl": "https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk",
+      "publishedAt": "2026-11-03T00:18:00.000Z",
       "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -642,20 +698,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "mhw3rtr5o13p5777y7el9tczk",
-      "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
-      "reason": "原文给出了一个 Claude Code 实用技巧，输入 ultrathink 可提升当前回合的推理努力，适合编码工作流直接复用。",
-      "summary": "Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude 工作期间输入 ultrathink，可提升该回合剩余部分的推理努力，该功能适用于最新版本的终端。",
-      "sourceName": "X：Addy Osmani (@addyosmani)",
-      "sourceUrl": "https://x.com/addyosmani/status/2116986087390486816",
-      "aihotUrl": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-      "publishedAt": "2026-11-01T20:09:49.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -665,6 +707,34 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "v41vn9hb5ywv10e68wycj1bjk",
+          "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
+          "reason": "作者亲测给出从配置、人设到防泄露的完整流程，读者可照步骤在 QQ、微信、飞书养出自己的大肥鱼。",
+          "summary": "数字生命卡兹克发布一篇 DeepSeek Harness 养鱼教程，讲解如何在 QQ、微信、飞书接入大肥鱼，并让它去 B 站刷视频、在抖音发视频和直播。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog",
+          "aihotUrl": "https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk",
+          "publishedAt": "2026-11-03T00:18:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
+          "id": "sg5u3u91kw42j1grtyp3ny65n",
+          "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
+          "reason": "原文给出了 500k 至 1M token 请求下 TTFT 中位数下降约 35% 的数据，以及线程生命周期和接入方式，便于评估长会话智能体的延迟收益。",
+          "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
+          "sourceName": "Claude：Blog（网页）",
+          "sourceUrl": "https://claude.com/blog/message-threads",
+          "aihotUrl": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "l37ydaic43icz85huclc2io6c",
           "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
@@ -719,34 +789,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "akdeq33m7cpr8m7zsfgvfiz5c",
-          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-          "reason": "官方详解 Figma Weave 的节点式创作流程、可复用 Weave 工具与用法建议，适合想了解 AI 创作流程如何沉淀复用的读者。",
-          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。",
-          "sourceName": "Figma AI / Agent / Make",
-          "sourceUrl": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
-          "aihotUrl": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c",
-          "publishedAt": "2026-10-31T00:58:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "la0qb77ds4znf2r7ub14a3bqz",
-          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-          "reason": "Wiz 将十起平台安全事件连成一条线索，并用两个被盗密钥的滥用案例展示 LLMJacking 的变现链条。",
-          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-          "sourceName": "Wiz：Research（安全研究）",
-          "sourceUrl": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-          "aihotUrl": "https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz",
-          "publishedAt": "2026-10-30T22:51:44.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
@@ -942,6 +984,34 @@
       "unselected": false,
       "items": [
         {
+          "id": "hf03pwablxanh9desil5cbu9d",
+          "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
+          "reason": "原文交代了这一新设职位的职责范围和 Driscoll 的军方背景，读者可据此了解 OpenAI 在国家安全方向的布局。",
+          "summary": "OpenAI 宣布任命 Dan Driscoll 为新设的国家安全现代化高级顾问，就先进 AI 如何加强国家与网络安全提供建议，重点与美国盟友合作推动民主 AI 的负责任使用。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
+          "aihotUrl": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
+          "id": "wlmiqh13694tqabyvu6nzvlrs",
+          "title": "OpenAI 训练并部署激活分类器作为前沿模型安全监控层",
+          "reason": "OpenAI 官方披露激活分类器的架构、训练与部署细节，并给出其相对文本分类器在越狱鲁棒性上的实验对比。",
+          "summary": "OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。",
+          "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+          "sourceUrl": "https://alignment.openai.com/training-activation-classifiers/",
+          "aihotUrl": "https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs",
+          "publishedAt": "2026-11-02T20:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "sxbs5a90fgybhyucacmzvrc6w",
           "title": "OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰",
           "reason": "OpenAI 首次系统化说明其校园电力弹性安排，给出 Georgia Power 合同的具体可削减容量与电费影响数据。",
@@ -996,34 +1066,6 @@
           "category": "industry",
           "categoryLabel": "行业",
           "unselected": false
-        },
-        {
-          "id": "upl3hjjdokqe13w3ieo9opr0v",
-          "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
-          "reason": "教程给出可直接复用的 TypeScript 代码和真实成本数据，读者可以照着搭一个带限额和人工审批的定时 Agent。",
-          "summary": "OpenRouter 发布教程，演示用 @openrouter/agent 0.11.0 在 TypeScript 中搭建定时运行的常驻 AI Agent，监控 Hacker News 并生成摘要。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
-          "aihotUrl": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v",
-          "publishedAt": "2026-10-31T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "cbggw7imkzd4c01ifblroln6v",
-          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "reason": "官方宣布合作细节与开放时间线，中国用户可据此了解千问将以何种方式进入 iPhone 的系统级体验。",
-          "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。",
-          "sourceName": "公众号：千问APP（阿里）",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-          "aihotUrl": "https://aihot.news/items/cbggw7imkzd4c01ifblroln6v",
-          "publishedAt": "2026-10-31T00:03:47.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -1033,6 +1075,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "sg5u3u91kw42j1grtyp3ny65n",
+          "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
+          "reason": "原文给出了 500k 至 1M token 请求下 TTFT 中位数下降约 35% 的数据，以及线程生命周期和接入方式，便于评估长会话智能体的延迟收益。",
+          "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
+          "sourceName": "Claude：Blog（网页）",
+          "sourceUrl": "https://claude.com/blog/message-threads",
+          "aihotUrl": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
         {
           "id": "owfopy087lszd1cpfp3c82pxv",
           "title": "Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元",
@@ -1048,14 +1104,14 @@
           "unselected": false
         },
         {
-          "id": "xvemmg9p83lxqktk7mc47zhcr",
-          "title": "Anthropic 更新 IPO 文件首次披露第三季度财报，从盈利 9.74 亿美元转为亏损 5.67 亿美元",
-          "reason": "原文汇总了 Anthropic 更新 IPO 文件中的三季度财务细节，读者可以据此了解算力支出对其利润率的具体挤压。",
-          "summary": "Anthropic 更新 S-1 IPO 文件并首次披露第三季度业绩，经营利润从二季度盈利 9.74 亿美元转为三季度亏损 5.67 亿美元，主因是 50 亿美元的高价短期算力和 20 亿美元员工捐赠配比的非现金支出。",
+          "id": "xiu342i7osbgfxe2ezhrjndl0",
+          "title": "Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付",
+          "reason": "原文梳理了 Anthropic 更新 IPO 文件中的算力承诺结构和可取消比例，读者可以据此评估其现金流与扩张风险。",
+          "summary": "Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。",
           "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2117285920500273582",
-          "aihotUrl": "https://aihot.news/items/xvemmg9p83lxqktk7mc47zhcr",
-          "publishedAt": "2026-11-02T16:01:15.000Z",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2117368258571784296",
+          "aihotUrl": "https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0",
+          "publishedAt": "2026-11-02T21:28:26.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
@@ -1101,20 +1157,6 @@
           "timeBasis": "published",
           "category": "opinion",
           "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "htfc0ler37j2h4hoqll6jewz3",
-          "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
-          "reason": "原文汇总五巨头财报披露的支出承诺构成和自由现金流变化，读者可以据此看清各家AI基建投入的规模差异与回收压力。",
-          "summary": "据彭博社10月31日报道，Alphabet、Meta、微软、亚马逊和甲骨文五大巨头承诺未来数年在数据中心等领域投入超过3万亿美元（约20.01万亿元人民币）。",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/020/632.htm",
-          "aihotUrl": "https://aihot.news/items/htfc0ler37j2h4hoqll6jewz3",
-          "publishedAt": "2026-10-31T15:56:00.987Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
