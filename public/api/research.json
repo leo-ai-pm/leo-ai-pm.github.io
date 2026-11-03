@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-03T01:10:50.816Z",
-      "lastSuccessAt": "2026-11-03T01:10:50.816Z",
-      "nextCheckAt": 1793671850816,
+      "checkedAt": "2026-11-03T07:58:09.799Z",
+      "lastSuccessAt": "2026-11-03T07:58:09.799Z",
+      "nextCheckAt": 1793696289799,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-03T07:58:09.800Z",
+      "lastSuccessAt": "2026-11-03T07:58:09.800Z",
+      "nextCheckAt": 1793696289800,
       "status": "ok",
-      "nextCheckAt": 1793671850816,
-      "checkedAt": "2026-11-03T01:10:50.816Z",
-      "lastSuccessAt": "2026-11-03T01:10:50.816Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-03T01:10:50.818Z",
-      "lastSuccessAt": "2026-11-03T01:10:50.818Z",
-      "nextCheckAt": 1793671850818,
+      "checkedAt": "2026-11-03T07:58:09.801Z",
+      "lastSuccessAt": "2026-11-03T07:58:09.801Z",
+      "nextCheckAt": 1793696289801,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-03T01:10:51.025Z",
-      "lastSuccessAt": "2026-11-03T01:10:51.025Z",
-      "nextCheckAt": 1793671851025,
       "status": "ok",
+      "nextCheckAt": 1793696289928,
+      "checkedAt": "2026-11-03T07:58:09.928Z",
+      "lastSuccessAt": "2026-11-03T07:58:09.928Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,95 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793671850816,
+  "nextCheckAt": 1793696289799,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6487927.html",
-      "title": "从一通电话到全球化 Agent：实时互动产品的五个工程关口",
-      "summary": "实时AI的竞争已从AI能力转向交互与工程的全链路落地。从电话Agent的对话节奏控制，到跨通道上下文延续，再到IM系统承载AI流式消息的负载升级，以及云录制、会议引擎的可靠性设计，本文结合声网专场案例，拆解实时智能产品化的关键环节与业务结果。 在 2026 iRTE实时智能大会·声网专场，姚光华用一个比喻提出了这道题：“如果Coding Agent是AGI的开卷笔试，那么Convo Agent是AGI的实时口试。”听懂之后如何判断、行动",
-      "publishedAt": "2026-11-02T09:26:59.000Z",
-      "url": "https://www.woshipm.com/ai/6487927.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6488219.html",
+      "title": "金融AI产品如何落地？银行与证券智能体的场景设计和风险治理",
+      "summary": "金融行业正在成为企业级智能体落地的重要试炼场。银行关注信贷、风控与运营流程的安全执行，证券公司则更重视投研、合规和客户服务中的专业能力。但无论业务如何不同，数据安全、专业知识理解、跨系统执行、权限治理与操作审计，都是金融智能体绕不开的准入门槛。金融机构真正需要的，不只是一个会分析的AI，而是一套能够在复杂业务体系中可靠运行的智能化基础设施。 2026年，金融行业正在成为企业级智能体落地最受关注的行业之一。 过去一年，大模型厂商、云厂商、",
+      "publishedAt": "2026-11-03T07:11:04.000Z",
+      "url": "https://www.woshipm.com/ai/6488219.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6488219.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "金融行业正在成为企业级智能体落地的重要试炼场。银行关注信贷、风控与运营流程的安全执行，证券公司则更重视投研、合规和客户服务中的专业能力。但无论业务如何不同，数据安全、专业知识理解、跨系统执行、权限治理与操作审计，都是金融智能体绕不开的准入门槛。金融机构真正需要的，不只是一个会分析的AI，而是一套能够在复杂业务体系中可靠运行的智能化基础设施。 2026年，金融行业正在成为企业级智能体落地最受关注的行业之一。 过去一年，大模型厂商、云厂商、",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6488279.html",
+      "title": "帮你的 DeepSeek Harness 做出有设计感、没 AI 味的东西",
+      "summary": "DeepSeek Harness 的插件生态里，好玩的多、有用的少。作者把做 PPT Skill 和去 AI 味 Skill 的经验打包成一个设计插件，让普通用户也能低成本做出有版式、没有 AI 腔的内容，装好之后 Codex 与 Claude Code 都能直接调用。 最近 DeepSeek Harness 的插件生态非常火。 前几天我列了几个热门插件，很多朋友说： 为啥都是好玩的，没有比较有用的？ 我其实做过好几个设计类的 Skil",
+      "publishedAt": "2026-11-03T06:51:14.000Z",
+      "url": "https://www.woshipm.com/ai/6488279.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6488279.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "DeepSeek Harness 的插件生态里，好玩的多、有用的少。作者把做 PPT Skill 和去 AI 味 Skill 的经验打包成一个设计插件，让普通用户也能低成本做出有版式、没有 AI 腔的内容，装好之后 Codex 与 Claude Code 都能直接调用。 最近 DeepSeek Harness 的插件生态非常火。 前几天我列了几个热门插件，很多朋友说： 为啥都是好玩的，没有比较有用的？ 我其实做过好几个设计类的 Skil",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6488276.html",
+      "title": "刚刚，DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+      "summary": "程序员还在群里讨论 Bug 怎么修，AI 可能已经复现问题、跑完测试，把修复代码提交到了 GitHub。DeepSeek Harness 的 Super-agent 架构，让 Router 负责调度、Worker 并行执行，AI 从会话工具变成长期在线的数字同事。 当程序员还在群聊里讨论 Bug 怎么修时，AI 可能已经完成了问题复现，分析了代码，跑完测试，甚至把修复代码提交到了 GitHub。真正改变工作方式的，不是又多了一个聊天窗口",
+      "publishedAt": "2026-11-03T06:32:48.000Z",
+      "url": "https://www.woshipm.com/ai/6488276.html",
       "linkKind": "original",
       "opportunity": {
         "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
@@ -122,91 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6487927.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6488276.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "实时AI的竞争已从AI能力转向交互与工程的全链路落地。从电话Agent的对话节奏控制，到跨通道上下文延续，再到IM系统承载AI流式消息的负载升级，以及云录制、会议引擎的可靠性设计，本文结合声网专场案例，拆解实时智能产品化的关键环节与业务结果。 在 2026 iRTE实时智能大会·声网专场，姚光华用一个比喻提出了这道题：“如果Coding Agent是AGI的开卷笔试，那么Convo Agent是AGI的实时口试。”听懂之后如何判断、行动",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6487783.html",
-      "title": "腾讯Chatterfly发布，一个AI原生语音Agent",
-      "summary": "再次打开腾讯 Chatterfly，它已经不只是语音输入法：语音指令直接出结果、内置多场景 Skills 自动识别并润色、翻译与本地语音历史都补齐了。这篇按七个小节把每个能力实测了一遍。 前阵子，腾讯低调内测 AI 语音输入法 Chatterfly。 我还专门写过一篇文章测评过 Chatterfly，那时，我还把Chatterfly定义为语音输入法。 最近再次使用 Chatterfly 时，发现这个产品已大幅升级更新。 用着用着，我觉得",
-      "publishedAt": "2026-11-02T07:08:59.000Z",
-      "url": "https://www.woshipm.com/ai/6487783.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6487783.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "再次打开腾讯 Chatterfly，它已经不只是语音输入法：语音指令直接出结果、内置多场景 Skills 自动识别并润色、翻译与本地语音历史都补齐了。这篇按七个小节把每个能力实测了一遍。 前阵子，腾讯低调内测 AI 语音输入法 Chatterfly。 我还专门写过一篇文章测评过 Chatterfly，那时，我还把Chatterfly定义为语音输入法。 最近再次使用 Chatterfly 时，发现这个产品已大幅升级更新。 用着用着，我觉得",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/chuangye/6487776.html",
-      "title": "19 岁实习生搭起 Wispr Flow 的增长引擎，公司估值 20 亿美元",
-      "summary": "Wispr Flow 养了一支 50 人创作者团队，每月产出五六百条广告，按投放金额分成，头部创作者月入超 1.3 万美元。一年收入涨 30 倍、估值约 20 亿美元，它把这套打法从怎么付钱、怎么找人到为什么不给脚本，完整讲了一遍。 你有没有想过，一家做软件的公司，广告到底该找谁来拍？找广告公司，找大网红，还是让自己人上？Wispr Flow（一个 AI 语音转文字工具，对着电脑说话就能变成文字）的答案有点特别。他们养了一个 50 人的",
-      "publishedAt": "2026-11-02T07:07:31.000Z",
-      "url": "https://www.woshipm.com/chuangye/6487776.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中的经验适合什么规模和阶段的团队？",
-        "method": "从原文选出一条明确做法，用你的一项工作验证前提和代价，再找一个不适用的场景。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/chuangye/6487776.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Wispr Flow 养了一支 50 人创作者团队，每月产出五六百条广告，按投放金额分成，头部创作者月入超 1.3 万美元。一年收入涨 30 倍、估值约 20 亿美元，它把这套打法从怎么付钱、怎么找人到为什么不给脚本，完整讲了一遍。 你有没有想过，一家做软件的公司，广告到底该找谁来拍？找广告公司，找大网红，还是让自己人上？Wispr Flow（一个 AI 语音转文字工具，对着电脑说话就能变成文字）的答案有点特别。他们养了一个 50 人的",
+      "brief": "程序员还在群里讨论 Bug 怎么修，AI 可能已经复现问题、跑完测试，把修复代码提交到了 GitHub。DeepSeek Harness 的 Super-agent 架构，让 Router 负责调度、Worker 并行执行，AI 从会话工具变成长期在线的数字同事。 当程序员还在群聊里讨论 Bug 怎么修时，AI 可能已经完成了问题复现，分析了代码，跑完测试，甚至把修复代码提交到了 GitHub。真正改变工作方式的，不是又多了一个聊天窗口",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月3日",
     "demo": false,
-    "updatedAt": "2026-11-03T01:11:01.693Z",
+    "updatedAt": "2026-11-03T07:58:22.026Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 122,
-      "latestCount": 1,
+      "received": 149,
+      "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -120,8 +120,8 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "AravSrinivas",
@@ -182,6 +182,43 @@
         }
       },
       {
+        "id": "aihot-wt9c3ho9ziow9dhkpi9iex8zv",
+        "title": "OpenAI 推出 Pando Git 后端",
+        "brief": "Pando 是一个可扩展至超大型 monorepo 的 Git 后端。",
+        "summary": "Pando 是一个可扩展至超大型 monorepo 的 Git 后端。",
+        "category": "产品动态",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "gdb",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Greg Brockman · @gdb",
+        "feedName": "X：Greg Brockman (@gdb)",
+        "sourceUrl": "https://x.com/gdb/status/2117435285021810921",
+        "aggregateUrl": "https://aihot.news/items/wt9c3ho9ziow9dhkpi9iex8zv",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-03T01:54:46.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "产品动态",
+          "author": {
+            "name": "Greg Brockman",
+            "asset": "/assets/identities/gdb.jpg",
+            "assetSource": "https://x.com/gdb",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
         "id": "x-karpathy-2079610838143623371",
         "title": "Karpathy：用自由讲述给 LLM 补足上下文",
         "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -222,38 +259,38 @@
     "ranking": [
       {
         "rank": 1,
-        "id": "ob84tivbahzy2ux0letnmcxp7",
+        "id": "zdajxfep092u90haul1cu9if9",
         "title": "MIT 称 GPT-6 Astra 可直接改写模型权重",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2117350399271371113",
-        "aihotUrl": "https://aihot.news/items/ob84tivbahzy2ux0letnmcxp7",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/021/337.htm",
+        "aihotUrl": "https://aihot.news/items/zdajxfep092u90haul1cu9if9",
         "storyUrl": "https://aihot.news/story/6967bf9e-459b-487f-93ce-2804c3605d57",
-        "sourceCount": 3,
-        "participantCount": 29,
-        "latestAt": "2026-11-03T00:35:50.000Z",
+        "sourceCount": 4,
+        "participantCount": 45,
+        "latestAt": "2026-11-03T02:00:55.937Z",
         "expanded": true,
-        "latest": "MIT CSAIL 团队提出权重空间编程，让 GPT-6 Astra 直接改写 Qwen3.5-0.8B 权重",
+        "latest": "MIT CSAIL 提出「权重空间编程」：GPT-6 Astra 仅修改 Qwen3.5-0.8B 约 0.016% 权重，MATH-500 成绩提升至 6 倍",
         "reports": [
+          {
+            "title": "LLM 可直接读写神经网络权重：「Weight Space Programming」将 Autoresearch 移出 RSI 循环",
+            "sourceName": "Latent Space（RSS）",
+            "sourceUrl": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+            "aihotUrl": "https://aihot.news/items/ooqvz0vvb14zo8en39a2c00go",
+            "publishedAt": "2026-11-03T05:35:00.000Z"
+          },
+          {
+            "title": "MIT CSAIL 提出「权重空间编程」：GPT-6 Astra 仅修改 Qwen3.5-0.8B 约 0.016% 权重，MATH-500 成绩提升至 6 倍",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/021/337.htm",
+            "aihotUrl": "https://aihot.news/items/zdajxfep092u90haul1cu9if9",
+            "publishedAt": "2026-11-03T02:00:55.937Z"
+          },
           {
             "title": "MIT CSAIL 团队提出权重空间编程，让 GPT-6 Astra 直接改写 Qwen3.5-0.8B 权重",
             "sourceName": "X：indigo (@indigox)",
             "sourceUrl": "https://x.com/indigox/status/2117415419061604607",
             "aihotUrl": "https://aihot.news/items/xgchgeh2exw73ccozwsohftaw",
             "publishedAt": "2026-11-03T00:35:50.000Z"
-          },
-          {
-            "title": "GPT-6 Astra 直接改写模型权重",
-            "sourceName": "X：Dominik Kundel（OpenAI 开发者体验，Codex） (@dkundel)",
-            "sourceUrl": "https://x.com/dkundel/status/2117370511294447829",
-            "aihotUrl": "https://aihot.news/items/ifw388af52kf3n9kuwis9zfxn",
-            "publishedAt": "2026-11-02T21:37:23.000Z"
-          },
-          {
-            "title": "MIT 研究让 GPT-6 Astra 无需训练直接改写 Qwen3.5-0.8B 权重提升数学表现",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2117350399271371113",
-            "aihotUrl": "https://aihot.news/items/ob84tivbahzy2ux0letnmcxp7",
-            "publishedAt": "2026-11-02T20:17:28.000Z"
           }
         ],
         "related": [],
@@ -279,7 +316,7 @@
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
         "sourceCount": 2,
-        "participantCount": 27,
+        "participantCount": 33,
         "latestAt": "2026-11-03T00:03:15.000Z",
         "expanded": true,
         "latest": "Anthropic 修订版 IPO 文件披露 8954 亿美元算力承诺，总额可达 1.07 万亿美元",
@@ -308,12 +345,12 @@
         ],
         "related": [
           {
-            "title": "Anthropic三季度收入168亿美元，增速放缓",
-            "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
-          },
-          {
             "title": "Anthropic季度营收增十二倍仍亏233亿美元",
             "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
+          },
+          {
+            "title": "Anthropic三季度收入168亿美元，增速放缓",
+            "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
           },
           {
             "title": "泄露文件：Anthropic 云算力受限且财务承压",
@@ -342,7 +379,7 @@
         "aihotUrl": "https://aihot.news/items/k02hyr58q45b0ip29mm5bfxkf",
         "storyUrl": "https://aihot.news/story/6e51648d-3894-48aa-8f3d-1a81b5ecd218",
         "sourceCount": 3,
-        "participantCount": 28,
+        "participantCount": 27,
         "latestAt": "2026-11-02T02:29:50.000Z",
         "expanded": true,
         "latest": "Andrej Karpathy 周末项目 HackerTube：用 Claude 从 4300 万条 HN 评论中筛选推荐视频",
@@ -391,8 +428,8 @@
         "sourceUrl": "https://www.ithome.com/1/020/615.htm",
         "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
         "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
-        "sourceCount": 3,
-        "participantCount": 34,
+        "sourceCount": 2,
+        "participantCount": 27,
         "latestAt": "2026-11-02T14:30:00.000Z",
         "expanded": false,
         "latest": "",
@@ -413,34 +450,6 @@
       },
       {
         "rank": 5,
-        "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
-        "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
-        "sourceName": "公众号：数字生命卡兹克",
-        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
-        "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
-        "storyUrl": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b",
-        "sourceCount": 2,
-        "participantCount": 22,
-        "latestAt": "2026-11-02T13:57:53.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
         "id": "wrmi17szf006yhdo1g9uufn74",
         "title": "马斯克承认Grok Bot成本高于收入并下调限额",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -448,7 +457,7 @@
         "aihotUrl": "https://aihot.news/items/wrmi17szf006yhdo1g9uufn74",
         "storyUrl": "https://aihot.news/story/8b71dc45-4e03-41aa-a2e0-97b2a37915dc",
         "sourceCount": 3,
-        "participantCount": 17,
+        "participantCount": 19,
         "latestAt": "2026-11-02T18:15:39.000Z",
         "expanded": false,
         "latest": "",
@@ -468,7 +477,119 @@
         }
       },
       {
+        "rank": 6,
+        "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
+        "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
+        "sourceName": "公众号：数字生命卡兹克",
+        "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
+        "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+        "storyUrl": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b",
+        "sourceCount": 2,
+        "participantCount": 20,
+        "latestAt": "2026-11-02T13:57:53.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 7,
+        "id": "kok1qlnli1qd48t9soqgk6c3x",
+        "title": "OpenAI发布LifeVal日常任务基准并公布模型得分",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/lifeval",
+        "aihotUrl": "https://aihot.news/items/kok1qlnli1qd48t9soqgk6c3x",
+        "storyUrl": "https://aihot.news/story/666615a0-647a-4836-a86a-30f2a2fedf5c",
+        "sourceCount": 3,
+        "participantCount": 12,
+        "latestAt": "2026-11-03T01:54:54.450Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "renaizbi0xzvltnhnz8mummjt",
+        "title": "DeepSeek Harness 推出 Creator Mode",
+        "sourceName": "X：Tianyi Cui（@tianyi）",
+        "sourceUrl": "https://x.com/tianyi/status/2117258349649780737",
+        "aihotUrl": "https://aihot.news/items/renaizbi0xzvltnhnz8mummjt",
+        "storyUrl": "https://aihot.news/story/c4a01cfb-6d94-4845-a8b3-636ddead765f",
+        "sourceCount": 2,
+        "participantCount": 12,
+        "latestAt": "2026-11-02T17:50:56.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Tianyi Cui（@tianyi）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "acf7r1s4jnc5uean49urp6sj5",
+        "title": "美团龙猫发布 LongCat-2.5 原生多模态模型",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/020/873.htm",
+        "aihotUrl": "https://aihot.news/items/acf7r1s4jnc5uean49urp6sj5",
+        "storyUrl": "https://aihot.news/story/e3ffefd6-5164-4d6a-99a8-7637c4fa57aa",
+        "sourceCount": 3,
+        "participantCount": 14,
+        "latestAt": "2026-11-02T14:35:23.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "k0xci1tn1nue1lop6rwik8l8v",
         "title": "Anthropic 限制 Claude Code 复刻现有游戏",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -494,97 +615,13 @@
           "caption": "Claude Code",
           "author": null
         }
-      },
-      {
-        "rank": 8,
-        "id": "acf7r1s4jnc5uean49urp6sj5",
-        "title": "美团龙猫发布 LongCat-2.5 原生多模态模型",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/020/873.htm",
-        "aihotUrl": "https://aihot.news/items/acf7r1s4jnc5uean49urp6sj5",
-        "storyUrl": "https://aihot.news/story/e3ffefd6-5164-4d6a-99a8-7637c4fa57aa",
-        "sourceCount": 3,
-        "participantCount": 12,
-        "latestAt": "2026-11-02T14:35:23.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "IT之家·人工智能",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "renaizbi0xzvltnhnz8mummjt",
-        "title": "DeepSeek Harness 推出 Creator Mode",
-        "sourceName": "X：Tianyi Cui（@tianyi）",
-        "sourceUrl": "https://x.com/tianyi/status/2117258349649780737",
-        "aihotUrl": "https://aihot.news/items/renaizbi0xzvltnhnz8mummjt",
-        "storyUrl": "https://aihot.news/story/c4a01cfb-6d94-4845-a8b3-636ddead765f",
-        "sourceCount": 2,
-        "participantCount": 8,
-        "latestAt": "2026-11-02T17:50:56.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Tianyi Cui（@tianyi）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "rlrbaplq6k09qoovy0ksafrcg",
-        "title": "SemiAnalysis发布GDPx基准，最佳模型仅得12%",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2117236578712186935",
-        "aihotUrl": "https://aihot.news/items/rlrbaplq6k09qoovy0ksafrcg",
-        "storyUrl": "https://aihot.news/story/b31095b6-9e19-45e6-91ba-88cbdcc0dc85",
-        "sourceCount": 3,
-        "participantCount": 10,
-        "latestAt": "2026-11-02T12:45:11.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-03T01:11:01.693Z",
-    "nextCheckAt": 1793668561693,
+    "checkedAt": "2026-11-03T07:58:22.026Z",
+    "nextCheckAt": 1793693002026,
     "intervalSeconds": 300,
     "message": ""
   }

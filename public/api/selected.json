@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-03T01:11:16.145Z",
+  "checkedAt": "2026-11-03T07:58:44.121Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "uinaiwkzg4u2exkfgv4oha9p7",
+      "title": "Addy Osmani 谈 Agent 时代如何保持批判性思维",
+      "reason": "作者基于自身 Agent 工作流经验，提出从认知卸载到认知投降的判断框架和一套可自查的提问清单，方法可直接迁移到日常 AI 协作。",
+      "summary": "Addy Osmani 发文探讨在大量使用 Agent 工作流后如何保持批判性思维。",
+      "sourceName": "X：Addy Osmani (@addyosmani)",
+      "sourceUrl": "https://x.com/addyosmani/status/2117512471930167377",
+      "aihotUrl": "https://aihot.news/items/uinaiwkzg4u2exkfgv4oha9p7",
+      "publishedAt": "2026-11-03T07:01:29.000Z",
+      "timeBasis": "published",
+      "category": "opinion",
+      "categoryLabel": "动态",
+      "unselected": false
+    },
+    {
+      "id": "ewvepczpb5fewcbzo2tkqdldm",
+      "title": "Google AI Studio 弃用 Gemini 2.5 Pro 与 2.5 Flash，API 请求将于 12 月 1 日起自动路由",
+      "reason": "原文明确了弃用时间、自动路由目标和计费规则，以及破坏性 API 变更点，方便开发者提前迁移。",
+      "summary": "Gemini 2.5 Pro 与 Gemini 2.5 Flash 已弃用，无法再在 Google AI Studio 中选择。",
+      "sourceName": "Gemini API：更新日志（网页）",
+      "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#11-02-2026",
+      "aihotUrl": "https://aihot.news/items/ewvepczpb5fewcbzo2tkqdldm",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "hf03pwablxanh9desil5cbu9d",
       "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
@@ -196,20 +224,6 @@
       "unselected": false
     },
     {
-      "id": "hoim4l9scskfj0obspicyucpw",
-      "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-      "reason": "原文给出 Gemini 4 Carbon 在多项基准的数字和分阶段开放安排，读者可以据此比较它与 Argon 及竞品的表现。",
-      "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-      "sourceName": "X：Sundar Pichai (@sundarpichai)",
-      "sourceUrl": "https://x.com/sundarpichai/status/2115489219804352921",
-      "aihotUrl": "https://aihot.news/items/hoim4l9scskfj0obspicyucpw",
-      "publishedAt": "2026-10-28T17:01:48.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "ku284awvyj7i3dt4j7oflb78m",
       "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
       "reason": "文章梳理了 Genie 4 相比 Genie 3 的画质、实时控制、原生音频等变化，并用视频路线与高斯泼溅路线的对比帮助读者理解世界模型走向。",
@@ -249,6 +263,34 @@
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "l74eacnb38ytvm5hm8om7h7cs",
+      "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+      "reason": "官方完整说明了 Genie 4 的实时交互、原生音频和与 Gemini 协作机制，也坦陈当前在长时一致性和物理精度上的局限。",
+      "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+      "publishedAt": "2026-10-27T16:01:38.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "ewvepczpb5fewcbzo2tkqdldm",
+      "title": "Google AI Studio 弃用 Gemini 2.5 Pro 与 2.5 Flash，API 请求将于 12 月 1 日起自动路由",
+      "reason": "原文明确了弃用时间、自动路由目标和计费规则，以及破坏性 API 变更点，方便开发者提前迁移。",
+      "summary": "Gemini 2.5 Pro 与 Gemini 2.5 Flash 已弃用，无法再在 Google AI Studio 中选择。",
+      "sourceName": "Gemini API：更新日志（网页）",
+      "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#11-02-2026",
+      "aihotUrl": "https://aihot.news/items/ewvepczpb5fewcbzo2tkqdldm",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
       "unselected": false
     },
     {
@@ -344,20 +386,6 @@
       "sourceUrl": "https://x.com/TencentHunyuan/status/2115851165904814283",
       "aihotUrl": "https://aihot.news/items/nb40aoihhydhoo0acp0rcyaol",
       "publishedAt": "2026-10-29T17:00:03.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "nfbnpnzdrebu4kbq6uqxhkc2h",
-      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-      "reason": "官方宣布文档、PDF、演示文稿等可直接在 Gemini 内生成、预览和编辑，读者可据此判断它能否替代部分办公工具流程。",
-      "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。",
-      "sourceName": "X：Gemini (@GeminiApp)",
-      "sourceUrl": "https://x.com/GeminiApp/status/2115845164824711247",
-      "aihotUrl": "https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h",
-      "publishedAt": "2026-10-29T16:36:12.000Z",
       "timeBasis": "published",
       "category": "ai-products",
       "categoryLabel": "产品",
@@ -708,6 +736,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "uinaiwkzg4u2exkfgv4oha9p7",
+          "title": "Addy Osmani 谈 Agent 时代如何保持批判性思维",
+          "reason": "作者基于自身 Agent 工作流经验，提出从认知卸载到认知投降的判断框架和一套可自查的提问清单，方法可直接迁移到日常 AI 协作。",
+          "summary": "Addy Osmani 发文探讨在大量使用 Agent 工作流后如何保持批判性思维。",
+          "sourceName": "X：Addy Osmani (@addyosmani)",
+          "sourceUrl": "https://x.com/addyosmani/status/2117512471930167377",
+          "aihotUrl": "https://aihot.news/items/uinaiwkzg4u2exkfgv4oha9p7",
+          "publishedAt": "2026-11-03T07:01:29.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
+        },
+        {
           "id": "v41vn9hb5ywv10e68wycj1bjk",
           "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
           "reason": "作者亲测给出从配置、人设到防泄露的完整流程，读者可照步骤在 QQ、微信、飞书养出自己的大肥鱼。",
@@ -772,20 +814,6 @@
           "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
           "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
           "publishedAt": "2026-11-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "upl3hjjdokqe13w3ieo9opr0v",
-          "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
-          "reason": "教程给出可直接复用的 TypeScript 代码和真实成本数据，读者可以照着搭一个带限额和人工审批的定时 Agent。",
-          "summary": "OpenRouter 发布教程，演示用 @openrouter/agent 0.11.0 在 TypeScript 中搭建定时运行的常驻 AI Agent，监控 Hacker News 并生成摘要。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
-          "aihotUrl": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v",
-          "publishedAt": "2026-10-31T00:00:00.000Z",
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
@@ -984,6 +1012,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "ewvepczpb5fewcbzo2tkqdldm",
+          "title": "Google AI Studio 弃用 Gemini 2.5 Pro 与 2.5 Flash，API 请求将于 12 月 1 日起自动路由",
+          "reason": "原文明确了弃用时间、自动路由目标和计费规则，以及破坏性 API 变更点，方便开发者提前迁移。",
+          "summary": "Gemini 2.5 Pro 与 Gemini 2.5 Flash 已弃用，无法再在 Google AI Studio 中选择。",
+          "sourceName": "Gemini API：更新日志（网页）",
+          "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#11-02-2026",
+          "aihotUrl": "https://aihot.news/items/ewvepczpb5fewcbzo2tkqdldm",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "hf03pwablxanh9desil5cbu9d",
           "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
           "reason": "原文交代了这一新设职位的职责范围和 Driscoll 的军方背景，读者可据此了解 OpenAI 在国家安全方向的布局。",
@@ -1048,20 +1090,6 @@
           "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
           "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
           "publishedAt": "2026-11-01T00:22:41.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "htfc0ler37j2h4hoqll6jewz3",
-          "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
-          "reason": "原文汇总五巨头财报披露的支出承诺构成和自由现金流变化，读者可以据此看清各家AI基建投入的规模差异与回收压力。",
-          "summary": "据彭博社10月31日报道，Alphabet、Meta、微软、亚马逊和甲骨文五大巨头承诺未来数年在数据中心等领域投入超过3万亿美元（约20.01万亿元人民币）。",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/020/632.htm",
-          "aihotUrl": "https://aihot.news/items/htfc0ler37j2h4hoqll6jewz3",
-          "publishedAt": "2026-10-31T15:56:00.987Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
