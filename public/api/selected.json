@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-04T08:06:20.049Z",
+  "checkedAt": "2026-11-04T16:22:01.240Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "c39s97tylya5njp0nro6dwvbx",
+      "title": "OpenAI 宣布收购 Code Storage 背后公司 Pierre",
+      "reason": "原文交代了收购对象、Codex 已在用的 Trees 和 Diffs 库，以及开源项目保留和交割条件等关键安排。",
+      "summary": "OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
+      "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+      "publishedAt": "2026-11-04T14:30:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "dh8lnoo1i3xiq7a12azrnmmwf",
+      "title": "可灵 Kling 4.0 Flash 全面开放，支持官网、API、MCP 和 Adobe 插件接入",
+      "reason": "官方宣布 Kling 4.0 Flash 向全部用户开放，并列出官网、API、MCP 及 Adobe 插件等接入方式，可据此了解入口变化。",
+      "summary": "可灵AI 宣布 Kling 4.0 Flash 现已向所有用户全面开放，可通过 Kling AI 官网和 API 使用。",
+      "sourceName": "公众号：可灵AI（快手·视频）",
+      "sourceUrl": "https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ",
+      "aihotUrl": "https://aihot.news/items/dh8lnoo1i3xiq7a12azrnmmwf",
+      "publishedAt": "2026-11-04T15:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
     {
       "id": "z2bhg9i4eqahaqc7zgktvqk98",
       "title": "Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当",
@@ -136,34 +164,6 @@
       "category": "opinion",
       "categoryLabel": "动态",
       "unselected": false
-    },
-    {
-      "id": "op93lgz2xx0ck3znfm724ebfu",
-      "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
-      "reason": "案例显示自托管开源模型在成本大幅下降后改变了工程师的使用习惯，对思考前沿 API 定价有参考意义。",
-      "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
-      "sourceName": "Hacker News：AI 热帖",
-      "sourceUrl": "https://twitter.com/guilleflorvs/status/2117379073785696395",
-      "aihotUrl": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
-      "publishedAt": "2026-11-02T22:11:24.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "bfx52184e0ssnqgdq42o8dg36",
-      "title": "Mistral Large 4 以开放权重发布并附技术报告",
-      "reason": "原文给出模型权重开放入口与技术报告链接，读者可以据此了解模型在代码智能体与安全方向的能力定位。",
-      "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。",
-      "sourceName": "X：Mistral AI (@MistralAI)",
-      "sourceUrl": "https://x.com/MistralAI/status/2117562068220195097",
-      "aihotUrl": "https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36",
-      "publishedAt": "2026-11-03T10:18:34.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
     }
   ],
   "week": [
@@ -266,6 +266,20 @@
       "unselected": false
     },
     {
+      "id": "dh8lnoo1i3xiq7a12azrnmmwf",
+      "title": "可灵 Kling 4.0 Flash 全面开放，支持官网、API、MCP 和 Adobe 插件接入",
+      "reason": "官方宣布 Kling 4.0 Flash 向全部用户开放，并列出官网、API、MCP 及 Adobe 插件等接入方式，可据此了解入口变化。",
+      "summary": "可灵AI 宣布 Kling 4.0 Flash 现已向所有用户全面开放，可通过 Kling AI 官网和 API 使用。",
+      "sourceName": "公众号：可灵AI（快手·视频）",
+      "sourceUrl": "https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ",
+      "aihotUrl": "https://aihot.news/items/dh8lnoo1i3xiq7a12azrnmmwf",
+      "publishedAt": "2026-11-04T15:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-products",
+      "categoryLabel": "产品",
+      "unselected": false
+    },
+    {
       "id": "ewvepczpb5fewcbzo2tkqdldm",
       "title": "Google AI Studio 弃用 Gemini 2.5 Pro 与 2.5 Flash，API 请求将于 12 月 1 日起自动路由",
       "reason": "原文明确了弃用时间、自动路由目标和计费规则，以及破坏性 API 变更点，方便开发者提前迁移。",
@@ -364,17 +378,17 @@
       "unselected": false
     },
     {
-      "id": "nb40aoihhydhoo0acp0rcyaol",
-      "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
-      "reason": "官方补充技术报告和 Hy-Nomas-Bench 数据集，还放出与 Genie 4 的对比视频，便于研究者复现和评估该视频世界模型。",
-      "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。",
-      "sourceName": "X：腾讯混元 (@TencentHunyuan)",
-      "sourceUrl": "https://x.com/TencentHunyuan/status/2115851165904814283",
-      "aihotUrl": "https://aihot.news/items/nb40aoihhydhoo0acp0rcyaol",
-      "publishedAt": "2026-10-29T17:00:03.000Z",
+      "id": "c39s97tylya5njp0nro6dwvbx",
+      "title": "OpenAI 宣布收购 Code Storage 背后公司 Pierre",
+      "reason": "原文交代了收购对象、Codex 已在用的 Trees 和 Diffs 库，以及开源项目保留和交割条件等关键安排。",
+      "summary": "OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
+      "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+      "publishedAt": "2026-11-04T14:30:00.000Z",
       "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
+      "category": "industry",
+      "categoryLabel": "行业",
       "unselected": false
     },
     {
@@ -470,20 +484,6 @@
       "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
       "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
       "publishedAt": "2026-11-01T00:22:41.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "htfc0ler37j2h4hoqll6jewz3",
-      "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
-      "reason": "原文汇总五巨头财报披露的支出承诺构成和自由现金流变化，读者可以据此看清各家AI基建投入的规模差异与回收压力。",
-      "summary": "据彭博社10月31日报道，Alphabet、Meta、微软、亚马逊和甲骨文五大巨头承诺未来数年在数据中心等领域投入超过3万亿美元（约20.01万亿元人民币）。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/020/632.htm",
-      "aihotUrl": "https://aihot.news/items/htfc0ler37j2h4hoqll6jewz3",
-      "publishedAt": "2026-10-31T15:56:00.987Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -722,6 +722,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "c39s97tylya5njp0nro6dwvbx",
+          "title": "OpenAI 宣布收购 Code Storage 背后公司 Pierre",
+          "reason": "原文交代了收购对象、Codex 已在用的 Trees 和 Diffs 库，以及开源项目保留和交割条件等关键安排。",
+          "summary": "OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
+          "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+          "publishedAt": "2026-11-04T14:30:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "z2bhg9i4eqahaqc7zgktvqk98",
           "title": "Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当",
           "reason": "Redwood Research 基于 OpenAI 披露的两起智能体关闭监控事件逐条分析其响应流程，并给出可核验的改进建议。",
@@ -789,20 +803,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "fvf2qsdi4s11bz1denqd5rzff",
-          "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
-          "reason": "原文用六个模型对比评测与生产数据，发现评测成绩反而更低，并把差距归因于模型对评测目标的误判。",
-          "summary": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。",
-          "sourceName": "OpenAI：Alignment 研究博客（RSS）",
-          "sourceUrl": "https://alignment.openai.com/eval-production-behavior-gap/",
-          "aihotUrl": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff",
-          "publishedAt": "2026-11-03T08:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
@@ -906,6 +906,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "dh8lnoo1i3xiq7a12azrnmmwf",
+          "title": "可灵 Kling 4.0 Flash 全面开放，支持官网、API、MCP 和 Adobe 插件接入",
+          "reason": "官方宣布 Kling 4.0 Flash 向全部用户开放，并列出官网、API、MCP 及 Adobe 插件等接入方式，可据此了解入口变化。",
+          "summary": "可灵AI 宣布 Kling 4.0 Flash 现已向所有用户全面开放，可通过 Kling AI 官网和 API 使用。",
+          "sourceName": "公众号：可灵AI（快手·视频）",
+          "sourceUrl": "https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ",
+          "aihotUrl": "https://aihot.news/items/dh8lnoo1i3xiq7a12azrnmmwf",
+          "publishedAt": "2026-11-04T15:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-products",
+          "categoryLabel": "产品",
+          "unselected": false
+        },
+        {
           "id": "dmvn8r8406f7g9vutizbxqesj",
           "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
           "reason": "原文把近期多起安全事件拆成可控的攻击路径，并给出立即与30天内可执行的公司安全清单，方法可迁移。",
@@ -974,20 +988,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "ja57b43t7h52wid2g4zu6vw2t",
-          "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
-          "reason": "a16z 基于 100 位 CISO 调研给出 2027 安全预算与采购优先级变化，并点明初创公司切入的缺口在哪。",
-          "summary": "a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。",
-          "sourceName": "a16z：News（RSS）",
-          "sourceUrl": "https://www.a16z.news/p/the-new-security-agenda",
-          "aihotUrl": "https://aihot.news/items/ja57b43t7h52wid2g4zu6vw2t",
-          "publishedAt": "2026-10-28T16:00:31.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
         }
       ]
     },
@@ -997,6 +997,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "c39s97tylya5njp0nro6dwvbx",
+          "title": "OpenAI 宣布收购 Code Storage 背后公司 Pierre",
+          "reason": "原文交代了收购对象、Codex 已在用的 Trees 和 Diffs 库，以及开源项目保留和交割条件等关键安排。",
+          "summary": "OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
+          "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+          "publishedAt": "2026-11-04T14:30:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "z2bhg9i4eqahaqc7zgktvqk98",
           "title": "Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当",
@@ -1065,20 +1079,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "hf03pwablxanh9desil5cbu9d",
-          "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
-          "reason": "原文交代了这一新设职位的职责范围和 Driscoll 的军方背景，读者可据此了解 OpenAI 在国家安全方向的布局。",
-          "summary": "OpenAI 宣布任命 Dan Driscoll 为新设的国家安全现代化高级顾问，就先进 AI 如何加强国家与网络安全提供建议，重点与美国盟友合作推动民主 AI 的负责任使用。",
-          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
-          "aihotUrl": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d",
-          "publishedAt": "2026-11-02T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
           "unselected": false
         }
       ]
