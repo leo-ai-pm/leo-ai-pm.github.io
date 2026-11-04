@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-03T21:42:06.625Z",
-      "lastSuccessAt": "2026-11-03T21:42:06.625Z",
-      "nextCheckAt": 1793745726625,
+      "checkedAt": "2026-11-04T01:42:18.174Z",
+      "lastSuccessAt": "2026-11-04T01:42:18.174Z",
+      "nextCheckAt": 1793760138174,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-04T01:42:18.175Z",
+      "lastSuccessAt": "2026-11-04T01:42:18.175Z",
+      "nextCheckAt": 1793760138175,
       "status": "ok",
-      "nextCheckAt": 1793745726626,
-      "checkedAt": "2026-11-03T21:42:06.626Z",
-      "lastSuccessAt": "2026-11-03T21:42:06.626Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-03T21:42:06.628Z",
-      "lastSuccessAt": "2026-11-03T21:42:06.628Z",
-      "nextCheckAt": 1793745726628,
+      "checkedAt": "2026-11-04T01:42:18.176Z",
+      "lastSuccessAt": "2026-11-04T01:42:18.176Z",
+      "nextCheckAt": 1793760138176,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-04T01:42:18.405Z",
+      "lastSuccessAt": "2026-11-04T01:42:18.405Z",
+      "nextCheckAt": 1793760138405,
       "status": "ok",
-      "nextCheckAt": 1793745726880,
-      "checkedAt": "2026-11-03T21:42:06.880Z",
-      "lastSuccessAt": "2026-11-03T21:42:06.880Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793745726625,
+  "nextCheckAt": 1793760138174,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6488453.html",
+      "title": "AI RAG 项目从 0 到 1 踩坑：大多数团队卡在检索质量，我整理了一套可直接复用的评估清单 + Prompt 库",
+      "summary": "很多团队搭完RAG Demo效果不错，一上真实业务就翻车：换个说法、多版本文档、内容歧义，回答就开始胡说八道。反复调参几周依然不稳定，本质问题不在模型，而在检索质量。本文梳理RAG检索全链路的7个高频坑点，提供一套可直接上手的检索质量评估框架与分层Prompt体系，帮你从源头解决RAG落地难题。 最近半年接触了十多个内部知识库、企业文档问答、行业资料问答类 RAG 项目，发现一个非常扎心的共性： 很多团队兴冲冲搭完向量库、接入大模型，D",
+      "publishedAt": "2026-11-04T00:41:03.000Z",
+      "url": "https://www.woshipm.com/ai/6488453.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6488453.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "很多团队搭完RAG Demo效果不错，一上真实业务就翻车：换个说法、多版本文档、内容歧义，回答就开始胡说八道。反复调参几周依然不稳定，本质问题不在模型，而在检索质量。本文梳理RAG检索全链路的7个高频坑点，提供一套可直接上手的检索质量评估框架与分层Prompt体系，帮你从源头解决RAG落地难题。 最近半年接触了十多个内部知识库、企业文档问答、行业资料问答类 RAG 项目，发现一个非常扎心的共性： 很多团队兴冲冲搭完向量库、接入大模型，D",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6488579.html",
       "title": "从OpenClaw，怎么走到了Super Agent？",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6488400.html",
@@ -168,46 +208,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "昨晚推上最热的研究：我们可能可以像编程一样，让 AI 编写 AI 模型的权重文件。团队用 GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重，只改动 0.016%，MATH-500 准确率就提到原来的约 6 倍，IFEval 指令跟随提到约 3 倍。 昨晚推上 AI 圈最热门的研究： 我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。 有个团队用 GPT-6 Astra 直接编辑了 Qwen3.5-0.",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6488368.html",
-      "title": "体验完升级后的字节Gauth，AI家教离一人一课又近了一步",
-      "summary": "拍张照就能拿到答案和完整解题步骤，但看懂过程不等于吃透知识点。升级后的字节 Gauth 让 AI 老师一边讲解一边在白板上绘图，配合动态演示把抽象内容讲明白。作者体验后认为，这离「一人一课」的个性化课堂又近了一步。 个性化的专属课堂。 如今用 AI 辅导学习已经十分普遍，碰到不会的题目拍个照就能拿到答案和完整解题步骤。 但看得懂解题过程，不等于吃透背后的知识点。 不少内容单靠文字、公式很难讲明白，如果能像线下老师那样，一边讲解一边绘图，",
-      "publishedAt": "2026-11-03T08:02:52.000Z",
-      "url": "https://www.woshipm.com/ai/6488368.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6488368.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "拍张照就能拿到答案和完整解题步骤，但看懂过程不等于吃透知识点。升级后的字节 Gauth 让 AI 老师一边讲解一边在白板上绘图，配合动态演示把抽象内容讲明白。作者体验后认为，这离「一人一课」的个性化课堂又近了一步。 个性化的专属课堂。 如今用 AI 辅导学习已经十分普遍，碰到不会的题目拍个照就能拿到答案和完整解题步骤。 但看得懂解题过程，不等于吃透背后的知识点。 不少内容单靠文字、公式很难讲明白，如果能像线下老师那样，一边讲解一边绘图，",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

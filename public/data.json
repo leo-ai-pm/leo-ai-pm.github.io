@@ -1,7 +1,7 @@
 {
   "date": "2026年11月4日",
   "demo": false,
-  "updatedAt": "2026-11-03T21:42:18.203Z",
+  "updatedAt": "2026-11-04T01:42:28.063Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 185,
-    "latestCount": 3,
+    "received": 183,
+    "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -119,7 +119,7 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 1,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -144,48 +144,11 @@
   },
   "items": [
     {
-      "id": "aihot-aowwsa3yj3h1ww4hrl7i1wore",
-      "title": "OpenAI 团队谈自研 Git 后端 Pando",
-      "brief": "我们懂一些 Git 功夫。",
-      "summary": "我们懂一些 Git 功夫。",
-      "category": "产品动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2117412956950638872",
-      "aggregateUrl": "https://aihot.news/items/aowwsa3yj3h1ww4hrl7i1wore",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-03T00:26:03.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "产品动态",
-        "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-wt9c3ho9ziow9dhkpi9iex8zv",
-      "title": "OpenAI 推出 Pando Git 后端",
-      "brief": "Pando 是一个可扩展至超大型 monorepo 的 Git 后端。",
-      "summary": "Pando 是一个可扩展至超大型 monorepo 的 Git 后端。",
-      "category": "产品动态",
+      "id": "aihot-k08jl2jcx69o5tnmet7owfc5s",
+      "title": "OpenAI 欢迎 Jill Hazelbaker 加入团队",
+      "brief": "欢迎 @jillhazelbaker 加入团队，非常期待一起共事！",
+      "summary": "欢迎 @jillhazelbaker 加入团队，非常期待一起共事！",
+      "category": "行业观察",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -193,10 +156,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Greg Brockman · @gdb",
       "feedName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2117435285021810921",
-      "aggregateUrl": "https://aihot.news/items/wt9c3ho9ziow9dhkpi9iex8zv",
+      "sourceUrl": "https://x.com/gdb/status/2117755028211642849",
+      "aggregateUrl": "https://aihot.news/items/k08jl2jcx69o5tnmet7owfc5s",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-03T01:54:46.000Z",
+      "publishedAt": "2026-11-03T23:05:19.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -208,7 +171,7 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "产品动态",
+        "caption": "行业观察",
         "author": {
           "name": "Greg Brockman",
           "asset": "/assets/identities/gdb.jpg",
@@ -415,7 +378,7 @@
       "aihotUrl": "https://aihot.news/items/jk7mp3gxpm7orfsalkr0s30rw",
       "storyUrl": "https://aihot.news/story/956471b6-c78b-44c7-b4d4-e00583803aca",
       "sourceCount": 4,
-      "participantCount": 15,
+      "participantCount": 22,
       "latestAt": "2026-11-03T17:54:43.000Z",
       "expanded": true,
       "latest": "Google 允许学校关闭 AI 工具，但须一并放弃 Google Search",
@@ -458,6 +421,62 @@
     },
     {
       "rank": 4,
+      "id": "lnc48gxlu5nv0he3mw57lzmc6",
+      "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/020/392.htm",
+      "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
+      "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
+      "sourceCount": 2,
+      "participantCount": 22,
+      "latestAt": "2026-11-03T20:31:34.443Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "kxvpm36cquem6hg00nbzleoxs",
+      "title": "Anthropic 开源 FlashProve 可验证推理原型",
+      "sourceName": "Anthropic：Research（发表成果 · 网页）",
+      "sourceUrl": "https://www.anthropic.com/research/provable-inference",
+      "aihotUrl": "https://aihot.news/items/kxvpm36cquem6hg00nbzleoxs",
+      "storyUrl": "https://aihot.news/story/f33dbd76-b66f-428a-a7ec-f89e1db4f51b",
+      "sourceCount": 4,
+      "participantCount": 16,
+      "latestAt": "2026-11-03T22:41:03.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "wrmi17szf006yhdo1g9uufn74",
       "title": "马斯克承认Grok Bot成本高于收入并下调限额",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -485,44 +504,16 @@
       }
     },
     {
-      "rank": 5,
-      "id": "lnc48gxlu5nv0he3mw57lzmc6",
-      "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/020/392.htm",
-      "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
-      "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
-      "sourceCount": 2,
-      "participantCount": 14,
-      "latestAt": "2026-11-03T20:31:34.443Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 6,
-      "id": "k02hyr58q45b0ip29mm5bfxkf",
-      "title": "Karpathy用Claude从HN评论筛出6454个视频",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2116983513425883148",
-      "aihotUrl": "https://aihot.news/items/k02hyr58q45b0ip29mm5bfxkf",
-      "storyUrl": "https://aihot.news/story/6e51648d-3894-48aa-8f3d-1a81b5ecd218",
+      "rank": 7,
+      "id": "abv1492kvkjfo2kba1wzbxf1y",
+      "title": "Claude Code 产品负责人 Cat Wu 宣布离开 Anthropic",
+      "sourceName": "X：Cat Wu（Anthropic，Claude Code 产品负责人） (@_catwu)",
+      "sourceUrl": "https://x.com/_catwu/status/2117731934340337676",
+      "aihotUrl": "https://aihot.news/items/abv1492kvkjfo2kba1wzbxf1y",
+      "storyUrl": "https://aihot.news/story/dbad8163-0b5e-4bbf-958a-b5ba34b8f2c9",
       "sourceCount": 1,
-      "participantCount": 22,
-      "latestAt": "2026-11-02T02:29:50.000Z",
+      "participantCount": 10,
+      "latestAt": "2026-11-03T21:33:33.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -536,35 +527,7 @@
             "tone": "#eddfd0"
           }
         ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "renaizbi0xzvltnhnz8mummjt",
-      "title": "DeepSeek Harness 推出 Creator Mode",
-      "sourceName": "X：Tianyi Cui（@tianyi）",
-      "sourceUrl": "https://x.com/tianyi/status/2117258349649780737",
-      "aihotUrl": "https://aihot.news/items/renaizbi0xzvltnhnz8mummjt",
-      "storyUrl": "https://aihot.news/story/c4a01cfb-6d94-4845-a8b3-636ddead765f",
-      "sourceCount": 2,
-      "participantCount": 15,
-      "latestAt": "2026-11-02T17:50:56.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Tianyi Cui（@tianyi）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
+        "caption": "Claude Code",
         "author": null
       }
     },
@@ -576,7 +539,7 @@
       "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
       "aihotUrl": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d",
       "storyUrl": "https://aihot.news/story/975cd7c8-0397-45a6-b796-4383e2f877c9",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "participantCount": 13,
       "latestAt": "2026-11-03T15:03:02.000Z",
       "expanded": false,
@@ -605,7 +568,7 @@
       "aihotUrl": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
       "storyUrl": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4",
       "sourceCount": 1,
-      "participantCount": 19,
+      "participantCount": 18,
       "latestAt": "2026-11-02T14:30:00.000Z",
       "expanded": false,
       "latest": "",
@@ -626,15 +589,15 @@
     },
     {
       "rank": 10,
-      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
-      "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
-      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
-      "storyUrl": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b",
-      "sourceCount": 1,
-      "participantCount": 19,
-      "latestAt": "2026-11-02T13:57:53.000Z",
+      "id": "na7x9iqa4x7spmk4ircfbjb0m",
+      "title": "OpenAI 称 ChatGPT 周活 12 亿、搜索量达 Google 两成",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "aihotUrl": "https://aihot.news/items/na7x9iqa4x7spmk4ircfbjb0m",
+      "storyUrl": "https://aihot.news/story/9c7379d1-14a9-4bd6-9974-018637abc036",
+      "sourceCount": 3,
+      "participantCount": 9,
+      "latestAt": "2026-11-03T23:16:23.803Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -646,6 +609,12 @@
             "asset": "/assets/identities/openai.jpg",
             "assetSource": "https://x.com/OpenAI",
             "tone": "#e6eeea"
+          },
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "热点",
