@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-04T01:42:18.174Z",
-      "lastSuccessAt": "2026-11-04T01:42:18.174Z",
-      "nextCheckAt": 1793760138174,
+      "checkedAt": "2026-11-04T08:05:47.750Z",
+      "lastSuccessAt": "2026-11-04T08:05:47.750Z",
+      "nextCheckAt": 1793783147750,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-04T01:42:18.175Z",
-      "lastSuccessAt": "2026-11-04T01:42:18.175Z",
-      "nextCheckAt": 1793760138175,
+      "checkedAt": "2026-11-04T08:05:47.751Z",
+      "lastSuccessAt": "2026-11-04T08:05:47.751Z",
+      "nextCheckAt": 1793783147751,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-04T01:42:18.176Z",
-      "lastSuccessAt": "2026-11-04T01:42:18.176Z",
-      "nextCheckAt": 1793760138176,
+      "checkedAt": "2026-11-04T08:05:47.752Z",
+      "lastSuccessAt": "2026-11-04T08:05:47.752Z",
+      "nextCheckAt": 1793783147752,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-04T01:42:18.405Z",
-      "lastSuccessAt": "2026-11-04T01:42:18.405Z",
-      "nextCheckAt": 1793760138405,
       "status": "ok",
+      "nextCheckAt": 1793783147873,
+      "checkedAt": "2026-11-04T08:05:47.873Z",
+      "lastSuccessAt": "2026-11-04T08:05:47.873Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,55 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793760138174,
+  "nextCheckAt": 1793783147750,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6488453.html",
-      "title": "AI RAG 项目从 0 到 1 踩坑：大多数团队卡在检索质量，我整理了一套可直接复用的评估清单 + Prompt 库",
-      "summary": "很多团队搭完RAG Demo效果不错，一上真实业务就翻车：换个说法、多版本文档、内容歧义，回答就开始胡说八道。反复调参几周依然不稳定，本质问题不在模型，而在检索质量。本文梳理RAG检索全链路的7个高频坑点，提供一套可直接上手的检索质量评估框架与分层Prompt体系，帮你从源头解决RAG落地难题。 最近半年接触了十多个内部知识库、企业文档问答、行业资料问答类 RAG 项目，发现一个非常扎心的共性： 很多团队兴冲冲搭完向量库、接入大模型，D",
-      "publishedAt": "2026-11-04T00:41:03.000Z",
-      "url": "https://www.woshipm.com/ai/6488453.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6488453.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "很多团队搭完RAG Demo效果不错，一上真实业务就翻车：换个说法、多版本文档、内容歧义，回答就开始胡说八道。反复调参几周依然不稳定，本质问题不在模型，而在检索质量。本文梳理RAG检索全链路的7个高频坑点，提供一套可直接上手的检索质量评估框架与分层Prompt体系，帮你从源头解决RAG落地难题。 最近半年接触了十多个内部知识库、企业文档问答、行业资料问答类 RAG 项目，发现一个非常扎心的共性： 很多团队兴冲冲搭完向量库、接入大模型，D",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6488579.html",
-      "title": "从OpenClaw，怎么走到了Super Agent？",
-      "summary": "从Bot到工作台再回到Bot，Agent产品的演进看似绕圈，实则是两个朴素需求在驱动：深入真实工作环境，以及随时找到那个懂你的助手。本文梳理一年来的产品逻辑，并揭示DeepSeek Harness带来的新变量——Agent开始参与建设自己的工作环境。 最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。 很多人说没看懂，也有很多人说，这就是自己工作的日常。这里想聊一下，过去这一年观察到的Agent产品",
-      "publishedAt": "2026-11-03T09:47:16.000Z",
-      "url": "https://www.woshipm.com/ai/6488579.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6488950.html",
+      "title": "客单价 2000 美金、5 万人排队，这家 Personal Agent OS 公司 3 个月再拿数千万美元融资",
+      "summary": "Personal Agent OS 公司 Tiiny AI 完成数千万美元 Pre-A 轮，敦鸿资产领投，顺为、经纬、锦秋超额追投。首款产品 Tiiny AI Pocket 已发货，官网排队近 5 万人，用户平均花约 2000 美元买这台软硬件一体的设备。 Personal Agent OS 公司「Tiiny AI」完成数千万美元 Pre-A 轮融资。本轮融资由敦鸿资产领投，顺为资本、经纬创投、锦秋基金超额追投，云启资本、L2F光源创业",
+      "publishedAt": "2026-11-04T07:47:42.000Z",
+      "url": "https://www.woshipm.com/ai/6488950.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -162,36 +122,35 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6488579.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6488950.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "从Bot到工作台再回到Bot，Agent产品的演进看似绕圈，实则是两个朴素需求在驱动：深入真实工作环境，以及随时找到那个懂你的助手。本文梳理一年来的产品逻辑，并揭示DeepSeek Harness带来的新变量——Agent开始参与建设自己的工作环境。 最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。 很多人说没看懂，也有很多人说，这就是自己工作的日常。这里想聊一下，过去这一年观察到的Agent产品",
+      "brief": "Personal Agent OS 公司 Tiiny AI 完成数千万美元 Pre-A 轮，敦鸿资产领投，顺为、经纬、锦秋超额追投。首款产品 Tiiny AI Pocket 已发货，官网排队近 5 万人，用户平均花约 2000 美元买这台软硬件一体的设备。 Personal Agent OS 公司「Tiiny AI」完成数千万美元 Pre-A 轮融资。本轮融资由敦鸿资产领投，顺为资本、经纬创投、锦秋基金超额追投，云启资本、L2F光源创业",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6488400.html",
-      "title": "RSI 向前迈进一大步？GPT-6 像编程一样编辑模型权重，数学能力提高 6 倍",
-      "summary": "昨晚推上最热的研究：我们可能可以像编程一样，让 AI 编写 AI 模型的权重文件。团队用 GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重，只改动 0.016%，MATH-500 准确率就提到原来的约 6 倍，IFEval 指令跟随提到约 3 倍。 昨晚推上 AI 圈最热门的研究： 我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。 有个团队用 GPT-6 Astra 直接编辑了 Qwen3.5-0.",
-      "publishedAt": "2026-11-03T08:29:19.000Z",
-      "url": "https://www.woshipm.com/ai/6488400.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6488908.html",
+      "title": "吴恩达也投了，微软AutoGen核心作者做了个Personal Agent群聊",
+      "summary": "吴恩达投资、由微软 AutoGen 早期核心作者创办的 AG2 团队做了个 s.space：群里不只有人，每个人还能带着自己的 Agent 进来。任务分给不同的 AI，它们互相配合，房间还可以对外开放，长出一点社交网络的味道。 各家的AI开始搭伙干活了。 近期 DeepSeek 对外公布了一套 Super-agent 方案，里面有个挺有意思的细节。 研发人员正在群里讨论程序出现的问题，AI看到相关消息后，可以主动尝试复现故障，寻找修复办",
+      "publishedAt": "2026-11-04T07:04:17.000Z",
+      "url": "https://www.woshipm.com/ai/6488908.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -203,16 +162,176 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6488400.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6488908.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "昨晚推上最热的研究：我们可能可以像编程一样，让 AI 编写 AI 模型的权重文件。团队用 GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重，只改动 0.016%，MATH-500 准确率就提到原来的约 6 倍，IFEval 指令跟随提到约 3 倍。 昨晚推上 AI 圈最热门的研究： 我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。 有个团队用 GPT-6 Astra 直接编辑了 Qwen3.5-0.",
+      "brief": "吴恩达投资、由微软 AutoGen 早期核心作者创办的 AG2 团队做了个 s.space：群里不只有人，每个人还能带着自己的 Agent 进来。任务分给不同的 AI，它们互相配合，房间还可以对外开放，长出一点社交网络的味道。 各家的AI开始搭伙干活了。 近期 DeepSeek 对外公布了一套 Super-agent 方案，里面有个挺有意思的细节。 研发人员正在群里讨论程序出现的问题，AI看到相关消息后，可以主动尝试复现故障，寻找修复办",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6488877.html",
+      "title": "开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。",
+      "summary": "那套折腾了一年的 Agent 自动化系统发出去后，收到最多的一句话是：能不能开源。作者重新梳理架构，借 Pi 的极简内核与 Extensions 设计，也借 DeepSeek Harness 一切皆插件的思路，把它抽成了一套轻量、可扩展的版本。 周一发了一篇我的Agent自动化系统：折腾了整整1年，毫无保留地分享一下我这套Agent自动化系统。 发之前真的战战兢兢，因为这其实就是我自己这段时间的探索，我自己用的确实很爽，但是我不确定，它",
+      "publishedAt": "2026-11-04T07:00:10.000Z",
+      "url": "https://www.woshipm.com/ai/6488877.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6488877.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "那套折腾了一年的 Agent 自动化系统发出去后，收到最多的一句话是：能不能开源。作者重新梳理架构，借 Pi 的极简内核与 Extensions 设计，也借 DeepSeek Harness 一切皆插件的思路，把它抽成了一套轻量、可扩展的版本。 周一发了一篇我的Agent自动化系统：折腾了整整1年，毫无保留地分享一下我这套Agent自动化系统。 发之前真的战战兢兢，因为这其实就是我自己这段时间的探索，我自己用的确实很爽，但是我不确定，它",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/hashference",
+      "title": "Hashference",
+      "summary": "Fund 45+ top AI models using your idle CPU/GPU compute",
+      "publishedAt": "2026-11-03T23:09:16.000Z",
+      "url": "https://www.producthunt.com/products/hashference",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/hashference",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Fund 45+ top AI models using your idle CPU/GPU compute",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/freeport-markets",
+      "title": "Freeport Markets",
+      "summary": "Our proprietary AI finds the top onchain wallets to copy",
+      "publishedAt": "2026-11-03T21:56:35.000Z",
+      "url": "https://www.producthunt.com/products/freeport-markets",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/freeport-markets",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Our proprietary AI finds the top onchain wallets to copy",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/pasteguard-2",
+      "title": "PasteGuard for Mac",
+      "summary": "Keep secrets and personal data out of AI chats",
+      "publishedAt": "2026-11-03T18:42:44.000Z",
+      "url": "https://www.producthunt.com/products/pasteguard-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/pasteguard-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Keep secrets and personal data out of AI chats",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/post/118317",
@@ -252,126 +371,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/nexupira",
-      "title": "NEXUPIRA",
-      "summary": "AI teammates that hand back finished work",
-      "publishedAt": "2026-11-03T06:48:10.000Z",
-      "url": "https://www.producthunt.com/products/nexupira",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/nexupira",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI teammates that hand back finished work",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/one-roof",
-      "title": "One Roof",
-      "summary": "A new way to build with agents. You stay in charge.",
-      "publishedAt": "2026-11-03T01:06:08.000Z",
-      "url": "https://www.producthunt.com/products/one-roof",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/one-roof",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "A new way to build with agents. You stay in charge.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/nana-2",
-      "title": "nana",
-      "summary": "One terminal for every coding agent, on Windows",
-      "publishedAt": "2026-11-03T00:12:59.000Z",
-      "url": "https://www.producthunt.com/products/nana-2",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/nana-2",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "One terminal for every coding agent, on Windows",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
