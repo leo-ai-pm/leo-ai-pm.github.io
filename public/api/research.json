@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-05T09:35:02.005Z",
-      "lastSuccessAt": "2026-11-05T09:35:02.005Z",
-      "nextCheckAt": 1793874902005,
+      "checkedAt": "2026-11-05T17:36:12.575Z",
+      "lastSuccessAt": "2026-11-05T17:36:12.575Z",
+      "nextCheckAt": 1793903772575,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-05T09:35:02.006Z",
-      "lastSuccessAt": "2026-11-05T09:35:02.006Z",
-      "nextCheckAt": 1793874902006,
+      "checkedAt": "2026-11-05T17:36:12.576Z",
+      "lastSuccessAt": "2026-11-05T17:36:12.576Z",
+      "nextCheckAt": 1793903772576,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-05T09:35:02.007Z",
-      "lastSuccessAt": "2026-11-05T09:35:02.007Z",
-      "nextCheckAt": 1793874902007,
+      "checkedAt": "2026-11-05T17:36:12.578Z",
+      "lastSuccessAt": "2026-11-05T17:36:12.578Z",
+      "nextCheckAt": 1793903772578,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-05T17:36:12.672Z",
+      "lastSuccessAt": "2026-11-05T17:36:12.672Z",
+      "nextCheckAt": 1793903772672,
       "status": "ok",
-      "nextCheckAt": 1793874902162,
-      "checkedAt": "2026-11-05T09:35:02.162Z",
-      "lastSuccessAt": "2026-11-05T09:35:02.162Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793874902005,
+  "nextCheckAt": 1793903772575,
   "refreshing": false,
   "items": [
     {
@@ -294,15 +294,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/chatgpt-images-2-6",
-      "title": "ChatGPT Images 2.6",
-      "summary": "GIFs, reusable reference images and 50% faster generation",
-      "publishedAt": "2026-11-05T00:41:38.000Z",
-      "url": "https://www.producthunt.com/products/chatgpt-images-2-6",
+      "id": "ph:https://www.producthunt.com/products/foundermail-2",
+      "title": "FounderMail",
+      "summary": "Mail for you and your agents, on your Cloudflare domain",
+      "publishedAt": "2026-11-04T19:46:10.000Z",
+      "url": "https://www.producthunt.com/products/foundermail-2",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -322,11 +322,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/chatgpt-images-2-6",
+      "sourceUrl": "https://www.producthunt.com/products/foundermail-2",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "GIFs, reusable reference images and 50% faster generation",
+      "brief": "Mail for you and your agents, on your Cloudflare domain",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -367,46 +367,6 @@
       "category": "工作流与实践",
       "platform": "中文媒体",
       "brief": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/post/118317",
-      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。",
-      "publishedAt": "2026-11-03T07:12:54.000Z",
-      "url": "https://sspai.com/post/118317",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/post/118317",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。",
       "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
