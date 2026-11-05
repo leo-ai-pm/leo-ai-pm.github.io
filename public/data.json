@@ -1,7 +1,7 @@
 {
   "date": "2026年11月5日",
   "demo": false,
-  "updatedAt": "2026-11-04T21:56:33.601Z",
+  "updatedAt": "2026-11-05T09:35:10.786Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 174,
+    "received": 195,
     "latestCount": 3,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 2,
+        "status": "本次收录"
       },
       {
         "handle": "karpathy",
@@ -110,8 +110,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -119,7 +119,7 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 2,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -144,59 +144,22 @@
   },
   "items": [
     {
-      "id": "aihot-crbpi7d36v9t11at11ubdjgg6",
-      "title": "OpenAI 反对人类被 AI 边缘化",
-      "brief": "人应当始终掌控未来。",
-      "summary": "人应当始终掌控未来。",
-      "category": "AI 动态",
+      "id": "aihot-vepefw88ym7jdtjr7l9pp8mit",
+      "title": "OpenAI 团队用网络模型单次运行验证并修补 Linux 内核 948 个本地提权漏洞",
+      "brief": "OpenAI 安全研究人员构建了自主化的漏洞发现、利用与修补流水线，作者 Tibo 转发该成果并表示团队将在未来数月分享更多工作。",
+      "summary": "OpenAI 安全研究人员构建了自主化的漏洞发现、利用与修补流水线，作者 Tibo 转发该成果并表示团队将在未来数月分享更多工作。",
+      "category": "行业观察",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2117794005165748448",
-      "aggregateUrl": "https://aihot.news/items/crbpi7d36v9t11at11ubdjgg6",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2118146794362405231",
+      "aggregateUrl": "https://aihot.news/items/vepefw88ym7jdtjr7l9pp8mit",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-04T01:40:12.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "AI 动态",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-zich01p3hiskiuyapwskpveuj",
-      "title": "Pierre Computer 加入 OpenAI，其开源开发者工具已用于 Codex",
-      "brief": "OpenAI 总裁 Greg Brockman 宣布 @pierrecomputer（Pierre Computer Company）加入 OpenAI。",
-      "summary": "OpenAI 总裁 Greg Brockman 宣布 @pierrecomputer（Pierre Computer Company）加入 OpenAI。",
-      "category": "行业观察",
-      "topic": "Agent",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "gdb",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Greg Brockman · @gdb",
-      "feedName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2118042051057250377",
-      "aggregateUrl": "https://aihot.news/items/zich01p3hiskiuyapwskpveuj",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-04T18:05:50.000Z",
+      "publishedAt": "2026-11-05T01:02:03.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -209,6 +172,43 @@
           }
         ],
         "caption": "行业观察",
+        "author": {
+          "name": "Tibo Sottiaux",
+          "asset": "/assets/identities/thsottiaux.jpg",
+          "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-eoav9ea3p1g5xhf2a57dga4nx",
+      "title": "ChatGPT Images 2.6 发布，新增 GIF 与参考图功能",
+      "brief": "Greg Brockman 转发 OpenAI 公告宣布 ChatGPT Images 2.6 上线。",
+      "summary": "Greg Brockman 转发 OpenAI 公告宣布 ChatGPT Images 2.6 上线。",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "gdb",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Greg Brockman · @gdb",
+      "feedName": "X：Greg Brockman (@gdb)",
+      "sourceUrl": "https://x.com/gdb/status/2118174986544488876",
+      "aggregateUrl": "https://aihot.news/items/eoav9ea3p1g5xhf2a57dga4nx",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-11-05T02:54:05.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Greg Brockman",
+            "asset": "/assets/identities/gdb.jpg",
+            "assetSource": "https://x.com/gdb",
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "产品动态",
         "author": {
           "name": "Greg Brockman",
           "asset": "/assets/identities/gdb.jpg",
@@ -295,38 +295,158 @@
   "ranking": [
     {
       "rank": 1,
+      "id": "wwltahauj3uhzwy9yizi2i6f3",
+      "title": "OpenAI 发布 Images 2.6：ChatGPT 可生成 GIF，API 上线两款模型",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6",
+      "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
+      "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
+      "sourceCount": 8,
+      "participantCount": 46,
+      "latestAt": "2026-11-05T07:03:17.000Z",
+      "expanded": true,
+      "latest": "OpenAI 发布 GPT-Image-2.6 Flare 与 Sunburst，新增 GIF、SVG 导出和 6 秒生成",
+      "reports": [
+        {
+          "title": "OpenAI 发布 GPT-Image-2.6 Flare 与 Sunburst，新增 GIF、SVG 导出和 6 秒生成",
+          "sourceName": "MarkTechPost（RSS）",
+          "sourceUrl": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+          "aihotUrl": "https://aihot.news/items/mcab7bd12n30tbwsd97xqpizh",
+          "publishedAt": "2026-11-05T07:03:17.000Z"
+        },
+        {
+          "title": "ChatGPT Images 2.6 发布，新增 GIF 与参考图功能",
+          "sourceName": "X：Greg Brockman (@gdb)",
+          "sourceUrl": "https://x.com/gdb/status/2118174986544488876",
+          "aihotUrl": "https://aihot.news/items/eoav9ea3p1g5xhf2a57dga4nx",
+          "publishedAt": "2026-11-05T02:54:05.000Z"
+        },
+        {
+          "title": "OpenAI 发布 ChatGPT Images 2.6，支持生成动图和复用参考图",
+          "sourceName": "X：ChatGPT (@ChatGPT)",
+          "sourceUrl": "https://x.com/ChatGPT/status/2118168231617700199",
+          "aihotUrl": "https://aihot.news/items/rxbccxa9of5e3e4v07auo0kmp",
+          "publishedAt": "2026-11-05T02:27:14.000Z"
+        }
+      ],
+      "related": [
+        {
+          "title": "OpenAI 推出参考图保存复用功能",
+          "storyUrl": "https://aihot.news/story/7142d92b-48b2-4d8d-aa8c-53900c3f74eb"
+        },
+        {
+          "title": "OpenAI 升级 Codex 图像编辑交互",
+          "storyUrl": "https://aihot.news/story/74dda250-d3eb-4db4-b24c-fb6442a04b12"
+        }
+      ],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "jsdt72s1n09hnlezc2uqqg1da",
+      "title": "Claude Code 产品负责人 Cat Wu 转投 OpenAI",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2118138648214585591",
+      "aihotUrl": "https://aihot.news/items/jsdt72s1n09hnlezc2uqqg1da",
+      "storyUrl": "https://aihot.news/story/0b20bea7-a1d4-451e-bb1b-38c63fadf89f",
+      "sourceCount": 2,
+      "participantCount": 29,
+      "latestAt": "2026-11-05T00:29:41.000Z",
+      "expanded": true,
+      "latest": "Cat Wu 宣布加入 OpenAI 担任核心产品负责人",
+      "reports": [
+        {
+          "title": "Cat Wu 宣布加入 OpenAI 担任核心产品负责人",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "sourceUrl": "https://x.com/thsottiaux/status/2118138648214585591",
+          "aihotUrl": "https://aihot.news/items/jsdt72s1n09hnlezc2uqqg1da",
+          "publishedAt": "2026-11-05T00:29:41.000Z"
+        },
+        {
+          "title": "OpenAI 迎来 Cat Wu 负责核心产品",
+          "sourceName": "X：Greg Brockman (@gdb)",
+          "sourceUrl": "https://x.com/gdb/status/2118138320375136695",
+          "aihotUrl": "https://aihot.news/items/qvj3vkf6aagjfet1txpmwfzu6",
+          "publishedAt": "2026-11-05T00:28:23.000Z"
+        },
+        {
+          "title": "Anthropic Claude Code 产品负责人 Cat Wu 跳槽 OpenAI",
+          "sourceName": "X：Cat Wu（Anthropic，Claude Code 产品负责人） (@_catwu)",
+          "sourceUrl": "https://x.com/_catwu/status/2118137612577968402",
+          "aihotUrl": "https://aihot.news/items/vuczr7bm6ge6s1vnezna4ifxn",
+          "publishedAt": "2026-11-05T00:25:34.000Z"
+        }
+      ],
+      "related": [
+        {
+          "title": "Claude Code 产品负责人 Cat Wu 宣布离开 Anthropic",
+          "storyUrl": "https://aihot.news/story/dbad8163-0b5e-4bbf-958a-b5ba34b8f2c9"
+        }
+      ],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          },
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "Claude Code",
+        "author": null
+      }
+    },
+    {
+      "rank": 3,
       "id": "z6j7q1gcuwsjjpx3qbtnvl2b3",
       "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作",
       "sourceName": "公众号：腾讯混元",
       "sourceUrl": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
       "aihotUrl": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
       "storyUrl": "https://aihot.news/story/491d220c-9d57-4295-af9f-e4382561b3f7",
-      "sourceCount": 5,
-      "participantCount": 27,
-      "latestAt": "2026-11-04T17:35:07.000Z",
+      "sourceCount": 7,
+      "participantCount": 35,
+      "latestAt": "2026-11-05T07:55:27.000Z",
       "expanded": true,
-      "latest": "OpenClaw 支持腾讯混元 Hy4 模型",
+      "latest": "腾讯发布 Hy4 模型，称其跻身中国顶尖模型之列并计划开源权重",
       "reports": [
         {
-          "title": "Latent Space 幕后访谈：Kill My SaaS、Jev 与 2026 年 AI 展望及 AI Engineer 上海站",
-          "sourceName": "Latent Space（RSS）",
-          "sourceUrl": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
-          "aihotUrl": "https://aihot.news/items/qh3yf0i9zuqo0m7sgo601taho",
-          "publishedAt": "2026-11-04T19:17:30.000Z"
+          "title": "腾讯发布 Hy4 模型，称其跻身中国顶尖模型之列并计划开源权重",
+          "sourceName": "X：X.PIN (@thexpin)",
+          "sourceUrl": "https://x.com/thexpin/status/2118250829195120743",
+          "aihotUrl": "https://aihot.news/items/cbdgw8lsvan2m0wl5wddax4om",
+          "publishedAt": "2026-11-05T07:55:27.000Z"
         },
         {
-          "title": "OpenClaw 支持腾讯混元 Hy4 模型",
-          "sourceName": "X：OpenClaw (@openclaw)",
-          "sourceUrl": "https://x.com/openclaw/status/2118034317024923652",
-          "aihotUrl": "https://aihot.news/items/o9ls8b5otqv36vynok884y2ay",
-          "publishedAt": "2026-11-04T17:35:07.000Z"
+          "title": "腾讯混元 Hy4 现已支持在 OpenClaw 中使用",
+          "sourceName": "X：腾讯混元 (@TencentHunyuan)",
+          "sourceUrl": "https://x.com/TencentHunyuan/status/2118170021856006185",
+          "aihotUrl": "https://aihot.news/items/obzx6c2f12228rusl9kms4me0",
+          "publishedAt": "2026-11-05T02:34:21.000Z"
         },
         {
-          "title": "混元 Hy4 登上 Agent Arena 总榜第14名",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2117878267504103555",
-          "aihotUrl": "https://aihot.news/items/w8wo5grevjwdhfetomcgyp19c",
-          "publishedAt": "2026-11-04T07:15:01.000Z"
+          "title": "腾讯混元Hy4即将上线Chutes",
+          "sourceName": "X：腾讯混元 (@TencentHunyuan)",
+          "sourceUrl": "https://x.com/TencentHunyuan/status/2118169289996009784",
+          "aihotUrl": "https://aihot.news/items/njt8r5kuxihgbz09743ocymzq",
+          "publishedAt": "2026-11-05T02:31:27.000Z"
         }
       ],
       "related": [],
@@ -344,7 +464,63 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "id": "c39s97tylya5njp0nro6dwvbx",
+      "title": "OpenAI宣布收购Pierre，工具将并入Codex",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
+      "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+      "storyUrl": "https://aihot.news/story/eb3a8a76-8af1-48fb-8fa0-67903c2b1174",
+      "sourceCount": 3,
+      "participantCount": 27,
+      "latestAt": "2026-11-05T07:06:27.400Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "ewubpx7n7eojfvgdx6bbrd7vl",
+      "title": "OpenAI称AI管线单次运行发现并修补948个Linux内核提权漏洞",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "aihotUrl": "https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl",
+      "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
+      "sourceCount": 2,
+      "participantCount": 20,
+      "latestAt": "2026-11-05T01:06:09.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "lnc48gxlu5nv0he3mw57lzmc6",
       "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
       "sourceName": "IT之家·人工智能",
@@ -352,33 +528,11 @@
       "aihotUrl": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
       "storyUrl": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c",
       "sourceCount": 3,
-      "participantCount": 30,
+      "participantCount": 31,
       "latestAt": "2026-11-04T17:17:16.000Z",
-      "expanded": true,
-      "latest": "Apple Intelligence 国行版登陆 iOS 27.3 beta，由千问替代 ChatGPT 角色",
-      "reports": [
-        {
-          "title": "Apple Intelligence 国行版登陆 iOS 27.3 beta，由千问替代 ChatGPT 角色",
-          "sourceName": "X：X.PIN (@thexpin)",
-          "sourceUrl": "https://x.com/thexpin/status/2118029825273372700",
-          "aihotUrl": "https://aihot.news/items/edjd7a5t00gpx7p8vznynf7jf",
-          "publishedAt": "2026-11-04T17:17:16.000Z"
-        },
-        {
-          "title": "国行 Apple 智能上线，创作内容与问询结果可同步至千问 App",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/022/459.htm",
-          "aihotUrl": "https://aihot.news/items/iwhw5w73kliypy8kgnpgrxw0u",
-          "publishedAt": "2026-11-04T14:49:55.467Z"
-        },
-        {
-          "title": "国行 Apple 智能随 iOS 27.3 首个开发者预览版上线，AirPods 实时翻译与千问拓展可用",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/021/867.htm",
-          "aihotUrl": "https://aihot.news/items/tprykxaxfdm5byq3z2h4lpzh5",
-          "publishedAt": "2026-11-03T20:31:34.443Z"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -394,7 +548,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 7,
       "id": "j99nj0yitnbi20hvpezfh3jwd",
       "title": "Google将AI学习功能引入Search和Classroom，学校禁用AI即失去搜索",
       "sourceName": "TechCrunch：AI（RSS）",
@@ -404,31 +558,9 @@
       "sourceCount": 6,
       "participantCount": 32,
       "latestAt": "2026-11-04T16:17:22.000Z",
-      "expanded": true,
-      "latest": "Google 计划对限制 AI 的学校关闭 Search 引发强烈反弹",
-      "reports": [
-        {
-          "title": "Google 计划对限制 AI 的学校关闭 Search 引发强烈反弹",
-          "sourceName": "TechCrunch：AI（RSS）",
-          "sourceUrl": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-          "aihotUrl": "https://aihot.news/items/j99nj0yitnbi20hvpezfh3jwd",
-          "publishedAt": "2026-11-04T16:17:22.000Z"
-        },
-        {
-          "title": "Google 将自 2027 年起要求学校接受 AI，否则失去搜索服务",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
-          "aihotUrl": "https://aihot.news/items/mzlmev2zje7yj8qvnlzu0ewz4",
-          "publishedAt": "2026-11-04T10:06:23.000Z"
-        },
-        {
-          "title": "谷歌调整美国中小学账户设置：开启搜索即同时开放 AI 功能",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/022/039.htm",
-          "aihotUrl": "https://aihot.news/items/v590qvrsbs23i0uh5fmu0hnuv",
-          "publishedAt": "2026-11-04T05:18:42.937Z"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -444,35 +576,7 @@
       }
     },
     {
-      "rank": 4,
-      "id": "bftb013beiqxu4fyu7kz899d3",
-      "title": "MIT 称 GPT-6 Astra 可直接改写模型权重",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
-      "aihotUrl": "https://aihot.news/items/bftb013beiqxu4fyu7kz899d3",
-      "storyUrl": "https://aihot.news/story/6967bf9e-459b-487f-93ce-2804c3605d57",
-      "sourceCount": 3,
-      "participantCount": 41,
-      "latestAt": "2026-11-04T15:44:44.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "GPT-6 Astra",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
+      "rank": 8,
       "id": "kxvpm36cquem6hg00nbzleoxs",
       "title": "Anthropic 开源 FlashProve 可验证推理原型",
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -480,7 +584,7 @@
       "aihotUrl": "https://aihot.news/items/kxvpm36cquem6hg00nbzleoxs",
       "storyUrl": "https://aihot.news/story/f33dbd76-b66f-428a-a7ec-f89e1db4f51b",
       "sourceCount": 6,
-      "participantCount": 27,
+      "participantCount": 26,
       "latestAt": "2026-11-04T15:23:49.000Z",
       "expanded": false,
       "latest": "",
@@ -500,100 +604,16 @@
       }
     },
     {
-      "rank": 6,
-      "id": "c39s97tylya5njp0nro6dwvbx",
-      "title": "OpenAI宣布收购Pierre，整合其开源工具入Codex",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
-      "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
-      "storyUrl": "https://aihot.news/story/eb3a8a76-8af1-48fb-8fa0-67903c2b1174",
-      "sourceCount": 2,
-      "participantCount": 14,
-      "latestAt": "2026-11-04T18:41:03.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
-      "id": "abv1492kvkjfo2kba1wzbxf1y",
-      "title": "Claude Code 产品负责人 Cat Wu 宣布离开 Anthropic",
-      "sourceName": "X：Cat Wu（Anthropic，Claude Code 产品负责人） (@_catwu)",
-      "sourceUrl": "https://x.com/_catwu/status/2117731934340337676",
-      "aihotUrl": "https://aihot.news/items/abv1492kvkjfo2kba1wzbxf1y",
-      "storyUrl": "https://aihot.news/story/dbad8163-0b5e-4bbf-958a-b5ba34b8f2c9",
-      "sourceCount": 1,
-      "participantCount": 18,
-      "latestAt": "2026-11-03T21:33:33.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "se9yjzn1asv817vcahsxd5zpw",
-      "title": "Kimi K3.1 Pro 开放权重，Agent Arena 排名更新",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2118059884055024027",
-      "aihotUrl": "https://aihot.news/items/se9yjzn1asv817vcahsxd5zpw",
-      "storyUrl": "https://aihot.news/story/15efbad3-9146-4460-bf45-1b186ff2c4ba",
-      "sourceCount": 3,
-      "participantCount": 10,
-      "latestAt": "2026-11-04T21:09:09.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 9,
-      "id": "jewkzjk0ckkx6xh7jej8nes5e",
-      "title": "Canva十年来首次增长放缓，22%员工受裁员重组影响",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2117753200854077766",
-      "aihotUrl": "https://aihot.news/items/jewkzjk0ckkx6xh7jej8nes5e",
-      "storyUrl": "https://aihot.news/story/d38a33f9-5a87-4e04-b800-0c7185a28e86",
-      "sourceCount": 1,
+      "id": "a4rxrr84ifhtp0l9hlc1hx3hl",
+      "title": "Meta收购Conductor，产品将逐步关停",
+      "sourceName": "Conductor 官方更新",
+      "sourceUrl": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+      "aihotUrl": "https://aihot.news/items/a4rxrr84ifhtp0l9hlc1hx3hl",
+      "storyUrl": "https://aihot.news/story/dfa910ce-d2f0-4f43-844a-e8798fd89b9e",
+      "sourceCount": 3,
       "participantCount": 14,
-      "latestAt": "2026-11-03T22:58:03.000Z",
+      "latestAt": "2026-11-05T07:19:12.717Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -601,7 +621,7 @@
       "visual": {
         "entities": [
           {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "name": "Conductor 官方更新",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -613,15 +633,15 @@
     },
     {
       "rank": 10,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "sourceCount": 5,
-      "participantCount": 25,
-      "latestAt": "2026-11-04T21:15:13.000Z",
+      "id": "m7gpmuxbkmaguxesyq1b13zae",
+      "title": "GPT-6.2 Astra 疑灰度测试，传最快周五发布",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/021/352.htm",
+      "aihotUrl": "https://aihot.news/items/m7gpmuxbkmaguxesyq1b13zae",
+      "storyUrl": "https://aihot.news/story/19a3dc92-fd4a-4b56-a50a-4ee4f0146f69",
+      "sourceCount": 1,
+      "participantCount": 17,
+      "latestAt": "2026-11-05T01:28:58.147Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -629,10 +649,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",

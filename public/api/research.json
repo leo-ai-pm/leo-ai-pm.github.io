@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-04T21:56:18.645Z",
-      "lastSuccessAt": "2026-11-04T21:56:18.645Z",
-      "nextCheckAt": 1793832978645,
+      "checkedAt": "2026-11-05T09:35:02.005Z",
+      "lastSuccessAt": "2026-11-05T09:35:02.005Z",
+      "nextCheckAt": 1793874902005,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-05T09:35:02.006Z",
+      "lastSuccessAt": "2026-11-05T09:35:02.006Z",
+      "nextCheckAt": 1793874902006,
       "status": "ok",
-      "nextCheckAt": 1793832978646,
-      "checkedAt": "2026-11-04T21:56:18.646Z",
-      "lastSuccessAt": "2026-11-04T21:56:18.646Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-04T21:56:18.647Z",
-      "lastSuccessAt": "2026-11-04T21:56:18.647Z",
-      "nextCheckAt": 1793832978647,
+      "checkedAt": "2026-11-05T09:35:02.007Z",
+      "lastSuccessAt": "2026-11-05T09:35:02.007Z",
+      "nextCheckAt": 1793874902007,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1793832978860,
-      "checkedAt": "2026-11-04T21:56:18.860Z",
-      "lastSuccessAt": "2026-11-04T21:56:18.860Z",
+      "nextCheckAt": 1793874902162,
+      "checkedAt": "2026-11-05T09:35:02.162Z",
+      "lastSuccessAt": "2026-11-05T09:35:02.162Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,249 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793832978645,
+  "nextCheckAt": 1793874902005,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6489257.html",
+      "title": "Personal Agent，蚂蚁想让灵光不止一闪",
+      "summary": "灵光2.0从生成小工具转向Personal Agent，团队集体入驻小红书寻求用户共创，试图让用户把生活杂事交给它。然而接口受限、体验卡点频出，留存数据也不及竞品。蚂蚁在AI to C赛道同时押注阿宝、阿福与灵光，内部资源博弈与外部平台竞争交织，这场接替支付宝入口的赌局才刚刚开始。 灵光团队集体现身小红书，暴露了蚂蚁押注Personal Agent的决心。 灵光2.0上线后，灵光团队在小红书社区连续发声。 架构师介绍Agent Harn",
+      "publishedAt": "2026-11-05T08:56:16.000Z",
+      "url": "https://www.woshipm.com/ai/6489257.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6489257.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "灵光2.0从生成小工具转向Personal Agent，团队集体入驻小红书寻求用户共创，试图让用户把生活杂事交给它。然而接口受限、体验卡点频出，留存数据也不及竞品。蚂蚁在AI to C赛道同时押注阿宝、阿福与灵光，内部资源博弈与外部平台竞争交织，这场接替支付宝入口的赌局才刚刚开始。 灵光团队集体现身小红书，暴露了蚂蚁押注Personal Agent的决心。 灵光2.0上线后，灵光团队在小红书社区连续发声。 架构师介绍Agent Harn",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6489618.html",
+      "title": "当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」",
+      "summary": "基元律动发布 NeoHorse-1.5-Flash Preview，把上一代模型放回真实任务环里跑完闭环、训出下一代，参数拉到 125B。RSI 从论文概念变成一台工业机器，代价是把三座大山逐个搬开。 2026 年下半年，大模型预训练的算力军备竞赛渐渐退居幕后。几乎所有头部实验室都把筹码推向了同一张牌桌：Agent 与 RSI（递归自我改进）。 一级市场和学术界都在讲模型自我进化的故事，试图用合成数据和强化学习接力枯竭的人类语料。但行业",
+      "publishedAt": "2026-11-05T07:15:58.000Z",
+      "url": "https://www.woshipm.com/ai/6489618.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6489618.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "基元律动发布 NeoHorse-1.5-Flash Preview，把上一代模型放回真实任务环里跑完闭环、训出下一代，参数拉到 125B。RSI 从论文概念变成一台工业机器，代价是把三座大山逐个搬开。 2026 年下半年，大模型预训练的算力军备竞赛渐渐退居幕后。几乎所有头部实验室都把筹码推向了同一张牌桌：Agent 与 RSI（递归自我改进）。 一级市场和学术界都在讲模型自我进化的故事，试图用合成数据和强化学习接力枯竭的人类语料。但行业",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6489516.html",
+      "title": "腾讯灯塔AI公测，一个数据分析与可视化Agent，实测惊艳",
+      "summary": "腾讯灯塔团队把服务内部业务 13 年的数据分析能力做成 Agent 对外开放。接入数据、生成看板、盯盘全流程都能用自然语言完成，没有 SQL 经验的业务人员也能一个人顶一个数据分析团队。 腾讯 Agent 工厂，最近又有新 Agent 上线。 这次是一个数据分析和可视化 Agent：腾讯灯塔 AI。 灯塔 AI，专为数据处理而生。 支持数据接入、分析、看板生成、盯盘全流程数据处理工作。 所有数据分析、处理，都可自然语言对话完成。 没有任",
+      "publishedAt": "2026-11-05T06:54:39.000Z",
+      "url": "https://www.woshipm.com/ai/6489516.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6489516.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "腾讯灯塔团队把服务内部业务 13 年的数据分析能力做成 Agent 对外开放。接入数据、生成看板、盯盘全流程都能用自然语言完成，没有 SQL 经验的业务人员也能一个人顶一个数据分析团队。 腾讯 Agent 工厂，最近又有新 Agent 上线。 这次是一个数据分析和可视化 Agent：腾讯灯塔 AI。 灯塔 AI，专为数据处理而生。 支持数据接入、分析、看板生成、盯盘全流程数据处理工作。 所有数据分析、处理，都可自然语言对话完成。 没有任",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/cc-auto-review",
+      "title": "CC Auto Review",
+      "summary": "macOS app that reviews GitHub PRs w/ your local Claude Code",
+      "publishedAt": "2026-11-05T04:54:13.000Z",
+      "url": "https://www.producthunt.com/products/cc-auto-review",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/cc-auto-review",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "macOS app that reviews GitHub PRs w/ your local Claude Code",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/nvidia",
+      "title": "Nemotron 3.5 Transcribe",
+      "summary": "Intelligent Transcription with a Speech LLM",
+      "publishedAt": "2026-11-05T04:51:07.000Z",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/nvidia",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Intelligent Transcription with a Speech LLM",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/chatgpt-images-2-6",
+      "title": "ChatGPT Images 2.6",
+      "summary": "GIFs, reusable reference images and 50% faster generation",
+      "publishedAt": "2026-11-05T00:41:38.000Z",
+      "url": "https://www.producthunt.com/products/chatgpt-images-2-6",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/chatgpt-images-2-6",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "GIFs, reusable reference images and 50% faster generation",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "sspai:https://sspai.com/post/117713",
       "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
@@ -131,246 +371,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6489233.html",
-      "title": "实测Topview T1：画质接近Seedance 2.5，价格打了四折",
-      "summary": "把同一段琵琶曲打戏、两个体型反差极大的角色丢进 Topview T1，看它能不能撑住长镜头、接住微表情和动作调度。实测下来，1080p 画质、单段 30 秒、最多 50 个参考素材，价格压到每秒 0.22 美元，短剧团队的试错成本被重新算了一遍。 今天的短剧，是不是可以类比10年前的抖音、5年前的TikTok？ 这是最近我经常和朋友探讨的一个问题。 而结论是：AI带来的巨大生产力提升，在视频内容领域将释放一大批普通人可以把握的机会。 我",
-      "publishedAt": "2026-11-04T09:56:07.000Z",
-      "url": "https://www.woshipm.com/ai/6489233.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6489233.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "把同一段琵琶曲打戏、两个体型反差极大的角色丢进 Topview T1，看它能不能撑住长镜头、接住微表情和动作调度。实测下来，1080p 画质、单段 30 秒、最多 50 个参考素材，价格压到每秒 0.22 美元，短剧团队的试错成本被重新算了一遍。 今天的短剧，是不是可以类比10年前的抖音、5年前的TikTok？ 这是最近我经常和朋友探讨的一个问题。 而结论是：AI带来的巨大生产力提升，在视频内容领域将释放一大批普通人可以把握的机会。 我",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6489251.html",
-      "title": "腾讯发布全新大模型，又排名第一了？",
-      "summary": "最近看国产大模型的新闻，我有一种错觉：怎么大家都是第一？咋滴啦，难不成大模型圈误入了手机、汽车行业圈套了？ 9月，小米发布MiMo-V2.6，拿下全球开源大模型第一、国产模型第一。 差不多同一时间，阿里千问Qwen3.8-Max升级，拿下前端编程全球第一。 Kimi、智谱、DeepSeek也都有各自拿得出手的榜单成绩。 11月4日，腾讯混元Hy4正式发布，宣传口径是跻身全球最强开源模型之列。 如果给国产大模型办一场颁奖典礼，主持人可能要",
-      "publishedAt": "2026-11-04T09:45:19.000Z",
-      "url": "https://www.woshipm.com/ai/6489251.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6489251.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "最近看国产大模型的新闻，我有一种错觉：怎么大家都是第一？咋滴啦，难不成大模型圈误入了手机、汽车行业圈套了？ 9月，小米发布MiMo-V2.6，拿下全球开源大模型第一、国产模型第一。 差不多同一时间，阿里千问Qwen3.8-Max升级，拿下前端编程全球第一。 Kimi、智谱、DeepSeek也都有各自拿得出手的榜单成绩。 11月4日，腾讯混元Hy4正式发布，宣传口径是跻身全球最强开源模型之列。 如果给国产大模型办一场颁奖典礼，主持人可能要",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/share/6489154.html",
-      "title": "从用户痛点到产品方案：一次以「走查验证」驱动的原型推演",
-      "summary": "闲鱼交易中信息不对称的痛点如何破解？本文作者从强制验货的失败方案中吸取教训，转向AI引导补全信息的新思路，并借助AI绘画快速生成原型验证。文章详细拆解了从强制到引导的设计转折、关键交互细节，并沉淀出AI辅助原型设计的方法论：AI是副驾驶，产品判断才是方向盘。 一、问题定义与设计目标 在上一篇文章《闲鱼用户交易痛点分析和改进思路》中，我分析了闲鱼交易的核心痛点——买卖双方信息严重不对称（典型如货不对板、到手刀），并在文末给出了几个改进方向",
-      "publishedAt": "2026-11-04T09:09:17.000Z",
-      "url": "https://www.woshipm.com/share/6489154.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6489154.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "闲鱼交易中信息不对称的痛点如何破解？本文作者从强制验货的失败方案中吸取教训，转向AI引导补全信息的新思路，并借助AI绘画快速生成原型验证。文章详细拆解了从强制到引导的设计转折、关键交互细节，并沉淀出AI辅助原型设计的方法论：AI是副驾驶，产品判断才是方向盘。 一、问题定义与设计目标 在上一篇文章《闲鱼用户交易痛点分析和改进思路》中，我分析了闲鱼交易的核心痛点——买卖双方信息严重不对称（典型如货不对板、到手刀），并在文末给出了几个改进方向",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/hashference",
-      "title": "Hashference",
-      "summary": "Fund 45+ top AI models using your idle CPU/GPU compute",
-      "publishedAt": "2026-11-03T23:09:16.000Z",
-      "url": "https://www.producthunt.com/products/hashference",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/hashference",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Fund 45+ top AI models using your idle CPU/GPU compute",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/freeport-markets",
-      "title": "Freeport Markets",
-      "summary": "Our proprietary AI finds the top onchain wallets to copy",
-      "publishedAt": "2026-11-03T21:56:35.000Z",
-      "url": "https://www.producthunt.com/products/freeport-markets",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/freeport-markets",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Our proprietary AI finds the top onchain wallets to copy",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/pasteguard-2",
-      "title": "PasteGuard for Mac",
-      "summary": "Keep secrets and personal data out of AI chats",
-      "publishedAt": "2026-11-03T18:42:44.000Z",
-      "url": "https://www.producthunt.com/products/pasteguard-2",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/pasteguard-2",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Keep secrets and personal data out of AI chats",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
@@ -488,7 +488,7 @@
       "platform": "英文官方博客",
       "brief": "Romina da Costa, head of internal AI and automation at n8n, shares the four principles her team uses to help every team build and own its automations.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"

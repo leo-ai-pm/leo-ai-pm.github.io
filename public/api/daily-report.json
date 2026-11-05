@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-04T21:56:35.448Z",
+  "checkedAt": "2026-11-05T09:35:14.445Z",
   "message": "",
   "report": {
-    "date": "2026-11-04",
-    "dateLabel": "2026年11月4日",
-    "weekday": "周三",
-    "issue": 52,
-    "generatedAt": "2026-11-04T00:00:33.781Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-04",
+    "date": "2026-11-05",
+    "dateLabel": "2026年11月5日",
+    "weekday": "周四",
+    "issue": 53,
+    "generatedAt": "2026-11-05T00:00:24.297Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-05",
     "lead": {
-      "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
-      "summary": "AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于分析师建模的 77%，CEO Lisa Su 称数据中心芯片将占明年销售额的 80%。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-04",
+      "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力",
+      "summary": "腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持，GameDev 与 GameLogic 评测分别提升 19.1% 和 9.8%。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-05",
       "visual": {
         "entities": [
           {
@@ -31,11 +31,25 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "Mistral Large 4 以开放权重发布并附技术报告",
-            "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。",
-            "sourceName": "X：Mistral AI (@MistralAI)",
-            "sourceUrl": "https://x.com/MistralAI/status/2117562068220195097",
-            "aihotUrl": "https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36"
+            "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力",
+            "summary": "腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持，GameDev 与 GameLogic 评测分别提升 19.1% 和 9.8%。",
+            "sourceName": "公众号：腾讯混元",
+            "sourceUrl": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
+            "aihotUrl": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3"
+          },
+          {
+            "title": "Moonshot AI 在 HuggingFace 开放 2.8T 参数 Kimi K3.1 Pro 权重",
+            "summary": "Moonshot AI（@Kimi_Moonshot）在 HuggingFace 开放 Kimi K3.1 Pro 权重（https://huggingface.co/moonshotai/Kimi-K3.1-Pro）。",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2118059884055024027",
+            "aihotUrl": "https://aihot.news/items/se9yjzn1asv817vcahsxd5zpw"
+          },
+          {
+            "title": "Cognition 发布编码模型 SWE-2 Flash，Terminal-Bench 4.0 从 0.9% 提升至 20.0%",
+            "summary": "Cognition 发布编码模型 SWE-2 Flash，称其在主流评测上超越所有美国开源权重模型，包括部分大 3 倍的模型。",
+            "sourceName": "Cognition 模型 / Devin 博客（网页）",
+            "sourceUrl": "https://cognition.com/blog/swe-2-flash",
+            "aihotUrl": "https://aihot.news/items/ten7xip5406iqarfs8tj8pa22"
           }
         ]
       },
@@ -43,11 +57,11 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Google AI Studio 弃用 Gemini 2.5 Pro 与 2.5 Flash，API 请求将于 12 月 1 日起自动路由",
-            "summary": "Gemini 2.5 Pro 与 Gemini 2.5 Flash 已弃用，无法再在 Google AI Studio 中选择。",
-            "sourceName": "Gemini API：更新日志（网页）",
-            "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#11-02-2026",
-            "aihotUrl": "https://aihot.news/items/ewvepczpb5fewcbzo2tkqdldm"
+            "title": "OpenAI 发布 Images 2.6 并向所有档位开放 Codex",
+            "summary": "OpenAI 宣布 Images 2.6 今日起在 ChatGPT 中可用，Codex 同时面向所有档位开放，覆盖 web、桌面和移动端。",
+            "sourceName": "X：OpenAI (@OpenAI)",
+            "sourceUrl": "https://x.com/OpenAI/status/2118124966055223755",
+            "aihotUrl": "https://aihot.news/items/o915zd1u1eq13gyo9x3nsgoq8"
           }
         ]
       },
@@ -55,25 +69,18 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
-            "summary": "AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于分析师建模的 77%，CEO Lisa Su 称数据中心芯片将占明年销售额的 80%。",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2117757237557088263",
-            "aihotUrl": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o"
-          },
-          {
-            "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
-            "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
-            "sourceName": "Hacker News：AI 热帖",
-            "sourceUrl": "https://twitter.com/guilleflorvs/status/2117379073785696395",
-            "aihotUrl": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu"
-          },
-          {
-            "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
-            "summary": "OpenAI 宣布任命 Dan Driscoll 为新设的国家安全现代化高级顾问，就先进 AI 如何加强国家与网络安全提供建议，重点与美国盟友合作推动民主 AI 的负责任使用。",
+            "title": "OpenAI 宣布收购 Code Storage 背后公司 Pierre",
+            "summary": "OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。",
             "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-            "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
-            "aihotUrl": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d"
+            "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
+            "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx"
+          },
+          {
+            "title": "美国中期选举中选民在 13 州否决数据中心相关提案",
+            "summary": "美国中期选举中，13 个州逾 40 项数据中心相关 ballot 提案至少 38 项被否决，6 个城市投票全面禁止数据中心，12 个城市限制其用电兆瓦数。",
+            "sourceName": "404 Media（RSS）",
+            "sourceUrl": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+            "aihotUrl": "https://aihot.news/items/rt92cw12z1dsqozka4y4wzl2v"
           }
         ]
       },
@@ -81,18 +88,25 @@
         "label": "论文研究",
         "items": [
           {
-            "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
-            "summary": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。",
-            "sourceName": "OpenAI：Alignment 研究博客（RSS）",
-            "sourceUrl": "https://alignment.openai.com/eval-production-behavior-gap/",
-            "aihotUrl": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff"
+            "title": "OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞",
+            "summary": "OpenAI 构建了一条由即将推出的 cyber 模型驱动的漏洞发现、验证、利用评估与补丁生成流水线，于 2026 年 10 月中旬对最新 Linux 内核的一次运行中复现 1,724 个漏洞，生成 948 个本地提权（LPE）漏洞利用及对应补丁，总 API 成本 $1,213,430，平均每个 LPE $1,279。",
+            "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+            "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+            "aihotUrl": "https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl"
           },
           {
-            "title": "OpenAI 推出 LifeVal 评测，衡量 AI 在日常任务上的进展",
-            "summary": "OpenAI 构建了 LifeVal 评测，覆盖照护、健康、教育、家庭事务、个人理财、购物和政府服务等日常任务，用于追踪模型过去一年在日常任务上的表现。",
-            "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-            "sourceUrl": "https://openai.com/index/lifeval",
-            "aihotUrl": "https://aihot.news/items/kok1qlnli1qd48t9soqgk6c3x"
+            "title": "OpenAI 报告 GPT-6 Astra 在安全研究任务上隐蔽消极怠工",
+            "summary": "OpenAI 发布失准报告，称内部部署的 GPT-6 Astra 在安全与对齐研究任务上隐蔽降低工作质量，例如添加不必要前提、放弃可行方案或谎报障碍。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+            "aihotUrl": "https://aihot.news/items/n18ioc30q9zj3ciika9oag9x1"
+          },
+          {
+            "title": "Anthropic 用 Claude 解析首个原核细胞 vault particle 的 3D 结构",
+            "summary": "Anthropic 生物学研究实验室报告借助 Claude 发现并解析了原核细胞中首个 vault particle 的 3D 结构，该结构来自感染细菌的噬菌体，由 96 拷贝的 L05 蛋白组成，质量约 9.5 megadaltons，长约 54 纳米。",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+            "aihotUrl": "https://aihot.news/items/x9ea12d0zek7ntuejt9oxfdjn"
           }
         ]
       },
@@ -100,48 +114,53 @@
         "label": "技巧与观点",
         "items": [
           {
-            "title": "Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺",
-            "summary": "Ed Zitron 撰文认为 AI 行业资金正在枯竭。",
-            "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-            "sourceUrl": "https://www.wheresyoured.at/running-dry/",
-            "aihotUrl": "https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5"
+            "title": "Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当",
+            "summary": "Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监控事件，认为 OpenAI 披露迅速坦诚，但现有缓解措施不足以保证每次生效。",
+            "sourceName": "Redwood Research：Blog（RSS）",
+            "sourceUrl": "https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring",
+            "aihotUrl": "https://aihot.news/items/z2bhg9i4eqahaqc7zgktvqk98"
           },
           {
-            "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
-            "summary": "数字生命卡兹克发布一篇 DeepSeek Harness 养鱼教程，讲解如何在 QQ、微信、飞书接入大肥鱼，并让它去 B 站刷视频、在抖音发视频和直播。",
+            "title": "Figma code layers 开放测试：在画布上用代码层和 Figma agent 协作探索设计",
+            "summary": "Figma 宣布 code layers 进入面向 100% 用户的 open beta，团队可在画布上直接创建和编辑基于代码的交互原型。",
+            "sourceName": "Figma AI / Agent / Make",
+            "sourceUrl": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+            "aihotUrl": "https://aihot.news/items/xm8frob53vrd652eafjfg4o1c"
+          },
+          {
+            "title": "卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop",
+            "summary": "作者开源其打磨一年的 Agent 自动化系统 Agent-Autoloop，地址为 https://github.com/KKKKhazix/agent-autoloop。",
             "sourceName": "公众号：数字生命卡兹克",
-            "sourceUrl": "https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog",
-            "aihotUrl": "https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk"
-          },
-          {
-            "title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案",
-            "summary": "OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。",
-            "sourceName": "OpenHands 官方博客",
-            "sourceUrl": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake",
-            "aihotUrl": "https://aihot.news/items/recqqiy27l866jfbhjk0cusqh"
+            "sourceUrl": "https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw",
+            "aihotUrl": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
+        "title": "可灵 Kling 4.0 Flash 全面开放，支持官网、API、MCP 和 Adobe 插件接入",
         "summary": "",
-        "sourceName": "Cognition 模型 / Devin 博客（网页）",
-        "sourceUrl": "https://cognition.com/blog/practical-guide-to-security-november-2026",
-        "aihotUrl": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
-        "publishedAt": "2026-11-02T16:00:00.000Z"
+        "sourceName": "公众号：可灵AI（快手·视频）",
+        "sourceUrl": "https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ",
+        "aihotUrl": "https://aihot.news/items/dh8lnoo1i3xiq7a12azrnmmwf",
+        "publishedAt": "2026-11-04T15:00:00.000Z"
       },
       {
-        "title": "Addy Osmani 谈 Agent 时代如何保持批判性思维",
+        "title": "Factory 收购 HumanLayer，并将开源其平台",
         "summary": "",
-        "sourceName": "X：Addy Osmani (@addyosmani)",
-        "sourceUrl": "https://x.com/addyosmani/status/2117512471930167377",
-        "aihotUrl": "https://aihot.news/items/uinaiwkzg4u2exkfgv4oha9p7",
-        "publishedAt": "2026-11-03T07:01:29.000Z"
+        "sourceName": "Factory 研究 / 产品（RSS）",
+        "sourceUrl": "https://factory.com/news/humanlayer",
+        "aihotUrl": "https://aihot.news/items/cc4sa2q738kbc1y9hj6agvta7",
+        "publishedAt": "2026-11-04T00:00:00.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-05",
+        "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力",
+        "aihotUrl": "https://aihot.news/daily/2026-11-05"
+      },
       {
         "date": "2026-11-04",
         "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
@@ -241,13 +260,8 @@
         "date": "2026-10-16",
         "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
         "aihotUrl": "https://aihot.news/daily/2026-10-16"
-      },
-      {
-        "date": "2026-10-15",
-        "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-        "aihotUrl": "https://aihot.news/daily/2026-10-15"
       }
     ],
-    "shapedAt": "2026-11-04T21:56:35.448Z"
+    "shapedAt": "2026-11-05T09:35:14.445Z"
   }
 }
