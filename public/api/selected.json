@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-05T22:49:31.153Z",
+  "checkedAt": "2026-11-06T02:52:14.721Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "ulp3wiu0wqc134cllhoas33kw",
+      "title": "美国中期选举后数据中心民意反弹引发AI股暴跌",
+      "reason": "文章把美股暴跌与中期选举、数据中心禁建民意串成一条因果链，帮助读者理解AI扩张背后的民生与政治约束。",
+      "summary": "作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ",
+      "aihotUrl": "https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw",
+      "publishedAt": "2026-11-05T23:56:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "bu8612ca3e1uyxjppk56ef1wl",
+      "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
+      "reason": "官方完整披露训练配方、RL 规模与安全评测，开放权重计划和基于基准的定位值得跟踪其后续表现。",
+      "summary": "Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数、17B 激活的 MoE 模型，支持图像输入与 variable effort，Artificial Analysis Intelligence Index 得分 31。",
+      "sourceName": "Thinking Machines Lab：News（网页）",
+      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+      "publishedAt": "2026-11-05T07:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "z16tksw5l40w2edrohnozslkl",
       "title": "OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿",
@@ -278,6 +306,20 @@
       "unselected": false
     },
     {
+      "id": "r3360gkpmqpyyt2ii9cp1k9rz",
+      "title": "百度发布 ERNIE-5.5-Flash-Base 开源 Base 模型，280B 总参数每 token 激活 14B",
+      "reason": "原文给出完整架构细节、训练规模和与同级开源 Base 模型的对比数据，读者可评估其作为后续训练起点的价值。",
+      "summary": "百度文心团队发布 ERNIE-5.5-Flash-Base，在 Hugging Face 开放预训练终点 Base 权重，提供 FP8 与 BF16 两种 safetensors。",
+      "sourceName": "百度文心 ERNIE 官方博客",
+      "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
+      "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
       "id": "d9a7dr6n3w0nh5p2facdqqguu",
       "title": "Goodfire 提出 mechanistic shaping 框架 用内部表征抑制模型走捷径",
       "reason": "论文提出用模型内部表征直接指定解题方式的训练框架，并系统评估了这么做之后监控探针如何退化与恢复。",
@@ -290,65 +332,23 @@
       "category": "paper",
       "categoryLabel": "论文",
       "unselected": false
-    },
+    }
+  ],
+  "week": [
     {
-      "id": "mfhrioi9hwoh0m8q6q2yhjzo7",
-      "title": "PFN 开放翻译特化模型 PLaMo 3 Translate，0.8B 至 31B 四个尺寸可离线运行",
-      "reason": "翻译特化模型以开放权重放出四个尺寸，小型机型也能在断网设备上本地运行，可据此评估端侧翻译部署方案。",
-      "summary": "Preferred Networks 将自家翻译服务使用的翻译特化 LLM PLaMo 3 Translate 以开放权重形式在 Hugging Face 公开，提供 0.8B、2B、8B、31B 四个尺寸。",
-      "sourceName": "Preferred Networks：AI 研究与产品",
-      "sourceUrl": "https://www.preferred.jp/ja/news/pr20261105",
-      "aihotUrl": "https://aihot.news/items/mfhrioi9hwoh0m8q6q2yhjzo7",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "id": "bu8612ca3e1uyxjppk56ef1wl",
+      "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
+      "reason": "官方完整披露训练配方、RL 规模与安全评测，开放权重计划和基于基准的定位值得跟踪其后续表现。",
+      "summary": "Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数、17B 激活的 MoE 模型，支持图像输入与 variable effort，Artificial Analysis Intelligence Index 得分 31。",
+      "sourceName": "Thinking Machines Lab：News（网页）",
+      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+      "publishedAt": "2026-11-05T07:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
       "unselected": false
     },
-    {
-      "id": "lcdap1o18bh6bt70ij66nakij",
-      "title": "Higgsfield 上线 GPT Image 2.6，新用户 7 天无限使用",
-      "reason": "原文说明 GPT Image 2.6 在 Higgsfield 上线的入口和 GIF、参考图等具体用法，新用户可据此评估是否试用。",
-      "summary": "Higgsfield 宣布 GPT Image 2.6 已上线，新用户可 7 天无限使用。",
-      "sourceName": "X：Higgsfield AI (@higgsfield)",
-      "sourceUrl": "https://x.com/higgsfield/status/2118134123533623424",
-      "aihotUrl": "https://aihot.news/items/lcdap1o18bh6bt70ij66nakij",
-      "publishedAt": "2026-11-05T00:11:42.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "ulr0gn1mg4kpj7yz2h2zwp7u1",
-      "title": "OpenAI 称其智能体发现至少 10 种新型 Linux 漏洞利用技术",
-      "reason": "OpenAI 称其智能体发现了至少 10 种此前未知的 Linux 漏洞利用技术，并讨论前沿模型对新型漏洞利用能力的含义。",
-      "summary": "OpenAI 称其智能体发现并使用了至少 10 种新型 Linux 漏洞利用技术，据其及所咨询专家所知均为此前未知的。",
-      "sourceName": "X：OpenAI (@OpenAI)",
-      "sourceUrl": "https://x.com/OpenAI/status/2118119461345739018",
-      "aihotUrl": "https://aihot.news/items/ulr0gn1mg4kpj7yz2h2zwp7u1",
-      "publishedAt": "2026-11-04T23:13:26.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "ewubpx7n7eojfvgdx6bbrd7vl",
-      "title": "OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞",
-      "reason": "OpenAI 官方公开了完整方法论与各阶段 API 成本明细，读者可以据此评估自动化漏洞挖掘的成本收益与防御启示。",
-      "summary": "OpenAI 构建了一条由即将推出的 cyber 模型驱动的漏洞发现、验证、利用评估与补丁生成流水线，于 2026 年 10 月中旬对最新 Linux 内核的一次运行中复现 1,724 个漏洞，生成 948 个本地提权（LPE）漏洞利用及对应补丁，总 API 成本 $1,213,430，平均每个 LPE $1,279。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "aihotUrl": "https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl",
-      "publishedAt": "2026-11-04T08:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    }
-  ],
-  "week": [
     {
       "id": "u904yv6dn7sw6lwjgxxedqd3b",
       "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
@@ -372,6 +372,20 @@
       "sourceUrl": "https://x.com/TencentHunyuan/status/2118288137973854397",
       "aihotUrl": "https://aihot.news/items/fj4zi12biz0b62ckhzg5awcxx",
       "publishedAt": "2026-11-05T10:23:42.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "r3360gkpmqpyyt2ii9cp1k9rz",
+      "title": "百度发布 ERNIE-5.5-Flash-Base 开源 Base 模型，280B 总参数每 token 激活 14B",
+      "reason": "原文给出完整架构细节、训练规模和与同级开源 Base 模型的对比数据，读者可评估其作为后续训练起点的价值。",
+      "summary": "百度文心团队发布 ERNIE-5.5-Flash-Base，在 Hugging Face 开放预训练终点 Base 权重，提供 FP8 与 BF16 两种 safetensors。",
+      "sourceName": "百度文心 ERNIE 官方博客",
+      "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
+      "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -428,34 +442,6 @@
       "sourceUrl": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
       "aihotUrl": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
       "publishedAt": "2026-11-04T04:43:55.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "bfx52184e0ssnqgdq42o8dg36",
-      "title": "Mistral Large 4 以开放权重发布并附技术报告",
-      "reason": "原文给出模型权重开放入口与技术报告链接，读者可以据此了解模型在代码智能体与安全方向的能力定位。",
-      "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。",
-      "sourceName": "X：Mistral AI (@MistralAI)",
-      "sourceUrl": "https://x.com/MistralAI/status/2117562068220195097",
-      "aihotUrl": "https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36",
-      "publishedAt": "2026-11-03T10:18:34.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "qumvtx19rmgmu8mrs6undizlg",
-      "title": "智元发布具身模型 GO-3 Preview，登顶 RoboDojo、RoboTwin、RoboColiseum 三大榜单并计划 2026 年底开源",
-      "reason": "官方详细披露了 GO-3 Preview 的 WRAM 架构、全链路训练方法与真实便利店场景的持续进化数据，可了解具身模型的技术路线。",
-      "summary": "智元于 10 月 29 日发布新一代具身基座模型 GO-3 Preview，登顶 RoboDojo、RoboTwin、RoboColiseum 三大评测榜单，并计划于 2026 年底全面开源。",
-      "sourceName": "AGIBOT 智元（网页）",
-      "sourceUrl": "https://www.agibot.com.cn/article/315/detail/260.html",
-      "aihotUrl": "https://aihot.news/items/qumvtx19rmgmu8mrs6undizlg",
-      "publishedAt": "2026-10-30T09:38:11.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -574,6 +560,20 @@
       "unselected": false
     },
     {
+      "id": "ulp3wiu0wqc134cllhoas33kw",
+      "title": "美国中期选举后数据中心民意反弹引发AI股暴跌",
+      "reason": "文章把美股暴跌与中期选举、数据中心禁建民意串成一条因果链，帮助读者理解AI扩张背后的民生与政治约束。",
+      "summary": "作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ",
+      "aihotUrl": "https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw",
+      "publishedAt": "2026-11-05T23:56:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "z16tksw5l40w2edrohnozslkl",
       "title": "OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿",
       "reason": "作者以内部数据呈现图像生成量的增长速度，可帮助读者感受 ChatGPT 与 API 侧图像需求的变化节奏。",
@@ -666,20 +666,6 @@
       "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
       "aihotUrl": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
       "publishedAt": "2026-11-04T14:30:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "ir9nzccipff0uowu3tghi4n3o",
-      "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
-      "reason": "财报数据具体完整，可据此了解数据中心芯片在 AMD 2027 年增长预期中的占比和 Meta 等客户订单规模。",
-      "summary": "AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于分析师建模的 77%，CEO Lisa Su 称数据中心芯片将占明年销售额的 80%。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2117757237557088263",
-      "aihotUrl": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
-      "publishedAt": "2026-11-03T23:14:06.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -918,6 +904,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "bu8612ca3e1uyxjppk56ef1wl",
+          "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
+          "reason": "官方完整披露训练配方、RL 规模与安全评测，开放权重计划和基于基准的定位值得跟踪其后续表现。",
+          "summary": "Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数、17B 激活的 MoE 模型，支持图像输入与 variable effort，Artificial Analysis Intelligence Index 得分 31。",
+          "sourceName": "Thinking Machines Lab：News（网页）",
+          "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+          "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+          "publishedAt": "2026-11-05T07:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "m5s02uukcl0id6rn7t08f6ya3",
           "title": "Cursor 推出应用构建功能，描述需求即可构建、部署并分享在线应用",
           "reason": "Cursor 官方说明从描述到部署的完整流程，读者可据此评估能否让团队在 IDE 内直接上线内部应用。",
@@ -986,20 +986,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "kl8ufrhv3zm38108gy2d7mins",
-          "title": "Mustafa Suleyman 对特拉华允许 AI 智能体经营企业的提案表示担忧",
-          "reason": "Microsoft AI CEO 对特拉华让 AI 智能体经营企业的立法提案表达审慎态度，可借此了解前沿从业者对智能体法律地位的担忧。",
-          "summary": "Mustafa Suleyman 表示对特拉华州允许 AI 智能体经营企业的提案深感担忧，认为应非常谨慎。",
-          "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "sourceUrl": "https://x.com/mustafasuleyman/status/2118381163136123019",
-          "aihotUrl": "https://aihot.news/items/kl8ufrhv3zm38108gy2d7mins",
-          "publishedAt": "2026-11-05T16:33:21.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
         }
       ]
     },
@@ -1009,6 +995,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "bu8612ca3e1uyxjppk56ef1wl",
+          "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
+          "reason": "官方完整披露训练配方、RL 规模与安全评测，开放权重计划和基于基准的定位值得跟踪其后续表现。",
+          "summary": "Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数、17B 激活的 MoE 模型，支持图像输入与 variable effort，Artificial Analysis Intelligence Index 得分 31。",
+          "sourceName": "Thinking Machines Lab：News（网页）",
+          "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+          "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+          "publishedAt": "2026-11-05T07:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
         {
           "id": "dmvn8r8406f7g9vutizbxqesj",
           "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
@@ -1078,20 +1078,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "gzcwy89nkjreenv5eu1qaysdi",
-          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
-          "reason": "原文用同一批编码与基准任务实测三档模型，给出按工作负载选型的成本与可靠性结论。",
-          "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/",
-          "aihotUrl": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
-          "publishedAt": "2026-10-30T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -1152,20 +1138,6 @@
           "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#10-30-2026",
           "aihotUrl": "https://aihot.news/items/qit1hgequ8pknedqqvuei5wfh",
           "publishedAt": "2026-10-30T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "gjz7lj8j6ojjyj80vkkhy786v",
-          "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
-          "reason": "原文给出 Droid 1.0 的基准对比数据和程序化工具调用设计细节，读者可以据此评估这个 Agent harness 的成本与质量取舍。",
-          "summary": "Factory 发布 Droid 1.0，一个模型无关的 agent harness，主打程序化工具调用（PTC），模型通过编写 JavaScript 程序在沙箱中一次执行数百个工具调用。",
-          "sourceName": "Factory 研究 / 产品（RSS）",
-          "sourceUrl": "https://factory.com/news/frontier-harness",
-          "aihotUrl": "https://aihot.news/items/gjz7lj8j6ojjyj80vkkhy786v",
-          "publishedAt": "2026-10-29T00:00:00.000Z",
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
