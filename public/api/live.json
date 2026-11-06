@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月7日",
     "demo": false,
-    "updatedAt": "2026-11-06T17:23:04.356Z",
+    "updatedAt": "2026-11-06T22:19:20.103Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 198,
-      "latestCount": 3,
+      "received": 187,
+      "latestCount": 2,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -120,8 +120,8 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 3,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "AravSrinivas",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 3,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -177,43 +177,6 @@
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
             "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-zht9tuivnneoi9fzzz1lql2au",
-        "title": "OpenAI 宣布与 JPMorganChase 达成战略合作，重点探索网络安全",
-        "brief": "OpenAI 总裁 Greg Brockman 宣布与 JPMorganChase 达成战略合作，探索用先进 AI 支持其企业运营，包括帮助工程师构建、安全团队防御以及让员工和客户受益于更强 AI。",
-        "summary": "OpenAI 总裁 Greg Brockman 宣布与 JPMorganChase 达成战略合作，探索用先进 AI 支持其企业运营，包括帮助工程师构建、安全团队防御以及让员工和客户受益于更强 AI。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "gdb",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Greg Brockman · @gdb",
-        "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2118410818933203038",
-        "aggregateUrl": "https://aihot.news/items/zht9tuivnneoi9fzzz1lql2au",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-05T18:31:12.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "行业观察",
-          "author": {
-            "name": "Greg Brockman",
-            "asset": "/assets/identities/gdb.jpg",
-            "assetSource": "https://x.com/gdb",
             "tone": "#e9e4dc"
           }
         }
@@ -303,7 +266,7 @@
         "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
         "storyUrl": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219",
         "sourceCount": 11,
-        "participantCount": 42,
+        "participantCount": 43,
         "latestAt": "2026-11-06T02:29:44.000Z",
         "expanded": true,
         "latest": "Higgsfield 上线 Gemini Omni 1.2 Flash",
@@ -346,65 +309,6 @@
       },
       {
         "rank": 2,
-        "id": "wwltahauj3uhzwy9yizi2i6f3",
-        "title": "OpenAI 发布 Images 2.6：ChatGPT 可生成 GIF，API 上线两款模型",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-images-2-6",
-        "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
-        "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
-        "sourceCount": 8,
-        "participantCount": 62,
-        "latestAt": "2026-11-05T07:03:17.000Z",
-        "expanded": true,
-        "latest": "OpenAI 发布 GPT-Image-2.6 Flare 与 Sunburst，新增 GIF、SVG 导出和 6 秒生成",
-        "reports": [
-          {
-            "title": "OpenAI 发布 GPT-Image-2.6 Flare 与 Sunburst，新增 GIF、SVG 导出和 6 秒生成",
-            "sourceName": "MarkTechPost（RSS）",
-            "sourceUrl": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
-            "aihotUrl": "https://aihot.news/items/mcab7bd12n30tbwsd97xqpizh",
-            "publishedAt": "2026-11-05T07:03:17.000Z"
-          },
-          {
-            "title": "ChatGPT Images 2.6 发布，新增 GIF 与参考图功能",
-            "sourceName": "X：Greg Brockman (@gdb)",
-            "sourceUrl": "https://x.com/gdb/status/2118174986544488876",
-            "aihotUrl": "https://aihot.news/items/eoav9ea3p1g5xhf2a57dga4nx",
-            "publishedAt": "2026-11-05T02:54:05.000Z"
-          },
-          {
-            "title": "OpenAI 发布 ChatGPT Images 2.6，支持生成动图和复用参考图",
-            "sourceName": "X：ChatGPT (@ChatGPT)",
-            "sourceUrl": "https://x.com/ChatGPT/status/2118168231617700199",
-            "aihotUrl": "https://aihot.news/items/rxbccxa9of5e3e4v07auo0kmp",
-            "publishedAt": "2026-11-05T02:27:14.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "OpenAI 推出参考图保存复用功能",
-            "storyUrl": "https://aihot.news/story/7142d92b-48b2-4d8d-aa8c-53900c3f74eb"
-          },
-          {
-            "title": "OpenAI 升级 Codex 图像编辑交互",
-            "storyUrl": "https://aihot.news/story/74dda250-d3eb-4db4-b24c-fb6442a04b12"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 3,
         "id": "u904yv6dn7sw6lwjgxxedqd3b",
         "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -412,7 +316,7 @@
         "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
         "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
         "sourceCount": 6,
-        "participantCount": 46,
+        "participantCount": 49,
         "latestAt": "2026-11-05T23:22:55.767Z",
         "expanded": true,
         "latest": "OpenAI 发布网络安全模型 GPT-6 Cyber：ExploitGym 相对提升 51%，发现 Firefox 81 个新漏洞",
@@ -463,16 +367,75 @@
         }
       },
       {
+        "rank": 3,
+        "id": "wwltahauj3uhzwy9yizi2i6f3",
+        "title": "OpenAI 发布 Images 2.6：ChatGPT 可生成 GIF，API 上线两款模型",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-images-2-6",
+        "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
+        "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
+        "sourceCount": 6,
+        "participantCount": 58,
+        "latestAt": "2026-11-06T18:51:10.000Z",
+        "expanded": true,
+        "latest": "fal 上线 GPT Image 2.6 生成 GIF",
+        "reports": [
+          {
+            "title": "fal 上线 GPT Image 2.6 生成 GIF",
+            "sourceName": "X：fal (@fal)",
+            "sourceUrl": "https://x.com/fal/status/2118778232673816649",
+            "aihotUrl": "https://aihot.news/items/n0j82m65z6if232ik2xh30yw3",
+            "publishedAt": "2026-11-06T18:51:10.000Z"
+          },
+          {
+            "title": "fal 上线 gpt-image-2.6 可试用",
+            "sourceName": "X：fal (@fal)",
+            "sourceUrl": "https://x.com/fal/status/2118778235106566382",
+            "aihotUrl": "https://aihot.news/items/zz0hwq5je59rkzmhpbbuf5v83",
+            "publishedAt": "2026-11-06T18:51:10.000Z"
+          },
+          {
+            "title": "OpenAI 发布 GPT-Image-2.6 Flare 与 Sunburst，新增 GIF、SVG 导出和 6 秒生成",
+            "sourceName": "MarkTechPost（RSS）",
+            "sourceUrl": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+            "aihotUrl": "https://aihot.news/items/mcab7bd12n30tbwsd97xqpizh",
+            "publishedAt": "2026-11-05T07:03:17.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "OpenAI 推出参考图保存复用功能",
+            "storyUrl": "https://aihot.news/story/7142d92b-48b2-4d8d-aa8c-53900c3f74eb"
+          },
+          {
+            "title": "OpenAI 升级 Codex 图像编辑交互",
+            "storyUrl": "https://aihot.news/story/74dda250-d3eb-4db4-b24c-fb6442a04b12"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 4,
         "id": "bu8612ca3e1uyxjppk56ef1wl",
-        "title": "Thinking Machines 发布 Inkling 2 Small，先闭源上线 Tinker",
+        "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
         "sourceName": "Thinking Machines Lab：News（网页）",
         "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
         "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
         "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
-        "sourceCount": 7,
-        "participantCount": 22,
-        "latestAt": "2026-11-06T13:25:09.000Z",
+        "sourceCount": 8,
+        "participantCount": 24,
+        "latestAt": "2026-11-06T21:41:38.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -499,7 +462,7 @@
         "aihotUrl": "https://aihot.news/items/m70cbaxy1ew2sgmlkernbvi68",
         "storyUrl": "https://aihot.news/story/16df653b-997f-4488-afe7-4f9c0779fc05",
         "sourceCount": 6,
-        "participantCount": 25,
+        "participantCount": 27,
         "latestAt": "2026-11-06T11:33:13.000Z",
         "expanded": false,
         "latest": "",
@@ -520,6 +483,34 @@
       },
       {
         "rank": 6,
+        "id": "xywgx35ocbe6mzl2pnajw8ruu",
+        "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克，IPO 估值遇投资者压价",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+        "sourceCount": 2,
+        "participantCount": 18,
+        "latestAt": "2026-11-06T14:56:34.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "IPO",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "jsdt72s1n09hnlezc2uqqg1da",
         "title": "Claude Code 产品负责人 Cat Wu 转投 OpenAI",
         "sourceName": "X：Tibo (@thsottiaux)",
@@ -553,34 +544,6 @@
         }
       },
       {
-        "rank": 7,
-        "id": "xywgx35ocbe6mzl2pnajw8ruu",
-        "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克，IPO 估值遇投资者压价",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 3,
-        "participantCount": 16,
-        "latestAt": "2026-11-06T14:56:34.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "IPO",
-          "author": null
-        }
-      },
-      {
         "rank": 8,
         "id": "r3360gkpmqpyyt2ii9cp1k9rz",
         "title": "百度开源 280B 参数 ERNIE 5.5 Flash Base 基座模型",
@@ -589,7 +552,7 @@
         "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz",
         "storyUrl": "https://aihot.news/story/0c969c38-7969-4bd9-9c91-f3cdf9b4a9cd",
         "sourceCount": 4,
-        "participantCount": 20,
+        "participantCount": 21,
         "latestAt": "2026-11-06T02:49:21.000Z",
         "expanded": false,
         "latest": "",
@@ -610,15 +573,15 @@
       },
       {
         "rank": 9,
-        "id": "z6j7q1gcuwsjjpx3qbtnvl2b3",
-        "title": "腾讯混元 Hy4 正式发布，首增视觉与电脑操作",
-        "sourceName": "公众号：腾讯混元",
-        "sourceUrl": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
-        "aihotUrl": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
-        "storyUrl": "https://aihot.news/story/491d220c-9d57-4295-af9f-e4382561b3f7",
-        "sourceCount": 6,
-        "participantCount": 20,
-        "latestAt": "2026-11-06T09:18:42.000Z",
+        "id": "pmd4ouy6vz2ly0p14tkhszbqc",
+        "title": "Meta 在美区 Muse 应用上线实时语音与表情头像",
+        "sourceName": "Meta：Newsroom · AI（RSS）",
+        "sourceUrl": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+        "aihotUrl": "https://aihot.news/items/pmd4ouy6vz2ly0p14tkhszbqc",
+        "storyUrl": "https://aihot.news/story/53c3f1bf-cba4-48c4-a7a3-2af0fcb95380",
+        "sourceCount": 5,
+        "participantCount": 15,
+        "latestAt": "2026-11-06T18:43:12.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -626,7 +589,7 @@
         "visual": {
           "entities": [
             {
-              "name": "公众号：腾讯混元",
+              "name": "Meta：Newsroom · AI（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -638,15 +601,15 @@
       },
       {
         "rank": 10,
-        "id": "pmd4ouy6vz2ly0p14tkhszbqc",
-        "title": "Meta 在美区 Muse 应用上线实时语音与表情头像",
+        "id": "f3hogz1c4bmgbcwblqblumxpv",
+        "title": "Meta在Muse推出spaces并升级模型",
         "sourceName": "Meta：Newsroom · AI（RSS）",
-        "sourceUrl": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
-        "aihotUrl": "https://aihot.news/items/pmd4ouy6vz2ly0p14tkhszbqc",
-        "storyUrl": "https://aihot.news/story/53c3f1bf-cba4-48c4-a7a3-2af0fcb95380",
-        "sourceCount": 5,
-        "participantCount": 15,
-        "latestAt": "2026-11-06T01:35:06.637Z",
+        "sourceUrl": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+        "aihotUrl": "https://aihot.news/items/f3hogz1c4bmgbcwblqblumxpv",
+        "storyUrl": "https://aihot.news/story/5bb5d3ee-b9ff-4cb4-8df8-d487d6bc5b78",
+        "sourceCount": 3,
+        "participantCount": 9,
+        "latestAt": "2026-11-06T21:21:27.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -668,8 +631,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-06T17:23:04.356Z",
-    "nextCheckAt": 1793986084356,
+    "checkedAt": "2026-11-06T22:19:20.103Z",
+    "nextCheckAt": 1794003860103,
     "intervalSeconds": 300,
     "message": ""
   }
