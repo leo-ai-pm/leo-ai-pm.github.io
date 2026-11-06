@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-06T02:51:41.685Z",
-      "lastSuccessAt": "2026-11-06T02:51:41.685Z",
-      "nextCheckAt": 1793937101685,
+      "checkedAt": "2026-11-06T09:57:15.884Z",
+      "lastSuccessAt": "2026-11-06T09:57:15.884Z",
+      "nextCheckAt": 1793962635884,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-06T02:51:41.686Z",
-      "lastSuccessAt": "2026-11-06T02:51:41.686Z",
-      "nextCheckAt": 1793937101686,
+      "checkedAt": "2026-11-06T09:57:15.885Z",
+      "lastSuccessAt": "2026-11-06T09:57:15.885Z",
+      "nextCheckAt": 1793962635885,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-06T02:51:41.687Z",
-      "lastSuccessAt": "2026-11-06T02:51:41.687Z",
-      "nextCheckAt": 1793937101687,
+      "checkedAt": "2026-11-06T09:57:15.887Z",
+      "lastSuccessAt": "2026-11-06T09:57:15.887Z",
+      "nextCheckAt": 1793962635887,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1793937101979,
-      "checkedAt": "2026-11-06T02:51:41.979Z",
-      "lastSuccessAt": "2026-11-06T02:51:41.979Z",
+      "nextCheckAt": 1793962635974,
+      "checkedAt": "2026-11-06T09:57:15.974Z",
+      "lastSuccessAt": "2026-11-06T09:57:15.974Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,60 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1793937101685,
+  "nextCheckAt": 1793962635884,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/evaluating/6489815.html",
-      "title": "豆包工作产品分析：组织级 Agent 的产品拆解",
-      "summary": "豆包工作独立发布，背后是字节将TRAE执行栈、扣子编排生态与飞书企业上下文整合的组织级Agent发行版。本文对比腾讯WorkBuddy、阿里千问办公、百度搭子，从行业规模、竞争格局与商业化数据切入，拆解办公智能体从「模型能力」转向「上下文+工作流+交付质量」的竞争逻辑，并指出入口规模与成本工程才是下一阶段胜负手。 分析对象：豆包工作 对比竞品：腾讯 WorkBuddy、阿里 千问办公、百度 搭子 核心结论： 豆包工作不是「豆包的办公皮肤",
-      "publishedAt": "2026-11-06T02:31:52.000Z",
-      "url": "https://www.woshipm.com/evaluating/6489815.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6490040.html",
+      "title": "Claude Duet主动运行后，企业Agent要把四个边界写进Runtime",
+      "summary": "Agent 从等你敲门变成主动巡逻：查应用、按间隔检查账户、发现事项就提醒，关掉应用也能在云端继续跑。难点因此从能不能调用工具，变成什么时候启动、凭什么授权、信息流向哪、中断后能不能安全继续。 过去的 Agent 很像一个“等你敲门的工具”：用户发出指令，它调用工具，任务结束后返回结果。Claude Duet 把模式往前推了一步，它会查看用户连接的应用，按设定间隔检查账户，生成晨间简报，发现需要处理的事项时再提醒用户；复杂任务即使用户关",
+      "publishedAt": "2026-11-06T07:04:18.000Z",
+      "url": "https://www.woshipm.com/ai/6490040.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6490040.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Agent 从等你敲门变成主动巡逻：查应用、按间隔检查账户、发现事项就提醒，关掉应用也能在云端继续跑。难点因此从能不能调用工具，变成什么时候启动、凭什么授权、信息流向哪、中断后能不能安全继续。 过去的 Agent 很像一个“等你敲门的工具”：用户发出指令，它调用工具，任务结束后返回结果。Claude Duet 把模式往前推了一步，它会查看用户连接的应用，按设定间隔检查账户，生成晨间简报，发现需要处理的事项时再提醒用户；复杂任务即使用户关",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6490033.html",
+      "title": "MiniMax Code 实测，这是一个很有性格的 Agent。",
+      "summary": "花 49 元买了 MiniMax Code 的 Go 套餐，用了几天，最大的印象是这 Agent 很有性格：主动、倔、舍得花时间。three.js 毛线编织农场全用代码织出来，没有一张贴图，M3.1 Flash 的长链路表现也超出预期。 前文：实测，DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技之后，我捅了马蜂窝，很多朋友给建议让测试不同工具和模型 我前两天入了 MiniMax Code 的 Go 套餐，测",
+      "publishedAt": "2026-11-06T06:49:19.000Z",
+      "url": "https://www.woshipm.com/ai/6490033.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,27 +163,107 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/evaluating/6489815.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6490033.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "豆包工作独立发布，背后是字节将TRAE执行栈、扣子编排生态与飞书企业上下文整合的组织级Agent发行版。本文对比腾讯WorkBuddy、阿里千问办公、百度搭子，从行业规模、竞争格局与商业化数据切入，拆解办公智能体从「模型能力」转向「上下文+工作流+交付质量」的竞争逻辑，并指出入口规模与成本工程才是下一阶段胜负手。 分析对象：豆包工作 对比竞品：腾讯 WorkBuddy、阿里 千问办公、百度 搭子 核心结论： 豆包工作不是「豆包的办公皮肤",
+      "brief": "花 49 元买了 MiniMax Code 的 Go 套餐，用了几天，最大的印象是这 Agent 很有性格：主动、倔、舍得花时间。three.js 毛线编织农场全用代码织出来，没有一张贴图，M3.1 Flash 的长链路表现也超出预期。 前文：实测，DeepSeek、Kimi K3.1、Opus 5.5、GPT-6 同台竞技之后，我捅了马蜂窝，很多朋友给建议让测试不同工具和模型 我前两天入了 MiniMax Code 的 Go 套餐，测",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/cc-auto-review",
-      "title": "CC Auto Review",
-      "summary": "macOS app that reviews GitHub PRs w/ your local Claude Code",
-      "publishedAt": "2026-11-05T04:54:13.000Z",
-      "url": "https://www.producthunt.com/products/cc-auto-review",
+      "id": "woshipm:https://www.woshipm.com/pmd/6490019.html",
+      "title": "AI产品经理转型指南：六大方向与能力模型",
+      "summary": "这两年，产品经理圈子里最让人焦虑的事情之一，大概就是要不要转型做AI产品经理。 打开招聘软件，AI产品经理的岗位越来越多，月薪三四万的很常见，有些资深岗位甚至能开到七八万。再回头看看自己做了多年的传统产品，难免有点心动。 但真要投简历，又发现事情没那么简单。 有的岗位要求熟悉大模型训练和评测，有的要求懂Agent、RAG、MCP，还有的要求五年以上金融、制造或企业软件经验。 同样叫AI产品经理，招聘要求却像是完全不同的职业。 更让人郁闷",
+      "publishedAt": "2026-11-06T04:43:14.000Z",
+      "url": "https://www.woshipm.com/pmd/6490019.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/pmd/6490019.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "这两年，产品经理圈子里最让人焦虑的事情之一，大概就是要不要转型做AI产品经理。 打开招聘软件，AI产品经理的岗位越来越多，月薪三四万的很常见，有些资深岗位甚至能开到七八万。再回头看看自己做了多年的传统产品，难免有点心动。 但真要投简历，又发现事情没那么简单。 有的岗位要求熟悉大模型训练和评测，有的要求懂Agent、RAG、MCP，还有的要求五年以上金融、制造或企业软件经验。 同样叫AI产品经理，招聘要求却像是完全不同的职业。 更让人郁闷",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "sspai:https://sspai.com/post/118570",
+      "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+      "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。",
+      "publishedAt": "2026-11-06T03:06:53.000Z",
+      "url": "https://sspai.com/post/118570",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/118570",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "title": "crystl",
+      "summary": "multitasking terminal for AI coding agents, built for macOS",
+      "publishedAt": "2026-11-06T02:44:33.000Z",
+      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,23 +283,23 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/cc-auto-review",
+      "sourceUrl": "https://www.producthunt.com/products/crystl-multitasking-terminal",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "macOS app that reviews GitHub PRs w/ your local Claude Code",
+      "brief": "multitasking terminal for AI coding agents, built for macOS",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/nvidia",
-      "title": "Nemotron 3.5 Transcribe",
-      "summary": "Intelligent Transcription with a Speech LLM",
-      "publishedAt": "2026-11-05T04:51:07.000Z",
-      "url": "https://www.producthunt.com/products/nvidia",
+      "id": "ph:https://www.producthunt.com/products/cloptima",
+      "title": "Cloptima",
+      "summary": "AI Gateway, Guardrails & LLM FinOps",
+      "publishedAt": "2026-11-05T23:40:34.000Z",
+      "url": "https://www.producthunt.com/products/cloptima",
       "linkKind": "original",
       "opportunity": {
         "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
@@ -202,27 +323,27 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/nvidia",
+      "sourceUrl": "https://www.producthunt.com/products/cloptima",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Intelligent Transcription with a Speech LLM",
+      "brief": "AI Gateway, Guardrails & LLM FinOps",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/foundermail-2",
-      "title": "FounderMail",
-      "summary": "Mail for you and your agents, on your Cloudflare domain",
-      "publishedAt": "2026-11-04T19:46:10.000Z",
-      "url": "https://www.producthunt.com/products/foundermail-2",
+      "id": "ph:https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
+      "title": "Codiclens",
+      "summary": "Local AI powerd Mac launcher and file finder",
+      "publishedAt": "2026-11-05T21:12:24.000Z",
+      "url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -242,11 +363,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/foundermail-2",
+      "sourceUrl": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Mail for you and your agents, on your Cloudflare domain",
+      "brief": "Local AI powerd Mac launcher and file finder",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
