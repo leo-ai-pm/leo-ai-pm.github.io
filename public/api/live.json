@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月8日",
     "demo": false,
-    "updatedAt": "2026-11-07T19:28:38.805Z",
+    "updatedAt": "2026-11-07T22:56:41.859Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 86,
+      "received": 57,
       "latestCount": 1,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -222,14 +222,64 @@
     "ranking": [
       {
         "rank": 1,
+        "id": "bu8612ca3e1uyxjppk56ef1wl",
+        "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
+        "sourceName": "Thinking Machines Lab：News（网页）",
+        "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+        "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+        "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
+        "sourceCount": 8,
+        "participantCount": 25,
+        "latestAt": "2026-11-07T16:31:00.000Z",
+        "expanded": true,
+        "latest": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
+        "reports": [
+          {
+            "title": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+            "aihotUrl": "https://aihot.news/items/h1e0zbyqc8p5ps481naunojc2",
+            "publishedAt": "2026-11-07T16:31:00.000Z"
+          },
+          {
+            "title": "Inkling 2 Small 登顶 WebDev 开源榜",
+            "sourceName": "X：Arena (@arena)",
+            "sourceUrl": "https://x.com/arena/status/2118821131268542656",
+            "aihotUrl": "https://aihot.news/items/r9vhw2sw7ngvttl2nuw8n2um5",
+            "publishedAt": "2026-11-06T21:41:38.000Z"
+          },
+          {
+            "title": "Arena 榜单显示 Inkling 2 Small 以 1648 分位列 Code Arena: WebDev 实验室第 8",
+            "sourceName": "X：Arena (@arena)",
+            "sourceUrl": "https://x.com/arena/status/2118799582092288255",
+            "aihotUrl": "https://aihot.news/items/ig2uhv0ty94xcuylusksz6e8j",
+            "publishedAt": "2026-11-06T20:16:00.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Thinking Machines Lab：News（网页）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
         "id": "yjwroxww17lcg4ntcu9ruo105",
         "title": "Google 发布 Omni 1.2 Flash，视频生成提至 15 秒",
         "sourceName": "Google Blog：AI（RSS）",
         "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
         "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
         "storyUrl": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219",
-        "sourceCount": 6,
-        "participantCount": 34,
+        "sourceCount": 3,
+        "participantCount": 27,
         "latestAt": "2026-11-06T02:29:44.000Z",
         "expanded": true,
         "latest": "Higgsfield 上线 Gemini Omni 1.2 Flash",
@@ -271,7 +321,7 @@
         }
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": "xywgx35ocbe6mzl2pnajw8ruu",
         "title": "Anthropic 拟感恩节前 IPO，估值预期下调至 1.25–1.75 万亿美元",
         "sourceName": "Anthropic：Newsroom（网页）",
@@ -334,56 +384,6 @@
         }
       },
       {
-        "rank": 3,
-        "id": "bu8612ca3e1uyxjppk56ef1wl",
-        "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
-        "sourceName": "Thinking Machines Lab：News（网页）",
-        "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
-        "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
-        "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
-        "sourceCount": 8,
-        "participantCount": 25,
-        "latestAt": "2026-11-07T16:31:00.000Z",
-        "expanded": true,
-        "latest": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
-        "reports": [
-          {
-            "title": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
-            "aihotUrl": "https://aihot.news/items/h1e0zbyqc8p5ps481naunojc2",
-            "publishedAt": "2026-11-07T16:31:00.000Z"
-          },
-          {
-            "title": "Inkling 2 Small 登顶 WebDev 开源榜",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2118821131268542656",
-            "aihotUrl": "https://aihot.news/items/r9vhw2sw7ngvttl2nuw8n2um5",
-            "publishedAt": "2026-11-06T21:41:38.000Z"
-          },
-          {
-            "title": "Arena 榜单显示 Inkling 2 Small 以 1648 分位列 Code Arena: WebDev 实验室第 8",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2118799582092288255",
-            "aihotUrl": "https://aihot.news/items/ig2uhv0ty94xcuylusksz6e8j",
-            "publishedAt": "2026-11-06T20:16:00.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Thinking Machines Lab：News（网页）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 4,
         "id": "m45kaixmfb2554qlzxbpnir36",
         "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
@@ -413,34 +413,6 @@
       },
       {
         "rank": 5,
-        "id": "u904yv6dn7sw6lwjgxxedqd3b",
-        "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
-        "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
-        "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
-        "sourceCount": 3,
-        "participantCount": 25,
-        "latestAt": "2026-11-05T23:22:55.767Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
         "id": "f3hogz1c4bmgbcwblqblumxpv",
         "title": "Meta在Muse推出spaces并升级模型",
         "sourceName": "Meta：Newsroom · AI（RSS）",
@@ -468,7 +440,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "d28mrqwr7h7tl8b8jcse4b449",
         "title": "Anthropic 发布研究拆解 Claude 智能体记忆机制",
         "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -476,7 +448,7 @@
         "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
         "storyUrl": "https://aihot.news/story/a983842e-37eb-436c-9026-711d2fa63657",
         "sourceCount": 2,
-        "participantCount": 11,
+        "participantCount": 12,
         "latestAt": "2026-11-06T23:25:14.860Z",
         "expanded": false,
         "latest": "",
@@ -489,6 +461,34 @@
               "asset": "/assets/identities/anthropicai.jpg",
               "assetSource": "https://x.com/AnthropicAI",
               "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "u904yv6dn7sw6lwjgxxedqd3b",
+        "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
+        "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
+        "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
+        "sourceCount": 1,
+        "participantCount": 17,
+        "latestAt": "2026-11-05T23:22:55.767Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -553,15 +553,15 @@
       },
       {
         "rank": 10,
-        "id": "m70cbaxy1ew2sgmlkernbvi68",
-        "title": "Anthropic 在美推出 Claude 个人财务测试版",
-        "sourceName": "Claude：Blog（网页）",
-        "sourceUrl": "https://claude.com/blog/introducing-personal-finance-in-claude",
-        "aihotUrl": "https://aihot.news/items/m70cbaxy1ew2sgmlkernbvi68",
-        "storyUrl": "https://aihot.news/story/16df653b-997f-4488-afe7-4f9c0779fc05",
+        "id": "wkgcal7l9pkj3g7w8ohlp3c45",
+        "title": "Perplexity 推出 Teammates 工作智能体，Max 用户网页版先行",
+        "sourceName": "X：Perplexity (@perplexity_ai)",
+        "sourceUrl": "https://x.com/perplexity_ai/status/2118389326459670825",
+        "aihotUrl": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45",
+        "storyUrl": "https://aihot.news/story/a098c7ba-95e3-44b0-9c6f-dfe14243cc3c",
         "sourceCount": 3,
-        "participantCount": 16,
-        "latestAt": "2026-11-06T11:33:13.000Z",
+        "participantCount": 10,
+        "latestAt": "2026-11-07T17:26:57.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -569,10 +569,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "Perplexity",
+              "asset": "/assets/identities/perplexity_ai.jpg",
+              "assetSource": "https://x.com/perplexity_ai",
+              "tone": "#dcebea"
             }
           ],
           "caption": "热点",
@@ -583,8 +583,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-07T19:28:38.805Z",
-    "nextCheckAt": 1794080018805,
+    "checkedAt": "2026-11-07T22:56:41.859Z",
+    "nextCheckAt": 1794092501859,
     "intervalSeconds": 300,
     "message": ""
   }
