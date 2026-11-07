@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月7日",
     "demo": false,
-    "updatedAt": "2026-11-07T02:00:25.207Z",
+    "updatedAt": "2026-11-07T08:39:11.203Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 159,
-      "latestCount": 1,
+      "received": 141,
+      "latestCount": 0,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -129,8 +129,8 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "Thom_Wolf",
@@ -144,43 +144,6 @@
       ]
     },
     "items": [
-      {
-        "id": "aihot-gwygx968xwjoots38v40p2lmm",
-        "title": "Perplexity CEO：智能体将越来越多地被其他智能体调用",
-        "brief": "Aravind Srinivas 认为智能体将越来越多地被其他智能体调用，因为编排更简单，且可集中到一个以 git 为核心、不断复利的系统底座；当智能体以 code-mode 运行并对 trace 做版本控制，就形成可用减少人工介入来度量的递归循环。",
-        "summary": "Aravind Srinivas 认为智能体将越来越多地被其他智能体调用，因为编排更简单，且可集中到一个以 git 为核心、不断复利的系统底座；当智能体以 code-mode 运行并对 trace 做版本控制，就形成可用减少人工介入来度量的递归循环。",
-        "category": "AI 动态",
-        "topic": "Agent",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "AravSrinivas",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Aravind Srinivas · @AravSrinivas",
-        "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2118572536300699764",
-        "aggregateUrl": "https://aihot.news/items/gwygx968xwjoots38v40p2lmm",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-06T05:13:48.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "Perplexity",
-              "asset": "/assets/identities/perplexity_ai.jpg",
-              "assetSource": "https://x.com/perplexity_ai",
-              "tone": "#dcebea"
-            }
-          ],
-          "caption": "AI 动态",
-          "author": {
-            "name": "Aravind Srinivas",
-            "asset": "/assets/identities/aravsrinivas.jpg",
-            "assetSource": "https://x.com/AravSrinivas",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
       {
         "id": "x-karpathy-2079610838143623371",
         "title": "Karpathy：用自由讲述给 LLM 补足上下文",
@@ -229,7 +192,7 @@
         "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
         "storyUrl": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219",
         "sourceCount": 11,
-        "participantCount": 45,
+        "participantCount": 47,
         "latestAt": "2026-11-06T02:29:44.000Z",
         "expanded": true,
         "latest": "Higgsfield 上线 Gemini Omni 1.2 Flash",
@@ -279,7 +242,7 @@
         "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
         "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
         "sourceCount": 6,
-        "participantCount": 46,
+        "participantCount": 43,
         "latestAt": "2026-11-05T23:22:55.767Z",
         "expanded": true,
         "latest": "OpenAI 发布网络安全模型 GPT-6 Cyber：ExploitGym 相对提升 51%，发现 Firefox 81 个新漏洞",
@@ -331,65 +294,6 @@
       },
       {
         "rank": 3,
-        "id": "wwltahauj3uhzwy9yizi2i6f3",
-        "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/introducing-images-2-6",
-        "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
-        "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
-        "sourceCount": 5,
-        "participantCount": 46,
-        "latestAt": "2026-11-06T23:46:33.000Z",
-        "expanded": true,
-        "latest": "GPT-Image-2.6 支持生成 GIF",
-        "reports": [
-          {
-            "title": "GPT-Image-2.6 支持生成 GIF",
-            "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-            "sourceUrl": "https://x.com/OpenAIDevs/status/2118852567509909716",
-            "aihotUrl": "https://aihot.news/items/fqj1p7582px47e6468ofmr24v",
-            "publishedAt": "2026-11-06T23:46:33.000Z"
-          },
-          {
-            "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
-            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-            "sourceUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
-            "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
-            "publishedAt": "2026-11-06T23:40:40.000Z"
-          },
-          {
-            "title": "Krea 上线 GPT Image 2.6",
-            "sourceName": "X：Krea AI (@krea_ai)",
-            "sourceUrl": "https://x.com/krea_ai/status/2118849021796307151",
-            "aihotUrl": "https://aihot.news/items/c2p75q23kddn0btdx6kif3d4o",
-            "publishedAt": "2026-11-06T23:32:27.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "OpenAI 推出参考图保存复用功能",
-            "storyUrl": "https://aihot.news/story/7142d92b-48b2-4d8d-aa8c-53900c3f74eb"
-          },
-          {
-            "title": "OpenAI 升级 Codex 图像编辑交互",
-            "storyUrl": "https://aihot.news/story/74dda250-d3eb-4db4-b24c-fb6442a04b12"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 4,
         "id": "bu8612ca3e1uyxjppk56ef1wl",
         "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
         "sourceName": "Thinking Machines Lab：News（网页）",
@@ -397,11 +301,33 @@
         "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
         "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
         "sourceCount": 8,
-        "participantCount": 24,
+        "participantCount": 25,
         "latestAt": "2026-11-06T21:41:38.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
+        "expanded": true,
+        "latest": "Inkling 2 Small 登顶 WebDev 开源榜",
+        "reports": [
+          {
+            "title": "Inkling 2 Small 登顶 WebDev 开源榜",
+            "sourceName": "X：Arena (@arena)",
+            "sourceUrl": "https://x.com/arena/status/2118821131268542656",
+            "aihotUrl": "https://aihot.news/items/r9vhw2sw7ngvttl2nuw8n2um5",
+            "publishedAt": "2026-11-06T21:41:38.000Z"
+          },
+          {
+            "title": "Arena 榜单显示 Inkling 2 Small 以 1648 分位列 Code Arena: WebDev 实验室第 8",
+            "sourceName": "X：Arena (@arena)",
+            "sourceUrl": "https://x.com/arena/status/2118799582092288255",
+            "aihotUrl": "https://aihot.news/items/ig2uhv0ty94xcuylusksz6e8j",
+            "publishedAt": "2026-11-06T20:16:00.000Z"
+          },
+          {
+            "title": "ARC-AGI-3 评测结果待测试完成后公布",
+            "sourceName": "X：ARC Prize (@arcprize)",
+            "sourceUrl": "https://x.com/arcprize/status/2118788853850849780",
+            "aihotUrl": "https://aihot.news/items/lw2hzp0hhmruk1mcbyn5p568d",
+            "publishedAt": "2026-11-06T19:33:22.000Z"
+          }
+        ],
         "related": [],
         "visual": {
           "entities": [
@@ -417,7 +343,91 @@
         }
       },
       {
+        "rank": 4,
+        "id": "xywgx35ocbe6mzl2pnajw8ruu",
+        "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克，IPO 估值遇投资者压价",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+        "sourceCount": 3,
+        "participantCount": 19,
+        "latestAt": "2026-11-07T01:36:48.637Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "IPO",
+          "author": null
+        }
+      },
+      {
         "rank": 5,
+        "id": "m45kaixmfb2554qlzxbpnir36",
+        "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
+        "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+        "storyUrl": "https://aihot.news/story/fba07069-fd3e-44bd-ad2d-f347f820dab3",
+        "sourceCount": 3,
+        "participantCount": 14,
+        "latestAt": "2026-11-06T23:46:18.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "wwltahauj3uhzwy9yizi2i6f3",
+        "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-images-2-6",
+        "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
+        "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
+        "sourceCount": 4,
+        "participantCount": 27,
+        "latestAt": "2026-11-06T23:46:33.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "m70cbaxy1ew2sgmlkernbvi68",
         "title": "Anthropic 在美推出 Claude 个人财务测试版",
         "sourceName": "Claude：Blog（网页）",
@@ -445,62 +455,6 @@
         }
       },
       {
-        "rank": 6,
-        "id": "xywgx35ocbe6mzl2pnajw8ruu",
-        "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克，IPO 估值遇投资者压价",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 2,
-        "participantCount": 18,
-        "latestAt": "2026-11-06T14:56:34.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "IPO",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
-        "id": "r3360gkpmqpyyt2ii9cp1k9rz",
-        "title": "百度开源 280B 参数 ERNIE 5.5 Flash Base 基座模型",
-        "sourceName": "百度文心 ERNIE 官方博客",
-        "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
-        "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz",
-        "storyUrl": "https://aihot.news/story/0c969c38-7969-4bd9-9c91-f3cdf9b4a9cd",
-        "sourceCount": 4,
-        "participantCount": 22,
-        "latestAt": "2026-11-06T02:49:21.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "百度文心 ERNIE 官方博客",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 8,
         "id": "f3hogz1c4bmgbcwblqblumxpv",
         "title": "Meta在Muse推出spaces并升级模型",
@@ -508,9 +462,9 @@
         "sourceUrl": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
         "aihotUrl": "https://aihot.news/items/f3hogz1c4bmgbcwblqblumxpv",
         "storyUrl": "https://aihot.news/story/5bb5d3ee-b9ff-4cb4-8df8-d487d6bc5b78",
-        "sourceCount": 3,
-        "participantCount": 10,
-        "latestAt": "2026-11-06T22:37:46.000Z",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-11-07T07:40:53.263Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -530,15 +484,15 @@
       },
       {
         "rank": 9,
-        "id": "pmd4ouy6vz2ly0p14tkhszbqc",
-        "title": "Meta 在美区 Muse 应用上线实时语音与表情头像",
-        "sourceName": "Meta：Newsroom · AI（RSS）",
-        "sourceUrl": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
-        "aihotUrl": "https://aihot.news/items/pmd4ouy6vz2ly0p14tkhszbqc",
-        "storyUrl": "https://aihot.news/story/53c3f1bf-cba4-48c4-a7a3-2af0fcb95380",
-        "sourceCount": 5,
-        "participantCount": 15,
-        "latestAt": "2026-11-06T18:43:12.000Z",
+        "id": "d28mrqwr7h7tl8b8jcse4b449",
+        "title": "Anthropic 发布研究拆解 Claude 智能体记忆机制",
+        "sourceName": "Anthropic：Research（发表成果 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory",
+        "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
+        "storyUrl": "https://aihot.news/story/a983842e-37eb-436c-9026-711d2fa63657",
+        "sourceCount": 2,
+        "participantCount": 10,
+        "latestAt": "2026-11-06T23:25:14.860Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -546,10 +500,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Meta：Newsroom · AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
           "caption": "热点",
@@ -558,15 +512,15 @@
       },
       {
         "rank": 10,
-        "id": "m45kaixmfb2554qlzxbpnir36",
-        "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
-        "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
-        "storyUrl": "https://aihot.news/story/fba07069-fd3e-44bd-ad2d-f347f820dab3",
+        "id": "r3360gkpmqpyyt2ii9cp1k9rz",
+        "title": "百度开源 280B 参数 ERNIE 5.5 Flash Base 基座模型",
+        "sourceName": "百度文心 ERNIE 官方博客",
+        "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
+        "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz",
+        "storyUrl": "https://aihot.news/story/0c969c38-7969-4bd9-9c91-f3cdf9b4a9cd",
         "sourceCount": 3,
-        "participantCount": 8,
-        "latestAt": "2026-11-06T23:46:18.000Z",
+        "participantCount": 18,
+        "latestAt": "2026-11-06T02:49:21.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -574,10 +528,10 @@
         "visual": {
           "entities": [
             {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
+              "name": "百度文心 ERNIE 官方博客",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -588,8 +542,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-07T02:00:25.207Z",
-    "nextCheckAt": 1794017125207,
+    "checkedAt": "2026-11-07T08:39:11.203Z",
+    "nextCheckAt": 1794041051203,
     "intervalSeconds": 300,
     "message": ""
   }
