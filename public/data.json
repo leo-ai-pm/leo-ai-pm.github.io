@@ -1,7 +1,7 @@
 {
-  "date": "2026年11月7日",
+  "date": "2026年11月8日",
   "demo": false,
-  "updatedAt": "2026-11-07T15:13:16.687Z",
+  "updatedAt": "2026-11-07T19:28:38.805Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 105,
-    "latestCount": 0,
+    "received": 86,
+    "latestCount": 1,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -47,8 +47,8 @@
         "group": "研究与方法",
         "focus": "LLM、模型使用与学习方法",
         "url": "https://x.com/karpathy",
-        "matched": 0,
-        "status": "历史观点已核对"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "swyx",
@@ -144,6 +144,43 @@
   },
   "items": [
     {
+      "id": "aihot-yatljomnnxk39an1vzjyrih1u",
+      "title": "Karpathy 用 Claude Code 一次成型打造 TristanTube 视频站",
+      "brief": "Andrej Karpathy 基于本周 Tristan 公布的 YouTube 频道分级清单，用 Claude Code 一次生成 TristanTube，收录 4.7 万个高技术含量视频并附带 TV 模式，全程仅用 3 分钟，站点在 karpathy.ai/tristan-tube/。",
+      "summary": "Andrej Karpathy 基于本周 Tristan 公布的 YouTube 频道分级清单，用 Claude Code 一次生成 TristanTube，收录 4.7 万个高技术含量视频并附带 TV 模式，全程仅用 3 分钟，站点在 karpathy.ai/tristan-tube/。",
+      "category": "实践与观点",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "karpathy",
+      "sourceGroup": "研究与方法",
+      "sourceName": "Andrej Karpathy · @karpathy",
+      "feedName": "X：Andrej Karpathy (@karpathy)",
+      "sourceUrl": "https://x.com/karpathy/status/2119114537442189652",
+      "aggregateUrl": "https://aihot.news/items/yatljomnnxk39an1vzjyrih1u",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-11-07T17:07:31.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "Claude Code",
+        "author": {
+          "name": "Andrej Karpathy",
+          "asset": "/assets/identities/karpathy.jpg",
+          "assetSource": "https://x.com/karpathy",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
       "id": "x-karpathy-2079610838143623371",
       "title": "Karpathy：用自由讲述给 LLM 补足上下文",
       "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -190,8 +227,8 @@
       "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
       "storyUrl": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219",
-      "sourceCount": 11,
-      "participantCount": 47,
+      "sourceCount": 6,
+      "participantCount": 34,
       "latestAt": "2026-11-06T02:29:44.000Z",
       "expanded": true,
       "latest": "Higgsfield 上线 Gemini Omni 1.2 Flash",
@@ -234,77 +271,25 @@
     },
     {
       "rank": 2,
-      "id": "u904yv6dn7sw6lwjgxxedqd3b",
-      "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
-      "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
-      "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
-      "sourceCount": 6,
-      "participantCount": 42,
-      "latestAt": "2026-11-05T23:22:55.767Z",
-      "expanded": true,
-      "latest": "OpenAI 发布网络安全模型 GPT-6 Cyber：ExploitGym 相对提升 51%，发现 Firefox 81 个新漏洞",
-      "reports": [
-        {
-          "title": "OpenAI 发布网络安全模型 GPT-6 Cyber：ExploitGym 相对提升 51%，发现 Firefox 81 个新漏洞",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/023/038.htm",
-          "aihotUrl": "https://aihot.news/items/gzzyv7qj81q0vfomoqf3vnpvk",
-          "publishedAt": "2026-11-05T23:22:55.767Z"
-        },
-        {
-          "title": "OpenAI 发布 GPT-6 Cyber 漏洞挖掘模型，被评为最高网络风险等级",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2118470407313646054",
-          "aihotUrl": "https://aihot.news/items/e64te9342kqavaw37c3562iyj",
-          "publishedAt": "2026-11-05T22:27:59.000Z"
-        },
-        {
-          "title": "OpenAI 发布 GPT-6 Cyber，可发现漏洞、构建利用并提出修复",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-          "aihotUrl": "https://aihot.news/items/r9wqapvpymgipbdvnjkdcf5v5",
-          "publishedAt": "2026-11-05T20:36:25.000Z"
-        }
-      ],
-      "related": [
-        {
-          "title": "GPT-6.2 Astra 疑灰度测试，传最快周五发布",
-          "storyUrl": "https://aihot.news/story/19a3dc92-fd4a-4b56-a50a-4ee4f0146f69"
-        },
-        {
-          "title": "OpenAI 发布 GPT-6 Cyber 系统卡",
-          "storyUrl": "https://aihot.news/story/247ce616-e504-47e5-bf62-6d839c95f753"
-        }
-      ],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 3,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克，IPO 估值遇投资者压价",
+      "title": "Anthropic 拟感恩节前 IPO，估值预期下调至 1.25–1.75 万亿美元",
       "sourceName": "Anthropic：Newsroom（网页）",
       "sourceUrl": "https://www.anthropic.com/news/s1-sec",
       "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
       "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
       "sourceCount": 3,
-      "participantCount": 19,
-      "latestAt": "2026-11-07T01:36:48.637Z",
+      "participantCount": 17,
+      "latestAt": "2026-11-07T17:37:25.000Z",
       "expanded": true,
-      "latest": "Anthropic IPO 估值存分歧，1.5 万亿美元仍被部分投资者嫌贵",
+      "latest": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
       "reports": [
+        {
+          "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+          "aihotUrl": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
+          "publishedAt": "2026-11-07T17:37:25.000Z"
+        },
         {
           "title": "Anthropic IPO 估值存分歧，1.5 万亿美元仍被部分投资者嫌贵",
           "sourceName": "IT之家·人工智能",
@@ -318,13 +303,6 @@
           "sourceUrl": "https://x.com/rohanpaul_ai/status/2118719195072659833",
           "aihotUrl": "https://aihot.news/items/kv9zqeiqr9wj29j6vmq9q6je6",
           "publishedAt": "2026-11-06T14:56:34.000Z"
-        },
-        {
-          "title": "Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
-          "aihotUrl": "https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf",
-          "publishedAt": "2026-11-06T11:38:17.000Z"
         }
       ],
       "related": [
@@ -351,6 +329,56 @@
           }
         ],
         "caption": "IPO",
+        "author": null
+      }
+    },
+    {
+      "rank": 3,
+      "id": "bu8612ca3e1uyxjppk56ef1wl",
+      "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
+      "sourceName": "Thinking Machines Lab：News（网页）",
+      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+      "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
+      "sourceCount": 8,
+      "participantCount": 25,
+      "latestAt": "2026-11-07T16:31:00.000Z",
+      "expanded": true,
+      "latest": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
+      "reports": [
+        {
+          "title": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+          "aihotUrl": "https://aihot.news/items/h1e0zbyqc8p5ps481naunojc2",
+          "publishedAt": "2026-11-07T16:31:00.000Z"
+        },
+        {
+          "title": "Inkling 2 Small 登顶 WebDev 开源榜",
+          "sourceName": "X：Arena (@arena)",
+          "sourceUrl": "https://x.com/arena/status/2118821131268542656",
+          "aihotUrl": "https://aihot.news/items/r9vhw2sw7ngvttl2nuw8n2um5",
+          "publishedAt": "2026-11-06T21:41:38.000Z"
+        },
+        {
+          "title": "Arena 榜单显示 Inkling 2 Small 以 1648 分位列 Code Arena: WebDev 实验室第 8",
+          "sourceName": "X：Arena (@arena)",
+          "sourceUrl": "https://x.com/arena/status/2118799582092288255",
+          "aihotUrl": "https://aihot.news/items/ig2uhv0ty94xcuylusksz6e8j",
+          "publishedAt": "2026-11-06T20:16:00.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Thinking Machines Lab：News（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
         "author": null
       }
     },
@@ -384,15 +412,15 @@
     },
     {
       "rank": 5,
-      "id": "bu8612ca3e1uyxjppk56ef1wl",
-      "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
-      "sourceName": "Thinking Machines Lab：News（网页）",
-      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
-      "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
-      "sourceCount": 8,
+      "id": "u904yv6dn7sw6lwjgxxedqd3b",
+      "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
+      "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
+      "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
+      "sourceCount": 3,
       "participantCount": 25,
-      "latestAt": "2026-11-06T21:41:38.000Z",
+      "latestAt": "2026-11-05T23:22:55.767Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -400,10 +428,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Thinking Machines Lab：News（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -440,34 +468,6 @@
     },
     {
       "rank": 7,
-      "id": "m70cbaxy1ew2sgmlkernbvi68",
-      "title": "Anthropic 在美推出 Claude 个人财务测试版",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/introducing-personal-finance-in-claude",
-      "aihotUrl": "https://aihot.news/items/m70cbaxy1ew2sgmlkernbvi68",
-      "storyUrl": "https://aihot.news/story/16df653b-997f-4488-afe7-4f9c0779fc05",
-      "sourceCount": 6,
-      "participantCount": 27,
-      "latestAt": "2026-11-06T11:33:13.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
       "id": "d28mrqwr7h7tl8b8jcse4b449",
       "title": "Anthropic 发布研究拆解 Claude 智能体记忆机制",
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -495,7 +495,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "wwltahauj3uhzwy9yizi2i6f3",
       "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -503,7 +503,7 @@
       "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
       "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
       "sourceCount": 5,
-      "participantCount": 14,
+      "participantCount": 12,
       "latestAt": "2026-11-07T11:22:20.000Z",
       "expanded": false,
       "latest": "",
@@ -523,7 +523,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "ob3k2pi4okhhltmfxgkavfjod",
       "title": "DeepSeek网页与API服务中断45分钟后恢复",
       "sourceName": "IT之家·人工智能",
@@ -544,6 +544,34 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "m70cbaxy1ew2sgmlkernbvi68",
+      "title": "Anthropic 在美推出 Claude 个人财务测试版",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/introducing-personal-finance-in-claude",
+      "aihotUrl": "https://aihot.news/items/m70cbaxy1ew2sgmlkernbvi68",
+      "storyUrl": "https://aihot.news/story/16df653b-997f-4488-afe7-4f9c0779fc05",
+      "sourceCount": 3,
+      "participantCount": 16,
+      "latestAt": "2026-11-06T11:33:13.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
