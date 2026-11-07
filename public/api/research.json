@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-07T08:38:58.654Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.654Z",
-      "nextCheckAt": 1794044338654,
+      "checkedAt": "2026-11-07T15:12:58.876Z",
+      "lastSuccessAt": "2026-11-07T15:12:58.876Z",
+      "nextCheckAt": 1794067978876,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-07T08:38:58.655Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.655Z",
-      "nextCheckAt": 1794044338655,
+      "checkedAt": "2026-11-07T15:12:58.877Z",
+      "lastSuccessAt": "2026-11-07T15:12:58.877Z",
+      "nextCheckAt": 1794067978877,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-07T08:38:58.656Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.656Z",
-      "nextCheckAt": 1794044338656,
+      "checkedAt": "2026-11-07T15:12:58.878Z",
+      "lastSuccessAt": "2026-11-07T15:12:58.878Z",
+      "nextCheckAt": 1794067978878,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1794044338835,
-      "checkedAt": "2026-11-07T08:38:58.835Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.835Z",
+      "nextCheckAt": 1794067979103,
+      "checkedAt": "2026-11-07T15:12:59.103Z",
+      "lastSuccessAt": "2026-11-07T15:12:59.103Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794044338654,
+  "nextCheckAt": 1794067978876,
   "refreshing": false,
   "items": [
     {
@@ -334,15 +334,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/instagram",
-      "title": "Instagram Edits for Desktop",
-      "summary": "Instagram's free desktop video editor with AI agents",
-      "publishedAt": "2026-11-06T00:46:05.000Z",
-      "url": "https://www.producthunt.com/products/instagram",
+      "id": "ph:https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "title": "crystl",
+      "summary": "multitasking terminal for AI coding agents, built for macOS",
+      "publishedAt": "2026-11-06T02:44:33.000Z",
+      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
       "linkKind": "original",
       "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -362,55 +362,15 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/instagram",
+      "sourceUrl": "https://www.producthunt.com/products/crystl-multitasking-terminal",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Instagram's free desktop video editor with AI agents",
+      "brief": "multitasking terminal for AI coding agents, built for macOS",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/post/117713",
-      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。",
-      "publishedAt": "2026-11-04T12:25:55.000Z",
-      "url": "https://sspai.com/post/117713",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/post/117713",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
       "priority": "normal"
     },
     {

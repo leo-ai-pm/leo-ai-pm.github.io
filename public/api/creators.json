@@ -294,9 +294,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-07T08:38:58.602Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.602Z",
-      "nextCheckAt": 1794041638602,
+      "checkedAt": "2026-11-07T15:12:58.830Z",
+      "lastSuccessAt": "2026-11-07T15:12:58.830Z",
+      "nextCheckAt": 1794065278830,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -608,9 +608,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-07T08:38:58.651Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.651Z",
-      "nextCheckAt": 1794041638651,
+      "checkedAt": "2026-11-07T15:12:58.873Z",
+      "lastSuccessAt": "2026-11-07T15:12:58.873Z",
+      "nextCheckAt": 1794065278873,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -923,9 +923,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-07T08:38:58.652Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.652Z",
-      "nextCheckAt": 1794041638652,
+      "checkedAt": "2026-11-07T15:12:58.875Z",
+      "lastSuccessAt": "2026-11-07T15:12:58.875Z",
+      "nextCheckAt": 1794065278875,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1238,9 +1238,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-07T08:38:58.895Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.895Z",
-      "nextCheckAt": 1794041638895,
+      "checkedAt": "2026-11-07T15:12:59.060Z",
+      "lastSuccessAt": "2026-11-07T15:12:59.060Z",
+      "nextCheckAt": 1794065279060,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1554,9 +1554,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-07T08:38:58.986Z",
-      "lastSuccessAt": "2026-11-07T08:38:58.986Z",
-      "nextCheckAt": 1794041638986,
+      "checkedAt": "2026-11-07T15:12:59.205Z",
+      "lastSuccessAt": "2026-11-07T15:12:59.205Z",
+      "nextCheckAt": 1794065279205,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1576,6 +1576,35 @@
     {
       "id": "founder",
       "items": [
+        {
+          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517536&idx=1&sn=68b9f5f33fae756276e5a05096ccd19b",
+          "creatorId": "founder",
+          "title": "闫俊杰首次英文播客采访：中美模型最后那 5%，比前 95% 更难追",
+          "summary": "MiniMax 的语言模型和视频模型，接下来要合成一个。",
+          "publishedAt": "2026-11-07T06:37:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517536&idx=1&sn=68b9f5f33fae756276e5a05096ccd19b",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+            "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Founder Park",
+                "asset": "/assets/identities/creator_founder.jpg",
+                "tone": "#dfe9f3"
+              }
+            ],
+            "caption": "创业与商业",
+            "author": {
+              "name": "Founder Park",
+              "asset": "/assets/identities/creator_founder.jpg",
+              "tone": "#dfe9f3"
+            }
+          }
+        },
         {
           "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517530&idx=1&sn=7aad2739c30beb8f7611bd8954b0357d",
           "creatorId": "founder",
@@ -1836,40 +1865,11 @@
               "tone": "#dfe9f3"
             }
           }
-        },
-        {
-          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517414&idx=1&sn=c6c3742ad8e2c0d072c3243de2ee5791",
-          "creatorId": "founder",
-          "title": "闭门分享精华：ToB 出海美国，别急着复制国内打法",
-          "summary": "进入美国市场，B2B 创业者先别急着招销售。",
-          "publishedAt": "2026-10-23T06:00:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517414&idx=1&sn=c6c3742ad8e2c0d072c3243de2ee5791",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中的经验适合什么规模和阶段的团队？",
-            "method": "从原文选出一条明确做法，用你的一项工作验证前提和代价，再找一个不适用的场景。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Founder Park",
-                "asset": "/assets/identities/creator_founder.jpg",
-                "tone": "#dfe9f3"
-              }
-            ],
-            "caption": "创业与商业",
-            "author": {
-              "name": "Founder Park",
-              "asset": "/assets/identities/creator_founder.jpg",
-              "tone": "#dfe9f3"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-07T08:38:59.141Z",
-      "lastSuccessAt": "2026-11-07T08:38:59.141Z",
-      "nextCheckAt": 1794041639141,
+      "checkedAt": "2026-11-07T15:12:59.332Z",
+      "lastSuccessAt": "2026-11-07T15:12:59.332Z",
+      "nextCheckAt": 1794065279332,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1888,6 +1888,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1794041638602,
+  "nextCheckAt": 1794065278830,
   "refreshing": false
 }
