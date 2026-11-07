@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月7日",
     "demo": false,
-    "updatedAt": "2026-11-06T22:19:20.103Z",
+    "updatedAt": "2026-11-07T02:00:25.207Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 187,
-      "latestCount": 2,
+      "received": 159,
+      "latestCount": 1,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "karpathy",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 2,
+          "matched": 1,
           "status": "本次收录"
         },
         {
@@ -144,43 +144,6 @@
       ]
     },
     "items": [
-      {
-        "id": "aihot-z16tksw5l40w2edrohnozslkl",
-        "title": "OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿",
-        "brief": "OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 40 亿张，高于仅 8 周前的每周超 30 亿张。",
-        "summary": "OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 40 亿张，高于仅 8 周前的每周超 30 亿张。",
-        "category": "行业观察",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "thsottiaux",
-        "sourceGroup": "产品与工程",
-        "sourceName": "Tibo Sottiaux · @thsottiaux",
-        "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2118469621011677521",
-        "aggregateUrl": "https://aihot.news/items/z16tksw5l40w2edrohnozslkl",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-05T22:24:51.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "行业观察",
-          "author": {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
       {
         "id": "aihot-gwygx968xwjoots38v40p2lmm",
         "title": "Perplexity CEO：智能体将越来越多地被其他智能体调用",
@@ -266,11 +229,18 @@
         "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
         "storyUrl": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219",
         "sourceCount": 11,
-        "participantCount": 43,
+        "participantCount": 45,
         "latestAt": "2026-11-06T02:29:44.000Z",
         "expanded": true,
         "latest": "Higgsfield 上线 Gemini Omni 1.2 Flash",
         "reports": [
+          {
+            "title": "Arena 周报：Kimi K3.1 Pro 开放权重登顶 Agent 榜，Gemini Omni 1.2 Flash 领跑视频生成",
+            "sourceName": "X：Arena (@arena)",
+            "sourceUrl": "https://x.com/arena/status/2118836687925354862",
+            "aihotUrl": "https://aihot.news/items/dhe5bbxx5dyag3x9nk5cbpe4i",
+            "publishedAt": "2026-11-06T22:43:27.000Z"
+          },
           {
             "title": "Higgsfield 上线 Gemini Omni 1.2 Flash",
             "sourceName": "X：Higgsfield AI (@higgsfield)",
@@ -284,13 +254,6 @@
             "sourceUrl": "https://x.com/higgsfield/status/2118531245865087363",
             "aihotUrl": "https://aihot.news/items/iherxwf5l55jl8x0akk22gx2j",
             "publishedAt": "2026-11-06T02:29:44.000Z"
-          },
-          {
-            "title": "Gemini Omni 1.2 Flash 上线 Krea",
-            "sourceName": "X：Krea AI (@krea_ai)",
-            "sourceUrl": "https://x.com/krea_ai/status/2118508716261810321",
-            "aihotUrl": "https://aihot.news/items/e13mz24869h24423kxt65guy0",
-            "publishedAt": "2026-11-06T01:00:12.000Z"
           }
         ],
         "related": [],
@@ -316,7 +279,7 @@
         "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
         "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
         "sourceCount": 6,
-        "participantCount": 49,
+        "participantCount": 46,
         "latestAt": "2026-11-05T23:22:55.767Z",
         "expanded": true,
         "latest": "OpenAI 发布网络安全模型 GPT-6 Cyber：ExploitGym 相对提升 51%，发现 Firefox 81 个新漏洞",
@@ -369,37 +332,37 @@
       {
         "rank": 3,
         "id": "wwltahauj3uhzwy9yizi2i6f3",
-        "title": "OpenAI 发布 Images 2.6：ChatGPT 可生成 GIF，API 上线两款模型",
+        "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "sourceUrl": "https://openai.com/index/introducing-images-2-6",
         "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
         "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
-        "sourceCount": 6,
-        "participantCount": 58,
-        "latestAt": "2026-11-06T18:51:10.000Z",
+        "sourceCount": 5,
+        "participantCount": 46,
+        "latestAt": "2026-11-06T23:46:33.000Z",
         "expanded": true,
-        "latest": "fal 上线 GPT Image 2.6 生成 GIF",
+        "latest": "GPT-Image-2.6 支持生成 GIF",
         "reports": [
           {
-            "title": "fal 上线 GPT Image 2.6 生成 GIF",
-            "sourceName": "X：fal (@fal)",
-            "sourceUrl": "https://x.com/fal/status/2118778232673816649",
-            "aihotUrl": "https://aihot.news/items/n0j82m65z6if232ik2xh30yw3",
-            "publishedAt": "2026-11-06T18:51:10.000Z"
+            "title": "GPT-Image-2.6 支持生成 GIF",
+            "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+            "sourceUrl": "https://x.com/OpenAIDevs/status/2118852567509909716",
+            "aihotUrl": "https://aihot.news/items/fqj1p7582px47e6468ofmr24v",
+            "publishedAt": "2026-11-06T23:46:33.000Z"
           },
           {
-            "title": "fal 上线 gpt-image-2.6 可试用",
-            "sourceName": "X：fal (@fal)",
-            "sourceUrl": "https://x.com/fal/status/2118778235106566382",
-            "aihotUrl": "https://aihot.news/items/zz0hwq5je59rkzmhpbbuf5v83",
-            "publishedAt": "2026-11-06T18:51:10.000Z"
+            "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
+            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+            "sourceUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
+            "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+            "publishedAt": "2026-11-06T23:40:40.000Z"
           },
           {
-            "title": "OpenAI 发布 GPT-Image-2.6 Flare 与 Sunburst，新增 GIF、SVG 导出和 6 秒生成",
-            "sourceName": "MarkTechPost（RSS）",
-            "sourceUrl": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
-            "aihotUrl": "https://aihot.news/items/mcab7bd12n30tbwsd97xqpizh",
-            "publishedAt": "2026-11-05T07:03:17.000Z"
+            "title": "Krea 上线 GPT Image 2.6",
+            "sourceName": "X：Krea AI (@krea_ai)",
+            "sourceUrl": "https://x.com/krea_ai/status/2118849021796307151",
+            "aihotUrl": "https://aihot.news/items/c2p75q23kddn0btdx6kif3d4o",
+            "publishedAt": "2026-11-06T23:32:27.000Z"
           }
         ],
         "related": [
@@ -511,40 +474,6 @@
       },
       {
         "rank": 7,
-        "id": "jsdt72s1n09hnlezc2uqqg1da",
-        "title": "Claude Code 产品负责人 Cat Wu 转投 OpenAI",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2118138648214585591",
-        "aihotUrl": "https://aihot.news/items/jsdt72s1n09hnlezc2uqqg1da",
-        "storyUrl": "https://aihot.news/story/0b20bea7-a1d4-451e-bb1b-38c63fadf89f",
-        "sourceCount": 3,
-        "participantCount": 37,
-        "latestAt": "2026-11-05T12:20:35.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            },
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "Claude Code",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
         "id": "r3360gkpmqpyyt2ii9cp1k9rz",
         "title": "百度开源 280B 参数 ERNIE 5.5 Flash Base 基座模型",
         "sourceName": "百度文心 ERNIE 官方博客",
@@ -552,7 +481,7 @@
         "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz",
         "storyUrl": "https://aihot.news/story/0c969c38-7969-4bd9-9c91-f3cdf9b4a9cd",
         "sourceCount": 4,
-        "participantCount": 21,
+        "participantCount": 22,
         "latestAt": "2026-11-06T02:49:21.000Z",
         "expanded": false,
         "latest": "",
@@ -562,6 +491,34 @@
           "entities": [
             {
               "name": "百度文心 ERNIE 官方博客",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "f3hogz1c4bmgbcwblqblumxpv",
+        "title": "Meta在Muse推出spaces并升级模型",
+        "sourceName": "Meta：Newsroom · AI（RSS）",
+        "sourceUrl": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+        "aihotUrl": "https://aihot.news/items/f3hogz1c4bmgbcwblqblumxpv",
+        "storyUrl": "https://aihot.news/story/5bb5d3ee-b9ff-4cb4-8df8-d487d6bc5b78",
+        "sourceCount": 3,
+        "participantCount": 10,
+        "latestAt": "2026-11-06T22:37:46.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Meta：Newsroom · AI（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -601,15 +558,15 @@
       },
       {
         "rank": 10,
-        "id": "f3hogz1c4bmgbcwblqblumxpv",
-        "title": "Meta在Muse推出spaces并升级模型",
-        "sourceName": "Meta：Newsroom · AI（RSS）",
-        "sourceUrl": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
-        "aihotUrl": "https://aihot.news/items/f3hogz1c4bmgbcwblqblumxpv",
-        "storyUrl": "https://aihot.news/story/5bb5d3ee-b9ff-4cb4-8df8-d487d6bc5b78",
+        "id": "m45kaixmfb2554qlzxbpnir36",
+        "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
+        "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+        "storyUrl": "https://aihot.news/story/fba07069-fd3e-44bd-ad2d-f347f820dab3",
         "sourceCount": 3,
-        "participantCount": 9,
-        "latestAt": "2026-11-06T21:21:27.000Z",
+        "participantCount": 8,
+        "latestAt": "2026-11-06T23:46:18.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -617,10 +574,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Meta：Newsroom · AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -631,8 +588,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-06T22:19:20.103Z",
-    "nextCheckAt": 1794003860103,
+    "checkedAt": "2026-11-07T02:00:25.207Z",
+    "nextCheckAt": 1794017125207,
     "intervalSeconds": 300,
     "message": ""
   }

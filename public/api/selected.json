@@ -1,7 +1,7 @@
 {
-  "status": "ok",
-  "checkedAt": "2026-11-06T22:19:40.309Z",
-  "message": "",
+  "status": "partial",
+  "checkedAt": "2026-11-07T02:01:18.166Z",
+  "message": "部分精选暂时没有更新，其余栏目照常显示。",
   "categories": [
     {
       "id": "ai-models",
@@ -238,6 +238,20 @@
   ],
   "week": [
     {
+      "id": "pqbbgx5sn86iy7v4izf1qv49z",
+      "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
+      "reason": "独立实测给出两款模型的速度、质量与价格数据，读者可以据此在 Flare 和 Sunburst 之间做出选择。",
+      "summary": "Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。",
+      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "sourceUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
+      "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+      "publishedAt": "2026-11-06T23:40:40.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
       "id": "bu8612ca3e1uyxjppk56ef1wl",
       "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
       "reason": "官方完整披露训练配方、RL 规模与安全评测，开放权重计划和基于基准的定位值得跟踪其后续表现。",
@@ -330,20 +344,6 @@
       "sourceUrl": "https://cognition.com/blog/swe-2-flash",
       "aihotUrl": "https://aihot.news/items/ten7xip5406iqarfs8tj8pa22",
       "publishedAt": "2026-11-03T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "hkcafk9es55rbok8pinu90x5o",
-      "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源模型榜",
-      "reason": "原文汇总了权重开放入口、Agent Arena 排名细节和基准成绩，并指出 5.6TB 权重在消费级硬件上难以本地部署的现实情况。",
-      "summary": "月之暗面按 10 月 24 日发布时的承诺，在 Hugging Face 开放 Kimi K3.1 Pro 权重。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/022/490.htm",
-      "aihotUrl": "https://aihot.news/items/hkcafk9es55rbok8pinu90x5o",
-      "publishedAt": "2026-11-05T00:00:15.173Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -782,20 +782,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "upl3hjjdokqe13w3ieo9opr0v",
-      "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
-      "reason": "教程给出可直接复用的 TypeScript 代码和真实成本数据，读者可以照着搭一个带限额和人工审批的定时 Agent。",
-      "summary": "OpenRouter 发布教程，演示用 @openrouter/agent 0.11.0 在 TypeScript 中搭建定时运行的常驻 AI Agent，监控 Hacker News 并生成摘要。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
-      "aihotUrl": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v",
-      "publishedAt": "2026-10-31T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -1040,6 +1026,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "pqbbgx5sn86iy7v4izf1qv49z",
+          "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
+          "reason": "独立实测给出两款模型的速度、质量与价格数据，读者可以据此在 Flare 和 Sunburst 之间做出选择。",
+          "summary": "Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。",
+          "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+          "sourceUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
+          "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+          "publishedAt": "2026-11-06T23:40:40.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "m45kaixmfb2554qlzxbpnir36",
           "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
           "reason": "转引 Bloomberg 报道，给出本轮到账金额、整体估值和剩余资金节奏，可用于跟踪 OpenAI 融资进展。",
@@ -1104,20 +1104,6 @@
           "sourceUrl": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
           "aihotUrl": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
           "publishedAt": "2026-11-06T13:40:07.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "z16tksw5l40w2edrohnozslkl",
-          "title": "OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿",
-          "reason": "作者以内部数据呈现图像生成量的增长速度，可帮助读者感受 ChatGPT 与 API 侧图像需求的变化节奏。",
-          "summary": "OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 40 亿张，高于仅 8 周前的每周超 30 亿张。",
-          "sourceName": "X：Tibo (@thsottiaux)",
-          "sourceUrl": "https://x.com/thsottiaux/status/2118469621011677521",
-          "aihotUrl": "https://aihot.news/items/z16tksw5l40w2edrohnozslkl",
-          "publishedAt": "2026-11-05T22:24:51.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",

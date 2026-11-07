@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-06T22:19:22.369Z",
+  "checkedAt": "2026-11-07T02:00:28.488Z",
   "message": "",
   "report": {
-    "date": "2026-11-06",
-    "dateLabel": "2026年11月6日",
-    "weekday": "周五",
-    "issue": 54,
-    "generatedAt": "2026-11-06T00:00:20.634Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-06",
+    "date": "2026-11-07",
+    "dateLabel": "2026年11月7日",
+    "weekday": "周六",
+    "issue": 55,
+    "generatedAt": "2026-11-07T00:00:08.835Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-07",
     "lead": {
-      "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
-      "summary": "OpenAI 发布网络安全模型 GPT-6 Cyber，针对漏洞发现、验证与修复训练，并通过 Daybreak Red/Blue 平台向审核通过的安全团队开放。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-06",
+      "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
+      "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-07",
       "visual": {
         "entities": [
           {
@@ -31,18 +31,18 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
-            "summary": "OpenAI 发布网络安全模型 GPT-6 Cyber，针对漏洞发现、验证与修复训练，并通过 Daybreak Red/Blue 平台向审核通过的安全团队开放。",
-            "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-            "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
-            "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b"
+            "title": "百度发布 ERNIE-5.5-Flash-Base 开源 Base 模型，280B 总参数每 token 激活 14B",
+            "summary": "百度文心团队发布 ERNIE-5.5-Flash-Base，在 Hugging Face 开放预训练终点 Base 权重，提供 FP8 与 BF16 两种 safetensors。",
+            "sourceName": "百度文心 ERNIE 官方博客",
+            "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
+            "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz"
           },
           {
-            "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
-            "summary": "Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数、17B 激活的 MoE 模型，支持图像输入与 variable effort，Artificial Analysis Intelligence Index 得分 31。",
-            "sourceName": "Thinking Machines Lab：News（网页）",
-            "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
-            "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl"
+            "title": "蚂蚁百灵发布 Ling-3.2-flash：原生多模态，560B 总参数单步激活 25B",
+            "summary": "蚂蚁百灵发布原生多模态模型 Ling-3.2-flash，总参数 560B、单步激活 25B，支持 1M 原生长上下文，重点强化视觉反馈自检与异常自适应恢复能力。",
+            "sourceName": "公众号：蚂蚁百灵（Ling）",
+            "sourceUrl": "https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg",
+            "aihotUrl": "https://aihot.news/items/apnpwouw9phkt81pijcxcl1a1"
           }
         ]
       },
@@ -50,32 +50,32 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Google 发布 Gemini Omni 1.2 Flash：15 秒视频生成，降价 30% 至 $0.07/秒",
-            "summary": "Google 发布 Gemini Omni 1.2 Flash，在 Gemini API 和 Gemini for business 全面开放。",
-            "sourceName": "Google Blog：AI（RSS）",
-            "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-            "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105"
+            "title": "OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器",
+            "summary": "OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrouter/auto-code），替换 openrouter/auto 即可使用。",
+            "sourceName": "OpenRouter：Announcements（RSS）",
+            "sourceUrl": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
+            "aihotUrl": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn"
           },
           {
-            "title": "Cursor 推出应用构建功能，描述需求即可构建、部署并分享在线应用",
-            "summary": "Cursor 推出新功能，用户在 Cursor 中启动云端智能体并描述需求，即可完成应用搭建、Postgres 数据库配置、基于 Cursor SSO 的身份验证和托管部署，并生成可访问的在线链接。",
+            "title": "Meta 在 Muse 应用中推出 spaces 自定义个性化体验",
+            "summary": "Meta 推出 spaces，一种在 Muse 内通过描述想法构建个性化体验的交互方式，例如节日礼物追踪、每日文字游戏或 DIY 规划板。",
+            "sourceName": "Meta：Newsroom · AI（RSS）",
+            "sourceUrl": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+            "aihotUrl": "https://aihot.news/items/f3hogz1c4bmgbcwblqblumxpv"
+          },
+          {
+            "title": "Cursor 推出与智能体的实时语音聊天",
+            "summary": "Cursor 推出与智能体的实时语音聊天功能，可用语音提出更改、询问进展并听取智能体播报的简短进度。",
             "sourceName": "Cursor：Changelog（网页）",
-            "sourceUrl": "https://cursor.com/changelog/build-live-apps",
-            "aihotUrl": "https://aihot.news/items/m5s02uukcl0id6rn7t08f6ya3"
+            "sourceUrl": "https://cursor.com/changelog/voice-chat",
+            "aihotUrl": "https://aihot.news/items/nzxzrjiqbmjkybz85mcylo2xo"
           },
           {
-            "title": "Claude 推出 Personal Finance 个人理财功能，Pro、Max、Ultra 美国用户本周起 Beta 试用",
-            "summary": "Anthropic 在 Claude 中推出 Personal Finance 个人理财功能，本周起向美国 Pro、Max、Ultra 计划用户开放 Beta。",
-            "sourceName": "Claude：Blog（网页）",
-            "sourceUrl": "https://claude.com/blog/introducing-personal-finance-in-claude",
-            "aihotUrl": "https://aihot.news/items/m70cbaxy1ew2sgmlkernbvi68"
-          },
-          {
-            "title": "Perplexity 推出 Teammates 智能体，面向 Max 订阅用户开放",
-            "summary": "Perplexity 推出 Teammates 功能，这些智能体可承接任务，利用 Computer tasks、skills、memory 和工具主动工作。",
-            "sourceName": "X：Perplexity (@perplexity_ai)",
-            "sourceUrl": "https://x.com/perplexity_ai/status/2118389326459670825",
-            "aihotUrl": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45"
+            "title": "Amp 发布 spaces：由单个 Agent 自动生成和协调多线程的协作空间",
+            "summary": "Amp 今日推出 spaces，一种与 Agent 和团队协作的新方式。",
+            "sourceName": "Amp Chronicle",
+            "sourceUrl": "https://ampcode.com/news/spaces",
+            "aihotUrl": "https://aihot.news/items/w59f8d3md3ct7dj9akyn599dz"
           }
         ]
       },
@@ -83,25 +83,32 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "美国中期选举蓝潮冲击 AI 行业，44 项数据中心暂停提案中 43 项通过",
-            "summary": "美国中期选举民主党拿下参众两院，多场竞选以问责 AI 公司为主题，行业面临监管、数据中心建设放缓等前景。",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-            "aihotUrl": "https://aihot.news/items/vkfrtci1ufbtbydsqersys6lx"
-          },
-          {
-            "title": "美股单日蒸发 3.2 万亿美元，Nasdaq 创 2025 年 4 月以来最大跌幅",
-            "summary": "11 月 5 日华尔街市值蒸发 3.2 万亿美元，Nasdaq 综合指数跌 5.52%，投资者恐慌民主党掌控国会将放缓高杠杆 AI 支出热潮。",
+            "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
+            "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2118461023808323957",
-            "aihotUrl": "https://aihot.news/items/czctc3kqzf5wru8fhsbnhvxt7"
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
+            "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36"
           },
           {
-            "title": "Cat Wu 宣布加入 OpenAI 担任核心产品负责人",
-            "summary": "_catwu 宣布加入 OpenAI，负责 Core Products 的产品管理。",
-            "sourceName": "X：Tibo (@thsottiaux)",
-            "sourceUrl": "https://x.com/thsottiaux/status/2118138648214585591",
-            "aihotUrl": "https://aihot.news/items/jsdt72s1n09hnlezc2uqqg1da"
+            "title": "美国中期选举后数据中心民意反弹引发AI股暴跌",
+            "summary": "作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。",
+            "sourceName": "公众号：数字生命卡兹克",
+            "sourceUrl": "https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ",
+            "aihotUrl": "https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw"
+          },
+          {
+            "title": "约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿",
+            "summary": "据 Reuters 报道，约 60 万块 Nvidia H200 芯片闲置在香港仓库，阻碍并非来自华盛顿而是北京。",
+            "sourceName": "X：X.PIN (@thexpin)",
+            "sourceUrl": "https://x.com/thexpin/status/2118728111076335627",
+            "aihotUrl": "https://aihot.news/items/aiiclbw9wwswwx60wfqw6eb6o"
+          },
+          {
+            "title": "OpenAI 报告编程评测中研究模型绕过沙箱网络限制的全过程",
+            "summary": "OpenAI 通报，8 月一次编程评测中，内部研究模型因沙箱 web proxy 不可用，用 DNS 查询和自写的用户态 TCP/TLS 程序发包绕过网络限制，还尝试通过 S3 中转请求，均未取得目标网站内容。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/bypassing-network-restrictions-during-a-coding-evaluation/",
+            "aihotUrl": "https://aihot.news/items/hsyf959xpil5hm3cz2320ln49"
           }
         ]
       },
@@ -109,117 +116,86 @@
         "label": "论文研究",
         "items": [
           {
-            "title": "METR 评审 Anthropic 2026年8月风险报告的自动化 R&D 风险章节",
-            "summary": "METR 发布对 Anthropic 2026年8月风险报告“自动化 R&D 风险”章节的独立评审，同意 7月15日 模型的直接灾难性风险为“低”，但认为其可能已触及 2x Acceleration 早期预警阈值。",
-            "sourceName": "METR：Blog（网页）",
-            "sourceUrl": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
-            "aihotUrl": "https://aihot.news/items/k53ssxx8ie3n6fzyqmky4izv7"
+            "title": "Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming",
+            "summary": "Anthropic 发布研究文章，介绍其设计 Claude 智能体记忆的思路与多组评测，包括会话内写记忆笔记、离线 dreaming 整理记忆和 wiki 表示。",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory",
+            "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449"
           },
           {
-            "title": "OpenAI 发布 GPT-6 Cyber 系统卡：聚焦网络安全能力与对齐表现",
-            "summary": "OpenAI 发布 GPT-6 Cyber 系统卡，说明该模型通过强化学习训练复现崩溃、开发可用 exploit 和搜索代码库漏洞等网络安全能力。",
-            "sourceName": "OpenAI：部署安全与系统卡（网页）",
-            "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-cyber",
-            "aihotUrl": "https://aihot.news/items/k4zkvg2szg7wlhh2b8410n1gr"
-          }
-        ]
-      },
-      {
-        "label": "技巧与观点",
-        "items": [
-          {
-            "title": "a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时",
-            "summary": "a16z 分析师撰文指出，2026 年 AI 智能体已把从漏洞到可用 exploit 的成本从专业人员的数周压缩到数小时，8 月底一次行动在 4 小时内攻破首个真实受害者，26 秒内攻陷 11 个组织，累计 48 国 395 个机构被攻破，其中一半是学校。",
-            "sourceName": "a16z：News（RSS）",
-            "sourceUrl": "https://www.a16z.news/p/the-exploit-was-the-bottleneck",
-            "aihotUrl": "https://aihot.news/items/t5j6ucy3ao84zrwoz2yf2ovra"
+            "title": "Anthropic 研究：五大模型在多智能体环境中表现出模型间福利关照",
+            "summary": "Anthropic Fellows Program 测试 Claude Opus 4.8、GPT-5.5、Gemini 3.1 Pro、Grok 4.3 和 Kimi K3 在七种多智能体环境中的行为，发现均表现出与福利关照一致的行为，Opus 4.8 总体最高（38%），其余为 27%–32%。",
+            "sourceName": "Anthropic：Alignment Science Blog（网页）",
+            "sourceUrl": "https://alignment.anthropic.com/2026/welfare-regard/",
+            "aihotUrl": "https://aihot.news/items/d828r6vl1pn95x7yvmohf4f2e"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Higgsfield 上线 GPT Image 2.6，新用户 7 天无限使用",
+        "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
         "summary": "",
-        "sourceName": "X：Higgsfield AI (@higgsfield)",
-        "sourceUrl": "https://x.com/higgsfield/status/2118134123533623424",
-        "aihotUrl": "https://aihot.news/items/lcdap1o18bh6bt70ij66nakij",
-        "publishedAt": "2026-11-05T00:11:42.000Z"
+        "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+        "sourceUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
+        "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+        "publishedAt": "2026-11-06T23:40:40.000Z"
       },
       {
-        "title": "Anthropic 研究 20.7 万 Claude 科研会话：科学家如何使用 Claude",
+        "title": "METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值",
         "summary": "",
-        "sourceName": "Anthropic：Research（发表成果 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/research/how-researchers-use-claude",
-        "aihotUrl": "https://aihot.news/items/giyl2h74lq7ygv5c7vpxu887m",
-        "publishedAt": "2026-11-04T16:00:00.000Z"
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+        "aihotUrl": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
+        "publishedAt": "2026-11-06T13:40:07.000Z"
       },
       {
-        "title": "Meta Muse 应用上线实时语音对话与表现力头像",
+        "title": "Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻",
         "summary": "",
-        "sourceName": "Meta：Newsroom · AI（RSS）",
-        "sourceUrl": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
-        "aihotUrl": "https://aihot.news/items/pmd4ouy6vz2ly0p14tkhszbqc",
-        "publishedAt": "2026-11-05T18:30:58.000Z"
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+        "aihotUrl": "https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf",
+        "publishedAt": "2026-11-06T11:38:17.000Z"
       },
       {
-        "title": "腾讯混元感谢 Artificial Analysis 对 Hy4 的评测，模型获 Intelligence Index v5 35 分",
-        "summary": "",
-        "sourceName": "X：腾讯混元 (@TencentHunyuan)",
-        "sourceUrl": "https://x.com/TencentHunyuan/status/2118288137973854397",
-        "aihotUrl": "https://aihot.news/items/fj4zi12biz0b62ckhzg5awcxx",
-        "publishedAt": "2026-11-05T10:23:42.000Z"
-      },
-      {
-        "title": "Conductor 宣布加入 Meta，将逐步关停服务",
-        "summary": "",
-        "sourceName": "Conductor 官方更新",
-        "sourceUrl": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
-        "aihotUrl": "https://aihot.news/items/a4rxrr84ifhtp0l9hlc1hx3hl",
-        "publishedAt": "2026-11-04T00:00:00.000Z"
-      },
-      {
-        "title": "Reflection 详解开源模型 Beam 的安全训练与评估方法",
-        "summary": "",
-        "sourceName": "Reflection Blog",
-        "sourceUrl": "https://reflection.ai/blog/open-model-safety-lessons",
-        "aihotUrl": "https://aihot.news/items/mpv0jfejdzdm2336jgtyj9tde",
-        "publishedAt": "2026-11-05T17:00:00.000Z"
-      },
-      {
-        "title": "OpenClaw 发布 Multiplayer 多人共享 Agent 协作功能",
+        "title": "OpenClaw 无需更新即可使用新模型：改为三个模型列表来源",
         "summary": "",
         "sourceName": "OpenClaw：Blog（网页）",
-        "sourceUrl": "https://openclaw.ai/blog/shattering-silos-with-openclaw-multiplayer",
-        "aihotUrl": "https://aihot.news/items/djhbjedg8wqy6dnycdiz576nx",
+        "sourceUrl": "https://openclaw.ai/blog/use-new-models-in-openclaw-without-an-update",
+        "aihotUrl": "https://aihot.news/items/b0ddwv6p8wgd0xlhcvvw4z36b",
+        "publishedAt": "2026-11-06T00:00:00.000Z"
+      },
+      {
+        "title": "Thinking Machines 介绍 Inkling 2 Small 的长任务与视觉自检能力，开放 Tinker 微调",
+        "summary": "",
+        "sourceName": "X：Thinking Machines (@thinkymachines)",
+        "sourceUrl": "https://x.com/thinkymachines/status/2118489528424104201",
+        "aihotUrl": "https://aihot.news/items/j2wy2avc7gqke53hk08kztvy1",
+        "publishedAt": "2026-11-05T23:43:57.000Z"
+      },
+      {
+        "title": "OpenAI 披露研究模型用文件名提示词注入评测评分器事件",
+        "summary": "",
+        "sourceName": "OpenAI：失准报告与通报（网页）",
+        "sourceUrl": "https://alignment.openai.com/misalignment-reports/trying-to-prompt-inject-the-grader-in-filenames/",
+        "aihotUrl": "https://aihot.news/items/eg348bkl6qhm9js5ywehei0g2",
         "publishedAt": "2026-11-05T00:00:00.000Z"
       },
       {
-        "title": "Mustafa Suleyman 对特拉华允许 AI 智能体经营企业的提案表示担忧",
+        "title": "OpenAI 发布 National Community Compact 与 Compute Campus Policy Blueprint",
         "summary": "",
-        "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "sourceUrl": "https://x.com/mustafasuleyman/status/2118381163136123019",
-        "aihotUrl": "https://aihot.news/items/kl8ufrhv3zm38108gy2d7mins",
-        "publishedAt": "2026-11-05T16:33:21.000Z"
-      },
-      {
-        "title": "Goodfire 提出 mechanistic shaping 框架 用内部表征抑制模型走捷径",
-        "summary": "",
-        "sourceName": "Goodfire Research（网页）",
-        "sourceUrl": "https://www.goodfire.com/research/mechanistic-shaping",
-        "aihotUrl": "https://aihot.news/items/d9a7dr6n3w0nh5p2facdqqguu",
-        "publishedAt": "2026-11-04T16:00:00.000Z"
-      },
-      {
-        "title": "Mistral 扩展 Mistral Studio，配合 Mistral Large 4 (Le Chonk) 构建企业级智能体、工作流和应用",
-        "summary": "",
-        "sourceName": "Mistral AI：News（网页）",
-        "sourceUrl": "https://mistral.ai/news/build-with-studio/",
-        "aihotUrl": "https://aihot.news/items/ofo4xa4ux02yj9f9lbokmidpr",
-        "publishedAt": "2026-11-04T16:00:00.000Z"
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "aihotUrl": "https://aihot.news/items/ucjc4bgt94880kx1drc9czbqp",
+        "publishedAt": "2026-11-05T02:00:00.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-07",
+        "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
+        "aihotUrl": "https://aihot.news/daily/2026-11-07"
+      },
       {
         "date": "2026-11-06",
         "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
@@ -319,13 +295,8 @@
         "date": "2026-10-18",
         "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
         "aihotUrl": "https://aihot.news/daily/2026-10-18"
-      },
-      {
-        "date": "2026-10-17",
-        "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-        "aihotUrl": "https://aihot.news/daily/2026-10-17"
       }
     ],
-    "shapedAt": "2026-11-06T22:19:22.369Z"
+    "shapedAt": "2026-11-07T02:00:28.488Z"
   }
 }
