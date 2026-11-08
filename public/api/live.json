@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月8日",
     "demo": false,
-    "updatedAt": "2026-11-08T02:18:04.017Z",
+    "updatedAt": "2026-11-08T09:07:20.898Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 50,
-      "latestCount": 2,
+      "received": 46,
+      "latestCount": 3,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -144,6 +144,43 @@
       ]
     },
     "items": [
+      {
+        "id": "aihot-i0qylf97r1at94oogm9m3eg9l",
+        "title": "OpenAI Pro 各档用量对比 Plus 说明",
+        "brief": "看到一些混淆，但所有 Pro 套餐都没有 5 小时限制，并且相比 Plus 提供以下用量。",
+        "summary": "看到一些混淆，但所有 Pro 套餐都没有 5 小时限制，并且相比 Plus 提供以下用量。",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2119296267545419987",
+        "aggregateUrl": "https://aihot.news/items/i0qylf97r1at94oogm9m3eg9l",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-08T05:09:39.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "行业观察",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
       {
         "id": "aihot-yatljomnnxk39an1vzjyrih1u",
         "title": "Karpathy 用 Claude Code 一次成型打造 TristanTube 视频站",
@@ -266,7 +303,7 @@
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
         "sourceCount": 3,
-        "participantCount": 19,
+        "participantCount": 21,
         "latestAt": "2026-11-08T00:44:04.537Z",
         "expanded": true,
         "latest": "消息称 Anthropic 仍推进 IPO：拟募资 800 亿至 1000 亿美元，估值预期回落",
@@ -322,6 +359,56 @@
       },
       {
         "rank": 2,
+        "id": "d28mrqwr7h7tl8b8jcse4b449",
+        "title": "Anthropic 发布研究拆解 Claude 智能体记忆机制",
+        "sourceName": "Anthropic：Research（发表成果 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory",
+        "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
+        "storyUrl": "https://aihot.news/story/a983842e-37eb-436c-9026-711d2fa63657",
+        "sourceCount": 2,
+        "participantCount": 14,
+        "latestAt": "2026-11-06T23:25:14.860Z",
+        "expanded": true,
+        "latest": "Anthropic 研究《The components of agent memory》：Claude 智能体靠做梦机制整理记忆提升长任务表现",
+        "reports": [
+          {
+            "title": "Anthropic 研究《The components of agent memory》：Claude 智能体靠做梦机制整理记忆提升长任务表现",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/023/613.htm",
+            "aihotUrl": "https://aihot.news/items/dlzqgg5x8fwm7lykc2516792t",
+            "publishedAt": "2026-11-06T23:25:14.860Z"
+          },
+          {
+            "title": "Anthropic 工程博客解析 Claude“做梦”如何整理智能体记忆",
+            "sourceName": "X：Anthropic (@AnthropicAI)",
+            "sourceUrl": "https://x.com/AnthropicAI/status/2118814753154064501",
+            "aihotUrl": "https://aihot.news/items/wf9vzojwrda427znntwp2s0r8",
+            "publishedAt": "2026-11-06T21:16:17.000Z"
+          },
+          {
+            "title": "Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory",
+            "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
+            "publishedAt": "2026-11-05T16:00:00.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
         "id": "m45kaixmfb2554qlzxbpnir36",
         "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -376,56 +463,6 @@
         }
       },
       {
-        "rank": 3,
-        "id": "yjwroxww17lcg4ntcu9ruo105",
-        "title": "Google 发布 Omni 1.2 Flash，视频生成提至 15 秒",
-        "sourceName": "Google Blog：AI（RSS）",
-        "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-        "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
-        "storyUrl": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219",
-        "sourceCount": 1,
-        "participantCount": 23,
-        "latestAt": "2026-11-06T02:29:44.000Z",
-        "expanded": true,
-        "latest": "Higgsfield 上线 Gemini Omni 1.2 Flash",
-        "reports": [
-          {
-            "title": "Arena 周报：Kimi K3.1 Pro 开放权重登顶 Agent 榜，Gemini Omni 1.2 Flash 领跑视频生成",
-            "sourceName": "X：Arena (@arena)",
-            "sourceUrl": "https://x.com/arena/status/2118836687925354862",
-            "aihotUrl": "https://aihot.news/items/dhe5bbxx5dyag3x9nk5cbpe4i",
-            "publishedAt": "2026-11-06T22:43:27.000Z"
-          },
-          {
-            "title": "Higgsfield 上线 Gemini Omni 1.2 Flash",
-            "sourceName": "X：Higgsfield AI (@higgsfield)",
-            "sourceUrl": "https://x.com/higgsfield/status/2118531248058712439",
-            "aihotUrl": "https://aihot.news/items/dh6u0rf9omkdcu6qj7j7m65j4",
-            "publishedAt": "2026-11-06T02:29:44.000Z"
-          },
-          {
-            "title": "Gemini Omni 1.2 Flash 上线 Higgsfield",
-            "sourceName": "X：Higgsfield AI (@higgsfield)",
-            "sourceUrl": "https://x.com/higgsfield/status/2118531245865087363",
-            "aihotUrl": "https://aihot.news/items/iherxwf5l55jl8x0akk22gx2j",
-            "publishedAt": "2026-11-06T02:29:44.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 4,
         "id": "f3hogz1c4bmgbcwblqblumxpv",
         "title": "Meta在Muse推出spaces并升级模型",
@@ -455,42 +492,14 @@
       },
       {
         "rank": 5,
-        "id": "d28mrqwr7h7tl8b8jcse4b449",
-        "title": "Anthropic 发布研究拆解 Claude 智能体记忆机制",
-        "sourceName": "Anthropic：Research（发表成果 · 网页）",
-        "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory",
-        "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
-        "storyUrl": "https://aihot.news/story/a983842e-37eb-436c-9026-711d2fa63657",
-        "sourceCount": 2,
-        "participantCount": 12,
-        "latestAt": "2026-11-06T23:25:14.860Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 6,
         "id": "bu8612ca3e1uyxjppk56ef1wl",
         "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
         "sourceName": "Thinking Machines Lab：News（网页）",
         "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
         "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
         "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
-        "sourceCount": 4,
-        "participantCount": 13,
+        "sourceCount": 3,
+        "participantCount": 12,
         "latestAt": "2026-11-07T16:31:00.000Z",
         "expanded": false,
         "latest": "",
@@ -510,16 +519,16 @@
         }
       },
       {
-        "rank": 7,
-        "id": "ob3k2pi4okhhltmfxgkavfjod",
-        "title": "DeepSeek网页与API服务中断45分钟后恢复",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/023/697.htm",
-        "aihotUrl": "https://aihot.news/items/ob3k2pi4okhhltmfxgkavfjod",
-        "storyUrl": "https://aihot.news/story/2861254b-d4a1-436b-934f-1c7a44583b7e",
-        "sourceCount": 1,
-        "participantCount": 8,
-        "latestAt": "2026-11-07T08:48:00.363Z",
+        "rank": 6,
+        "id": "nsy92pj0h1aiwvp0wdqkzb1cc",
+        "title": "Nous Research 微调 Qwen 推出 Arete-27B",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+        "aihotUrl": "https://aihot.news/items/nsy92pj0h1aiwvp0wdqkzb1cc",
+        "storyUrl": "https://aihot.news/story/4648eb5b-d72a-42ef-ae63-e963d1fccca0",
+        "sourceCount": 2,
+        "participantCount": 7,
+        "latestAt": "2026-11-08T04:45:59.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -527,10 +536,38 @@
         "visual": {
           "entities": [
             {
-              "name": "IT之家·人工智能",
+              "name": "The Decoder：AI News（RSS）",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "uhi0dbgdjc32uma8nu41ftguf",
+        "title": "GPT-6.1 Sol参与小鼠脑手术定位实验",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/023/900.htm",
+        "aihotUrl": "https://aihot.news/items/uhi0dbgdjc32uma8nu41ftguf",
+        "storyUrl": "https://aihot.news/story/6eeb5785-1785-4258-bcdf-95eccfdc5d8c",
+        "sourceCount": 1,
+        "participantCount": 5,
+        "latestAt": "2026-11-08T07:05:49.673Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -567,15 +604,15 @@
       },
       {
         "rank": 9,
-        "id": "wkgcal7l9pkj3g7w8ohlp3c45",
-        "title": "Perplexity 推出 Teammates 工作智能体，Max 用户网页版先行",
-        "sourceName": "X：Perplexity (@perplexity_ai)",
-        "sourceUrl": "https://x.com/perplexity_ai/status/2118389326459670825",
-        "aihotUrl": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45",
-        "storyUrl": "https://aihot.news/story/a098c7ba-95e3-44b0-9c6f-dfe14243cc3c",
-        "sourceCount": 3,
-        "participantCount": 10,
-        "latestAt": "2026-11-07T23:32:04.000Z",
+        "id": "ob3k2pi4okhhltmfxgkavfjod",
+        "title": "DeepSeek网页与API服务中断45分钟后恢复",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/023/697.htm",
+        "aihotUrl": "https://aihot.news/items/ob3k2pi4okhhltmfxgkavfjod",
+        "storyUrl": "https://aihot.news/story/2861254b-d4a1-436b-934f-1c7a44583b7e",
+        "sourceCount": 1,
+        "participantCount": 8,
+        "latestAt": "2026-11-07T08:48:00.363Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -583,10 +620,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Perplexity",
-              "asset": "/assets/identities/perplexity_ai.jpg",
-              "assetSource": "https://x.com/perplexity_ai",
-              "tone": "#dcebea"
+              "name": "IT之家·人工智能",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -602,7 +639,7 @@
         "aihotUrl": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
         "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
         "sourceCount": 2,
-        "participantCount": 8,
+        "participantCount": 9,
         "latestAt": "2026-11-06T23:00:44.000Z",
         "expanded": false,
         "latest": "",
@@ -625,8 +662,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-08T02:18:04.017Z",
-    "nextCheckAt": 1794104584017,
+    "checkedAt": "2026-11-08T09:07:20.898Z",
+    "nextCheckAt": 1794129140898,
     "intervalSeconds": 300,
     "message": ""
   }
