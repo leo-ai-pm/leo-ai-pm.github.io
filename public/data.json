@@ -1,7 +1,7 @@
 {
   "date": "2026年11月8日",
   "demo": false,
-  "updatedAt": "2026-11-07T22:56:41.859Z",
+  "updatedAt": "2026-11-08T02:18:04.017Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 57,
-    "latestCount": 1,
+    "received": 50,
+    "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -128,8 +128,8 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "Thom_Wolf",
@@ -181,6 +181,43 @@
       }
     },
     {
+      "id": "aihot-p8oqmtvatj7bnodfp4jincgf8",
+      "title": "Perplexity CEO 称 Teammates 上线次日自动化运行量增长 3.7x",
+      "brief": "Perplexity 发布面向工作的个人智能体 Teammates，从在会话中写提示词改为下达高层目标，今日起向 Max 用户提供网页版，移动和桌面原生应用即将推出。",
+      "summary": "Perplexity 发布面向工作的个人智能体 Teammates，从在会话中写提示词改为下达高层目标，今日起向 Max 用户提供网页版，移动和桌面原生应用即将推出。",
+      "category": "行业观察",
+      "topic": "Agent",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "AravSrinivas",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2119211310424654034",
+      "aggregateUrl": "https://aihot.news/items/p8oqmtvatj7bnodfp4jincgf8",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-11-07T23:32:04.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
+          }
+        ],
+        "caption": "行业观察",
+        "author": {
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
       "id": "x-karpathy-2079610838143623371",
       "title": "Karpathy：用自由讲述给 LLM 补足上下文",
       "brief": "先把目标讲清楚，再让模型开始工作。",
@@ -221,48 +258,116 @@
   "ranking": [
     {
       "rank": 1,
-      "id": "bu8612ca3e1uyxjppk56ef1wl",
-      "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
-      "sourceName": "Thinking Machines Lab：News（网页）",
-      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
-      "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
-      "sourceCount": 8,
-      "participantCount": 25,
-      "latestAt": "2026-11-07T16:31:00.000Z",
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic 拟感恩节前 IPO，估值预期下调至 1.25–1.75 万亿美元",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+      "sourceCount": 3,
+      "participantCount": 19,
+      "latestAt": "2026-11-08T00:44:04.537Z",
       "expanded": true,
-      "latest": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
+      "latest": "消息称 Anthropic 仍推进 IPO：拟募资 800 亿至 1000 亿美元，估值预期回落",
       "reports": [
         {
-          "title": "Vals AI 研究：Thinking Machines 的 Inkling 2 Small 在基准测试中爆粗口 316 次",
+          "title": "消息称 Anthropic 仍推进 IPO：拟募资 800 亿至 1000 亿美元，估值预期回落",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/023/854.htm",
+          "aihotUrl": "https://aihot.news/items/cjulee90gasnt7mbhmxcuiiqj",
+          "publishedAt": "2026-11-08T00:44:04.537Z"
+        },
+        {
+          "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
           "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
-          "aihotUrl": "https://aihot.news/items/h1e0zbyqc8p5ps481naunojc2",
-          "publishedAt": "2026-11-07T16:31:00.000Z"
+          "sourceUrl": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+          "aihotUrl": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
+          "publishedAt": "2026-11-07T17:37:25.000Z"
         },
         {
-          "title": "Inkling 2 Small 登顶 WebDev 开源榜",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2118821131268542656",
-          "aihotUrl": "https://aihot.news/items/r9vhw2sw7ngvttl2nuw8n2um5",
-          "publishedAt": "2026-11-06T21:41:38.000Z"
-        },
-        {
-          "title": "Arena 榜单显示 Inkling 2 Small 以 1648 分位列 Code Arena: WebDev 实验室第 8",
-          "sourceName": "X：Arena (@arena)",
-          "sourceUrl": "https://x.com/arena/status/2118799582092288255",
-          "aihotUrl": "https://aihot.news/items/ig2uhv0ty94xcuylusksz6e8j",
-          "publishedAt": "2026-11-06T20:16:00.000Z"
+          "title": "Anthropic IPO 估值存分歧，1.5 万亿美元仍被部分投资者嫌贵",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/023/640.htm",
+          "aihotUrl": "https://aihot.news/items/losfqwxesuanjnt62v032oo9o",
+          "publishedAt": "2026-11-07T01:36:48.637Z"
         }
       ],
-      "related": [],
+      "related": [
+        {
+          "title": "Anthropic季度营收增十二倍仍亏233亿美元",
+          "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
+        },
+        {
+          "title": "Anthropic三季度收入168亿美元，增速放缓",
+          "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
+        },
+        {
+          "title": "泄露文件：Anthropic 云算力受限且财务承压",
+          "storyUrl": "https://aihot.news/story/aae8dcdf-5e54-4323-b53e-5e0a336748d5"
+        }
+      ],
       "visual": {
         "entities": [
           {
-            "name": "Thinking Machines Lab：News（网页）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "IPO",
+        "author": null
+      }
+    },
+    {
+      "rank": 2,
+      "id": "m45kaixmfb2554qlzxbpnir36",
+      "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
+      "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+      "storyUrl": "https://aihot.news/story/fba07069-fd3e-44bd-ad2d-f347f820dab3",
+      "sourceCount": 4,
+      "participantCount": 16,
+      "latestAt": "2026-11-07T09:45:23.000Z",
+      "expanded": true,
+      "latest": "OpenAI 获得 110 亿美元融资首笔，估值 1.25 万亿美元",
+      "reports": [
+        {
+          "title": "OpenAI 获得 110 亿美元融资首笔，估值 1.25 万亿美元",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+          "aihotUrl": "https://aihot.news/items/dylhmpqmmpf0ep3ccil29t1uv",
+          "publishedAt": "2026-11-07T09:45:23.000Z"
+        },
+        {
+          "title": "OpenAI 新一轮融资 110 亿美元，估值达 1.25 万亿美元",
+          "sourceName": "The Verge：AI（RSS）",
+          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "aihotUrl": "https://aihot.news/items/rwtxr2ojxyp783mxrtbwcsgpx",
+          "publishedAt": "2026-11-06T23:46:18.000Z"
+        },
+        {
+          "title": "OpenAI 传已融资 110 亿美元，估值 1.25 万亿美元",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "aihotUrl": "https://aihot.news/items/nzv1dbnt3om3p6ff8fujiq0ga",
+          "publishedAt": "2026-11-06T22:53:46.000Z"
+        }
+      ],
+      "related": [
+        {
+          "title": "OpenAI 融资目标缩至约 200 亿美元，估值约 1.25 万亿",
+          "storyUrl": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd"
+        }
+      ],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -270,15 +375,15 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "yjwroxww17lcg4ntcu9ruo105",
       "title": "Google 发布 Omni 1.2 Flash，视频生成提至 15 秒",
       "sourceName": "Google Blog：AI（RSS）",
       "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
       "storyUrl": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219",
-      "sourceCount": 3,
-      "participantCount": 27,
+      "sourceCount": 1,
+      "participantCount": 23,
       "latestAt": "2026-11-06T02:29:44.000Z",
       "expanded": true,
       "latest": "Higgsfield 上线 Gemini Omni 1.2 Flash",
@@ -320,98 +425,7 @@
       }
     },
     {
-      "rank": 3,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 拟感恩节前 IPO，估值预期下调至 1.25–1.75 万亿美元",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "sourceCount": 3,
-      "participantCount": 17,
-      "latestAt": "2026-11-07T17:37:25.000Z",
-      "expanded": true,
-      "latest": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
-      "reports": [
-        {
-          "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
-          "aihotUrl": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
-          "publishedAt": "2026-11-07T17:37:25.000Z"
-        },
-        {
-          "title": "Anthropic IPO 估值存分歧，1.5 万亿美元仍被部分投资者嫌贵",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/023/640.htm",
-          "aihotUrl": "https://aihot.news/items/losfqwxesuanjnt62v032oo9o",
-          "publishedAt": "2026-11-07T01:36:48.637Z"
-        },
-        {
-          "title": "WSJ：投资者将 Anthropic IPO 估值预期从约 $2T 下调至 $1.5T",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2118719195072659833",
-          "aihotUrl": "https://aihot.news/items/kv9zqeiqr9wj29j6vmq9q6je6",
-          "publishedAt": "2026-11-06T14:56:34.000Z"
-        }
-      ],
-      "related": [
-        {
-          "title": "Anthropic季度营收增十二倍仍亏233亿美元",
-          "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
-        },
-        {
-          "title": "Anthropic三季度收入168亿美元，增速放缓",
-          "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
-        },
-        {
-          "title": "泄露文件：Anthropic 云算力受限且财务承压",
-          "storyUrl": "https://aihot.news/story/aae8dcdf-5e54-4323-b53e-5e0a336748d5"
-        }
-      ],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "IPO",
-        "author": null
-      }
-    },
-    {
       "rank": 4,
-      "id": "m45kaixmfb2554qlzxbpnir36",
-      "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
-      "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
-      "storyUrl": "https://aihot.news/story/fba07069-fd3e-44bd-ad2d-f347f820dab3",
-      "sourceCount": 4,
-      "participantCount": 16,
-      "latestAt": "2026-11-07T09:45:23.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
       "id": "f3hogz1c4bmgbcwblqblumxpv",
       "title": "Meta在Muse推出spaces并升级模型",
       "sourceName": "Meta：Newsroom · AI（RSS）",
@@ -439,7 +453,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "d28mrqwr7h7tl8b8jcse4b449",
       "title": "Anthropic 发布研究拆解 Claude 智能体记忆机制",
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
@@ -467,63 +481,35 @@
       }
     },
     {
+      "rank": 6,
+      "id": "bu8612ca3e1uyxjppk56ef1wl",
+      "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
+      "sourceName": "Thinking Machines Lab：News（网页）",
+      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "aihotUrl": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+      "storyUrl": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5",
+      "sourceCount": 4,
+      "participantCount": 13,
+      "latestAt": "2026-11-07T16:31:00.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Thinking Machines Lab：News（网页）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
       "rank": 7,
-      "id": "u904yv6dn7sw6lwjgxxedqd3b",
-      "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
-      "aihotUrl": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
-      "storyUrl": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34",
-      "sourceCount": 1,
-      "participantCount": 17,
-      "latestAt": "2026-11-05T23:22:55.767Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "wwltahauj3uhzwy9yizi2i6f3",
-      "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/introducing-images-2-6",
-      "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
-      "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
-      "sourceCount": 5,
-      "participantCount": 12,
-      "latestAt": "2026-11-07T11:22:20.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
       "id": "ob3k2pi4okhhltmfxgkavfjod",
       "title": "DeepSeek网页与API服务中断45分钟后恢复",
       "sourceName": "IT之家·人工智能",
@@ -551,7 +537,35 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "id": "wwltahauj3uhzwy9yizi2i6f3",
+      "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6",
+      "aihotUrl": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
+      "storyUrl": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e",
+      "sourceCount": 5,
+      "participantCount": 11,
+      "latestAt": "2026-11-07T11:22:20.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
       "id": "wkgcal7l9pkj3g7w8ohlp3c45",
       "title": "Perplexity 推出 Teammates 工作智能体，Max 用户网页版先行",
       "sourceName": "X：Perplexity (@perplexity_ai)",
@@ -560,7 +574,7 @@
       "storyUrl": "https://aihot.news/story/a098c7ba-95e3-44b0-9c6f-dfe14243cc3c",
       "sourceCount": 3,
       "participantCount": 10,
-      "latestAt": "2026-11-07T17:26:57.000Z",
+      "latestAt": "2026-11-07T23:32:04.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -572,6 +586,34 @@
             "asset": "/assets/identities/perplexity_ai.jpg",
             "assetSource": "https://x.com/perplexity_ai",
             "tone": "#dcebea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
+      "id": "lq97h52ctxw2nkri4qqxj5lbx",
+      "title": "纽时称中国情报人员接近黄仁勋，英伟达否认，国会要求简报",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
+      "aihotUrl": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
+      "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
+      "sourceCount": 2,
+      "participantCount": 8,
+      "latestAt": "2026-11-06T23:00:44.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
           }
         ],
         "caption": "热点",

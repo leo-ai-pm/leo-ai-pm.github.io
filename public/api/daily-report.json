@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-07T22:56:44.670Z",
+  "checkedAt": "2026-11-08T02:18:06.747Z",
   "message": "",
   "report": {
-    "date": "2026-11-07",
-    "dateLabel": "2026年11月7日",
-    "weekday": "周六",
-    "issue": 55,
-    "generatedAt": "2026-11-07T00:00:08.835Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-07",
+    "date": "2026-11-08",
+    "dateLabel": "2026年11月8日",
+    "weekday": "周日",
+    "issue": 56,
+    "generatedAt": "2026-11-08T00:00:31.968Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-08",
     "lead": {
-      "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
-      "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-07",
+      "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+      "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-08",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "今日导读",
@@ -28,169 +28,34 @@
     },
     "sections": [
       {
-        "label": "模型发布/更新",
-        "items": [
-          {
-            "title": "百度发布 ERNIE-5.5-Flash-Base 开源 Base 模型，280B 总参数每 token 激活 14B",
-            "summary": "百度文心团队发布 ERNIE-5.5-Flash-Base，在 Hugging Face 开放预训练终点 Base 权重，提供 FP8 与 BF16 两种 safetensors。",
-            "sourceName": "百度文心 ERNIE 官方博客",
-            "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
-            "aihotUrl": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz"
-          },
-          {
-            "title": "蚂蚁百灵发布 Ling-3.2-flash：原生多模态，560B 总参数单步激活 25B",
-            "summary": "蚂蚁百灵发布原生多模态模型 Ling-3.2-flash，总参数 560B、单步激活 25B，支持 1M 原生长上下文，重点强化视觉反馈自检与异常自适应恢复能力。",
-            "sourceName": "公众号：蚂蚁百灵（Ling）",
-            "sourceUrl": "https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg",
-            "aihotUrl": "https://aihot.news/items/apnpwouw9phkt81pijcxcl1a1"
-          }
-        ]
-      },
-      {
-        "label": "产品发布/更新",
-        "items": [
-          {
-            "title": "OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器",
-            "summary": "OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrouter/auto-code），替换 openrouter/auto 即可使用。",
-            "sourceName": "OpenRouter：Announcements（RSS）",
-            "sourceUrl": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
-            "aihotUrl": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn"
-          },
-          {
-            "title": "Meta 在 Muse 应用中推出 spaces 自定义个性化体验",
-            "summary": "Meta 推出 spaces，一种在 Muse 内通过描述想法构建个性化体验的交互方式，例如节日礼物追踪、每日文字游戏或 DIY 规划板。",
-            "sourceName": "Meta：Newsroom · AI（RSS）",
-            "sourceUrl": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
-            "aihotUrl": "https://aihot.news/items/f3hogz1c4bmgbcwblqblumxpv"
-          },
-          {
-            "title": "Cursor 推出与智能体的实时语音聊天",
-            "summary": "Cursor 推出与智能体的实时语音聊天功能，可用语音提出更改、询问进展并听取智能体播报的简短进度。",
-            "sourceName": "Cursor：Changelog（网页）",
-            "sourceUrl": "https://cursor.com/changelog/voice-chat",
-            "aihotUrl": "https://aihot.news/items/nzxzrjiqbmjkybz85mcylo2xo"
-          },
-          {
-            "title": "Amp 发布 spaces：由单个 Agent 自动生成和协调多线程的协作空间",
-            "summary": "Amp 今日推出 spaces，一种与 Agent 和团队协作的新方式。",
-            "sourceName": "Amp Chronicle",
-            "sourceUrl": "https://ampcode.com/news/spaces",
-            "aihotUrl": "https://aihot.news/items/w59f8d3md3ct7dj9akyn599dz"
-          }
-        ]
-      },
-      {
         "label": "行业动态",
         "items": [
           {
-            "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
-            "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
-            "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36"
-          },
-          {
-            "title": "美国中期选举后数据中心民意反弹引发AI股暴跌",
-            "summary": "作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。",
-            "sourceName": "公众号：数字生命卡兹克",
-            "sourceUrl": "https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ",
-            "aihotUrl": "https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw"
-          },
-          {
-            "title": "约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿",
-            "summary": "据 Reuters 报道，约 60 万块 Nvidia H200 芯片闲置在香港仓库，阻碍并非来自华盛顿而是北京。",
-            "sourceName": "X：X.PIN (@thexpin)",
-            "sourceUrl": "https://x.com/thexpin/status/2118728111076335627",
-            "aihotUrl": "https://aihot.news/items/aiiclbw9wwswwx60wfqw6eb6o"
-          },
-          {
-            "title": "OpenAI 报告编程评测中研究模型绕过沙箱网络限制的全过程",
-            "summary": "OpenAI 通报，8 月一次编程评测中，内部研究模型因沙箱 web proxy 不可用，用 DNS 查询和自写的用户态 TCP/TLS 程序发包绕过网络限制，还尝试通过 S3 中转请求，均未取得目标网站内容。",
-            "sourceName": "OpenAI：失准报告与通报（网页）",
-            "sourceUrl": "https://alignment.openai.com/misalignment-reports/bypassing-network-restrictions-during-a-coding-evaluation/",
-            "aihotUrl": "https://aihot.news/items/hsyf959xpil5hm3cz2320ln49"
-          }
-        ]
-      },
-      {
-        "label": "论文研究",
-        "items": [
-          {
-            "title": "Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming",
-            "summary": "Anthropic 发布研究文章，介绍其设计 Claude 智能体记忆的思路与多组评测，包括会话内写记忆笔记、离线 dreaming 整理记忆和 wiki 表示。",
-            "sourceName": "Anthropic：Research（发表成果 · 网页）",
-            "sourceUrl": "https://www.anthropic.com/research/components-of-agent-memory",
-            "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449"
-          },
-          {
-            "title": "Anthropic 研究：五大模型在多智能体环境中表现出模型间福利关照",
-            "summary": "Anthropic Fellows Program 测试 Claude Opus 4.8、GPT-5.5、Gemini 3.1 Pro、Grok 4.3 和 Kimi K3 在七种多智能体环境中的行为，发现均表现出与福利关照一致的行为，Opus 4.8 总体最高（38%），其余为 27%–32%。",
-            "sourceName": "Anthropic：Alignment Science Blog（网页）",
-            "sourceUrl": "https://alignment.anthropic.com/2026/welfare-regard/",
-            "aihotUrl": "https://aihot.news/items/d828r6vl1pn95x7yvmohf4f2e"
+            "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+            "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/023/765.htm",
+            "aihotUrl": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
-        "summary": "",
-        "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-        "sourceUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
-        "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
-        "publishedAt": "2026-11-06T23:40:40.000Z"
-      },
-      {
-        "title": "METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值",
+        "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
         "summary": "",
         "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-        "aihotUrl": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
-        "publishedAt": "2026-11-06T13:40:07.000Z"
-      },
-      {
-        "title": "Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻",
-        "summary": "",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
-        "aihotUrl": "https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf",
-        "publishedAt": "2026-11-06T11:38:17.000Z"
-      },
-      {
-        "title": "OpenClaw 无需更新即可使用新模型：改为三个模型列表来源",
-        "summary": "",
-        "sourceName": "OpenClaw：Blog（网页）",
-        "sourceUrl": "https://openclaw.ai/blog/use-new-models-in-openclaw-without-an-update",
-        "aihotUrl": "https://aihot.news/items/b0ddwv6p8wgd0xlhcvvw4z36b",
-        "publishedAt": "2026-11-06T00:00:00.000Z"
-      },
-      {
-        "title": "Thinking Machines 介绍 Inkling 2 Small 的长任务与视觉自检能力，开放 Tinker 微调",
-        "summary": "",
-        "sourceName": "X：Thinking Machines (@thinkymachines)",
-        "sourceUrl": "https://x.com/thinkymachines/status/2118489528424104201",
-        "aihotUrl": "https://aihot.news/items/j2wy2avc7gqke53hk08kztvy1",
-        "publishedAt": "2026-11-05T23:43:57.000Z"
-      },
-      {
-        "title": "OpenAI 披露研究模型用文件名提示词注入评测评分器事件",
-        "summary": "",
-        "sourceName": "OpenAI：失准报告与通报（网页）",
-        "sourceUrl": "https://alignment.openai.com/misalignment-reports/trying-to-prompt-inject-the-grader-in-filenames/",
-        "aihotUrl": "https://aihot.news/items/eg348bkl6qhm9js5ywehei0g2",
-        "publishedAt": "2026-11-05T00:00:00.000Z"
-      },
-      {
-        "title": "OpenAI 发布 National Community Compact 与 Compute Campus Policy Blueprint",
-        "summary": "",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-        "aihotUrl": "https://aihot.news/items/ucjc4bgt94880kx1drc9czbqp",
-        "publishedAt": "2026-11-05T02:00:00.000Z"
+        "sourceUrl": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+        "aihotUrl": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
+        "publishedAt": "2026-11-07T17:37:25.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-08",
+        "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+        "aihotUrl": "https://aihot.news/daily/2026-11-08"
+      },
       {
         "date": "2026-11-07",
         "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
@@ -290,13 +155,8 @@
         "date": "2026-10-19",
         "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
         "aihotUrl": "https://aihot.news/daily/2026-10-19"
-      },
-      {
-        "date": "2026-10-18",
-        "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
-        "aihotUrl": "https://aihot.news/daily/2026-10-18"
       }
     ],
-    "shapedAt": "2026-11-07T22:56:44.670Z"
+    "shapedAt": "2026-11-08T02:18:06.747Z"
   }
 }

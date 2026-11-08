@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-07T22:56:33.214Z",
-      "lastSuccessAt": "2026-11-07T22:56:33.214Z",
-      "nextCheckAt": 1794095793214,
+      "checkedAt": "2026-11-08T02:17:55.139Z",
+      "lastSuccessAt": "2026-11-08T02:17:55.139Z",
+      "nextCheckAt": 1794107875139,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-08T02:17:55.141Z",
+      "lastSuccessAt": "2026-11-08T02:17:55.141Z",
+      "nextCheckAt": 1794107875141,
       "status": "ok",
-      "nextCheckAt": 1794095793215,
-      "checkedAt": "2026-11-07T22:56:33.215Z",
-      "lastSuccessAt": "2026-11-07T22:56:33.215Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-07T22:56:33.216Z",
-      "lastSuccessAt": "2026-11-07T22:56:33.216Z",
-      "nextCheckAt": 1794095793216,
+      "checkedAt": "2026-11-08T02:17:55.142Z",
+      "lastSuccessAt": "2026-11-08T02:17:55.142Z",
+      "nextCheckAt": 1794107875142,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1794095793427,
-      "checkedAt": "2026-11-07T22:56:33.427Z",
-      "lastSuccessAt": "2026-11-07T22:56:33.427Z",
+      "nextCheckAt": 1794107875258,
+      "checkedAt": "2026-11-08T02:17:55.258Z",
+      "lastSuccessAt": "2026-11-08T02:17:55.258Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794095793214,
+  "nextCheckAt": 1794107875139,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6490530.html",
+      "title": "WorkBuddy本地部署声音克隆TTS小模型",
+      "summary": "上一篇聊过用 WorkBuddy 本地部署 OCR 小模型，这次换成一个轻量 TTS：Audio8 TTS 在 CPU 上就能跑，13 秒原声可以克隆出 9 秒配音，家用电脑不用独立显卡也能部署，提示词写完就开工。 上一篇文章给小伙伴安利了一个，可以使用WorkBuddy进行本地部署的OCR小模型之后，反响还不错。没看过的小伙伴可以回看：WorkBuddy本地部署超强OCR识别小模型 像很多小伙伴的家用或者办公电脑，一般配置都不高，即便",
+      "publishedAt": "2026-11-08T01:40:42.000Z",
+      "url": "https://www.woshipm.com/ai/6490530.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6490530.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "上一篇聊过用 WorkBuddy 本地部署 OCR 小模型，这次换成一个轻量 TTS：Audio8 TTS 在 CPU 上就能跑，13 秒原声可以克隆出 9 秒配音，家用电脑不用独立显卡也能部署，提示词写完就开工。 上一篇文章给小伙伴安利了一个，可以使用WorkBuddy进行本地部署的OCR小模型之后，反响还不错。没看过的小伙伴可以回看：WorkBuddy本地部署超强OCR识别小模型 像很多小伙伴的家用或者办公电脑，一般配置都不高，即便",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6490314.html",
       "title": "龙虾突然撕掉单人标签，整个科技圈的Agent可能都要换一种活法",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6490419.html",
@@ -167,46 +207,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "SuperCLUE 用端到端任务把 8 款国内办公 Agent 拉了一遍横测，豆包工作以 85.33 分拿下总榜第一，文档处理单项领先第二名近 5 分。作者结合自己每天在飞书里的用法，拆了拆这份榜单。 今天周六，不给大家整教程，也不聊什么技术细节了。这篇简单聊聊，就当唠唠嗑～ 前两天刷到SuperCLUE发的一份办公智能体测评：SuperCLUE-Office 他们一口气拉了8款国内主流办公智能体进行横测：豆包工作、Kimi Work、",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6490339.html",
-      "title": "给孩子讲不清狼人杀规则，我用Fotor Agent把它直接做成了MG动画视频",
-      "summary": "陪孩子玩狼人杀讲不清规则，作者干脆用 Fotor Agent 做了一段 MG 动画视频。走的是代码生成视频的路线，写清需求就能出 4K 成片，分镜、角色卡、字幕音轨都能在时间线上改。顺带把模板中心与精准编辑这两块也拆了一遍。 最近几天，我几乎每天晚上都在陪孩子玩狼人杀。 小朋友对规则还不太熟练，我就琢磨着，干脆给他们做一段视频动画来讲解吧。 比如，能让一边讲解一边让角色卡动态呈现，夜晚和白天的时间线、规则等也都跟着讲解适配，这肯定比干巴",
-      "publishedAt": "2026-11-07T02:29:27.000Z",
-      "url": "https://www.woshipm.com/ai/6490339.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6490339.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "陪孩子玩狼人杀讲不清规则，作者干脆用 Fotor Agent 做了一段 MG 动画视频。走的是代码生成视频的路线，写清需求就能出 4K 成片，分镜、角色卡、字幕音轨都能在时间线上改。顺带把模板中心与精准编辑这两块也拆了一遍。 最近几天，我几乎每天晚上都在陪孩子玩狼人杀。 小朋友对规则还不太熟练，我就琢磨着，干脆给他们做一段视频动画来讲解吧。 比如，能让一边讲解一边让角色卡动态呈现，夜晚和白天的时间线、规则等也都跟着讲解适配，这肯定比干巴",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",

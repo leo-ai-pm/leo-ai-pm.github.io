@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-07T22:57:03.658Z",
+  "checkedAt": "2026-11-08T02:18:21.151Z",
   "message": "",
   "categories": [
     {
@@ -51,20 +51,6 @@
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "pqbbgx5sn86iy7v4izf1qv49z",
-      "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
-      "reason": "独立实测给出两款模型的速度、质量与价格数据，读者可以据此在 Flare 和 Sunburst 之间做出选择。",
-      "summary": "Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。",
-      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
-      "sourceUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
-      "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
-      "publishedAt": "2026-11-06T23:40:40.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
       "unselected": false
     }
   ],
@@ -600,20 +586,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "yww15c701iat30p8ttjf029ij",
-      "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
-      "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
-      "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
-      "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -783,20 +755,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "yww15c701iat30p8ttjf029ij",
-          "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
-          "reason": "教程给出在沙箱中运行代码验证 bug 的完整脚本与四模型实测数据，读者可照搬接入 pre-push 钩子或 GitHub Actions。",
-          "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
-          "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
-          "publishedAt": "2026-11-01T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
