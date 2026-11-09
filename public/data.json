@@ -1,7 +1,7 @@
 {
   "date": "2026年11月9日",
   "demo": false,
-  "updatedAt": "2026-11-08T23:57:25.964Z",
+  "updatedAt": "2026-11-09T05:59:24.263Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 49,
-    "latestCount": 2,
+    "received": 63,
+    "latestCount": 1,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -144,43 +144,6 @@
   },
   "items": [
     {
-      "id": "aihot-i0qylf97r1at94oogm9m3eg9l",
-      "title": "OpenAI Pro 各档用量对比 Plus 说明",
-      "brief": "看到一些混淆，但所有 Pro 套餐都没有 5 小时限制，并且相比 Plus 提供以下用量。",
-      "summary": "看到一些混淆，但所有 Pro 套餐都没有 5 小时限制，并且相比 Plus 提供以下用量。",
-      "category": "行业观察",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2119296267545419987",
-      "aggregateUrl": "https://aihot.news/items/i0qylf97r1at94oogm9m3eg9l",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-08T05:09:39.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "行业观察",
-        "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
       "id": "aihot-rgkqmql0m4veiibm0ugwrxj9q",
       "title": "Perplexity 队友可助写书并在 Kindle 出版",
       "brief": "队友可以帮你撰写、出版并在 Kindle 上销售书籍",
@@ -264,32 +227,32 @@
       "sourceUrl": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
       "aihotUrl": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
       "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-      "sourceCount": 4,
-      "participantCount": 36,
-      "latestAt": "2026-11-08T21:58:05.000Z",
+      "sourceCount": 5,
+      "participantCount": 46,
+      "latestAt": "2026-11-09T05:26:29.000Z",
       "expanded": true,
-      "latest": "NVIDIA 董事会声明：就黄仁勋被指为外国情报活动目标启动独立调查",
+      "latest": "黄仁勋职位悬了？",
       "reports": [
         {
-          "title": "NVIDIA 董事会声明：就黄仁勋被指为外国情报活动目标启动独立调查",
-          "sourceName": "X：indigo (@indigox)",
-          "sourceUrl": "https://x.com/indigox/status/2119550049013153901",
-          "aihotUrl": "https://aihot.news/items/serfp8560yfwla4o72g7d8voo",
-          "publishedAt": "2026-11-08T21:58:05.000Z"
-        },
-        {
-          "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2119540787147059491",
-          "aihotUrl": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi",
-          "publishedAt": "2026-11-08T21:21:17.000Z"
-        },
-        {
-          "title": "Nvidia 董事会宣布独立调查 CEO 黄仁勋与疑似中国间谍的关系",
+          "title": "黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开",
           "sourceName": "TechCrunch：AI（RSS）",
-          "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-          "aihotUrl": "https://aihot.news/items/envwqgu0h1bp0si2xxbu66rz2",
-          "publishedAt": "2026-11-08T21:00:11.000Z"
+          "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "aihotUrl": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5",
+          "publishedAt": "2026-11-09T05:26:29.000Z"
+        },
+        {
+          "title": "Gary Marcus 评黄仁勋婚外情风波：谁在何时知情",
+          "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "sourceUrl": "https://garymarcus.substack.com/p/the-huang-affair-what-did-they-know",
+          "aihotUrl": "https://aihot.news/items/vde0trttubiyy6ilx0r7s13xj",
+          "publishedAt": "2026-11-09T02:04:38.000Z"
+        },
+        {
+          "title": "NYT 报道 Nvidia 调查黄仁勋与一名中国间谍的关系",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2119607842487627887",
+          "aihotUrl": "https://aihot.news/items/c68qgzkcml50onal4kyn5t3lf",
+          "publishedAt": "2026-11-09T01:47:44.000Z"
         }
       ],
       "related": [],
@@ -308,69 +271,6 @@
     },
     {
       "rank": 2,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 拟感恩节前 IPO，估值预期下调至 1.25–1.75 万亿美元",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "sourceCount": 2,
-      "participantCount": 13,
-      "latestAt": "2026-11-08T00:44:04.537Z",
-      "expanded": true,
-      "latest": "消息称 Anthropic 仍推进 IPO：拟募资 800 亿至 1000 亿美元，估值预期回落",
-      "reports": [
-        {
-          "title": "消息称 Anthropic 仍推进 IPO：拟募资 800 亿至 1000 亿美元，估值预期回落",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/023/854.htm",
-          "aihotUrl": "https://aihot.news/items/cjulee90gasnt7mbhmxcuiiqj",
-          "publishedAt": "2026-11-08T00:44:04.537Z"
-        },
-        {
-          "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
-          "aihotUrl": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
-          "publishedAt": "2026-11-07T17:37:25.000Z"
-        },
-        {
-          "title": "Anthropic IPO 估值存分歧，1.5 万亿美元仍被部分投资者嫌贵",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/023/640.htm",
-          "aihotUrl": "https://aihot.news/items/losfqwxesuanjnt62v032oo9o",
-          "publishedAt": "2026-11-07T01:36:48.637Z"
-        }
-      ],
-      "related": [
-        {
-          "title": "Anthropic季度营收增十二倍仍亏233亿美元",
-          "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
-        },
-        {
-          "title": "Anthropic三季度收入168亿美元，增速放缓",
-          "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
-        },
-        {
-          "title": "泄露文件：Anthropic 云算力受限且财务承压",
-          "storyUrl": "https://aihot.news/story/aae8dcdf-5e54-4323-b53e-5e0a336748d5"
-        }
-      ],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "IPO",
-        "author": null
-      }
-    },
-    {
-      "rank": 3,
       "id": "fhtzzpeq9pxo021k0uk7s034p",
       "title": "Anthropic 34亿美元接手1.7GW燃气发电机组",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -378,7 +278,7 @@
       "aihotUrl": "https://aihot.news/items/fhtzzpeq9pxo021k0uk7s034p",
       "storyUrl": "https://aihot.news/story/8fc0b0a8-b3ab-41e8-a159-697ec636264d",
       "sourceCount": 2,
-      "participantCount": 8,
+      "participantCount": 11,
       "latestAt": "2026-11-08T14:05:57.000Z",
       "expanded": true,
       "latest": "FT 报道 Anthropic 以 34 亿美元购入 1.7GW Caterpillar 燃气发电机",
@@ -413,24 +313,46 @@
       }
     },
     {
-      "rank": 4,
-      "id": "ejr2q49gzg0sc8kxu0hnewu5j",
-      "title": "DeepSeek Harness日活154万，将建插件市场",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/023/011.htm",
-      "aihotUrl": "https://aihot.news/items/ejr2q49gzg0sc8kxu0hnewu5j",
-      "storyUrl": "https://aihot.news/story/beeed02c-39ef-4d69-8610-5a1fba11d413",
-      "sourceCount": 1,
-      "participantCount": 7,
-      "latestAt": "2026-11-08T18:47:19.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
+      "rank": 3,
+      "id": "svii78aucgrcj4ccd1gzmtsq0",
+      "title": "xAI 连夜修复 Grok Bot，承诺次日显著改善",
+      "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+      "sourceUrl": "https://x.com/elonmusk/status/2119419126045454531",
+      "aihotUrl": "https://aihot.news/items/svii78aucgrcj4ccd1gzmtsq0",
+      "storyUrl": "https://aihot.news/story/0d0f5f1f-b3ea-4b0f-bd3c-f6735cd0b4dc",
+      "sourceCount": 2,
+      "participantCount": 9,
+      "latestAt": "2026-11-09T02:33:58.000Z",
+      "expanded": true,
+      "latest": "马斯克称Grok Bot明日将大幅改进",
+      "reports": [
+        {
+          "title": "马斯克称Grok Bot明日将大幅改进",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2119619475725287899",
+          "aihotUrl": "https://aihot.news/items/on03qbwvmdyls4kpua3dnftte",
+          "publishedAt": "2026-11-09T02:33:58.000Z"
+        },
+        {
+          "title": "Grok Bot 工程团队连夜修复问题",
+          "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+          "sourceUrl": "https://x.com/elonmusk/status/2119617455102333206",
+          "aihotUrl": "https://aihot.news/items/q9k7bderhyy5bj6s2x5tsint3",
+          "publishedAt": "2026-11-09T02:25:56.000Z"
+        },
+        {
+          "title": "Grok Bot 改进 token 效率与行为",
+          "sourceName": "X：Matt Palmer（SpaceXSI，Grok Bot） (@mattyp)",
+          "sourceUrl": "https://x.com/mattyp/status/2119474599708827957",
+          "aihotUrl": "https://aihot.news/items/bw4baps8s31nkvszvq8qmltzb",
+          "publishedAt": "2026-11-08T16:58:17.000Z"
+        }
+      ],
       "related": [],
       "visual": {
         "entities": [
           {
-            "name": "IT之家·人工智能",
+            "name": "X：Elon Musk (@elonmusk, xAI)",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -441,7 +363,91 @@
       }
     },
     {
+      "rank": 4,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic 拟感恩节前 IPO，估值预期下调至 1.25–1.75 万亿美元",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+      "sourceCount": 2,
+      "participantCount": 13,
+      "latestAt": "2026-11-08T00:44:04.537Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "IPO",
+        "author": null
+      }
+    },
+    {
       "rank": 5,
+      "id": "hegqek9bt5a6qp3b0qlxhuckq",
+      "title": "特朗普谈AI监管：不介意设护栏，称美国不能居第二",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2119616928297943209",
+      "aihotUrl": "https://aihot.news/items/hegqek9bt5a6qp3b0qlxhuckq",
+      "storyUrl": "https://aihot.news/story/2c5e59d8-79e4-428f-95f4-c77ab76e64f9",
+      "sourceCount": 2,
+      "participantCount": 5,
+      "latestAt": "2026-11-09T02:43:18.707Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "h0h8s5aeapk76yp76i2il36fv",
+      "title": "苹果施压加速Siri智能体化改造",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "aihotUrl": "https://aihot.news/items/h0h8s5aeapk76yp76i2il36fv",
+      "storyUrl": "https://aihot.news/story/a1b6af96-fbdf-4779-80a9-0ca55270818c",
+      "sourceCount": 2,
+      "participantCount": 5,
+      "latestAt": "2026-11-08T23:51:12.937Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "The Verge：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "wwltahauj3uhzwy9yizi2i6f3",
       "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -469,16 +475,16 @@
       }
     },
     {
-      "rank": 6,
-      "id": "svii78aucgrcj4ccd1gzmtsq0",
-      "title": "xAI 称 Grok Bot 的 token 效率修复正在进行",
-      "sourceName": "X：Elon Musk (@elonmusk, xAI)",
-      "sourceUrl": "https://x.com/elonmusk/status/2119419126045454531",
-      "aihotUrl": "https://aihot.news/items/svii78aucgrcj4ccd1gzmtsq0",
-      "storyUrl": "https://aihot.news/story/0d0f5f1f-b3ea-4b0f-bd3c-f6735cd0b4dc",
+      "rank": 8,
+      "id": "ejr2q49gzg0sc8kxu0hnewu5j",
+      "title": "DeepSeek Harness日活154万，将建插件市场",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/023/011.htm",
+      "aihotUrl": "https://aihot.news/items/ejr2q49gzg0sc8kxu0hnewu5j",
+      "storyUrl": "https://aihot.news/story/beeed02c-39ef-4d69-8610-5a1fba11d413",
       "sourceCount": 1,
       "participantCount": 5,
-      "latestAt": "2026-11-08T16:58:17.000Z",
+      "latestAt": "2026-11-08T18:47:19.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -486,7 +492,7 @@
       "visual": {
         "entities": [
           {
-            "name": "X：Elon Musk (@elonmusk, xAI)",
+            "name": "IT之家·人工智能",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -497,7 +503,35 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "id": "jxpzj0z4beg1r0cktwzc0tmwe",
+      "title": "OpenAI 称三项科学突破，物理证明未公开引呼吁",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/018/203.htm",
+      "aihotUrl": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
+      "storyUrl": "https://aihot.news/story/d79cd457-4d11-436e-954d-430d2aab4438",
+      "sourceCount": 1,
+      "participantCount": 4,
+      "latestAt": "2026-11-08T22:42:59.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "nsy92pj0h1aiwvp0wdqkzb1cc",
       "title": "Nous Research 微调 Qwen 推出 Arete-27B",
       "sourceName": "The Decoder：AI News（RSS）",
@@ -521,90 +555,6 @@
           }
         ],
         "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "m45kaixmfb2554qlzxbpnir36",
-      "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
-      "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
-      "storyUrl": "https://aihot.news/story/fba07069-fd3e-44bd-ad2d-f347f820dab3",
-      "sourceCount": 1,
-      "participantCount": 11,
-      "latestAt": "2026-11-07T09:45:23.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "uhi0dbgdjc32uma8nu41ftguf",
-      "title": "GPT-6.1 Sol参与小鼠脑手术定位实验",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/023/900.htm",
-      "aihotUrl": "https://aihot.news/items/uhi0dbgdjc32uma8nu41ftguf",
-      "storyUrl": "https://aihot.news/story/6eeb5785-1785-4258-bcdf-95eccfdc5d8c",
-      "sourceCount": 1,
-      "participantCount": 5,
-      "latestAt": "2026-11-08T07:05:49.673Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "yatljomnnxk39an1vzjyrih1u",
-      "title": "Karpathy用Claude Code三分钟建成TristanTube",
-      "sourceName": "X：Andrej Karpathy (@karpathy)",
-      "sourceUrl": "https://x.com/karpathy/status/2119114537442189652",
-      "aihotUrl": "https://aihot.news/items/yatljomnnxk39an1vzjyrih1u",
-      "storyUrl": "https://aihot.news/story/9a38de7c-3b76-4ffe-bd5d-a4e0522199d1",
-      "sourceCount": 1,
-      "participantCount": 5,
-      "latestAt": "2026-11-07T17:07:31.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "Claude Code",
         "author": null
       }
     }
