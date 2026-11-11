@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-11T08:16:36.486Z",
-      "lastSuccessAt": "2026-11-11T08:16:36.486Z",
-      "nextCheckAt": 1794388596486,
+      "checkedAt": "2026-11-11T16:16:02.949Z",
+      "lastSuccessAt": "2026-11-11T16:16:02.949Z",
+      "nextCheckAt": 1794417362949,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-11T08:16:36.487Z",
-      "lastSuccessAt": "2026-11-11T08:16:36.487Z",
-      "nextCheckAt": 1794388596487,
+      "checkedAt": "2026-11-11T16:16:02.950Z",
+      "lastSuccessAt": "2026-11-11T16:16:02.950Z",
+      "nextCheckAt": 1794417362950,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-11T08:16:36.488Z",
-      "lastSuccessAt": "2026-11-11T08:16:36.488Z",
-      "nextCheckAt": 1794388596488,
+      "checkedAt": "2026-11-11T16:16:02.951Z",
+      "lastSuccessAt": "2026-11-11T16:16:02.951Z",
+      "nextCheckAt": 1794417362951,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-11T08:16:36.649Z",
-      "lastSuccessAt": "2026-11-11T08:16:36.649Z",
-      "nextCheckAt": 1794388596649,
+      "checkedAt": "2026-11-11T16:16:03.230Z",
+      "lastSuccessAt": "2026-11-11T16:16:03.230Z",
+      "nextCheckAt": 1794417363230,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794388596486,
+  "nextCheckAt": 1794417362949,
   "refreshing": false,
   "items": [
     {
@@ -134,6 +134,46 @@
       "priority": "lead"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/bonds-2",
+      "title": "bonds chat",
+      "summary": "Multiplayer AI that dies if you and your friends flake",
+      "publishedAt": "2026-11-11T05:07:26.000Z",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/bonds-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Multiplayer AI that dies if you and your friends flake",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
       "id": "woshipm:https://www.woshipm.com/ucd/6492207.html",
       "title": "闪购 Agent 情感设计探索",
       "summary": "当AI语气切换不再新鲜，情感化体验的下半场拼的是什么？淘宝闪购设计团队从价值观、情感承接策略到语气规则三层拆解，把「关心用户」变成可执行、可测试的设计标准，为AI Agent的情感化设计提供了一套可复用的方法论。 在淘宝闪购 AI Agent 的一期探索中，我们上线了「清爽高效」「轻松自然」和「灵光风趣」三种对话语气，用户可以按自己的偏好手动切换。 上线后，我们实际体验了一下，发现在很多场景仅靠语气调整的情感化，还不足以让用户真正感觉产",
@@ -174,44 +214,84 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6492126.html",
-      "title": "AI产品经理技能5：30 秒搞懂Agent 的定义与 L1 到 L4 能力分层",
-      "summary": "Agent剥开包装只有三样：软件、数据库、大语言模型，没有第四个神秘组件。能力从L1回答到L4协同分成四层，多数企业停在L1到L3，却一上手就想搭多智能体协同。 做AI产品久了，你大概率会遇到同一个场面：所有人都在聊 Agent，会上张口就是多智能体协同、自主工作流、自动执行。可当你停下来追问一句：到底什么是 Agent？ 01 Agent 没那么玄 现场常常是一片沉默。 大家都在用、都在落地，却很少有人沉下心，给它一个足够朴素、能用来",
-      "publishedAt": "2026-11-11T03:24:17.000Z",
-      "url": "https://www.woshipm.com/ai/6492126.html",
+      "id": "ph:https://www.producthunt.com/products/mister-blocks",
+      "title": "Mister Blocks",
+      "summary": "Take a picture of your LEGO and AI will make a build",
+      "publishedAt": "2026-11-11T03:26:18.000Z",
+      "url": "https://www.producthunt.com/products/mister-blocks",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6492126.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Agent剥开包装只有三样：软件、数据库、大语言模型，没有第四个神秘组件。能力从L1回答到L4协同分成四层，多数企业停在L1到L3，却一上手就想搭多智能体协同。 做AI产品久了，你大概率会遇到同一个场面：所有人都在聊 Agent，会上张口就是多智能体协同、自主工作流、自动执行。可当你停下来追问一句：到底什么是 Agent？ 01 Agent 没那么玄 现场常常是一片沉默。 大家都在用、都在落地，却很少有人沉下心，给它一个足够朴素、能用来",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/mister-blocks",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Take a picture of your LEGO and AI will make a build",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/rigspark",
+      "title": "RigSpark",
+      "summary": "Know which AI to run on your own computer",
+      "publishedAt": "2026-11-11T01:26:24.000Z",
+      "url": "https://www.producthunt.com/products/rigspark",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/rigspark",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Know which AI to run on your own computer",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/microservices-best-practices/",
@@ -332,126 +412,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/n8n-io",
-      "title": "Nod by n8n",
-      "summary": "Open source personal agent with its own computer",
-      "publishedAt": "2026-11-10T13:38:19.000Z",
-      "url": "https://www.producthunt.com/products/n8n-io",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/n8n-io",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Open source personal agent with its own computer",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/appubot",
-      "title": "AppuBot",
-      "summary": "Grok Bot alternative that runs on your AI, completely free",
-      "publishedAt": "2026-11-10T04:16:01.000Z",
-      "url": "https://www.producthunt.com/products/appubot",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/appubot",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Grok Bot alternative that runs on your AI, completely free",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/openring",
-      "title": "openring",
-      "summary": "Open-source voice AI agents with no platform fee",
-      "publishedAt": "2026-11-10T01:26:14.000Z",
-      "url": "https://www.producthunt.com/products/openring",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/openring",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Open-source voice AI agents with no platform fee",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     }
   ],
