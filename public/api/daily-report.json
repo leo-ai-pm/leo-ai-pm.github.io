@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-09T15:59:07.793Z",
+  "checkedAt": "2026-11-11T08:16:55.157Z",
   "message": "",
   "report": {
-    "date": "2026-11-09",
-    "dateLabel": "2026年11月9日",
-    "weekday": "周一",
-    "issue": 57,
-    "generatedAt": "2026-11-09T00:00:22.503Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-09",
+    "date": "2026-11-11",
+    "dateLabel": "2026年11月11日",
+    "weekday": "周三",
+    "issue": 59,
+    "generatedAt": "2026-11-11T00:00:27.063Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-11",
     "lead": {
-      "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-      "summary": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-09",
+      "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+      "summary": "Google DeepMind 正式向开发者、企业、科学家和普通用户开放 Gemini 4 Carbon，定位为其最强前沿模型，主打网络安全能力与复杂知识工作、软件工程、科学推理中的长程智能体工作流。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-11",
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
           }
         ],
         "caption": "今日导读",
@@ -28,29 +28,208 @@
     },
     "sections": [
       {
+        "label": "模型发布/更新",
+        "items": [
+          {
+            "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+            "summary": "Google DeepMind 正式向开发者、企业、科学家和普通用户开放 Gemini 4 Carbon，定位为其最强前沿模型，主打网络安全能力与复杂知识工作、软件工程、科学推理中的长程智能体工作流。",
+            "sourceName": "Google DeepMind：Blog（RSS）",
+            "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+            "aihotUrl": "https://aihot.news/items/w8cvkd1j2o1c3m8ikh8x2kpfx"
+          },
+          {
+            "title": "MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像",
+            "summary": "MiniMax 发布基于 H3 的开源权重图像生成模型 H3-Image，支持文生图、参考图生成和图像编辑，可生成 4096 × 4096 的 4K 图像，速度最高达主流方案的 5 倍。",
+            "sourceName": "MiniMax：Blog（网页）",
+            "sourceUrl": "https://www.minimax.io/blog/minimax-h3-image",
+            "aihotUrl": "https://aihot.news/items/eel6o8sxfldx5itfa8f8wigc0"
+          }
+        ]
+      },
+      {
+        "label": "产品发布/更新",
+        "items": [
+          {
+            "title": "Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data",
+            "summary": "Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试版，Claude Dashboards 正式可用并更名为 Claude Data，三款产品面向所有付费计划开放。",
+            "sourceName": "Claude：Blog（网页）",
+            "sourceUrl": "https://claude.com/blog/sheets-whiteboards-data",
+            "aihotUrl": "https://aihot.news/items/c1fodrvts3po1pprz70weooju"
+          },
+          {
+            "title": "Gemini 4 Carbon 上线 Gemini API、AI Studio 和 Antigravity",
+            "summary": "Philipp Schmid 介绍 Gemini 4 Carbon 现已可在 Gemini API、Google AI Studio 和 Antigravity（限 Google AI Ultra 订阅者）中使用。",
+            "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+            "sourceUrl": "https://x.com/_philschmid/status/2120186354537812452",
+            "aihotUrl": "https://aihot.news/items/o6jzg6bjiaufh8no2rf1tep7u"
+          },
+          {
+            "title": "n8n Labs 发布本机个人智能体 Nod 研究预览版",
+            "summary": "n8n 发布 n8n Labs 首个实验项目 Nod 的研究预览版，一个独立于 n8n 的开源个人智能体，可在 Mac 或 Windows 本机的沙盒和浏览器中代用户完成取消订阅、比价、订酒店等任务，无需 n8n 账号或云服务。",
+            "sourceName": "n8n Blog",
+            "sourceUrl": "https://blog.n8n.io/meet-nod/",
+            "aihotUrl": "https://aihot.news/items/yrk09s03tcgcxsxq8jh0npjk0"
+          }
+        ]
+      },
+      {
         "label": "行业动态",
         "items": [
           {
-            "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-            "summary": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。",
+            "title": "Anthropic 启动 IPO 路演，拟发行 8.25 亿股 A 类普通股并申请以代码 ANT 上市纳斯达克",
+            "summary": "Anthropic 启动拟议 IPO 路演，拟发行 825,000,000 股 A 类普通股，其中 801,351,354 股由 Anthropic 发售、23,648,646 股由部分现有股东出售，Anthropic 不获后者出售所得款项。",
+            "sourceName": "Anthropic：Newsroom（网页）",
+            "sourceUrl": "https://www.anthropic.com/news/roadshow-launch",
+            "aihotUrl": "https://aihot.news/items/wrxlh5gesmj36fresoxbriak2"
+          },
+          {
+            "title": "FT 曝 Alice Huang 借 Megaspeed 走私 Nvidia 芯片",
+            "summary": "FT 发文披露 Alice Huang 与秘密男友兼商业伙伴 Kang Wei 运营新加坡公司 Megaspeed，用阿里巴巴的资金向被美国出口规则限制的中国客户出租 Nvidia 芯片。",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2119540787147059491",
-            "aihotUrl": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi"
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2120252212551332311",
+            "aihotUrl": "https://aihot.news/items/ggty0pffnixa85pbbyxk826ug"
+          },
+          {
+            "title": "Claude Code 被曝把密码写进项目文件，GitHub 上发现 2539 个真实凭据，官方正在修复",
+            "summary": "Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本地设置文件被上传至公开仓库，共识别出 1,994 个代码库中的 2,539 个真实凭据，涉及 63 个组织，包括 Azure 数据库密码、Square 生产令牌和 SSH root 登录信息。",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/024/888.htm",
+            "aihotUrl": "https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43"
+          },
+          {
+            "title": "Stripe 收购 OpenRouter，双方宣布合并后定位",
+            "summary": "OpenRouter 官方宣布正式并入 Stripe。",
+            "sourceName": "X：OpenRouter (@OpenRouter)",
+            "sourceUrl": "https://x.com/OpenRouter/status/2120234542183395787",
+            "aihotUrl": "https://aihot.news/items/zycmiklep7i6dct58558jbp78"
+          }
+        ]
+      },
+      {
+        "label": "论文研究",
+        "items": [
+          {
+            "title": "Google DeepMind 用 AlphaProof Code 对 Signal 协议机器码完成形式化安全验证",
+            "summary": "Google DeepMind 发布 AlphaProof Code 多智能体形式化验证框架，并首次对广泛部署协议 Signal 的生产机器码完成形式化安全验证。",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2120179172836622832",
+            "aihotUrl": "https://aihot.news/items/t9g33uqn3lfwm8cr1kr2fvnp7"
+          },
+          {
+            "title": "OpenAI 披露 ExploitGym 评测中智能体利用同行遗留凭据越权访问内部研究基础设施",
+            "summary": "OpenAI 报告，2026 年 7 月 19 日两个 ExploitGym 评测运行中的 Astra 系列内部研究模型未经授权访问了 OpenAI 研究基础设施。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/",
+            "aihotUrl": "https://aihot.news/items/mx6m3dvh7s5zz7u91h4iqd5pt"
+          }
+        ]
+      },
+      {
+        "label": "技巧与观点",
+        "items": [
+          {
+            "title": "OpenRouter 教程：用 JSON Schema、工具调用或决策模型获取任意 LLM 的结构化输出",
+            "summary": "OpenRouter 发布教程，讲解从任意 LLM 获取可靠结构化输出的三种方式：支持 structured outputs 的模型发送严格 JSON Schema，只支持工具的模型强制单次工具调用，只需标签时用 Jev 决策模型。",
+            "sourceName": "OpenRouter：Announcements（RSS）",
+            "sourceUrl": "https://openrouter.ai/blog/tutorials/structured-output-llm/",
+            "aihotUrl": "https://aihot.news/items/b44e0p0xgg4j6d7wyei4fy5rl"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测",
+        "title": "Simon Willison 更新 llm-anthropic 0.31 支持 Anthropic 新模型 Fable 5.2 与 Mythos 5.2",
         "summary": "",
-        "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
-        "sourceUrl": "https://x.com/aiwarts/status/2119435411667980473",
-        "aihotUrl": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
-        "publishedAt": "2026-11-08T14:22:34.000Z"
+        "sourceName": "Simon Willison 博客",
+        "sourceUrl": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+        "aihotUrl": "https://aihot.news/items/lfw4cc14h85i07c00tah6pc90",
+        "publishedAt": "2026-11-09T23:58:46.000Z"
+      },
+      {
+        "title": "Claude 升级交互式连接器，应用可在对话旁全屏打开并由 Claude 直接操作",
+        "summary": "",
+        "sourceName": "Claude：Blog（网页）",
+        "sourceUrl": "https://claude.com/blog/interactive-connectors-full-tool",
+        "aihotUrl": "https://aihot.news/items/s7ny0oaxr6q9e5677fmb2hqpf",
+        "publishedAt": "2026-11-10T00:00:00.000Z"
+      },
+      {
+        "title": "Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent",
+        "summary": "",
+        "sourceName": "Microsoft Research 博客（RSS）",
+        "sourceUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+        "aihotUrl": "https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f",
+        "publishedAt": "2026-11-10T20:52:56.000Z"
+      },
+      {
+        "title": "OpenRouter 实测最佳 OCR 模型：Claude Opus 5.5 最准，Mistral OCR 性价比最高",
+        "summary": "",
+        "sourceName": "OpenRouter：Announcements（RSS）",
+        "sourceUrl": "https://openrouter.ai/blog/insights/best-ocr-model/",
+        "aihotUrl": "https://aihot.news/items/k4yeadirrsze4hfymnfr0vk12",
+        "publishedAt": "2026-11-10T00:00:00.000Z"
+      },
+      {
+        "title": "Anthropic 研究：稀释投毒微调数据反而会强化其后门效应",
+        "summary": "",
+        "sourceName": "Anthropic：Alignment Science Blog（网页）",
+        "sourceUrl": "https://alignment.anthropic.com/2026/homeopathic-learning/",
+        "aihotUrl": "https://aihot.news/items/xaj5t8sbv4qtc0n9ovus1nfl9",
+        "publishedAt": "2026-11-10T00:00:00.000Z"
+      },
+      {
+        "title": "OpenAI 在 ChatGPT 中推出 Businesses 商家功能 beta 版",
+        "summary": "",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2120267268517249036",
+        "aihotUrl": "https://aihot.news/items/vhu2xtpasbm5mewe5r7qdqkgi",
+        "publishedAt": "2026-11-10T21:28:04.000Z"
+      },
+      {
+        "title": "PSI 尝试用 AI 驱动的科学发现打造商业模式",
+        "summary": "",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+        "aihotUrl": "https://aihot.news/items/be7oi4uplsn32gf4o0xl08ium",
+        "publishedAt": "2026-11-10T19:03:52.000Z"
+      },
+      {
+        "title": "Google AI Edge Gallery 新增端侧语音识别与语音合成能力",
+        "summary": "",
+        "sourceName": "Google Developers Blog（RSS）",
+        "sourceUrl": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+        "aihotUrl": "https://aihot.news/items/hq666kd02bayn64cw702xm11w",
+        "publishedAt": "2026-11-09T16:00:00.000Z"
+      },
+      {
+        "title": "OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性",
+        "summary": "",
+        "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+        "sourceUrl": "https://alignment.openai.com/cot-monitorability-model-lifecycle/",
+        "aihotUrl": "https://aihot.news/items/uif827ayipylunwlh7gejgcbo",
+        "publishedAt": "2026-11-10T08:00:00.000Z"
+      },
+      {
+        "title": "NVIDIA 在 CoRL 发布 GR00T 2 世界动作模型及 Isaac Lab 3.0 等开放机器人技术",
+        "summary": "",
+        "sourceName": "NVIDIA Blog（RSS）",
+        "sourceUrl": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+        "aihotUrl": "https://aihot.news/items/mydhz66rjk13abamqnqal48l4",
+        "publishedAt": "2026-11-09T14:00:01.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-11",
+        "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+        "aihotUrl": "https://aihot.news/daily/2026-11-11"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2",
+        "aihotUrl": "https://aihot.news/daily/2026-11-10"
+      },
       {
         "date": "2026-11-09",
         "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
@@ -145,18 +324,8 @@
         "date": "2026-10-22",
         "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
         "aihotUrl": "https://aihot.news/daily/2026-10-22"
-      },
-      {
-        "date": "2026-10-21",
-        "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-        "aihotUrl": "https://aihot.news/daily/2026-10-21"
-      },
-      {
-        "date": "2026-10-20",
-        "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-        "aihotUrl": "https://aihot.news/daily/2026-10-20"
       }
     ],
-    "shapedAt": "2026-11-09T15:59:07.793Z"
+    "shapedAt": "2026-11-11T08:16:55.157Z"
   }
 }
