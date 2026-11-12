@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-12T03:25:22.746Z",
+  "checkedAt": "2026-11-12T11:44:56.553Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "cve017k4le2q7l8x1bfr2xdjx",
+      "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
+      "reason": "原文完整披露了自校验本地化流水线的设计、评测数据和成本对比，其指纹重排与代码前置检查方法可直接迁移。",
+      "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/",
+      "aihotUrl": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "vq9nwgwhtm31cgoliyb7ydyde",
       "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
@@ -160,48 +174,6 @@
       "sourceUrl": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
       "aihotUrl": "https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5",
       "publishedAt": "2026-11-11T12:12:47.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "ajjv9abs8vd20j05emcig98ai",
-      "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
-      "reason": "原文转述 WSJ 报道并给出招股文件细节，读者可以据此理解 Anthropic IPO 中创始人套现与双重股权控制安排。",
-      "summary": "WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2120392847505715324",
-      "aihotUrl": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
-      "publishedAt": "2026-11-11T05:47:04.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "qd3f4j2hd0t98tqf28iv7pu2j",
-      "title": "百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源",
-      "reason": "官方给出总参 280B、激活 14B、1M 上下文等规格和基准对比，可据此评估该模型在编码与 Agent 任务上的定位。",
-      "summary": "百度发布 ERNIE 5.5 Flash Preview，是基于此前 Base 模型的首个后训练版本，总参数 280B、激活参数 14B，支持 1M 上下文。",
-      "sourceName": "百度文心 ERNIE 官方博客",
-      "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/",
-      "aihotUrl": "https://aihot.news/items/qd3f4j2hd0t98tqf28iv7pu2j",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "xshgfc1vcvgrdkvnomagmefwy",
-      "title": "Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议",
-      "reason": "S1 修正案披露了 Microsoft 和 Google 云承诺的最新金额和不问使用照付的条款，可以据此理解 Anthropic 的算力开支结构。",
-      "summary": "Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2120369586096976098",
-      "aihotUrl": "https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy",
-      "publishedAt": "2026-11-11T04:14:38.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -658,6 +630,20 @@
       "unselected": false
     },
     {
+      "id": "cve017k4le2q7l8x1bfr2xdjx",
+      "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
+      "reason": "原文完整披露了自校验本地化流水线的设计、评测数据和成本对比，其指纹重排与代码前置检查方法可直接迁移。",
+      "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/",
+      "aihotUrl": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "vq9nwgwhtm31cgoliyb7ydyde",
       "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
       "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
@@ -750,20 +736,6 @@
       "sourceUrl": "https://lovable.dev/blog/find-it-fix-it-ship-it",
       "aihotUrl": "https://aihot.news/items/gbyp35reiyczetrirpyzycssq",
       "publishedAt": "2026-11-10T14:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "lwbznpwnu3d7avukt0arjc2go",
-      "title": "Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目",
-      "reason": "这条提示词可直接复用，让 Claude 审查整个项目找出问题并修复或列出待审项，还附带了排查上下文文件的命令。",
-      "summary": "作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。",
-      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-      "sourceUrl": "https://x.com/adocomplete/status/2120008039411708279",
-      "aihotUrl": "https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go",
-      "publishedAt": "2026-11-10T04:17:59.000Z",
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
@@ -1054,6 +1026,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "cve017k4le2q7l8x1bfr2xdjx",
+          "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
+          "reason": "原文完整披露了自校验本地化流水线的设计、评测数据和成本对比，其指纹重排与代码前置检查方法可直接迁移。",
+          "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/",
+          "aihotUrl": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "vq9nwgwhtm31cgoliyb7ydyde",
           "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
           "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
@@ -1118,20 +1104,6 @@
           "sourceUrl": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
           "aihotUrl": "https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5",
           "publishedAt": "2026-11-11T12:12:47.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "xshgfc1vcvgrdkvnomagmefwy",
-          "title": "Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议",
-          "reason": "S1 修正案披露了 Microsoft 和 Google 云承诺的最新金额和不问使用照付的条款，可以据此理解 Anthropic 的算力开支结构。",
-          "summary": "Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2120369586096976098",
-          "aihotUrl": "https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy",
-          "publishedAt": "2026-11-11T04:14:38.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
