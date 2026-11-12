@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月12日",
     "demo": false,
-    "updatedAt": "2026-11-11T22:45:15.970Z",
+    "updatedAt": "2026-11-12T03:25:05.666Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 234,
+      "received": 216,
       "latestCount": 0,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -185,18 +185,75 @@
     "ranking": [
       {
         "rank": 1,
+        "id": "kci32x4hgxrdl0v5o4xrjlxri",
+        "title": "英伟达董事会调查黄仁勋涉情报事件",
+        "sourceName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "aihotUrl": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+        "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
+        "sourceCount": 5,
+        "participantCount": 57,
+        "latestAt": "2026-11-11T23:53:06.000Z",
+        "expanded": true,
+        "latest": "Gary Marcus 评 WSJ 报道 Nvidia 正准备解雇 CEO 黄仁勋",
+        "reports": [
+          {
+            "title": "Gary Marcus 评 WSJ 报道 Nvidia 正准备解雇 CEO 黄仁勋",
+            "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+            "sourceUrl": "https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get",
+            "aihotUrl": "https://aihot.news/items/b0is4k552g0vme6l74e8z1lhw",
+            "publishedAt": "2026-11-11T23:53:06.000Z"
+          },
+          {
+            "title": "黄仁勋丑闻时间线：婚外情、疑似中国间谍与Nvidia董事会罢免传闻",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+            "aihotUrl": "https://aihot.news/items/i1hiziogjyvjvclikqylj5p2p",
+            "publishedAt": "2026-11-11T23:50:00.000Z"
+          },
+          {
+            "title": "WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2120663635479625930",
+            "aihotUrl": "https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd",
+            "publishedAt": "2026-11-11T23:43:05.000Z"
+          }
+        ],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
         "id": "va9trgwaw3r4por6vdqbjxrhd",
         "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，多项评测登顶",
         "sourceName": "Anthropic：Newsroom（网页）",
         "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
         "aihotUrl": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
         "storyUrl": "https://aihot.news/story/760e0591-91c2-4b7a-aea8-5a33ba5d86b1",
-        "sourceCount": 11,
-        "participantCount": 102,
-        "latestAt": "2026-11-11T17:23:38.000Z",
+        "sourceCount": 8,
+        "participantCount": 75,
+        "latestAt": "2026-11-12T02:00:20.000Z",
         "expanded": true,
-        "latest": "Claude Fable 5.2 (Max) 以 +30.4% 净提升登顶 Arena Agent 榜首",
+        "latest": "Claude Fable 5.2 登顶 AA-Robotics",
         "reports": [
+          {
+            "title": "Claude Fable 5.2 登顶 AA-Robotics",
+            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+            "sourceUrl": "https://x.com/ArtificialAnlys/status/2120698177016005029",
+            "aihotUrl": "https://aihot.news/items/bo01it25cgvef1al6p8qo7es0",
+            "publishedAt": "2026-11-12T02:00:20.000Z"
+          },
           {
             "title": "Claude Fable 5.2 (Max) 以 +30.4% 净提升登顶 Arena Agent 榜首",
             "sourceName": "X：Arena (@arena)",
@@ -210,13 +267,6 @@
             "sourceUrl": "https://epochai.substack.com/p/the-epoch-brief-november-11-2026",
             "aihotUrl": "https://aihot.news/items/a6ru61o5bfv0rr2xmfdohyajy",
             "publishedAt": "2026-11-11T17:18:46.000Z"
-          },
-          {
-            "title": "Claude Fable 5.2 现已在 OpenClaw 可用",
-            "sourceName": "X：OpenClaw (@openclaw)",
-            "sourceUrl": "https://x.com/openclaw/status/2120550160128467398",
-            "aihotUrl": "https://aihot.news/items/mw8wvasegu4xd60afqu6xvtau",
-            "publishedAt": "2026-11-11T16:12:10.000Z"
           }
         ],
         "related": [
@@ -247,19 +297,26 @@
         }
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": "w8cvkd1j2o1c3m8ikh8x2kpfx",
         "title": "Google 开放 Gemini 4 Carbon，Perplexity 同步上线",
         "sourceName": "Google DeepMind：Blog（RSS）",
         "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
         "aihotUrl": "https://aihot.news/items/w8cvkd1j2o1c3m8ikh8x2kpfx",
         "storyUrl": "https://aihot.news/story/e16f5d00-5477-42b8-83d3-4162e0262249",
-        "sourceCount": 9,
-        "participantCount": 58,
-        "latestAt": "2026-11-10T22:43:37.660Z",
+        "sourceCount": 8,
+        "participantCount": 57,
+        "latestAt": "2026-11-11T22:53:02.000Z",
         "expanded": true,
-        "latest": "谷歌开放 Gemini 4 Carbon 模型，主打复杂编程、科学研究与网络安全",
+        "latest": "Google 员工测试 Gemini 4 Carbon 成果展示",
         "reports": [
+          {
+            "title": "Google 员工测试 Gemini 4 Carbon 成果展示",
+            "sourceName": "X：Google (@Google)",
+            "sourceUrl": "https://x.com/Google/status/2120651039636426878",
+            "aihotUrl": "https://aihot.news/items/hcq5ofij70eoy51cs9ekr316j",
+            "publishedAt": "2026-11-11T22:53:02.000Z"
+          },
           {
             "title": "谷歌开放 Gemini 4 Carbon 模型，主打复杂编程、科学研究与网络安全",
             "sourceName": "IT之家·人工智能",
@@ -273,13 +330,6 @@
             "sourceUrl": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
             "aihotUrl": "https://aihot.news/items/t1v305wrur6qhtvg58936ltf7",
             "publishedAt": "2026-11-10T20:09:44.000Z"
-          },
-          {
-            "title": "Google Gemini 4 Carbon 正式开放，网络安全与成本表现成为亮点",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
-            "aihotUrl": "https://aihot.news/items/rm4rl4rx94ych4od7170jns2k",
-            "publishedAt": "2026-11-10T18:19:13.000Z"
           }
         ],
         "related": [
@@ -316,7 +366,7 @@
         }
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "xywgx35ocbe6mzl2pnajw8ruu",
         "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
         "sourceName": "Anthropic：Newsroom（网页）",
@@ -324,47 +374,12 @@
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
         "sourceCount": 7,
-        "participantCount": 52,
+        "participantCount": 50,
         "latestAt": "2026-11-11T15:11:59.000Z",
-        "expanded": true,
-        "latest": "Anthropic IPO 路演视频披露多芯片策略与算力乘数细节",
-        "reports": [
-          {
-            "title": "Anthropic IPO 路演视频披露多芯片策略与算力乘数细节",
-            "sourceName": "Simon Willison 博客",
-            "sourceUrl": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-            "aihotUrl": "https://aihot.news/items/xi0y19pbadxpvgcmzsm7c5byg",
-            "publishedAt": "2026-11-11T15:11:59.000Z"
-          },
-          {
-            "title": "Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2120526677247939001",
-            "aihotUrl": "https://aihot.news/items/r5kn7uexy6jx97qwxwvnpqrom",
-            "publishedAt": "2026-11-11T14:38:51.000Z"
-          },
-          {
-            "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2120392847505715324",
-            "aihotUrl": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
-            "publishedAt": "2026-11-11T05:47:04.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "Anthropic季度营收增十二倍仍亏233亿美元",
-            "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
-          },
-          {
-            "title": "Anthropic三季度收入168亿美元，增速放缓",
-            "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
-          },
-          {
-            "title": "泄露文件：Anthropic 云算力受限且财务承压",
-            "storyUrl": "https://aihot.news/story/aae8dcdf-5e54-4323-b53e-5e0a336748d5"
-          }
-        ],
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
         "visual": {
           "entities": [
             {
@@ -379,16 +394,16 @@
         }
       },
       {
-        "rank": 4,
-        "id": "kci32x4hgxrdl0v5o4xrjlxri",
-        "title": "英伟达董事会调查黄仁勋涉情报事件",
-        "sourceName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-        "aihotUrl": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
-        "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-        "sourceCount": 4,
-        "participantCount": 47,
-        "latestAt": "2026-11-11T16:16:07.000Z",
+        "rank": 5,
+        "id": "r8hsm3m3munjwk1n3u885zszw",
+        "title": "Google发布Gemini Decision 1决策模型，评测得66分",
+        "sourceName": "Google Blog：AI（RSS）",
+        "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "aihotUrl": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
+        "storyUrl": "https://aihot.news/story/8febc4b1-e8fa-4418-97c6-eb03dfa73f42",
+        "sourceCount": 11,
+        "participantCount": 26,
+        "latestAt": "2026-11-12T00:55:39.970Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -396,10 +411,10 @@
         "visual": {
           "entities": [
             {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -407,7 +422,7 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 6,
         "id": "c1fodrvts3po1pprz70weooju",
         "title": "Anthropic 为 Claude 新增白板、表格与数据三类 artifact",
         "sourceName": "Claude：Blog（网页）",
@@ -435,7 +450,7 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "eel6o8sxfldx5itfa8f8wigc0",
         "title": "MiniMax 开源 H3-Image，多平台接入",
         "sourceName": "MiniMax：Blog（网页）",
@@ -463,16 +478,44 @@
         }
       },
       {
-        "rank": 7,
-        "id": "r8hsm3m3munjwk1n3u885zszw",
-        "title": "Google发布Gemini Decision 1决策模型，评测得66分",
-        "sourceName": "Google Blog：AI（RSS）",
-        "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-        "aihotUrl": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
-        "storyUrl": "https://aihot.news/story/8febc4b1-e8fa-4418-97c6-eb03dfa73f42",
-        "sourceCount": 10,
-        "participantCount": 17,
-        "latestAt": "2026-11-11T22:03:25.000Z",
+        "rank": 8,
+        "id": "lri5bifxkd8qgt8rtecq6zvti",
+        "title": "美联航禁止个人AI智能体代客购票",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2120584444247760983",
+        "aihotUrl": "https://aihot.news/items/lri5bifxkd8qgt8rtecq6zvti",
+        "storyUrl": "https://aihot.news/story/532d299f-c029-4fd3-8dcf-d821dd59a569",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-11-12T01:39:34.963Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "X：Rohan Paul (@rohanpaul_ai)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "wp91dm5fgirnzvh99js3vv6j2",
+        "title": "DeepMind 发布 AlphaGenome 2 基因组模型",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+        "aihotUrl": "https://aihot.news/items/wp91dm5fgirnzvh99js3vv6j2",
+        "storyUrl": "https://aihot.news/story/315f4328-e4b0-4d44-bc5e-e317e0b0f8f6",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-11-11T23:28:24.857Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -491,7 +534,7 @@
         }
       },
       {
-        "rank": 8,
+        "rank": 10,
         "id": "mzxxannvi5wge7wz0c0jfdyz5",
         "title": "OpenAI第三季度营收首破百亿美元，亏损扩大",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -499,7 +542,7 @@
         "aihotUrl": "https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5",
         "storyUrl": "https://aihot.news/story/6c932f88-5339-4aff-8e22-e96e38cffc27",
         "sourceCount": 3,
-        "participantCount": 17,
+        "participantCount": 18,
         "latestAt": "2026-11-11T17:14:54.000Z",
         "expanded": false,
         "latest": "",
@@ -517,69 +560,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 9,
-        "id": "vhu2xtpasbm5mewe5r7qdqkgi",
-        "title": "OpenAI 在 ChatGPT 测试企业智能体与 Business Hub",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2120267268517249036",
-        "aihotUrl": "https://aihot.news/items/vhu2xtpasbm5mewe5r7qdqkgi",
-        "storyUrl": "https://aihot.news/story/8bb21e7d-6819-4abf-ae87-88ce17d9088a",
-        "sourceCount": 5,
-        "participantCount": 20,
-        "latestAt": "2026-11-10T22:55:36.787Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "wp91dm5fgirnzvh99js3vv6j2",
-        "title": "DeepMind 发布 AlphaGenome 2 基因组模型",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-        "aihotUrl": "https://aihot.news/items/wp91dm5fgirnzvh99js3vv6j2",
-        "storyUrl": "https://aihot.news/story/315f4328-e4b0-4d44-bc5e-e317e0b0f8f6",
-        "sourceCount": 4,
-        "participantCount": 12,
-        "latestAt": "2026-11-11T20:51:56.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-11T22:45:15.970Z",
-    "nextCheckAt": 1794437415970,
+    "checkedAt": "2026-11-12T03:25:05.666Z",
+    "nextCheckAt": 1794454205666,
     "intervalSeconds": 300,
     "message": ""
   }

@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-11T22:45:04.281Z",
-      "lastSuccessAt": "2026-11-11T22:45:04.281Z",
-      "nextCheckAt": 1794440704281,
+      "checkedAt": "2026-11-12T03:24:51.627Z",
+      "lastSuccessAt": "2026-11-12T03:24:51.627Z",
+      "nextCheckAt": 1794457491627,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-12T03:24:51.627Z",
+      "lastSuccessAt": "2026-11-12T03:24:51.627Z",
+      "nextCheckAt": 1794457491627,
       "status": "ok",
-      "nextCheckAt": 1794440704282,
-      "checkedAt": "2026-11-11T22:45:04.282Z",
-      "lastSuccessAt": "2026-11-11T22:45:04.282Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-11T22:45:04.283Z",
-      "lastSuccessAt": "2026-11-11T22:45:04.283Z",
-      "nextCheckAt": 1794440704283,
+      "checkedAt": "2026-11-12T03:24:51.628Z",
+      "lastSuccessAt": "2026-11-12T03:24:51.628Z",
+      "nextCheckAt": 1794457491628,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-12T03:24:51.806Z",
+      "lastSuccessAt": "2026-11-12T03:24:51.806Z",
+      "nextCheckAt": 1794457491806,
       "status": "ok",
-      "nextCheckAt": 1794440704509,
-      "checkedAt": "2026-11-11T22:45:04.509Z",
-      "lastSuccessAt": "2026-11-11T22:45:04.509Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794440704281,
+  "nextCheckAt": 1794457491627,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/share/6492281.html",
-      "title": "怎么给AI建立一套稳定的小红书爆款内容拆解标准？！",
-      "summary": "用AI拆解小红书爆款内容时，AI常自由发挥导致结论散乱。本文分享一套稳定工作流：先明确拆解目的，再整理认可的方法论和参考样本，封装成AI可调用的标准，并通过持续测试迭代优化。同时指出单篇拆解易产生幻觉，应人工精选样本后让AI集中分析共性，真正发挥AI的分析效率。 之前在群里聊到一个问题： 搭建小红书AI工作流的时候，怎么给AI建立一套稳定的爆款内容拆解标准？ 因为如果不提前固定一套拆解标准的话，AI就很容易自由发挥。 可能同一篇内容，今",
-      "publishedAt": "2026-11-11T07:45:10.000Z",
-      "url": "https://www.woshipm.com/share/6492281.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6492567.html",
+      "title": "项目拆解：面向Agent的知识库检索怎么做",
+      "summary": "RAGFlow 更新 1.0，核心改动是面向 Agent 检索，LlamaIndex 团队则喊出 RAG is dead。作者拆解 SAG-Wiki：不用 Embedding、不建向量库，靠 BM25 召回加 Jev 逐段判断证据，把检索变成 Agent 可扩展的工具。 工作流不火了以后，关于 RAG 的讨论也少了。 前两天知名 RAG 项目 RAGFlow（GitHub 有 9 万+ stars）更新了正式的 1.0 版本，核心改动是",
+      "publishedAt": "2026-11-12T02:23:42.000Z",
+      "url": "https://www.woshipm.com/ai/6492567.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,16 +122,97 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6492281.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6492567.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "用AI拆解小红书爆款内容时，AI常自由发挥导致结论散乱。本文分享一套稳定工作流：先明确拆解目的，再整理认可的方法论和参考样本，封装成AI可调用的标准，并通过持续测试迭代优化。同时指出单篇拆解易产生幻觉，应人工精选样本后让AI集中分析共性，真正发挥AI的分析效率。 之前在群里聊到一个问题： 搭建小红书AI工作流的时候，怎么给AI建立一套稳定的爆款内容拆解标准？ 因为如果不提前固定一套拆解标准的话，AI就很容易自由发挥。 可能同一篇内容，今",
+      "brief": "RAGFlow 更新 1.0，核心改动是面向 Agent 检索，LlamaIndex 团队则喊出 RAG is dead。作者拆解 SAG-Wiki：不用 Embedding、不建向量库，靠 BM25 召回加 Jev 逐段判断证据，把检索变成 Agent 可扩展的工具。 工作流不火了以后，关于 RAG 的讨论也少了。 前两天知名 RAG 项目 RAGFlow（GitHub 有 9 万+ stars）更新了正式的 1.0 版本，核心改动是",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6492556.html",
+      "title": "实测深度原理Hydrogen-1.0，我找到了比GPT-6Astra更适合我做科研的新模型",
+      "summary": "Hydrogen-1.0 在 FrontierScience Research 上解题率 38.3%，高于 GPT-6Astra 最高档的 33.3%，成本更低。它拿 GLM-5.3 后训练，用 AES S-box 电路压缩和分子解析去试，看能替掉多少搜索工作。 我很高兴Deep Research不再是我做科研信息搜索的第一选择了。 如果说对于AI做科研有啥具体印象的话，我可以列出来几个很关键的节点。 Deep Search→Deep",
+      "publishedAt": "2026-11-12T01:54:40.000Z",
+      "url": "https://www.woshipm.com/ai/6492556.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "GPT-6Astra",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6492556.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Hydrogen-1.0 在 FrontierScience Research 上解题率 38.3%，高于 GPT-6Astra 最高档的 33.3%，成本更低。它拿 GLM-5.3 后训练，用 AES S-box 电路压缩和分子解析去试，看能替掉多少搜索工作。 我很高兴Deep Research不再是我做科研信息搜索的第一选择了。 如果说对于AI做科研有啥具体印象的话，我可以列出来几个很关键的节点。 Deep Search→Deep",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6492544.html",
+      "title": "Qwen4-Max 预览版来了！实测，谈谈感受。",
+      "summary": "Qwen4-Max 预览版在 Token Plan 上线，19.5 元 2 万积分，限时最低 1 折。作者用 Qoder 实测抓娃娃机、Three.js 召唤师峡谷和《时间的尽头》三个任务，输出只有 33 tokens/s，交付质量却能和 Kimi K3.1 打平。 最近各家旗舰大模型你方唱罢我登场，十分热闹 很多人，尤其是我非常期待 Qwen4，话说，这个预告海报可真是清新脱俗，让很多海外开发者去恶补庄子的《逍遥游》了 刚刚，Qwen",
+      "publishedAt": "2026-11-12T01:17:59.000Z",
+      "url": "https://www.woshipm.com/ai/6492544.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6492544.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Qwen4-Max 预览版在 Token Plan 上线，19.5 元 2 万积分，限时最低 1 折。作者用 Qoder 实测抓娃娃机、Three.js 召唤师峡谷和《时间的尽头》三个任务，输出只有 33 tokens/s，交付质量却能和 Kimi K3.1 打平。 最近各家旗舰大模型你方唱罢我登场，十分热闹 很多人，尤其是我非常期待 Qwen4，话说，这个预告海报可真是清新脱俗，让很多海外开发者去恶补庄子的《逍遥游》了 刚刚，Qwen",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
     },
     {
       "id": "ph:https://www.producthunt.com/products/bonds-2",
@@ -171,47 +252,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ucd/6492207.html",
-      "title": "闪购 Agent 情感设计探索",
-      "summary": "当AI语气切换不再新鲜，情感化体验的下半场拼的是什么？淘宝闪购设计团队从价值观、情感承接策略到语气规则三层拆解，把「关心用户」变成可执行、可测试的设计标准，为AI Agent的情感化设计提供了一套可复用的方法论。 在淘宝闪购 AI Agent 的一期探索中，我们上线了「清爽高效」「轻松自然」和「灵光风趣」三种对话语气，用户可以按自己的偏好手动切换。 上线后，我们实际体验了一下，发现在很多场景仅靠语气调整的情感化，还不足以让用户真正感觉产",
-      "publishedAt": "2026-11-11T03:52:41.000Z",
-      "url": "https://www.woshipm.com/ucd/6492207.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ucd/6492207.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当AI语气切换不再新鲜，情感化体验的下半场拼的是什么？淘宝闪购设计团队从价值观、情感承接策略到语气规则三层拆解，把「关心用户」变成可执行、可测试的设计标准，为AI Agent的情感化设计提供了一套可复用的方法论。 在淘宝闪购 AI Agent 的一期探索中，我们上线了「清爽高效」「轻松自然」和「灵光风趣」三种对话语气，用户可以按自己的偏好手动切换。 上线后，我们实际体验了一下，发现在很多场景仅靠语气调整的情感化，还不足以让用户真正感觉产",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/mister-blocks",

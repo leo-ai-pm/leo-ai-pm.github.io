@@ -1,7 +1,7 @@
 {
-  "status": "partial",
-  "checkedAt": "2026-11-11T22:45:59.905Z",
-  "message": "部分精选暂时没有更新，其余栏目照常显示。",
+  "status": "ok",
+  "checkedAt": "2026-11-12T03:25:22.746Z",
+  "message": "",
   "categories": [
     {
       "id": "ai-models",
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "vq9nwgwhtm31cgoliyb7ydyde",
+      "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
+      "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
+      "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+      "aihotUrl": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "aoxmmcsudy1gf9xmti7slu1wd",
+      "title": "WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋",
+      "reason": "原文汇总了董事会调查、持股与接班安排等关键事实，读者可据此理解 Nvidia 治理层面的最新走向。",
+      "summary": "WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2120663635479625930",
+      "aihotUrl": "https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd",
+      "publishedAt": "2026-11-11T23:43:05.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "r8hsm3m3munjwk1n3u885zszw",
       "title": "Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策",
@@ -51,6 +79,20 @@
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "bx3sq4dxfqblyztkuiktiz0wv",
+      "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
+      "reason": "原文给出 RoboLab-120 榜单具体成绩、开源范围和适配方式，读者可以据此评估它在自有硬件上的部署可行性。",
+      "summary": "Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。",
+      "sourceName": "Runway：News（网页）",
+      "sourceUrl": "https://runwayml.com/news/company-news/praxis-1-is-now-available",
+      "aihotUrl": "https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv",
+      "publishedAt": "2026-11-11T23:25:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
       "unselected": false
     },
     {
@@ -164,93 +206,23 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "m7ul4psbkb5zyp0t254fr986o",
-      "title": "Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高",
-      "reason": "报道补充了定价区间、募资用途和三大科技公司的入股安排，可帮助读者理解这桩 IPO 的资金结构与定价逻辑。",
-      "summary": "FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2120320127484969162",
-      "aihotUrl": "https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o",
-      "publishedAt": "2026-11-11T00:58:06.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "wkpj021rmg6sgthgj9zwevei4",
-      "title": "OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本",
-      "reason": "原文实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 开销，给出缩窄工具和 Tool Search 的降本方法，可直接迁移到自己的智能体。",
-      "summary": "OpenRouter 实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 成本：在 Claude Sonnet 5.5 上 CLI 用 1。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
-      "aihotUrl": "https://aihot.news/items/wkpj021rmg6sgthgj9zwevei4",
-      "publishedAt": "2026-11-11T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "i3gp1xj4j11gi4qoreya18izb",
-      "title": "OpenRouter 实测 fp8 与 fp4 量化对模型质量和价格的影响",
-      "reason": "作者基于自家 280 个任务的实测数据讨论量化精度与价格的关系，并给出 provider.quantizations 的可操作用法，结论边界交代得清楚。",
-      "summary": "OpenRouter 发布量化解析文章，讲解 LLM 量化原理，并报告 2026 年 10 月 20 日对 1455 个 provider 端点和 Qwen3.8 27B 六个端点的实测。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/insights/llm-quantization/",
-      "aihotUrl": "https://aihot.news/items/i3gp1xj4j11gi4qoreya18izb",
-      "publishedAt": "2026-11-11T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "uditkv6u7rrzmtj1nx7pxbgjj",
-      "title": "Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作",
-      "reason": "作者以设计师出身的一手实测和社区案例，讨论大模型用代码承载审美、吞噬数字创作的趋势判断。",
-      "summary": "作者实测 Claude Fable 5.2 与 Gemini 4 Carbon 并对比后认为，Fable 5.2 的突出差异在于审美，这是无法用 Benchmark 评估但可直观感受的东西。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s/zgBGhOsuh6Z_5Enmzos3rQ",
-      "aihotUrl": "https://aihot.news/items/uditkv6u7rrzmtj1nx7pxbgjj",
-      "publishedAt": "2026-11-10T23:56:00.000Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
-      "unselected": false
-    },
-    {
-      "id": "womexcn3n0ijhbehvhbsxxm4f",
-      "title": "Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent",
-      "reason": "微软研究团队解释 Lazarus 后门如何改写少于 10 个休眠神经元即可让 Agent 执行恶意命令，并给出模型来源与权重完整性层面的防御思路。",
-      "summary": "Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。",
-      "sourceName": "Microsoft Research 博客（RSS）",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "aihotUrl": "https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f",
-      "publishedAt": "2026-11-10T20:52:56.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "vouc5yc5intvgg7311kekkhsi",
-      "title": "Cursor Projects 升级为多人协作模式",
-      "reason": "原文给出共享任务板、团队共享上下文和智能体互通三项具体能力，读者可据此判断多智能体协作如何落地到团队场景。",
-      "summary": "Cursor 宣布 Projects 迈入多人协作阶段，此前 9 月推出的 Projects 通过单一协调者调度一组智能体，现在支持邀请团队成员加入同一 Project，与各自的智能体共同规划、构建和交付。",
-      "sourceName": "Cursor Blog",
-      "sourceUrl": "https://cursor.com/blog/projects-multiplayer",
-      "aihotUrl": "https://aihot.news/items/vouc5yc5intvgg7311kekkhsi",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "bx3sq4dxfqblyztkuiktiz0wv",
+      "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
+      "reason": "原文给出 RoboLab-120 榜单具体成绩、开源范围和适配方式，读者可以据此评估它在自有硬件上的部署可行性。",
+      "summary": "Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。",
+      "sourceName": "Runway：News（网页）",
+      "sourceUrl": "https://runwayml.com/news/company-news/praxis-1-is-now-available",
+      "aihotUrl": "https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv",
+      "publishedAt": "2026-11-11T23:25:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "qd3f4j2hd0t98tqf28iv7pu2j",
       "title": "百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源",
@@ -344,20 +316,6 @@
       "sourceUrl": "https://x.com/ArtificialAnlys/status/2119878995386982508",
       "aihotUrl": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
       "publishedAt": "2026-11-09T19:45:12.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "rxx1qxfjfuioem95lr868hhwq",
-      "title": "Claude Mythos 5.2 预测基因治疗载体 AAV 衣壳结构",
-      "reason": "原文给出了具体预测方法和精度结果，读者可以据此了解该模型在结构生物学任务上的实际表现。",
-      "summary": "Claude 官方视频介绍 Claude Mythos 5.2 预测了完整 AAV 衣壳结构，即用于递送基因治疗的蛋白质外壳。",
-      "sourceName": "Claude：YouTube（RSS）",
-      "sourceUrl": "https://www.youtube.com/watch?v=FMbXUxn_nBw",
-      "aihotUrl": "https://aihot.news/items/rxx1qxfjfuioem95lr868hhwq",
-      "publishedAt": "2026-11-09T18:56:56.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -476,6 +434,20 @@
       "unselected": false
     },
     {
+      "id": "aoxmmcsudy1gf9xmti7slu1wd",
+      "title": "WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋",
+      "reason": "原文汇总了董事会调查、持股与接班安排等关键事实，读者可据此理解 Nvidia 治理层面的最新走向。",
+      "summary": "WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2120663635479625930",
+      "aihotUrl": "https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd",
+      "publishedAt": "2026-11-11T23:43:05.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "r5kn7uexy6jx97qwxwvnpqrom",
       "title": "Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市",
       "reason": "原文汇总了 Anthropic IPO 超额认购倍数、估值目标和上市安排等关键数字，可帮助读者了解这笔史上最大规模上市的认购结构。",
@@ -574,17 +546,129 @@
       "unselected": false
     },
     {
-      "id": "zycmiklep7i6dct58558jbp78",
-      "title": "Stripe 收购 OpenRouter，双方宣布合并后定位",
-      "reason": "收购方与被购方共同宣布，原文说明了合并后的定位和对中立性的承诺，读者可以据此评估对现有工作流的影响。",
-      "summary": "OpenRouter 官方宣布正式并入 Stripe。",
-      "sourceName": "X：OpenRouter (@OpenRouter)",
-      "sourceUrl": "https://x.com/OpenRouter/status/2120234542183395787",
-      "aihotUrl": "https://aihot.news/items/zycmiklep7i6dct58558jbp78",
-      "publishedAt": "2026-11-10T19:18:01.000Z",
+      "id": "z9u4n1e7zfapxjozcn97quhdp",
+      "title": "Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队",
+      "reason": "Anthropic 用四个模拟环境测出多用户多智能体团队的协调失败模式，并发布 MAMUBench 供社区复测。",
+      "summary": "Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。",
+      "sourceName": "Anthropic：Alignment Science Blog（网页）",
+      "sourceUrl": "https://alignment.anthropic.com/2026/worse-together/",
+      "aihotUrl": "https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
       "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "womexcn3n0ijhbehvhbsxxm4f",
+      "title": "Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent",
+      "reason": "微软研究团队解释 Lazarus 后门如何改写少于 10 个休眠神经元即可让 Agent 执行恶意命令，并给出模型来源与权重完整性层面的防御思路。",
+      "summary": "Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。",
+      "sourceName": "Microsoft Research 博客（RSS）",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "aihotUrl": "https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f",
+      "publishedAt": "2026-11-10T20:52:56.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "xenhfme3azzcf8qpihr57fb93",
+      "title": "Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用",
+      "reason": "基准把漏洞恢复与可审计利用分开度量，结果显示 Codex 恢复 88% 但仅 20% 能完成利用，硬化编译进一步压缩成功率。",
+      "summary": "UC Berkeley 等机构发布 CyberBinGym 基准，评估 AI 智能体在无源码、无漏洞描述、无触发输入的 1-day 场景下，仅凭 stripped 的漏洞与补丁二进制能否恢复并利用真实漏洞，含 100 个来自 53 个开源项目的任务。",
+      "sourceName": "Berkeley RDI：Blog（AI 安全与评测）",
+      "sourceUrl": "https://rdi.berkeley.edu/blog/cyberbingym",
+      "aihotUrl": "https://aihot.news/items/xenhfme3azzcf8qpihr57fb93",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "mx6m3dvh7s5zz7u91h4iqd5pt",
+      "title": "OpenAI 披露 ExploitGym 评测中智能体利用同行遗留凭据越权访问内部研究基础设施",
+      "reason": "官方复盘给出智能体越权访问和智能体间协作的量化细节，以及此后环境加固措施，可帮助读者理解评测沙箱风险。",
+      "summary": "OpenAI 报告，2026 年 7 月 19 日两个 ExploitGym 评测运行中的 Astra 系列内部研究模型未经授权访问了 OpenAI 研究基础设施。",
+      "sourceName": "OpenAI：失准报告与通报（网页）",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/",
+      "aihotUrl": "https://aihot.news/items/mx6m3dvh7s5zz7u91h4iqd5pt",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "uif827ayipylunwlh7gejgcbo",
+      "title": "OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性",
+      "reason": "OpenAI 以自家模型实测说明预训练困惑度、架构和 RL 如何影响 CoT 可监控性，安全研究者可据此对照自身训练决策。",
+      "summary": "OpenAI 发布研究，分析预训练、架构、强化学习和模型生成数据如何影响思维链（CoT）可监控性。",
+      "sourceName": "OpenAI：Alignment 研究博客（RSS）",
+      "sourceUrl": "https://alignment.openai.com/cot-monitorability-model-lifecycle/",
+      "aihotUrl": "https://aihot.news/items/uif827ayipylunwlh7gejgcbo",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "xaj5t8sbv4qtc0n9ovus1nfl9",
+      "title": "Anthropic 研究：稀释投毒微调数据反而会强化其后门效应",
+      "reason": "研究指出单独看无害的训练数据与干净数据混合后可能形成后门，提示仅靠孤立审计数据的安全方法存在盲区。",
+      "summary": "Anthropic 与 Truthful AI 等机构提出“顺势学习”现象：单独作用很小的投毒数据，在混入同类型干净对比数据后会形成隐藏后门。",
+      "sourceName": "Anthropic：Alignment Science Blog（网页）",
+      "sourceUrl": "https://alignment.anthropic.com/2026/homeopathic-learning/",
+      "aihotUrl": "https://aihot.news/items/xaj5t8sbv4qtc0n9ovus1nfl9",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "momr4yrt6hhhfeuzjfqz6ryqy",
+      "title": "Wiz 讲解如何评估 AI 智能体的网络安全能力",
+      "reason": "Wiz 研究人员分享了自建网络安全智能体基准的设计原则与踩坑经验，解释了为何用确定性代码评分替代 LLM 评委并隔离防作弊。",
+      "summary": "Wiz Research 介绍其 Cyber Model Arena v3.9 的基准设计方法，该基准覆盖 26 个模型、59 个智能体和 327 道挑战，分代码漏洞、API 安全、Web 安全和云安全四类。",
+      "sourceName": "Wiz：Research（安全研究）",
+      "sourceUrl": "https://www.wiz.io/blog/cyber-model-arena-ai-benchmark",
+      "aihotUrl": "https://aihot.news/items/momr4yrt6hhhfeuzjfqz6ryqy",
+      "publishedAt": "2026-11-10T16:03:25.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "t9g33uqn3lfwm8cr1kr2fvnp7",
+      "title": "Google DeepMind 用 AlphaProof Code 对 Signal 协议机器码完成形式化安全验证",
+      "reason": "转发梳理了 DeepMind 用 AI 智能体形式化验证 Signal 机器码的细节，读者可以了解验证流程、规模和相对人工团队的成本变化。",
+      "summary": "Google DeepMind 发布 AlphaProof Code 多智能体形式化验证框架，并首次对广泛部署协议 Signal 的生产机器码完成形式化安全验证。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2120179172836622832",
+      "aihotUrl": "https://aihot.news/items/t9g33uqn3lfwm8cr1kr2fvnp7",
+      "publishedAt": "2026-11-10T15:38:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "vq9nwgwhtm31cgoliyb7ydyde",
+      "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
+      "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
+      "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
+      "sourceName": "OpenRouter：Announcements（RSS）",
+      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+      "aihotUrl": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -684,20 +768,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "lko5m98q1kk1dlcjihvk527w8",
-      "title": "Figma 官方讲解画布智能体的 6 种实用方法",
-      "reason": "Figma 官方梳理了智能体在画布上的六种日常用法，含具体提示词示例，读者可直接照做提升设计工作流。",
-      "summary": "Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖从设计初期探索到交付前细节的各个阶段。",
-      "sourceName": "Figma AI / Agent / Make",
-      "sourceUrl": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/",
-      "aihotUrl": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
-      "publishedAt": "2026-11-09T21:46:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -707,6 +777,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "vq9nwgwhtm31cgoliyb7ydyde",
+          "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
+          "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
+          "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+          "aihotUrl": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "r8hsm3m3munjwk1n3u885zszw",
           "title": "Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策",
@@ -775,20 +859,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "wkpj021rmg6sgthgj9zwevei4",
-          "title": "OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本",
-          "reason": "原文实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 开销，给出缩窄工具和 Tool Search 的降本方法，可直接迁移到自己的智能体。",
-          "summary": "OpenRouter 实测同一 GitHub 任务下 MCP、CLI 与 skill 的 token 成本：在 Claude Sonnet 5.5 上 CLI 用 1。",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "sourceUrl": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/",
-          "aihotUrl": "https://aihot.news/items/wkpj021rmg6sgthgj9zwevei4",
-          "publishedAt": "2026-11-11T00:00:00.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]
@@ -984,6 +1054,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "vq9nwgwhtm31cgoliyb7ydyde",
+          "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
+          "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
+          "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+          "aihotUrl": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "z9u4n1e7zfapxjozcn97quhdp",
           "title": "Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队",
           "reason": "Anthropic 用四个模拟环境测出多用户多智能体团队的协调失败模式，并发布 MAMUBench 供社区复测。",
@@ -1052,20 +1136,6 @@
           "category": "industry",
           "categoryLabel": "行业",
           "unselected": false
-        },
-        {
-          "id": "m7ul4psbkb5zyp0t254fr986o",
-          "title": "Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高",
-          "reason": "报道补充了定价区间、募资用途和三大科技公司的入股安排，可帮助读者理解这桩 IPO 的资金结构与定价逻辑。",
-          "summary": "FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2120320127484969162",
-          "aihotUrl": "https://aihot.news/items/m7ul4psbkb5zyp0t254fr986o",
-          "publishedAt": "2026-11-11T00:58:06.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
         }
       ]
     },
@@ -1075,6 +1145,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "vq9nwgwhtm31cgoliyb7ydyde",
+          "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
+          "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
+          "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+          "aihotUrl": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "ep5oqt7m4l7gn3tqieilznmuk",
           "title": "Claude Code 中如何选择 Fable 5.2 与 Opus 等模型",
@@ -1140,20 +1224,6 @@
           "sourceUrl": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
           "aihotUrl": "https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5",
           "publishedAt": "2026-11-11T12:12:47.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
-          "id": "ajjv9abs8vd20j05emcig98ai",
-          "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
-          "reason": "原文转述 WSJ 报道并给出招股文件细节，读者可以据此理解 Anthropic IPO 中创始人套现与双重股权控制安排。",
-          "summary": "WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2120392847505715324",
-          "aihotUrl": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
-          "publishedAt": "2026-11-11T05:47:04.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
