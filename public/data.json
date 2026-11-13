@@ -1,7 +1,7 @@
 {
   "date": "2026年11月13日",
   "demo": false,
-  "updatedAt": "2026-11-12T19:10:29.569Z",
+  "updatedAt": "2026-11-13T07:08:03.755Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 207,
-    "latestCount": 0,
+    "received": 218,
+    "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "karpathy",
@@ -128,8 +128,8 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 2,
+        "status": "本次收录"
       },
       {
         "handle": "Thom_Wolf",
@@ -143,6 +143,80 @@
     ]
   },
   "items": [
+    {
+      "id": "aihot-vyem83j1hcpfhlrss3cj30vb1",
+      "title": "OpenAI 为 dots 推送更新并激活重置额度",
+      "brief": "我们今天为 dots 推送了一些不错的更新，banked reset 已激活，应该很快会到账每个人的账户！",
+      "summary": "我们今天为 dots 推送了一些不错的更新，banked reset 已激活，应该很快会到账每个人的账户！",
+      "category": "产品动态",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "thsottiaux",
+      "sourceGroup": "产品与工程",
+      "sourceName": "Tibo Sottiaux · @thsottiaux",
+      "feedName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2120999993079451919",
+      "aggregateUrl": "https://aihot.news/items/vyem83j1hcpfhlrss3cj30vb1",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-11-12T21:59:39.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品动态",
+        "author": {
+          "name": "Tibo Sottiaux",
+          "asset": "/assets/identities/thsottiaux.jpg",
+          "assetSource": "https://x.com/thsottiaux",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
+    {
+      "id": "aihot-jgedj9le96qod6p1ulss5mo14",
+      "title": "Perplexity 开源 Decision Models 安全模型，免费开放至 11 月 19 日",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布开源其 Decision Models，称这类模型能处理数十亿 token 的遥测数据、发现安全问题并以新的规模和成本结构帮助修补漏洞，模型已在 OpenRouter 上免费开放一周。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布开源其 Decision Models，称这类模型能处理数十亿 token 的遥测数据、发现安全问题并以新的规模和成本结构帮助修补漏洞，模型已在 OpenRouter 上免费开放一周。",
+      "category": "模型进展",
+      "topic": "AI 产品",
+      "priority": "normal",
+      "platform": "X",
+      "authorHandle": "AravSrinivas",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Aravind Srinivas · @AravSrinivas",
+      "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2121092767665598477",
+      "aggregateUrl": "https://aihot.news/items/jgedj9le96qod6p1ulss5mo14",
+      "acquiredVia": "AIHot",
+      "publishedAt": "2026-11-13T04:08:18.000Z",
+      "timeBasis": "published",
+      "verification": "AIHOT 摘要 · 原文可查",
+      "visual": {
+        "entities": [
+          {
+            "name": "Perplexity",
+            "asset": "/assets/identities/perplexity_ai.jpg",
+            "assetSource": "https://x.com/perplexity_ai",
+            "tone": "#dcebea"
+          }
+        ],
+        "caption": "模型进展",
+        "author": {
+          "name": "Aravind Srinivas",
+          "asset": "/assets/identities/aravsrinivas.jpg",
+          "assetSource": "https://x.com/AravSrinivas",
+          "tone": "#e9e4dc"
+        }
+      }
+    },
     {
       "id": "x-karpathy-2079610838143623371",
       "title": "Karpathy：用自由讲述给 LLM 补足上下文",
@@ -190,35 +264,43 @@
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
       "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-      "sourceCount": 10,
-      "participantCount": 107,
-      "latestAt": "2026-11-12T17:44:33.000Z",
+      "sourceCount": 15,
+      "participantCount": 121,
+      "latestAt": "2026-11-13T04:17:46.000Z",
       "expanded": true,
-      "latest": "The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云",
+      "latest": "黄仁勋辞任英伟达 CEO 全时间线复盘：两桩风波、接班人与 33 年生涯",
       "reports": [
         {
-          "title": "SemiAnalysis 分析黄仁勋辞任 Nvidia 后的公司前景与对华芯片管制走向",
-          "sourceName": "SemiAnalysis 长文 RSS（RSS）",
-          "sourceUrl": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-          "aihotUrl": "https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4",
-          "publishedAt": "2026-11-12T18:06:26.000Z"
+          "title": "黄仁勋辞任英伟达 CEO 全时间线复盘：两桩风波、接班人与 33 年生涯",
+          "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
+          "sourceUrl": "https://x.com/aiwarts/status/2121095150114140317",
+          "aihotUrl": "https://aihot.news/items/c38th8p4klxei4v40fxntey09",
+          "publishedAt": "2026-11-13T04:17:46.000Z"
         },
         {
-          "title": "The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-          "aihotUrl": "https://aihot.news/items/licdk6vosezxouovor3gvtcpe",
-          "publishedAt": "2026-11-12T17:44:33.000Z"
-        },
-        {
-          "title": "美众议院中国特设委员会主席 Moolenaar 就黄仁勋辞任 NVIDIA 发表声明",
+          "title": "Rohan Paul 日报：黄仁勋结束 33 年任期辞任 Nvidia CEO，Colette Kress 任临时 CEO",
           "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2120931596396335208",
-          "aihotUrl": "https://aihot.news/items/rda6uss1k4k96ygzfl7a3byk0",
-          "publishedAt": "2026-11-12T17:27:52.000Z"
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2121061984896708744",
+          "aihotUrl": "https://aihot.news/items/sntaq2q8jo5gkp6hpgn0wy7g6",
+          "publishedAt": "2026-11-13T02:05:59.000Z"
+        },
+        {
+          "title": "黄仁勋辞任 Nvidia CEO，Casey Newton 撰文评析硅谷创始人崇拜的终结",
+          "sourceName": "Platformer（热点 RSS）",
+          "sourceUrl": "https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/",
+          "aihotUrl": "https://aihot.news/items/yb6o3s9lyxkb8xf7ykhrj3cr1",
+          "publishedAt": "2026-11-13T01:43:23.000Z"
         }
       ],
       "related": [
+        {
+          "title": "黄仁勋辞任英伟达CEO，Hugging Face表态力挺开源AI",
+          "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
+        },
+        {
+          "title": "黄仁勋卸任英伟达CEO，外界评论分歧",
+          "storyUrl": "https://aihot.news/story/08c55b1d-2c6d-4fe4-979e-69d0df8f76fe"
+        },
         {
           "title": "黄仁勋承认婚外情 英伟达股价跌28.6%",
           "storyUrl": "https://aihot.news/story/ca0b87a7-e926-472e-8198-4787ac1578f6"
@@ -239,41 +321,46 @@
     },
     {
       "rank": 2,
-      "id": "r8hsm3m3munjwk1n3u885zszw",
-      "title": "Google发布Gemini Decision 1决策模型，评测得66分",
-      "sourceName": "Google Blog：AI（RSS）",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "aihotUrl": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
-      "storyUrl": "https://aihot.news/story/8febc4b1-e8fa-4418-97c6-eb03dfa73f42",
-      "sourceCount": 11,
-      "participantCount": 38,
-      "latestAt": "2026-11-12T00:55:39.970Z",
+      "id": "uy1ayrrlqx1snqsv4lub7whsa",
+      "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
+      "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
+      "sourceCount": 17,
+      "participantCount": 67,
+      "latestAt": "2026-11-13T04:31:12.000Z",
       "expanded": true,
-      "latest": "谷歌推出 Gemini Decisions API，基于 Gemini Decision 1 模型实现快速多模态决策",
+      "latest": "Gemini 4 Hydrogen 发布并已可在 OpenClaw 中使用",
       "reports": [
         {
-          "title": "Latent Space AINews：Google 发布 Gemini Decision 1 决策模型，Claude Fable 5.2 登顶 Agent Arena",
-          "sourceName": "Latent Space（RSS）",
-          "sourceUrl": "https://latent.space/p/ainews-d-day-decision-models-day/",
-          "aihotUrl": "https://aihot.news/items/shb2cxiblvq7iuzx5ug97p4vi",
-          "publishedAt": "2026-11-12T05:26:54.000Z"
+          "title": "Gemini 4 Hydrogen 发布并已可在 OpenClaw 中使用",
+          "sourceName": "X：OpenClaw (@openclaw)",
+          "sourceUrl": "https://x.com/openclaw/status/2121098531205501401",
+          "aihotUrl": "https://aihot.news/items/g1i3oaaq9yrtsm2toewsuhcwk",
+          "publishedAt": "2026-11-13T04:31:12.000Z"
         },
         {
-          "title": "谷歌推出 Gemini Decisions API，基于 Gemini Decision 1 模型实现快速多模态决策",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/025/858.htm",
-          "aihotUrl": "https://aihot.news/items/augt3chxot6cst3txu3h6snl1",
-          "publishedAt": "2026-11-12T00:55:39.970Z"
+          "title": "Gemini 3.8 Flash 与 Hydrogen 动画对比",
+          "sourceName": "X：Google (@Google)",
+          "sourceUrl": "https://x.com/Google/status/2121037841287249920",
+          "aihotUrl": "https://aihot.news/items/jk2j1qrls5xbfylot1i4nudhj",
+          "publishedAt": "2026-11-13T00:30:02.000Z"
         },
         {
-          "title": "Google 发布 Gemini Decision 1 决策模型 API，Simon Willison 实测对比",
-          "sourceName": "Simon Willison 博客",
-          "sourceUrl": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-          "aihotUrl": "https://aihot.news/items/cwu3md9iafkda12s81kwsz9t7",
-          "publishedAt": "2026-11-11T22:03:25.000Z"
+          "title": "Gemini 4 Carbon 与 Hydrogen 协作打造飞蛾动画",
+          "sourceName": "X：Google (@Google)",
+          "sourceUrl": "https://x.com/Google/status/2121037839563730994",
+          "aihotUrl": "https://aihot.news/items/k5e9f5e3c6xe1zza3n896s48r",
+          "publishedAt": "2026-11-13T00:30:02.000Z"
         }
       ],
-      "related": [],
+      "related": [
+        {
+          "title": "Gemini 4 Hydrogen 首登 Agent Arena 第 5",
+          "storyUrl": "https://aihot.news/story/d032a0a8-c41a-400f-b4ac-1f1753b189e0"
+        }
+      ],
       "visual": {
         "entities": [
           {
@@ -289,40 +376,68 @@
     },
     {
       "rank": 3,
-      "id": "uy1ayrrlqx1snqsv4lub7whsa",
-      "title": "Google 发布 Gemini 4 Hydrogen 并接入搜索与 Cursor",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-      "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
-      "sourceCount": 7,
-      "participantCount": 23,
-      "latestAt": "2026-11-12T18:22:08.000Z",
+      "id": "l36ne5q2gsdx6thyia7fi10kn",
+      "title": "Anthropic 向 Team 和 Enterprise 推出 Claude Meetings beta",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/claude-meetings",
+      "aihotUrl": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
+      "storyUrl": "https://aihot.news/story/dad94af2-7539-4652-a661-03cc5494c71b",
+      "sourceCount": 5,
+      "participantCount": 25,
+      "latestAt": "2026-11-12T22:36:29.000Z",
       "expanded": true,
-      "latest": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+      "latest": "Anthropic 发布 Claude Meetings，Claude 可加入团队视频会议协作",
       "reports": [
         {
-          "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
-          "sourceName": "X：Matt Palmer（SpaceXSI，Grok Bot） (@mattyp)",
-          "sourceUrl": "https://x.com/mattyp/status/2120945253666762973",
-          "aihotUrl": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
-          "publishedAt": "2026-11-12T18:22:08.000Z"
+          "title": "Anthropic 发布 Claude Meetings，Claude 可加入团队视频会议协作",
+          "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "sourceUrl": "https://x.com/adocomplete/status/2121009263997010306",
+          "aihotUrl": "https://aihot.news/items/kikcmqsbwnwg3mb8xoh2h2dot",
+          "publishedAt": "2026-11-12T22:36:29.000Z"
         },
         {
-          "title": "Cursor 公布 Gemini 4 Hydrogen 定价",
-          "sourceName": "X：Cursor (@cursor_ai)",
-          "sourceUrl": "https://x.com/cursor_ai/status/2120944651960291781",
-          "aihotUrl": "https://aihot.news/items/leysijsx8660t8pwgnnslip9g",
-          "publishedAt": "2026-11-12T18:19:44.000Z"
+          "title": "Anthropic 推出 Claude Meetings，可加入团队视频通话实时协作",
+          "sourceName": "X：Noah Zweben（@noahzweben）",
+          "sourceUrl": "https://x.com/noahzweben/status/2120988963137810578",
+          "aihotUrl": "https://aihot.news/items/fyy46ximozmo3jopdn6viv7w4",
+          "publishedAt": "2026-11-12T21:15:49.000Z"
         },
         {
-          "title": "Gemini 4 Hydrogen 现已登陆 Cursor，CursorBench 得分 54.3%",
-          "sourceName": "X：Cursor (@cursor_ai)",
-          "sourceUrl": "https://x.com/cursor_ai/status/2120944639633211619",
-          "aihotUrl": "https://aihot.news/items/vwpr1h68drk55b95gmxib4f4q",
-          "publishedAt": "2026-11-12T18:19:41.000Z"
+          "title": "Anthropic 推出 Claude Meetings，让 Claude 以参会者身份加入视频会议",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+          "aihotUrl": "https://aihot.news/items/fii8iaht4yklmdxiud8qy18od",
+          "publishedAt": "2026-11-12T20:26:50.000Z"
         }
       ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 4,
+      "id": "r8hsm3m3munjwk1n3u885zszw",
+      "title": "Google发布Gemini Decision 1决策模型与Decisions API",
+      "sourceName": "Google Blog：AI（RSS）",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "aihotUrl": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
+      "storyUrl": "https://aihot.news/story/8febc4b1-e8fa-4418-97c6-eb03dfa73f42",
+      "sourceCount": 10,
+      "participantCount": 38,
+      "latestAt": "2026-11-13T01:10:07.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -338,15 +453,15 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
       "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
       "sourceName": "Anthropic：Newsroom（网页）",
       "sourceUrl": "https://www.anthropic.com/news/s1-sec",
       "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
       "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "sourceCount": 4,
-      "participantCount": 38,
+      "sourceCount": 3,
+      "participantCount": 29,
       "latestAt": "2026-11-12T11:30:46.000Z",
       "expanded": false,
       "latest": "",
@@ -366,16 +481,16 @@
       }
     },
     {
-      "rank": 5,
-      "id": "w8cvkd1j2o1c3m8ikh8x2kpfx",
-      "title": "Google 开放 Gemini 4 Carbon，Perplexity 同步上线",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "aihotUrl": "https://aihot.news/items/w8cvkd1j2o1c3m8ikh8x2kpfx",
-      "storyUrl": "https://aihot.news/story/e16f5d00-5477-42b8-83d3-4162e0262249",
-      "sourceCount": 3,
-      "participantCount": 34,
-      "latestAt": "2026-11-11T22:53:02.000Z",
+      "rank": 6,
+      "id": "umle6dgudhf73hxhvypmv4qk8",
+      "title": "豆包工作向企业开放第三方模型并推限时优惠",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/019/733.htm",
+      "aihotUrl": "https://aihot.news/items/umle6dgudhf73hxhvypmv4qk8",
+      "storyUrl": "https://aihot.news/story/60c71184-5d0c-4286-94d2-52e32d087f39",
+      "sourceCount": 1,
+      "participantCount": 17,
+      "latestAt": "2026-11-12T02:31:16.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -383,16 +498,10 @@
       "visual": {
         "entities": [
           {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          },
-          {
-            "name": "Perplexity",
-            "asset": "/assets/identities/perplexity_ai.jpg",
-            "assetSource": "https://x.com/perplexity_ai",
-            "tone": "#dcebea"
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
@@ -400,15 +509,15 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "va9trgwaw3r4por6vdqbjxrhd",
       "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，多项评测登顶",
       "sourceName": "Anthropic：Newsroom（网页）",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "aihotUrl": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
       "storyUrl": "https://aihot.news/story/760e0591-91c2-4b7a-aea8-5a33ba5d86b1",
-      "sourceCount": 4,
-      "participantCount": 29,
+      "sourceCount": 3,
+      "participantCount": 21,
       "latestAt": "2026-11-12T02:00:20.000Z",
       "expanded": false,
       "latest": "",
@@ -428,7 +537,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "vsfksfgk0lbaxg53ohn53hh73",
       "title": "美联航封禁个人AI智能体代客订票",
       "sourceName": "TechCrunch：AI（RSS）",
@@ -456,16 +565,16 @@
       }
     },
     {
-      "rank": 8,
-      "id": "umle6dgudhf73hxhvypmv4qk8",
-      "title": "豆包工作向企业开放第三方模型并推限时优惠",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/019/733.htm",
-      "aihotUrl": "https://aihot.news/items/umle6dgudhf73hxhvypmv4qk8",
-      "storyUrl": "https://aihot.news/story/60c71184-5d0c-4286-94d2-52e32d087f39",
+      "rank": 9,
+      "id": "p9g8alrjslao3dn6von37647l",
+      "title": "前OpenAI工程师称四家中国AI实验室用Blackwell训练模型",
+      "sourceName": "X：indigo (@indigox)",
+      "sourceUrl": "https://x.com/indigox/status/2121040986256109987",
+      "aihotUrl": "https://aihot.news/items/p9g8alrjslao3dn6von37647l",
+      "storyUrl": "https://aihot.news/story/d7ab817c-174b-469d-8150-f55f492570e4",
       "sourceCount": 1,
-      "participantCount": 15,
-      "latestAt": "2026-11-12T02:31:16.000Z",
+      "participantCount": 11,
+      "latestAt": "2026-11-13T00:42:32.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -473,10 +582,10 @@
       "visual": {
         "entities": [
           {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
@@ -484,7 +593,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "wp91dm5fgirnzvh99js3vv6j2",
       "title": "DeepMind 发布 AlphaGenome 2 基因组模型",
       "sourceName": "Google DeepMind：Blog（RSS）",
@@ -492,7 +601,7 @@
       "aihotUrl": "https://aihot.news/items/wp91dm5fgirnzvh99js3vv6j2",
       "storyUrl": "https://aihot.news/story/315f4328-e4b0-4d44-bc5e-e317e0b0f8f6",
       "sourceCount": 5,
-      "participantCount": 17,
+      "participantCount": 18,
       "latestAt": "2026-11-12T12:09:43.000Z",
       "expanded": false,
       "latest": "",
@@ -505,34 +614,6 @@
             "asset": "/assets/identities/googledeepmind.jpg",
             "assetSource": "https://x.com/GoogleDeepMind",
             "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "yl9gdujoqcqyf76ih8c75nnx3",
-      "title": "xAI发布Grok Bot 1.0，定位团队AI队友",
-      "sourceName": "X：Grok Bot (@bot)",
-      "sourceUrl": "https://x.com/bot/status/2120582957782200586",
-      "aihotUrl": "https://aihot.news/items/yl9gdujoqcqyf76ih8c75nnx3",
-      "storyUrl": "https://aihot.news/story/6644da24-0d0a-42b1-888b-7805ed5edc3a",
-      "sourceCount": 3,
-      "participantCount": 17,
-      "latestAt": "2026-11-12T16:55:56.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Grok Bot (@bot)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",

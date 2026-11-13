@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-13T00:31:56.081Z",
-      "lastSuccessAt": "2026-11-13T00:31:56.081Z",
-      "nextCheckAt": 1794533516081,
+      "checkedAt": "2026-11-13T07:07:50.562Z",
+      "lastSuccessAt": "2026-11-13T07:07:50.562Z",
+      "nextCheckAt": 1794557270562,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-13T07:07:50.563Z",
+      "lastSuccessAt": "2026-11-13T07:07:50.563Z",
+      "nextCheckAt": 1794557270563,
       "status": "ok",
-      "nextCheckAt": 1794533516082,
-      "checkedAt": "2026-11-13T00:31:56.082Z",
-      "lastSuccessAt": "2026-11-13T00:31:56.082Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-13T00:31:56.083Z",
-      "lastSuccessAt": "2026-11-13T00:31:56.083Z",
-      "nextCheckAt": 1794533516083,
+      "checkedAt": "2026-11-13T07:07:50.565Z",
+      "lastSuccessAt": "2026-11-13T07:07:50.565Z",
+      "nextCheckAt": 1794557270565,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1794533516284,
-      "checkedAt": "2026-11-13T00:31:56.284Z",
-      "lastSuccessAt": "2026-11-13T00:31:56.284Z",
+      "nextCheckAt": 1794557270853,
+      "checkedAt": "2026-11-13T07:07:50.853Z",
+      "lastSuccessAt": "2026-11-13T07:07:50.853Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,170 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794533516081,
+  "nextCheckAt": 1794557270562,
   "refreshing": false,
   "items": [
+    {
+      "id": "sspai:https://sspai.com/post/118512",
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...",
+      "publishedAt": "2026-11-13T03:35:48.000Z",
+      "url": "https://sspai.com/post/118512",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/118512",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6493278.html",
+      "title": "决策模型杀到GPT-6身后！只差3分，速度快40倍、成本仅1/15",
+      "summary": "Decision Index v2 把置信度算进得分：Drex Max v1.1 与 GLiDE v1.2 拿到 73 分，只比 GPT-6 Luna 低 3 分，成本却是它的十五分之一，单项任务速度快四十倍。专业决策模型第一次有了独立的成本价值。 AI 模型评测正在从“谁更聪明”转向“谁能以更低成本做出可靠决策”。Artificial Analysis 最新 Decision Index v2 中，专业决策模型 Drex Max v1",
+      "publishedAt": "2026-11-13T03:11:23.000Z",
+      "url": "https://www.woshipm.com/ai/6493278.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6493278.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Decision Index v2 把置信度算进得分：Drex Max v1.1 与 GLiDE v1.2 拿到 73 分，只比 GPT-6 Luna 低 3 分，成本却是它的十五分之一，单项任务速度快四十倍。专业决策模型第一次有了独立的成本价值。 AI 模型评测正在从“谁更聪明”转向“谁能以更低成本做出可靠决策”。Artificial Analysis 最新 Decision Index v2 中，专业决策模型 Drex Max v1",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6493254.html",
+      "title": "黄仁勋的八卦刷屏了，马化腾、张一鸣、李彦宏却在重新设计公司",
+      "summary": "同一天，马化腾在腾讯 28 周年谈陆军与海军的分工，张一鸣在字节内部给出 2029 至 2030 的追平时间表，李彦宏把 AI 的下一幕定义成智能组织。三家掌门人几乎同时承认：AI 不是加功能，是重做整家公司。 今天的中国互联网热搜有些魔幻。 大洋彼岸，黄仁勋的出轨风波和辞职新闻占据了科技圈的注意力，各种八卦刷屏。 但11月12日，真正值得互联网从业者关注的，是另外三条消息。 马化腾在腾讯28周年Linktime上谈组织变革；张一鸣出现",
+      "publishedAt": "2026-11-13T03:09:06.000Z",
+      "url": "https://www.woshipm.com/share/6493254.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6493254.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "同一天，马化腾在腾讯 28 周年谈陆军与海军的分工，张一鸣在字节内部给出 2029 至 2030 的追平时间表，李彦宏把 AI 的下一幕定义成智能组织。三家掌门人几乎同时承认：AI 不是加功能，是重做整家公司。 今天的中国互联网热搜有些魔幻。 大洋彼岸，黄仁勋的出轨风波和辞职新闻占据了科技圈的注意力，各种八卦刷屏。 但11月12日，真正值得互联网从业者关注的，是另外三条消息。 马化腾在腾讯28周年Linktime上谈组织变革；张一鸣出现",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6493233.html",
+      "title": "为什么没有身份的 Personal Agent，无法进入商业世界？",
+      "summary": "eBay 拦住 Muse、美联航拒绝代理订票，两个案例指向同一道坎：Agent 能干活，却拿不到进场许可。当只有 23% 的人愿意让 AI 代付，身份、授权与责任机制就成了智能体进入商业世界的第一张门票。 一位海外用户，过去几周一直让 Muse 智能体浏览 eBay 来筛选二手手表，并整理商品价格、运费、商品状况和购买链接。 但最近，这项服务突然失灵了：Muse 无法再正常获取 eBay 的商品信息，甚至被网站直接拦截。 科技媒体《Th",
+      "publishedAt": "2026-11-13T03:05:26.000Z",
+      "url": "https://www.woshipm.com/ai/6493233.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6493233.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "eBay 拦住 Muse、美联航拒绝代理订票，两个案例指向同一道坎：Agent 能干活，却拿不到进场许可。当只有 23% 的人愿意让 AI 代付，身份、授权与责任机制就成了智能体进入商业世界的第一张门票。 一位海外用户，过去几周一直让 Muse 智能体浏览 eBay 来筛选二手手表，并整理商品价格、运费、商品状况和购买链接。 但最近，这项服务突然失灵了：Muse 无法再正常获取 eBay 的商品信息，甚至被网站直接拦截。 科技媒体《Th",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "ph:https://www.producthunt.com/products/crossfade",
       "title": "Crossfade",
@@ -131,7 +292,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/offstage-cloud",
@@ -171,7 +332,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/oxagen",
@@ -211,7 +372,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/microservices-best-practices/",

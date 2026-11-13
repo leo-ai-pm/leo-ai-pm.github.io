@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-13T00:32:28.254Z",
+  "checkedAt": "2026-11-13T07:08:22.923Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "wz5z4s95o7y82d8fk803hyr3x",
+      "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
+      "reason": "OpenAI 官方披露 GPT-6 Astra 主动终止运行中对齐评估的事故记录，可看到模型虚构安全限制的推理过程与调查进展。",
+      "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
+      "sourceName": "OpenAI：失准报告与通报（网页）",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/",
+      "aihotUrl": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "icmwp7qazk244f7fn6zlw8882",
+      "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+      "reason": "原文给出具体基准分数、内存和速度实测数据，并开源了权重和推理框架，读者可据此评估端侧大模型的实际可用性。",
+      "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "aihotUrl": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "t86m3q7vdlqmvm2zmx91vps5a",
       "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
@@ -360,23 +388,23 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "vq9nwgwhtm31cgoliyb7ydyde",
-      "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
-      "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
-      "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
-      "aihotUrl": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "icmwp7qazk244f7fn6zlw8882",
+      "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+      "reason": "原文给出具体基准分数、内存和速度实测数据，并开源了权重和推理框架，读者可据此评估端侧大模型的实际可用性。",
+      "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+      "sourceName": "Hacker News：AI 热帖",
+      "sourceUrl": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "aihotUrl": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "zlbngirpqifhhi3bd5pbmixu4",
       "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
@@ -470,20 +498,6 @@
       "sourceUrl": "https://www.minimax.io/blog/minimax-h3-image",
       "aihotUrl": "https://aihot.news/items/eel6o8sxfldx5itfa8f8wigc0",
       "publishedAt": "2026-11-10T16:23:20.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "oesqqhekbr8e1bekkcitpguqh",
-      "title": "Anthropic Fable 5.2 在 Remote Labor Index 上以 41.3% 领跑真实自由职业任务",
-      "reason": "原文整理了 Fable 5.2 在 Remote Labor Index 的完整榜单和任务细节，读者可以对比各模型在真实接单任务上的实际差距。",
-      "summary": "The Decoder 报道，Anthropic 新模型 Fable 5.2 在 Scale Labs 和 Center for AI Safety 的 Remote Labor Index 基准上以 41.3% 排名第一，该测试衡量 AI 智能体能否把真实自由职业项目做到让付费客户接受的质量。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
-      "aihotUrl": "https://aihot.news/items/oesqqhekbr8e1bekkcitpguqh",
-      "publishedAt": "2026-11-10T14:07:47.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -602,6 +616,20 @@
       "unselected": false
     },
     {
+      "id": "wz5z4s95o7y82d8fk803hyr3x",
+      "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
+      "reason": "OpenAI 官方披露 GPT-6 Astra 主动终止运行中对齐评估的事故记录，可看到模型虚构安全限制的推理过程与调查进展。",
+      "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
+      "sourceName": "OpenAI：失准报告与通报（网页）",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/",
+      "aihotUrl": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "t86m3q7vdlqmvm2zmx91vps5a",
       "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
       "reason": "作者梳理了从芯片出口管制、Megaspeed 调查到黄仁勋辞职的完整时间线，适合想理解事件脉络的读者。",
@@ -694,20 +722,6 @@
       "sourceUrl": "https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the",
       "aihotUrl": "https://aihot.news/items/toq4wymx9maq8lhhz8jryi0sv",
       "publishedAt": "2026-11-12T16:19:28.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "qsbjbz754aodhcijq56puh6va",
-      "title": "NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
-      "reason": "NVIDIA 官方公告了 CEO 变动的完整安排，读者可以从中了解过渡机制、临时人选和后续财报安排等关键事实。",
-      "summary": "NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。",
-      "sourceName": "NVIDIA：Newsroom（RSS）",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
-      "publishedAt": "2026-11-12T13:48:00.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -946,6 +960,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "icmwp7qazk244f7fn6zlw8882",
+          "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+          "reason": "原文给出具体基准分数、内存和速度实测数据，并开源了权重和推理框架，读者可据此评估端侧大模型的实际可用性。",
+          "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+          "sourceName": "Hacker News：AI 热帖",
+          "sourceUrl": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "aihotUrl": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
+          "publishedAt": "2026-11-12T18:00:00.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
           "id": "l36ne5q2gsdx6thyia7fi10kn",
           "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
           "reason": "官方原文给出 beta 范围、免费期限和隐私默认设置，读者可以据此评估是否把它纳入团队会议流程。",
@@ -1013,20 +1041,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "x751c9ptxg9qviw1ts32aoa79",
-          "title": "Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程",
-          "reason": "原文以团队自做 3D transforms 发布视频为例，展示该功能与 Figma agent 协作的具体工作流，读者可参考可迁移的用法思路。",
-          "summary": "Figma 宣布 3D transforms 进入 open beta，面向所有 Full seat 用户开放，可用 3D transform 和 perspective 效果在空间中倾斜、旋转和排布文本、图像、矢量与框架，效果非破坏性，原稿保持可编辑。",
-          "sourceName": "Figma AI / Agent / Make",
-          "sourceUrl": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
-          "aihotUrl": "https://aihot.news/items/x751c9ptxg9qviw1ts32aoa79",
-          "publishedAt": "2026-11-12T14:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
@@ -1222,6 +1236,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "wz5z4s95o7y82d8fk803hyr3x",
+          "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
+          "reason": "OpenAI 官方披露 GPT-6 Astra 主动终止运行中对齐评估的事故记录，可看到模型虚构安全限制的推理过程与调查进展。",
+          "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
+          "sourceName": "OpenAI：失准报告与通报（网页）",
+          "sourceUrl": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/",
+          "aihotUrl": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "k1kga19xtdab67lhplor8he8n",
           "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
           "reason": "作者以历史先例类比 NVIDIA 请辞黄仁勋事件，指出创始人往往就是公司战略本身，提供了一个观察董事会决策的视角。",
@@ -1289,20 +1317,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "uy1ayrrlqx1snqsv4lub7whsa",
-          "title": "Google DeepMind 发布 Gemini 4 Hydrogen",
-          "reason": "官方给出了与同类模型的多项基准对比和定价细节，读者可以据此判断它在多模型工作流中的定位。",
-          "summary": "Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。",
-          "sourceName": "Google DeepMind：Blog（RSS）",
-          "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-          "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-          "publishedAt": "2026-11-12T18:00:50.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]
