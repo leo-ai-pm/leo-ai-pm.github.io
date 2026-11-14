@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-14T01:41:07.344Z",
-      "lastSuccessAt": "2026-11-14T01:41:07.344Z",
-      "nextCheckAt": 1794624067344,
+      "checkedAt": "2026-11-14T08:05:16.047Z",
+      "lastSuccessAt": "2026-11-14T08:05:16.047Z",
+      "nextCheckAt": 1794647116047,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-14T01:41:07.345Z",
-      "lastSuccessAt": "2026-11-14T01:41:07.345Z",
-      "nextCheckAt": 1794624067345,
+      "checkedAt": "2026-11-14T08:05:16.047Z",
+      "lastSuccessAt": "2026-11-14T08:05:16.047Z",
+      "nextCheckAt": 1794647116047,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-14T01:41:07.346Z",
-      "lastSuccessAt": "2026-11-14T01:41:07.346Z",
-      "nextCheckAt": 1794624067346,
+      "checkedAt": "2026-11-14T08:05:16.048Z",
+      "lastSuccessAt": "2026-11-14T08:05:16.048Z",
+      "nextCheckAt": 1794647116048,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1794624067408,
-      "checkedAt": "2026-11-14T01:41:07.408Z",
-      "lastSuccessAt": "2026-11-14T01:41:07.408Z",
+      "nextCheckAt": 1794647116228,
+      "checkedAt": "2026-11-14T08:05:16.228Z",
+      "lastSuccessAt": "2026-11-14T08:05:16.228Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,96 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794624067344,
+  "nextCheckAt": 1794647116047,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6493523.html",
-      "title": "给微信小程序大赛当了一天评委：AI让哪些「小需求」变成了产品？",
-      "summary": "11月8号，我从上午十点到下午五六点，开着摄像头在电脑前坐了一整天，给微信小程序开发者大赛当评委，看了三十多个项目。现场最让我在意的不是创意，而是这些开发者里只有一两个本来会写代码，其他人都是靠 AI 把产品从零搭上线。 上周日，我从上午十点到下午五六点，整整在电脑前开着摄像头坐了一天。主要在干什么呢？当了一天的线上评委。 微信搞了一个小程序开发者大赛，我负责南部和海外赛区的决赛，一天下来，看了30多个小程序项目的路演。 整个流程还是挺",
-      "publishedAt": "2026-11-13T07:18:46.000Z",
-      "url": "https://www.woshipm.com/ai/6493523.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6493965.html",
+      "title": "Anthropic刚教的24小时agent，我当天做出来了",
+      "summary": "10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 FanBox 里做了一版，随 2.20.0 发布：agent 停下等你，手机收到它一句话。 一、背景 这篇文章的缘起呢，是最近看到的两篇非常好的关于agent系统设计的文章。 10月31日，DeepSeek Harness团队发了一篇《Super-agent设计探索：",
+      "publishedAt": "2026-11-14T07:30:26.000Z",
+      "url": "https://www.woshipm.com/ai/6493965.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6493965.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 FanBox 里做了一版，随 2.20.0 发布：agent 停下等你，手机收到它一句话。 一、背景 这篇文章的缘起呢，是最近看到的两篇非常好的关于agent系统设计的文章。 10月31日，DeepSeek Harness团队发了一篇《Super-agent设计探索：",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6493967.html",
+      "title": "开源/10秒出4K/超长文本/… 我实测出了MiniMax H3-Image擅长的四类新玩法",
+      "summary": "MiniMax H3 Image 发布当天开源，10 秒出 4K，Mcode 与 API 都能直接调。作者烧掉 5 万积分，按分镜与解构爆炸图、3A 游戏与动漫资产、超长文本排版、跨风格融合四类跑了 12 组实测，每组附提示语。 就这两天，GoodCase突然一股脑涌进来几十条AI生图的高赞投稿， 我一开始还在想大家是不是又拿哪个模型琢磨出什么新玩法，想点进去看看能不能打包成skill。 里面不仅有复古网页捏人界面，严丝合缝的机甲三视图",
+      "publishedAt": "2026-11-14T07:26:33.000Z",
+      "url": "https://www.woshipm.com/ai/6493967.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6493967.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "MiniMax H3 Image 发布当天开源，10 秒出 4K，Mcode 与 API 都能直接调。作者烧掉 5 万积分，按分镜与解构爆炸图、3A 游戏与动漫资产、超长文本排版、跨风格融合四类跑了 12 组实测，每组附提示语。 就这两天，GoodCase突然一股脑涌进来几十条AI生图的高赞投稿， 我一开始还在想大家是不是又拿哪个模型琢磨出什么新玩法，想点进去看看能不能打包成skill。 里面不仅有复古网页捏人界面，严丝合缝的机甲三视图",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6493838.html",
+      "title": "Qwen4-Max Preview实测：4800万条数据26分钟跑完，强！",
+      "summary": "把12G的 HackerNews 数据集直接丢给 Qwen4-Max-Preview，26分钟、用 DuckDB 跑完4800万条数据，产出一个可交互的编程语言热度网页，结论是 Rust 崛起、PHP 退潮。作者的评价是国产第一梯队，也点出了短板。 Qwen 系列模型在开源社区一直有很好的口碑，最近阿里发布了Qwen4-Max 预览版。 但最近忙深圳 GEO 大会，直到今天才有空测试。 跑了几个实际项目，感觉是国产第一梯队。 Hacke",
+      "publishedAt": "2026-11-14T03:11:16.000Z",
+      "url": "https://www.woshipm.com/ai/6493838.html",
       "linkKind": "original",
       "opportunity": {
         "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
@@ -122,56 +203,137 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6493523.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6493838.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "11月8号，我从上午十点到下午五六点，开着摄像头在电脑前坐了一整天，给微信小程序开发者大赛当评委，看了三十多个项目。现场最让我在意的不是创意，而是这些开发者里只有一两个本来会写代码，其他人都是靠 AI 把产品从零搭上线。 上周日，我从上午十点到下午五六点，整整在电脑前开着摄像头坐了一天。主要在干什么呢？当了一天的线上评委。 微信搞了一个小程序开发者大赛，我负责南部和海外赛区的决赛，一天下来，看了30多个小程序项目的路演。 整个流程还是挺",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6493503.html",
-      "title": "豆包工作重大更新：接入Kimi、DeepSeek多款大模型，只需0.01x倍率还送30天订阅！",
-      "summary": "有朋友昨晚甩我一张截图，问：豆包工作是不是也能选 Kimi 和 DeepSeek 了？它还把每个模型要烧多少额度标在菜单上——豆包 2.1 Lite 和 DeepSeek V4.1 Flash 限时 0.01x，而八天前 WorkBuddy 刚把 Hy4 挂上限时免费。 有朋友昨晚甩我一张截图，问：豆包工作是不是也能选 Kimi 和 DeepSeek 了？我说，不光能选，它还把每个模型要烧多少额度，直接标在了菜单上。 但是，但是——最狠",
-      "publishedAt": "2026-11-13T07:14:16.000Z",
-      "url": "https://www.woshipm.com/ai/6493503.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6493503.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "有朋友昨晚甩我一张截图，问：豆包工作是不是也能选 Kimi 和 DeepSeek 了？它还把每个模型要烧多少额度标在菜单上——豆包 2.1 Lite 和 DeepSeek V4.1 Flash 限时 0.01x，而八天前 WorkBuddy 刚把 Hy4 挂上限时免费。 有朋友昨晚甩我一张截图，问：豆包工作是不是也能选 Kimi 和 DeepSeek 了？我说，不光能选，它还把每个模型要烧多少额度，直接标在了菜单上。 但是，但是——最狠",
+      "brief": "把12G的 HackerNews 数据集直接丢给 Qwen4-Max-Preview，26分钟、用 DuckDB 跑完4800万条数据，产出一个可交互的编程语言热度网页，结论是 Rust 崛起、PHP 退潮。作者的评价是国产第一梯队，也点出了短板。 Qwen 系列模型在开源社区一直有很好的口碑，最近阿里发布了Qwen4-Max 预览版。 但最近忙深圳 GEO 大会，直到今天才有空测试。 跑了几个实际项目，感觉是国产第一梯队。 Hacke",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/thunder-3",
+      "title": "Thunder",
+      "summary": "A blazing-fast, persistent, key-value AI workload database",
+      "publishedAt": "2026-11-13T21:27:29.000Z",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/thunder-3",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "A blazing-fast, persistent, key-value AI workload database",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/google-labs",
+      "title": "Tabletop by Google Labs",
+      "summary": "Build interactive group experiences with AI.",
+      "publishedAt": "2026-11-13T11:39:17.000Z",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/google-labs",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Build interactive group experiences with AI.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/codemesh-2",
+      "title": "CodeMesh",
+      "summary": "Cut AI coding costs by 90%",
+      "publishedAt": "2026-11-13T09:07:28.000Z",
+      "url": "https://www.producthunt.com/products/codemesh-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/codemesh-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Cut AI coding costs by 90%",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/post/118153",
@@ -211,7 +373,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/post/118512",
@@ -251,127 +413,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/claude",
-      "title": "Claude Meetings",
-      "summary": "Add Claude to your call and get work started as you talk",
-      "publishedAt": "2026-11-13T02:24:55.000Z",
-      "url": "https://www.producthunt.com/products/claude",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/claude",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Add Claude to your call and get work started as you talk",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/replicate-10",
-      "title": "Replicate",
-      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
-      "publishedAt": "2026-11-13T02:06:54.000Z",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/replicate-10",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Turn Webflow/Framer app into a Claude/Codex project for free",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/gatrends",
-      "title": "GAtrends",
-      "summary": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
-      "publishedAt": "2026-11-12T18:54:12.000Z",
-      "url": "https://www.producthunt.com/products/gatrends",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/gatrends",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
