@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-13T21:32:42.542Z",
+  "checkedAt": "2026-11-14T01:41:14.031Z",
   "message": "",
   "report": {
-    "date": "2026-11-13",
-    "dateLabel": "2026年11月13日",
-    "weekday": "周五",
-    "issue": 61,
-    "generatedAt": "2026-11-13T00:00:48.174Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-13",
+    "date": "2026-11-14",
+    "dateLabel": "2026年11月14日",
+    "weekday": "周六",
+    "issue": 62,
+    "generatedAt": "2026-11-14T00:00:30.118Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-14",
     "lead": {
-      "title": "NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
-      "summary": "NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-13",
+      "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+      "summary": "Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-14",
       "visual": {
         "entities": [
           {
@@ -31,11 +31,11 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "Google DeepMind 发布 Gemini 4 Hydrogen",
-            "summary": "Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。",
-            "sourceName": "Google DeepMind：Blog（RSS）",
-            "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-            "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa"
+            "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+            "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+            "sourceName": "Hacker News：AI 热帖",
+            "sourceUrl": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+            "aihotUrl": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882"
           }
         ]
       },
@@ -43,32 +43,39 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
-            "summary": "Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。",
-            "sourceName": "Claude：Blog（网页）",
-            "sourceUrl": "https://claude.com/blog/claude-meetings",
-            "aihotUrl": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn"
+            "title": "DeepSeek 开放全家桶应用 API：联网搜索、文件输入、阅读链接等能力面向开发者",
+            "summary": "DeepSeek 在 API 中开放此前 App 对话服务所用的能力，开发者开启对应参数即可使用，工具调用与上下文拼接由服务端完成。",
+            "sourceName": "DeepSeek：API 更新日志",
+            "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#%E5%8F%91%E5%B8%83%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8-api",
+            "aihotUrl": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl"
           },
           {
-            "title": "Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型",
-            "summary": "Anthropic 宣布 Claude Opus 5.5 成为 Pro、Max、Ultra 和 Team 套餐的默认模型，并推荐将其作为研究、分析和写作等知识工作的日常主力。",
-            "sourceName": "Claude：Blog（网页）",
-            "sourceUrl": "https://claude.com/blog/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
-            "aihotUrl": "https://aihot.news/items/t5pucqx6ac58z0ed1b0875ci0"
+            "title": "ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买",
+            "summary": "ChatGPT 官方账号宣布推出 ChatGPT Wallet，dot 可在用户批准下安全地代用户完成购买。",
+            "sourceName": "X：ChatGPT (@ChatGPT)",
+            "sourceUrl": "https://x.com/ChatGPT/status/2121283151729496235",
+            "aihotUrl": "https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq"
           },
           {
-            "title": "Google 智能眼镜开放预购，12 月 10 日发货",
-            "summary": "Josh Woodward 宣布 Google 智能眼镜开启预购，用户可在 https://glasses.google 下单，12 月 10 日发货。",
-            "sourceName": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-            "sourceUrl": "https://x.com/joshwoodward/status/2120990821902397885",
-            "aihotUrl": "https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j"
+            "title": "llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本",
+            "summary": "Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。",
+            "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+            "sourceUrl": "https://x.com/ClementDelangue/status/2121260104913768931",
+            "aihotUrl": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x"
           },
           {
-            "title": "Replit Agent 新增代购能力和 Google Ads 投放功能",
-            "summary": "Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。",
-            "sourceName": "Replit：Blog（RSS）",
-            "sourceUrl": "https://replit.com/blog/replit-agent-ads-commerce",
-            "aihotUrl": "https://aihot.news/items/k7sfjumcmtq0zswb5yj5kmju1"
+            "title": "Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用",
+            "summary": "Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。",
+            "sourceName": "Google Research：Blog（网页）",
+            "sourceUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+            "aihotUrl": "https://aihot.news/items/h0obmlpmc44dqk1da164ca1z7"
+          },
+          {
+            "title": "Sierra 发布 Personal Agent Protocol（Poppy）v1.0",
+            "summary": "Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。",
+            "sourceName": "Sierra：Blog（RSS）",
+            "sourceUrl": "https://sierra.ai/blog/releasing-poppy",
+            "aihotUrl": "https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr"
           }
         ]
       },
@@ -76,121 +83,122 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
-            "summary": "NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。",
-            "sourceName": "NVIDIA：Newsroom（RSS）",
-            "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-            "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va"
-          },
-          {
-            "title": "Anthropic 官宣首次公开募股（IPO）",
-            "summary": "Anthropic 官方宣布启动首次公开募股（IPO），并公布入口 ipo.anthropic.com。",
-            "sourceName": "X：Anthropic (@AnthropicAI)",
-            "sourceUrl": "https://x.com/AnthropicAI/status/2120841731302154708",
-            "aihotUrl": "https://aihot.news/items/k99zjo9hbtous9r6vmmz7pxyh"
-          },
-          {
-            "title": "Jensen Huang 辞任 Nvidia CEO 后对 AI 经济的五点影响分析",
-            "summary": "Tomasz Tunguz 分析 Jensen Huang 即日辞任 Nvidia 总裁、CEO 及董事后对 AI 行业的影响，CFO Colette Kress 出任临时 CEO。",
-            "sourceName": "Tomasz Tunguz 博客（VC 分析）",
-            "sourceUrl": "https://tomtunguz.com/the-impact-of-jensens-resignation/",
-            "aihotUrl": "https://aihot.news/items/ivpl9ziip8mpoa90avi3ke9pj"
-          },
-          {
-            "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-            "summary": "民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。",
+            "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+            "summary": "Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。",
             "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-            "aihotUrl": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4"
+            "sourceUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+            "aihotUrl": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66"
           },
           {
-            "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
-            "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。",
+            "title": "Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明",
+            "summary": "Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。",
+            "sourceName": "X：Anthropic (@AnthropicAI)",
+            "sourceUrl": "https://x.com/AnthropicAI/status/2121272083863011714",
+            "aihotUrl": "https://aihot.news/items/vsfne926njom5wnadceo8r04m"
+          },
+          {
+            "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+            "summary": "据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2120994977421705296",
-            "aihotUrl": "https://aihot.news/items/k1kga19xtdab67lhplor8he8n"
-          }
-        ]
-      },
-      {
-        "label": "技巧与观点",
-        "items": [
-          {
-            "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
-            "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。",
-            "sourceName": "OpenRouter：Announcements（RSS）",
-            "sourceUrl": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/",
-            "aihotUrl": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx"
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2121135206342275529",
+            "aihotUrl": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w"
           },
           {
-            "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
-            "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
-            "sourceName": "OpenRouter：Announcements（RSS）",
-            "sourceUrl": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
-            "aihotUrl": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde"
+            "title": "NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造",
+            "summary": "Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2121354165352096179",
+            "aihotUrl": "https://aihot.news/items/kei20gkia8a0vhknc859jsfqr"
+          },
+          {
+            "title": "研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练",
+            "summary": "Will DePue 领导的非营利研究组织 Unemployment Labs 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重，发现 Kimi K3 与 DeepSeek V4 等最受关注模型带有 Blackwell 芯片训练痕迹。",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+            "aihotUrl": "https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei"
+          },
+          {
+            "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
+            "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
+            "sourceName": "OpenAI：失准报告与通报（网页）",
+            "sourceUrl": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/",
+            "aihotUrl": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+        "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
         "summary": "",
-        "sourceName": "X：Fei-Fei Li (@drfeifei, World Labs)",
-        "sourceUrl": "https://x.com/drfeifei/status/2120942509786558671",
-        "aihotUrl": "https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm",
-        "publishedAt": "2026-11-12T18:11:14.000Z"
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "aihotUrl": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
+        "publishedAt": "2026-11-13T22:43:00.000Z"
       },
       {
-        "title": "Anthropic 发布 Claude Tag 创业公司使用指南",
+        "title": "Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请",
+        "summary": "",
+        "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "sourceUrl": "https://x.com/adocomplete/status/2121338030967697908",
+        "aihotUrl": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz",
+        "publishedAt": "2026-11-13T20:22:53.000Z"
+      },
+      {
+        "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+        "summary": "",
+        "sourceName": "公众号：腾讯混元",
+        "sourceUrl": "https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg",
+        "aihotUrl": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+        "publishedAt": "2026-11-13T08:32:39.000Z"
+      },
+      {
+        "title": "Apple HomeView 正式开售，售价 299 美元并搭载 Siri AI",
+        "summary": "",
+        "sourceName": "Apple：Newsroom（RSS）",
+        "sourceUrl": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+        "aihotUrl": "https://aihot.news/items/bp01lj0ahiqsoahba8sjor2b4",
+        "publishedAt": "2026-11-12T16:00:00.000Z"
+      },
+      {
+        "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+        "summary": "",
+        "sourceName": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "sourceUrl": "https://x.com/lydiahallie/status/2121313048820617645",
+        "aihotUrl": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+        "publishedAt": "2026-11-13T18:43:37.000Z"
+      },
+      {
+        "title": "MOSS-Live 全双工实时交互评测解读：与 GPT-Live-1、豆包的对比",
+        "summary": "",
+        "sourceName": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+        "sourceUrl": "https://openmoss.ai/blog/cn/moss-live/",
+        "aihotUrl": "https://aihot.news/items/rcjkjkhq7xxwbhh9wnv15fqy1",
+        "publishedAt": "2026-11-12T16:00:00.000Z"
+      },
+      {
+        "title": "Anthropic 详解常驻智能体的五个核心架构原语",
         "summary": "",
         "sourceName": "Claude：Blog（网页）",
-        "sourceUrl": "https://claude.com/blog/claude-tag-guide-for-startups",
-        "aihotUrl": "https://aihot.news/items/djhxmxr9hq0ekn8iwdqt5usih",
-        "publishedAt": "2026-11-12T00:00:00.000Z"
+        "sourceUrl": "https://claude.com/blog/building-always-on-agents",
+        "aihotUrl": "https://aihot.news/items/ypeap2t8w4fqqfuvt7mw3wg79",
+        "publishedAt": "2026-11-13T00:00:00.000Z"
       },
       {
-        "title": "Epoch AI 分析华为和林格尔数据中心，揭示中美算力差距",
+        "title": "Muse 推出外呼功能",
         "summary": "",
-        "sourceName": "Epoch AI：Gradient Updates（RSS）",
-        "sourceUrl": "https://epochai.substack.com/p/what-huaweis-horinger-data-center",
-        "aihotUrl": "https://aihot.news/items/adkgofriq3tvp6qrawfc63yw4",
-        "publishedAt": "2026-11-12T16:03:15.000Z"
-      },
-      {
-        "title": "OpenAI 用自动化红队训练提升 GPT-6 Astra 和 Sol 在高风险领域的模糊鲁棒性",
-        "summary": "",
-        "sourceName": "OpenAI：Alignment 研究博客（RSS）",
-        "sourceUrl": "https://alignment.openai.com/fuzzy-robustness/",
-        "aihotUrl": "https://aihot.news/items/yg97h3u5vthadivuv5po5f0aw",
-        "publishedAt": "2026-11-12T08:00:00.000Z"
-      },
-      {
-        "title": "Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程",
-        "summary": "",
-        "sourceName": "Figma AI / Agent / Make",
-        "sourceUrl": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
-        "aihotUrl": "https://aihot.news/items/x751c9ptxg9qviw1ts32aoa79",
-        "publishedAt": "2026-11-12T14:00:00.000Z"
-      },
-      {
-        "title": "Grok Bot 1.0 发布，主打团队协作的 AI 智能体队友",
-        "summary": "",
-        "sourceName": "X：Grok Bot (@bot)",
-        "sourceUrl": "https://x.com/bot/status/2120582957782200586",
-        "aihotUrl": "https://aihot.news/items/yl9gdujoqcqyf76ih8c75nnx3",
-        "publishedAt": "2026-11-11T18:22:30.000Z"
-      },
-      {
-        "title": "Thinking Machines 开源 Inkling 2 Small 模型权重，采用 Apache 2.0 许可",
-        "summary": "",
-        "sourceName": "X：Thinking Machines (@thinkymachines)",
-        "sourceUrl": "https://x.com/thinkymachines/status/2120982625582195011",
-        "aihotUrl": "https://aihot.news/items/qnfdpojlsa0nsd1h801kt1b9s",
-        "publishedAt": "2026-11-12T20:50:38.000Z"
+        "sourceName": "X：Muse（Meta 个人智能体官方号） (@Muse)",
+        "sourceUrl": "https://x.com/Muse/status/2120931418654089392",
+        "aihotUrl": "https://aihot.news/items/m78jr8vfs9gm10e0a5a873un3",
+        "publishedAt": "2026-11-12T17:27:09.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-14",
+        "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+        "aihotUrl": "https://aihot.news/daily/2026-11-14"
+      },
       {
         "date": "2026-11-13",
         "title": "NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
@@ -290,13 +298,8 @@
         "date": "2026-10-25",
         "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
         "aihotUrl": "https://aihot.news/daily/2026-10-25"
-      },
-      {
-        "date": "2026-10-24",
-        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-        "aihotUrl": "https://aihot.news/daily/2026-10-24"
       }
     ],
-    "shapedAt": "2026-11-13T21:32:42.542Z"
+    "shapedAt": "2026-11-14T01:41:14.031Z"
   }
 }
