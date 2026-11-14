@@ -294,9 +294,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-14T08:05:16.017Z",
-      "lastSuccessAt": "2026-11-14T08:05:16.017Z",
-      "nextCheckAt": 1794644416017,
+      "checkedAt": "2026-11-14T14:58:33.651Z",
+      "lastSuccessAt": "2026-11-14T14:58:33.651Z",
+      "nextCheckAt": 1794669213651,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -608,9 +608,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-14T08:05:16.045Z",
-      "lastSuccessAt": "2026-11-14T08:05:16.045Z",
-      "nextCheckAt": 1794644416045,
+      "checkedAt": "2026-11-14T14:58:33.687Z",
+      "lastSuccessAt": "2026-11-14T14:58:33.687Z",
+      "nextCheckAt": 1794669213687,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -630,6 +630,36 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492858&idx=1&sn=bcc31d3b526cfff966ce2ac58eec6422",
+          "creatorId": "huashu",
+          "title": "Anthropic刚教的24小时agent，我当天做出来了",
+          "summary": "一、背景 这篇文章的缘起呢，是最近看到的两篇非常好的关于agent系统设计的文章。 10月31日，Deep",
+          "publishedAt": "2026-11-14T05:50:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492858&idx=1&sn=bcc31d3b526cfff966ce2ac58eec6422",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+            "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492852&idx=1&sn=cf0c21368250f843a45a3ab7f453bc37",
           "creatorId": "huashu",
@@ -891,41 +921,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492613&idx=1&sn=eebb2ab7578436973765ebe31c1f1cd9",
-          "creatorId": "huashu",
-          "title": "Kimi超过OpenAI全系？K3.1 Pro实测对比Astra！",
-          "summary": "今天凌晨，Kimi K3.1 Pro正式发布了。 其实前段时间可以说是国产开源模型的至暗时刻了。Opus5.",
-          "publishedAt": "2026-10-24T04:49:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492613&idx=1&sn=eebb2ab7578436973765ebe31c1f1cd9",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "OpenAI",
-                "asset": "/assets/identities/openai.jpg",
-                "assetSource": "https://x.com/OpenAI",
-                "tone": "#e6eeea"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-14T08:05:16.046Z",
-      "lastSuccessAt": "2026-11-14T08:05:16.046Z",
-      "nextCheckAt": 1794644416046,
+      "checkedAt": "2026-11-14T14:58:33.688Z",
+      "lastSuccessAt": "2026-11-14T14:58:33.688Z",
+      "nextCheckAt": 1794669213688,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -945,6 +945,64 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522868&idx=1&sn=2f070d87f04ba5145fddc3a92718bdbd",
+          "creatorId": "cyber",
+          "title": "《潮汐战线》开源发布：正统 SLG、极高完成度",
+          "summary": "开源，支持在线玩，可mod，《高级战争》的精神续作",
+          "publishedAt": "2026-11-14T05:05:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522868&idx=1&sn=2f070d87f04ba5145fddc3a92718bdbd",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "赛博禅心",
+                "asset": "/assets/identities/creator_cyber.jpg",
+                "tone": "#dcebea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522863&idx=1&sn=c0f2933c8ce8d2b3b98aab7f079e7553",
+          "creatorId": "cyber",
+          "title": "我做了一个《高级战争》的精神续作：潮汐战线",
+          "summary": "通过 dsh-game-store 发布，并开源",
+          "publishedAt": "2026-11-13T15:15:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522863&idx=1&sn=c0f2933c8ce8d2b3b98aab7f079e7553",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "赛博禅心",
+                "asset": "/assets/identities/creator_cyber.jpg",
+                "tone": "#dcebea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522840&idx=1&sn=706643d8d4b47d7c10b9a45dafcdc726",
           "creatorId": "cyber",
@@ -1177,69 +1235,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522217&idx=1&sn=b95ac371a1b429b72dbc705951ebeaa0",
-          "creatorId": "cyber",
-          "title": "TRAE 推出【开发者个人 Agent】，本周限免",
-          "summary": "从今天 0 点到周日 24 点，限免一周",
-          "publishedAt": "2026-11-02T03:37:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522217&idx=1&sn=b95ac371a1b429b72dbc705951ebeaa0",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522189&idx=1&sn=59314956d4dbc89258930115e4aa31ce",
-          "creatorId": "cyber",
-          "title": "如何让 Super-agent 成为同事：LobeHub 的组织实验",
-          "summary": "“我已经三个月没在本地起过 dev 了”",
-          "publishedAt": "2026-11-01T15:38:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522189&idx=1&sn=59314956d4dbc89258930115e4aa31ce",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-14T08:05:16.247Z",
-      "lastSuccessAt": "2026-11-14T08:05:16.247Z",
-      "nextCheckAt": 1794644416247,
+      "checkedAt": "2026-11-14T14:58:33.994Z",
+      "lastSuccessAt": "2026-11-14T14:58:33.994Z",
+      "nextCheckAt": 1794669213994,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1553,9 +1553,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-14T08:05:16.299Z",
-      "lastSuccessAt": "2026-11-14T08:05:16.299Z",
-      "nextCheckAt": 1794644416299,
+      "checkedAt": "2026-11-14T14:58:34.067Z",
+      "lastSuccessAt": "2026-11-14T14:58:34.067Z",
+      "nextCheckAt": 1794669214067,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1575,6 +1575,35 @@
     {
       "id": "founder",
       "items": [
+        {
+          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517624&idx=1&sn=cff73821064ff7d3740c6dc9bff138f3",
+          "creatorId": "founder",
+          "title": "一家创立 117 年的美妆企业，如何用开放式创新把外部技术变成业务价值？",
+          "summary": "一个传统公司如何引入新技术的非典型案例。",
+          "publishedAt": "2026-11-14T09:52:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517624&idx=1&sn=cff73821064ff7d3740c6dc9bff138f3",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Founder Park",
+                "asset": "/assets/identities/creator_founder.jpg",
+                "tone": "#dfe9f3"
+              }
+            ],
+            "caption": "创业与商业",
+            "author": {
+              "name": "Founder Park",
+              "asset": "/assets/identities/creator_founder.jpg",
+              "tone": "#dfe9f3"
+            }
+          }
+        },
         {
           "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517583&idx=1&sn=8bdddcfc6aa2168ed5f731543dedb8e9",
           "creatorId": "founder",
@@ -1835,40 +1864,11 @@
               "tone": "#dfe9f3"
             }
           }
-        },
-        {
-          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517471&idx=1&sn=840c881ced5755ba94e263473c4277c8",
-          "creatorId": "founder",
-          "title": "10 月，我们推荐这 20 位独立开发者，和他们的 100 款产品",
-          "summary": "AI 时代的独立开发者，都在做什么产品？",
-          "publishedAt": "2026-10-28T10:46:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517471&idx=1&sn=840c881ced5755ba94e263473c4277c8",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Founder Park",
-                "asset": "/assets/identities/creator_founder.jpg",
-                "tone": "#dfe9f3"
-              }
-            ],
-            "caption": "创业与商业",
-            "author": {
-              "name": "Founder Park",
-              "asset": "/assets/identities/creator_founder.jpg",
-              "tone": "#dfe9f3"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-14T08:05:16.341Z",
-      "lastSuccessAt": "2026-11-14T08:05:16.341Z",
-      "nextCheckAt": 1794644416341,
+      "checkedAt": "2026-11-14T14:58:34.079Z",
+      "lastSuccessAt": "2026-11-14T14:58:34.079Z",
+      "nextCheckAt": 1794669214079,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1887,6 +1887,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1794644416017,
+  "nextCheckAt": 1794669213651,
   "refreshing": false
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026年11月14日",
   "demo": false,
-  "updatedAt": "2026-11-14T08:05:28.094Z",
+  "updatedAt": "2026-11-14T14:58:46.945Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 170,
+    "received": 145,
     "latestCount": 2,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -264,8 +264,8 @@
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
       "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-      "sourceCount": 15,
-      "participantCount": 125,
+      "sourceCount": 11,
+      "participantCount": 90,
       "latestAt": "2026-11-13T04:17:46.000Z",
       "expanded": true,
       "latest": "黄仁勋辞任英伟达 CEO 全时间线复盘：两桩风波、接班人与 33 年生涯",
@@ -298,12 +298,12 @@
           "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
         },
         {
-          "title": "黄仁勋辞任英伟达CEO，继任者与AI融资引担忧",
-          "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
+          "title": "黄仁勋离开 Nvidia，Lambert 称开源模型资金或干涸",
+          "storyUrl": "https://aihot.news/story/e92396d2-c9c2-4157-b24e-c24155149bfd"
         },
         {
-          "title": "黄仁勋卸任英伟达CEO，外界评论分歧",
-          "storyUrl": "https://aihot.news/story/08c55b1d-2c6d-4fe4-979e-69d0df8f76fe"
+          "title": "黄仁勋辞任英伟达CEO，继任者与AI融资引担忧",
+          "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
         }
       ],
       "visual": {
@@ -328,7 +328,7 @@
       "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
       "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
       "sourceCount": 16,
-      "participantCount": 82,
+      "participantCount": 84,
       "latestAt": "2026-11-13T22:05:33.000Z",
       "expanded": true,
       "latest": "Gemini 4 Hydrogen 从创意到成片",
@@ -383,7 +383,7 @@
       "aihotUrl": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
       "storyUrl": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c",
       "sourceCount": 1,
-      "participantCount": 32,
+      "participantCount": 33,
       "latestAt": "2026-11-13T13:10:18.303Z",
       "expanded": true,
       "latest": "微软 Microsoft 365 大范围故障波及 Claude，Anthropic 连发多条状态通报",
@@ -412,6 +412,34 @@
     },
     {
       "rank": 4,
+      "id": "nnbnoebf6mvo97usmwj5wziyl",
+      "title": "DeepSeek 开放 App 能力 API，扩展调用另收费",
+      "sourceName": "DeepSeek：API 更新日志",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#发布全家桶应用-api",
+      "aihotUrl": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
+      "storyUrl": "https://aihot.news/story/77f8b937-8e1a-4b05-b3eb-b609445fedd4",
+      "sourceCount": 4,
+      "participantCount": 26,
+      "latestAt": "2026-11-13T20:31:51.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "DeepSeek：API 更新日志",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
       "id": "vot1htumxjgnb0i88rbq3zsuq",
       "title": "OpenAI推出ChatGPT Wallet，智能体可代用户购物",
       "sourceName": "X：ChatGPT (@ChatGPT)",
@@ -439,63 +467,7 @@
       }
     },
     {
-      "rank": 5,
-      "id": "nnbnoebf6mvo97usmwj5wziyl",
-      "title": "DeepSeek 开放 App 能力 API，扩展调用另收费",
-      "sourceName": "DeepSeek：API 更新日志",
-      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#发布全家桶应用-api",
-      "aihotUrl": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
-      "storyUrl": "https://aihot.news/story/77f8b937-8e1a-4b05-b3eb-b609445fedd4",
-      "sourceCount": 4,
-      "participantCount": 22,
-      "latestAt": "2026-11-13T20:31:51.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "DeepSeek：API 更新日志",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 6,
-      "id": "w9235nqq0senjfvm8lz7g51aa",
-      "title": "NVIDIA员工联署要求董事会辞职，董事会另寻继任者",
-      "sourceName": "X：X.PIN (@thexpin)",
-      "sourceUrl": "https://x.com/thexpin/status/2121156882064937448",
-      "aihotUrl": "https://aihot.news/items/w9235nqq0senjfvm8lz7g51aa",
-      "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb",
-      "sourceCount": 4,
-      "participantCount": 15,
-      "latestAt": "2026-11-13T20:07:34.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 7,
       "id": "um8pmpa91qn1ymvx3pux0sq1x",
       "title": "llama.cpp 与 ggml 发布首个大版本 v1.0.0",
       "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
@@ -503,7 +475,7 @@
       "aihotUrl": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x",
       "storyUrl": "https://aihot.news/story/44c4eb23-1f37-4994-a66d-7a06ff7a74ba",
       "sourceCount": 5,
-      "participantCount": 14,
+      "participantCount": 17,
       "latestAt": "2026-11-14T00:14:06.727Z",
       "expanded": false,
       "latest": "",
@@ -523,16 +495,16 @@
       }
     },
     {
-      "rank": 8,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "sourceCount": 2,
-      "participantCount": 21,
-      "latestAt": "2026-11-13T18:01:53.000Z",
+      "rank": 7,
+      "id": "w9235nqq0senjfvm8lz7g51aa",
+      "title": "NVIDIA员工联署要求董事会辞职，董事会另寻继任者",
+      "sourceName": "X：X.PIN (@thexpin)",
+      "sourceUrl": "https://x.com/thexpin/status/2121156882064937448",
+      "aihotUrl": "https://aihot.news/items/w9235nqq0senjfvm8lz7g51aa",
+      "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb",
+      "sourceCount": 4,
+      "participantCount": 16,
+      "latestAt": "2026-11-13T20:07:34.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -540,13 +512,41 @@
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
           }
         ],
-        "caption": "IPO",
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 8,
+      "id": "zvo2ciiibpmh00lmqkggnsl5r",
+      "title": "OpenAI解散机器人团队，研究人员并入其他部门",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "aihotUrl": "https://aihot.news/items/zvo2ciiibpmh00lmqkggnsl5r",
+      "storyUrl": "https://aihot.news/story/4d02a2b5-ec70-4631-a88c-702e78e77fc0",
+      "sourceCount": 1,
+      "participantCount": 12,
+      "latestAt": "2026-11-14T11:40:51.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
         "author": null
       }
     },
@@ -587,7 +587,7 @@
       "aihotUrl": "https://aihot.news/items/vtbzlrc5srvma7dycld0ovk9f",
       "storyUrl": "https://aihot.news/story/f39357ff-614c-4933-bc75-31ede55ae3b2",
       "sourceCount": 2,
-      "participantCount": 10,
+      "participantCount": 11,
       "latestAt": "2026-11-14T06:57:17.463Z",
       "expanded": false,
       "latest": "",
