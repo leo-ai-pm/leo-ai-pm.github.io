@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月15日",
     "demo": false,
-    "updatedAt": "2026-11-14T19:52:09.024Z",
+    "updatedAt": "2026-11-14T23:26:37.057Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 93,
+      "received": 67,
       "latestCount": 0,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -192,7 +192,7 @@
         "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
         "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
         "sourceCount": 7,
-        "participantCount": 69,
+        "participantCount": 64,
         "latestAt": "2026-11-14T14:49:22.000Z",
         "expanded": true,
         "latest": "X.PIN 转发 WSJ 关于黄仁勋辞任 Nvidia 的社论并附新加坡政府澄清声明",
@@ -254,8 +254,8 @@
         "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
         "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
         "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
-        "sourceCount": 7,
-        "participantCount": 58,
+        "sourceCount": 3,
+        "participantCount": 46,
         "latestAt": "2026-11-13T22:05:33.000Z",
         "expanded": true,
         "latest": "Gemini 4 Hydrogen 从创意到成片",
@@ -310,7 +310,7 @@
         "aihotUrl": "https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq",
         "storyUrl": "https://aihot.news/story/e5b4067f-6f2e-4f04-8799-21e4fbd9b590",
         "sourceCount": 6,
-        "participantCount": 28,
+        "participantCount": 29,
         "latestAt": "2026-11-13T20:45:10.000Z",
         "expanded": true,
         "latest": "OpenAI 推出 ChatGPT Wallet，让 Dots 智能体代用户购物",
@@ -360,7 +360,7 @@
         "aihotUrl": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
         "storyUrl": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c",
         "sourceCount": 1,
-        "participantCount": 32,
+        "participantCount": 30,
         "latestAt": "2026-11-13T13:10:18.303Z",
         "expanded": false,
         "latest": "",
@@ -409,6 +409,34 @@
       },
       {
         "rank": 6,
+        "id": "w9235nqq0senjfvm8lz7g51aa",
+        "title": "NVIDIA员工与投资者施压董事会，董事会另寻继任者",
+        "sourceName": "X：X.PIN (@thexpin)",
+        "sourceUrl": "https://x.com/thexpin/status/2121156882064937448",
+        "aihotUrl": "https://aihot.news/items/w9235nqq0senjfvm8lz7g51aa",
+        "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb",
+        "sourceCount": 4,
+        "participantCount": 17,
+        "latestAt": "2026-11-14T19:38:34.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
         "id": "um8pmpa91qn1ymvx3pux0sq1x",
         "title": "llama.cpp 与 ggml 发布首个大版本 v1.0.0",
         "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
@@ -436,7 +464,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "zvo2ciiibpmh00lmqkggnsl5r",
         "title": "OpenAI解散机器人团队，研究人员并入其他部门",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -457,34 +485,6 @@
               "asset": "/assets/identities/openai.jpg",
               "assetSource": "https://x.com/OpenAI",
               "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "w9235nqq0senjfvm8lz7g51aa",
-        "title": "NVIDIA员工联署要求董事会辞职，董事会另寻继任者",
-        "sourceName": "X：X.PIN (@thexpin)",
-        "sourceUrl": "https://x.com/thexpin/status/2121156882064937448",
-        "aihotUrl": "https://aihot.news/items/w9235nqq0senjfvm8lz7g51aa",
-        "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb",
-        "sourceCount": 4,
-        "participantCount": 16,
-        "latestAt": "2026-11-14T19:38:34.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
             }
           ],
           "caption": "热点",
@@ -521,15 +521,15 @@
       },
       {
         "rank": 10,
-        "id": "l36ne5q2gsdx6thyia7fi10kn",
-        "title": "Anthropic 向 Team 和 Enterprise 推出 Claude Meetings beta",
-        "sourceName": "Claude：Blog（网页）",
-        "sourceUrl": "https://claude.com/blog/claude-meetings",
-        "aihotUrl": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
-        "storyUrl": "https://aihot.news/story/dad94af2-7539-4652-a661-03cc5494c71b",
-        "sourceCount": 4,
-        "participantCount": 23,
-        "latestAt": "2026-11-12T22:36:29.000Z",
+        "id": "vtbzlrc5srvma7dycld0ovk9f",
+        "title": "Gemini 接入 Google Wallet，仅可读取账户",
+        "sourceName": "X：Google (@Google)",
+        "sourceUrl": "https://x.com/Google/status/2121293826908197347",
+        "aihotUrl": "https://aihot.news/items/vtbzlrc5srvma7dycld0ovk9f",
+        "storyUrl": "https://aihot.news/story/f39357ff-614c-4933-bc75-31ede55ae3b2",
+        "sourceCount": 2,
+        "participantCount": 11,
+        "latestAt": "2026-11-14T06:57:17.463Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -537,10 +537,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -551,8 +551,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-14T19:52:09.024Z",
-    "nextCheckAt": 1794686229024,
+    "checkedAt": "2026-11-14T23:26:37.057Z",
+    "nextCheckAt": 1794699097057,
     "intervalSeconds": 300,
     "message": ""
   }
