@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-15T17:27:07.190Z",
+  "checkedAt": "2026-11-15T22:01:43.765Z",
   "message": "",
   "categories": [
     {
@@ -34,20 +34,6 @@
       "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
       "aihotUrl": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
       "publishedAt": "2026-11-14T21:41:22.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "vl3jnosrbdn6i5j2we400046i",
-      "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
-      "reason": "在创纪录 IPO 前夕，Amodei 直言算力投资是公司最深的商业两难，还给出了毛利率与现金缓冲的具体应对思路。",
-      "summary": "Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "aihotUrl": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-      "publishedAt": "2026-11-14T19:05:17.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -309,9 +295,9 @@
     },
     {
       "id": "gslfz6uqr2sqy68cgv38i4tf0",
-      "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
-      "reason": "文章梳理了黄仁勋从创办 Nvidia 到押注 CUDA 的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。",
-      "summary": "The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。",
+      "title": "黄仁勋离开Nvidia：远见型创始人CEO时代落幕",
+      "reason": "文章梳理了黄仁勋从创办Nvidia到押注CUDA的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。",
+      "summary": "The Verge长文回顾黄仁勋离开Nvidia，分析这位执掌首家5万亿美元公司、占标普500约6%的创始人的离去意味着什么。",
       "sourceName": "The Verge：AI（RSS）",
       "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
       "aihotUrl": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
@@ -914,20 +900,6 @@
           "unselected": false
         },
         {
-          "id": "gslfz6uqr2sqy68cgv38i4tf0",
-          "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
-          "reason": "文章梳理了黄仁勋从创办 Nvidia 到押注 CUDA 的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。",
-          "summary": "The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-          "aihotUrl": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
-          "timeBasis": "published",
-          "category": "industry",
-          "categoryLabel": "行业",
-          "unselected": false
-        },
-        {
           "id": "np6dwfqwflqe7vfse9kkfxj1n",
           "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
           "reason": "作者长期跟踪开源模型生态，从 Nvidia 内部支持机制、监管风险到美国缺位问题给出了完整分析框架。",
@@ -978,6 +950,20 @@
           "sourceUrl": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
           "aihotUrl": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
           "publishedAt": "2026-11-13T20:07:34.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
+          "id": "q92ir58jcjtp3g9fn11jlb6ei",
+          "title": "研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练",
+          "reason": "研究称 DeepSeek、Kimi 等中国开源模型权重带有 Blackwell 芯片训练痕迹，文章还梳理了走私渠道与马来西亚离岸算力路径。",
+          "summary": "Will DePue 领导的非营利研究组织 Unemployment Labs 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重，发现 Kimi K3 与 DeepSeek V4 等最受关注模型带有 Blackwell 芯片训练痕迹。",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "aihotUrl": "https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei",
+          "publishedAt": "2026-11-13T18:40:30.000Z",
           "timeBasis": "published",
           "category": "industry",
           "categoryLabel": "行业",
