@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月15日",
     "demo": false,
-    "updatedAt": "2026-11-14T23:26:37.057Z",
+    "updatedAt": "2026-11-15T02:59:31.186Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 67,
+      "received": 57,
       "latestCount": 0,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -191,8 +191,8 @@
         "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
         "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-        "sourceCount": 7,
-        "participantCount": 64,
+        "sourceCount": 2,
+        "participantCount": 49,
         "latestAt": "2026-11-14T14:49:22.000Z",
         "expanded": true,
         "latest": "X.PIN 转发 WSJ 关于黄仁勋辞任 Nvidia 的社论并附新加坡政府澄清声明",
@@ -248,61 +248,6 @@
       },
       {
         "rank": 2,
-        "id": "uy1ayrrlqx1snqsv4lub7whsa",
-        "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-        "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-        "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
-        "sourceCount": 3,
-        "participantCount": 46,
-        "latestAt": "2026-11-13T22:05:33.000Z",
-        "expanded": true,
-        "latest": "Gemini 4 Hydrogen 从创意到成片",
-        "reports": [
-          {
-            "title": "Gemini 4 Hydrogen 从创意到成片",
-            "sourceName": "X：Gemini (@GeminiApp)",
-            "sourceUrl": "https://x.com/GeminiApp/status/2121363868425306372",
-            "aihotUrl": "https://aihot.news/items/xj28n9bhcnubeongt22akjetp",
-            "publishedAt": "2026-11-13T22:05:33.000Z"
-          },
-          {
-            "title": "Google 本周发布汇总：TPU 与 Gemini 4",
-            "sourceName": "X：Sundar Pichai (@sundarpichai)",
-            "sourceUrl": "https://x.com/sundarpichai/status/2121338095664808238",
-            "aihotUrl": "https://aihot.news/items/is2tfl9q4lfy999n19vy29p0m",
-            "publishedAt": "2026-11-13T20:23:09.000Z"
-          },
-          {
-            "title": "Google 发布 Gemini 4 Hydrogen，速度比 Gemini 3.8 Flash 快 2.5 倍",
-            "sourceName": "MarkTechPost（RSS）",
-            "sourceUrl": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
-            "aihotUrl": "https://aihot.news/items/aharkngusk0no7dmgd0kg5x8u",
-            "publishedAt": "2026-11-13T09:45:48.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "Gemini 4 Hydrogen 首登 Agent Arena 第 5",
-            "storyUrl": "https://aihot.news/story/d032a0a8-c41a-400f-b4ac-1f1753b189e0"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 3,
         "id": "vot1htumxjgnb0i88rbq3zsuq",
         "title": "OpenAI推出ChatGPT Wallet，智能体可代用户购物",
         "sourceName": "X：ChatGPT (@ChatGPT)",
@@ -345,6 +290,61 @@
               "asset": "/assets/identities/openai.jpg",
               "assetSource": "https://x.com/OpenAI",
               "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
+        "id": "uy1ayrrlqx1snqsv4lub7whsa",
+        "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
+        "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
+        "sourceCount": 3,
+        "participantCount": 36,
+        "latestAt": "2026-11-13T22:05:33.000Z",
+        "expanded": true,
+        "latest": "Gemini 4 Hydrogen 从创意到成片",
+        "reports": [
+          {
+            "title": "Gemini 4 Hydrogen 从创意到成片",
+            "sourceName": "X：Gemini (@GeminiApp)",
+            "sourceUrl": "https://x.com/GeminiApp/status/2121363868425306372",
+            "aihotUrl": "https://aihot.news/items/xj28n9bhcnubeongt22akjetp",
+            "publishedAt": "2026-11-13T22:05:33.000Z"
+          },
+          {
+            "title": "Google 本周发布汇总：TPU 与 Gemini 4",
+            "sourceName": "X：Sundar Pichai (@sundarpichai)",
+            "sourceUrl": "https://x.com/sundarpichai/status/2121338095664808238",
+            "aihotUrl": "https://aihot.news/items/is2tfl9q4lfy999n19vy29p0m",
+            "publishedAt": "2026-11-13T20:23:09.000Z"
+          },
+          {
+            "title": "Google 发布 Gemini 4 Hydrogen，速度比 Gemini 3.8 Flash 快 2.5 倍",
+            "sourceName": "MarkTechPost（RSS）",
+            "sourceUrl": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+            "aihotUrl": "https://aihot.news/items/aharkngusk0no7dmgd0kg5x8u",
+            "publishedAt": "2026-11-13T09:45:48.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "Gemini 4 Hydrogen 首登 Agent Arena 第 5",
+            "storyUrl": "https://aihot.news/story/d032a0a8-c41a-400f-b4ac-1f1753b189e0"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -416,7 +416,7 @@
         "aihotUrl": "https://aihot.news/items/w9235nqq0senjfvm8lz7g51aa",
         "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb",
         "sourceCount": 4,
-        "participantCount": 17,
+        "participantCount": 18,
         "latestAt": "2026-11-14T19:38:34.000Z",
         "expanded": false,
         "latest": "",
@@ -493,6 +493,34 @@
       },
       {
         "rank": 9,
+        "id": "vtbzlrc5srvma7dycld0ovk9f",
+        "title": "Gemini 接入 Google Wallet，仅可读取账户",
+        "sourceName": "X：Google (@Google)",
+        "sourceUrl": "https://x.com/Google/status/2121293826908197347",
+        "aihotUrl": "https://aihot.news/items/vtbzlrc5srvma7dycld0ovk9f",
+        "storyUrl": "https://aihot.news/story/f39357ff-614c-4933-bc75-31ede55ae3b2",
+        "sourceCount": 3,
+        "participantCount": 12,
+        "latestAt": "2026-11-15T00:00:54.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "dazmxe02wryrfcx3kb3l1sze2",
         "title": "Claude Code 桌面版上线本地会话自定义主题",
         "sourceName": "X：Claude Devs (@ClaudeDevs)",
@@ -518,41 +546,13 @@
           "caption": "Claude Code",
           "author": null
         }
-      },
-      {
-        "rank": 10,
-        "id": "vtbzlrc5srvma7dycld0ovk9f",
-        "title": "Gemini 接入 Google Wallet，仅可读取账户",
-        "sourceName": "X：Google (@Google)",
-        "sourceUrl": "https://x.com/Google/status/2121293826908197347",
-        "aihotUrl": "https://aihot.news/items/vtbzlrc5srvma7dycld0ovk9f",
-        "storyUrl": "https://aihot.news/story/f39357ff-614c-4933-bc75-31ede55ae3b2",
-        "sourceCount": 2,
-        "participantCount": 11,
-        "latestAt": "2026-11-14T06:57:17.463Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-14T23:26:37.057Z",
-    "nextCheckAt": 1794699097057,
+    "checkedAt": "2026-11-15T02:59:31.186Z",
+    "nextCheckAt": 1794711871186,
     "intervalSeconds": 300,
     "message": ""
   }
