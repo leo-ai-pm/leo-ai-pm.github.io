@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月15日",
     "demo": false,
-    "updatedAt": "2026-11-15T02:59:31.186Z",
+    "updatedAt": "2026-11-15T10:40:07.369Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 57,
+      "received": 45,
       "latestCount": 0,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -191,19 +191,12 @@
         "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
         "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-        "sourceCount": 2,
-        "participantCount": 49,
+        "sourceCount": 1,
+        "participantCount": 43,
         "latestAt": "2026-11-14T14:49:22.000Z",
         "expanded": true,
         "latest": "X.PIN 转发 WSJ 关于黄仁勋辞任 Nvidia 的社论并附新加坡政府澄清声明",
         "reports": [
-          {
-            "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-            "aihotUrl": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
-            "publishedAt": "2026-11-14T16:34:15.000Z"
-          },
           {
             "title": "X.PIN 转发 WSJ 关于黄仁勋辞任 Nvidia 的社论并附新加坡政府澄清声明",
             "sourceName": "X：X.PIN (@thexpin)",
@@ -217,6 +210,13 @@
             "sourceUrl": "https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off",
             "aihotUrl": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
             "publishedAt": "2026-11-13T19:27:39.000Z"
+          },
+          {
+            "title": "Ed Zitron 长文解析 NVIDIA 走私指控与其历史争议",
+            "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+            "sourceUrl": "https://www.wheresyoured.at/hg-megaspeed/",
+            "aihotUrl": "https://aihot.news/items/cs8aaqi9s05ph4pos2vguvohq",
+            "publishedAt": "2026-11-13T18:19:39.000Z"
           }
         ],
         "related": [
@@ -298,89 +298,6 @@
       },
       {
         "rank": 3,
-        "id": "uy1ayrrlqx1snqsv4lub7whsa",
-        "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-        "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-        "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
-        "sourceCount": 3,
-        "participantCount": 36,
-        "latestAt": "2026-11-13T22:05:33.000Z",
-        "expanded": true,
-        "latest": "Gemini 4 Hydrogen 从创意到成片",
-        "reports": [
-          {
-            "title": "Gemini 4 Hydrogen 从创意到成片",
-            "sourceName": "X：Gemini (@GeminiApp)",
-            "sourceUrl": "https://x.com/GeminiApp/status/2121363868425306372",
-            "aihotUrl": "https://aihot.news/items/xj28n9bhcnubeongt22akjetp",
-            "publishedAt": "2026-11-13T22:05:33.000Z"
-          },
-          {
-            "title": "Google 本周发布汇总：TPU 与 Gemini 4",
-            "sourceName": "X：Sundar Pichai (@sundarpichai)",
-            "sourceUrl": "https://x.com/sundarpichai/status/2121338095664808238",
-            "aihotUrl": "https://aihot.news/items/is2tfl9q4lfy999n19vy29p0m",
-            "publishedAt": "2026-11-13T20:23:09.000Z"
-          },
-          {
-            "title": "Google 发布 Gemini 4 Hydrogen，速度比 Gemini 3.8 Flash 快 2.5 倍",
-            "sourceName": "MarkTechPost（RSS）",
-            "sourceUrl": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
-            "aihotUrl": "https://aihot.news/items/aharkngusk0no7dmgd0kg5x8u",
-            "publishedAt": "2026-11-13T09:45:48.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "Gemini 4 Hydrogen 首登 Agent Arena 第 5",
-            "storyUrl": "https://aihot.news/story/d032a0a8-c41a-400f-b4ac-1f1753b189e0"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 4,
-        "id": "h2nxkfqpvkcqzof1dlta9j5w0",
-        "title": "微软365故障波及Claude，Anthropic通报中断",
-        "sourceName": "IT之家·人工智能",
-        "sourceUrl": "https://www.ithome.com/1/026/948.htm",
-        "aihotUrl": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
-        "storyUrl": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c",
-        "sourceCount": 1,
-        "participantCount": 30,
-        "latestAt": "2026-11-13T13:10:18.303Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
         "id": "nnbnoebf6mvo97usmwj5wziyl",
         "title": "DeepSeek 开放 App 能力 API，扩展调用另收费",
         "sourceName": "DeepSeek：API 更新日志",
@@ -388,11 +305,33 @@
         "aihotUrl": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
         "storyUrl": "https://aihot.news/story/77f8b937-8e1a-4b05-b3eb-b609445fedd4",
         "sourceCount": 4,
-        "participantCount": 26,
+        "participantCount": 28,
         "latestAt": "2026-11-13T20:31:51.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
+        "expanded": true,
+        "latest": "DeepSeek 将聊天应用全栈能力开放给开发者 API",
+        "reports": [
+          {
+            "title": "DeepSeek 将聊天应用全栈能力开放给开发者 API",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2121340286773457097",
+            "aihotUrl": "https://aihot.news/items/gr7pw7syayjmnm461fnywxlon",
+            "publishedAt": "2026-11-13T20:31:51.000Z"
+          },
+          {
+            "title": "下一个超级 App 不必是面向所有人的一个超级 App。 现在，每个人都有能力创造一个超级 App。 下一个超级 App 也可以是只属于你一个人的超级 App。",
+            "sourceName": "X：Tianyi Cui（@tianyi）",
+            "sourceUrl": "https://x.com/tianyi/status/2121264664571269160",
+            "aihotUrl": "https://aihot.news/items/o2ud9vu2a6bmucuidc30u52zk",
+            "publishedAt": "2026-11-13T15:31:21.000Z"
+          },
+          {
+            "title": "DeepSeek 开放全家桶应用 API，开发者可 1:1 复刻 DeepSeek App",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/026/960.htm",
+            "aihotUrl": "https://aihot.news/items/jak4hoym9ycotkw4heqsfryp9",
+            "publishedAt": "2026-11-13T14:29:06.313Z"
+          }
+        ],
         "related": [],
         "visual": {
           "entities": [
@@ -408,15 +347,15 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 4,
         "id": "w9235nqq0senjfvm8lz7g51aa",
         "title": "NVIDIA员工与投资者施压董事会，董事会另寻继任者",
         "sourceName": "X：X.PIN (@thexpin)",
         "sourceUrl": "https://x.com/thexpin/status/2121156882064937448",
         "aihotUrl": "https://aihot.news/items/w9235nqq0senjfvm8lz7g51aa",
         "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb",
-        "sourceCount": 4,
-        "participantCount": 18,
+        "sourceCount": 3,
+        "participantCount": 16,
         "latestAt": "2026-11-14T19:38:34.000Z",
         "expanded": false,
         "latest": "",
@@ -436,7 +375,91 @@
         }
       },
       {
+        "rank": 5,
+        "id": "zvo2ciiibpmh00lmqkggnsl5r",
+        "title": "OpenAI解散机器人团队，研究人员并入其他部门",
+        "sourceName": "The Decoder：AI News（RSS）",
+        "sourceUrl": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+        "aihotUrl": "https://aihot.news/items/zvo2ciiibpmh00lmqkggnsl5r",
+        "storyUrl": "https://aihot.news/story/4d02a2b5-ec70-4631-a88c-702e78e77fc0",
+        "sourceCount": 1,
+        "participantCount": 16,
+        "latestAt": "2026-11-14T11:40:51.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "uy1ayrrlqx1snqsv4lub7whsa",
+        "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
+        "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
+        "sourceCount": 1,
+        "participantCount": 20,
+        "latestAt": "2026-11-13T22:05:33.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
         "rank": 7,
+        "id": "h2nxkfqpvkcqzof1dlta9j5w0",
+        "title": "微软365故障波及Claude，Anthropic通报中断",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/026/948.htm",
+        "aihotUrl": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
+        "storyUrl": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c",
+        "sourceCount": 1,
+        "participantCount": 18,
+        "latestAt": "2026-11-13T13:10:18.303Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
         "id": "um8pmpa91qn1ymvx3pux0sq1x",
         "title": "llama.cpp 与 ggml 发布首个大版本 v1.0.0",
         "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
@@ -464,44 +487,16 @@
         }
       },
       {
-        "rank": 8,
-        "id": "zvo2ciiibpmh00lmqkggnsl5r",
-        "title": "OpenAI解散机器人团队，研究人员并入其他部门",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
-        "aihotUrl": "https://aihot.news/items/zvo2ciiibpmh00lmqkggnsl5r",
-        "storyUrl": "https://aihot.news/story/4d02a2b5-ec70-4631-a88c-702e78e77fc0",
-        "sourceCount": 1,
-        "participantCount": 14,
-        "latestAt": "2026-11-14T11:40:51.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 9,
-        "id": "vtbzlrc5srvma7dycld0ovk9f",
-        "title": "Gemini 接入 Google Wallet，仅可读取账户",
-        "sourceName": "X：Google (@Google)",
-        "sourceUrl": "https://x.com/Google/status/2121293826908197347",
-        "aihotUrl": "https://aihot.news/items/vtbzlrc5srvma7dycld0ovk9f",
-        "storyUrl": "https://aihot.news/story/f39357ff-614c-4933-bc75-31ede55ae3b2",
-        "sourceCount": 3,
-        "participantCount": 12,
-        "latestAt": "2026-11-15T00:00:54.000Z",
+        "id": "pg7avew3q9ekdp3ydzhiuh9y4",
+        "title": "Cursor 扩展市场现恶意 Claude Code 包，调查指向 Fireworks 密钥泄露",
+        "sourceName": "Cursor Blog",
+        "sourceUrl": "https://cursor.com/blog/claude-code-extension-security-notice",
+        "aihotUrl": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+        "storyUrl": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6",
+        "sourceCount": 2,
+        "participantCount": 10,
+        "latestAt": "2026-11-14T10:52:39.180Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -509,13 +504,13 @@
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
-          "caption": "热点",
+          "caption": "Claude Code",
           "author": null
         }
       },
@@ -528,7 +523,7 @@
         "aihotUrl": "https://aihot.news/items/dazmxe02wryrfcx3kb3l1sze2",
         "storyUrl": "https://aihot.news/story/4be4c14d-784f-462e-bf3d-e88b8e5b615a",
         "sourceCount": 1,
-        "participantCount": 10,
+        "participantCount": 11,
         "latestAt": "2026-11-14T06:26:00.000Z",
         "expanded": false,
         "latest": "",
@@ -551,8 +546,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-15T02:59:31.186Z",
-    "nextCheckAt": 1794711871186,
+    "checkedAt": "2026-11-15T10:40:07.369Z",
+    "nextCheckAt": 1794739507369,
     "intervalSeconds": 300,
     "message": ""
   }

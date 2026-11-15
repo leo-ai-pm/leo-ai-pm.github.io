@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-15T02:59:23.655Z",
-      "lastSuccessAt": "2026-11-15T02:59:23.655Z",
-      "nextCheckAt": 1794715163655,
+      "checkedAt": "2026-11-15T10:39:53.527Z",
+      "lastSuccessAt": "2026-11-15T10:39:53.527Z",
+      "nextCheckAt": 1794742793527,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-15T02:59:23.656Z",
-      "lastSuccessAt": "2026-11-15T02:59:23.656Z",
-      "nextCheckAt": 1794715163656,
+      "checkedAt": "2026-11-15T10:39:53.528Z",
+      "lastSuccessAt": "2026-11-15T10:39:53.528Z",
+      "nextCheckAt": 1794742793528,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-15T02:59:23.657Z",
-      "lastSuccessAt": "2026-11-15T02:59:23.657Z",
-      "nextCheckAt": 1794715163657,
+      "checkedAt": "2026-11-15T10:39:53.529Z",
+      "lastSuccessAt": "2026-11-15T10:39:53.529Z",
+      "nextCheckAt": 1794742793529,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1794715163791,
-      "checkedAt": "2026-11-15T02:59:23.791Z",
-      "lastSuccessAt": "2026-11-15T02:59:23.791Z",
+      "nextCheckAt": 1794742793734,
+      "checkedAt": "2026-11-15T10:39:53.734Z",
+      "lastSuccessAt": "2026-11-15T10:39:53.734Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,130 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794715163655,
+  "nextCheckAt": 1794742793527,
   "refreshing": false,
   "items": [
+    {
+      "id": "ph:https://www.producthunt.com/products/agentgrid-io",
+      "title": "Canvas by AgentGrid.io",
+      "summary": "Agentic Design Canvas - A visual way to collaborate with AI",
+      "publishedAt": "2026-11-15T06:22:09.000Z",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/agentgrid-io",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Agentic Design Canvas - A visual way to collaborate with AI",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/perit-marketplace",
+      "title": "Perit Marketplace",
+      "summary": "Sell your data and RL tasks to frontier AI labs",
+      "publishedAt": "2026-11-15T05:04:05.000Z",
+      "url": "https://www.producthunt.com/products/perit-marketplace",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/perit-marketplace",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Sell your data and RL tasks to frontier AI labs",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6494057.html",
+      "title": "OpenAI再次解散机器人团队：GPT-6太强，决定All in通用模型",
+      "summary": "英伟达一场仿真测试里，GPT-6 Astra 一天都没练过，只靠摄像头画面、机器人状态和一根控制线，就把机械臂任务成功率做到 74.8%，真机苦练的专用策略最高才 51%。同一周，OpenAI 向《财富》确认撤销独立机器人团队。 机器人行业过去有一条很清晰的分工：通用模型负责理解指令，机器人模型负责把视觉、状态和动作对应起来，底层控制器再保证机械臂不会撞上东西。现在这条边界正在变薄。 一项英伟达 10 月公布的仿真测试中，GPT-6 A",
+      "publishedAt": "2026-11-15T03:16:53.000Z",
+      "url": "https://www.woshipm.com/ai/6494057.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6494057.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "英伟达一场仿真测试里，GPT-6 Astra 一天都没练过，只靠摄像头画面、机器人状态和一根控制线，就把机械臂任务成功率做到 74.8%，真机苦练的专用策略最高才 51%。同一周，OpenAI 向《财富》确认撤销独立机器人团队。 机器人行业过去有一条很清晰的分工：通用模型负责理解指令，机器人模型负责把视觉、状态和动作对应起来，底层控制器再保证机械臂不会撞上东西。现在这条边界正在变薄。 一项英伟达 10 月公布的仿真测试中，GPT-6 A",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6493965.html",
       "title": "Anthropic刚教的24小时agent，我当天做出来了",
@@ -132,7 +253,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "normal"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6493967.html",
@@ -172,58 +293,18 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6493838.html",
-      "title": "Qwen4-Max Preview实测：4800万条数据26分钟跑完，强！",
-      "summary": "把12G的 HackerNews 数据集直接丢给 Qwen4-Max-Preview，26分钟、用 DuckDB 跑完4800万条数据，产出一个可交互的编程语言热度网页，结论是 Rust 崛起、PHP 退潮。作者的评价是国产第一梯队，也点出了短板。 Qwen 系列模型在开源社区一直有很好的口碑，最近阿里发布了Qwen4-Max 预览版。 但最近忙深圳 GEO 大会，直到今天才有空测试。 跑了几个实际项目，感觉是国产第一梯队。 Hacke",
-      "publishedAt": "2026-11-14T03:11:16.000Z",
-      "url": "https://www.woshipm.com/ai/6493838.html",
+      "id": "ph:https://www.producthunt.com/products/byteask-cloud-agents",
+      "title": "ByteAsk Cloud Agents",
+      "summary": "Find the fix in big codebases. Ship it from Slack.",
+      "publishedAt": "2026-11-14T06:54:44.000Z",
+      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6493838.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "把12G的 HackerNews 数据集直接丢给 Qwen4-Max-Preview，26分钟、用 DuckDB 跑完4800万条数据，产出一个可交互的编程语言热度网页，结论是 Rust 崛起、PHP 退潮。作者的评价是国产第一梯队，也点出了短板。 Qwen 系列模型在开源社区一直有很好的口碑，最近阿里发布了Qwen4-Max 预览版。 但最近忙深圳 GEO 大会，直到今天才有空测试。 跑了几个实际项目，感觉是国产第一梯队。 Hacke",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/thunder-3",
-      "title": "Thunder",
-      "summary": "A blazing-fast, persistent, key-value AI workload database",
-      "publishedAt": "2026-11-13T21:27:29.000Z",
-      "url": "https://www.producthunt.com/products/thunder-3",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -243,92 +324,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/thunder-3",
+      "sourceUrl": "https://www.producthunt.com/products/byteask-cloud-agents",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "A blazing-fast, persistent, key-value AI workload database",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/google-labs",
-      "title": "Tabletop by Google Labs",
-      "summary": "Build interactive group experiences with AI.",
-      "publishedAt": "2026-11-13T11:39:17.000Z",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/google-labs",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Build interactive group experiences with AI.",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/codemesh-2",
-      "title": "CodeMesh",
-      "summary": "Cut AI coding costs by 90%",
-      "publishedAt": "2026-11-13T09:07:28.000Z",
-      "url": "https://www.producthunt.com/products/codemesh-2",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/codemesh-2",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Cut AI coding costs by 90%",
+      "brief": "Find the fix in big codebases. Ship it from Slack.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
