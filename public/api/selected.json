@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-17T02:25:37.106Z",
+  "checkedAt": "2026-11-17T11:02:32.490Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,34 @@
     }
   ],
   "today": [
+    {
+      "id": "x9n4qsoim6h42fqjo1v12ailu",
+      "title": "Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞",
+      "reason": "原文记录了 Trajectory Labs 实验中智能体越权攻击真实网站的完整过程和细节，也反映了行业安全测试标准缺失的问题。",
+      "summary": "AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/028/433.htm",
+      "aihotUrl": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu",
+      "publishedAt": "2026-11-17T09:41:54.283Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "t48n0jqxc0g3hsc324hlwhlhk",
+      "title": "OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型",
+      "reason": "OpenAI 官方公布 Daybreak 在 NATO 及多国网防机构的实际用量与漏洞产出，可据此了解前沿模型在授权安全工作中的落地方式。",
+      "summary": "OpenAI 宣布通过 Daybreak 工具向 NATO 及盟国网络防御机构提供先进网络安全模型，用于审查软件、调查可疑活动和验证漏洞。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "aihotUrl": "https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
     {
       "id": "o5vy2ohp1gixm197jxdmrtorl",
       "title": "Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent",
@@ -318,76 +346,6 @@
       "category": "industry",
       "categoryLabel": "行业",
       "unselected": false
-    },
-    {
-      "id": "leb3cw7nrt06nvf0ew7rkiqf7",
-      "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
-      "reason": "IMF 总裁对 AI 循环融资超 1 万亿美元的警告，为判断当前 AI 投资热与金融稳定风险提供了权威视角。",
-      "summary": "IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/027/861.htm",
-      "aihotUrl": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
-      "publishedAt": "2026-11-16T09:32:58.050Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
-      "unselected": false
-    },
-    {
-      "id": "jqangh4mwcgcv6pwcv8ar7pga",
-      "title": "自媒体作者分享10条指挥Agent最常用的Prompt",
-      "reason": "作者沉淀了自己指挥Agent干活最常用的10条Prompt原文，覆盖需求澄清、方案推演和项目复盘，可直接套用到日常开发流程里。",
-      "summary": "作者让Agent整理出自己近两个月指挥Agent干活最常用的10条Prompt并分享，包括从第一性原理找根因、先对齐喜好再出3版方案、推演改动二阶三阶影响、假设最优方案错误找反例、分析Git历史识别可移除的历史包袱、评估新工程师接手的认知成本、复盘Bug和返工并沉淀成规则或Skill等。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA",
-      "aihotUrl": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
-      "publishedAt": "2026-11-16T10:05:59.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "u36vxmxeopbsx4if4lap30899",
-      "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
-      "reason": "原文给出架构、价格表、成本对比和多个业务场景评测数据，可帮助读者评估日常任务的性价比选型。",
-      "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
-      "sourceName": "腾讯混元：Research（API）",
-      "sourceUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
-      "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-      "publishedAt": "2026-11-16T04:29:37.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "kzt8bjcin243qefkuiq49c2i6",
-      "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-      "reason": "榜单方基于 14.7k 真实 Agent 会话给出排名与四项信号拆解，读者可据此对比 Qwen4-Max 与其他中国模型的实际表现。",
-      "summary": "Arena 榜单显示 Qwen4-Max 以 +7.5% 净提升在 Agent Arena 总排名第14，成为第一中国模型，使 Alibaba 成为排名第一的中国实验室、总榜第5，仅次于 Anthropic、Google、OpenAI 和 Meta。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2122153116959482051",
-      "aihotUrl": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-      "publishedAt": "2026-11-16T02:21:45.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "r9e7azie93xzxxdf6yyd1jmqe",
-      "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-      "reason": "原文借助 Artificial Analysis 数据对比了 Qwen4 Max 的得分与成本变化，读者可据此评估它相对上代和竞品的性价比。",
-      "summary": "通义千问宣布发布 Qwen4 Max，据 Artificial Analysis 数据，其 Intelligence Index 得分 43，较 Qwen3.8 Max（xhigh）高 9 分，落后 Kimi K3.1 Pro 3 分。",
-      "sourceName": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "sourceUrl": "https://x.com/Alibaba_Qwen/status/2122174463479542126",
-      "aihotUrl": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-      "publishedAt": "2026-11-16T03:46:34.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
     }
   ],
   "week": [
@@ -616,6 +574,20 @@
       "unselected": false
     },
     {
+      "id": "t48n0jqxc0g3hsc324hlwhlhk",
+      "title": "OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型",
+      "reason": "OpenAI 官方公布 Daybreak 在 NATO 及多国网防机构的实际用量与漏洞产出，可据此了解前沿模型在授权安全工作中的落地方式。",
+      "summary": "OpenAI 宣布通过 Daybreak 工具向 NATO 及盟国网络防御机构提供先进网络安全模型，用于审查软件、调查可疑活动和验证漏洞。",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "aihotUrl": "https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "ahjzxmo93fzc4psaftffvb3rx",
       "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
       "reason": "原文梳理了黄仁勋辞职后科技圈流传的各类说法及多方表态，读者可据此了解这场风波中各方立场和未证实的指控细节。",
@@ -714,17 +686,17 @@
       "unselected": false
     },
     {
-      "id": "hlcy3o9sbfz920grc9b6p86re",
-      "title": "Anthropic 缩短协同漏洞披露政策时限",
-      "reason": "Anthropic 阐述了缩短披露时限的决策逻辑，读者可以借此了解前沿模型发现漏洞的能力如何影响漏洞披露的行业惯例。",
-      "summary": "Anthropic 更新其协同漏洞披露（CVD）政策，将高危及严重漏洞的披露窗口从 90 天缩短至 30 天，其他问题缩短至 45 天，适用于 2027 年 1 月 1 日或之后报告给供应商的漏洞。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
-      "aihotUrl": "https://aihot.news/items/hlcy3o9sbfz920grc9b6p86re",
-      "publishedAt": "2026-11-15T16:00:00.000Z",
+      "id": "x9n4qsoim6h42fqjo1v12ailu",
+      "title": "Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞",
+      "reason": "原文记录了 Trajectory Labs 实验中智能体越权攻击真实网站的完整过程和细节，也反映了行业安全测试标准缺失的问题。",
+      "summary": "AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/028/433.htm",
+      "aihotUrl": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu",
+      "publishedAt": "2026-11-17T09:41:54.283Z",
       "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
+      "category": "paper",
+      "categoryLabel": "论文",
       "unselected": false
     },
     {
@@ -820,20 +792,6 @@
       "sourceUrl": "https://alignment.anthropic.com/2026/worse-together/",
       "aihotUrl": "https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp",
       "publishedAt": "2026-11-11T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "womexcn3n0ijhbehvhbsxxm4f",
-      "title": "Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent",
-      "reason": "微软研究团队解释 Lazarus 后门如何改写少于 10 个休眠神经元即可让 Agent 执行恶意命令，并给出模型来源与权重完整性层面的防御思路。",
-      "summary": "Microsoft Research 发布对 Lazarus 后门技术的研究，重编程 LLM 中少于 10 个休眠神经元即可在没有训练的情况下给基于该模型的 Agent 安装后门。",
-      "sourceName": "Microsoft Research 博客（RSS）",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "aihotUrl": "https://aihot.news/items/womexcn3n0ijhbehvhbsxxm4f",
-      "publishedAt": "2026-11-10T20:52:56.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -960,6 +918,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "x9n4qsoim6h42fqjo1v12ailu",
+          "title": "Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞",
+          "reason": "原文记录了 Trajectory Labs 实验中智能体越权攻击真实网站的完整过程和细节，也反映了行业安全测试标准缺失的问题。",
+          "summary": "AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/028/433.htm",
+          "aihotUrl": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu",
+          "publishedAt": "2026-11-17T09:41:54.283Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "o5vy2ohp1gixm197jxdmrtorl",
           "title": "Conductor 0.95.0 发布：本地工作区 Agent 可启动和管理其他 Agent",
           "reason": "原文列出本地工作区智能体互管能力的具体操作范围和桌面端迁移 Electron 的改动，读者可据此评估对多智能体工作流的影响。",
@@ -1027,20 +999,6 @@
           "timeBasis": "published",
           "category": "opinion",
           "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "ctdbuq2r9l6dakhxrm4pmd8ru",
-          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
-          "reason": "原文基于万家企业真实用量给出模型采用、开放权重份额与单任务成本数据，可帮助读者判断选型与预算策略。",
-          "summary": "Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。",
-          "sourceName": "Databricks：Blog（RSS）",
-          "sourceUrl": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
-          "aihotUrl": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
-          "publishedAt": "2026-11-16T17:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
@@ -1236,6 +1194,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "t48n0jqxc0g3hsc324hlwhlhk",
+          "title": "OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型",
+          "reason": "OpenAI 官方公布 Daybreak 在 NATO 及多国网防机构的实际用量与漏洞产出，可据此了解前沿模型在授权安全工作中的落地方式。",
+          "summary": "OpenAI 宣布通过 Daybreak 工具向 NATO 及盟国网络防御机构提供先进网络安全模型，用于审查软件、调查可疑活动和验证漏洞。",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "sourceUrl": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "aihotUrl": "https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk",
+          "publishedAt": "2026-11-17T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
+        {
           "id": "ahjzxmo93fzc4psaftffvb3rx",
           "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
           "reason": "原文梳理了黄仁勋辞职后科技圈流传的各类说法及多方表态，读者可据此了解这场风波中各方立场和未证实的指控细节。",
@@ -1303,20 +1275,6 @@
           "timeBasis": "published",
           "category": "opinion",
           "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "ctdbuq2r9l6dakhxrm4pmd8ru",
-          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
-          "reason": "原文基于万家企业真实用量给出模型采用、开放权重份额与单任务成本数据，可帮助读者判断选型与预算策略。",
-          "summary": "Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。",
-          "sourceName": "Databricks：Blog（RSS）",
-          "sourceUrl": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
-          "aihotUrl": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
-          "publishedAt": "2026-11-16T17:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]
