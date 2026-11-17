@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年11月17日",
+    "date": "2026年11月18日",
     "demo": false,
-    "updatedAt": "2026-11-17T11:02:14.046Z",
+    "updatedAt": "2026-11-17T19:44:32.840Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 188,
-      "latestCount": 2,
+      "received": 244,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -84,8 +84,8 @@
           "group": "产品与工程",
           "focus": "开发者产品与应用工程",
           "url": "https://x.com/sherwinwu",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 2,
+          "status": "本次收录"
         },
         {
           "handle": "emollick",
@@ -145,22 +145,22 @@
     },
     "items": [
       {
-        "id": "aihot-hm9rkge6p8qo9ig7ow7y1t3dk",
-        "title": "OpenAI 启动首轮嵌入式评估，邀请外部专家审查模型安全",
-        "brief": "OpenAI 宣布启动首轮嵌入式评估（embedded assessments），与 Apollo Research、METR、TransluceAI 和 GoodfireAI 合作，让外部专家深入接触其内部模型与系统，调查对齐问题并测试安全防护措施。",
-        "summary": "OpenAI 宣布启动首轮嵌入式评估（embedded assessments），与 Apollo Research、METR、TransluceAI 和 GoodfireAI 合作，让外部专家深入接触其内部模型与系统，调查对齐问题并测试安全防护措施。",
-        "category": "行业观察",
+        "id": "aihot-kc1l7c30oydxnos6mw9liec0v",
+        "title": "OpenAI 发布 GPT-6.2 Sol 与 Astra，Sol 的 ultrafast 扩展至 Pro 200 套餐",
+        "brief": "OpenAI 发布 GPT-6.2 Astra 和 Sol，两个模型现已开放使用，官方称其高效且面向真实场景表现。",
+        "summary": "OpenAI 发布 GPT-6.2 Astra 和 Sol，两个模型现已开放使用，官方称其高效且面向真实场景表现。",
+        "category": "模型进展",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
-        "authorHandle": "gdb",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Greg Brockman · @gdb",
-        "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2122371202169905639",
-        "aggregateUrl": "https://aihot.news/items/hm9rkge6p8qo9ig7ow7y1t3dk",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2122753991000133943",
+        "aggregateUrl": "https://aihot.news/items/kc1l7c30oydxnos6mw9liec0v",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-16T16:48:21.000Z",
+        "publishedAt": "2026-11-17T18:09:24.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -172,7 +172,81 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "行业观察",
+          "caption": "模型进展",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-lwu3khhqffrhezsw7msar2pxp",
+        "title": "Astra for Law 大幅减少模型幻觉",
+        "brief": "非常自豪，全新的 Astra for Law（以及 6.2 版 Astra 本身）在消除模型幻觉方面领先业界： 幻觉比 Opus 5.5 少 20 倍，比 Fable 5.2 少 25 倍！",
+        "summary": "非常自豪，全新的 Astra for Law（以及 6.2 版 Astra 本身）在消除模型幻觉方面领先业界： 幻觉比 Opus 5.5 少 20 倍，比 Fable 5.2 少 25 倍！",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "sherwinwu",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Sherwin Wu · @sherwinwu",
+        "feedName": "X：Sherwin Wu（@sherwinwu）",
+        "sourceUrl": "https://x.com/sherwinwu/status/2122752578656313689",
+        "aggregateUrl": "https://aihot.news/items/lwu3khhqffrhezsw7msar2pxp",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-17T18:03:48.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "模型进展",
+          "author": {
+            "name": "Sherwin Wu",
+            "asset": "/assets/identities/sherwinwu.jpg",
+            "assetSource": "https://x.com/sherwinwu",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-mn6ypxkpakfkuuo75nrl4i1cy",
+        "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol",
+        "brief": "OpenAI 发布 GPT-6.2 Astra 与 Sol 两个模型，现已在 openai.com 公开。",
+        "summary": "OpenAI 发布 GPT-6.2 Astra 与 Sol 两个模型，现已在 openai.com 公开。",
+        "category": "模型进展",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "gdb",
+        "sourceGroup": "行业与创业",
+        "sourceName": "Greg Brockman · @gdb",
+        "feedName": "X：Greg Brockman (@gdb)",
+        "sourceUrl": "https://x.com/gdb/status/2122752345364935113",
+        "aggregateUrl": "https://aihot.news/items/mn6ypxkpakfkuuo75nrl4i1cy",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-17T18:02:52.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "模型进展",
           "author": {
             "name": "Greg Brockman",
             "asset": "/assets/identities/gdb.jpg",
@@ -182,10 +256,10 @@
         }
       },
       {
-        "id": "aihot-wm50ahate6cumeir7r8ksdimb",
-        "title": "Perplexity CEO 认为 AI 自动化科研是最值得投入的算力方向",
-        "brief": "Perplexity CEO Aravind Srinivas 转发并评论称，用于自动化科学研究的 AI 是最值得投入的算力方向。",
-        "summary": "Perplexity CEO Aravind Srinivas 转发并评论称，用于自动化科学研究的 AI 是最值得投入的算力方向。",
+        "id": "aihot-qfncapzdp8348ntzgd2fldzzr",
+        "title": "Perplexity CEO 宣布公司 ARR 突破 10 亿美元",
+        "brief": "Perplexity CEO Aravind Srinivas 披露公司 ARR 已突破 $1B，并称利润率强劲、增速健康，因专注产品而很少谈论财务状况。",
+        "summary": "Perplexity CEO Aravind Srinivas 披露公司 ARR 已突破 $1B，并称利润率强劲、增速健康，因专注产品而很少谈论财务状况。",
         "category": "行业观察",
         "topic": "AI 产品",
         "priority": "normal",
@@ -194,10 +268,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2122490397113131027",
-        "aggregateUrl": "https://aihot.news/items/wm50ahate6cumeir7r8ksdimb",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2122734422445445629",
+        "aggregateUrl": "https://aihot.news/items/qfncapzdp8348ntzgd2fldzzr",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-17T00:41:59.000Z",
+        "publishedAt": "2026-11-17T16:51:39.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -259,6 +333,128 @@
     "ranking": [
       {
         "rank": 1,
+        "id": "mkahdchhxfc4z36augopprdh9",
+        "title": "黄仁勋辞任英伟达CEO，称愿在董事会决定下回归",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+        "aihotUrl": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
+        "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1",
+        "sourceCount": 4,
+        "participantCount": 50,
+        "latestAt": "2026-11-17T16:30:30.000Z",
+        "expanded": true,
+        "latest": "黄仁勋发声明回应离职风波，称若董事会决定可回归 NVIDIA CEO",
+        "reports": [
+          {
+            "title": "黄仁勋发声明回应离职风波，称若董事会决定可回归 NVIDIA CEO",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2122729098879598698",
+            "aihotUrl": "https://aihot.news/items/ec1amsp97esqrquabztmjfxav",
+            "publishedAt": "2026-11-17T16:30:30.000Z"
+          },
+          {
+            "title": "Jensen Huang 发声明回应离职风波并表态愿在董事会决定下回归 NVIDIA CEO",
+            "sourceName": "X：Jim Fan (@DrJimFan)",
+            "sourceUrl": "https://x.com/DrJimFan/status/2122727208754254245",
+            "aihotUrl": "https://aihot.news/items/usw3l00k4sgas3w8v3496sqaw",
+            "publishedAt": "2026-11-17T16:22:59.000Z"
+          },
+          {
+            "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/028/052.htm",
+            "aihotUrl": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+            "publishedAt": "2026-11-17T01:03:01.430Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "NVIDIA员工与投资者施压董事会，董事会另寻继任者",
+            "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
+          },
+          {
+            "title": "黄仁勋辞任英伟达CEO，CFO克雷斯临时接任",
+            "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 2,
+        "id": "jr7fqw95e5ihuevr1rzib208l",
+        "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol 两款模型",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "aihotUrl": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
+        "storyUrl": "https://aihot.news/story/2254fd74-e05d-4b8b-861e-9d14e940f4bc",
+        "sourceCount": 4,
+        "participantCount": 39,
+        "latestAt": "2026-11-17T18:30:29.000Z",
+        "expanded": true,
+        "latest": "GPT-6.2 Astra 助力游戏开发",
+        "reports": [
+          {
+            "title": "GPT-6.2 Astra 助力游戏开发",
+            "sourceName": "X：fal (@fal)",
+            "sourceUrl": "https://x.com/fal/status/2122759293837492243",
+            "aihotUrl": "https://aihot.news/items/eg98r68yp5n5x8tdevavo9cxz",
+            "publishedAt": "2026-11-17T18:30:29.000Z"
+          },
+          {
+            "title": "OpenAI 发布 GPT-6.2 Sol 与 Astra，Sol 的 ultrafast 扩展至 Pro 200 套餐",
+            "sourceName": "X：Tibo (@thsottiaux)",
+            "sourceUrl": "https://x.com/thsottiaux/status/2122753991000133943",
+            "aihotUrl": "https://aihot.news/items/kc1l7c30oydxnos6mw9liec0v",
+            "publishedAt": "2026-11-17T18:09:24.000Z"
+          },
+          {
+            "title": "OpenAI 发布 gpt-6.2-astra 与 gpt-6.2-sol，Ultrafast 降价 50%",
+            "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+            "sourceUrl": "https://x.com/OpenAIDevs/status/2122752500877144461",
+            "aihotUrl": "https://aihot.news/items/w80bz156f0q726uhhd73zr6dz",
+            "publishedAt": "2026-11-17T18:03:29.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，Sol 成本约为 Astra 五分之一",
+            "storyUrl": "https://aihot.news/story/e09f44d2-7963-46bc-8098-0a31c36490da"
+          },
+          {
+            "title": "ARC Prize 公布 GPT-6.2 Astra 与 Sol 基准成绩",
+            "storyUrl": "https://aihot.news/story/aa967b25-806c-4f99-93d7-2e101a82c92c"
+          },
+          {
+            "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol 系统卡",
+            "storyUrl": "https://aihot.news/story/19a3dc92-fd4a-4b56-a50a-4ee4f0146f69"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
         "id": "nqcfrkilrh7nhnpd03t9q1zfh",
         "title": "阿里发布 Qwen4-Max，预览版先行接入多产品",
         "sourceName": "Qwen：Blog Retrieval（API）",
@@ -321,104 +517,19 @@
         }
       },
       {
-        "rank": 2,
-        "id": "qsbjbz754aodhcijq56puh6va",
-        "title": "黄仁勋辞任英伟达CEO，CFO克雷斯临时接任",
-        "sourceName": "NVIDIA：Newsroom（RSS）",
-        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-        "aihotUrl": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
-        "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed",
-        "sourceCount": 1,
-        "participantCount": 32,
-        "latestAt": "2026-11-15T13:00:00.000Z",
-        "expanded": true,
-        "latest": "黄仁勋因婚外情风波辞任 Nvidia CEO",
-        "reports": [
-          {
-            "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-            "aihotUrl": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
-            "publishedAt": "2026-11-16T23:17:34.000Z"
-          },
-          {
-            "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-            "aihotUrl": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
-            "publishedAt": "2026-11-16T13:00:00.000Z"
-          },
-          {
-            "title": "英伟达黄仁勋卸任、阿里芯片子公司赴港IPO、Qwen4-Max 首次亮相",
-            "sourceName": "Recode China AI（RSS）",
-            "sourceUrl": "https://www.recodechinaai.com/p/nvidia-without-jensen-alibabas-chip",
-            "aihotUrl": "https://aihot.news/items/qcyfp81twlwsaayzpdun87hcp",
-            "publishedAt": "2026-11-15T13:06:31.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "黄仁勋辞任英伟达CEO，业界关注继任与AI融资",
-            "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
-          },
-          {
-            "title": "NVIDIA员工与投资者施压董事会，董事会另寻继任者",
-            "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
-          },
-          {
-            "title": "黄仁勋离开 Nvidia，开源模型资金引担忧",
-            "storyUrl": "https://aihot.news/story/e92396d2-c9c2-4157-b24e-c24155149bfd"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "id": "t1ol5cc73f6teh8f32wvri1cn",
         "title": "加州总检察长起诉OpenAI智能体失控",
         "sourceName": "The Verge：AI（RSS）",
         "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
         "aihotUrl": "https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn",
         "storyUrl": "https://aihot.news/story/fd9e7181-a93c-45bd-affd-922e09cdcd5a",
-        "sourceCount": 3,
-        "participantCount": 23,
-        "latestAt": "2026-11-16T20:46:01.000Z",
-        "expanded": true,
-        "latest": "加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face",
-        "reports": [
-          {
-            "title": "加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-            "aihotUrl": "https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn",
-            "publishedAt": "2026-11-16T20:46:01.000Z"
-          },
-          {
-            "title": "加州总检察长起诉 OpenAI，指控其测试智能体失控攻击 Hugging Face",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2122428932192625104",
-            "aihotUrl": "https://aihot.news/items/shj5s5wugaq364qkndurwmywt",
-            "publishedAt": "2026-11-16T20:37:44.000Z"
-          },
-          {
-            "title": "加州总检察长起诉 OpenAI，指控其智能体失控事件构成公共危害",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-            "aihotUrl": "https://aihot.news/items/we2zvmmi20r95jojogpe1dwug",
-            "publishedAt": "2026-11-16T20:07:13.000Z"
-          }
-        ],
+        "sourceCount": 4,
+        "participantCount": 26,
+        "latestAt": "2026-11-17T14:54:10.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
         "related": [],
         "visual": {
           "entities": [
@@ -434,7 +545,35 @@
         }
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "id": "x6msqkehvwzry0904un629cqg",
+        "title": "Nvidia游说反对远程访问芯片管制，美商务部推进新规",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+        "aihotUrl": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+        "storyUrl": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe",
+        "sourceCount": 3,
+        "participantCount": 21,
+        "latestAt": "2026-11-17T11:03:33.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
         "id": "u36vxmxeopbsx4if4lap30899",
         "title": "腾讯混元 Hy4 flash 发布并接入多平台",
         "sourceName": "腾讯混元：Research（API）",
@@ -442,7 +581,7 @@
         "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
         "storyUrl": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3",
         "sourceCount": 9,
-        "participantCount": 26,
+        "participantCount": 28,
         "latestAt": "2026-11-17T09:38:07.000Z",
         "expanded": false,
         "latest": "",
@@ -462,7 +601,7 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 7,
         "id": "z7hs74i3gy5lelr41tobcp2vz",
         "title": "AMD宣布收购World Labs，李飞飞确认加入",
         "sourceName": "X：Fei-Fei Li (@drfeifei, World Labs)",
@@ -470,7 +609,7 @@
         "aihotUrl": "https://aihot.news/items/z7hs74i3gy5lelr41tobcp2vz",
         "storyUrl": "https://aihot.news/story/90fbec66-535f-474f-ac44-fcf2ccd28e38",
         "sourceCount": 3,
-        "participantCount": 19,
+        "participantCount": 21,
         "latestAt": "2026-11-16T17:15:00.000Z",
         "expanded": false,
         "latest": "",
@@ -490,72 +629,16 @@
         }
       },
       {
-        "rank": 6,
-        "id": "x6msqkehvwzry0904un629cqg",
-        "title": "Nvidia游说反对远程访问芯片管制，美商务部推进新规",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-        "aihotUrl": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
-        "storyUrl": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe",
-        "sourceCount": 2,
-        "participantCount": 13,
-        "latestAt": "2026-11-16T19:10:09.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
-        "id": "mkahdchhxfc4z36augopprdh9",
-        "title": "黄仁勋辞任英伟达CEO，业界关注继任与AI融资",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-        "aihotUrl": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
-        "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1",
-        "sourceCount": 2,
-        "participantCount": 14,
-        "latestAt": "2026-11-17T01:03:01.430Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
         "rank": 8,
-        "id": "yzjhilf6f2s4exh150c4paypo",
-        "title": "美商务部搁置将Megaspeed列入出口黑名单",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2120345806855348459",
-        "aihotUrl": "https://aihot.news/items/yzjhilf6f2s4exh150c4paypo",
-        "storyUrl": "https://aihot.news/story/b8056250-7988-49be-a8a0-4c9425a3b63c",
+        "id": "xywgx35ocbe6mzl2pnajw8ruu",
+        "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
         "sourceCount": 1,
-        "participantCount": 11,
-        "latestAt": "2026-11-17T05:08:52.000Z",
+        "participantCount": 18,
+        "latestAt": "2026-11-17T17:04:26.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -563,27 +646,27 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
             }
           ],
-          "caption": "热点",
+          "caption": "IPO",
           "author": null
         }
       },
       {
         "rank": 9,
-        "id": "x16jyhot9r3q6gmrs5gzjhyxb",
-        "title": "Corma获1.25亿美元A轮融资，估值10亿美元",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2122386603608060127",
-        "aihotUrl": "https://aihot.news/items/x16jyhot9r3q6gmrs5gzjhyxb",
-        "storyUrl": "https://aihot.news/story/1876f686-a6e0-498d-a334-5366c0817311",
-        "sourceCount": 2,
-        "participantCount": 13,
-        "latestAt": "2026-11-16T23:32:32.000Z",
+        "id": "lalae0v5suwygsce013970kb4",
+        "title": "NVIDIA董事会新设国家安全与出口管制监督委员会",
+        "sourceName": "NVIDIA：Newsroom（RSS）",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
+        "aihotUrl": "https://aihot.news/items/lalae0v5suwygsce013970kb4",
+        "storyUrl": "https://aihot.news/story/660af131-7796-42c8-9ef5-bd6b6d372142",
+        "sourceCount": 1,
+        "participantCount": 12,
+        "latestAt": "2026-11-17T10:00:00.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -591,10 +674,10 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
             }
           ],
           "caption": "热点",
@@ -610,7 +693,7 @@
         "aihotUrl": "https://aihot.news/items/of63oyzwqinzjr11tie2r9ww0",
         "storyUrl": "https://aihot.news/story/00595280-2d90-4865-b292-2b23e704705c",
         "sourceCount": 2,
-        "participantCount": 10,
+        "participantCount": 15,
         "latestAt": "2026-11-16T23:52:18.900Z",
         "expanded": false,
         "latest": "",
@@ -633,8 +716,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-17T11:02:14.046Z",
-    "nextCheckAt": 1794913634046,
+    "checkedAt": "2026-11-17T19:44:32.840Z",
+    "nextCheckAt": 1794944972840,
     "intervalSeconds": 300,
     "message": ""
   }
