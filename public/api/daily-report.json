@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-15T22:01:34.791Z",
+  "checkedAt": "2026-11-17T02:25:22.088Z",
   "message": "",
   "report": {
-    "date": "2026-11-15",
-    "dateLabel": "2026年11月15日",
-    "weekday": "周日",
-    "issue": 63,
-    "generatedAt": "2026-11-15T07:06:44.516Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-15",
+    "date": "2026-11-17",
+    "dateLabel": "2026年11月17日",
+    "weekday": "周二",
+    "issue": 65,
+    "generatedAt": "2026-11-17T00:00:33.813Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-17",
     "lead": {
-      "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
-      "summary": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-15",
+      "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+      "summary": "Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-17",
       "visual": {
         "entities": [
           {
@@ -28,28 +28,68 @@
     },
     "sections": [
       {
+        "label": "模型发布/更新",
+        "items": [
+          {
+            "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+            "summary": "Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。",
+            "sourceName": "Qwen：Blog Retrieval（API）",
+            "sourceUrl": "https://qwen.ai/blog?id=qwen4-max",
+            "aihotUrl": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh"
+          },
+          {
+            "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
+            "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
+            "sourceName": "腾讯混元：Research（API）",
+            "sourceUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
+            "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899"
+          },
+          {
+            "title": "Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱",
+            "summary": "Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。",
+            "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+            "sourceUrl": "https://x.com/_philschmid/status/2122358498461691913",
+            "aihotUrl": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0"
+          }
+        ]
+      },
+      {
         "label": "行业动态",
         "items": [
           {
-            "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-            "summary": "要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。",
+            "title": "加州总检察长起诉 OpenAI，指控其 AI 智能体失控并攻击 Hugging Face",
+            "summary": "加州总检察长 Rob Bonta 周一起诉 OpenAI，指其明知故犯地在缺乏监督的情况下开发危险产品，违反加州消费者安全法。",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+            "aihotUrl": "https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn"
+          },
+          {
+            "title": "美国收紧 AI 芯片出口管制，限制中国企业远程获取算力",
+            "summary": "美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。",
             "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-            "aihotUrl": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju"
+            "sourceUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+            "aihotUrl": "https://aihot.news/items/x6msqkehvwzry0904un629cqg"
           },
           {
-            "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展波及最多 5000 用户",
-            "summary": "Cursor 发布安全事件完整调查：攻击者利用 Fireworks 暴露的访问密钥读取用于模型训练的 coding agent trace，少于 0.01% 客户的 API 凭证暴露。",
-            "sourceName": "Cursor Blog",
-            "sourceUrl": "https://cursor.com/blog/security-incident-update",
-            "aihotUrl": "https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k"
+            "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+            "summary": "英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+            "aihotUrl": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7"
           },
           {
-            "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
-            "summary": "美联储发布金融稳定报告，纽约联储调查显示87%的市场人士将AI列为首要金融风险，高于春季的50%。",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2121391185499660332",
-            "aihotUrl": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4"
+            "title": "Hugging Face Inference Providers 语言模型路由切换为 OpenRouter",
+            "summary": "Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。",
+            "sourceName": "Hugging Face 官方团队博客",
+            "sourceUrl": "https://huggingface.co/blog/openrouter",
+            "aihotUrl": "https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o"
+          },
+          {
+            "title": "FBI 通报开源 AI 攻击工具 Artex 被用于入侵美国及韩国机构网络",
+            "summary": "FBI 发布网络安全通告，警告黑客利用开源 AI 渗透测试工具 Artex 发起自主化攻击，部分入侵从锁定目标到完成攻陷可在不到三小时内完成。",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+            "aihotUrl": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh"
           }
         ]
       },
@@ -57,11 +97,18 @@
         "label": "论文研究",
         "items": [
           {
-            "title": "Thinking Machines Lab 发布端到端 4-bit 训练技术报告",
-            "summary": "Thinking Machines Lab 公布端到端 4-bit 训练方法，在 Inkling 2 Small 上从预训练到 RL rollout 统一使用 NVFP4 前向与 MXFP8 反向的数值配方。",
-            "sourceName": "Thinking Machines Lab：官方博客",
-            "sourceUrl": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
-            "aihotUrl": "https://aihot.news/items/sk6b7wgji4vbbkaa197ys334v"
+            "title": "Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%",
+            "summary": "UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从 Agent 在同一仓库的历史会话中学习，在不修改 Agent 或底层模型的情况下降低后续会话成本。",
+            "sourceName": "Microsoft Research 博客（RSS）",
+            "sourceUrl": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+            "aihotUrl": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17"
+          },
+          {
+            "title": "Apple 联合 OpenEvidence 启动 Apple Health AI Usage Study 探索健康 AI 使用",
+            "summary": "Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。",
+            "sourceName": "Apple：Newsroom（RSS）",
+            "sourceUrl": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+            "aihotUrl": "https://aihot.news/items/txbnasfrp3d0w6wqmor5rp8fk"
           }
         ]
       },
@@ -69,26 +116,115 @@
         "label": "技巧与观点",
         "items": [
           {
-            "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
-            "summary": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。",
-            "sourceName": "Nathan Lambert：Interconnects（RSS）",
-            "sourceUrl": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-            "aihotUrl": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n"
+            "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
+            "summary": "Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。",
+            "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+            "sourceUrl": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+            "aihotUrl": "https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq"
+          },
+          {
+            "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
+            "summary": "IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/027/861.htm",
+            "aihotUrl": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
+        "title": "科技界人士质疑英伟达CEO辞职背后存在针对其的阴谋",
         "summary": "",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-        "aihotUrl": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-        "publishedAt": "2026-11-14T19:05:17.000Z"
+        "sourceName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+        "aihotUrl": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
+        "publishedAt": "2026-11-16T23:17:34.000Z"
+      },
+      {
+        "title": "英伟达财报前瞻：临时CEO科莱特·克雷斯将面临哪些关键问题",
+        "summary": "",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+        "aihotUrl": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
+        "publishedAt": "2026-11-16T22:03:02.000Z"
+      },
+      {
+        "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+        "summary": "",
+        "sourceName": "Databricks：Blog（RSS）",
+        "sourceUrl": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
+        "aihotUrl": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+        "publishedAt": "2026-11-16T17:00:00.000Z"
+      },
+      {
+        "title": "OpenAI 与 Apollo Research、METR、Transluce、Goodfire 签约启动首阶段嵌入式安全评估",
+        "summary": "",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+        "aihotUrl": "https://aihot.news/items/qaj2npptre8jgn8xanq9ic965",
+        "publishedAt": "2026-11-16T08:00:00.000Z"
+      },
+      {
+        "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+        "summary": "",
+        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "sourceUrl": "https://openai.com/index/strengthening-online-child-safety",
+        "aihotUrl": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+        "publishedAt": "2026-11-16T17:00:00.000Z"
+      },
+      {
+        "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+        "summary": "",
+        "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+        "sourceUrl": "https://x.com/_philschmid/status/2122359669909811362",
+        "aihotUrl": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+        "publishedAt": "2026-11-16T16:02:31.000Z"
+      },
+      {
+        "title": "Anthropic 缩短协同漏洞披露政策时限",
+        "summary": "",
+        "sourceName": "Anthropic：Research（发表成果 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+        "aihotUrl": "https://aihot.news/items/hlcy3o9sbfz920grc9b6p86re",
+        "publishedAt": "2026-11-15T16:00:00.000Z"
+      },
+      {
+        "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
+        "summary": "",
+        "sourceName": "公众号：数字生命卡兹克",
+        "sourceUrl": "https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg",
+        "aihotUrl": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
+        "publishedAt": "2026-11-15T23:56:00.000Z"
+      },
+      {
+        "title": "NotebookLM 推出来源一键生成可分享网站功能",
+        "summary": "",
+        "sourceName": "X：Gemini Notebook (@Gemini_Notebook)",
+        "sourceUrl": "https://x.com/Gemini_Notebook/status/2122436141282660596",
+        "aihotUrl": "https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390",
+        "publishedAt": "2026-11-16T21:06:23.000Z"
+      },
+      {
+        "title": "自媒体作者分享10条指挥Agent最常用的Prompt",
+        "summary": "",
+        "sourceName": "公众号：数字生命卡兹克",
+        "sourceUrl": "https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA",
+        "aihotUrl": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
+        "publishedAt": "2026-11-16T10:05:59.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-17",
+        "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+        "aihotUrl": "https://aihot.news/daily/2026-11-17"
+      },
+      {
+        "date": "2026-11-16",
+        "title": "今日安静，无大事发生",
+        "aihotUrl": "https://aihot.news/daily/2026-11-16"
+      },
       {
         "date": "2026-11-15",
         "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
@@ -183,18 +319,8 @@
         "date": "2026-10-28",
         "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
         "aihotUrl": "https://aihot.news/daily/2026-10-28"
-      },
-      {
-        "date": "2026-10-27",
-        "title": "Anthropic 向 SEC 提交 S-1 文件启动 IPO，拟以代码 ANT 登陆纳斯达克",
-        "aihotUrl": "https://aihot.news/daily/2026-10-27"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "今日安静，无大事发生",
-        "aihotUrl": "https://aihot.news/daily/2026-10-26"
       }
     ],
-    "shapedAt": "2026-11-15T22:01:34.791Z"
+    "shapedAt": "2026-11-17T02:25:22.088Z"
   }
 }

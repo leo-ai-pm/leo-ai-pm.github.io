@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-15T22:01:28.949Z",
-      "lastSuccessAt": "2026-11-15T22:01:28.949Z",
-      "nextCheckAt": 1794783688949,
+      "checkedAt": "2026-11-17T02:25:05.254Z",
+      "lastSuccessAt": "2026-11-17T02:25:05.254Z",
+      "nextCheckAt": 1794885905254,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-17T02:25:05.256Z",
+      "lastSuccessAt": "2026-11-17T02:25:05.256Z",
+      "nextCheckAt": 1794885905256,
       "status": "ok",
-      "nextCheckAt": 1794783688950,
-      "checkedAt": "2026-11-15T22:01:28.950Z",
-      "lastSuccessAt": "2026-11-15T22:01:28.950Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-15T22:01:28.951Z",
-      "lastSuccessAt": "2026-11-15T22:01:28.951Z",
-      "nextCheckAt": 1794783688951,
+      "checkedAt": "2026-11-17T02:25:05.257Z",
+      "lastSuccessAt": "2026-11-17T02:25:05.257Z",
+      "nextCheckAt": 1794885905257,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-17T02:25:05.435Z",
+      "lastSuccessAt": "2026-11-17T02:25:05.435Z",
+      "nextCheckAt": 1794885905435,
       "status": "ok",
-      "nextCheckAt": 1794783689082,
-      "checkedAt": "2026-11-15T22:01:29.082Z",
-      "lastSuccessAt": "2026-11-15T22:01:29.082Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,108 +90,27 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794783688949,
+  "nextCheckAt": 1794885905254,
   "refreshing": false,
   "items": [
     {
-      "id": "ph:https://www.producthunt.com/products/agentgrid-io",
-      "title": "Canvas by AgentGrid.io",
-      "summary": "Agentic Design Canvas - A visual way to collaborate with AI",
-      "publishedAt": "2026-11-15T06:22:09.000Z",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "id": "woshipm:https://www.woshipm.com/ai/6494843.html",
+      "title": "下一个Obsidian！FlowUs 把 AI Agent 玩明白了",
+      "summary": "被叫了几年「国产版 Obsidian」的 FlowUs 息流，这轮把 AI Agent 铺到了全流程。作者把十几篇英伟达相关研报丢进去做压力测试，从剪藏、归纳到生成一份可点击的交互式 HTML 报告。 这两天跟 FlowUs 息流的创始人聊天，他们团队正好邀我内测一下刚上线的全套 AI Agent 新功能。 说起 FlowUs 息流，经常折腾效率工具的朋友应该都不陌生。 它不是那种刚冒出来的新概念产品，从 2021 年到现在已经低调迭代",
+      "publishedAt": "2026-11-17T01:47:28.000Z",
+      "url": "https://www.woshipm.com/ai/6494843.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-        "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/agentgrid-io",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Agentic Design Canvas - A visual way to collaborate with AI",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/perit-marketplace",
-      "title": "Perit Marketplace",
-      "summary": "Sell your data and RL tasks to frontier AI labs",
-      "publishedAt": "2026-11-15T05:04:05.000Z",
-      "url": "https://www.producthunt.com/products/perit-marketplace",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/perit-marketplace",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Sell your data and RL tasks to frontier AI labs",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6494057.html",
-      "title": "OpenAI再次解散机器人团队：GPT-6太强，决定All in通用模型",
-      "summary": "英伟达一场仿真测试里，GPT-6 Astra 一天都没练过，只靠摄像头画面、机器人状态和一根控制线，就把机械臂任务成功率做到 74.8%，真机苦练的专用策略最高才 51%。同一周，OpenAI 向《财富》确认撤销独立机器人团队。 机器人行业过去有一条很清晰的分工：通用模型负责理解指令，机器人模型负责把视觉、状态和动作对应起来，底层控制器再保证机械臂不会撞上东西。现在这条边界正在变薄。 一项英伟达 10 月公布的仿真测试中，GPT-6 A",
-      "publishedAt": "2026-11-15T03:16:53.000Z",
-      "url": "https://www.woshipm.com/ai/6494057.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -203,27 +122,27 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6494057.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6494843.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "英伟达一场仿真测试里，GPT-6 Astra 一天都没练过，只靠摄像头画面、机器人状态和一根控制线，就把机械臂任务成功率做到 74.8%，真机苦练的专用策略最高才 51%。同一周，OpenAI 向《财富》确认撤销独立机器人团队。 机器人行业过去有一条很清晰的分工：通用模型负责理解指令，机器人模型负责把视觉、状态和动作对应起来，底层控制器再保证机械臂不会撞上东西。现在这条边界正在变薄。 一项英伟达 10 月公布的仿真测试中，GPT-6 A",
+      "brief": "被叫了几年「国产版 Obsidian」的 FlowUs 息流，这轮把 AI Agent 铺到了全流程。作者把十几篇英伟达相关研报丢进去做压力测试，从剪藏、归纳到生成一份可点击的交互式 HTML 报告。 这两天跟 FlowUs 息流的创始人聊天，他们团队正好邀我内测一下刚上线的全套 AI Agent 新功能。 说起 FlowUs 息流，经常折腾效率工具的朋友应该都不陌生。 它不是那种刚冒出来的新概念产品，从 2021 年到现在已经低调迭代",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6493965.html",
-      "title": "Anthropic刚教的24小时agent，我当天做出来了",
-      "summary": "10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 FanBox 里做了一版，随 2.20.0 发布：agent 停下等你，手机收到它一句话。 一、背景 这篇文章的缘起呢，是最近看到的两篇非常好的关于agent系统设计的文章。 10月31日，DeepSeek Harness团队发了一篇《Super-agent设计探索：",
-      "publishedAt": "2026-11-14T07:30:26.000Z",
-      "url": "https://www.woshipm.com/ai/6493965.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6492845.html",
+      "title": "从Vibe Video到Vibe World，Claude、GPT与视频模型争当“造物主”？",
+      "summary": "从GPT-6 Astra调度专业软件到Claude Fable 5.2用代码直接生成可玩的3D游戏，通用大模型正加速闯入3D内容生产。与此同时，Seedance等视频模型也在向实时交互空间延伸。两条路线交汇，AI创作的竞争已从视频生成升级为游戏与互动世界的入口争夺。 9月，GPT-6 Astra和Claude Opus 5.5在视频创作领域展现出令人意外的能力，带火了一轮Vibe Video热潮。 Opus 5.5让创作者看到，只用一句",
+      "publishedAt": "2026-11-17T01:08:23.000Z",
+      "url": "https://www.woshipm.com/ai/6492845.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -244,27 +163,27 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6493965.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6492845.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 FanBox 里做了一版，随 2.20.0 发布：agent 停下等你，手机收到它一句话。 一、背景 这篇文章的缘起呢，是最近看到的两篇非常好的关于agent系统设计的文章。 10月31日，DeepSeek Harness团队发了一篇《Super-agent设计探索：",
+      "brief": "从GPT-6 Astra调度专业软件到Claude Fable 5.2用代码直接生成可玩的3D游戏，通用大模型正加速闯入3D内容生产。与此同时，Seedance等视频模型也在向实时交互空间延伸。两条路线交汇，AI创作的竞争已从视频生成升级为游戏与互动世界的入口争夺。 9月，GPT-6 Astra和Claude Opus 5.5在视频创作领域展现出令人意外的能力，带火了一轮Vibe Video热潮。 Opus 5.5让创作者看到，只用一句",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
+      "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6493967.html",
-      "title": "开源/10秒出4K/超长文本/… 我实测出了MiniMax H3-Image擅长的四类新玩法",
-      "summary": "MiniMax H3 Image 发布当天开源，10 秒出 4K，Mcode 与 API 都能直接调。作者烧掉 5 万积分，按分镜与解构爆炸图、3A 游戏与动漫资产、超长文本排版、跨风格融合四类跑了 12 组实测，每组附提示语。 就这两天，GoodCase突然一股脑涌进来几十条AI生图的高赞投稿， 我一开始还在想大家是不是又拿哪个模型琢磨出什么新玩法，想点进去看看能不能打包成skill。 里面不仅有复古网页捏人界面，严丝合缝的机甲三视图",
-      "publishedAt": "2026-11-14T07:26:33.000Z",
-      "url": "https://www.woshipm.com/ai/6493967.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6494634.html",
+      "title": "Workbuddy 实测腾讯 Hy4 flash：给马斯克做一个最牛逼的网站！竟然没花钱？",
+      "summary": "用 Hy4 flash 在 WorkBuddy 里给马斯克做了个网站，从信源整理到页面开发全程没花钱。作者把过程拆成几轮对话，也顺手验证了这版模型在长任务里能不能自己纠错、把活干完。 今天，腾讯 Hy4 flash 正式发布，我试着用这个模型给马斯克做了一个网站。 https://elon.qiaomu.ai/ 马斯克虽然有很多缺点，但最近看到的两件事，让我对他非常敬佩，忍不住想做这个网站。 第一个是黄仁勋出事，X 刷到很多墙倒众人推的",
+      "publishedAt": "2026-11-16T12:03:51.000Z",
+      "url": "https://www.woshipm.com/ai/6494634.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -284,23 +203,103 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6493967.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6494634.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "MiniMax H3 Image 发布当天开源，10 秒出 4K，Mcode 与 API 都能直接调。作者烧掉 5 万积分，按分镜与解构爆炸图、3A 游戏与动漫资产、超长文本排版、跨风格融合四类跑了 12 组实测，每组附提示语。 就这两天，GoodCase突然一股脑涌进来几十条AI生图的高赞投稿， 我一开始还在想大家是不是又拿哪个模型琢磨出什么新玩法，想点进去看看能不能打包成skill。 里面不仅有复古网页捏人界面，严丝合缝的机甲三视图",
+      "brief": "用 Hy4 flash 在 WorkBuddy 里给马斯克做了个网站，从信源整理到页面开发全程没花钱。作者把过程拆成几轮对话，也顺手验证了这版模型在长任务里能不能自己纠错、把活干完。 今天，腾讯 Hy4 flash 正式发布，我试着用这个模型给马斯克做了一个网站。 https://elon.qiaomu.ai/ 马斯克虽然有很多缺点，但最近看到的两件事，让我对他非常敬佩，忍不住想做这个网站。 第一个是黄仁勋出事，X 刷到很多墙倒众人推的",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "n8n:https://blog.n8n.io/ai-made-integrations-the-vendors-problem/",
+      "title": "AI made integrations the vendor’s problem",
+      "summary": "In the second iteration of the AI Agent Development Tools report, I replaced the integrability axis with enterprise-readiness. I wanted this to signify the departure from 2020-style IPaaS. With MCP getting traction to th",
+      "publishedAt": "2026-11-16T10:17:32.000Z",
+      "url": "https://blog.n8n.io/ai-made-integrations-the-vendors-problem/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/ai-made-integrations-the-vendors-problem/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "In the second iteration of the AI Agent Development Tools report, I replaced the integrability axis with enterprise-readiness. I wanted this to signify the departure from 2020-style IPaaS. With MCP getting traction to th",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/byteask-cloud-agents",
-      "title": "ByteAsk Cloud Agents",
-      "summary": "Find the fix in big codebases. Ship it from Slack.",
-      "publishedAt": "2026-11-14T06:54:44.000Z",
-      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "id": "ph:https://www.producthunt.com/products/bytevoice",
+      "title": "ByteVoice",
+      "summary": "Talk to your coding agents and hear them back",
+      "publishedAt": "2026-11-16T01:45:10.000Z",
+      "url": "https://www.producthunt.com/products/bytevoice",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/bytevoice",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Talk to your coding agents and hear them back",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/stateweave",
+      "title": "StateWeave",
+      "summary": "Test your AI agent on working clones of the apps it uses",
+      "publishedAt": "2026-11-15T20:32:35.000Z",
+      "url": "https://www.producthunt.com/products/stateweave",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -324,11 +323,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "sourceUrl": "https://www.producthunt.com/products/stateweave",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Find the fix in big codebases. Ship it from Slack.",
+      "brief": "Test your AI agent on working clones of the apps it uses",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/puffin-2",
+      "title": "Puffin",
+      "summary": "Identity and inboxes for AI agents",
+      "publishedAt": "2026-11-15T19:51:59.000Z",
+      "url": "https://www.producthunt.com/products/puffin-2",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/puffin-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Identity and inboxes for AI agents",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -489,47 +528,6 @@
       "category": "工作流与实践",
       "platform": "英文官方博客",
       "brief": "Learn batch processing patterns for scalable workflows, including chunking, rate limits, retries. Discover the tools that put these patterns into practice.",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/build-safer-n8n-agents-and-workflows-with-google-gemini-4-carbon/",
-      "title": "Build Safer n8n Agents and Workflows with Google Gemini 4 Carbon",
-      "summary": "Gemini 4 Carbon is out and it's now available in n8n. Google is calling it its strongest model yet, with big gains in coding, long-running agentic work and cybersecurity. In Google's results, it posts a 53.9% on Automati",
-      "publishedAt": "2026-11-10T16:43:11.000Z",
-      "url": "https://blog.n8n.io/build-safer-n8n-agents-and-workflows-with-google-gemini-4-carbon/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/build-safer-n8n-agents-and-workflows-with-google-gemini-4-carbon/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Gemini 4 Carbon is out and it's now available in n8n. Google is calling it its strongest model yet, with big gains in coding, long-running agentic work and cybersecurity. In Google's results, it posts a 53.9% on Automati",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
