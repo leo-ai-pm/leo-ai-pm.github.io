@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-18T01:53:27.206Z",
+  "checkedAt": "2026-11-18T10:00:52.560Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,76 @@
     }
   ],
   "today": [
+    {
+      "id": "sah26a5ofgvrxd76bgj9t77wf",
+      "title": "OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异",
+      "reason": "作者作为当事方解释 6.2 Sol/Astra 评测视频与现场反馈差异的原因，读者可以据此校准上周视频结论的时效性。",
+      "summary": "Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "sourceUrl": "https://x.com/thsottiaux/status/2122929634916679820",
+      "aihotUrl": "https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf",
+      "publishedAt": "2026-11-18T05:47:21.000Z",
+      "timeBasis": "published",
+      "category": "opinion",
+      "categoryLabel": "动态",
+      "unselected": false
+    },
+    {
+      "id": "ad6k5zphfq44bxu1y7tb8t0ng",
+      "title": "Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认",
+      "reason": "转述了 Semafor 的独家报道，给出董事会章程细节与 CEO 候选人名单，读者可以了解这场人事博弈的进展。",
+      "summary": "Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致接受黄仁勋的辞职且无意让他复任 CEO，部分董事仍在推动其回归。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2122922693662245298",
+      "aihotUrl": "https://aihot.news/items/ad6k5zphfq44bxu1y7tb8t0ng",
+      "publishedAt": "2026-11-18T05:19:46.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "znj4uw6kr9vt4uij9fmao9p00",
+      "title": "Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务",
+      "reason": "原文记录了 Nvidia 临时 CEO 与董事会在财报电话会后的公开表态，可直接了解黄仁勋去留的官方口径。",
+      "summary": "Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2122925474485870983",
+      "aihotUrl": "https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00",
+      "publishedAt": "2026-11-18T05:30:49.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "ei7hom06r7wgtedvkl2eqbofp",
+      "title": "腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本",
+      "reason": "腾讯官方公布 Hy4 flash 开放权重的关键规格与下载入口，读者可直接查看 Hugging Face 和 GitHub 获取模型。",
+      "summary": "腾讯混元宣布 Hy4 flash 开放权重，包含 Hy4 flash-FP8 和 Hy4 flash-Base 两个版本。",
+      "sourceName": "X：腾讯混元 (@TencentHunyuan)",
+      "sourceUrl": "https://x.com/TencentHunyuan/status/2122912575302119554",
+      "aihotUrl": "https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp",
+      "publishedAt": "2026-11-18T04:39:34.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
+    {
+      "id": "snkvsiff90slvj17hf9i5u4do",
+      "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
+      "reason": "作者复盘了上线前用 Claude 持续压测并自修复的两周流程，给出了可迁移的具体做法和小规模成本参考。",
+      "summary": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。",
+      "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "sourceUrl": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+      "aihotUrl": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "hpczcbqe8agr7jffko2cnsp31",
       "title": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
@@ -83,9 +153,9 @@
     },
     {
       "id": "r30kdvujcakiutm7umgxmije7",
-      "title": "Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）",
-      "reason": "原文给出漏洞成因、影响范围和可执行的检测命令与 JVM 缓解参数，运维团队可据此排查和处置。",
-      "summary": "2026 年 11 月 17 日披露的 OpenJDK 关键 RCE 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码的汇编代码在处理结尾填充字符时输出数组边界计算下溢，导致堆内存越界写入，已证实可对 Jenkins、Confluence、Apache Tomcat 等实现…",
+      "title": "Wiz 解析 OpenJDK 高危漏洞 CVE-2026-114938（Java4Shell）：AVX-512 Base64 解码可致远程代码执行",
+      "reason": "原文基于自有研究数据给出漏洞成因、受影响范围和可执行的临时规避参数，读者可以据此排查自己的环境。",
+      "summary": "2026年11月17日披露的 OpenJDK 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码汇编代码对末尾填充字符计算错误导致堆内存越界写，可被未认证攻击者远程利用。",
       "sourceName": "Wiz：Research（安全研究）",
       "sourceUrl": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk",
       "aihotUrl": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7",
@@ -208,20 +278,6 @@
       "unselected": false
     },
     {
-      "id": "y7f42y59ahf4hjlf4ptoprfq3",
-      "title": "Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案",
-      "reason": "官方主题演讲给出各模型相对竞品的价格与性能对比数字，并宣布可控权重的 Licensed Weights 交付方式，便于评估成本取舍。",
-      "summary": "微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。",
-      "sourceName": "Microsoft AI：官方博客（RSS）",
-      "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/",
-      "aihotUrl": "https://aihot.news/items/y7f42y59ahf4hjlf4ptoprfq3",
-      "publishedAt": "2026-11-17T18:14:55.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "e4x7s78pcoe8yhieqmns68q0g",
       "title": "OpenClaw 上线 OpenAI GPT-6.2 Astra 和 Sol 模型",
       "reason": "原文说明 OpenClaw 已可用 GPT-6.2 Astra 和 Sol，并给出所需版本，老用户可据此判断是否需要升级。",
@@ -265,9 +321,9 @@
     },
     {
       "id": "c3qj65urfo345mc80xz5jdefb",
-      "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
-      "reason": "原文给出具体基准与成本对比数据，读者可据此评估这两款模型是否适合替代现有主力编码模型。",
-      "summary": "Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。",
+      "title": "Microsoft AI 发布编码模型 MAI Code 2 与 MAI Code 2 Flash",
+      "reason": "官方给出与 GPT、Claude 系列对比的性能和成本数字及适用边界，读者可据此评估日常编码任务的选型。",
+      "summary": "Microsoft AI 在 Ignite 发布 MAI Code 2 和 MAI Code 2 Flash 两款面向企业日常编码的模型。",
       "sourceName": "Microsoft AI：官方博客（RSS）",
       "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
       "aihotUrl": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
@@ -279,9 +335,9 @@
     },
     {
       "id": "eewx1bbnzfmbj6r40v7b6s6nb",
-      "title": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起",
-      "reason": "官方给出了与 GPT Realtime 2.1 的基准对比、定价细节和企业接入方式，读者可以据此评估语音 Agent 的成本与选型。",
-      "summary": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 每分钟音频，称其在 Big Bench Audio 和 τ-Voice 基准上于质量、速度和价格上超过 GPT Realtime 2.1。",
+      "title": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每音频分钟",
+      "reason": "官方公布了定价、基准对比和 API 兼容性细节，读者可以据此评估它在语音 Agent 场景的实际成本与迁移成本。",
+      "summary": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起价 $0.01 每音频分钟，称在公开基准和内部评测中质量、速度和价格均优于 GPT Realtime 2.1，处于 Big Bench Audio 语音推理和 τ-Voice 智能体任务完成基准的性能价格 Pareto 前沿。",
       "sourceName": "Microsoft AI：官方博客（RSS）",
       "sourceUrl": "https://microsoft.ai/news/introducing-mai-realtime-1/",
       "aihotUrl": "https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb",
@@ -292,14 +348,14 @@
       "unselected": false
     },
     {
-      "id": "ieg99wyo1b6jy175yrk029b0j",
-      "title": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
-      "reason": "官方公布了排名、价格和开放入口，读者可以据此比较它相对竞品的成本与编辑能力。",
-      "summary": "Microsoft AI 发布 MAI Image 2.7 和 MAI Image 2.7 Flash，主打低成本的前沿图像生成与编辑，并同步推出由 Flash 驱动的交互工作区 Canvas。",
+      "id": "z9zhvfj8o8zp2yp433eizf3uk",
+      "title": "Microsoft MAI 发布七个新模型，主打价格性能比",
+      "reason": "官方一次性列出七个新模型在各自基准上的对标成绩和定价，读者可以直接比较这些模型与竞品的价格性能差。",
+      "summary": "Microsoft MAI 在 Ignite 2026 发布七个新模型，涵盖网络安全防御、编码、图像、实时语音、转录与决策路由。",
       "sourceName": "Microsoft AI：官方博客（RSS）",
-      "sourceUrl": "https://microsoft.ai/news/introducing-mai-image-2-7/",
-      "aihotUrl": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
-      "publishedAt": "2026-11-17T18:16:36.000Z",
+      "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "aihotUrl": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk",
+      "publishedAt": "2026-11-17T18:16:05.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -500,23 +556,23 @@
       "category": "paper",
       "categoryLabel": "论文",
       "unselected": false
-    },
-    {
-      "id": "t48n0jqxc0g3hsc324hlwhlhk",
-      "title": "OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型",
-      "reason": "OpenAI 官方公布 Daybreak 在 NATO 及多国网防机构的实际用量与漏洞产出，可据此了解前沿模型在授权安全工作中的落地方式。",
-      "summary": "OpenAI 宣布通过 Daybreak 工具向 NATO 及盟国网络防御机构提供先进网络安全模型，用于审查软件、调查可疑活动和验证漏洞。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "aihotUrl": "https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
     }
   ],
   "week": [
+    {
+      "id": "ei7hom06r7wgtedvkl2eqbofp",
+      "title": "腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本",
+      "reason": "腾讯官方公布 Hy4 flash 开放权重的关键规格与下载入口，读者可直接查看 Hugging Face 和 GitHub 获取模型。",
+      "summary": "腾讯混元宣布 Hy4 flash 开放权重，包含 Hy4 flash-FP8 和 Hy4 flash-Base 两个版本。",
+      "sourceName": "X：腾讯混元 (@TencentHunyuan)",
+      "sourceUrl": "https://x.com/TencentHunyuan/status/2122912575302119554",
+      "aihotUrl": "https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp",
+      "publishedAt": "2026-11-18T04:39:34.000Z",
+      "timeBasis": "published",
+      "category": "ai-models",
+      "categoryLabel": "模型",
+      "unselected": false
+    },
     {
       "id": "n125mhueen4ul4elntsa1kk1v",
       "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
@@ -546,24 +602,10 @@
       "unselected": false
     },
     {
-      "id": "y7f42y59ahf4hjlf4ptoprfq3",
-      "title": "Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案",
-      "reason": "官方主题演讲给出各模型相对竞品的价格与性能对比数字，并宣布可控权重的 Licensed Weights 交付方式，便于评估成本取舍。",
-      "summary": "微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。",
-      "sourceName": "Microsoft AI：官方博客（RSS）",
-      "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/",
-      "aihotUrl": "https://aihot.news/items/y7f42y59ahf4hjlf4ptoprfq3",
-      "publishedAt": "2026-11-17T18:14:55.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "c3qj65urfo345mc80xz5jdefb",
-      "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
-      "reason": "原文给出具体基准与成本对比数据，读者可据此评估这两款模型是否适合替代现有主力编码模型。",
-      "summary": "Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。",
+      "title": "Microsoft AI 发布编码模型 MAI Code 2 与 MAI Code 2 Flash",
+      "reason": "官方给出与 GPT、Claude 系列对比的性能和成本数字及适用边界，读者可据此评估日常编码任务的选型。",
+      "summary": "Microsoft AI 在 Ignite 发布 MAI Code 2 和 MAI Code 2 Flash 两款面向企业日常编码的模型。",
       "sourceName": "Microsoft AI：官方博客（RSS）",
       "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
       "aihotUrl": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
@@ -575,9 +617,9 @@
     },
     {
       "id": "eewx1bbnzfmbj6r40v7b6s6nb",
-      "title": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起",
-      "reason": "官方给出了与 GPT Realtime 2.1 的基准对比、定价细节和企业接入方式，读者可以据此评估语音 Agent 的成本与选型。",
-      "summary": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 每分钟音频，称其在 Big Bench Audio 和 τ-Voice 基准上于质量、速度和价格上超过 GPT Realtime 2.1。",
+      "title": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每音频分钟",
+      "reason": "官方公布了定价、基准对比和 API 兼容性细节，读者可以据此评估它在语音 Agent 场景的实际成本与迁移成本。",
+      "summary": "Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起价 $0.01 每音频分钟，称在公开基准和内部评测中质量、速度和价格均优于 GPT Realtime 2.1，处于 Big Bench Audio 语音推理和 τ-Voice 智能体任务完成基准的性能价格 Pareto 前沿。",
       "sourceName": "Microsoft AI：官方博客（RSS）",
       "sourceUrl": "https://microsoft.ai/news/introducing-mai-realtime-1/",
       "aihotUrl": "https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb",
@@ -588,14 +630,14 @@
       "unselected": false
     },
     {
-      "id": "ieg99wyo1b6jy175yrk029b0j",
-      "title": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
-      "reason": "官方公布了排名、价格和开放入口，读者可以据此比较它相对竞品的成本与编辑能力。",
-      "summary": "Microsoft AI 发布 MAI Image 2.7 和 MAI Image 2.7 Flash，主打低成本的前沿图像生成与编辑，并同步推出由 Flash 驱动的交互工作区 Canvas。",
+      "id": "z9zhvfj8o8zp2yp433eizf3uk",
+      "title": "Microsoft MAI 发布七个新模型，主打价格性能比",
+      "reason": "官方一次性列出七个新模型在各自基准上的对标成绩和定价，读者可以直接比较这些模型与竞品的价格性能差。",
+      "summary": "Microsoft MAI 在 Ignite 2026 发布七个新模型，涵盖网络安全防御、编码、图像、实时语音、转录与决策路由。",
       "sourceName": "Microsoft AI：官方博客（RSS）",
-      "sourceUrl": "https://microsoft.ai/news/introducing-mai-image-2-7/",
-      "aihotUrl": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
-      "publishedAt": "2026-11-17T18:16:36.000Z",
+      "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "aihotUrl": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk",
+      "publishedAt": "2026-11-17T18:16:05.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -742,6 +784,34 @@
       "unselected": false
     },
     {
+      "id": "ad6k5zphfq44bxu1y7tb8t0ng",
+      "title": "Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认",
+      "reason": "转述了 Semafor 的独家报道，给出董事会章程细节与 CEO 候选人名单，读者可以了解这场人事博弈的进展。",
+      "summary": "Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致接受黄仁勋的辞职且无意让他复任 CEO，部分董事仍在推动其回归。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2122922693662245298",
+      "aihotUrl": "https://aihot.news/items/ad6k5zphfq44bxu1y7tb8t0ng",
+      "publishedAt": "2026-11-18T05:19:46.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "znj4uw6kr9vt4uij9fmao9p00",
+      "title": "Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务",
+      "reason": "原文记录了 Nvidia 临时 CEO 与董事会在财报电话会后的公开表态，可直接了解黄仁勋去留的官方口径。",
+      "summary": "Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2122925474485870983",
+      "aihotUrl": "https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00",
+      "publishedAt": "2026-11-18T05:30:49.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "hpczcbqe8agr7jffko2cnsp31",
       "title": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
       "reason": "转述 WSJ 报道，给出 IPO 定价区间上调和 Google、Nvidia 各约 $10B 认购等具体数字，便于跟踪 Anthropic 估值走向。",
@@ -799,9 +869,9 @@
     },
     {
       "id": "r30kdvujcakiutm7umgxmije7",
-      "title": "Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）",
-      "reason": "原文给出漏洞成因、影响范围和可执行的检测命令与 JVM 缓解参数，运维团队可据此排查和处置。",
-      "summary": "2026 年 11 月 17 日披露的 OpenJDK 关键 RCE 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码的汇编代码在处理结尾填充字符时输出数组边界计算下溢，导致堆内存越界写入，已证实可对 Jenkins、Confluence、Apache Tomcat 等实现…",
+      "title": "Wiz 解析 OpenJDK 高危漏洞 CVE-2026-114938（Java4Shell）：AVX-512 Base64 解码可致远程代码执行",
+      "reason": "原文基于自有研究数据给出漏洞成因、受影响范围和可执行的临时规避参数，读者可以据此排查自己的环境。",
+      "summary": "2026年11月17日披露的 OpenJDK 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码汇编代码对末尾填充字符计算错误导致堆内存越界写，可被未认证攻击者远程利用。",
       "sourceName": "Wiz：Research（安全研究）",
       "sourceUrl": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk",
       "aihotUrl": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7",
@@ -820,34 +890,6 @@
       "sourceUrl": "https://x.com/rohanpaul_ai/status/2122812619379900579",
       "aihotUrl": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
       "publishedAt": "2026-11-17T22:02:23.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "ko07avibxdjfqycfyj5i04c0e",
-      "title": "WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任",
-      "reason": "原文汇总了 SEC 民事调查、新加坡收入披露调整和财政部限期说明三项事实，可帮读者快速把握 Nvidia 面临的监管压力全貌。",
-      "summary": "据 WSJ，SEC 正以民事调查核实 Nvidia 的披露是否误导投资者，图片中的 WSJ 标题显示此事发生于 CEO 黄仁勋离任之际。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2122804149503033606",
-      "aihotUrl": "https://aihot.news/items/ko07avibxdjfqycfyj5i04c0e",
-      "publishedAt": "2026-11-17T21:28:43.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "usw3l00k4sgas3w8v3496sqaw",
-      "title": "Jensen Huang 发声明回应离职风波并表态愿在董事会决定下回归 NVIDIA CEO",
-      "reason": "",
-      "summary": "Jim Fan 转发并附 💚💚💚 FTW。",
-      "sourceName": "X：Jim Fan (@DrJimFan)",
-      "sourceUrl": "https://x.com/DrJimFan/status/2122727208754254245",
-      "aihotUrl": "https://aihot.news/items/usw3l00k4sgas3w8v3496sqaw",
-      "publishedAt": "2026-11-17T16:22:59.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -966,6 +1008,20 @@
       "unselected": false
     },
     {
+      "id": "snkvsiff90slvj17hf9i5u4do",
+      "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
+      "reason": "作者复盘了上线前用 Claude 持续压测并自修复的两周流程，给出了可迁移的具体做法和小规模成本参考。",
+      "summary": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。",
+      "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "sourceUrl": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+      "aihotUrl": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "jy89axg8rd82ugct5uwh5psaq",
       "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
       "reason": "Claude Code 团队披露内部约 90% 代码由 Claude 写成时的验证方法，E2E、属性、差分三类测试与验证门禁流程可直接迁移到自己的 Agent 工作流。",
@@ -1062,20 +1118,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "cve017k4le2q7l8x1bfr2xdjx",
-      "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
-      "reason": "原文完整披露了自校验本地化流水线的设计、评测数据和成本对比，其指纹重排与代码前置检查方法可直接迁移。",
-      "summary": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/",
-      "aihotUrl": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -1085,6 +1127,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "snkvsiff90slvj17hf9i5u4do",
+          "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
+          "reason": "作者复盘了上线前用 Claude 持续压测并自修复的两周流程，给出了可迁移的具体做法和小规模成本参考。",
+          "summary": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。",
+          "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "sourceUrl": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+          "aihotUrl": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
+          "publishedAt": "2026-11-17T12:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "ekt4wsp34savbuzq0vafnlhpw",
           "title": "Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据",
@@ -1111,20 +1167,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "y7f42y59ahf4hjlf4ptoprfq3",
-          "title": "Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案",
-          "reason": "官方主题演讲给出各模型相对竞品的价格与性能对比数字，并宣布可控权重的 Licensed Weights 交付方式，便于评估成本取舍。",
-          "summary": "微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。",
-          "sourceName": "Microsoft AI：官方博客（RSS）",
-          "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/",
-          "aihotUrl": "https://aihot.news/items/y7f42y59ahf4hjlf4ptoprfq3",
-          "publishedAt": "2026-11-17T18:14:55.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         },
         {
@@ -1157,9 +1199,9 @@
         },
         {
           "id": "c3qj65urfo345mc80xz5jdefb",
-          "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
-          "reason": "原文给出具体基准与成本对比数据，读者可据此评估这两款模型是否适合替代现有主力编码模型。",
-          "summary": "Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。",
+          "title": "Microsoft AI 发布编码模型 MAI Code 2 与 MAI Code 2 Flash",
+          "reason": "官方给出与 GPT、Claude 系列对比的性能和成本数字及适用边界，读者可据此评估日常编码任务的选型。",
+          "summary": "Microsoft AI 在 Ignite 发布 MAI Code 2 和 MAI Code 2 Flash 两款面向企业日常编码的模型。",
           "sourceName": "Microsoft AI：官方博客（RSS）",
           "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
           "aihotUrl": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
@@ -1221,13 +1263,27 @@
         },
         {
           "id": "c3qj65urfo345mc80xz5jdefb",
-          "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
-          "reason": "原文给出具体基准与成本对比数据，读者可据此评估这两款模型是否适合替代现有主力编码模型。",
-          "summary": "Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。",
+          "title": "Microsoft AI 发布编码模型 MAI Code 2 与 MAI Code 2 Flash",
+          "reason": "官方给出与 GPT、Claude 系列对比的性能和成本数字及适用边界，读者可据此评估日常编码任务的选型。",
+          "summary": "Microsoft AI 在 Ignite 发布 MAI Code 2 和 MAI Code 2 Flash 两款面向企业日常编码的模型。",
           "sourceName": "Microsoft AI：官方博客（RSS）",
           "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
           "aihotUrl": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
           "publishedAt": "2026-11-17T18:15:16.000Z",
+          "timeBasis": "published",
+          "category": "ai-models",
+          "categoryLabel": "模型",
+          "unselected": false
+        },
+        {
+          "id": "z9zhvfj8o8zp2yp433eizf3uk",
+          "title": "Microsoft MAI 发布七个新模型，主打价格性能比",
+          "reason": "官方一次性列出七个新模型在各自基准上的对标成绩和定价，读者可以直接比较这些模型与竞品的价格性能差。",
+          "summary": "Microsoft MAI 在 Ignite 2026 发布七个新模型，涵盖网络安全防御、编码、图像、实时语音、转录与决策路由。",
+          "sourceName": "Microsoft AI：官方博客（RSS）",
+          "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "aihotUrl": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk",
+          "publishedAt": "2026-11-17T18:16:05.000Z",
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
@@ -1246,20 +1302,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "ctdbuq2r9l6dakhxrm4pmd8ru",
-          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
-          "reason": "原文基于万家企业真实用量给出模型采用、开放权重份额与单任务成本数据，可帮助读者判断选型与预算策略。",
-          "summary": "Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。",
-          "sourceName": "Databricks：Blog（RSS）",
-          "sourceUrl": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
-          "aihotUrl": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
-          "publishedAt": "2026-11-16T17:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
         }
       ]
     },
@@ -1269,6 +1311,20 @@
       "query": "MCP",
       "unselected": false,
       "items": [
+        {
+          "id": "snkvsiff90slvj17hf9i5u4do",
+          "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
+          "reason": "作者复盘了上线前用 Claude 持续压测并自修复的两周流程，给出了可迁移的具体做法和小规模成本参考。",
+          "summary": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。",
+          "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "sourceUrl": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+          "aihotUrl": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
+          "publishedAt": "2026-11-17T12:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "jy89axg8rd82ugct5uwh5psaq",
           "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
@@ -1338,20 +1394,6 @@
           "category": "ai-products",
           "categoryLabel": "产品",
           "unselected": false
-        },
-        {
-          "id": "bisaluc0ii0f4s1gzi2zxbr1k",
-          "title": "a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道",
-          "reason": "a16z 提出 B2A 经济框架，用 Shopify、Vercel、Stripe 等多组增长数据拆解智能体如何成为新的分发渠道。",
-          "summary": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
-          "sourceName": "a16z：News（RSS）",
-          "sourceUrl": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
-          "aihotUrl": "https://aihot.news/items/bisaluc0ii0f4s1gzi2zxbr1k",
-          "publishedAt": "2026-11-11T15:02:38.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
         }
       ]
     },
@@ -1361,6 +1403,20 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "sah26a5ofgvrxd76bgj9t77wf",
+          "title": "OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异",
+          "reason": "作者作为当事方解释 6.2 Sol/Astra 评测视频与现场反馈差异的原因，读者可以据此校准上周视频结论的时效性。",
+          "summary": "Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "sourceUrl": "https://x.com/thsottiaux/status/2122929634916679820",
+          "aihotUrl": "https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf",
+          "publishedAt": "2026-11-18T05:47:21.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
+        },
         {
           "id": "cxpq4gwitsj6r05zjpphx9agc",
           "title": "Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元",
@@ -1430,20 +1486,6 @@
           "category": "ai-models",
           "categoryLabel": "模型",
           "unselected": false
-        },
-        {
-          "id": "y7f42y59ahf4hjlf4ptoprfq3",
-          "title": "Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案",
-          "reason": "官方主题演讲给出各模型相对竞品的价格与性能对比数字，并宣布可控权重的 Licensed Weights 交付方式，便于评估成本取舍。",
-          "summary": "微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。",
-          "sourceName": "Microsoft AI：官方博客（RSS）",
-          "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/",
-          "aihotUrl": "https://aihot.news/items/y7f42y59ahf4hjlf4ptoprfq3",
-          "publishedAt": "2026-11-17T18:14:55.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
-          "unselected": false
         }
       ]
     },
@@ -1453,6 +1495,20 @@
       "query": "Anthropic",
       "unselected": false,
       "items": [
+        {
+          "id": "snkvsiff90slvj17hf9i5u4do",
+          "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
+          "reason": "作者复盘了上线前用 Claude 持续压测并自修复的两周流程，给出了可迁移的具体做法和小规模成本参考。",
+          "summary": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chaos loop 实践：让 Claude Code 会话在镜像生产的 staging 集群上以每天超 100 万合成 docs 持续压测并修复故障，峰值时同时运行 30 个 sub-agents。",
+          "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "sourceUrl": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+          "aihotUrl": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
+          "publishedAt": "2026-11-17T12:00:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "hpczcbqe8agr7jffko2cnsp31",
           "title": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
@@ -1496,14 +1552,14 @@
           "unselected": false
         },
         {
-          "id": "y7f42y59ahf4hjlf4ptoprfq3",
-          "title": "Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案",
-          "reason": "官方主题演讲给出各模型相对竞品的价格与性能对比数字，并宣布可控权重的 Licensed Weights 交付方式，便于评估成本取舍。",
-          "summary": "微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。",
+          "id": "z9zhvfj8o8zp2yp433eizf3uk",
+          "title": "Microsoft MAI 发布七个新模型，主打价格性能比",
+          "reason": "官方一次性列出七个新模型在各自基准上的对标成绩和定价，读者可以直接比较这些模型与竞品的价格性能差。",
+          "summary": "Microsoft MAI 在 Ignite 2026 发布七个新模型，涵盖网络安全防御、编码、图像、实时语音、转录与决策路由。",
           "sourceName": "Microsoft AI：官方博客（RSS）",
-          "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/",
-          "aihotUrl": "https://aihot.news/items/y7f42y59ahf4hjlf4ptoprfq3",
-          "publishedAt": "2026-11-17T18:14:55.000Z",
+          "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "aihotUrl": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk",
+          "publishedAt": "2026-11-17T18:16:05.000Z",
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
@@ -1521,20 +1577,6 @@
           "timeBasis": "published",
           "category": "ai-models",
           "categoryLabel": "模型",
-          "unselected": false
-        },
-        {
-          "id": "m4emm1ej7qzex1k77a7mfaztd",
-          "title": "METR 测量模型对对齐评测的识别能力：调查型智能体能区分对齐与能力评测",
-          "reason": "METR 用调查型智能体实测 55 个评测，发现当前模型能识别对齐评测，并给出了环境级与任务级线索的分类方法。",
-          "summary": "METR 发布研究笔记，用调查型智能体在 19 个对齐评测和 36 个能力评测中探测环境，测量模型能否识别自己处于对齐评测。",
-          "sourceName": "METR：Notes（网页）",
-          "sourceUrl": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/",
-          "aihotUrl": "https://aihot.news/items/m4emm1ej7qzex1k77a7mfaztd",
-          "publishedAt": "2026-11-15T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "paper",
-          "categoryLabel": "论文",
           "unselected": false
         }
       ]
