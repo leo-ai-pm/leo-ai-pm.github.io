@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-18T10:00:10.050Z",
-      "lastSuccessAt": "2026-11-18T10:00:10.050Z",
-      "nextCheckAt": 1794999610050,
+      "checkedAt": "2026-11-18T18:46:34.939Z",
+      "lastSuccessAt": "2026-11-18T18:46:34.939Z",
+      "nextCheckAt": 1795031194939,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-18T10:00:10.051Z",
-      "lastSuccessAt": "2026-11-18T10:00:10.051Z",
-      "nextCheckAt": 1794999610051,
+      "checkedAt": "2026-11-18T18:46:34.940Z",
+      "lastSuccessAt": "2026-11-18T18:46:34.940Z",
+      "nextCheckAt": 1795031194940,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-18T10:00:10.052Z",
-      "lastSuccessAt": "2026-11-18T10:00:10.052Z",
-      "nextCheckAt": 1794999610052,
+      "checkedAt": "2026-11-18T18:46:34.940Z",
+      "lastSuccessAt": "2026-11-18T18:46:34.940Z",
+      "nextCheckAt": 1795031194940,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-18T18:46:35.122Z",
+      "lastSuccessAt": "2026-11-18T18:46:35.122Z",
+      "nextCheckAt": 1795031195122,
       "status": "ok",
-      "nextCheckAt": 1794999610170,
-      "checkedAt": "2026-11-18T10:00:10.170Z",
-      "lastSuccessAt": "2026-11-18T10:00:10.170Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794999610050,
+  "nextCheckAt": 1795031194939,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/pd/6495970.html",
+      "title": "动线Agent：AI驱动的全链路用户转化引导",
+      "summary": "本文介绍了淘特App推出的动线Agent——一套由大模型（LLM）驱动的全链路用户转化引导系统。针对近90%到端用户未完成转化的痛点，该系统围绕用户旅程（ 进端/在端/离端 ）部署了三个差异化智能体。三者均取得显著业务增益，整体峰值增量GMV占比超大盘5%，且通过技术手段将token成本降低60%以上。未来将推动三端从数据回流走向共享决策状态，构建统一的用户智能体。 在注意力经济时代，短视频足够好刷，游戏和内容 App 也在持续争夺用户",
+      "publishedAt": "2026-11-18T09:53:46.000Z",
+      "url": "https://www.woshipm.com/pd/6495970.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/pd/6495970.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "本文介绍了淘特App推出的动线Agent——一套由大模型（LLM）驱动的全链路用户转化引导系统。针对近90%到端用户未完成转化的痛点，该系统围绕用户旅程（ 进端/在端/离端 ）部署了三个差异化智能体。三者均取得显著业务增益，整体峰值增量GMV占比超大盘5%，且通过技术手段将token成本降低60%以上。未来将推动三端从数据回流走向共享决策状态，构建统一的用户智能体。 在注意力经济时代，短视频足够好刷，游戏和内容 App 也在持续争夺用户",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6495923.html",
       "title": "WorkBuddy20来个大模型，从夯到拉排行榜！",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6495766.html",
@@ -212,7 +252,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/worldinmotion",

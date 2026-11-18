@@ -1,7 +1,7 @@
 {
-  "date": "2026年11月18日",
+  "date": "2026年11月19日",
   "demo": false,
-  "updatedAt": "2026-11-18T10:00:23.916Z",
+  "updatedAt": "2026-11-18T18:46:47.044Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 277,
+    "received": 239,
     "latestCount": 5,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -83,7 +83,7 @@
         "group": "产品与工程",
         "focus": "开发者产品与应用工程",
         "url": "https://x.com/sherwinwu",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -119,7 +119,7 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 3,
+        "matched": 2,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 6,
+        "matched": 4,
         "status": "本次收录"
       },
       {
@@ -181,11 +181,11 @@
       }
     },
     {
-      "id": "aihot-lwu3khhqffrhezsw7msar2pxp",
-      "title": "Astra for Law 大幅减少模型幻觉",
-      "brief": "非常自豪，全新的 Astra for Law（以及 6.2 版 Astra 本身）在消除模型幻觉方面领先业界： 幻觉比 Opus 5.5 少 20 倍，比 Fable 5.2 少 25 倍！",
-      "summary": "非常自豪，全新的 Astra for Law（以及 6.2 版 Astra 本身）在消除模型幻觉方面领先业界： 幻觉比 Opus 5.5 少 20 倍，比 Fable 5.2 少 25 倍！",
-      "category": "模型进展",
+      "id": "aihot-wqzmthql9hqzlz7fatj3d0k6p",
+      "title": "ChatGPT 实时听写上线",
+      "brief": "这类改动就是这样：你一试就会想不通自己怎么能忍受旧世界那么久。",
+      "summary": "这类改动就是这样：你一试就会想不通自己怎么能忍受旧世界那么久。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -193,22 +193,22 @@
       "sourceGroup": "产品与工程",
       "sourceName": "Sherwin Wu · @sherwinwu",
       "feedName": "X：Sherwin Wu（@sherwinwu）",
-      "sourceUrl": "https://x.com/sherwinwu/status/2122752578656313689",
-      "aggregateUrl": "https://aihot.news/items/lwu3khhqffrhezsw7msar2pxp",
+      "sourceUrl": "https://x.com/sherwinwu/status/2123118690141167666",
+      "aggregateUrl": "https://aihot.news/items/wqzmthql9hqzlz7fatj3d0k6p",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-17T18:03:48.000Z",
+      "publishedAt": "2026-11-18T18:18:36.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "Sherwin Wu",
+            "asset": "/assets/identities/sherwinwu.jpg",
+            "assetSource": "https://x.com/sherwinwu",
+            "tone": "#e9e4dc"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": {
           "name": "Sherwin Wu",
           "asset": "/assets/identities/sherwinwu.jpg",
@@ -292,22 +292,22 @@
       }
     },
     {
-      "id": "aihot-lrd60zrnbo0s7lhdpzhm5lmaf",
-      "title": "Perplexity 上线 GPT-6.2 Astra 与 GPT-6.2 Sol，WANDR 成绩较前代提升",
-      "brief": "Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search and Computer 中可用。",
-      "summary": "Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search and Computer 中可用。",
-      "category": "模型进展",
-      "topic": "AI 产品",
+      "id": "aihot-okkzjgo3680o81bxt98jl6t33",
+      "title": "Perplexity 推出 Context API：批量抓取网页内容并转为目标格式",
+      "brief": "Aravind Srinivas 宣布推出 Perplexity Context API，可按目标格式抓取一组网页的有效内容，并可用于各类智能体框架。",
+      "summary": "Aravind Srinivas 宣布推出 Perplexity Context API，可按目标格式抓取一组网页的有效内容，并可用于各类智能体框架。",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2122815321958695096",
-      "aggregateUrl": "https://aihot.news/items/lrd60zrnbo0s7lhdpzhm5lmaf",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2123085971625476277",
+      "aggregateUrl": "https://aihot.news/items/okkzjgo3680o81bxt98jl6t33",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-17T22:13:07.000Z",
+      "publishedAt": "2026-11-18T16:08:35.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -317,15 +317,9 @@
             "asset": "/assets/identities/perplexity_ai.jpg",
             "assetSource": "https://x.com/perplexity_ai",
             "tone": "#dcebea"
-          },
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
           }
         ],
-        "caption": "模型进展",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -381,12 +375,19 @@
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "aihotUrl": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
       "storyUrl": "https://aihot.news/story/2254fd74-e05d-4b8b-861e-9d14e940f4bc",
-      "sourceCount": 10,
-      "participantCount": 104,
+      "sourceCount": 9,
+      "participantCount": 120,
       "latestAt": "2026-11-18T01:04:01.000Z",
       "expanded": true,
       "latest": "深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远",
       "reports": [
+        {
+          "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型",
+          "sourceName": "Latent Space（RSS）",
+          "sourceUrl": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+          "aihotUrl": "https://aihot.news/items/oisr0dfay736le62g425urn8l",
+          "publishedAt": "2026-11-18T10:19:04.000Z"
+        },
         {
           "title": "深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远",
           "sourceName": "X：卡兹克 (@Khazix0918)",
@@ -400,13 +401,6 @@
           "sourceUrl": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
           "aihotUrl": "https://aihot.news/items/daywjxxg5o1z9whz85s3hg59x",
           "publishedAt": "2026-11-17T22:38:52.000Z"
-        },
-        {
-          "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "sourceName": "公众号：数字生命卡兹克",
-          "sourceUrl": "https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA",
-          "aihotUrl": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-          "publishedAt": "2026-11-17T22:36:45.000Z"
         }
       ],
       "related": [
@@ -444,8 +438,8 @@
       "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "aihotUrl": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
       "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1",
-      "sourceCount": 4,
-      "participantCount": 74,
+      "sourceCount": 3,
+      "participantCount": 73,
       "latestAt": "2026-11-17T20:34:07.000Z",
       "expanded": true,
       "latest": "巴拉吉：Jensen Huang 去职或涉国家安全",
@@ -504,7 +498,7 @@
       "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
       "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
       "sourceCount": 3,
-      "participantCount": 25,
+      "participantCount": 26,
       "latestAt": "2026-11-18T00:15:01.000Z",
       "expanded": true,
       "latest": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
@@ -561,14 +555,14 @@
     {
       "rank": 4,
       "id": "vgopllkh4so1p1q01nefg1364",
-      "title": "英伟达Q3营收1158亿美元，董事会明确不恢复黄仁勋职务",
+      "title": "英伟达Q3营收1158亿美元，董事会拒绝恢复黄仁勋职务",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
       "sourceUrl": "https://x.com/rohanpaul_ai/status/2122812619379900579",
       "aihotUrl": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
       "storyUrl": "https://aihot.news/story/e79088af-89d6-42e0-8947-05fbb16ede38",
       "sourceCount": 4,
-      "participantCount": 20,
-      "latestAt": "2026-11-18T05:30:49.000Z",
+      "participantCount": 25,
+      "latestAt": "2026-11-18T13:00:00.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -588,15 +582,15 @@
     },
     {
       "rank": 5,
-      "id": "x6msqkehvwzry0904un629cqg",
-      "title": "美商务部推进远程算力管制，Nvidia曾游说反对",
+      "id": "ulwhtxvx986i1rjdkk2mxgzdl",
+      "title": "Nvidia停售H200芯片，结束对华出口通道",
       "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "aihotUrl": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
-      "storyUrl": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe",
-      "sourceCount": 4,
-      "participantCount": 22,
-      "latestAt": "2026-11-18T03:53:46.000Z",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "aihotUrl": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
+      "storyUrl": "https://aihot.news/story/fbb613d2-1a33-467d-87ff-5e666f2e2b9d",
+      "sourceCount": 2,
+      "participantCount": 16,
+      "latestAt": "2026-11-18T13:01:05.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -616,6 +610,34 @@
     },
     {
       "rank": 6,
+      "id": "bbq5540gooev6rr4uo6d3poaj",
+      "title": "腾讯WorkBuddy日活超千万，年化收入逾5亿美元",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/028/914.htm",
+      "aihotUrl": "https://aihot.news/items/bbq5540gooev6rr4uo6d3poaj",
+      "storyUrl": "https://aihot.news/story/f9f27ce5-c259-4268-9c72-3cdc38699171",
+      "sourceCount": 2,
+      "participantCount": 12,
+      "latestAt": "2026-11-18T14:15:02.887Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "u36vxmxeopbsx4if4lap30899",
       "title": "腾讯混元发布 Hy4 flash 并开源、接入多平台",
       "sourceName": "腾讯混元：Research（API）",
@@ -623,8 +645,8 @@
       "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
       "storyUrl": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3",
       "sourceCount": 7,
-      "participantCount": 19,
-      "latestAt": "2026-11-18T04:39:34.000Z",
+      "participantCount": 18,
+      "latestAt": "2026-11-18T17:28:40.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -643,44 +665,16 @@
       }
     },
     {
-      "rank": 7,
-      "id": "t1ol5cc73f6teh8f32wvri1cn",
-      "title": "加州总检察长起诉OpenAI智能体失控",
-      "sourceName": "The Verge：AI（RSS）",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "aihotUrl": "https://aihot.news/items/t1ol5cc73f6teh8f32wvri1cn",
-      "storyUrl": "https://aihot.news/story/fd9e7181-a93c-45bd-affd-922e09cdcd5a",
-      "sourceCount": 4,
-      "participantCount": 26,
-      "latestAt": "2026-11-17T14:54:10.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 8,
-      "id": "ulwhtxvx986i1rjdkk2mxgzdl",
-      "title": "Nvidia停售H200芯片，结束对华出口通道",
+      "id": "x6msqkehvwzry0904un629cqg",
+      "title": "美商务部推进远程算力管制，Nvidia曾游说反对",
       "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "aihotUrl": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
-      "storyUrl": "https://aihot.news/story/fbb613d2-1a33-467d-87ff-5e666f2e2b9d",
-      "sourceCount": 1,
-      "participantCount": 11,
-      "latestAt": "2026-11-17T23:37:48.000Z",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "aihotUrl": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+      "storyUrl": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe",
+      "sourceCount": 3,
+      "participantCount": 21,
+      "latestAt": "2026-11-18T03:53:46.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -700,15 +694,15 @@
     },
     {
       "rank": 9,
-      "id": "nqcfrkilrh7nhnpd03t9q1zfh",
-      "title": "阿里发布 Qwen4-Max，预览版先行接入多产品",
-      "sourceName": "Qwen：Blog Retrieval（API）",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen4-max",
-      "aihotUrl": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-      "storyUrl": "https://aihot.news/story/6b019bba-08b7-42da-8fe4-769d638f5ba7",
-      "sourceCount": 2,
-      "participantCount": 23,
-      "latestAt": "2026-11-18T07:42:13.000Z",
+      "id": "c3qj65urfo345mc80xz5jdefb",
+      "title": "微软发布 MAI Code 2 与 Code 2 Flash 编码模型",
+      "sourceName": "Microsoft AI：官方博客（RSS）",
+      "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "aihotUrl": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
+      "storyUrl": "https://aihot.news/story/b2e9c749-e7a3-418f-a8e5-0042323af0b5",
+      "sourceCount": 3,
+      "participantCount": 14,
+      "latestAt": "2026-11-17T22:42:53.597Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -716,7 +710,7 @@
       "visual": {
         "entities": [
           {
-            "name": "Qwen：Blog Retrieval（API）",
+            "name": "Microsoft AI：官方博客（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -728,15 +722,15 @@
     },
     {
       "rank": 10,
-      "id": "ghf2artn1fbufdzuznga797jb",
-      "title": "Isomorphic Labs完成50亿美元C轮融资",
-      "sourceName": "X：Demis Hassabis (@demishassabis)",
-      "sourceUrl": "https://x.com/demishassabis/status/2122662616367853670",
-      "aihotUrl": "https://aihot.news/items/ghf2artn1fbufdzuznga797jb",
-      "storyUrl": "https://aihot.news/story/d98704ec-7b3a-4ea7-9fb4-778bf672f440",
-      "sourceCount": 3,
-      "participantCount": 14,
-      "latestAt": "2026-11-17T14:57:02.000Z",
+      "id": "e871ammlz8gpx1oozsswidzt0",
+      "title": "可灵发布Kling Image 4.0并接入多个第三方平台",
+      "sourceName": "公众号：可灵AI（快手·视频）",
+      "sourceUrl": "https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w",
+      "aihotUrl": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0",
+      "storyUrl": "https://aihot.news/story/00140fdc-ef32-4b30-85a6-6fd84ab70de4",
+      "sourceCount": 4,
+      "participantCount": 13,
+      "latestAt": "2026-11-18T13:18:47.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -744,7 +738,7 @@
       "visual": {
         "entities": [
           {
-            "name": "X：Demis Hassabis (@demishassabis)",
+            "name": "公众号：可灵AI（快手·视频）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
