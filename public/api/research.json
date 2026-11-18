@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-17T19:44:21.199Z",
-      "lastSuccessAt": "2026-11-17T19:44:21.199Z",
-      "nextCheckAt": 1794948261199,
+      "checkedAt": "2026-11-18T01:52:55.695Z",
+      "lastSuccessAt": "2026-11-18T01:52:55.695Z",
+      "nextCheckAt": 1794970375695,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-18T01:52:55.696Z",
+      "lastSuccessAt": "2026-11-18T01:52:55.696Z",
+      "nextCheckAt": 1794970375696,
       "status": "ok",
-      "nextCheckAt": 1794948261200,
-      "checkedAt": "2026-11-17T19:44:21.200Z",
-      "lastSuccessAt": "2026-11-17T19:44:21.200Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-17T19:44:21.200Z",
-      "lastSuccessAt": "2026-11-17T19:44:21.200Z",
-      "nextCheckAt": 1794948261200,
+      "checkedAt": "2026-11-18T01:52:55.697Z",
+      "lastSuccessAt": "2026-11-18T01:52:55.697Z",
+      "nextCheckAt": 1794970375697,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-17T19:44:21.428Z",
-      "lastSuccessAt": "2026-11-17T19:44:21.428Z",
-      "nextCheckAt": 1794948261428,
       "status": "ok",
+      "nextCheckAt": 1794970375894,
+      "checkedAt": "2026-11-18T01:52:55.894Z",
+      "lastSuccessAt": "2026-11-18T01:52:55.894Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,49 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1794948261199,
+  "nextCheckAt": 1794970375695,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6495375.html",
+      "title": "统管字节 Seed 预训练数据，李成刚从搜索走向大模型核心",
+      "summary": "字节跳动Seed新设预训练数据部门，整合文本、代码、视觉、语音团队，由一位老将统管。他从清华机械设计起步，做过三维模型检索，又在百度、头条、TikTok深耕搜索十余年。从找信息到训数据，MGA、COD与Seed-Prover串起转型路径。 从机械零件的三维模型，到网页、短视频，再到大模型的训练语料，李成刚处理的信息对象不断变化。贯穿这些工作的，是一个持续延伸的问题：怎样让计算机从复杂的信息中找到有用的内容，并将其有效利用。 2026年8",
+      "publishedAt": "2026-11-18T01:20:10.000Z",
+      "url": "https://www.woshipm.com/share/6495375.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/share/6495375.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "字节跳动Seed新设预训练数据部门，整合文本、代码、视觉、语音团队，由一位老将统管。他从清华机械设计起步，做过三维模型检索，又在百度、头条、TikTok深耕搜索十余年。从找信息到训数据，MGA、COD与Seed-Prover串起转型路径。 从机械零件的三维模型，到网页、短视频，再到大模型的训练语料，李成刚处理的信息对象不断变化。贯穿这些工作的，是一个持续延伸的问题：怎样让计算机从复杂的信息中找到有用的内容，并将其有效利用。 2026年8",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6495306.html",
       "title": "Qwen 4 进驻基元律动！我更喜欢它的 NeoHorse，实测！",
@@ -131,7 +171,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
       "id": "woshipm:https://www.woshipm.com/ai/6495310.html",
@@ -167,46 +207,6 @@
       "category": "产品拆解",
       "platform": "中文产品社区",
       "brief": "模型从预览版进入正式版，最值得看的不是新名词，而是有没有修掉真实任务里的问题。Qwen4-Max 正式版修正了生成动图的嘴型不匹配与物理规律错误，作者据此提出接入前要看的三件事：是否更省词元、能否真交付、工具权限能否接进生产系统。 同一个模型从预览版进入正式版，最值得看的不是发布会上的新名词，而是它有没有修掉真实任务中的问题。Qwen4-Max 预览版已经展示了搜索执行、多模态生成和 3D 交互能力，但复杂任务中曾出现多模态不一致和违背",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/pd/6495284.html",
-      "title": "Muse 幕后负责人首次访谈：揭秘 Meta 为什么故意晚七个月才上线 Personal Agent",
-      "summary": "能替你读邮件、看日历、下单的 AI 助理，你会先交哪件事给它？Meta 的个人助理 Muse 上线后一度冲上应用商店第一，负责人首次访谈讲起产品为何故意晚上七个月：能碰到邮件和信用卡的助理，犯一次错的代价与聊天机器人完全不同。 你有没有想过，如果有一个 AI 助理可以替你读邮件、看日历、在网上下单，你会先把哪件事交给它？大多数人的第一反应大概是“先别急，我看看它靠不靠谱”。这个犹豫，恰好是今年最火的 AI 应用 Muse 花了最多力气去",
-      "publishedAt": "2026-11-17T08:28:14.000Z",
-      "url": "https://www.woshipm.com/pd/6495284.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/pd/6495284.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "能替你读邮件、看日历、下单的 AI 助理，你会先交哪件事给它？Meta 的个人助理 Muse 上线后一度冲上应用商店第一，负责人首次访谈讲起产品为何故意晚上七个月：能碰到邮件和信用卡的助理，犯一次错的代价与聊天机器人完全不同。 你有没有想过，如果有一个 AI 助理可以替你读邮件、看日历、在网上下单，你会先把哪件事交给它？大多数人的第一反应大概是“先别急，我看看它靠不靠谱”。这个犹豫，恰好是今年最火的 AI 应用 Muse 花了最多力气去",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -408,7 +408,7 @@
       "platform": "英文官方博客",
       "brief": "Discover microservices best practices to build resilient systems. Learn what the best patterns look like and how workflow automation fits into the process.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
@@ -448,7 +448,7 @@
       "platform": "英文官方博客",
       "brief": "Learn batch processing patterns for scalable workflows, including chunking, rate limits, retries. Discover the tools that put these patterns into practice.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
+      "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
