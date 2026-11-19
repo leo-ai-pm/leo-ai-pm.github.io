@@ -1,8 +1,8 @@
 {
   "data": {
-    "date": "2026年11月19日",
+    "date": "2026年11月20日",
     "demo": false,
-    "updatedAt": "2026-11-19T07:59:10.404Z",
+    "updatedAt": "2026-11-19T17:16:08.822Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 237,
+      "received": 227,
       "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -120,7 +120,7 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 3,
+          "matched": 4,
           "status": "本次收录"
         },
         {
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 3,
+          "matched": 5,
           "status": "本次收录"
         },
         {
@@ -219,26 +219,32 @@
         }
       },
       {
-        "id": "aihot-irm2anlwdohl9n795ctl7x42m",
-        "title": "OpenAI 推出 ChatGPT for Accounting 及会计插件",
-        "brief": "OpenAI 推出 ChatGPT for Accounting，官方会计插件和合作插件可减少月结报表、银行对账、数据录入和审计准备等手工工作。",
-        "summary": "OpenAI 推出 ChatGPT for Accounting，官方会计插件和合作插件可减少月结报表、银行对账、数据录入和审计准备等手工工作。",
-        "category": "产品动态",
-        "topic": "AI 产品",
+        "id": "aihot-r4b0kj1rki3f8w261nhjbxfoa",
+        "title": "Greg Brockman 分享 Codex 辅助加固 Ruby 的案例",
+        "brief": "Greg Brockman 转引他人博文，介绍用 Codex 加固 Ruby 的案例。",
+        "summary": "Greg Brockman 转引他人博文，介绍用 Codex 加固 Ruby 的案例。",
+        "category": "实践与观点",
+        "topic": "Agent",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "gdb",
         "sourceGroup": "行业与创业",
         "sourceName": "Greg Brockman · @gdb",
         "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2123225465762542044",
-        "aggregateUrl": "https://aihot.news/items/irm2anlwdohl9n795ctl7x42m",
+        "sourceUrl": "https://x.com/gdb/status/2123420851777220790",
+        "aggregateUrl": "https://aihot.news/items/r4b0kj1rki3f8w261nhjbxfoa",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-19T01:22:53.000Z",
+        "publishedAt": "2026-11-19T14:19:16.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
+            {
+              "name": "Greg Brockman",
+              "asset": "/assets/identities/gdb.jpg",
+              "assetSource": "https://x.com/gdb",
+              "tone": "#e9e4dc"
+            },
             {
               "name": "OpenAI",
               "asset": "/assets/identities/openai.jpg",
@@ -246,7 +252,7 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "实践与观点",
           "author": {
             "name": "Greg Brockman",
             "asset": "/assets/identities/gdb.jpg",
@@ -256,11 +262,11 @@
         }
       },
       {
-        "id": "aihot-nigsb48mbfnjfyivgz1i5dnuu",
-        "title": "Perplexity 发布 Monitor、Orchestrator、Context 三项新 API",
-        "brief": "Perplexity CEO Aravind Srinivas 宣布过去几天推出三项新 API：Perplexity Monitor 提供可编程的事件提醒，Perplexity Orchestrator 在前沿模型和开源权重模型间按任务路由，Perplexity Context 支持批量将 URL 转换为智能体可用的内容。",
-        "summary": "Perplexity CEO Aravind Srinivas 宣布过去几天推出三项新 API：Perplexity Monitor 提供可编程的事件提醒，Perplexity Orchestrator 在前沿模型和开源权重模型间按任务路由，Perplexity Context 支持批量将 URL 转换为智能体可用的内容。",
-        "category": "产品动态",
+        "id": "aihot-cty34utgc5ppbdnayf7cnjqlv",
+        "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+        "brief": "Perplexity CEO Aravind Srinivas 分享 Computer 中 Brain 智能体的自我改进技能研究：Brain 会读取历史会话轨迹（工具调用、推理、结果），识别重复模式，仅在证据足够时提议新技能或更新。",
+        "summary": "Perplexity CEO Aravind Srinivas 分享 Computer 中 Brain 智能体的自我改进技能研究：Brain 会读取历史会话轨迹（工具调用、推理、结果），识别重复模式，仅在证据足够时提议新技能或更新。",
+        "category": "研究进展",
         "topic": "Agent",
         "priority": "normal",
         "platform": "X",
@@ -268,10 +274,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2123224126248906811",
-        "aggregateUrl": "https://aihot.news/items/nigsb48mbfnjfyivgz1i5dnuu",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2123451045657690627",
+        "aggregateUrl": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-19T01:17:33.000Z",
+        "publishedAt": "2026-11-19T16:19:15.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -283,7 +289,7 @@
               "tone": "#dcebea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "研究进展",
           "author": {
             "name": "Aravind Srinivas",
             "asset": "/assets/identities/aravsrinivas.jpg",
@@ -339,32 +345,32 @@
         "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
         "aihotUrl": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
         "storyUrl": "https://aihot.news/story/74578987-a1ed-4ce0-96b8-658226459865",
-        "sourceCount": 19,
-        "participantCount": 81,
-        "latestAt": "2026-11-19T06:52:26.000Z",
+        "sourceCount": 17,
+        "participantCount": 100,
+        "latestAt": "2026-11-19T11:18:18.000Z",
         "expanded": true,
-        "latest": "Google DeepMind 发布 Gemini 4 Neon：1M 上下文，AA Coding Agent Index 第一",
+        "latest": "Google DeepMind 发布 Gemini 4 Neon，速度更快价格更低并超越 Carbon",
         "reports": [
+          {
+            "title": "Google DeepMind 发布 Gemini 4 Neon，速度更快价格更低并超越 Carbon",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+            "aihotUrl": "https://aihot.news/items/ol9ml5lnvtjwidzvgo8wp6osa",
+            "publishedAt": "2026-11-19T11:18:18.000Z"
+          },
+          {
+            "title": "Philipp Schmid 称 Neon 是出色的模型",
+            "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+            "sourceUrl": "https://x.com/_philschmid/status/2123349159613001762",
+            "aihotUrl": "https://aihot.news/items/jxyqlk82xsaxmw7cwrmiaas6j",
+            "publishedAt": "2026-11-19T09:34:24.000Z"
+          },
           {
             "title": "Google DeepMind 发布 Gemini 4 Neon，约七周内第四款 Gemini 4 模型",
             "sourceName": "Latent Space（RSS）",
             "sourceUrl": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
             "aihotUrl": "https://aihot.news/items/y31qy9lcxqa6mdi3lmxs2dyz7",
             "publishedAt": "2026-11-19T07:07:43.000Z"
-          },
-          {
-            "title": "Google DeepMind 发布 Gemini 4 Neon：1M 上下文，AA Coding Agent Index 第一",
-            "sourceName": "MarkTechPost（RSS）",
-            "sourceUrl": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-            "aihotUrl": "https://aihot.news/items/jamzhkryxi9grd3sxnmgsmgyj",
-            "publishedAt": "2026-11-19T06:52:26.000Z"
-          },
-          {
-            "title": "谷歌发布 Gemini 4 Neon，作者称 Antigravity 拖后腿",
-            "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
-            "sourceUrl": "https://x.com/aiwarts/status/2123245199300370650",
-            "aihotUrl": "https://aihot.news/items/q3tzsped63ebtcs6wm4v2ix0t",
-            "publishedAt": "2026-11-19T02:41:18.000Z"
           }
         ],
         "related": [],
@@ -383,6 +389,69 @@
       },
       {
         "rank": 2,
+        "id": "xywgx35ocbe6mzl2pnajw8ruu",
+        "title": "Anthropic 定价 83 美元上市，首日开盘涨约 34%",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+        "sourceCount": 7,
+        "participantCount": 70,
+        "latestAt": "2026-11-19T16:51:39.000Z",
+        "expanded": true,
+        "latest": "Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%",
+        "reports": [
+          {
+            "title": "Anthropic 股票上市首日开盘 111.50 美元，较 83 美元发行价涨约 34%",
+            "sourceName": "X：Kate Clark (@KateClarkTweets)",
+            "sourceUrl": "https://x.com/KateClarkTweets/status/2123459198390243417",
+            "aihotUrl": "https://aihot.news/items/hzlbq0fxcls8sxek76qoq63v8",
+            "publishedAt": "2026-11-19T16:51:39.000Z"
+          },
+          {
+            "title": "Anthropic 完成史上最大规模 IPO，Dario Amodei 敲钟演讲重申放慢 AI 开发节奏",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+            "aihotUrl": "https://aihot.news/items/w5f6ldj9b4r2rde1v5ajx44p2",
+            "publishedAt": "2026-11-19T16:19:41.000Z"
+          },
+          {
+            "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2123441720214106148",
+            "aihotUrl": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+            "publishedAt": "2026-11-19T15:42:12.000Z"
+          }
+        ],
+        "related": [
+          {
+            "title": "Anthropic季度营收增十二倍仍亏233亿美元",
+            "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
+          },
+          {
+            "title": "Anthropic三季度收入168亿美元，增速放缓",
+            "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
+          },
+          {
+            "title": "泄露文件：Anthropic 云算力受限且财务承压",
+            "storyUrl": "https://aihot.news/story/aae8dcdf-5e54-4323-b53e-5e0a336748d5"
+          }
+        ],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 3,
         "id": "jr7fqw95e5ihuevr1rzib208l",
         "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol 两款模型",
         "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -390,7 +459,7 @@
         "aihotUrl": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
         "storyUrl": "https://aihot.news/story/2254fd74-e05d-4b8b-861e-9d14e940f4bc",
         "sourceCount": 9,
-        "participantCount": 122,
+        "participantCount": 121,
         "latestAt": "2026-11-18T01:04:01.000Z",
         "expanded": true,
         "latest": "深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远",
@@ -445,69 +514,6 @@
         }
       },
       {
-        "rank": 3,
-        "id": "xywgx35ocbe6mzl2pnajw8ruu",
-        "title": "Anthropic IPO 定价 83 美元，估值约 1.5 万亿美元",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 6,
-        "participantCount": 54,
-        "latestAt": "2026-11-19T00:15:51.000Z",
-        "expanded": true,
-        "latest": "Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元",
-        "reports": [
-          {
-            "title": "Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2123208597303885970",
-            "aihotUrl": "https://aihot.news/items/am0vdstva0f00mrpzw0stslkw",
-            "publishedAt": "2026-11-19T00:15:51.000Z"
-          },
-          {
-            "title": "Anthropic IPO 定价 83 美元一股，即将登陆 Nasdaq",
-            "sourceName": "X：indigo (@indigox)",
-            "sourceUrl": "https://x.com/indigox/status/2123199094680351131",
-            "aihotUrl": "https://aihot.news/items/x57gypzdz09onwjnccctd484i",
-            "publishedAt": "2026-11-18T23:38:05.000Z"
-          },
-          {
-            "title": "Anthropic 将 IPO 定价定为每股 83 美元，明日登陆纳斯达克",
-            "sourceName": "X：Anthropic (@AnthropicAI)",
-            "sourceUrl": "https://x.com/AnthropicAI/status/2123196808675405860",
-            "aihotUrl": "https://aihot.news/items/hokjlogeo9373uw76eeb3f3mh",
-            "publishedAt": "2026-11-18T23:29:00.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "Anthropic季度营收增十二倍仍亏233亿美元",
-            "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
-          },
-          {
-            "title": "Anthropic三季度收入168亿美元，增速放缓",
-            "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
-          },
-          {
-            "title": "泄露文件：Anthropic 云算力受限且财务承压",
-            "storyUrl": "https://aihot.news/story/aae8dcdf-5e54-4323-b53e-5e0a336748d5"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
-            }
-          ],
-          "caption": "IPO",
-          "author": null
-        }
-      },
-      {
         "rank": 4,
         "id": "mkahdchhxfc4z36augopprdh9",
         "title": "黄仁勋辞任英伟达CEO，称若董事会决定愿回归",
@@ -515,8 +521,8 @@
         "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
         "aihotUrl": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
         "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1",
-        "sourceCount": 3,
-        "participantCount": 71,
+        "sourceCount": 2,
+        "participantCount": 50,
         "latestAt": "2026-11-18T19:30:00.000Z",
         "expanded": false,
         "latest": "",
@@ -572,7 +578,7 @@
         "aihotUrl": "https://aihot.news/items/pvzjd4v1c1b50ly6yf0vkv26h",
         "storyUrl": "https://aihot.news/story/c5899d4d-282f-4d24-9aa7-43f7b133d229",
         "sourceCount": 1,
-        "participantCount": 14,
+        "participantCount": 15,
         "latestAt": "2026-11-19T06:19:52.000Z",
         "expanded": false,
         "latest": "",
@@ -599,7 +605,7 @@
         "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
         "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
         "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
-        "sourceCount": 5,
+        "sourceCount": 4,
         "participantCount": 20,
         "latestAt": "2026-11-18T00:05:40.000Z",
         "expanded": false,
@@ -621,15 +627,15 @@
       },
       {
         "rank": 8,
-        "id": "l74eacnb38ytvm5hm8om7h7cs",
-        "title": "Google 将 Genie 4 开放给 AI Ultra 订阅者",
-        "sourceName": "Google DeepMind：Blog（RSS）",
-        "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
-        "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
-        "sourceCount": 5,
-        "participantCount": 13,
-        "latestAt": "2026-11-19T02:25:37.000Z",
+        "id": "eujkiqj4nc1nwkhkqehsreovz",
+        "title": "Hendrycks 称 AI 安全团体私下认同声明却不敢签署",
+        "sourceName": "X：Dan Hendrycks (@hendrycks)",
+        "sourceUrl": "https://x.com/hendrycks/status/2123070133522350176",
+        "aihotUrl": "https://aihot.news/items/eujkiqj4nc1nwkhkqehsreovz",
+        "storyUrl": "https://aihot.news/story/5b9663fc-1eca-4b40-8002-74628b9cb436",
+        "sourceCount": 1,
+        "participantCount": 12,
+        "latestAt": "2026-11-19T16:35:40.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -637,10 +643,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Google DeepMind",
-              "asset": "/assets/identities/googledeepmind.jpg",
-              "assetSource": "https://x.com/GoogleDeepMind",
-              "tone": "#e4eaf4"
+              "name": "X：Dan Hendrycks (@hendrycks)",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -656,7 +662,7 @@
         "aihotUrl": "https://aihot.news/items/bbq5540gooev6rr4uo6d3poaj",
         "storyUrl": "https://aihot.news/story/f9f27ce5-c259-4268-9c72-3cdc38699171",
         "sourceCount": 2,
-        "participantCount": 14,
+        "participantCount": 15,
         "latestAt": "2026-11-18T14:15:02.887Z",
         "expanded": false,
         "latest": "",
@@ -677,15 +683,15 @@
       },
       {
         "rank": 10,
-        "id": "ulwhtxvx986i1rjdkk2mxgzdl",
-        "title": "Nvidia停售H200芯片，结束对华出口通道",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "aihotUrl": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
-        "storyUrl": "https://aihot.news/story/fbb613d2-1a33-467d-87ff-5e666f2e2b9d",
-        "sourceCount": 2,
-        "participantCount": 17,
-        "latestAt": "2026-11-18T13:01:05.000Z",
+        "id": "l74eacnb38ytvm5hm8om7h7cs",
+        "title": "Google 将 Genie 4 开放给 AI Ultra 订阅者",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+        "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-11-19T02:25:37.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -693,10 +699,10 @@
         "visual": {
           "entities": [
             {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -707,8 +713,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-19T07:59:10.404Z",
-    "nextCheckAt": 1795075450404,
+    "checkedAt": "2026-11-19T17:16:08.822Z",
+    "nextCheckAt": 1795108868822,
     "intervalSeconds": 300,
     "message": ""
   }
