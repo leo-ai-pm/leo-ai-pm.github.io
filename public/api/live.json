@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月19日",
     "demo": false,
-    "updatedAt": "2026-11-18T18:46:47.044Z",
+    "updatedAt": "2026-11-19T00:45:20.054Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 239,
-      "latestCount": 5,
+      "received": 231,
+      "latestCount": 4,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,7 +39,7 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 1,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -111,8 +111,8 @@
           "group": "行业与创业",
           "focus": "模型发布与行业方向",
           "url": "https://x.com/sama",
-          "matched": 1,
-          "status": "本次收录"
+          "matched": 0,
+          "status": "本次未检出"
         },
         {
           "handle": "gdb",
@@ -129,7 +129,7 @@
           "group": "行业与创业",
           "focus": "AI 搜索与产品创业",
           "url": "https://x.com/AravSrinivas",
-          "matched": 4,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -145,22 +145,22 @@
     },
     "items": [
       {
-        "id": "aihot-sah26a5ofgvrxd76bgj9t77wf",
-        "title": "OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异",
-        "brief": "Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。",
-        "summary": "Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。",
-        "category": "AI 动态",
-        "topic": "Agent",
+        "id": "aihot-bnqsw7ispucfily4bdq9vz33j",
+        "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
+        "brief": "OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。",
+        "summary": "OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。",
+        "category": "模型进展",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "thsottiaux",
         "sourceGroup": "产品与工程",
         "sourceName": "Tibo Sottiaux · @thsottiaux",
         "feedName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2122929634916679820",
-        "aggregateUrl": "https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf",
+        "sourceUrl": "https://x.com/thsottiaux/status/2123175166519992652",
+        "aggregateUrl": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-18T05:47:21.000Z",
+        "publishedAt": "2026-11-18T22:03:01.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -172,7 +172,7 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "AI 动态",
+          "caption": "模型进展",
           "author": {
             "name": "Tibo Sottiaux",
             "asset": "/assets/identities/thsottiaux.jpg",
@@ -219,48 +219,11 @@
         }
       },
       {
-        "id": "aihot-z4lehgwd2ojz9xi6xbjaz23z4",
-        "title": "OpenAI 发布 GPT-6.2 Sol 与 Astra",
-        "brief": "Sam Altman 宣布 GPT-6.2 Sol 和 Astra 两款模型正式上线，称模型能力强且 token 效率高。",
-        "summary": "Sam Altman 宣布 GPT-6.2 Sol 和 Astra 两款模型正式上线，称模型能力强且 token 效率高。",
-        "category": "模型进展",
-        "topic": "AI 产品",
-        "priority": "normal",
-        "platform": "X",
-        "authorHandle": "sama",
-        "sourceGroup": "行业与创业",
-        "sourceName": "Sam Altman · @sama",
-        "feedName": "X：Sam Altman (@sama)",
-        "sourceUrl": "https://x.com/sama/status/2122798039899263456",
-        "aggregateUrl": "https://aihot.news/items/z4lehgwd2ojz9xi6xbjaz23z4",
-        "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-17T21:04:27.000Z",
-        "timeBasis": "published",
-        "verification": "AIHOT 摘要 · 原文可查",
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "模型进展",
-          "author": {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          }
-        }
-      },
-      {
-        "id": "aihot-vvnuylc5u9aos8dkgpltwk8xn",
-        "title": "OpenAI 推出 ChatGPT for Sales 体验",
-        "brief": "OpenAI 转发 @ChatGPT 发布 ChatGPT for Sales 体验，集成了新的 Sales 插件和 30 多个新增及增强的合作伙伴插件，可将销售工具和客户上下文投入工作，减少事务性工作并推进成交。",
-        "summary": "OpenAI 转发 @ChatGPT 发布 ChatGPT for Sales 体验，集成了新的 Sales 插件和 30 多个新增及增强的合作伙伴插件，可将销售工具和客户上下文投入工作，减少事务性工作并推进成交。",
-        "category": "产品动态",
+        "id": "aihot-vntkimin8apqkocftgs2ipxm0",
+        "title": "Greg Brockman 确认 OpenAI 与研究者协作披露 NGINX 1.31.8 漏洞 NGINX2Shell",
+        "brief": "安全研究者 @ikotas00 发现 NGINX 1.31.8 主线版本中的预认证远程代码执行漏洞 NGINX2Shell，并称从发现到披露全程与 OpenAI 紧密协作。",
+        "summary": "安全研究者 @ikotas00 发现 NGINX 1.31.8 主线版本中的预认证远程代码执行漏洞 NGINX2Shell，并称从发现到披露全程与 OpenAI 紧密协作。",
+        "category": "行业观察",
         "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
@@ -268,14 +231,20 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Greg Brockman · @gdb",
         "feedName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2122825442021572838",
-        "aggregateUrl": "https://aihot.news/items/vvnuylc5u9aos8dkgpltwk8xn",
+        "sourceUrl": "https://x.com/gdb/status/2123190766382075992",
+        "aggregateUrl": "https://aihot.news/items/vntkimin8apqkocftgs2ipxm0",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-17T22:53:20.000Z",
+        "publishedAt": "2026-11-18T23:05:00.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
           "entities": [
+            {
+              "name": "Greg Brockman",
+              "asset": "/assets/identities/gdb.jpg",
+              "assetSource": "https://x.com/gdb",
+              "tone": "#e9e4dc"
+            },
             {
               "name": "OpenAI",
               "asset": "/assets/identities/openai.jpg",
@@ -283,7 +252,7 @@
               "tone": "#e6eeea"
             }
           ],
-          "caption": "产品动态",
+          "caption": "行业观察",
           "author": {
             "name": "Greg Brockman",
             "asset": "/assets/identities/gdb.jpg",
@@ -293,22 +262,22 @@
         }
       },
       {
-        "id": "aihot-okkzjgo3680o81bxt98jl6t33",
-        "title": "Perplexity 推出 Context API：批量抓取网页内容并转为目标格式",
-        "brief": "Aravind Srinivas 宣布推出 Perplexity Context API，可按目标格式抓取一组网页的有效内容，并可用于各类智能体框架。",
-        "summary": "Aravind Srinivas 宣布推出 Perplexity Context API，可按目标格式抓取一组网页的有效内容，并可用于各类智能体框架。",
+        "id": "aihot-we76u81z3odvz7zoaqqaisi8c",
+        "title": "Perplexity 在 iOS 和 Android 上线 Teammates 与 Multiagent 功能",
+        "brief": "Perplexity CEO Aravind Srinivas 宣布 Teammates 和 Multiagent 功能正在 iOS 和 Android 端推出，称移动应用将变成口袋里的迷你 workOS。",
+        "summary": "Perplexity CEO Aravind Srinivas 宣布 Teammates 和 Multiagent 功能正在 iOS 和 Android 端推出，称移动应用将变成口袋里的迷你 workOS。",
         "category": "产品动态",
-        "topic": "Agent",
+        "topic": "AI 产品",
         "priority": "normal",
         "platform": "X",
         "authorHandle": "AravSrinivas",
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2123085971625476277",
-        "aggregateUrl": "https://aihot.news/items/okkzjgo3680o81bxt98jl6t33",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2123129712301969597",
+        "aggregateUrl": "https://aihot.news/items/we76u81z3odvz7zoaqqaisi8c",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-18T16:08:35.000Z",
+        "publishedAt": "2026-11-18T19:02:23.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -377,7 +346,7 @@
         "aihotUrl": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
         "storyUrl": "https://aihot.news/story/2254fd74-e05d-4b8b-861e-9d14e940f4bc",
         "sourceCount": 9,
-        "participantCount": 120,
+        "participantCount": 121,
         "latestAt": "2026-11-18T01:04:01.000Z",
         "expanded": true,
         "latest": "深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远",
@@ -433,57 +402,48 @@
       },
       {
         "rank": 2,
-        "id": "mkahdchhxfc4z36augopprdh9",
-        "title": "黄仁勋辞任英伟达CEO，称愿在董事会决定下回归",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-        "aihotUrl": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
-        "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1",
-        "sourceCount": 3,
-        "participantCount": 73,
-        "latestAt": "2026-11-17T20:34:07.000Z",
+        "id": "lp0snt9lfrx5ju7mg3wma6hnw",
+        "title": "Google 发布 Gemini 4 Neon，API 支持直传 Office 文件",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+        "aihotUrl": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
+        "storyUrl": "https://aihot.news/story/74578987-a1ed-4ce0-96b8-658226459865",
+        "sourceCount": 16,
+        "participantCount": 43,
+        "latestAt": "2026-11-18T23:53:51.737Z",
         "expanded": true,
-        "latest": "巴拉吉：Jensen Huang 去职或涉国家安全",
+        "latest": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数排名第一",
         "reports": [
           {
-            "title": "巴拉吉：Jensen Huang 去职或涉国家安全",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2122790407113462187",
-            "aihotUrl": "https://aihot.news/items/pdzbqla9n6x23cd3xheehqjs0",
-            "publishedAt": "2026-11-17T20:34:07.000Z"
+            "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数排名第一",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/029/144.htm",
+            "aihotUrl": "https://aihot.news/items/jc7t0yd0te6schwztyb54llr3",
+            "publishedAt": "2026-11-18T23:53:51.737Z"
           },
           {
-            "title": "黄仁勋发声明回应离职风波，称若董事会决定可回归 NVIDIA CEO",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2122729098879598698",
-            "aihotUrl": "https://aihot.news/items/ec1amsp97esqrquabztmjfxav",
-            "publishedAt": "2026-11-17T16:30:30.000Z"
+            "title": "Cursor 文档新增 Gemini 4 Neon",
+            "sourceName": "X：Cursor (@cursor_ai)",
+            "sourceUrl": "https://x.com/cursor_ai/status/2123198359309853169",
+            "aihotUrl": "https://aihot.news/items/f310ndsi8el1law6vij3k9zk9",
+            "publishedAt": "2026-11-18T23:35:10.000Z"
           },
           {
-            "title": "Jensen Huang 发声明回应离职风波并表态愿在董事会决定下回归 NVIDIA CEO",
-            "sourceName": "X：Jim Fan (@DrJimFan)",
-            "sourceUrl": "https://x.com/DrJimFan/status/2122727208754254245",
-            "aihotUrl": "https://aihot.news/items/usw3l00k4sgas3w8v3496sqaw",
-            "publishedAt": "2026-11-17T16:22:59.000Z"
+            "title": "Gemini 4 Neon 上线 Cursor",
+            "sourceName": "X：Cursor (@cursor_ai)",
+            "sourceUrl": "https://x.com/cursor_ai/status/2123198346802450926",
+            "aihotUrl": "https://aihot.news/items/hnez64zu373e0060mncyx0vhb",
+            "publishedAt": "2026-11-18T23:35:07.000Z"
           }
         ],
-        "related": [
-          {
-            "title": "黄仁勋辞任英伟达CEO，CFO克雷斯临时接任",
-            "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
-          },
-          {
-            "title": "NVIDIA员工与投资者施压董事会，董事会另寻继任者",
-            "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
-          }
-        ],
+        "related": [],
         "visual": {
           "entities": [
             {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
             }
           ],
           "caption": "热点",
@@ -493,37 +453,37 @@
       {
         "rank": 3,
         "id": "xywgx35ocbe6mzl2pnajw8ruu",
-        "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
+        "title": "Anthropic IPO 定价 83 美元，估值约 1.5 万亿美元",
         "sourceName": "Anthropic：Newsroom（网页）",
         "sourceUrl": "https://www.anthropic.com/news/s1-sec",
         "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
         "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 3,
-        "participantCount": 26,
-        "latestAt": "2026-11-18T00:15:01.000Z",
+        "sourceCount": 6,
+        "participantCount": 47,
+        "latestAt": "2026-11-19T00:15:51.000Z",
         "expanded": true,
-        "latest": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
+        "latest": "Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元",
         "reports": [
           {
-            "title": "Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T",
+            "title": "Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元",
             "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2122845999387602999",
-            "aihotUrl": "https://aihot.news/items/hpczcbqe8agr7jffko2cnsp31",
-            "publishedAt": "2026-11-18T00:15:01.000Z"
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2123208597303885970",
+            "aihotUrl": "https://aihot.news/items/am0vdstva0f00mrpzw0stslkw",
+            "publishedAt": "2026-11-19T00:15:51.000Z"
           },
           {
-            "title": "Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/028/599.htm",
-            "aihotUrl": "https://aihot.news/items/cxpq4gwitsj6r05zjpphx9agc",
-            "publishedAt": "2026-11-18T00:12:10.273Z"
+            "title": "Anthropic IPO 定价 83 美元一股，即将登陆 Nasdaq",
+            "sourceName": "X：indigo (@indigox)",
+            "sourceUrl": "https://x.com/indigox/status/2123199094680351131",
+            "aihotUrl": "https://aihot.news/items/x57gypzdz09onwjnccctd484i",
+            "publishedAt": "2026-11-18T23:38:05.000Z"
           },
           {
-            "title": "Anthropic 因投资者需求旺盛计划上调 IPO 发行价",
-            "sourceName": "X：Kate Clark (@KateClarkTweets)",
-            "sourceUrl": "https://x.com/KateClarkTweets/status/2122737640306884838",
-            "aihotUrl": "https://aihot.news/items/mqb1ivb69ry2hmuc65xst4mle",
-            "publishedAt": "2026-11-17T17:04:26.000Z"
+            "title": "Anthropic 将 IPO 定价定为每股 83 美元，明日登陆纳斯达克",
+            "sourceName": "X：Anthropic (@AnthropicAI)",
+            "sourceUrl": "https://x.com/AnthropicAI/status/2123196808675405860",
+            "aihotUrl": "https://aihot.news/items/hokjlogeo9373uw76eeb3f3mh",
+            "publishedAt": "2026-11-18T23:29:00.000Z"
           }
         ],
         "related": [
@@ -555,15 +515,15 @@
       },
       {
         "rank": 4,
-        "id": "vgopllkh4so1p1q01nefg1364",
-        "title": "英伟达Q3营收1158亿美元，董事会拒绝恢复黄仁勋职务",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2122812619379900579",
-        "aihotUrl": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
-        "storyUrl": "https://aihot.news/story/e79088af-89d6-42e0-8947-05fbb16ede38",
+        "id": "mkahdchhxfc4z36augopprdh9",
+        "title": "黄仁勋辞任英伟达CEO，称若董事会决定愿回归",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+        "aihotUrl": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
+        "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1",
         "sourceCount": 4,
-        "participantCount": 25,
-        "latestAt": "2026-11-18T13:00:00.000Z",
+        "participantCount": 74,
+        "latestAt": "2026-11-18T19:30:00.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -583,15 +543,15 @@
       },
       {
         "rank": 5,
-        "id": "ulwhtxvx986i1rjdkk2mxgzdl",
-        "title": "Nvidia停售H200芯片，结束对华出口通道",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "aihotUrl": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
-        "storyUrl": "https://aihot.news/story/fbb613d2-1a33-467d-87ff-5e666f2e2b9d",
-        "sourceCount": 2,
-        "participantCount": 16,
-        "latestAt": "2026-11-18T13:01:05.000Z",
+        "id": "vgopllkh4so1p1q01nefg1364",
+        "title": "英伟达Q3营收1158亿美元，董事会拒绝恢复黄仁勋职务",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2122812619379900579",
+        "aihotUrl": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
+        "storyUrl": "https://aihot.news/story/e79088af-89d6-42e0-8947-05fbb16ede38",
+        "sourceCount": 4,
+        "participantCount": 26,
+        "latestAt": "2026-11-18T18:34:15.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -611,6 +571,118 @@
       },
       {
         "rank": 6,
+        "id": "uy1ayrrlqx1snqsv4lub7whsa",
+        "title": "Google 发布 Gemini 4 Hydrogen，接入搜索并免费开放任务代办",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
+        "storyUrl": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d",
+        "sourceCount": 5,
+        "participantCount": 20,
+        "latestAt": "2026-11-18T00:05:40.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "ulwhtxvx986i1rjdkk2mxgzdl",
+        "title": "Nvidia停售H200芯片，结束对华出口通道",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "aihotUrl": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
+        "storyUrl": "https://aihot.news/story/fbb613d2-1a33-467d-87ff-5e666f2e2b9d",
+        "sourceCount": 2,
+        "participantCount": 17,
+        "latestAt": "2026-11-18T13:01:05.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "l74eacnb38ytvm5hm8om7h7cs",
+        "title": "Google 将 Genie 4 开放给 AI Ultra 订阅者",
+        "sourceName": "Google DeepMind：Blog（RSS）",
+        "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+        "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
+        "sourceCount": 5,
+        "participantCount": 12,
+        "latestAt": "2026-11-18T22:39:01.720Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Google DeepMind",
+              "asset": "/assets/identities/googledeepmind.jpg",
+              "assetSource": "https://x.com/GoogleDeepMind",
+              "tone": "#e4eaf4"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "u36vxmxeopbsx4if4lap30899",
+        "title": "腾讯混元发布 Hy4 flash 并开源、接入多平台",
+        "sourceName": "腾讯混元：Research（API）",
+        "sourceUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
+        "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
+        "storyUrl": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3",
+        "sourceCount": 6,
+        "participantCount": 18,
+        "latestAt": "2026-11-18T17:28:40.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "腾讯混元：Research（API）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 10,
         "id": "bbq5540gooev6rr4uo6d3poaj",
         "title": "腾讯WorkBuddy日活超千万，年化收入逾5亿美元",
         "sourceName": "IT之家·人工智能",
@@ -636,125 +708,13 @@
           "caption": "热点",
           "author": null
         }
-      },
-      {
-        "rank": 7,
-        "id": "u36vxmxeopbsx4if4lap30899",
-        "title": "腾讯混元发布 Hy4 flash 并开源、接入多平台",
-        "sourceName": "腾讯混元：Research（API）",
-        "sourceUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
-        "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-        "storyUrl": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3",
-        "sourceCount": 7,
-        "participantCount": 18,
-        "latestAt": "2026-11-18T17:28:40.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "腾讯混元：Research（API）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
-        "id": "x6msqkehvwzry0904un629cqg",
-        "title": "美商务部推进远程算力管制，Nvidia曾游说反对",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-        "aihotUrl": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
-        "storyUrl": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe",
-        "sourceCount": 3,
-        "participantCount": 21,
-        "latestAt": "2026-11-18T03:53:46.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 9,
-        "id": "c3qj65urfo345mc80xz5jdefb",
-        "title": "微软发布 MAI Code 2 与 Code 2 Flash 编码模型",
-        "sourceName": "Microsoft AI：官方博客（RSS）",
-        "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-        "aihotUrl": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
-        "storyUrl": "https://aihot.news/story/b2e9c749-e7a3-418f-a8e5-0042323af0b5",
-        "sourceCount": 3,
-        "participantCount": 14,
-        "latestAt": "2026-11-17T22:42:53.597Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "Microsoft AI：官方博客（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 10,
-        "id": "e871ammlz8gpx1oozsswidzt0",
-        "title": "可灵发布Kling Image 4.0并接入多个第三方平台",
-        "sourceName": "公众号：可灵AI（快手·视频）",
-        "sourceUrl": "https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w",
-        "aihotUrl": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0",
-        "storyUrl": "https://aihot.news/story/00140fdc-ef32-4b30-85a6-6fd84ab70de4",
-        "sourceCount": 4,
-        "participantCount": 13,
-        "latestAt": "2026-11-18T13:18:47.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "公众号：可灵AI（快手·视频）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
       }
     ]
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-18T18:46:47.044Z",
-    "nextCheckAt": 1795027907044,
+    "checkedAt": "2026-11-19T00:45:20.054Z",
+    "nextCheckAt": 1795049420054,
     "intervalSeconds": 300,
     "message": ""
   }
