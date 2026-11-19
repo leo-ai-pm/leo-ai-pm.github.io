@@ -1,7 +1,7 @@
 {
   "date": "2026年11月19日",
   "demo": false,
-  "updatedAt": "2026-11-19T00:45:20.054Z",
+  "updatedAt": "2026-11-19T07:59:10.404Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 231,
+    "received": 237,
     "latestCount": 4,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,7 +38,7 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -119,7 +119,7 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 2,
+        "matched": 3,
         "status": "本次收录"
       },
       {
@@ -218,11 +218,11 @@
       }
     },
     {
-      "id": "aihot-vntkimin8apqkocftgs2ipxm0",
-      "title": "Greg Brockman 确认 OpenAI 与研究者协作披露 NGINX 1.31.8 漏洞 NGINX2Shell",
-      "brief": "安全研究者 @ikotas00 发现 NGINX 1.31.8 主线版本中的预认证远程代码执行漏洞 NGINX2Shell，并称从发现到披露全程与 OpenAI 紧密协作。",
-      "summary": "安全研究者 @ikotas00 发现 NGINX 1.31.8 主线版本中的预认证远程代码执行漏洞 NGINX2Shell，并称从发现到披露全程与 OpenAI 紧密协作。",
-      "category": "行业观察",
+      "id": "aihot-irm2anlwdohl9n795ctl7x42m",
+      "title": "OpenAI 推出 ChatGPT for Accounting 及会计插件",
+      "brief": "OpenAI 推出 ChatGPT for Accounting，官方会计插件和合作插件可减少月结报表、银行对账、数据录入和审计准备等手工工作。",
+      "summary": "OpenAI 推出 ChatGPT for Accounting，官方会计插件和合作插件可减少月结报表、银行对账、数据录入和审计准备等手工工作。",
+      "category": "产品动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
@@ -230,20 +230,14 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Greg Brockman · @gdb",
       "feedName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2123190766382075992",
-      "aggregateUrl": "https://aihot.news/items/vntkimin8apqkocftgs2ipxm0",
+      "sourceUrl": "https://x.com/gdb/status/2123225465762542044",
+      "aggregateUrl": "https://aihot.news/items/irm2anlwdohl9n795ctl7x42m",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-18T23:05:00.000Z",
+      "publishedAt": "2026-11-19T01:22:53.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
-          {
-            "name": "Greg Brockman",
-            "asset": "/assets/identities/gdb.jpg",
-            "assetSource": "https://x.com/gdb",
-            "tone": "#e9e4dc"
-          },
           {
             "name": "OpenAI",
             "asset": "/assets/identities/openai.jpg",
@@ -251,7 +245,7 @@
             "tone": "#e6eeea"
           }
         ],
-        "caption": "行业观察",
+        "caption": "产品动态",
         "author": {
           "name": "Greg Brockman",
           "asset": "/assets/identities/gdb.jpg",
@@ -261,22 +255,22 @@
       }
     },
     {
-      "id": "aihot-we76u81z3odvz7zoaqqaisi8c",
-      "title": "Perplexity 在 iOS 和 Android 上线 Teammates 与 Multiagent 功能",
-      "brief": "Perplexity CEO Aravind Srinivas 宣布 Teammates 和 Multiagent 功能正在 iOS 和 Android 端推出，称移动应用将变成口袋里的迷你 workOS。",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布 Teammates 和 Multiagent 功能正在 iOS 和 Android 端推出，称移动应用将变成口袋里的迷你 workOS。",
+      "id": "aihot-nigsb48mbfnjfyivgz1i5dnuu",
+      "title": "Perplexity 发布 Monitor、Orchestrator、Context 三项新 API",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布过去几天推出三项新 API：Perplexity Monitor 提供可编程的事件提醒，Perplexity Orchestrator 在前沿模型和开源权重模型间按任务路由，Perplexity Context 支持批量将 URL 转换为智能体可用的内容。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布过去几天推出三项新 API：Perplexity Monitor 提供可编程的事件提醒，Perplexity Orchestrator 在前沿模型和开源权重模型间按任务路由，Perplexity Context 支持批量将 URL 转换为智能体可用的内容。",
       "category": "产品动态",
-      "topic": "AI 产品",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2123129712301969597",
-      "aggregateUrl": "https://aihot.news/items/we76u81z3odvz7zoaqqaisi8c",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2123224126248906811",
+      "aggregateUrl": "https://aihot.news/items/nigsb48mbfnjfyivgz1i5dnuu",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-18T19:02:23.000Z",
+      "publishedAt": "2026-11-19T01:17:33.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -338,6 +332,56 @@
   "ranking": [
     {
       "rank": 1,
+      "id": "lp0snt9lfrx5ju7mg3wma6hnw",
+      "title": "Google 发布 Gemini 4 Neon，API 可直传 Office 文件",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "aihotUrl": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
+      "storyUrl": "https://aihot.news/story/74578987-a1ed-4ce0-96b8-658226459865",
+      "sourceCount": 19,
+      "participantCount": 81,
+      "latestAt": "2026-11-19T06:52:26.000Z",
+      "expanded": true,
+      "latest": "Google DeepMind 发布 Gemini 4 Neon：1M 上下文，AA Coding Agent Index 第一",
+      "reports": [
+        {
+          "title": "Google DeepMind 发布 Gemini 4 Neon，约七周内第四款 Gemini 4 模型",
+          "sourceName": "Latent Space（RSS）",
+          "sourceUrl": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+          "aihotUrl": "https://aihot.news/items/y31qy9lcxqa6mdi3lmxs2dyz7",
+          "publishedAt": "2026-11-19T07:07:43.000Z"
+        },
+        {
+          "title": "Google DeepMind 发布 Gemini 4 Neon：1M 上下文，AA Coding Agent Index 第一",
+          "sourceName": "MarkTechPost（RSS）",
+          "sourceUrl": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+          "aihotUrl": "https://aihot.news/items/jamzhkryxi9grd3sxnmgsmgyj",
+          "publishedAt": "2026-11-19T06:52:26.000Z"
+        },
+        {
+          "title": "谷歌发布 Gemini 4 Neon，作者称 Antigravity 拖后腿",
+          "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
+          "sourceUrl": "https://x.com/aiwarts/status/2123245199300370650",
+          "aihotUrl": "https://aihot.news/items/q3tzsped63ebtcs6wm4v2ix0t",
+          "publishedAt": "2026-11-19T02:41:18.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "jr7fqw95e5ihuevr1rzib208l",
       "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol 两款模型",
       "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
@@ -345,7 +389,7 @@
       "aihotUrl": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
       "storyUrl": "https://aihot.news/story/2254fd74-e05d-4b8b-861e-9d14e940f4bc",
       "sourceCount": 9,
-      "participantCount": 121,
+      "participantCount": 122,
       "latestAt": "2026-11-18T01:04:01.000Z",
       "expanded": true,
       "latest": "深度实测GPT-6.2 Astra：OpenAI在偏科道路上越走越远",
@@ -400,56 +444,6 @@
       }
     },
     {
-      "rank": 2,
-      "id": "lp0snt9lfrx5ju7mg3wma6hnw",
-      "title": "Google 发布 Gemini 4 Neon，API 支持直传 Office 文件",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "aihotUrl": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-      "storyUrl": "https://aihot.news/story/74578987-a1ed-4ce0-96b8-658226459865",
-      "sourceCount": 16,
-      "participantCount": 43,
-      "latestAt": "2026-11-18T23:53:51.737Z",
-      "expanded": true,
-      "latest": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数排名第一",
-      "reports": [
-        {
-          "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数排名第一",
-          "sourceName": "IT之家·人工智能",
-          "sourceUrl": "https://www.ithome.com/1/029/144.htm",
-          "aihotUrl": "https://aihot.news/items/jc7t0yd0te6schwztyb54llr3",
-          "publishedAt": "2026-11-18T23:53:51.737Z"
-        },
-        {
-          "title": "Cursor 文档新增 Gemini 4 Neon",
-          "sourceName": "X：Cursor (@cursor_ai)",
-          "sourceUrl": "https://x.com/cursor_ai/status/2123198359309853169",
-          "aihotUrl": "https://aihot.news/items/f310ndsi8el1law6vij3k9zk9",
-          "publishedAt": "2026-11-18T23:35:10.000Z"
-        },
-        {
-          "title": "Gemini 4 Neon 上线 Cursor",
-          "sourceName": "X：Cursor (@cursor_ai)",
-          "sourceUrl": "https://x.com/cursor_ai/status/2123198346802450926",
-          "aihotUrl": "https://aihot.news/items/hnez64zu373e0060mncyx0vhb",
-          "publishedAt": "2026-11-18T23:35:07.000Z"
-        }
-      ],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 3,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
       "title": "Anthropic IPO 定价 83 美元，估值约 1.5 万亿美元",
@@ -458,7 +452,7 @@
       "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
       "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
       "sourceCount": 6,
-      "participantCount": 47,
+      "participantCount": 54,
       "latestAt": "2026-11-19T00:15:51.000Z",
       "expanded": true,
       "latest": "Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元",
@@ -520,8 +514,8 @@
       "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "aihotUrl": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
       "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1",
-      "sourceCount": 4,
-      "participantCount": 74,
+      "sourceCount": 3,
+      "participantCount": 71,
       "latestAt": "2026-11-18T19:30:00.000Z",
       "expanded": false,
       "latest": "",
@@ -548,9 +542,9 @@
       "sourceUrl": "https://x.com/rohanpaul_ai/status/2122812619379900579",
       "aihotUrl": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
       "storyUrl": "https://aihot.news/story/e79088af-89d6-42e0-8947-05fbb16ede38",
-      "sourceCount": 4,
-      "participantCount": 26,
-      "latestAt": "2026-11-18T18:34:15.000Z",
+      "sourceCount": 5,
+      "participantCount": 29,
+      "latestAt": "2026-11-19T05:08:33.010Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -570,6 +564,34 @@
     },
     {
       "rank": 6,
+      "id": "pvzjd4v1c1b50ly6yf0vkv26h",
+      "title": "Nvidia临时CEO提前加薪并承诺路线不变",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2123300206922133979",
+      "aihotUrl": "https://aihot.news/items/pvzjd4v1c1b50ly6yf0vkv26h",
+      "storyUrl": "https://aihot.news/story/c5899d4d-282f-4d24-9aa7-43f7b133d229",
+      "sourceCount": 1,
+      "participantCount": 14,
+      "latestAt": "2026-11-19T06:19:52.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "uy1ayrrlqx1snqsv4lub7whsa",
       "title": "Google 发布 Gemini 4 Hydrogen，接入搜索并免费开放任务代办",
       "sourceName": "Google DeepMind：Blog（RSS）",
@@ -597,7 +619,63 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "id": "l74eacnb38ytvm5hm8om7h7cs",
+      "title": "Google 将 Genie 4 开放给 AI Ultra 订阅者",
+      "sourceName": "Google DeepMind：Blog（RSS）",
+      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+      "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
+      "sourceCount": 5,
+      "participantCount": 13,
+      "latestAt": "2026-11-19T02:25:37.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Google DeepMind",
+            "asset": "/assets/identities/googledeepmind.jpg",
+            "assetSource": "https://x.com/GoogleDeepMind",
+            "tone": "#e4eaf4"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 9,
+      "id": "bbq5540gooev6rr4uo6d3poaj",
+      "title": "腾讯WorkBuddy日活超千万，年化收入逾5亿美元",
+      "sourceName": "IT之家·人工智能",
+      "sourceUrl": "https://www.ithome.com/1/028/914.htm",
+      "aihotUrl": "https://aihot.news/items/bbq5540gooev6rr4uo6d3poaj",
+      "storyUrl": "https://aihot.news/story/f9f27ce5-c259-4268-9c72-3cdc38699171",
+      "sourceCount": 2,
+      "participantCount": 14,
+      "latestAt": "2026-11-18T14:15:02.887Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "IT之家·人工智能",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 10,
       "id": "ulwhtxvx986i1rjdkk2mxgzdl",
       "title": "Nvidia停售H200芯片，结束对华出口通道",
       "sourceName": "TechCrunch：AI（RSS）",
@@ -618,90 +696,6 @@
             "asset": "/assets/identities/nvidia.jpg",
             "assetSource": "https://x.com/nvidia",
             "tone": "#e7edda"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "l74eacnb38ytvm5hm8om7h7cs",
-      "title": "Google 将 Genie 4 开放给 AI Ultra 订阅者",
-      "sourceName": "Google DeepMind：Blog（RSS）",
-      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "aihotUrl": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
-      "storyUrl": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180",
-      "sourceCount": 5,
-      "participantCount": 12,
-      "latestAt": "2026-11-18T22:39:01.720Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "u36vxmxeopbsx4if4lap30899",
-      "title": "腾讯混元发布 Hy4 flash 并开源、接入多平台",
-      "sourceName": "腾讯混元：Research（API）",
-      "sourceUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
-      "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-      "storyUrl": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3",
-      "sourceCount": 6,
-      "participantCount": 18,
-      "latestAt": "2026-11-18T17:28:40.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "腾讯混元：Research（API）",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "bbq5540gooev6rr4uo6d3poaj",
-      "title": "腾讯WorkBuddy日活超千万，年化收入逾5亿美元",
-      "sourceName": "IT之家·人工智能",
-      "sourceUrl": "https://www.ithome.com/1/028/914.htm",
-      "aihotUrl": "https://aihot.news/items/bbq5540gooev6rr4uo6d3poaj",
-      "storyUrl": "https://aihot.news/story/f9f27ce5-c259-4268-9c72-3cdc38699171",
-      "sourceCount": 2,
-      "participantCount": 12,
-      "latestAt": "2026-11-18T14:15:02.887Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "IT之家·人工智能",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",

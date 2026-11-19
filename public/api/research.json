@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-19T00:45:07.629Z",
-      "lastSuccessAt": "2026-11-19T00:45:07.629Z",
-      "nextCheckAt": 1795052707629,
+      "checkedAt": "2026-11-19T07:58:59.077Z",
+      "lastSuccessAt": "2026-11-19T07:58:59.077Z",
+      "nextCheckAt": 1795078739077,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-19T07:58:59.078Z",
+      "lastSuccessAt": "2026-11-19T07:58:59.078Z",
+      "nextCheckAt": 1795078739078,
       "status": "ok",
-      "nextCheckAt": 1795052707630,
-      "checkedAt": "2026-11-19T00:45:07.630Z",
-      "lastSuccessAt": "2026-11-19T00:45:07.630Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-19T00:45:07.631Z",
-      "lastSuccessAt": "2026-11-19T00:45:07.631Z",
-      "nextCheckAt": 1795052707631,
+      "checkedAt": "2026-11-19T07:58:59.079Z",
+      "lastSuccessAt": "2026-11-19T07:58:59.079Z",
+      "nextCheckAt": 1795078739079,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1795052707744,
-      "checkedAt": "2026-11-19T00:45:07.744Z",
-      "lastSuccessAt": "2026-11-19T00:45:07.744Z",
+      "nextCheckAt": 1795078739216,
+      "checkedAt": "2026-11-19T07:58:59.216Z",
+      "lastSuccessAt": "2026-11-19T07:58:59.216Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,19 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795052707629,
+  "nextCheckAt": 1795078739077,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/pd/6495970.html",
-      "title": "动线Agent：AI驱动的全链路用户转化引导",
-      "summary": "本文介绍了淘特App推出的动线Agent——一套由大模型（LLM）驱动的全链路用户转化引导系统。针对近90%到端用户未完成转化的痛点，该系统围绕用户旅程（ 进端/在端/离端 ）部署了三个差异化智能体。三者均取得显著业务增益，整体峰值增量GMV占比超大盘5%，且通过技术手段将token成本降低60%以上。未来将推动三端从数据回流走向共享决策状态，构建统一的用户智能体。 在注意力经济时代，短视频足够好刷，游戏和内容 App 也在持续争夺用户",
-      "publishedAt": "2026-11-18T09:53:46.000Z",
-      "url": "https://www.woshipm.com/pd/6495970.html",
+      "id": "woshipm:https://www.woshipm.com/share/6496556.html",
+      "title": "从工具逻辑到关系逻辑：C端AI的留存悖论",
+      "summary": "当C端AI产品用广告贩卖“陪伴式创作”的幻想，用户却遭遇“两轮即忘”的尴尬；而DeepSeek几乎不打广告，用户反而追着喊“求你收我钱”。这背后是工具逻辑与关系逻辑的深层悖论：用户要的不是功能，而是被接住的在场感。本文拆解这一反常识信号，揭示伙伴感如何成为通用AI的隐性刚需，以及留存指标失真的真相。 长期观察C端AI产品生态——这里特指面向普通用户的AI聊天助手形态，而非B端API或企业服务——最近撞见一个反常识的留存信号。 一边是铺天",
+      "publishedAt": "2026-11-19T07:21:48.000Z",
+      "url": "https://www.woshipm.com/share/6496556.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/pd/6495970.html",
+      "sourceUrl": "https://www.woshipm.com/share/6496556.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "本文介绍了淘特App推出的动线Agent——一套由大模型（LLM）驱动的全链路用户转化引导系统。针对近90%到端用户未完成转化的痛点，该系统围绕用户旅程（ 进端/在端/离端 ）部署了三个差异化智能体。三者均取得显著业务增益，整体峰值增量GMV占比超大盘5%，且通过技术手段将token成本降低60%以上。未来将推动三端从数据回流走向共享决策状态，构建统一的用户智能体。 在注意力经济时代，短视频足够好刷，游戏和内容 App 也在持续争夺用户",
+      "brief": "当C端AI产品用广告贩卖“陪伴式创作”的幻想，用户却遭遇“两轮即忘”的尴尬；而DeepSeek几乎不打广告，用户反而追着喊“求你收我钱”。这背后是工具逻辑与关系逻辑的深层悖论：用户要的不是功能，而是被接住的在场感。本文拆解这一反常识信号，揭示伙伴感如何成为通用AI的隐性刚需，以及留存指标失真的真相。 长期观察C端AI产品生态——这里特指面向普通用户的AI聊天助手形态，而非B端API或企业服务——最近撞见一个反常识的留存信号。 一边是铺天",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,11 +134,11 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6495923.html",
-      "title": "WorkBuddy20来个大模型，从夯到拉排行榜！",
-      "summary": "WorkBuddy里那一长串模型到底点哪个？作者翻出三个月账本：22680.8积分里，有9077.9分烧在一个341轮对话上，用的还是最便宜的主力模型。这篇不按跑分排，而是按你要干什么活，把二十来个模型分五档，写清什么时候点、代价多少。 上周有朋友跑来问我：WorkBuddy 里那一长串模型，到底该点哪个？我说你先别问点哪个，你告诉我这活儿要干多久。 他愣了一下：「这还有关系？」 关系大了。我把三个月的账本翻出来一笔一笔算：22680.",
-      "publishedAt": "2026-11-18T09:10:00.000Z",
-      "url": "https://www.woshipm.com/ai/6495923.html",
+      "id": "woshipm:https://www.woshipm.com/embodied/6496541.html",
+      "title": "一个能拿 79 分的机器人模型，和一个被撤掉的团队",
+      "summary": "GPT-6.2 Astra 在机械臂真机评测拿到 79 分，比前代高 10 分，八项桌面操作做成六项。而发布前五天，OpenAI 撤掉了独立机器人团队。通用模型接手机器人之后，具身智能的路线正在被重写。 我们必须感知才能行动，也必须行动才能感知。——詹姆斯·吉布森，《视知觉的生态学进路》 11 月18 日，OpenAI 发布 GPT-6.2 Astra。同一天在 Artificial Analysis 的机械臂真机评测中，新版拿到 79",
+      "publishedAt": "2026-11-19T07:00:30.000Z",
+      "url": "https://www.woshipm.com/embodied/6496541.html",
       "linkKind": "original",
       "opportunity": {
         "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
@@ -162,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6495923.html",
+      "sourceUrl": "https://www.woshipm.com/embodied/6496541.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "WorkBuddy里那一长串模型到底点哪个？作者翻出三个月账本：22680.8积分里，有9077.9分烧在一个341轮对话上，用的还是最便宜的主力模型。这篇不按跑分排，而是按你要干什么活，把二十来个模型分五档，写清什么时候点、代价多少。 上周有朋友跑来问我：WorkBuddy 里那一长串模型，到底该点哪个？我说你先别问点哪个，你告诉我这活儿要干多久。 他愣了一下：「这还有关系？」 关系大了。我把三个月的账本翻出来一笔一笔算：22680.",
+      "brief": "GPT-6.2 Astra 在机械臂真机评测拿到 79 分，比前代高 10 分，八项桌面操作做成六项。而发布前五天，OpenAI 撤掉了独立机器人团队。通用模型接手机器人之后，具身智能的路线正在被重写。 我们必须感知才能行动，也必须行动才能感知。——詹姆斯·吉布森，《视知觉的生态学进路》 11 月18 日，OpenAI 发布 GPT-6.2 Astra。同一天在 Artificial Analysis 的机械臂真机评测中，新版拿到 79",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,24 +174,23 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6495766.html",
-      "title": "Claude Fable5.2杀疯了！分享4个神仙玩法（附稳定使用方案）",
-      "summary": "有号商从巴厘岛骑摩托1500公里到苏门答腊，挨家挨户收Claude账号并现场做实名验证。作者笑完又笑不出来——Anthropic风控越来越严，查IP、查设备、查支付卡再上KYC，最终都要回答：屏幕对面是不是愿意服务的真人。 前两天我在X上刷到个巨魔幻的事情，看完直接给我愣住了。 有号商从巴厘岛出发，骑摩托跑了1500公里到苏门答腊，挨家挨户收Claude账号。面对面收，现场做KYC（就是实名验证），做完还跟当地人合影留念。 照片里的白板",
-      "publishedAt": "2026-11-18T07:00:33.000Z",
-      "url": "https://www.woshipm.com/ai/6495766.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6496535.html",
+      "title": "微信小微，已成为国内最大Personal Agent",
+      "summary": "微信小微日活已超 3000 万，是 WorkBuddy 的三倍，却刻意做得比 Muse 弱。从入口布局、WeLM 自研模型到变现路径，这篇把腾讯 Q3 财报里关于小微的公开信息逐条拆开，看 Personal Agent 的生态位怎么划。 近日，腾讯发布 Q3 财报。 微信小微，在财报和电话会议中，多次提及。 总结几个关于微信小微的公开、但是很多人不知道的信息。 我相信，可能没有任何一篇文章，会这么深挖微信小微的各方面。 1、小微的定位：",
+      "publishedAt": "2026-11-19T06:57:03.000Z",
+      "url": "https://www.woshipm.com/ai/6496535.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -203,11 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6495766.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6496535.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "有号商从巴厘岛骑摩托1500公里到苏门答腊，挨家挨户收Claude账号并现场做实名验证。作者笑完又笑不出来——Anthropic风控越来越严，查IP、查设备、查支付卡再上KYC，最终都要回答：屏幕对面是不是愿意服务的真人。 前两天我在X上刷到个巨魔幻的事情，看完直接给我愣住了。 有号商从巴厘岛出发，骑摩托跑了1500公里到苏门答腊，挨家挨户收Claude账号。面对面收，现场做KYC（就是实名验证），做完还跟当地人合影留念。 照片里的白板",
+      "brief": "微信小微日活已超 3000 万，是 WorkBuddy 的三倍，却刻意做得比 Muse 弱。从入口布局、WeLM 自研模型到变现路径，这篇把腾讯 Q3 财报里关于小微的公开信息逐条拆开，看 Personal Agent 的生态位怎么划。 近日，腾讯发布 Q3 财报。 微信小微，在财报和电话会议中，多次提及。 总结几个关于微信小微的公开、但是很多人不知道的信息。 我相信，可能没有任何一篇文章，会这么深挖微信小微的各方面。 1、小微的定位：",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
