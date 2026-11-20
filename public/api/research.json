@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-20T04:14:02.049Z",
-      "lastSuccessAt": "2026-11-20T04:14:02.049Z",
-      "nextCheckAt": 1795151642049,
+      "checkedAt": "2026-11-20T13:03:09.990Z",
+      "lastSuccessAt": "2026-11-20T13:03:09.990Z",
+      "nextCheckAt": 1795183389990,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-20T04:14:02.050Z",
-      "lastSuccessAt": "2026-11-20T04:14:02.050Z",
-      "nextCheckAt": 1795151642050,
+      "checkedAt": "2026-11-20T13:03:09.991Z",
+      "lastSuccessAt": "2026-11-20T13:03:09.991Z",
+      "nextCheckAt": 1795183389991,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-20T04:14:02.051Z",
-      "lastSuccessAt": "2026-11-20T04:14:02.051Z",
-      "nextCheckAt": 1795151642051,
+      "checkedAt": "2026-11-20T13:03:09.992Z",
+      "lastSuccessAt": "2026-11-20T13:03:09.992Z",
+      "nextCheckAt": 1795183389992,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1795151642322,
-      "checkedAt": "2026-11-20T04:14:02.322Z",
-      "lastSuccessAt": "2026-11-20T04:14:02.322Z",
+      "nextCheckAt": 1795183390250,
+      "checkedAt": "2026-11-20T13:03:10.250Z",
+      "lastSuccessAt": "2026-11-20T13:03:10.250Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,15 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795151642049,
+  "nextCheckAt": 1795183389990,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6497104.html",
-      "title": "GPT-6.2 正式发布：跑分暴涨、价格大降，为何却遭硅谷开发者集体差评？",
-      "summary": "Astra智能指数从57涨到62，Sol单任务成本只有上一代16%，榜单很漂亮。可有团队让它连优化11天Rust编译器，性能反降56%，最后四天几乎零进展。跑分和交付之间隔着什么？ GPT-6.2 Astra 和 Sol 发布后，公开榜单给出了一个很漂亮的结果：Astra 的智能指数从 57 分升到 62 分，超过 Gemini 4 Carbon 和 Claude Opus 5.5；Sol 从 55 分升到 57 分，单任务评测成本约为",
-      "publishedAt": "2026-11-20T03:25:18.000Z",
-      "url": "https://www.woshipm.com/ai/6497104.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6497493.html",
+      "title": "开源大模型，很难再纯粹了",
+      "summary": "从自由开源软件到受控开放权重，头部大模型的协议已经分成两队。DeepSeek 守着 MIT，腾讯 Hy4、Qwen、Kimi 各自设了 MaaS 授权线、品牌露出和蒸馏条款，商业化落地前值得逐条读完。 WorkBuddy 绝配大模型，Hy4 正式版实测！超预期了 WorkBuddy 上免费用 Hy4 flash，推荐我的 2 个邪修玩法！ 刚刚，继开源 Hy4 flash 之后，腾讯开源了 Hy4，权重文件 1.5 T，本地部署是与我无",
+      "publishedAt": "2026-11-20T09:00:00.000Z",
+      "url": "https://www.woshipm.com/ai/6497493.html",
       "linkKind": "original",
       "opportunity": {
         "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
@@ -108,10 +108,9 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
           }
         ],
         "caption": "产品拆解",
@@ -123,11 +122,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6497104.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6497493.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Astra智能指数从57涨到62，Sol单任务成本只有上一代16%，榜单很漂亮。可有团队让它连优化11天Rust编译器，性能反降56%，最后四天几乎零进展。跑分和交付之间隔着什么？ GPT-6.2 Astra 和 Sol 发布后，公开榜单给出了一个很漂亮的结果：Astra 的智能指数从 57 分升到 62 分，超过 Gemini 4 Carbon 和 Claude Opus 5.5；Sol 从 55 分升到 57 分，单任务评测成本约为",
+      "brief": "从自由开源软件到受控开放权重，头部大模型的协议已经分成两队。DeepSeek 守着 MIT，腾讯 Hy4、Qwen、Kimi 各自设了 MaaS 授权线、品牌露出和蒸馏条款，商业化落地前值得逐条读完。 WorkBuddy 绝配大模型，Hy4 正式版实测！超预期了 WorkBuddy 上免费用 Hy4 flash，推荐我的 2 个邪修玩法！ 刚刚，继开源 Hy4 flash 之后，腾讯开源了 Hy4，权重文件 1.5 T，本地部署是与我无",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -135,15 +134,15 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6497117.html",
-      "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
-      "summary": "当DeepSeek主动给免费用户限额，一个反直觉的信号浮出水面：在算力经济时代，海量C端免费用户不再是护城河，而是持续失血的伤口。本文从成本结构、商业重心迁移与算力约束三重维度，拆解AI企业为何集体转向付费API与生产力场景，重新定义AGI竞赛的胜负手。 “去别的地方玩，不要耽误AGI训练。” 这句针对DeepSeek的调侃，如今正变成现实。 近日，DeepSeek收紧了网页版和App免费用户的使用额度，超过7天不活跃的长对话无法继续使",
-      "publishedAt": "2026-11-20T03:20:04.000Z",
-      "url": "https://www.woshipm.com/ai/6497117.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6497382.html",
+      "title": "AI员工进入工厂，如何设计一套真正有效的POC验收标准？",
+      "summary": "当AI智能体闯入制造腹地，工厂验收标准面临重构。本文从破壁力、确定性、复用度三个维度，拆解制造业第一期AI智能体试点的工程级验收铁律，揭示如何检验一个“会思考的机器同事”能否在老旧系统间穿行、在红线前刹车、并沉淀为可复用的数字基座。 每一次工业革命的浪潮，最先拍打的永远是工厂的围墙。 两百多年前，瓦特改良的蒸汽机在曼彻斯特的纺织厂里发出第一声轰鸣，人类第一次用钢铁与煤炭替代了血肉之躯的体力劳作。随后，流水线、数控机床、六轴机械臂接踵而至",
+      "publishedAt": "2026-11-20T08:34:21.000Z",
+      "url": "https://www.woshipm.com/ai/6497382.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -163,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6497117.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6497382.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "当DeepSeek主动给免费用户限额，一个反直觉的信号浮出水面：在算力经济时代，海量C端免费用户不再是护城河，而是持续失血的伤口。本文从成本结构、商业重心迁移与算力约束三重维度，拆解AI企业为何集体转向付费API与生产力场景，重新定义AGI竞赛的胜负手。 “去别的地方玩，不要耽误AGI训练。” 这句针对DeepSeek的调侃，如今正变成现实。 近日，DeepSeek收紧了网页版和App免费用户的使用额度，超过7天不活跃的长对话无法继续使",
+      "brief": "当AI智能体闯入制造腹地，工厂验收标准面临重构。本文从破壁力、确定性、复用度三个维度，拆解制造业第一期AI智能体试点的工程级验收铁律，揭示如何检验一个“会思考的机器同事”能否在老旧系统间穿行、在红线前刹车、并沉淀为可复用的数字基座。 每一次工业革命的浪潮，最先拍打的永远是工厂的围墙。 两百多年前，瓦特改良的蒸汽机在曼彻斯特的纺织厂里发出第一声轰鸣，人类第一次用钢铁与煤炭替代了血肉之躯的体力劳作。随后，流水线、数控机床、六轴机械臂接踵而至",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -175,15 +174,15 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6497089.html",
-      "title": "从AI助手到AI管钱，金融Agent有几个关键信号！",
-      "summary": "42%的金融科技公司自称准备好部署Agentic AI，真正上生产的只有11%。Airwallex在新加坡金融科技节发布白皮书，同时推出内置AI金融伙伴Kai的智能全球企业账户，把这道差距落到产品上。 最近，在新加坡金融科技节（Singapore FinTech Festival）上。 Airwallex空中云汇联合Kapronasia、新加坡金融科技协会（SFA），发布了一份白皮书《AI发展的关键转折点：重塑金融科技》《The AI",
-      "publishedAt": "2026-11-20T02:48:55.000Z",
-      "url": "https://www.woshipm.com/ai/6497089.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6497396.html",
+      "title": "让AI给口播配画面，我做了一个可无限复用的开源Skill（附6模型实测）！",
+      "summary": "给一条资讯、一份文稿，Skill 自己走完脚本、配图、成片，不用每次重调。六个模型实测下来 Codex 最快，Claude 要几十分钟；这套模板做一次就能批量复用，最多改改排版。 今天分享个实用的（其实是拖拉好久一直没有写完）。 前一阵我的 Claude 十二世还在世，Opus 5.5 刚出不久，我正好想用它来给我做口播视频的一些配套画面，要尽可能可控不用过多调整，比纯怼着我的雷霆大脑袋一直给观众看来得更有意思，于是我做了个 Skill",
+      "publishedAt": "2026-11-20T08:15:34.000Z",
+      "url": "https://www.woshipm.com/ai/6497396.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -203,11 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6497089.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6497396.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "42%的金融科技公司自称准备好部署Agentic AI，真正上生产的只有11%。Airwallex在新加坡金融科技节发布白皮书，同时推出内置AI金融伙伴Kai的智能全球企业账户，把这道差距落到产品上。 最近，在新加坡金融科技节（Singapore FinTech Festival）上。 Airwallex空中云汇联合Kapronasia、新加坡金融科技协会（SFA），发布了一份白皮书《AI发展的关键转折点：重塑金融科技》《The AI",
+      "brief": "给一条资讯、一份文稿，Skill 自己走完脚本、配图、成片，不用每次重调。六个模型实测下来 Codex 最快，Claude 要几十分钟；这套模板做一次就能批量复用，最多改改排版。 今天分享个实用的（其实是拖拉好久一直没有写完）。 前一阵我的 Claude 十二世还在世，Opus 5.5 刚出不久，我正好想用它来给我做口播视频的一些配套画面，要尽可能可控不用过多调整，比纯怼着我的雷霆大脑袋一直给观众看来得更有意思，于是我做了个 Skill",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -215,11 +214,11 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/tecla-3",
-      "title": "Tecla",
-      "summary": "A proactive AI agent whose interface is a TODO list",
-      "publishedAt": "2026-11-19T03:05:34.000Z",
-      "url": "https://www.producthunt.com/products/tecla-3",
+      "id": "ph:https://www.producthunt.com/products/mailpipe-2",
+      "title": "Mailpipe",
+      "summary": "Draft Apple Mail replies with your local AI agent CLI",
+      "publishedAt": "2026-11-20T04:13:55.000Z",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -243,11 +242,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/tecla-3",
+      "sourceUrl": "https://www.producthunt.com/products/mailpipe-2",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "A proactive AI agent whose interface is a TODO list",
+      "brief": "Draft Apple Mail replies with your local AI agent CLI",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -255,52 +254,11 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/gemini-6",
-      "title": "Gemini 4 Neon",
-      "summary": "Frontier reasoning with faster task completion",
-      "publishedAt": "2026-11-19T02:32:38.000Z",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/gemini-6",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Frontier reasoning with faster task completion",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/adside",
-      "title": "Adside",
-      "summary": "A team of specialized AI agents that manage paid ads for you",
-      "publishedAt": "2026-11-19T00:52:42.000Z",
-      "url": "https://www.producthunt.com/products/adside",
+      "id": "ph:https://www.producthunt.com/products/docker",
+      "title": "Docker",
+      "summary": "Built to run on trust, for the agentic era",
+      "publishedAt": "2026-11-19T23:04:30.000Z",
+      "url": "https://www.producthunt.com/products/docker",
       "linkKind": "original",
       "opportunity": {
         "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
@@ -324,11 +282,51 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/adside",
+      "sourceUrl": "https://www.producthunt.com/products/docker",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "A team of specialized AI agents that manage paid ads for you",
+      "brief": "Built to run on trust, for the agentic era",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/veryfi",
+      "title": "Veryfi Thinking Mode",
+      "summary": "AI agents review and correct receipt and invoice data.",
+      "publishedAt": "2026-11-19T21:30:01.000Z",
+      "url": "https://www.producthunt.com/products/veryfi",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/veryfi",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "AI agents review and correct receipt and invoice data.",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
