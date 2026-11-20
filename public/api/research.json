@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-19T23:37:03.117Z",
-      "lastSuccessAt": "2026-11-19T23:37:03.117Z",
-      "nextCheckAt": 1795135023117,
+      "checkedAt": "2026-11-20T04:14:02.049Z",
+      "lastSuccessAt": "2026-11-20T04:14:02.049Z",
+      "nextCheckAt": 1795151642049,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-19T23:37:03.119Z",
-      "lastSuccessAt": "2026-11-19T23:37:03.119Z",
-      "nextCheckAt": 1795135023119,
+      "checkedAt": "2026-11-20T04:14:02.050Z",
+      "lastSuccessAt": "2026-11-20T04:14:02.050Z",
+      "nextCheckAt": 1795151642050,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-19T23:37:03.120Z",
-      "lastSuccessAt": "2026-11-19T23:37:03.120Z",
-      "nextCheckAt": 1795135023120,
+      "checkedAt": "2026-11-20T04:14:02.051Z",
+      "lastSuccessAt": "2026-11-20T04:14:02.051Z",
+      "nextCheckAt": 1795151642051,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -69,9 +69,9 @@
     {
       "id": "n8n",
       "status": "ok",
-      "nextCheckAt": 1795135023241,
-      "checkedAt": "2026-11-19T23:37:03.241Z",
-      "lastSuccessAt": "2026-11-19T23:37:03.241Z",
+      "nextCheckAt": 1795151642322,
+      "checkedAt": "2026-11-20T04:14:02.322Z",
+      "lastSuccessAt": "2026-11-20T04:14:02.322Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,27 +90,28 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795135023117,
+  "nextCheckAt": 1795151642049,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/share/6496906.html",
-      "title": "AI产品经理做竞品：从用户的选择出发，不是从技术出发",
-      "summary": "AI产品经理做竞品分析最容易掉进的陷阱是什么？被模型参数和功能表格带跑。竞品分析要解决的核心问题不是技术有多先进，而是目标用户在用什么、你的产品和竞品差别在哪、能从竞品失败中学到什么。 前段时间帮一个创业团队做竞品分析，他们是做企业AI助手的。我接到的第一个需求是“分析ChatGPT、Claude、Gemini怎么做的”。 我问回来，“你们的用户是谁？” “企业用户，主要在法务和财务部门。” “那为什么要分析ChatGPT？ChatGP",
-      "publishedAt": "2026-11-19T11:09:00.000Z",
-      "url": "https://www.woshipm.com/share/6496906.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6497104.html",
+      "title": "GPT-6.2 正式发布：跑分暴涨、价格大降，为何却遭硅谷开发者集体差评？",
+      "summary": "Astra智能指数从57涨到62，Sol单任务成本只有上一代16%，榜单很漂亮。可有团队让它连优化11天Rust编译器，性能反降56%，最后四天几乎零进展。跑分和交付之间隔着什么？ GPT-6.2 Astra 和 Sol 发布后，公开榜单给出了一个很漂亮的结果：Astra 的智能指数从 57 分升到 62 分，超过 Gemini 4 Carbon 和 Claude Opus 5.5；Sol 从 55 分升到 57 分，单任务评测成本约为",
+      "publishedAt": "2026-11-20T03:25:18.000Z",
+      "url": "https://www.woshipm.com/ai/6497104.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
           }
         ],
         "caption": "产品拆解",
@@ -122,11 +123,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6496906.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6497104.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "AI产品经理做竞品分析最容易掉进的陷阱是什么？被模型参数和功能表格带跑。竞品分析要解决的核心问题不是技术有多先进，而是目标用户在用什么、你的产品和竞品差别在哪、能从竞品失败中学到什么。 前段时间帮一个创业团队做竞品分析，他们是做企业AI助手的。我接到的第一个需求是“分析ChatGPT、Claude、Gemini怎么做的”。 我问回来，“你们的用户是谁？” “企业用户，主要在法务和财务部门。” “那为什么要分析ChatGPT？ChatGP",
+      "brief": "Astra智能指数从57涨到62，Sol单任务成本只有上一代16%，榜单很漂亮。可有团队让它连优化11天Rust编译器，性能反降56%，最后四天几乎零进展。跑分和交付之间隔着什么？ GPT-6.2 Astra 和 Sol 发布后，公开榜单给出了一个很漂亮的结果：Astra 的智能指数从 57 分升到 62 分，超过 Gemini 4 Carbon 和 Claude Opus 5.5；Sol 从 55 分升到 57 分，单任务评测成本约为",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -134,15 +135,15 @@
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6496704.html",
-      "title": "一手实测 NeoHorse 1.5：6B 激活专攻干活，有点东西！【附开源 MG Skill】",
-      "summary": "基元律动把 NeoHorse 1.5 丢进真实工作流：180B 总参、每次只激活 6B，靠自家平台攒下的结构化执行轨迹接着训。我拿 mg-studio 这套 Skill 当考题，让它跑分镜、素材合成和渲染自检，看一个 6B 激活的 Agent 模型能干到哪一步。 前两天刚测完阿里的旗舰 Qwen4-Max，「源神」确实一直很稳。而且除了旗舰能打，开源生态也做得很好：光是 Hugging Face 上，基于千问Qwen衍生的开源模型就已经",
-      "publishedAt": "2026-11-19T08:41:22.000Z",
-      "url": "https://www.woshipm.com/ai/6496704.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6497117.html",
+      "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
+      "summary": "当DeepSeek主动给免费用户限额，一个反直觉的信号浮出水面：在算力经济时代，海量C端免费用户不再是护城河，而是持续失血的伤口。本文从成本结构、商业重心迁移与算力约束三重维度，拆解AI企业为何集体转向付费API与生产力场景，重新定义AGI竞赛的胜负手。 “去别的地方玩，不要耽误AGI训练。” 这句针对DeepSeek的调侃，如今正变成现实。 近日，DeepSeek收紧了网页版和App免费用户的使用额度，超过7天不活跃的长对话无法继续使",
+      "publishedAt": "2026-11-20T03:20:04.000Z",
+      "url": "https://www.woshipm.com/ai/6497117.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -162,11 +163,51 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6496704.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6497117.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "基元律动把 NeoHorse 1.5 丢进真实工作流：180B 总参、每次只激活 6B，靠自家平台攒下的结构化执行轨迹接着训。我拿 mg-studio 这套 Skill 当考题，让它跑分镜、素材合成和渲染自检，看一个 6B 激活的 Agent 模型能干到哪一步。 前两天刚测完阿里的旗舰 Qwen4-Max，「源神」确实一直很稳。而且除了旗舰能打，开源生态也做得很好：光是 Hugging Face 上，基于千问Qwen衍生的开源模型就已经",
+      "brief": "当DeepSeek主动给免费用户限额，一个反直觉的信号浮出水面：在算力经济时代，海量C端免费用户不再是护城河，而是持续失血的伤口。本文从成本结构、商业重心迁移与算力约束三重维度，拆解AI企业为何集体转向付费API与生产力场景，重新定义AGI竞赛的胜负手。 “去别的地方玩，不要耽误AGI训练。” 这句针对DeepSeek的调侃，如今正变成现实。 近日，DeepSeek收紧了网页版和App免费用户的使用额度，超过7天不活跃的长对话无法继续使",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6497089.html",
+      "title": "从AI助手到AI管钱，金融Agent有几个关键信号！",
+      "summary": "42%的金融科技公司自称准备好部署Agentic AI，真正上生产的只有11%。Airwallex在新加坡金融科技节发布白皮书，同时推出内置AI金融伙伴Kai的智能全球企业账户，把这道差距落到产品上。 最近，在新加坡金融科技节（Singapore FinTech Festival）上。 Airwallex空中云汇联合Kapronasia、新加坡金融科技协会（SFA），发布了一份白皮书《AI发展的关键转折点：重塑金融科技》《The AI",
+      "publishedAt": "2026-11-20T02:48:55.000Z",
+      "url": "https://www.woshipm.com/ai/6497089.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6497089.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "42%的金融科技公司自称准备好部署Agentic AI，真正上生产的只有11%。Airwallex在新加坡金融科技节发布白皮书，同时推出内置AI金融伙伴Kai的智能全球企业账户，把这道差距落到产品上。 最近，在新加坡金融科技节（Singapore FinTech Festival）上。 Airwallex空中云汇联合Kapronasia、新加坡金融科技协会（SFA），发布了一份白皮书《AI发展的关键转折点：重塑金融科技》《The AI",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -211,7 +252,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/gemini-6",
