@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-20T13:03:37.386Z",
+  "checkedAt": "2026-11-24T20:49:39.211Z",
   "message": "",
   "report": {
-    "date": "2026-11-20",
-    "dateLabel": "2026年11月20日",
-    "weekday": "周五",
-    "issue": 68,
-    "generatedAt": "2026-11-20T00:00:39.442Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-20",
+    "date": "2026-11-24",
+    "dateLabel": "2026年11月24日",
+    "weekday": "周二",
+    "issue": 72,
+    "generatedAt": "2026-11-24T00:00:16.903Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-24",
     "lead": {
-      "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-      "summary": "Anthropic 在纳斯达克完成 IPO，开盘几分钟内股价达 111.50 美元，较 83 美元发行价高出 33%，发行价已超过公司此前 70 至 78 美元的预期区间。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-20",
+      "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+      "summary": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-24",
       "visual": {
         "entities": [
           {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "NVIDIA",
+            "asset": "/assets/identities/nvidia.jpg",
+            "assetSource": "https://x.com/nvidia",
+            "tone": "#e7edda"
           }
         ],
         "caption": "今日导读",
@@ -28,21 +28,47 @@
     },
     "sections": [
       {
+        "label": "模型发布/更新",
+        "items": [
+          {
+            "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+            "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
+            "sourceName": "公众号：智谱（GLM）",
+            "sourceUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
+            "aihotUrl": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz"
+          }
+        ]
+      },
+      {
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
-            "summary": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。",
-            "sourceName": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-            "sourceUrl": "https://x.com/joshwoodward/status/2123534862569324703",
-            "aihotUrl": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj"
+            "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
+            "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
+            "sourceName": "Claude：Blog（网页）",
+            "sourceUrl": "https://claude.com/blog/introducing-claude-ship",
+            "aihotUrl": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks"
           },
           {
-            "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
-            "summary": "Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。",
+            "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+            "summary": "ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。",
+            "sourceName": "X：Tibo (@thsottiaux)",
+            "sourceUrl": "https://x.com/thsottiaux/status/2124998553856844186",
+            "aihotUrl": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk"
+          },
+          {
+            "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
+            "summary": "Google 宣布在 Search 的 AI Mode 中扩展 Personal Intelligence，用户可选择安全连接 Google Wallet、Drive 和 Gemini 应用，Wallet 即日起开放，Drive 和 Gemini 应用将在未来数周跟进。",
             "sourceName": "Google Blog：AI（RSS）",
-            "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-            "aihotUrl": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l"
+            "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+            "aihotUrl": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2"
+          },
+          {
+            "title": "Claude 推出插件，统一连接器与技能的接入方式",
+            "summary": "Claude 官方宣布将连接器和技能合并为插件，提供统一的方式为 Claude 接入工具或教授新技能。",
+            "sourceName": "X：Claude (@claudeai)",
+            "sourceUrl": "https://x.com/claudeai/status/2124970294523945328",
+            "aihotUrl": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2"
           }
         ]
       },
@@ -50,60 +76,32 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-            "summary": "Anthropic 在纳斯达克完成 IPO，开盘几分钟内股价达 111.50 美元，较 83 美元发行价高出 33%，发行价已超过公司此前 70 至 78 美元的预期区间。",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-            "aihotUrl": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv"
-          },
-          {
-            "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
-            "summary": "Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名员工提供买断是为了让员工在转型中拥有选择权，而非用 AI 取代员工，目标是让所有人都用 AI 工作、转向管理 AI 智能体。",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-            "aihotUrl": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y"
-          },
-          {
-            "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-            "summary": "美国商务部收紧AI芯片出口管制并关闭第三方国家云算力通道后，亚洲多笔大型AI数据中心交易开始瓦解。",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
-            "aihotUrl": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42"
-          },
-          {
-            "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
-            "summary": "The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1158 亿美元，数据中心业务增长 110%，Vera Rubin 平台贡献近 200 亿美元收入；但受芯片股整体抛售、前 CEO 黄仁勋辞职及公司治理调查等因素影响，股价一度报约 150 美元，较 10 月 6 日历史高点跌近 40%，周四收于 145.98 美元，创 52 周…",
-            "sourceName": "The Verge：AI（RSS）",
-            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-            "aihotUrl": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc"
-          },
-          {
-            "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-            "summary": "彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/029/265.htm",
-            "aihotUrl": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a"
-          },
-          {
-            "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
-            "summary": "Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。",
-            "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-            "sourceUrl": "https://x.com/AravSrinivas/status/2123480966459174920",
-            "aihotUrl": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo"
-          },
-          {
-            "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
-            "summary": "Karina Nguyen 发文感谢投资人 Sol，回忆早期在办公室一起讨论模型评测和后训练难题的经历，并称赞他是唯一理解 scaling laws 的 VC。",
-            "sourceName": "X：Karina Nguyen（@karinanguyen）",
-            "sourceUrl": "https://x.com/karinanguyen/status/2123509936475001310",
-            "aihotUrl": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq"
-          },
-          {
-            "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-            "summary": "围绕英伟达前高管黄仁勋及AI芯片转运传闻，美国商务部与司法部就Megaspeed发布联合声明，未认定存在违规芯片销售，也未将该公司列入实体清单；英伟达此前已主动切断对Megaspeed的供应。",
+            "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+            "summary": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。",
             "sourceName": "X：X.PIN (@thexpin)",
-            "sourceUrl": "https://x.com/thexpin/status/2123199944903581803",
-            "aihotUrl": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3"
+            "sourceUrl": "https://x.com/thexpin/status/2124866686025400819",
+            "aihotUrl": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l"
+          },
+          {
+            "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+            "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+            "aihotUrl": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn"
+          },
+          {
+            "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
+            "summary": "俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。",
+            "sourceName": "The Verge：AI（RSS）",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+            "aihotUrl": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte"
+          },
+          {
+            "title": "Anthropic IPO 前三家机构如何重注押注",
+            "summary": "TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+            "aihotUrl": "https://aihot.news/items/dus34samsjrld1qopq65v54uq"
           }
         ]
       },
@@ -111,11 +109,18 @@
         "label": "论文研究",
         "items": [
           {
-            "title": "Stanford RegLab 发布 PhantomDocket 基准，追踪美国州法院诉讼文书中的 AI 辅助写作",
-            "summary": "Stanford HAI 与 RegLab 研究者发布论文 Detection Objection 和 PhantomDocket 基准，基于 Damien Charlotin 的 AI 幻觉案例数据库校准 AI 检测器，追踪四个州法院的 AI 辅助写作。",
-            "sourceName": "Stanford HAI News（网页）",
-            "sourceUrl": "https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter",
-            "aihotUrl": "https://aihot.news/items/wi5cfyezztfdcojsokxto4q0d"
+            "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
+            "summary": "Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/working-with-ai",
+            "aihotUrl": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2"
+          },
+          {
+            "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
+            "summary": "Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。",
+            "sourceName": "Google DeepMind：Blog（RSS）",
+            "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+            "aihotUrl": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n"
           }
         ]
       },
@@ -123,74 +128,70 @@
         "label": "技巧与观点",
         "items": [
           {
-            "title": "OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能",
-            "summary": "OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端自动排查并修复 ChatGPT 的性能回归。",
-            "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-            "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-            "aihotUrl": "https://aihot.news/items/alwgjr29158n454prl9tjmmw1"
+            "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+            "summary": "a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。",
+            "sourceName": "a16z：News（RSS）",
+            "sourceUrl": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents",
+            "aihotUrl": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+        "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
         "summary": "",
-        "sourceName": "X：Arena (@arena)",
-        "sourceUrl": "https://x.com/arena/status/2123528811572846972",
-        "aihotUrl": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
-        "publishedAt": "2026-11-19T21:28:16.000Z"
+        "sourceName": "公众号：数字生命卡兹克",
+        "sourceUrl": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA",
+        "aihotUrl": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
+        "publishedAt": "2026-11-22T23:56:00.000Z"
       },
       {
-        "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
+        "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
         "summary": "",
-        "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "sourceUrl": "https://x.com/_philschmid/status/2123465741592637445",
-        "aihotUrl": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-        "publishedAt": "2026-11-19T17:17:39.000Z"
+        "sourceName": "Figma AI / Agent / Make",
+        "sourceUrl": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
+        "aihotUrl": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+        "publishedAt": "2026-11-23T20:54:00.000Z"
       },
       {
-        "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+        "title": "AISI 红队论文：攻击策略选择会让 LLM 监视器评估结果失真",
         "summary": "",
-        "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2123451045657690627",
-        "aihotUrl": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
-        "publishedAt": "2026-11-19T16:19:15.000Z"
+        "sourceName": "英国 AI Security Institute：Blog（网页）",
+        "sourceUrl": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading",
+        "aihotUrl": "https://aihot.news/items/tl8v9gto8rd3e4x40xfbljj13",
+        "publishedAt": "2026-11-22T23:00:00.000Z"
       },
       {
-        "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+        "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
         "summary": "",
-        "sourceName": "Ai2 / Allen Institute for AI（RSS）",
-        "sourceUrl": "https://allenai.org/blog/theorizer-in-asta",
-        "aihotUrl": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
-        "publishedAt": "2026-11-19T08:00:00.000Z"
-      },
-      {
-        "title": "OpenAI 发布报告展示 AI 如何加速其内部研究",
-        "summary": "",
-        "sourceName": "X：OpenAI (@OpenAI)",
-        "sourceUrl": "https://x.com/OpenAI/status/2123191365983248653",
-        "aihotUrl": "https://aihot.news/items/f6lqwdjk5x80bwats1fvxagsu",
-        "publishedAt": "2026-11-18T23:07:23.000Z"
-      },
-      {
-        "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-        "summary": "",
-        "sourceName": "MIT News（RSS）",
-        "sourceUrl": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-        "aihotUrl": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-        "publishedAt": "2026-11-19T14:00:00.000Z"
-      },
-      {
-        "title": "ChatGPT 听写新增实时转写",
-        "summary": "",
-        "sourceName": "X：ChatGPT (@ChatGPT)",
-        "sourceUrl": "https://x.com/ChatGPT/status/2123114715257946334",
-        "aihotUrl": "https://aihot.news/items/u5ub03i55cwisoy4vzrrs8c3u",
-        "publishedAt": "2026-11-18T18:02:48.000Z"
+        "sourceName": "Wiz：Research（安全研究）",
+        "sourceUrl": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
+        "aihotUrl": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+        "publishedAt": "2026-11-23T14:46:19.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-24",
+        "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+        "aihotUrl": "https://aihot.news/daily/2026-11-24"
+      },
+      {
+        "date": "2026-11-23",
+        "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
+        "aihotUrl": "https://aihot.news/daily/2026-11-23"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+        "aihotUrl": "https://aihot.news/daily/2026-11-22"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+        "aihotUrl": "https://aihot.news/daily/2026-11-21"
+      },
       {
         "date": "2026-11-20",
         "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
@@ -275,28 +276,8 @@
         "date": "2026-11-04",
         "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
         "aihotUrl": "https://aihot.news/daily/2026-11-04"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰",
-        "aihotUrl": "https://aihot.news/daily/2026-11-03"
-      },
-      {
-        "date": "2026-11-02",
-        "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
-        "aihotUrl": "https://aihot.news/daily/2026-11-02"
-      },
-      {
-        "date": "2026-11-01",
-        "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-        "aihotUrl": "https://aihot.news/daily/2026-11-01"
-      },
-      {
-        "date": "2026-10-31",
-        "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
-        "aihotUrl": "https://aihot.news/daily/2026-10-31"
       }
     ],
-    "shapedAt": "2026-11-20T13:03:37.386Z"
+    "shapedAt": "2026-11-24T20:49:39.211Z"
   }
 }

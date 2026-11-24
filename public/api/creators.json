@@ -4,6 +4,35 @@
       "id": "irene",
       "items": [
         {
+          "id": "irene:https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499094&idx=1&sn=12247ad581a736b9414669907f8fa8ae",
+          "creatorId": "irene",
+          "title": "不用抽卡也能做绘本动画和科普视频！超实用Skill分享。",
+          "summary": "Agent就能做视频哎嘿。",
+          "publishedAt": "2026-11-23T03:25:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499094&idx=1&sn=12247ad581a736b9414669907f8fa8ae",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+            "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "阿真Irene",
+                "asset": "/assets/identities/creator_irene.jpg",
+                "tone": "#f4edce"
+              }
+            ],
+            "caption": "创作与工具",
+            "author": {
+              "name": "阿真Irene",
+              "asset": "/assets/identities/creator_irene.jpg",
+              "tone": "#f4edce"
+            }
+          }
+        },
+        {
           "id": "irene:https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499049&idx=1&sn=0f4d06a3be471004da73546df09d2e4b",
           "creatorId": "irene",
           "title": "让AI给口播配画面，我做了一个可无限复用的开源Skill（附6模型实测）！",
@@ -263,40 +292,11 @@
               "tone": "#f4edce"
             }
           }
-        },
-        {
-          "id": "irene:https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498674&idx=1&sn=8d7885c7ce84b3f18a2b4fa51f9fa6c2",
-          "creatorId": "irene",
-          "title": "低至每秒9分钱，Vidu Q4 Preview做AI漫剧性价比天花板了。",
-          "summary": "Vidu Q4 Preview来了，便宜大碗，嘎嘎好用！",
-          "publishedAt": "2026-10-16T09:02:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498674&idx=1&sn=8d7885c7ce84b3f18a2b4fa51f9fa6c2",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "阿真Irene",
-                "asset": "/assets/identities/creator_irene.jpg",
-                "tone": "#f4edce"
-              }
-            ],
-            "caption": "创作与工具",
-            "author": {
-              "name": "阿真Irene",
-              "asset": "/assets/identities/creator_irene.jpg",
-              "tone": "#f4edce"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-20T13:03:09.782Z",
-      "lastSuccessAt": "2026-11-20T13:03:09.782Z",
-      "nextCheckAt": 1795180689782,
+      "checkedAt": "2026-11-24T20:49:27.230Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.230Z",
+      "nextCheckAt": 1795554267230,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -316,6 +316,35 @@
     {
       "id": "xpin",
       "items": [
+        {
+          "id": "xpin:https://www.thexpin.com/p/weekly-dose-of-china-tech-112326",
+          "creatorId": "xpin",
+          "title": "Weekly Dose of China Tech [11.23.2026]",
+          "summary": "Nvidia's China Chip Halt, DeepSeek's $86B Round, US Crackdown on Chinese AI, Tencent's 100T Token Milestone + One More Thing",
+          "publishedAt": "2026-11-23T16:43:30.000Z",
+          "url": "https://www.thexpin.com/p/weekly-dose-of-china-tech-112326",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
+            "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "差评 X.PIN",
+                "asset": "/assets/identities/creator_xpin.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "科技媒体",
+            "author": {
+              "name": "差评 X.PIN",
+              "asset": "/assets/identities/creator_xpin.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "xpin:https://www.thexpin.com/p/jensen-huang-smeared-by-legacy-media",
           "creatorId": "xpin",
@@ -577,40 +606,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "xpin:https://www.thexpin.com/p/weekly-dose-of-china-tech-102626",
-          "creatorId": "xpin",
-          "title": "Weekly Dose of China Tech [10.26.2026]",
-          "summary": "China AI Export Control, Kimi K3.1 Launch, DeepSeek $15B Funding Round, China's Young AI Power Brokers + One More Thing",
-          "publishedAt": "2026-10-26T14:50:03.000Z",
-          "url": "https://www.thexpin.com/p/weekly-dose-of-china-tech-102626",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中的基础设施变化，能否在你使用的 AI 产品上看到实际影响？",
-            "method": "先核对原文证据，再连续一周记录同一任务的响应时间、失败率与费用；区分相关性和因果。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "差评 X.PIN",
-                "asset": "/assets/identities/creator_xpin.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "科技媒体",
-            "author": {
-              "name": "差评 X.PIN",
-              "asset": "/assets/identities/creator_xpin.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-20T13:03:09.988Z",
-      "lastSuccessAt": "2026-11-20T13:03:09.988Z",
-      "nextCheckAt": 1795180689988,
+      "checkedAt": "2026-11-24T20:49:27.263Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.263Z",
+      "nextCheckAt": 1795554267263,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -630,6 +630,64 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492905&idx=1&sn=cdc75d11c574a7b705cfac8ee48af153",
+          "creatorId": "huashu",
+          "title": "Huashu-Design 3.5正式发布！小程序设计也稳稳拿下！",
+          "summary": "是的，huashu-design又又又又更新了...你并不是刷到了一样的文章，你没有出现déjà vu。 2",
+          "publishedAt": "2026-11-22T22:52:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492905&idx=1&sn=cdc75d11c574a7b705cfac8ee48af153",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+            "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "花叔",
+                "asset": "/assets/identities/creator_huashu.jpg",
+                "tone": "#e7e4dd"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492900&idx=1&sn=aada6d640940cc751789bc67490a63fa",
+          "creatorId": "huashu",
+          "title": "3万star！huashu-design 3.4 发布！让你的Agent做出顶级App设计",
+          "summary": "先说个好消息！！！huashu-design在GitHub的star数过3万啦，这是继女娲skill之后，我",
+          "publishedAt": "2026-11-21T06:55:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492900&idx=1&sn=aada6d640940cc751789bc67490a63fa",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+            "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "花叔",
+                "asset": "/assets/identities/creator_huashu.jpg",
+                "tone": "#e7e4dd"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492887&idx=1&sn=36a8a9c381979e5f40746e512358266d",
           "creatorId": "huashu",
@@ -862,69 +920,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492702&idx=1&sn=4b8e1d82c5824a34f5ded1a5bb90c487",
-          "creatorId": "huashu",
-          "title": "我找了很久的「项目总管」，原来是TRAE新上线的开发者个人助理（限免一周）",
-          "summary": "TRAE宝限时免费一周。我把手上几个项目交给它管：它先读项目再写需求单，几件事并行跑，做完主动汇报，我只在微信里拍板。",
-          "publishedAt": "2026-11-02T04:06:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492702&idx=1&sn=4b8e1d82c5824a34f5ded1a5bb90c487",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-            "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492678&idx=1&sn=1d197d91586f84b7b097ecd2c0b15b00",
-          "creatorId": "huashu",
-          "title": "huashu-bird-sticker正式开源!花叔把全球11064种鸟类做成了贴纸",
-          "summary": "我最近干了个超超超大工程的事！！！ 我把全世界现存的11064种鸟，全都收集整理完善，并且做成了绝美的、格式",
-          "publishedAt": "2026-10-30T08:38:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492678&idx=1&sn=1d197d91586f84b7b097ecd2c0b15b00",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-20T13:03:09.989Z",
-      "lastSuccessAt": "2026-11-20T13:03:09.989Z",
-      "nextCheckAt": 1795180689989,
+      "checkedAt": "2026-11-24T20:49:27.264Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.264Z",
+      "nextCheckAt": 1795554267264,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -944,6 +944,65 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523129&idx=1&sn=104929afd785427fbf96b52c4506f638",
+          "creatorId": "cyber",
+          "title": "确认了：黎曼猜想已被证明",
+          "summary": "from Lean and Mathlib communities",
+          "publishedAt": "2026-11-22T08:28:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523129&idx=1&sn=104929afd785427fbf96b52c4506f638",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "赛博禅心",
+                "asset": "/assets/identities/creator_cyber.jpg",
+                "tone": "#dcebea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523120&idx=1&sn=2e046f178e7f9ddaf9f61e6b3deb2a36",
+          "creatorId": "cyber",
+          "title": "黎曼猜想被用 Claude 证明了",
+          "summary": "奇点已过",
+          "publishedAt": "2026-11-20T14:55:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523120&idx=1&sn=2e046f178e7f9ddaf9f61e6b3deb2a36",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523018&idx=1&sn=4eaf1fa7e9af5bba0539005e03c5d958",
           "creatorId": "cyber",
@@ -1175,70 +1234,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522629&idx=1&sn=ab1ca6d89bbbe6b2a583c8473093d663",
-          "creatorId": "cyber",
-          "title": "Dario 小传：父亲死于丙肝、自己确诊睾丸癌、与 Altman 决裂出走",
-          "summary": "“人类面前摆着巨大的生存危机，必须要做点什么”",
-          "publishedAt": "2026-11-07T13:08:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522629&idx=1&sn=ab1ca6d89bbbe6b2a583c8473093d663",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522619&idx=1&sn=631b7dd2d1efb895c15e20d319d951e0",
-          "creatorId": "cyber",
-          "title": "GPT-6 Cyber 发布：允许写攻击程序",
-          "summary": "哎...",
-          "publishedAt": "2026-11-05T18:20:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522619&idx=1&sn=631b7dd2d1efb895c15e20d319d951e0",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "OpenAI",
-                "asset": "/assets/identities/openai.jpg",
-                "assetSource": "https://x.com/OpenAI",
-                "tone": "#e6eeea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-20T13:03:10.280Z",
-      "lastSuccessAt": "2026-11-20T13:03:10.280Z",
-      "nextCheckAt": 1795180690280,
+      "checkedAt": "2026-11-24T20:49:27.452Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.452Z",
+      "nextCheckAt": 1795554267452,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1258,6 +1258,102 @@
     {
       "id": "khazix",
       "items": [
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688674&idx=1&sn=b5cc0499864895f8e7adf39c7d7112bb",
+          "creatorId": "khazix",
+          "title": "黄仁勋归来，英伟达也活了。",
+          "summary": "11天的旅程",
+          "publishedAt": "2026-11-23T16:00:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688674&idx=1&sn=b5cc0499864895f8e7adf39c7d7112bb",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "NVIDIA",
+                "asset": "/assets/identities/nvidia.jpg",
+                "assetSource": "https://x.com/nvidia",
+                "tone": "#e7edda"
+              }
+            ],
+            "caption": "产品与热点",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688652&idx=1&sn=1c25da651ea5f1d34782ace0e20744e8",
+          "creatorId": "khazix",
+          "title": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。",
+          "summary": "赛博管理学",
+          "publishedAt": "2026-11-22T23:56:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688652&idx=1&sn=1c25da651ea5f1d34782ace0e20744e8",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              },
+              {
+                "name": "Google DeepMind",
+                "asset": "/assets/identities/googledeepmind.jpg",
+                "assetSource": "https://x.com/GoogleDeepMind",
+                "tone": "#e4eaf4"
+              }
+            ],
+            "caption": "产品与热点",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688632&idx=1&sn=c96b0dbafc0987b138d6b221c47650c7",
+          "creatorId": "khazix",
+          "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
+          "summary": "25万页的论文",
+          "publishedAt": "2026-11-20T16:54:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688632&idx=1&sn=c96b0dbafc0987b138d6b221c47650c7",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+            "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "产品与热点",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688614&idx=1&sn=00b774ecbc685ea6696de895ddb06500",
           "creatorId": "khazix",
@@ -1463,98 +1559,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688203&idx=1&sn=830360dc6103e7fa745c116a5d84e54a",
-          "creatorId": "khazix",
-          "title": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
-          "summary": "赛博薅Token羊毛",
-          "publishedAt": "2026-11-08T23:56:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688203&idx=1&sn=830360dc6103e7fa745c116a5d84e54a",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-            "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "数字生命卡兹克",
-                "asset": "/assets/identities/creator_khazix.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "产品与热点",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
-          "creatorId": "khazix",
-          "title": "这可能是美国AI最魔幻的一天。",
-          "summary": "他们迎来了自己的智子",
-          "publishedAt": "2026-11-05T23:56:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "数字生命卡兹克",
-                "asset": "/assets/identities/creator_khazix.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "产品与热点",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688159&idx=1&sn=ded6c6aed885323cd921c6a3a42e5bcf",
-          "creatorId": "khazix",
-          "title": "开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。",
-          "summary": "Agent的魅力，从自动化开始",
-          "publishedAt": "2026-11-04T00:19:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688159&idx=1&sn=ded6c6aed885323cd921c6a3a42e5bcf",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "数字生命卡兹克",
-                "asset": "/assets/identities/creator_khazix.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "产品与热点",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-20T13:03:10.339Z",
-      "lastSuccessAt": "2026-11-20T13:03:10.339Z",
-      "nextCheckAt": 1795180690339,
+      "checkedAt": "2026-11-24T20:49:27.581Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.581Z",
+      "nextCheckAt": 1795554267581,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1574,6 +1583,35 @@
     {
       "id": "founder",
       "items": [
+        {
+          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517792&idx=1&sn=9f6aabc5cad2e273de75c87c45d83905",
+          "creatorId": "founder",
+          "title": "对话汝原科技王铭钰：离开大疆七年，吹风机成功后，我们选择重做 UV 打印机",
+          "summary": "今天的 UV 打印机，很像 15 年前的无人机",
+          "publishedAt": "2026-11-24T08:30:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517792&idx=1&sn=9f6aabc5cad2e273de75c87c45d83905",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中的经验适合什么规模和阶段的团队？",
+            "method": "从原文选出一条明确做法，用你的一项工作验证前提和代价，再找一个不适用的场景。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Founder Park",
+                "asset": "/assets/identities/creator_founder.jpg",
+                "tone": "#dfe9f3"
+              }
+            ],
+            "caption": "创业与商业",
+            "author": {
+              "name": "Founder Park",
+              "asset": "/assets/identities/creator_founder.jpg",
+              "tone": "#dfe9f3"
+            }
+          }
+        },
         {
           "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517752&idx=1&sn=ace43b9e8b52a9c1d6a0cb2503517780",
           "creatorId": "founder",
@@ -1835,40 +1873,11 @@
               "tone": "#dfe9f3"
             }
           }
-        },
-        {
-          "id": "founder:https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517543&idx=1&sn=a8f2de205f810eabba290574f7e96efc",
-          "creatorId": "founder",
-          "title": "20 亿美元年化收入，硅谷头部数商 Mercor：模型能自己造数据了，数据生意到底在卖啥？",
-          "summary": "手里有数据、有专家网络，Mercor 已经在自己后训练了",
-          "publishedAt": "2026-11-10T11:11:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247517543&idx=1&sn=a8f2de205f810eabba290574f7e96efc",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Founder Park",
-                "asset": "/assets/identities/creator_founder.jpg",
-                "tone": "#dfe9f3"
-              }
-            ],
-            "caption": "创业与商业",
-            "author": {
-              "name": "Founder Park",
-              "asset": "/assets/identities/creator_founder.jpg",
-              "tone": "#dfe9f3"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-20T13:03:10.392Z",
-      "lastSuccessAt": "2026-11-20T13:03:10.392Z",
-      "nextCheckAt": 1795180690392,
+      "checkedAt": "2026-11-24T20:49:27.599Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.599Z",
+      "nextCheckAt": 1795554267599,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1887,6 +1896,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1795180689782,
+  "nextCheckAt": 1795554267230,
   "refreshing": false
 }

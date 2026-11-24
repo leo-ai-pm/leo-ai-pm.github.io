@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-20T13:03:09.990Z",
-      "lastSuccessAt": "2026-11-20T13:03:09.990Z",
-      "nextCheckAt": 1795183389990,
+      "checkedAt": "2026-11-24T20:49:27.265Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.265Z",
+      "nextCheckAt": 1795556967265,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-20T13:03:09.991Z",
-      "lastSuccessAt": "2026-11-20T13:03:09.991Z",
-      "nextCheckAt": 1795183389991,
+      "checkedAt": "2026-11-24T20:49:27.266Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.266Z",
+      "nextCheckAt": 1795556967266,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-20T13:03:09.992Z",
-      "lastSuccessAt": "2026-11-20T13:03:09.992Z",
-      "nextCheckAt": 1795183389992,
+      "checkedAt": "2026-11-24T20:49:27.267Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.267Z",
+      "nextCheckAt": 1795556967267,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-24T20:49:27.492Z",
+      "lastSuccessAt": "2026-11-24T20:49:27.492Z",
+      "nextCheckAt": 1795556967492,
       "status": "ok",
-      "nextCheckAt": 1795183390250,
-      "checkedAt": "2026-11-20T13:03:10.250Z",
-      "lastSuccessAt": "2026-11-20T13:03:10.250Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,95 +90,55 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795183389990,
+  "nextCheckAt": 1795556967265,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6497493.html",
-      "title": "开源大模型，很难再纯粹了",
-      "summary": "从自由开源软件到受控开放权重，头部大模型的协议已经分成两队。DeepSeek 守着 MIT，腾讯 Hy4、Qwen、Kimi 各自设了 MaaS 授权线、品牌露出和蒸馏条款，商业化落地前值得逐条读完。 WorkBuddy 绝配大模型，Hy4 正式版实测！超预期了 WorkBuddy 上免费用 Hy4 flash，推荐我的 2 个邪修玩法！ 刚刚，继开源 Hy4 flash 之后，腾讯开源了 Hy4，权重文件 1.5 T，本地部署是与我无",
-      "publishedAt": "2026-11-20T09:00:00.000Z",
-      "url": "https://www.woshipm.com/ai/6497493.html",
+      "id": "n8n:https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/",
+      "title": "Production AI Playbook: Audit & trace for AI agents",
+      "summary": "Reconstruct an AI decision, and retain the records needed to explain it later. Five hands-on n8n exercises: reading saved executions, tagging decisions for search, tracing tool calls with OpenTelemetry, and proving which",
+      "publishedAt": "2026-11-24T14:30:29.000Z",
+      "url": "https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "工作流与实践",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6497493.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "从自由开源软件到受控开放权重，头部大模型的协议已经分成两队。DeepSeek 守着 MIT，腾讯 Hy4、Qwen、Kimi 各自设了 MaaS 授权线、品牌露出和蒸馏条款，商业化落地前值得逐条读完。 WorkBuddy 绝配大模型，Hy4 正式版实测！超预期了 WorkBuddy 上免费用 Hy4 flash，推荐我的 2 个邪修玩法！ 刚刚，继开源 Hy4 flash 之后，腾讯开源了 Hy4，权重文件 1.5 T，本地部署是与我无",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "Reconstruct an AI decision, and retain the records needed to explain it later. Five hands-on n8n exercises: reading saved executions, tagging decisions for search, tracing tool calls with OpenTelemetry, and proving which",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "lead"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6497382.html",
-      "title": "AI员工进入工厂，如何设计一套真正有效的POC验收标准？",
-      "summary": "当AI智能体闯入制造腹地，工厂验收标准面临重构。本文从破壁力、确定性、复用度三个维度，拆解制造业第一期AI智能体试点的工程级验收铁律，揭示如何检验一个“会思考的机器同事”能否在老旧系统间穿行、在红线前刹车、并沉淀为可复用的数字基座。 每一次工业革命的浪潮，最先拍打的永远是工厂的围墙。 两百多年前，瓦特改良的蒸汽机在曼彻斯特的纺织厂里发出第一声轰鸣，人类第一次用钢铁与煤炭替代了血肉之躯的体力劳作。随后，流水线、数控机床、六轴机械臂接踵而至",
-      "publishedAt": "2026-11-20T08:34:21.000Z",
-      "url": "https://www.woshipm.com/ai/6497382.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6497382.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "当AI智能体闯入制造腹地，工厂验收标准面临重构。本文从破壁力、确定性、复用度三个维度，拆解制造业第一期AI智能体试点的工程级验收铁律，揭示如何检验一个“会思考的机器同事”能否在老旧系统间穿行、在红线前刹车、并沉淀为可复用的数字基座。 每一次工业革命的浪潮，最先拍打的永远是工厂的围墙。 两百多年前，瓦特改良的蒸汽机在曼彻斯特的纺织厂里发出第一声轰鸣，人类第一次用钢铁与煤炭替代了血肉之躯的体力劳作。随后，流水线、数控机床、六轴机械臂接踵而至",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6497396.html",
-      "title": "让AI给口播配画面，我做了一个可无限复用的开源Skill（附6模型实测）！",
-      "summary": "给一条资讯、一份文稿，Skill 自己走完脚本、配图、成片，不用每次重调。六个模型实测下来 Codex 最快，Claude 要几十分钟；这套模板做一次就能批量复用，最多改改排版。 今天分享个实用的（其实是拖拉好久一直没有写完）。 前一阵我的 Claude 十二世还在世，Opus 5.5 刚出不久，我正好想用它来给我做口播视频的一些配套画面，要尽可能可控不用过多调整，比纯怼着我的雷霆大脑袋一直给观众看来得更有意思，于是我做了个 Skill",
-      "publishedAt": "2026-11-20T08:15:34.000Z",
-      "url": "https://www.woshipm.com/ai/6497396.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6499385.html",
+      "title": "阿里 Qoder 再上新，匿名模型免费用，实测，适合干活儿",
+      "summary": "Qoder 桌面端上线匿名模型 HungerG，11 月 23 日到 30 日免费用，Credits 为 0 也能跑。老章把思考强度拉满，试了纯代码生成视频、数据分析、直出可编辑 PPT 三件事，还顺带猜它是 Qwen4-Flash-Next。 今天凌晨，Qoder 桌面端上线了匿名模型 HungerG 在 Qoder 客户端（IDE、JetBrains 插件、CLI 和企业版暂不包含）选择 HungerG 即可，目前随意使用，免费时间",
+      "publishedAt": "2026-11-24T09:04:57.000Z",
+      "url": "https://www.woshipm.com/ai/6499385.html",
       "linkKind": "original",
       "opportunity": {
         "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
@@ -202,11 +162,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6497396.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6499385.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "给一条资讯、一份文稿，Skill 自己走完脚本、配图、成片，不用每次重调。六个模型实测下来 Codex 最快，Claude 要几十分钟；这套模板做一次就能批量复用，最多改改排版。 今天分享个实用的（其实是拖拉好久一直没有写完）。 前一阵我的 Claude 十二世还在世，Opus 5.5 刚出不久，我正好想用它来给我做口播视频的一些配套画面，要尽可能可控不用过多调整，比纯怼着我的雷霆大脑袋一直给观众看来得更有意思，于是我做了个 Skill",
+      "brief": "Qoder 桌面端上线匿名模型 HungerG，11 月 23 日到 30 日免费用，Credits 为 0 也能跑。老章把思考强度拉满，试了纯代码生成视频、数据分析、直出可编辑 PPT 三件事，还顺带猜它是 Qwen4-Flash-Next。 今天凌晨，Qoder 桌面端上线了匿名模型 HungerG 在 Qoder 客户端（IDE、JetBrains 插件、CLI 和企业版暂不包含）选择 HungerG 即可，目前随意使用，免费时间",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -214,15 +174,95 @@
       "priority": "important"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/mailpipe-2",
-      "title": "Mailpipe",
-      "summary": "Draft Apple Mail replies with your local AI agent CLI",
-      "publishedAt": "2026-11-20T04:13:55.000Z",
-      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "id": "woshipm:https://www.woshipm.com/ai/6499347.html",
+      "title": "AI 生图的「RSI」来了？海量案例实测，发布即开源！",
+      "summary": "商汤 SenseNova-U1.6 被跑了一整夜，十二个方向逐一试：海报版式、IP 设定、中文信息图、电商静物。提升集中在审美与文字自修正——写完信息图会自己回看改错字，另外还测了自修正与 API 的实际边界。 上周给大家分享我在 RTX Spark 上部署开源图像模型，几十秒一张图，还是非常爽的。 正好前两天商汤小伙伴跟我说，他们上新了 SenseNova-U1.6，一款兼具美学创造力与原生自修正能力的统一多模态模型，能让图像创作兼顾",
+      "publishedAt": "2026-11-24T09:01:58.000Z",
+      "url": "https://www.woshipm.com/ai/6499347.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6499347.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "商汤 SenseNova-U1.6 被跑了一整夜，十二个方向逐一试：海报版式、IP 设定、中文信息图、电商静物。提升集中在审美与文字自修正——写完信息图会自己回看改错字，另外还测了自修正与 API 的实际边界。 上周给大家分享我在 RTX Spark 上部署开源图像模型，几十秒一张图，还是非常爽的。 正好前两天商汤小伙伴跟我说，他们上新了 SenseNova-U1.6，一款兼具美学创造力与原生自修正能力的统一多模态模型，能让图像创作兼顾",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6499320.html",
+      "title": "这些一流大模型，为什么选择不同的 Benchmark？",
+      "summary": "大模型评测正从标准化考试转向真实工作场景，各家厂商的Benchmark越来越像产品说明书。本文拆解腾讯混元、Anthropic、OpenAI和Kimi的评测策略，揭示考题分化背后隐藏的商业算盘与能力押注，带你看懂模型竞争的下一个赛点。 过去不到一个月内，腾讯先后发布了混元Hy4和Hy4 flash。两款模型的评测材料呈现出不同的侧重点。 Hy4展示了金融投资研究、游戏开发和科研等专业任务的成绩，并首次引入Computer Use能力。H",
+      "publishedAt": "2026-11-24T08:44:16.000Z",
+      "url": "https://www.woshipm.com/ai/6499320.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6499320.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "大模型评测正从标准化考试转向真实工作场景，各家厂商的Benchmark越来越像产品说明书。本文拆解腾讯混元、Anthropic、OpenAI和Kimi的评测策略，揭示考题分化背后隐藏的商业算盘与能力押注，带你看懂模型竞争的下一个赛点。 过去不到一个月内，腾讯先后发布了混元Hy4和Hy4 flash。两款模型的评测材料呈现出不同的侧重点。 Hy4展示了金融投资研究、游戏开发和科研等专业任务的成绩，并首次引入Computer Use能力。H",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/juncts",
+      "title": "Juncts",
+      "summary": "Superhuman for your DMs, with AI that triages and drafts",
+      "publishedAt": "2026-11-24T03:08:21.000Z",
+      "url": "https://www.producthunt.com/products/juncts",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -242,11 +282,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/mailpipe-2",
+      "sourceUrl": "https://www.producthunt.com/products/juncts",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Draft Apple Mail replies with your local AI agent CLI",
+      "brief": "Superhuman for your DMs, with AI that triages and drafts",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -254,15 +294,15 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/docker",
-      "title": "Docker",
-      "summary": "Built to run on trust, for the agentic era",
-      "publishedAt": "2026-11-19T23:04:30.000Z",
-      "url": "https://www.producthunt.com/products/docker",
+      "id": "ph:https://www.producthunt.com/products/tday",
+      "title": "tday.com",
+      "summary": "AI-recorded Screen Studio style editable demos",
+      "publishedAt": "2026-11-23T21:22:27.000Z",
+      "url": "https://www.producthunt.com/products/tday",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -282,11 +322,11 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/docker",
+      "sourceUrl": "https://www.producthunt.com/products/tday",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "Built to run on trust, for the agentic era",
+      "brief": "AI-recorded Screen Studio style editable demos",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -294,23 +334,24 @@
       "priority": "normal"
     },
     {
-      "id": "ph:https://www.producthunt.com/products/veryfi",
-      "title": "Veryfi Thinking Mode",
-      "summary": "AI agents review and correct receipt and invoice data.",
-      "publishedAt": "2026-11-19T21:30:01.000Z",
-      "url": "https://www.producthunt.com/products/veryfi",
+      "id": "ph:https://www.producthunt.com/products/claude-code",
+      "title": "Claude Ship",
+      "summary": "Ship code as fast as you can write it",
+      "publishedAt": "2026-11-23T21:00:36.000Z",
+      "url": "https://www.producthunt.com/products/claude-code",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "新品与竞品",
@@ -322,15 +363,55 @@
       },
       "researchId": "ph",
       "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/veryfi",
+      "sourceUrl": "https://www.producthunt.com/products/claude-code",
       "sourceGroup": "新品与竞品",
       "category": "新品与竞品",
       "platform": "英文产品社区",
-      "brief": "AI agents review and correct receipt and invoice data.",
+      "brief": "Ship code as fast as you can write it",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "n8n:https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/",
+      "title": "The Monday morning incident: your “Lead Routing” workflow stopped routing",
+      "summary": "This post covers an incident with a lead routing workflow and how n8n’s access controls help: projects and roles, SSO, and 2FA enforcement. Each one stops the incident at a different point.",
+      "publishedAt": "2026-11-23T14:02:02.000Z",
+      "url": "https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "n8n Blog",
+            "asset": "/assets/identities/n8n.png",
+            "tone": "#f2e0df"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "n8n Blog",
+          "asset": "/assets/identities/n8n.png",
+          "tone": "#f2e0df"
+        }
+      },
+      "researchId": "n8n",
+      "sourceName": "n8n Blog",
+      "sourceUrl": "https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "英文官方博客",
+      "brief": "This post covers an incident with a lead routing workflow and how n8n’s access controls help: projects and roles, SSO, and 2FA enforcement. Each one stops the incident at a different point.",
+      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://blog.n8n.io/rss/",
       "priority": "normal"
     },
     {
@@ -367,86 +448,6 @@
       "category": "工作流与实践",
       "platform": "英文官方博客",
       "brief": "In the second iteration of the AI Agent Development Tools report, I replaced the integrability axis with enterprise-readiness. I wanted this to signify the departure from 2020-style IPaaS. With MCP getting traction to th",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/microservices-best-practices/",
-      "title": "Microservices best practices every automation engineer should know",
-      "summary": "Discover microservices best practices to build resilient systems. Learn what the best patterns look like and how workflow automation fits into the process.",
-      "publishedAt": "2026-11-10T20:39:16.000Z",
-      "url": "https://blog.n8n.io/microservices-best-practices/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/microservices-best-practices/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Discover microservices best practices to build resilient systems. Learn what the best patterns look like and how workflow automation fits into the process.",
-      "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
-      "isArchive": true,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "n8n:https://blog.n8n.io/batch-processing/",
-      "title": "Batch processing patterns for workflow automation at scale",
-      "summary": "Learn batch processing patterns for scalable workflows, including chunking, rate limits, retries. Discover the tools that put these patterns into practice.",
-      "publishedAt": "2026-11-10T20:36:22.000Z",
-      "url": "https://blog.n8n.io/batch-processing/",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "n8n Blog",
-            "asset": "/assets/identities/n8n.png",
-            "tone": "#f2e0df"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "n8n Blog",
-          "asset": "/assets/identities/n8n.png",
-          "tone": "#f2e0df"
-        }
-      },
-      "researchId": "n8n",
-      "sourceName": "n8n Blog",
-      "sourceUrl": "https://blog.n8n.io/batch-processing/",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "英文官方博客",
-      "brief": "Learn batch processing patterns for scalable workflows, including chunking, rate limits, retries. Discover the tools that put these patterns into practice.",
       "question": "实践问题：用一个重复任务试跑，记录人工接手点、执行成本和失败后的恢复方式。",
       "isArchive": true,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
