@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-25T03:48:22.333Z",
-      "lastSuccessAt": "2026-11-25T03:48:22.333Z",
-      "nextCheckAt": 1795582102333,
+      "checkedAt": "2026-11-25T13:36:00.128Z",
+      "lastSuccessAt": "2026-11-25T13:36:00.128Z",
+      "nextCheckAt": 1795617360128,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-25T03:48:22.334Z",
-      "lastSuccessAt": "2026-11-25T03:48:22.334Z",
-      "nextCheckAt": 1795582102334,
+      "checkedAt": "2026-11-25T13:36:00.129Z",
+      "lastSuccessAt": "2026-11-25T13:36:00.129Z",
+      "nextCheckAt": 1795617360129,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-25T03:48:22.335Z",
-      "lastSuccessAt": "2026-11-25T03:48:22.335Z",
-      "nextCheckAt": 1795582102335,
+      "checkedAt": "2026-11-25T13:36:00.131Z",
+      "lastSuccessAt": "2026-11-25T13:36:00.131Z",
+      "nextCheckAt": 1795617360131,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-25T13:36:00.339Z",
+      "lastSuccessAt": "2026-11-25T13:36:00.339Z",
+      "nextCheckAt": 1795617360339,
       "status": "ok",
-      "nextCheckAt": 1795582102539,
-      "checkedAt": "2026-11-25T03:48:22.539Z",
-      "lastSuccessAt": "2026-11-25T03:48:22.539Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,15 +90,55 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795582102333,
+  "nextCheckAt": 1795617360128,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6500050.html",
-      "title": "深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路",
-      "summary": "Agent 正从单机工具走向全天候数字同事，但多端消息汇聚、长任务阻塞、结果回传错乱等问题仍困扰开发者。DeepSeek Harness 开源的 Super-agent 以 Router + Worker 双层架构给出解法，本文拆解其事件驱动、全双工交互与工程优化，并对比 Multi-Agent 与 Agent Team，提炼可落地的设计思路。 今年十月底，DeepSeek Harness 团队开源了一个新的原型项目，名字叫DSH Su",
-      "publishedAt": "2026-11-25T03:22:59.000Z",
-      "url": "https://www.woshipm.com/ai/6500050.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6500414.html",
+      "title": "从人工设计到 AI 智能设计全流程",
+      "summary": "当设计规范从资深设计师的脑中变成 AI 可执行的 Skill，设计的执行方式被彻底改写。本文拆解一条从设计资产到 AI 生成 UI 原型、再回流设计稿与工程代码的完整链路，4 天流程压缩至 3 小时，并坦诚划出这套方法的适用边界。 过去的设计工作方式，本质上是设计师依据设计规范手工完成设计稿。规范规定了颜色、字号、间距、圆角、组件结构和交互方式，设计师要逐项理解、判断，再落实到每一个界面。设计质量因此高度依赖个人经验与当天的执行状态；面",
+      "publishedAt": "2026-11-25T11:03:50.000Z",
+      "url": "https://www.woshipm.com/ai/6500414.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6500414.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "当设计规范从资深设计师的脑中变成 AI 可执行的 Skill，设计的执行方式被彻底改写。本文拆解一条从设计资产到 AI 生成 UI 原型、再回流设计稿与工程代码的完整链路，4 天流程压缩至 3 小时，并坦诚划出这套方法的适用边界。 过去的设计工作方式，本质上是设计师依据设计规范手工完成设计稿。规范规定了颜色、字号、间距、圆角、组件结构和交互方式，设计师要逐项理解、判断，再落实到每一个界面。设计质量因此高度依赖个人经验与当天的执行状态；面",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/share/6500194.html",
+      "title": "许多技术、设计要失业了。",
+      "summary": "村长下半年大量用 AI 做产品：以前画图、找前后端、做测试，一个简单工具要 3 个月才上线，现在纯文字沟通，不到一天做完小程序、H5、网页和后台。他的判断是普通技术、设计岗的可替代性已经很高，全面拥抱 AI 才是当务之急。 许多普通的技术、设计，真的要失业了。 这不是危言耸听，而是切身感受。 01 一天干一年 我之前文章说过，今年AI应用才算真正的元年。 不管是豆包还是其他的Ai工具，在理解、执行上的能力都得到了大幅的跃迁。 我下半年开",
+      "publishedAt": "2026-11-25T09:11:05.000Z",
+      "url": "https://www.woshipm.com/share/6500194.html",
       "linkKind": "original",
       "opportunity": {
         "question": "生成结果离可以交付的设计，还差哪些人工修改？",
@@ -122,23 +162,103 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6500050.html",
+      "sourceUrl": "https://www.woshipm.com/share/6500194.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "Agent 正从单机工具走向全天候数字同事，但多端消息汇聚、长任务阻塞、结果回传错乱等问题仍困扰开发者。DeepSeek Harness 开源的 Super-agent 以 Router + Worker 双层架构给出解法，本文拆解其事件驱动、全双工交互与工程优化，并对比 Multi-Agent 与 Agent Team，提炼可落地的设计思路。 今年十月底，DeepSeek Harness 团队开源了一个新的原型项目，名字叫DSH Su",
+      "brief": "村长下半年大量用 AI 做产品：以前画图、找前后端、做测试，一个简单工具要 3 个月才上线，现在纯文字沟通，不到一天做完小程序、H5、网页和后台。他的判断是普通技术、设计岗的可替代性已经很高，全面拥抱 AI 才是当务之急。 许多普通的技术、设计，真的要失业了。 这不是危言耸听，而是切身感受。 01 一天干一年 我之前文章说过，今年AI应用才算真正的元年。 不管是豆包还是其他的Ai工具，在理解、执行上的能力都得到了大幅的跃迁。 我下半年开",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6499910.html",
-      "title": "AI视频模型也终于迎来了斩杀线，它的名字，叫MAGI-2。",
-      "summary": "Sand.ai 发布 480B 全模态视频模型 MAGI-2，支持 20 个素材参考、最长生成 30 秒，1080P 下每秒 0.5 元，约为 Seedance 2.5 的十分之一。作者带着看笑话的心态去测，结果运镜与提示词遵循远超预期，本文记录它的强项与短板。 今天凌晨，Sand.ai的全新视频模型MAGI-2，终于发了。 曹越老师拼搏了两年，终于终于把他们这个模型端出来了，我真的等了太久了，这也可能是我在整个AI视频领域，见到的为数",
-      "publishedAt": "2026-11-25T02:42:00.000Z",
-      "url": "https://www.woshipm.com/ai/6499910.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6500095.html",
+      "title": "国内Personal Agent战火，被突袭上线的小豆点燃",
+      "summary": "豆包突然上线独立 App 小豆，把冷清一阵的 Personal Agent 重新点燃。本文盘点国内原生玩家：蚂蚁灵光、千问 Go、微信小微、字节小豆，还有创业公司 Today，比较四种形态与各自的托管指标。 豆包突然上线「小豆 APP」。 把原本冷清了一阵的Personal Agent 行业，点燃了起来。 小豆，是豆包旗下 AI 个人助理，是懂你还能主动帮你办事的豆包。 是字节版的 Muse。 小豆，和豆包共用账号，共享记忆，共享会员额",
+      "publishedAt": "2026-11-25T07:11:41.000Z",
+      "url": "https://www.woshipm.com/ai/6500095.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6500095.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "豆包突然上线独立 App 小豆，把冷清一阵的 Personal Agent 重新点燃。本文盘点国内原生玩家：蚂蚁灵光、千问 Go、微信小微、字节小豆，还有创业公司 Today，比较四种形态与各自的托管指标。 豆包突然上线「小豆 APP」。 把原本冷清了一阵的Personal Agent 行业，点燃了起来。 小豆，是豆包旗下 AI 个人助理，是懂你还能主动帮你办事的豆包。 是字节版的 Muse。 小豆，和豆包共用账号，共享记忆，共享会员额",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "sspai:https://sspai.com/post/119310",
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。",
+      "publishedAt": "2026-11-25T06:59:16.000Z",
+      "url": "https://sspai.com/post/119310",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/119310",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/magi-1",
+      "title": "MAGI-2",
+      "summary": "Sand AI's 480B model for cinematic video generation",
+      "publishedAt": "2026-11-25T05:35:39.000Z",
+      "url": "https://www.producthunt.com/products/magi-1",
       "linkKind": "original",
       "opportunity": {
         "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
@@ -148,70 +268,110 @@
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6499910.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Sand.ai 发布 480B 全模态视频模型 MAGI-2，支持 20 个素材参考、最长生成 30 秒，1080P 下每秒 0.5 元，约为 Seedance 2.5 的十分之一。作者带着看笑话的心态去测，结果运镜与提示词遵循远超预期，本文记录它的强项与短板。 今天凌晨，Sand.ai的全新视频模型MAGI-2，终于发了。 曹越老师拼搏了两年，终于终于把他们这个模型端出来了，我真的等了太久了，这也可能是我在整个AI视频领域，见到的为数",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/magi-1",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Sand AI's 480B model for cinematic video generation",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6499740.html",
-      "title": "一手实测小豆个人AI助理，字节豆包出品",
-      "summary": "字节豆包的小豆还在邀请公测，一个邀请码只能用一次，闲鱼已经炒到 20 元。作者从飞书共创群拿到资格，实测发现首次登录只支持抖音、百度网盘、提醒事项、联系人等少数应用，语音输入与任务推荐是亮点，整体谈不上惊艳。 个人AI助理（Personal Agent)国内赛道又迎来了一位新选手，当然坊间传闻已久，它就是字节豆包的小豆。基本上品牌表示都沿袭了豆包系产品，从豆包、豆包工作、到小豆，豆姐的卡通形象算闭环了。 小豆目前还处于邀请公测阶段，邀请",
-      "publishedAt": "2026-11-25T01:45:51.000Z",
-      "url": "https://www.woshipm.com/ai/6499740.html",
+      "id": "ph:https://www.producthunt.com/products/statefold-2",
+      "title": "Statefold",
+      "summary": "Coding agents that keep working while you're away",
+      "publishedAt": "2026-11-25T01:45:57.000Z",
+      "url": "https://www.producthunt.com/products/statefold-2",
       "linkKind": "original",
       "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
         "entities": [
           {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
           }
         ],
-        "caption": "产品拆解",
+        "caption": "新品与竞品",
         "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
         }
       },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6499740.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "字节豆包的小豆还在邀请公测，一个邀请码只能用一次，闲鱼已经炒到 20 元。作者从飞书共创群拿到资格，实测发现首次登录只支持抖音、百度网盘、提醒事项、联系人等少数应用，语音输入与任务推荐是亮点，整体谈不上惊艳。 个人AI助理（Personal Agent)国内赛道又迎来了一位新选手，当然坊间传闻已久，它就是字节豆包的小豆。基本上品牌表示都沿袭了豆包系产品，从豆包、豆包工作、到小豆，豆姐的卡通形象算闭环了。 小豆目前还处于邀请公测阶段，邀请",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/statefold-2",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Coding agents that keep working while you're away",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/peerband",
+      "title": "PeerBand",
+      "summary": "Reach every coding agent you run, from anywhere",
+      "publishedAt": "2026-11-25T01:23:23.000Z",
+      "url": "https://www.producthunt.com/products/peerband",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/peerband",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Reach every coding agent you run, from anywhere",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
     },
     {
       "id": "n8n:https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/",
@@ -251,127 +411,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/juncts",
-      "title": "Juncts",
-      "summary": "Superhuman for your DMs, with AI that triages and drafts",
-      "publishedAt": "2026-11-24T03:08:21.000Z",
-      "url": "https://www.producthunt.com/products/juncts",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/juncts",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Superhuman for your DMs, with AI that triages and drafts",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/tday",
-      "title": "tday.com",
-      "summary": "AI-recorded Screen Studio style editable demos",
-      "publishedAt": "2026-11-23T21:22:27.000Z",
-      "url": "https://www.producthunt.com/products/tday",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/tday",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "AI-recorded Screen Studio style editable demos",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/claude-code",
-      "title": "Claude Ship",
-      "summary": "Ship code as fast as you can write it",
-      "publishedAt": "2026-11-23T21:00:36.000Z",
-      "url": "https://www.producthunt.com/products/claude-code",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/claude-code",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Ship code as fast as you can write it",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
