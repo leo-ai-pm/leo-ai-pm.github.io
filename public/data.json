@@ -1,7 +1,7 @@
 {
-  "date": "2026年11月25日",
+  "date": "2026年11月26日",
   "demo": false,
-  "updatedAt": "2026-11-25T13:36:07.998Z",
+  "updatedAt": "2026-11-25T22:43:08.200Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,7 +12,7 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 198,
+    "received": 165,
     "latestCount": 3,
     "archiveCount": 1,
     "peopleStatus": "ok"
@@ -38,8 +38,8 @@
         "group": "产品与工程",
         "focus": "Codex 与 AI 产品开发",
         "url": "https://x.com/thsottiaux",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "karpathy",
@@ -110,8 +110,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 0,
-        "status": "本次未检出"
+        "matched": 1,
+        "status": "本次收录"
       },
       {
         "handle": "gdb",
@@ -119,7 +119,7 @@
         "group": "行业与创业",
         "focus": "模型能力与产品动态",
         "url": "https://x.com/gdb",
-        "matched": 8,
+        "matched": 5,
         "status": "本次收录"
       },
       {
@@ -144,38 +144,38 @@
   },
   "items": [
     {
-      "id": "aihot-pfcfdoo56p8ib66uf7r4pmttv",
-      "title": "ChatGPT Business 获重置与快速模式",
-      "brief": "致所有 ChatGPT Business 团队。",
-      "summary": "致所有 ChatGPT Business 团队。",
-      "category": "产品动态",
+      "id": "aihot-n2u93ng3lwzzhr9v5y0olnmny",
+      "title": "Sam Altman 谈“hyperstitioning”一词",
+      "brief": "我觉得我以前没听过“hyperstitioning”这个词，但这词不错。",
+      "summary": "我觉得我以前没听过“hyperstitioning”这个词，但这词不错。",
+      "category": "AI 动态",
       "topic": "AI 产品",
       "priority": "normal",
       "platform": "X",
-      "authorHandle": "thsottiaux",
-      "sourceGroup": "产品与工程",
-      "sourceName": "Tibo Sottiaux · @thsottiaux",
-      "feedName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2125299248782778588",
-      "aggregateUrl": "https://aihot.news/items/pfcfdoo56p8ib66uf7r4pmttv",
+      "authorHandle": "sama",
+      "sourceGroup": "行业与创业",
+      "sourceName": "Sam Altman · @sama",
+      "feedName": "X：Sam Altman (@sama)",
+      "sourceUrl": "https://x.com/sama/status/2125639418849714280",
+      "aggregateUrl": "https://aihot.news/items/n2u93ng3lwzzhr9v5y0olnmny",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-24T18:43:21.000Z",
+      "publishedAt": "2026-11-25T17:15:04.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
         "entities": [
           {
-            "name": "Tibo Sottiaux",
-            "asset": "/assets/identities/thsottiaux.jpg",
-            "assetSource": "https://x.com/thsottiaux",
+            "name": "Sam Altman",
+            "asset": "/assets/identities/sama.jpg",
+            "assetSource": "https://x.com/sama",
             "tone": "#e9e4dc"
           }
         ],
-        "caption": "产品动态",
+        "caption": "AI 动态",
         "author": {
-          "name": "Tibo Sottiaux",
-          "asset": "/assets/identities/thsottiaux.jpg",
-          "assetSource": "https://x.com/thsottiaux",
+          "name": "Sam Altman",
+          "asset": "/assets/identities/sama.jpg",
+          "assetSource": "https://x.com/sama",
           "tone": "#e9e4dc"
         }
       }
@@ -218,22 +218,22 @@
       }
     },
     {
-      "id": "aihot-hnk77zmg3vdso055pjmnbcmte",
-      "title": "Perplexity 内 Gemini 4 Neon 周二消耗 44.52B tokens，超周一全天 23.5%",
-      "brief": "Perplexity CEO Aravind Srinivas 称周二 Gemini 4 Neon 在 Perplexity 内消耗 44.52B tokens，距当日结束还有 3 小时以上，已比周一全天 36.06B 高 23.5%。",
-      "summary": "Perplexity CEO Aravind Srinivas 称周二 Gemini 4 Neon 在 Perplexity 内消耗 44.52B tokens，距当日结束还有 3 小时以上，已比周一全天 36.06B 高 23.5%。",
-      "category": "行业观察",
-      "topic": "AI 产品",
+      "id": "aihot-owyfg64kop1ry53d3sqvdq54w",
+      "title": "Perplexity 推出 Time Machine，可将任意日期的网络原貌提供给模型",
+      "brief": "Perplexity CEO Aravind Srinivas 宣布推出 Perplexity Time Machine，让模型看到任意所选日期的网络原样，用于后训练擅长预测未来的智能体。",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布推出 Perplexity Time Machine，让模型看到任意所选日期的网络原样，用于后训练擅长预测未来的智能体。",
+      "category": "产品动态",
+      "topic": "Agent",
       "priority": "normal",
       "platform": "X",
       "authorHandle": "AravSrinivas",
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2125458638823379123",
-      "aggregateUrl": "https://aihot.news/items/hnk77zmg3vdso055pjmnbcmte",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2125707364053680383",
+      "aggregateUrl": "https://aihot.news/items/owyfg64kop1ry53d3sqvdq54w",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-25T05:16:43.000Z",
+      "publishedAt": "2026-11-25T21:45:03.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -243,15 +243,9 @@
             "asset": "/assets/identities/perplexity_ai.jpg",
             "assetSource": "https://x.com/perplexity_ai",
             "tone": "#dcebea"
-          },
-          {
-            "name": "Google DeepMind",
-            "asset": "/assets/identities/googledeepmind.jpg",
-            "assetSource": "https://x.com/GoogleDeepMind",
-            "tone": "#e4eaf4"
           }
         ],
-        "caption": "行业观察",
+        "caption": "产品动态",
         "author": {
           "name": "Aravind Srinivas",
           "asset": "/assets/identities/aravsrinivas.jpg",
@@ -301,61 +295,48 @@
   "ranking": [
     {
       "rank": 1,
-      "id": "ajcxs84uezjqgsgxpdtr31o0l",
-      "title": "英伟达董事会全票恢复黄仁勋职务",
-      "sourceName": "X：X.PIN (@thexpin)",
-      "sourceUrl": "https://x.com/thexpin/status/2124866686025400819",
-      "aihotUrl": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-      "storyUrl": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb",
-      "sourceCount": 6,
-      "participantCount": 129,
-      "latestAt": "2026-11-23T20:46:15.000Z",
+      "id": "zcpto4b7qb8sr6v6n223kd2sx",
+      "title": "Claude artifacts 可安装为 Mac 和 Windows 桌面应用",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/install-as-app",
+      "aihotUrl": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+      "storyUrl": "https://aihot.news/story/3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac",
+      "sourceCount": 3,
+      "participantCount": 27,
+      "latestAt": "2026-11-25T00:56:27.000Z",
       "expanded": true,
-      "latest": "NVIDIA 董事会撤销决定，恢复黄仁勋 CEO、总裁兼董事职务",
+      "latest": "Lydia Hallie 介绍 Claude Artifacts 桌面应用的存储与连接器机制",
       "reports": [
         {
-          "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-          "sourceUrl": "https://www.wheresyoured.at/defective-accelerationism/",
-          "aihotUrl": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-          "publishedAt": "2026-11-24T18:08:05.000Z"
+          "title": "Lydia Hallie 介绍 Claude Artifacts 桌面应用的存储与连接器机制",
+          "sourceName": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+          "sourceUrl": "https://x.com/lydiahallie/status/2125393139481587783",
+          "aihotUrl": "https://aihot.news/items/qz4q0unb00rlvk00asimk510j",
+          "publishedAt": "2026-11-25T00:56:27.000Z"
         },
         {
-          "title": "NVIDIA 董事会撤销决定，恢复黄仁勋 CEO、总裁兼董事职务",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2124967788905365714",
-          "aihotUrl": "https://aihot.news/items/hmsq0aeol4xxxs3ksg5e5u12u",
-          "publishedAt": "2026-11-23T20:46:15.000Z"
+          "title": "Anthropic 为 Claude Artifacts 推出安装为应用功能，支持 macOS 和 Windows",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/031/911.htm",
+          "aihotUrl": "https://aihot.news/items/gnbuyl04j7o7xkf8g55cvpidr",
+          "publishedAt": "2026-11-24T23:17:06.970Z"
         },
         {
-          "title": "英伟达董事会恢复黄仁勋CEO职务",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-          "aihotUrl": "https://aihot.news/items/zx2hatsv8edumgbbvqqwxtito",
-          "publishedAt": "2026-11-23T19:57:18.000Z"
+          "title": "Anthropic 将 Claude Artifacts 变为可安装在 macOS 和 Windows 的独立桌面应用",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+          "aihotUrl": "https://aihot.news/items/hg3ru03nwdcj45rnhbzmcl78b",
+          "publishedAt": "2026-11-24T20:42:29.000Z"
         }
       ],
-      "related": [
-        {
-          "title": "特朗普公开支持黄仁勋回归英伟达",
-          "storyUrl": "https://aihot.news/story/e04baccb-6e1d-4072-8167-8272457c90d1"
-        },
-        {
-          "title": "黄仁勋因婚外情风波辞任英伟达CEO，CFO临时接任",
-          "storyUrl": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
-        },
-        {
-          "title": "黄仁勋辞任英伟达CEO，称若董事会决定愿回归",
-          "storyUrl": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
-        }
-      ],
+      "related": [],
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",
@@ -364,41 +345,54 @@
     },
     {
       "rank": 2,
-      "id": "t7jlbaldqf2zcliuva1sofoks",
-      "title": "Anthropic 发布 Claude Ship 测试版，自动审查并批准 PR",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/introducing-claude-ship",
-      "aihotUrl": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-      "storyUrl": "https://aihot.news/story/9474636b-5271-405b-91d7-b469bdf1aa8f",
-      "sourceCount": 7,
-      "participantCount": 40,
-      "latestAt": "2026-11-25T07:30:08.000Z",
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic 上市首日涨 17%，一周内跌破发行价",
+      "sourceName": "Anthropic：Newsroom（网页）",
+      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+      "sourceCount": 3,
+      "participantCount": 27,
+      "latestAt": "2026-11-25T03:29:13.877Z",
       "expanded": true,
-      "latest": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
+      "latest": "Anthropic 上市不到一周跌破 83 美元发行价",
       "reports": [
         {
-          "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "sourceName": "X：Addy Osmani (@addyosmani)",
-          "sourceUrl": "https://x.com/addyosmani/status/2125492213903978917",
-          "aihotUrl": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-          "publishedAt": "2026-11-25T07:30:08.000Z"
+          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
+          "sourceName": "IT之家·人工智能",
+          "sourceUrl": "https://www.ithome.com/1/031/983.htm",
+          "aihotUrl": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
+          "publishedAt": "2026-11-25T03:29:13.877Z"
         },
         {
-          "title": "Claude Code 实用指南：PR 后续交给 Claude Ship",
-          "sourceName": "X：Claude Devs (@ClaudeDevs)",
-          "sourceUrl": "https://x.com/ClaudeDevs/status/2125365668463993091",
-          "aihotUrl": "https://aihot.news/items/ipcqjvmnwr18xgxpmk7f7pzl7",
-          "publishedAt": "2026-11-24T23:07:17.000Z"
+          "title": "Anthropic 跌破 83 美元 IPO 发行价，市值蒸发近 2000 亿美元",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2125378974796955934",
+          "aihotUrl": "https://aihot.news/items/wxxtbywgaob5rqu59sfe2n4e0",
+          "publishedAt": "2026-11-25T00:00:09.000Z"
         },
         {
-          "title": "Claude Code 团队实践指南：如何用 Claude Ship 处理开 PR 后的跟进工作",
-          "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "sourceUrl": "https://claude.dev/blog/the-work-after-you-open-a-pr/",
-          "aihotUrl": "https://aihot.news/items/xhwdnk4oemxxrx812hufd0beg",
-          "publishedAt": "2026-11-24T12:00:00.000Z"
+          "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "sourceUrl": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "aihotUrl": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+          "publishedAt": "2026-11-24T18:30:42.000Z"
         }
       ],
-      "related": [],
+      "related": [
+        {
+          "title": "Gary Marcus 质疑 Anthropic IPO 估值，上市后股价破发",
+          "storyUrl": "https://aihot.news/story/54c2f130-cae3-49ae-bb94-623d1d363607"
+        },
+        {
+          "title": "Anthropic季度营收增十二倍仍亏233亿美元",
+          "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
+        },
+        {
+          "title": "Anthropic三季度收入168亿美元，增速放缓",
+          "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
+        }
+      ],
       "visual": {
         "entities": [
           {
@@ -414,40 +408,124 @@
     },
     {
       "rank": 3,
+      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
+      "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
+      "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+      "storyUrl": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae",
+      "sourceCount": 6,
+      "participantCount": 21,
+      "latestAt": "2026-11-25T19:54:16.000Z",
+      "expanded": true,
+      "latest": "Higgsfield 免费开放 MAGI-2",
+      "reports": [
+        {
+          "title": "Higgsfield 免费开放 MAGI-2",
+          "sourceName": "X：Higgsfield AI (@higgsfield)",
+          "sourceUrl": "https://x.com/higgsfield/status/2125679482623406589",
+          "aihotUrl": "https://aihot.news/items/mh7skcoijt0ubvyx4szk96dl8",
+          "publishedAt": "2026-11-25T19:54:16.000Z"
+        },
+        {
+          "title": "Higgsfield 上线 MAGI-2 视频模型",
+          "sourceName": "X：Higgsfield AI (@higgsfield)",
+          "sourceUrl": "https://x.com/higgsfield/status/2125679477459910964",
+          "aihotUrl": "https://aihot.news/items/eh4xhd76i9ps3rkscchy5wve9",
+          "publishedAt": "2026-11-25T19:54:15.000Z"
+        },
+        {
+          "title": "5 大场景实测 AI 视频模型 MAGI-2：1080P 5 毛一秒，约为 Seedance 2.5 十分之一",
+          "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
+          "sourceUrl": "https://x.com/aiwarts/status/2125588819152167256",
+          "aihotUrl": "https://aihot.news/items/wqq99cv04c6oyv7nxhtplg0ik",
+          "publishedAt": "2026-11-25T13:54:00.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "公众号：数字生命卡兹克",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 4,
+      "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
+      "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
+      "aihotUrl": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
+      "storyUrl": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51",
+      "sourceCount": 4,
+      "participantCount": 30,
+      "latestAt": "2026-11-25T18:41:16.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "公众号：数字生命卡兹克",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "t7jlbaldqf2zcliuva1sofoks",
+      "title": "Anthropic 发布 Claude Ship 测试版，自动审查并批准 PR",
+      "sourceName": "Claude：Blog（网页）",
+      "sourceUrl": "https://claude.com/blog/introducing-claude-ship",
+      "aihotUrl": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+      "storyUrl": "https://aihot.news/story/9474636b-5271-405b-91d7-b469bdf1aa8f",
+      "sourceCount": 4,
+      "participantCount": 33,
+      "latestAt": "2026-11-25T07:30:08.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 6,
       "id": "d4hhqnlmrclsx7d6idtvq95wz",
       "title": "智谱发布GLM-5.4旗舰模型，采用循环Transformer架构",
       "sourceName": "公众号：智谱（GLM）",
       "sourceUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
       "aihotUrl": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
       "storyUrl": "https://aihot.news/story/fc5a905b-54af-4de4-9c7c-a366a60a9f84",
-      "sourceCount": 3,
-      "participantCount": 38,
+      "sourceCount": 1,
+      "participantCount": 32,
       "latestAt": "2026-11-23T23:40:49.000Z",
-      "expanded": true,
-      "latest": "Z.ai 发布 GLM 5.4，首次采用 Loop Transformer 架构",
-      "reports": [
-        {
-          "title": "Z.ai 发布 GLM 5.4，首次采用 Loop Transformer 架构",
-          "sourceName": "Simon Willison 博客",
-          "sourceUrl": "https://simonwillison.net/2026/Nov/23/glm-54/",
-          "aihotUrl": "https://aihot.news/items/v355zd1rteoz5jcwvhklvmeyq",
-          "publishedAt": "2026-11-23T23:40:49.000Z"
-        },
-        {
-          "title": "Z.ai 发布 GLM-5.4：750B Loop Transformer，28 层循环跑两次",
-          "sourceName": "MarkTechPost（RSS）",
-          "sourceUrl": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
-          "aihotUrl": "https://aihot.news/items/gkb4y3dxvzr8vhytaeehrelop",
-          "publishedAt": "2026-11-23T19:11:40.000Z"
-        },
-        {
-          "title": "Z.ai 发布 750B 循环架构旗舰模型 GLM-5.4",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
-          "aihotUrl": "https://aihot.news/items/dnri1sadp1o1jmxgpmkx5jv4b",
-          "publishedAt": "2026-11-23T15:13:03.000Z"
-        }
-      ],
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -463,100 +541,16 @@
       }
     },
     {
-      "rank": 4,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 上市首日涨 17%，一周内跌破发行价",
-      "sourceName": "Anthropic：Newsroom（网页）",
-      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-      "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-      "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "sourceCount": 3,
-      "participantCount": 26,
-      "latestAt": "2026-11-25T03:29:13.877Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 5,
-      "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
-      "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
-      "aihotUrl": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-      "storyUrl": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51",
-      "sourceCount": 3,
-      "participantCount": 30,
-      "latestAt": "2026-11-24T21:43:33.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "公众号：数字生命卡兹克",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 6,
-      "id": "zcpto4b7qb8sr6v6n223kd2sx",
-      "title": "Claude artifacts 可安装为 Mac 和 Windows 桌面应用",
-      "sourceName": "Claude：Blog（网页）",
-      "sourceUrl": "https://claude.com/blog/install-as-app",
-      "aihotUrl": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
-      "storyUrl": "https://aihot.news/story/3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac",
-      "sourceCount": 3,
-      "participantCount": 20,
-      "latestAt": "2026-11-25T00:56:27.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
       "rank": 7,
-      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
-      "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
-      "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-      "storyUrl": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae",
+      "id": "fsuuia07co9foiuxxt7ff8fog",
+      "title": "Tidal将于12月9日起下架纯AI生成音乐",
+      "sourceName": "The Verge：AI（RSS）",
+      "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "aihotUrl": "https://aihot.news/items/fsuuia07co9foiuxxt7ff8fog",
+      "storyUrl": "https://aihot.news/story/349e4eb0-98c5-4d3d-8ae9-549f9eb0a7f1",
       "sourceCount": 5,
-      "participantCount": 16,
-      "latestAt": "2026-11-25T09:16:41.000Z",
+      "participantCount": 20,
+      "latestAt": "2026-11-24T22:41:34.377Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -564,7 +558,7 @@
       "visual": {
         "entities": [
           {
-            "name": "公众号：数字生命卡兹克",
+            "name": "The Verge：AI（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -576,15 +570,15 @@
     },
     {
       "rank": 8,
-      "id": "lq87k55eq302bk57xq3o5orsv",
-      "title": "OpenAI与Anthropic员工警告内部模型难安全发布",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-      "aihotUrl": "https://aihot.news/items/lq87k55eq302bk57xq3o5orsv",
-      "storyUrl": "https://aihot.news/story/352fff72-a318-46a8-9820-a84e33ea566a",
-      "sourceCount": 3,
-      "participantCount": 19,
-      "latestAt": "2026-11-24T16:06:27.000Z",
+      "id": "fndlzxrjx5yxnikuebfn0mawg",
+      "title": "杨立昆指阿莫迪炒作AI危险论，阿莫迪否认",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "aihotUrl": "https://aihot.news/items/fndlzxrjx5yxnikuebfn0mawg",
+      "storyUrl": "https://aihot.news/story/99a822a0-0b83-4aff-8f65-02c408205578",
+      "sourceCount": 4,
+      "participantCount": 13,
+      "latestAt": "2026-11-25T20:15:50.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -592,16 +586,10 @@
       "visual": {
         "entities": [
           {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
-          },
-          {
-            "name": "Anthropic",
-            "asset": "/assets/identities/anthropicai.jpg",
-            "assetSource": "https://x.com/AnthropicAI",
-            "tone": "#eddfd0"
+            "name": "TechCrunch：AI（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "热点",
@@ -610,15 +598,15 @@
     },
     {
       "rank": 9,
-      "id": "d41p6k2h48zm8u2kl5xdzqx5h",
-      "title": "OpenAI与Cisco开源Shirudo：eBPF护住补丁窗口",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2125141302501417232",
-      "aihotUrl": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
-      "storyUrl": "https://aihot.news/story/68abb2b5-1d0f-4c37-8ad9-72fcbc771eef",
+      "id": "yg04c9d5qnwzitqstg19c6ow2",
+      "title": "OpenAI公布GPT-6.2蛋白质设计湿实验验证结果",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "aihotUrl": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
+      "storyUrl": "https://aihot.news/story/81de20a5-02a9-44a4-bc64-da0b8b916ab5",
       "sourceCount": 3,
-      "participantCount": 25,
-      "latestAt": "2026-11-25T09:41:02.000Z",
+      "participantCount": 17,
+      "latestAt": "2026-11-24T22:44:58.033Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -638,15 +626,15 @@
     },
     {
       "rank": 10,
-      "id": "eg97pyuem4incr7vpqsklw36v",
-      "title": "亚马逊约75亿美元收购Decart技术与团队",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2124294348712092061",
-      "aihotUrl": "https://aihot.news/items/eg97pyuem4incr7vpqsklw36v",
-      "storyUrl": "https://aihot.news/story/51379310-d375-40d8-88e1-a8112bca2c10",
-      "sourceCount": 2,
-      "participantCount": 27,
-      "latestAt": "2026-11-24T15:51:07.000Z",
+      "id": "lq87k55eq302bk57xq3o5orsv",
+      "title": "OpenAI与Anthropic员工警告内部模型难安全发布",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+      "aihotUrl": "https://aihot.news/items/lq87k55eq302bk57xq3o5orsv",
+      "storyUrl": "https://aihot.news/story/352fff72-a318-46a8-9820-a84e33ea566a",
+      "sourceCount": 3,
+      "participantCount": 20,
+      "latestAt": "2026-11-24T16:06:27.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -654,10 +642,16 @@
       "visual": {
         "entities": [
           {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          },
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
           }
         ],
         "caption": "热点",

@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-25T13:36:00.128Z",
-      "lastSuccessAt": "2026-11-25T13:36:00.128Z",
-      "nextCheckAt": 1795617360128,
+      "checkedAt": "2026-11-25T22:42:52.386Z",
+      "lastSuccessAt": "2026-11-25T22:42:52.386Z",
+      "nextCheckAt": 1795650172386,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-25T13:36:00.129Z",
-      "lastSuccessAt": "2026-11-25T13:36:00.129Z",
-      "nextCheckAt": 1795617360129,
+      "checkedAt": "2026-11-25T22:42:52.387Z",
+      "lastSuccessAt": "2026-11-25T22:42:52.387Z",
+      "nextCheckAt": 1795650172387,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-25T13:36:00.131Z",
-      "lastSuccessAt": "2026-11-25T13:36:00.131Z",
-      "nextCheckAt": 1795617360131,
+      "checkedAt": "2026-11-25T22:42:52.388Z",
+      "lastSuccessAt": "2026-11-25T22:42:52.388Z",
+      "nextCheckAt": 1795650172388,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-25T13:36:00.339Z",
-      "lastSuccessAt": "2026-11-25T13:36:00.339Z",
-      "nextCheckAt": 1795617360339,
+      "checkedAt": "2026-11-25T22:42:52.534Z",
+      "lastSuccessAt": "2026-11-25T22:42:52.534Z",
+      "nextCheckAt": 1795650172534,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -90,7 +90,7 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795617360128,
+  "nextCheckAt": 1795650172386,
   "refreshing": false,
   "items": [
     {
@@ -254,6 +254,46 @@
       "priority": "normal"
     },
     {
+      "id": "ph:https://www.producthunt.com/products/openeight",
+      "title": "OpenEight",
+      "summary": "The deterministic control layer for AI agents",
+      "publishedAt": "2026-11-25T06:58:59.000Z",
+      "url": "https://www.producthunt.com/products/openeight",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/openeight",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "The deterministic control layer for AI agents",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
       "id": "ph:https://www.producthunt.com/products/magi-1",
       "title": "MAGI-2",
       "summary": "Sand AI's 480B model for cinematic video generation",
@@ -327,46 +367,6 @@
       "category": "新品与竞品",
       "platform": "英文产品社区",
       "brief": "Coding agents that keep working while you're away",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/peerband",
-      "title": "PeerBand",
-      "summary": "Reach every coding agent you run, from anywhere",
-      "publishedAt": "2026-11-25T01:23:23.000Z",
-      "url": "https://www.producthunt.com/products/peerband",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/peerband",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Reach every coding agent you run, from anywhere",
       "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
