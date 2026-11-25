@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-24T20:49:27.265Z",
-      "lastSuccessAt": "2026-11-24T20:49:27.265Z",
-      "nextCheckAt": 1795556967265,
+      "checkedAt": "2026-11-25T03:48:22.333Z",
+      "lastSuccessAt": "2026-11-25T03:48:22.333Z",
+      "nextCheckAt": 1795582102333,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-24T20:49:27.266Z",
-      "lastSuccessAt": "2026-11-24T20:49:27.266Z",
-      "nextCheckAt": 1795556967266,
+      "checkedAt": "2026-11-25T03:48:22.334Z",
+      "lastSuccessAt": "2026-11-25T03:48:22.334Z",
+      "nextCheckAt": 1795582102334,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-24T20:49:27.267Z",
-      "lastSuccessAt": "2026-11-24T20:49:27.267Z",
-      "nextCheckAt": 1795556967267,
+      "checkedAt": "2026-11-25T03:48:22.335Z",
+      "lastSuccessAt": "2026-11-25T03:48:22.335Z",
+      "nextCheckAt": 1795582102335,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-24T20:49:27.492Z",
-      "lastSuccessAt": "2026-11-24T20:49:27.492Z",
-      "nextCheckAt": 1795556967492,
       "status": "ok",
+      "nextCheckAt": 1795582102539,
+      "checkedAt": "2026-11-25T03:48:22.539Z",
+      "lastSuccessAt": "2026-11-25T03:48:22.539Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795556967265,
+  "nextCheckAt": 1795582102333,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6500050.html",
+      "title": "深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路",
+      "summary": "Agent 正从单机工具走向全天候数字同事，但多端消息汇聚、长任务阻塞、结果回传错乱等问题仍困扰开发者。DeepSeek Harness 开源的 Super-agent 以 Router + Worker 双层架构给出解法，本文拆解其事件驱动、全双工交互与工程优化，并对比 Multi-Agent 与 Agent Team，提炼可落地的设计思路。 今年十月底，DeepSeek Harness 团队开源了一个新的原型项目，名字叫DSH Su",
+      "publishedAt": "2026-11-25T03:22:59.000Z",
+      "url": "https://www.woshipm.com/ai/6500050.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6500050.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Agent 正从单机工具走向全天候数字同事，但多端消息汇聚、长任务阻塞、结果回传错乱等问题仍困扰开发者。DeepSeek Harness 开源的 Super-agent 以 Router + Worker 双层架构给出解法，本文拆解其事件驱动、全双工交互与工程优化，并对比 Multi-Agent 与 Agent Team，提炼可落地的设计思路。 今年十月底，DeepSeek Harness 团队开源了一个新的原型项目，名字叫DSH Su",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6499910.html",
+      "title": "AI视频模型也终于迎来了斩杀线，它的名字，叫MAGI-2。",
+      "summary": "Sand.ai 发布 480B 全模态视频模型 MAGI-2，支持 20 个素材参考、最长生成 30 秒，1080P 下每秒 0.5 元，约为 Seedance 2.5 的十分之一。作者带着看笑话的心态去测，结果运镜与提示词遵循远超预期，本文记录它的强项与短板。 今天凌晨，Sand.ai的全新视频模型MAGI-2，终于发了。 曹越老师拼搏了两年，终于终于把他们这个模型端出来了，我真的等了太久了，这也可能是我在整个AI视频领域，见到的为数",
+      "publishedAt": "2026-11-25T02:42:00.000Z",
+      "url": "https://www.woshipm.com/ai/6499910.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6499910.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Sand.ai 发布 480B 全模态视频模型 MAGI-2，支持 20 个素材参考、最长生成 30 秒，1080P 下每秒 0.5 元，约为 Seedance 2.5 的十分之一。作者带着看笑话的心态去测，结果运镜与提示词遵循远超预期，本文记录它的强项与短板。 今天凌晨，Sand.ai的全新视频模型MAGI-2，终于发了。 曹越老师拼搏了两年，终于终于把他们这个模型端出来了，我真的等了太久了，这也可能是我在整个AI视频领域，见到的为数",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6499740.html",
+      "title": "一手实测小豆个人AI助理，字节豆包出品",
+      "summary": "字节豆包的小豆还在邀请公测，一个邀请码只能用一次，闲鱼已经炒到 20 元。作者从飞书共创群拿到资格，实测发现首次登录只支持抖音、百度网盘、提醒事项、联系人等少数应用，语音输入与任务推荐是亮点，整体谈不上惊艳。 个人AI助理（Personal Agent)国内赛道又迎来了一位新选手，当然坊间传闻已久，它就是字节豆包的小豆。基本上品牌表示都沿袭了豆包系产品，从豆包、豆包工作、到小豆，豆姐的卡通形象算闭环了。 小豆目前还处于邀请公测阶段，邀请",
+      "publishedAt": "2026-11-25T01:45:51.000Z",
+      "url": "https://www.woshipm.com/ai/6499740.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6499740.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "字节豆包的小豆还在邀请公测，一个邀请码只能用一次，闲鱼已经炒到 20 元。作者从飞书共创群拿到资格，实测发现首次登录只支持抖音、百度网盘、提醒事项、联系人等少数应用，语音输入与任务推荐是亮点，整体谈不上惊艳。 个人AI助理（Personal Agent)国内赛道又迎来了一位新选手，当然坊间传闻已久，它就是字节豆包的小豆。基本上品牌表示都沿袭了豆包系产品，从豆包、豆包工作、到小豆，豆姐的卡通形象算闭环了。 小豆目前还处于邀请公测阶段，邀请",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/",
       "title": "Production AI Playbook: Audit & trace for AI agents",
@@ -131,126 +251,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6499385.html",
-      "title": "阿里 Qoder 再上新，匿名模型免费用，实测，适合干活儿",
-      "summary": "Qoder 桌面端上线匿名模型 HungerG，11 月 23 日到 30 日免费用，Credits 为 0 也能跑。老章把思考强度拉满，试了纯代码生成视频、数据分析、直出可编辑 PPT 三件事，还顺带猜它是 Qwen4-Flash-Next。 今天凌晨，Qoder 桌面端上线了匿名模型 HungerG 在 Qoder 客户端（IDE、JetBrains 插件、CLI 和企业版暂不包含）选择 HungerG 即可，目前随意使用，免费时间",
-      "publishedAt": "2026-11-24T09:04:57.000Z",
-      "url": "https://www.woshipm.com/ai/6499385.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6499385.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Qoder 桌面端上线匿名模型 HungerG，11 月 23 日到 30 日免费用，Credits 为 0 也能跑。老章把思考强度拉满，试了纯代码生成视频、数据分析、直出可编辑 PPT 三件事，还顺带猜它是 Qwen4-Flash-Next。 今天凌晨，Qoder 桌面端上线了匿名模型 HungerG 在 Qoder 客户端（IDE、JetBrains 插件、CLI 和企业版暂不包含）选择 HungerG 即可，目前随意使用，免费时间",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6499347.html",
-      "title": "AI 生图的「RSI」来了？海量案例实测，发布即开源！",
-      "summary": "商汤 SenseNova-U1.6 被跑了一整夜，十二个方向逐一试：海报版式、IP 设定、中文信息图、电商静物。提升集中在审美与文字自修正——写完信息图会自己回看改错字，另外还测了自修正与 API 的实际边界。 上周给大家分享我在 RTX Spark 上部署开源图像模型，几十秒一张图，还是非常爽的。 正好前两天商汤小伙伴跟我说，他们上新了 SenseNova-U1.6，一款兼具美学创造力与原生自修正能力的统一多模态模型，能让图像创作兼顾",
-      "publishedAt": "2026-11-24T09:01:58.000Z",
-      "url": "https://www.woshipm.com/ai/6499347.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6499347.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "商汤 SenseNova-U1.6 被跑了一整夜，十二个方向逐一试：海报版式、IP 设定、中文信息图、电商静物。提升集中在审美与文字自修正——写完信息图会自己回看改错字，另外还测了自修正与 API 的实际边界。 上周给大家分享我在 RTX Spark 上部署开源图像模型，几十秒一张图，还是非常爽的。 正好前两天商汤小伙伴跟我说，他们上新了 SenseNova-U1.6，一款兼具美学创造力与原生自修正能力的统一多模态模型，能让图像创作兼顾",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6499320.html",
-      "title": "这些一流大模型，为什么选择不同的 Benchmark？",
-      "summary": "大模型评测正从标准化考试转向真实工作场景，各家厂商的Benchmark越来越像产品说明书。本文拆解腾讯混元、Anthropic、OpenAI和Kimi的评测策略，揭示考题分化背后隐藏的商业算盘与能力押注，带你看懂模型竞争的下一个赛点。 过去不到一个月内，腾讯先后发布了混元Hy4和Hy4 flash。两款模型的评测材料呈现出不同的侧重点。 Hy4展示了金融投资研究、游戏开发和科研等专业任务的成绩，并首次引入Computer Use能力。H",
-      "publishedAt": "2026-11-24T08:44:16.000Z",
-      "url": "https://www.woshipm.com/ai/6499320.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6499320.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "大模型评测正从标准化考试转向真实工作场景，各家厂商的Benchmark越来越像产品说明书。本文拆解腾讯混元、Anthropic、OpenAI和Kimi的评测策略，揭示考题分化背后隐藏的商业算盘与能力押注，带你看懂模型竞争的下一个赛点。 过去不到一个月内，腾讯先后发布了混元Hy4和Hy4 flash。两款模型的评测材料呈现出不同的侧重点。 Hy4展示了金融投资研究、游戏开发和科研等专业任务的成绩，并首次引入Computer Use能力。H",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
