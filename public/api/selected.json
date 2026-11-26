@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-26T14:18:35.227Z",
+  "checkedAt": "2026-11-26T23:03:41.738Z",
   "message": "",
   "categories": [
     {
@@ -96,6 +96,20 @@
       "unselected": false
     },
     {
+      "id": "gc4qp85ij5qzhu53qzkg8quqj",
+      "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+      "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
+      "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。",
+      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "sourceUrl": "https://x.com/adocomplete/status/2125994186252161315",
+      "aihotUrl": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+      "publishedAt": "2026-11-26T16:44:47.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "mruv0rx3oxnkjy9ll805qaidc",
       "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
       "reason": "作者基于《人生意义设计课》改编出可直接复用的多轮对话Prompt，并附完整实测流程，读者可拿来即用。",
@@ -104,104 +118,6 @@
       "sourceUrl": "https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg",
       "aihotUrl": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
       "publishedAt": "2026-11-25T23:56:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "dvu6olan4q58k1evvnp8t60t2",
-      "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
-      "reason": "原文给出 Hy4 Flash 在多个专业基准上的得分与成本对比，读者可据此评估它在专业任务中的性价比取舍。",
-      "summary": "腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。",
-      "sourceName": "Fireworks AI（网页）",
-      "sourceUrl": "https://fireworks.ai/blog/hy4-flash-on-fireworks/",
-      "aihotUrl": "https://aihot.news/items/dvu6olan4q58k1evvnp8t60t2",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "i5qr52169dlque8rb2sl4i5jo",
-      "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
-      "reason": "官方给出了 Pax 在 Harness-Bench SWE81 上与 OpenCode、Codex、Claude Code 的分数和成本对比，读者可据此评估这款终端编码 agent 的性价比。",
-      "summary": "Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。",
-      "sourceName": "Pydantic AI 官方文章",
-      "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
-      "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
-      "publishedAt": "2026-11-25T09:00:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "e6gp31eup40d99unaon9umnpo",
-      "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-      "reason": "Dario Amodei 澄清自己主张 AI 治理须服从民主程序，并区分任务自动化与交出治理权，读者可对照各方在自动化上的立场差异。",
-      "summary": "Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。",
-      "sourceName": "X：Elon Musk (@elonmusk, xAI)",
-      "sourceUrl": "https://x.com/elonmusk/status/2125669066388209784",
-      "aihotUrl": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-      "publishedAt": "2026-11-25T19:12:53.000Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
-      "unselected": false
-    },
-    {
-      "id": "rnanzlnaqxdr2icjqw0qwv9la",
-      "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-      "reason": "访谈披露了 Anthropic 用 Claude 处理代码审查和 oncall 的真实流程，读者可以对照调整自己团队的工程实践。",
-      "summary": "Pragmatic Engineer 发布对 Anthropic 平台工程负责人 Katelyn Lesse 的播客访谈，她团队负责 Claude API 及 Claude Code 和 Claude Desktop 的基础设施。",
-      "sourceName": "Pragmatic Engineer（RSS）",
-      "sourceUrl": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
-      "aihotUrl": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-      "publishedAt": "2026-11-25T17:31:32.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "j0hoj1rlmltoft6okserijp25",
-      "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-      "reason": "报道给出涉及 2100 万账户含未成年人的拍卖细节和 42 州总检察长的反对理由，读者可据此了解破产程序下用户数据保护的争议。",
-      "summary": "42 州总检察长介入 Character.AI 的破产程序，试图阻止其拍卖用户私密聊天数据。",
-      "sourceName": "TechCrunch：AI（RSS）",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "aihotUrl": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-      "publishedAt": "2026-11-25T17:35:58.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "br6usy3mxv1q0mzxhgf9y8qam",
-      "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-      "reason": "作者用 470 个任务实测区分上下文腐烂与上下文漂移，并给出零成本可复用的冲突上报工具方案。",
-      "summary": "Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS…",
-      "sourceName": "Google AI：DEV 作者专属（RSS）",
-      "sourceUrl": "https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph",
-      "aihotUrl": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-      "publishedAt": "2026-11-25T16:19:30.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "h1ja45355xx1xf9rqf89cv1if",
-      "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
-      "reason": "原文复盘了用生产系统当校验器迁移 API 的完整方法，读者可以借鉴定位和修复重写中的行为差异。",
-      "summary": "Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。",
-      "sourceName": "Anthropic：Research（发表成果 · 网页）",
-      "sourceUrl": "https://www.anthropic.com/research/migrating-api-to-rust",
-      "aihotUrl": "https://aihot.news/items/h1ja45355xx1xf9rqf89cv1if",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
@@ -302,20 +218,6 @@
       "sourceUrl": "https://x.com/TencentHunyuan/status/2123625549147070538",
       "aihotUrl": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
       "publishedAt": "2026-11-20T03:52:40.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "z0unnn7ryj39a3tuns8b1l4a6",
-      "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
-      "reason": "视频实测对比 Gemini 4 Neon 与多个前沿模型在 3D、游戏、UI 等场景的表现，并给出榜单与价格参照。",
-      "summary": "Arena 分享 Gemini 4 Neon 发布后的第一手实测视频，Peter Gostev 在 3D 场景、游戏、UI 和数据可视化等任务中将其与 Opus、Fable、Astra、Sol 对比，并评估其接近前沿的程度。",
-      "sourceName": "X：Arena (@arena)",
-      "sourceUrl": "https://x.com/arena/status/2123528811572846972",
-      "aihotUrl": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
-      "publishedAt": "2026-11-19T21:28:16.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",
@@ -658,6 +560,20 @@
       "unselected": false
     },
     {
+      "id": "gc4qp85ij5qzhu53qzkg8quqj",
+      "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+      "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
+      "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。",
+      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "sourceUrl": "https://x.com/adocomplete/status/2125994186252161315",
+      "aihotUrl": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+      "publishedAt": "2026-11-26T16:44:47.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "mruv0rx3oxnkjy9ll805qaidc",
       "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
       "reason": "作者基于《人生意义设计课》改编出可直接复用的多轮对话Prompt，并附完整实测流程，读者可拿来即用。",
@@ -754,20 +670,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "hz782dpcwhurj6584rtd13eaf",
-      "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-      "reason": "作者以自己半个月的多模型使用实践为基础，给出按模型性格分工的调度结构和可复制的 CLAUDE.md 规则。",
-      "summary": "自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA",
-      "aihotUrl": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-      "publishedAt": "2026-11-22T23:56:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -803,6 +705,20 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
+          "id": "gc4qp85ij5qzhu53qzkg8quqj",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
+          "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。",
+          "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "sourceUrl": "https://x.com/adocomplete/status/2125994186252161315",
+          "aihotUrl": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "publishedAt": "2026-11-26T16:44:47.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
           "unselected": false
         },
         {
@@ -846,20 +762,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "br6usy3mxv1q0mzxhgf9y8qam",
-          "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "reason": "作者用 470 个任务实测区分上下文腐烂与上下文漂移，并给出零成本可复用的冲突上报工具方案。",
-          "summary": "Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS…",
-          "sourceName": "Google AI：DEV 作者专属（RSS）",
-          "sourceUrl": "https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph",
-          "aihotUrl": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-          "publishedAt": "2026-11-25T16:19:30.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -869,6 +771,20 @@
       "query": "AI 编码",
       "unselected": false,
       "items": [
+        {
+          "id": "gc4qp85ij5qzhu53qzkg8quqj",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
+          "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。",
+          "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "sourceUrl": "https://x.com/adocomplete/status/2125994186252161315",
+          "aihotUrl": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "publishedAt": "2026-11-26T16:44:47.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "i5qr52169dlque8rb2sl4i5jo",
           "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
@@ -937,20 +853,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "gflb0kkwzma61spkzpp1uxmrk",
-          "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
-          "reason": "原文给出 ExploitBench、ExploitGym 等具体成绩和训练安全措施，还附基准方法细节，便于评估其实际能力边界。",
-          "summary": "Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。",
-          "sourceName": "Cognition 模型 / Devin 博客（网页）",
-          "sourceUrl": "https://cognition.com/blog/swe-2-1",
-          "aihotUrl": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk",
-          "publishedAt": "2026-11-23T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-models",
-          "categoryLabel": "模型",
           "unselected": false
         }
       ]
@@ -1160,6 +1062,20 @@
           "unselected": false
         },
         {
+          "id": "gc4qp85ij5qzhu53qzkg8quqj",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
+          "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。",
+          "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "sourceUrl": "https://x.com/adocomplete/status/2125994186252161315",
+          "aihotUrl": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "publishedAt": "2026-11-26T16:44:47.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
+        {
           "id": "e6gp31eup40d99unaon9umnpo",
           "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
           "reason": "Dario Amodei 澄清自己主张 AI 治理须服从民主程序，并区分任务自动化与交出治理权，读者可对照各方在自动化上的立场差异。",
@@ -1213,20 +1129,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "youah0x28ti3a58sj8ku26rdy",
-          "title": "METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍",
-          "reason": "METR 分析 OpenAI 公开的预训练损失加速数据，梳理了几种解释路径及判断该趋势所需补充的信息。",
-          "summary": "METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。",
-          "sourceName": "METR：Blog（网页）",
-          "sourceUrl": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/",
-          "aihotUrl": "https://aihot.news/items/youah0x28ti3a58sj8ku26rdy",
-          "publishedAt": "2026-11-23T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
           "unselected": false
         }
       ]
