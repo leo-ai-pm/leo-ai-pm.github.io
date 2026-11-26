@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-26T04:29:07.396Z",
-      "lastSuccessAt": "2026-11-26T04:29:07.396Z",
-      "nextCheckAt": 1795670947396,
+      "checkedAt": "2026-11-26T14:18:00.683Z",
+      "lastSuccessAt": "2026-11-26T14:18:00.683Z",
+      "nextCheckAt": 1795706280683,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-26T04:29:07.397Z",
-      "lastSuccessAt": "2026-11-26T04:29:07.397Z",
-      "nextCheckAt": 1795670947397,
+      "checkedAt": "2026-11-26T14:18:00.684Z",
+      "lastSuccessAt": "2026-11-26T14:18:00.684Z",
+      "nextCheckAt": 1795706280684,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-26T04:29:07.397Z",
-      "lastSuccessAt": "2026-11-26T04:29:07.397Z",
-      "nextCheckAt": 1795670947397,
+      "checkedAt": "2026-11-26T14:18:00.685Z",
+      "lastSuccessAt": "2026-11-26T14:18:00.685Z",
+      "nextCheckAt": 1795706280685,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
+      "checkedAt": "2026-11-26T14:18:00.839Z",
+      "lastSuccessAt": "2026-11-26T14:18:00.839Z",
+      "nextCheckAt": 1795706280839,
       "status": "ok",
-      "nextCheckAt": 1795670947562,
-      "checkedAt": "2026-11-26T04:29:07.562Z",
-      "lastSuccessAt": "2026-11-26T04:29:07.562Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,290 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795670947396,
+  "nextCheckAt": 1795706280683,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6500813.html",
+      "title": "我用DeepSeek Harness从安装、接模型到装插件市场，把毛坯房Agent改成了自己的专属工作台",
+      "summary": "这个桌面端 Agent 从安装、接模型、装插件市场一路配下来，能换皮肤、接上手机远程派活，最后还手搓了一个提示词增强插件。这篇是完整的操作路径，适合想把毛坯房 Agent 改成自己工作台的人。 DeepSeek Harness发布至今三个多月，虽然还处在预览阶段，但大家都把它玩出花来了，比如最近很火的换皮肤、养大肥鱼、折腾各种插件。 这些玩法，都源于它“一切皆插件”的设计原则，赋予了它强大的灵活性，我们可以根据自己的需求，任意改造它。",
+      "publishedAt": "2026-11-26T11:44:02.000Z",
+      "url": "https://www.woshipm.com/ai/6500813.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6500813.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "这个桌面端 Agent 从安装、接模型、装插件市场一路配下来，能换皮肤、接上手机远程派活，最后还手搓了一个提示词增强插件。这篇是完整的操作路径，适合想把毛坯房 Agent 改成自己工作台的人。 DeepSeek Harness发布至今三个多月，虽然还处在预览阶段，但大家都把它玩出花来了，比如最近很火的换皮肤、养大肥鱼、折腾各种插件。 这些玩法，都源于它“一切皆插件”的设计原则，赋予了它强大的灵活性，我们可以根据自己的需求，任意改造它。",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "sspai:https://sspai.com/post/116773",
+      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+      "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。",
+      "publishedAt": "2026-11-26T09:30:00.000Z",
+      "url": "https://sspai.com/post/116773",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/116773",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/claude-mem",
+      "title": "Claude-Mem Cloud Sync",
+      "summary": "Switch devices. Keep your AI agents' memory.",
+      "publishedAt": "2026-11-26T07:58:18.000Z",
+      "url": "https://www.producthunt.com/products/claude-mem",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Anthropic",
+            "asset": "/assets/identities/anthropicai.jpg",
+            "assetSource": "https://x.com/AnthropicAI",
+            "tone": "#eddfd0"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/claude-mem",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Switch devices. Keep your AI agents' memory.",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "sspai:https://sspai.com/post/119563",
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。",
+      "publishedAt": "2026-11-26T07:00:00.000Z",
+      "url": "https://sspai.com/post/119563",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/119563",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6500800.html",
+      "title": "对话 MAGI-2：视频模型，生成出了数独的答案",
+      "summary": "Sand.ai 的 MAGI-2 是 480B 总参、28B 激活的 MoE 模型。给它一张挖掉 45 格的数独当起始帧，它能自己一步步推理填满。联创张拯讲了 Multi-Head Latent MoE 怎么把跨卡通信和 top-k 解耦，也讲了它为什么敢卖 5 分钱一秒。 昨天应该已经被三呆的新视频模型 MAGI-2 刷屏了吧？480B 的 MoE 视频模型，效果出奇的好（sota），出奇的便宜（5 分钱/秒） 在我看来，这个模型最牛",
+      "publishedAt": "2026-11-26T06:39:02.000Z",
+      "url": "https://www.woshipm.com/ai/6500800.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6500800.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "Sand.ai 的 MAGI-2 是 480B 总参、28B 激活的 MoE 模型。给它一张挖掉 45 格的数独当起始帧，它能自己一步步推理填满。联创张拯讲了 Multi-Head Latent MoE 怎么把跨卡通信和 top-k 解耦，也讲了它为什么敢卖 5 分钱一秒。 昨天应该已经被三呆的新视频模型 MAGI-2 刷屏了吧？480B 的 MoE 视频模型，效果出奇的好（sota），出奇的便宜（5 分钱/秒） 在我看来，这个模型最牛",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/superframes-ai-video-editor",
+      "title": "Superframes",
+      "summary": "Brief an AI Director to edit the whole video",
+      "publishedAt": "2026-11-26T05:09:09.000Z",
+      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/superframes-ai-video-editor",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "Brief an AI Director to edit the whole video",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
+    {
+      "id": "ph:https://www.producthunt.com/products/pydantic",
+      "title": "Pax by Pydantic",
+      "summary": "A coding agent where even coding is a plugin",
+      "publishedAt": "2026-11-26T04:04:50.000Z",
+      "url": "https://www.producthunt.com/products/pydantic",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
+        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "Product Hunt",
+            "asset": null,
+            "tone": "#f0e1d9"
+          }
+        ],
+        "caption": "新品与竞品",
+        "author": {
+          "name": "Product Hunt",
+          "asset": null,
+          "tone": "#f0e1d9"
+        }
+      },
+      "researchId": "ph",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/pydantic",
+      "sourceGroup": "新品与竞品",
+      "category": "新品与竞品",
+      "platform": "英文产品社区",
+      "brief": "A coding agent where even coding is a plugin",
+      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.producthunt.com/feed",
+      "priority": "normal"
+    },
     {
       "id": "sspai:https://sspai.com/post/117510",
       "title": "我用AI做了一张两千年的中国历史地图",
@@ -131,286 +412,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6500646.html",
-      "title": "Computer Use与Browser Use：揭秘Agent如何操作电脑和浏览器",
-      "summary": "Computer Use 操作桌面应用，Browser Use 直接用浏览器的 DOM 与可访问性树，两条执行路径决定了 Agent 能不能恢复、能不能审计。差别在判断权从脚本转到了模型，难点从写规则变成了怎么做验证。 从网站下载报表、打开 Excel 整理、再把结果填回另一个系统，这类工作每一步都不难，却需要人不断找入口、切窗口、复制和粘贴。RPA 早就能把稳定流程编排起来，但只要页面改版、文件缺失或弹窗出现，就需要重新补规则。 Ag",
-      "publishedAt": "2026-11-26T03:05:30.000Z",
-      "url": "https://www.woshipm.com/ai/6500646.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6500646.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Computer Use 操作桌面应用，Browser Use 直接用浏览器的 DOM 与可访问性树，两条执行路径决定了 Agent 能不能恢复、能不能审计。差别在判断权从脚本转到了模型，难点从写规则变成了怎么做验证。 从网站下载报表、打开 Excel 整理、再把结果填回另一个系统，这类工作每一步都不难，却需要人不断找入口、切窗口、复制和粘贴。RPA 早就能把稳定流程编排起来，但只要页面改版、文件缺失或弹窗出现，就需要重新补规则。 Ag",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6500639.html",
-      "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
-      "summary": "斯坦福《人生设计课》两位作者又出了一本《人生意义设计课》，讲的是另一种困境：日子安排得井井有条，心里仍然空。作者把它拆成一组可照着问的 Prompt，三步走完再谈意义。 人生的意义，一直是一个永恒的命题，特别是在AI时代。 老粉可能还记得，之前我写过一篇文章，把斯坦福最火的一门课《人生设计课》做成了Prompt，帮大家用设计师的思维来设计人生，当时发出来以后，就广受好评。 前阵子，《人生设计课》的两位作者，比尔·博内特和戴夫·伊万斯，又",
-      "publishedAt": "2026-11-26T02:56:32.000Z",
-      "url": "https://www.woshipm.com/ai/6500639.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6500639.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "斯坦福《人生设计课》两位作者又出了一本《人生意义设计课》，讲的是另一种困境：日子安排得井井有条，心里仍然空。作者把它拆成一组可照着问的 Prompt，三步走完再谈意义。 人生的意义，一直是一个永恒的命题，特别是在AI时代。 老粉可能还记得，之前我写过一篇文章，把斯坦福最火的一门课《人生设计课》做成了Prompt，帮大家用设计师的思维来设计人生，当时发出来以后，就广受好评。 前阵子，《人生设计课》的两位作者，比尔·博内特和戴夫·伊万斯，又",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/share/6500622.html",
-      "title": "从一句需求到可点的原型，我手上这套七步的PM工作流",
-      "summary": "把 PRD 和原型交给 AI，最容易崩在第一步：需求没说清就开写。这套七步工作流要求每个节点都停下来等确认，先问清七件事、再建五个目录、写出十一章节骨架，最后才让模型动手。 昨天那篇讲完提示词的三层台阶，后台问得最多的不是框架，是一句话。 那 PRD 和原型到底怎么交给它。 行，今天把我手上这套拆开，一步一步说。这套东西不是我想出来的发明，是我把自己的工作习惯一条条掰碎，塞进七个必须停下来等确认的步骤里。 先交代一下它跟昨天那套的关系。",
-      "publishedAt": "2026-11-26T02:54:11.000Z",
-      "url": "https://www.woshipm.com/share/6500622.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
-        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6500622.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "把 PRD 和原型交给 AI，最容易崩在第一步：需求没说清就开写。这套七步工作流要求每个节点都停下来等确认，先问清七件事、再建五个目录、写出十一章节骨架，最后才让模型动手。 昨天那篇讲完提示词的三层台阶，后台问得最多的不是框架，是一句话。 那 PRD 和原型到底怎么交给它。 行，今天把我手上这套拆开，一步一步说。这套东西不是我想出来的发明，是我把自己的工作习惯一条条掰碎，塞进七个必须停下来等确认的步骤里。 先交代一下它跟昨天那套的关系。",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "sspai:https://sspai.com/post/119310",
-      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。",
-      "publishedAt": "2026-11-25T06:59:16.000Z",
-      "url": "https://sspai.com/post/119310",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "少数派",
-            "asset": null,
-            "tone": "#eee3dc"
-          }
-        ],
-        "caption": "工作流与实践",
-        "author": {
-          "name": "少数派",
-          "asset": null,
-          "tone": "#eee3dc"
-        }
-      },
-      "researchId": "sspai",
-      "sourceName": "少数派",
-      "sourceUrl": "https://sspai.com/post/119310",
-      "sourceGroup": "工作流与实践",
-      "category": "工作流与实践",
-      "platform": "中文媒体",
-      "brief": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。",
-      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/openeight",
-      "title": "OpenEight",
-      "summary": "The deterministic control layer for AI agents",
-      "publishedAt": "2026-11-25T06:58:59.000Z",
-      "url": "https://www.producthunt.com/products/openeight",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/openeight",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "The deterministic control layer for AI agents",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/magi-1",
-      "title": "MAGI-2",
-      "summary": "Sand AI's 480B model for cinematic video generation",
-      "publishedAt": "2026-11-25T05:35:39.000Z",
-      "url": "https://www.producthunt.com/products/magi-1",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/magi-1",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Sand AI's 480B model for cinematic video generation",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "ph:https://www.producthunt.com/products/statefold-2",
-      "title": "Statefold",
-      "summary": "Coding agents that keep working while you're away",
-      "publishedAt": "2026-11-25T01:45:57.000Z",
-      "url": "https://www.producthunt.com/products/statefold-2",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "Product Hunt",
-            "asset": null,
-            "tone": "#f0e1d9"
-          }
-        ],
-        "caption": "新品与竞品",
-        "author": {
-          "name": "Product Hunt",
-          "asset": null,
-          "tone": "#f0e1d9"
-        }
-      },
-      "researchId": "ph",
-      "sourceName": "Product Hunt",
-      "sourceUrl": "https://www.producthunt.com/products/statefold-2",
-      "sourceGroup": "新品与竞品",
-      "category": "新品与竞品",
-      "platform": "英文产品社区",
-      "brief": "Coding agents that keep working while you're away",
-      "question": "产品判断：它替谁完成什么任务？与现有工具相比，切换理由和付费理由是什么？",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.producthunt.com/feed",
       "priority": "normal"
     },
     {
