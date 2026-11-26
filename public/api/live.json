@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月26日",
     "demo": false,
-    "updatedAt": "2026-11-25T22:43:08.200Z",
+    "updatedAt": "2026-11-26T04:29:18.763Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,8 +13,8 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 165,
-      "latestCount": 3,
+      "received": 161,
+      "latestCount": 5,
       "archiveCount": 1,
       "peopleStatus": "ok"
     },
@@ -39,8 +39,8 @@
           "group": "产品与工程",
           "focus": "Codex 与 AI 产品开发",
           "url": "https://x.com/thsottiaux",
-          "matched": 0,
-          "status": "本次未检出"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "karpathy",
@@ -48,8 +48,8 @@
           "group": "研究与方法",
           "focus": "LLM、模型使用与学习方法",
           "url": "https://x.com/karpathy",
-          "matched": 0,
-          "status": "历史观点已核对"
+          "matched": 1,
+          "status": "本次收录"
         },
         {
           "handle": "swyx",
@@ -120,7 +120,7 @@
           "group": "行业与创业",
           "focus": "模型能力与产品动态",
           "url": "https://x.com/gdb",
-          "matched": 5,
+          "matched": 2,
           "status": "本次收录"
         },
         {
@@ -144,6 +144,80 @@
       ]
     },
     "items": [
+      {
+        "id": "aihot-reedvq9m1fb7xktmvk0dnqqpk",
+        "title": "OpenAI 修复 GPT-6.2 计费错误并补偿用户",
+        "brief": "OpenAI 承认 GPT-6.2 上线时计费出错，多数用户的 GPT-6.2 Astra 和 Sol 用量被错误打折，现已修复。",
+        "summary": "OpenAI 承认 GPT-6.2 上线时计费出错，多数用户的 GPT-6.2 Astra 和 Sol 用量被错误打折，现已修复。",
+        "category": "行业观察",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "thsottiaux",
+        "sourceGroup": "产品与工程",
+        "sourceName": "Tibo Sottiaux · @thsottiaux",
+        "feedName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2125784147889393806",
+        "aggregateUrl": "https://aihot.news/items/reedvq9m1fb7xktmvk0dnqqpk",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-26T02:50:10.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "行业观察",
+          "author": {
+            "name": "Tibo Sottiaux",
+            "asset": "/assets/identities/thsottiaux.jpg",
+            "assetSource": "https://x.com/thsottiaux",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
+      {
+        "id": "aihot-j69x7pg6y3xkeyfrxd0mhiikk",
+        "title": "Karpathy 用 Claude Opus 5.5 耗时 7 小时构建真实数据版文明风格美国地图",
+        "brief": "Andrej Karpathy 让 Claude Opus 5.5 用真实美国数据填充文明风格游戏地图，7 小时生成 45K 行代码后完成，已部署在 https://karpathy.ai/usaciv/。",
+        "summary": "Andrej Karpathy 让 Claude Opus 5.5 用真实美国数据填充文明风格游戏地图，7 小时生成 45K 行代码后完成，已部署在 https://karpathy.ai/usaciv/。",
+        "category": "实践与观点",
+        "topic": "AI 产品",
+        "priority": "normal",
+        "platform": "X",
+        "authorHandle": "karpathy",
+        "sourceGroup": "研究与方法",
+        "sourceName": "Andrej Karpathy · @karpathy",
+        "feedName": "X：Andrej Karpathy (@karpathy)",
+        "sourceUrl": "https://x.com/karpathy/status/2125779541952246039",
+        "aggregateUrl": "https://aihot.news/items/j69x7pg6y3xkeyfrxd0mhiikk",
+        "acquiredVia": "AIHot",
+        "publishedAt": "2026-11-26T02:31:52.000Z",
+        "timeBasis": "published",
+        "verification": "AIHOT 摘要 · 原文可查",
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "实践与观点",
+          "author": {
+            "name": "Andrej Karpathy",
+            "asset": "/assets/identities/karpathy.jpg",
+            "assetSource": "https://x.com/karpathy",
+            "tone": "#e9e4dc"
+          }
+        }
+      },
       {
         "id": "aihot-n2u93ng3lwzzhr9v5y0olnmny",
         "title": "Sam Altman 谈“hyperstitioning”一词",
@@ -219,10 +293,10 @@
         }
       },
       {
-        "id": "aihot-owyfg64kop1ry53d3sqvdq54w",
-        "title": "Perplexity 推出 Time Machine，可将任意日期的网络原貌提供给模型",
-        "brief": "Perplexity CEO Aravind Srinivas 宣布推出 Perplexity Time Machine，让模型看到任意所选日期的网络原样，用于后训练擅长预测未来的智能体。",
-        "summary": "Perplexity CEO Aravind Srinivas 宣布推出 Perplexity Time Machine，让模型看到任意所选日期的网络原样，用于后训练擅长预测未来的智能体。",
+        "id": "aihot-tjhfc1unrskicp0h1k1jj7he8",
+        "title": "Perplexity Time Machine 上线 Search 与 Context API，将推出时间快照沙盒",
+        "brief": "Perplexity CEO Aravind Srinivas 表示，Perplexity Time Machine 可让模型看到所选任意日期的网络快照，用于后训练擅长预测未来的智能体，目前已在其 Search 与 Context API 中开放。",
+        "summary": "Perplexity CEO Aravind Srinivas 表示，Perplexity Time Machine 可让模型看到所选任意日期的网络快照，用于后训练擅长预测未来的智能体，目前已在其 Search 与 Context API 中开放。",
         "category": "产品动态",
         "topic": "Agent",
         "priority": "normal",
@@ -231,10 +305,10 @@
         "sourceGroup": "行业与创业",
         "sourceName": "Aravind Srinivas · @AravSrinivas",
         "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "sourceUrl": "https://x.com/AravSrinivas/status/2125707364053680383",
-        "aggregateUrl": "https://aihot.news/items/owyfg64kop1ry53d3sqvdq54w",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2125731816225304767",
+        "aggregateUrl": "https://aihot.news/items/tjhfc1unrskicp0h1k1jj7he8",
         "acquiredVia": "AIHot",
-        "publishedAt": "2026-11-25T21:45:03.000Z",
+        "publishedAt": "2026-11-25T23:22:13.000Z",
         "timeBasis": "published",
         "verification": "AIHOT 摘要 · 原文可查",
         "visual": {
@@ -303,7 +377,7 @@
         "aihotUrl": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
         "storyUrl": "https://aihot.news/story/3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac",
         "sourceCount": 3,
-        "participantCount": 27,
+        "participantCount": 29,
         "latestAt": "2026-11-25T00:56:27.000Z",
         "expanded": true,
         "latest": "Lydia Hallie 介绍 Claude Artifacts 桌面应用的存储与连接器机制",
@@ -346,61 +420,48 @@
       },
       {
         "rank": 2,
-        "id": "xywgx35ocbe6mzl2pnajw8ruu",
-        "title": "Anthropic 上市首日涨 17%，一周内跌破发行价",
-        "sourceName": "Anthropic：Newsroom（网页）",
-        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-        "sourceCount": 3,
-        "participantCount": 27,
-        "latestAt": "2026-11-25T03:29:13.877Z",
+        "id": "u71y2i8e6zhwauu7gpuyxrp4z",
+        "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
+        "sourceName": "公众号：数字生命卡兹克",
+        "sourceUrl": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
+        "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+        "storyUrl": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae",
+        "sourceCount": 7,
+        "participantCount": 25,
+        "latestAt": "2026-11-26T01:13:12.000Z",
         "expanded": true,
-        "latest": "Anthropic 上市不到一周跌破 83 美元发行价",
+        "latest": "Sand AI 发布 480B 参数 MAGI-2 视频模型，图生视频登顶并与 Dreamina Seedance 2.5 统计打平",
         "reports": [
           {
-            "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/031/983.htm",
-            "aihotUrl": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-            "publishedAt": "2026-11-25T03:29:13.877Z"
+            "title": "Sand AI 发布 480B 参数 MAGI-2 视频模型，图生视频登顶并与 Dreamina Seedance 2.5 统计打平",
+            "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+            "sourceUrl": "https://x.com/ArtificialAnlys/status/2125759745655210113",
+            "aihotUrl": "https://aihot.news/items/hjzlta3gdtd1cchlfl0wtvdnm",
+            "publishedAt": "2026-11-26T01:13:12.000Z"
           },
           {
-            "title": "Anthropic 跌破 83 美元 IPO 发行价，市值蒸发近 2000 亿美元",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2125378974796955934",
-            "aihotUrl": "https://aihot.news/items/wxxtbywgaob5rqu59sfe2n4e0",
-            "publishedAt": "2026-11-25T00:00:09.000Z"
+            "title": "Higgsfield MAGI-2 微短剧生成",
+            "sourceName": "X：Higgsfield AI (@higgsfield)",
+            "sourceUrl": "https://x.com/higgsfield/status/2125732797255975073",
+            "aihotUrl": "https://aihot.news/items/d6q0gtjseynjwbjjwfqu9p00q",
+            "publishedAt": "2026-11-25T23:26:07.000Z"
           },
           {
-            "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-            "aihotUrl": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
-            "publishedAt": "2026-11-24T18:30:42.000Z"
+            "title": "Higgsfield MAGI-2 生成 UGC 自拍广告视频",
+            "sourceName": "X：Higgsfield AI (@higgsfield)",
+            "sourceUrl": "https://x.com/higgsfield/status/2125732792608702553",
+            "aihotUrl": "https://aihot.news/items/wvt3f90qzc28m309nugx4z0r3",
+            "publishedAt": "2026-11-25T23:26:06.000Z"
           }
         ],
-        "related": [
-          {
-            "title": "Gary Marcus 质疑 Anthropic IPO 估值，上市后股价破发",
-            "storyUrl": "https://aihot.news/story/54c2f130-cae3-49ae-bb94-623d1d363607"
-          },
-          {
-            "title": "Anthropic季度营收增十二倍仍亏233亿美元",
-            "storyUrl": "https://aihot.news/story/70cc6a2c-c6b3-4d13-97a4-8f1eaade6ce3"
-          },
-          {
-            "title": "Anthropic三季度收入168亿美元，增速放缓",
-            "storyUrl": "https://aihot.news/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
-          }
-        ],
+        "related": [],
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "公众号：数字生命卡兹克",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -409,41 +470,46 @@
       },
       {
         "rank": 3,
-        "id": "u71y2i8e6zhwauu7gpuyxrp4z",
-        "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
+        "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
+        "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
         "sourceName": "公众号：数字生命卡兹克",
-        "sourceUrl": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
-        "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-        "storyUrl": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae",
-        "sourceCount": 6,
-        "participantCount": 21,
-        "latestAt": "2026-11-25T19:54:16.000Z",
+        "sourceUrl": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
+        "aihotUrl": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
+        "storyUrl": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51",
+        "sourceCount": 5,
+        "participantCount": 27,
+        "latestAt": "2026-11-26T03:01:11.990Z",
         "expanded": true,
-        "latest": "Higgsfield 免费开放 MAGI-2",
+        "latest": "Anthropic 研究员 Luke Sernau 与 Claude 将黎曼猜想 Lean 证明从 1740 万行精简至 7.6 万行",
         "reports": [
           {
-            "title": "Higgsfield 免费开放 MAGI-2",
-            "sourceName": "X：Higgsfield AI (@higgsfield)",
-            "sourceUrl": "https://x.com/higgsfield/status/2125679482623406589",
-            "aihotUrl": "https://aihot.news/items/mh7skcoijt0ubvyx4szk96dl8",
-            "publishedAt": "2026-11-25T19:54:16.000Z"
+            "title": "Anthropic 研究员 Luke Sernau 与 Claude 将黎曼猜想 Lean 证明从 1740 万行精简至 7.6 万行",
+            "sourceName": "IT之家·人工智能",
+            "sourceUrl": "https://www.ithome.com/1/032/611.htm",
+            "aihotUrl": "https://aihot.news/items/sab8kw8ah16qs4iim737y6ld1",
+            "publishedAt": "2026-11-26T03:01:11.990Z"
           },
           {
-            "title": "Higgsfield 上线 MAGI-2 视频模型",
-            "sourceName": "X：Higgsfield AI (@higgsfield)",
-            "sourceUrl": "https://x.com/higgsfield/status/2125679477459910964",
-            "aihotUrl": "https://aihot.news/items/eh4xhd76i9ps3rkscchy5wve9",
-            "publishedAt": "2026-11-25T19:54:15.000Z"
+            "title": "AI 智能体记忆层 Living Brain 帮助智能体证明 17 项数学结果",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2125661110259106232",
+            "aihotUrl": "https://aihot.news/items/ciu4h2la1j8mtgjd50btpo32w",
+            "publishedAt": "2026-11-25T18:41:16.000Z"
           },
           {
-            "title": "5 大场景实测 AI 视频模型 MAGI-2：1080P 5 毛一秒，约为 Seedance 2.5 十分之一",
-            "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
-            "sourceUrl": "https://x.com/aiwarts/status/2125588819152167256",
-            "aihotUrl": "https://aihot.news/items/wqq99cv04c6oyv7nxhtplg0ik",
-            "publishedAt": "2026-11-25T13:54:00.000Z"
+            "title": "Anthropic 数学家 Alpöge 与 Claude 合作给出黎曼猜想 Lean 证明",
+            "sourceName": "Timothy B. Lee：Understanding AI（RSS）",
+            "sourceUrl": "https://www.understandingai.org/p/an-anthropic-mathematician-just-solved",
+            "aihotUrl": "https://aihot.news/items/ervufyg7j8jzllqjxg3gd6zvf",
+            "publishedAt": "2026-11-24T21:43:33.000Z"
           }
         ],
-        "related": [],
+        "related": [
+          {
+            "title": "Artificial Analysis发布千禧年数学难题基准",
+            "storyUrl": "https://aihot.news/story/8a650b1b-9bce-4626-b369-8f83778bd688"
+          }
+        ],
         "visual": {
           "entities": [
             {
@@ -459,43 +525,15 @@
       },
       {
         "rank": 4,
-        "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
-        "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
-        "sourceName": "公众号：数字生命卡兹克",
-        "sourceUrl": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
-        "aihotUrl": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-        "storyUrl": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51",
-        "sourceCount": 4,
-        "participantCount": 30,
-        "latestAt": "2026-11-25T18:41:16.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "公众号：数字生命卡兹克",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 5,
-        "id": "t7jlbaldqf2zcliuva1sofoks",
-        "title": "Anthropic 发布 Claude Ship 测试版，自动审查并批准 PR",
-        "sourceName": "Claude：Blog（网页）",
-        "sourceUrl": "https://claude.com/blog/introducing-claude-ship",
-        "aihotUrl": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-        "storyUrl": "https://aihot.news/story/9474636b-5271-405b-91d7-b469bdf1aa8f",
-        "sourceCount": 4,
-        "participantCount": 33,
-        "latestAt": "2026-11-25T07:30:08.000Z",
+        "id": "xywgx35ocbe6mzl2pnajw8ruu",
+        "title": "Anthropic 上市首日涨 17%，一周内跌破发行价",
+        "sourceName": "Anthropic：Newsroom（网页）",
+        "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+        "aihotUrl": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "storyUrl": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+        "sourceCount": 3,
+        "participantCount": 26,
+        "latestAt": "2026-11-25T03:29:13.877Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -514,63 +552,7 @@
         }
       },
       {
-        "rank": 6,
-        "id": "d4hhqnlmrclsx7d6idtvq95wz",
-        "title": "智谱发布GLM-5.4旗舰模型，采用循环Transformer架构",
-        "sourceName": "公众号：智谱（GLM）",
-        "sourceUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
-        "aihotUrl": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-        "storyUrl": "https://aihot.news/story/fc5a905b-54af-4de4-9c7c-a366a60a9f84",
-        "sourceCount": 1,
-        "participantCount": 32,
-        "latestAt": "2026-11-23T23:40:49.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "公众号：智谱（GLM）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 7,
-        "id": "fsuuia07co9foiuxxt7ff8fog",
-        "title": "Tidal将于12月9日起下架纯AI生成音乐",
-        "sourceName": "The Verge：AI（RSS）",
-        "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-        "aihotUrl": "https://aihot.news/items/fsuuia07co9foiuxxt7ff8fog",
-        "storyUrl": "https://aihot.news/story/349e4eb0-98c5-4d3d-8ae9-549f9eb0a7f1",
-        "sourceCount": 5,
-        "participantCount": 20,
-        "latestAt": "2026-11-24T22:41:34.377Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "The Verge：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "id": "fndlzxrjx5yxnikuebfn0mawg",
         "title": "杨立昆指阿莫迪炒作AI危险论，阿莫迪否认",
         "sourceName": "TechCrunch：AI（RSS）",
@@ -578,7 +560,7 @@
         "aihotUrl": "https://aihot.news/items/fndlzxrjx5yxnikuebfn0mawg",
         "storyUrl": "https://aihot.news/story/99a822a0-0b83-4aff-8f65-02c408205578",
         "sourceCount": 4,
-        "participantCount": 13,
+        "participantCount": 17,
         "latestAt": "2026-11-25T20:15:50.000Z",
         "expanded": false,
         "latest": "",
@@ -598,16 +580,106 @@
         }
       },
       {
-        "rank": 9,
-        "id": "yg04c9d5qnwzitqstg19c6ow2",
-        "title": "OpenAI公布GPT-6.2蛋白质设计湿实验验证结果",
-        "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-        "aihotUrl": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
-        "storyUrl": "https://aihot.news/story/81de20a5-02a9-44a4-bc64-da0b8b916ab5",
+        "rank": 6,
+        "id": "jn299ef1fht5fbf4q4h28uoja",
+        "title": "FCC批准SpaceX部署百万颗AI卫星",
+        "sourceName": "The Verge：AI（RSS）",
+        "sourceUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "aihotUrl": "https://aihot.news/items/jn299ef1fht5fbf4q4h28uoja",
+        "storyUrl": "https://aihot.news/story/9dbfd26c-982c-409f-9e94-a22a3bde77ed",
+        "sourceCount": 1,
+        "participantCount": 14,
+        "latestAt": "2026-11-25T17:44:51.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "The Verge：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 7,
+        "id": "h1ja45355xx1xf9rqf89cv1if",
+        "title": "Anthropic 将 Claude Messages API 从 Python 迁至 Rust",
+        "sourceName": "Anthropic：Research（发表成果 · 网页）",
+        "sourceUrl": "https://www.anthropic.com/research/migrating-api-to-rust",
+        "aihotUrl": "https://aihot.news/items/h1ja45355xx1xf9rqf89cv1if",
+        "storyUrl": "https://aihot.news/story/c38b8a26-309e-4ed2-841e-c4821cf589fe",
         "sourceCount": 3,
-        "participantCount": 17,
-        "latestAt": "2026-11-24T22:44:58.033Z",
+        "participantCount": 13,
+        "latestAt": "2026-11-25T20:52:14.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 8,
+        "id": "llkxscqvja6f243nxpeue7e36",
+        "title": "Thariq宣布从Anthropic离职并加入OpenAI",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2125704462153257074",
+        "aihotUrl": "https://aihot.news/items/llkxscqvja6f243nxpeue7e36",
+        "storyUrl": "https://aihot.news/story/f78e26b9-cf3c-4b28-9761-bdfcbc5eb283",
+        "sourceCount": 2,
+        "participantCount": 14,
+        "latestAt": "2026-11-25T22:28:01.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            },
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 9,
+        "id": "xwuysq1sz8l3ufe8bv87w2kf4",
+        "title": "OpenAI 合并 Chat 与 Work，Pro 用户先行试用",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2125284868414394550",
+        "aihotUrl": "https://aihot.news/items/xwuysq1sz8l3ufe8bv87w2kf4",
+        "storyUrl": "https://aihot.news/story/a3ed4d02-699a-4ae5-9b89-a2d4794da4fc",
+        "sourceCount": 4,
+        "participantCount": 13,
+        "latestAt": "2026-11-26T02:30:00.343Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -627,27 +699,21 @@
       },
       {
         "rank": 10,
-        "id": "lq87k55eq302bk57xq3o5orsv",
-        "title": "OpenAI与Anthropic员工警告内部模型难安全发布",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-        "aihotUrl": "https://aihot.news/items/lq87k55eq302bk57xq3o5orsv",
-        "storyUrl": "https://aihot.news/story/352fff72-a318-46a8-9820-a84e33ea566a",
-        "sourceCount": 3,
-        "participantCount": 20,
-        "latestAt": "2026-11-24T16:06:27.000Z",
+        "id": "t7jlbaldqf2zcliuva1sofoks",
+        "title": "Anthropic 发布 Claude Ship 测试版，自动审查并批准 PR",
+        "sourceName": "Claude：Blog（网页）",
+        "sourceUrl": "https://claude.com/blog/introducing-claude-ship",
+        "aihotUrl": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+        "storyUrl": "https://aihot.news/story/9474636b-5271-405b-91d7-b469bdf1aa8f",
+        "sourceCount": 2,
+        "participantCount": 25,
+        "latestAt": "2026-11-25T07:30:08.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
         "related": [],
         "visual": {
           "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            },
             {
               "name": "Anthropic",
               "asset": "/assets/identities/anthropicai.jpg",
@@ -663,8 +729,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-25T22:43:08.200Z",
-    "nextCheckAt": 1795646888200,
+    "checkedAt": "2026-11-26T04:29:18.763Z",
+    "nextCheckAt": 1795667658763,
     "intervalSeconds": 300,
     "message": ""
   }

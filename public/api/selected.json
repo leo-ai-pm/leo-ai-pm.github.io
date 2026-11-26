@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-25T22:43:41.871Z",
+  "checkedAt": "2026-11-26T04:29:36.378Z",
   "message": "",
   "categories": [
     {
@@ -26,6 +26,48 @@
   ],
   "today": [
     {
+      "id": "gv1y811sp5p9kl7p3ci7xjt5n",
+      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+      "reason": "原文完整披露了 Tor Browser 15.0.22 的 UAF 利用链与去匿名化过程，并给出已修复的版本号，可据此理解浏览器沙箱边界问题。",
+      "summary": "Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。",
+      "sourceName": "Calif：Research（AI 漏洞研究）",
+      "sourceUrl": "https://calif.io/research/tortilla-with-onion",
+      "aihotUrl": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "g5yjacklnlbp3v51hkzciksjy",
+      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+      "reason": "作者亲历复现并披露完整漏洞细节，读者可了解 OEM 驱动漏洞链如何绕过 RKP 等多层防御获取 root。",
+      "summary": "Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。",
+      "sourceName": "Calif：Research（AI 漏洞研究）",
+      "sourceUrl": "https://calif.io/research/oempocalypse-part-2",
+      "aihotUrl": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "mruv0rx3oxnkjy9ll805qaidc",
+      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+      "reason": "作者基于《人生意义设计课》改编出可直接复用的多轮对话Prompt，并附完整实测流程，读者可拿来即用。",
+      "summary": "公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg",
+      "aihotUrl": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "publishedAt": "2026-11-25T23:56:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "dvu6olan4q58k1evvnp8t60t2",
       "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
       "reason": "原文给出 Hy4 Flash 在多个专业基准上的得分与成本对比，读者可据此评估它在专业任务中的性价比取舍。",
@@ -41,9 +83,9 @@
     },
     {
       "id": "i5qr52169dlque8rb2sl4i5jo",
-      "title": "Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0",
-      "reason": "官方发布了终端编码智能体 Pax 并给出 Harness-Bench SWE81 分数与成本对比，读者可以据此评估它相对 Codex 和 Claude Code 的性价比。",
-      "summary": "Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。",
+      "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+      "reason": "官方给出了 Pax 在 Harness-Bench SWE81 上与 OpenCode、Codex、Claude Code 的分数和成本对比，读者可据此评估这款终端编码 agent 的性价比。",
+      "summary": "Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。",
       "sourceName": "Pydantic AI 官方文章",
       "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
       "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
@@ -178,76 +220,6 @@
       "category": "paper",
       "categoryLabel": "论文",
       "unselected": false
-    },
-    {
-      "id": "cebavio3uyjwli5r3imsuq1si",
-      "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-      "reason": "官方宣布千问Go打电话服务免费开放，经用户授权可代拨电话与定时来电，读者可据此评估这一Agent能力对日常沟通场景的适用性。",
-      "summary": "千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。",
-      "sourceName": "公众号：千问APP（阿里）",
-      "sourceUrl": "https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw",
-      "aihotUrl": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-      "publishedAt": "2026-11-25T04:32:44.000Z",
-      "timeBasis": "published",
-      "category": "ai-products",
-      "categoryLabel": "产品",
-      "unselected": false
-    },
-    {
-      "id": "pdtslys0302mclldlo6l1dlr9",
-      "title": "矩阵乘法指数被证明精确为 9/4",
-      "reason": "原文报道矩阵乘法指数被证明精确为 9/4，下界此前完全空白，还连带给出线性规划求解的新时间上界。",
-      "summary": "Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布给出矩阵乘法指数 9/4 新上界后，模型继续工作于下界并宣布 9/4 是紧的，下界此前毫无已知结果。",
-      "sourceName": "X：Greg Brockman (@gdb)",
-      "sourceUrl": "https://x.com/gdb/status/2125418102049628201",
-      "aihotUrl": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-      "publishedAt": "2026-11-25T02:35:38.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "yh9lmlhqwoc77d1ii1mvr5d6x",
-      "title": "Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍",
-      "reason": "原文完整给出数据生成、点时工具和奖励设计三层方案，读者可以据此了解端到端训练预测智能体的可迁移做法。",
-      "summary": "Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，得到一个端到端完成研究与预测的预测智能体，其准确度接近 Fable 5.2 (medium)，单次预测成本降低 15 倍。",
-      "sourceName": "Thinking Machines Lab：News（网页）",
-      "sourceUrl": "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/",
-      "aihotUrl": "https://aihot.news/items/yh9lmlhqwoc77d1ii1mvr5d6x",
-      "publishedAt": "2026-11-24T07:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "youah0x28ti3a58sj8ku26rdy",
-      "title": "METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍",
-      "reason": "METR 分析 OpenAI 公开的预训练损失加速数据，梳理了几种解释路径及判断该趋势所需补充的信息。",
-      "summary": "METR 分析 OpenAI 公布的 13 个模型在固定保留数据集上的 log-perplexity，发现 2026 年初以来预训练损失下降速度约为 2022–2025 年的 7 倍；按当前速度，GPT-3.5 到 GPT-4.1 花了三年的损失降幅约六个半月就能走完。",
-      "sourceName": "METR：Blog（网页）",
-      "sourceUrl": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/",
-      "aihotUrl": "https://aihot.news/items/youah0x28ti3a58sj8ku26rdy",
-      "publishedAt": "2026-11-23T16:00:00.000Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
-      "unselected": false
-    },
-    {
-      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
-      "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-      "reason": "作者实测了 Sand.ai 新视频模型 MAGI-2，给出与 Seedance 2.5 的对比细节和每秒 0.5 元的价格信息，可帮助读者评估其实际可用性。",
-      "summary": "Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
-      "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-      "publishedAt": "2026-11-24T23:56:00.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
     }
   ],
   "week": [
@@ -336,20 +308,6 @@
       "unselected": false
     },
     {
-      "id": "bnqsw7ispucfily4bdq9vz33j",
-      "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-      "reason": "作者以内部视角评价 GPT-6.2 Astra 在最难任务上的表现，并引 OpenAI 与 AMD 合作的芯片优化结果作佐证。",
-      "summary": "OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2123175166519992652",
-      "aihotUrl": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-      "publishedAt": "2026-11-18T22:03:01.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "dvu6olan4q58k1evvnp8t60t2",
       "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
       "reason": "原文给出 Hy4 Flash 在多个专业基准上的得分与成本对比，读者可据此评估它在专业任务中的性价比取舍。",
@@ -365,9 +323,9 @@
     },
     {
       "id": "i5qr52169dlque8rb2sl4i5jo",
-      "title": "Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0",
-      "reason": "官方发布了终端编码智能体 Pax 并给出 Harness-Bench SWE81 分数与成本对比，读者可以据此评估它相对 Codex 和 Claude Code 的性价比。",
-      "summary": "Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。",
+      "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+      "reason": "官方给出了 Pax 在 Harness-Bench SWE81 上与 OpenCode、Codex、Claude Code 的分数和成本对比，读者可据此评估这款终端编码 agent 的性价比。",
+      "summary": "Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。",
       "sourceName": "Pydantic AI 官方文章",
       "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
       "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
@@ -574,6 +532,34 @@
       "unselected": false
     },
     {
+      "id": "gv1y811sp5p9kl7p3ci7xjt5n",
+      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+      "reason": "原文完整披露了 Tor Browser 15.0.22 的 UAF 利用链与去匿名化过程，并给出已修复的版本号，可据此理解浏览器沙箱边界问题。",
+      "summary": "Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。",
+      "sourceName": "Calif：Research（AI 漏洞研究）",
+      "sourceUrl": "https://calif.io/research/tortilla-with-onion",
+      "aihotUrl": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
+      "id": "g5yjacklnlbp3v51hkzciksjy",
+      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+      "reason": "作者亲历复现并披露完整漏洞细节，读者可了解 OEM 驱动漏洞链如何绕过 RKP 等多层防御获取 root。",
+      "summary": "Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。",
+      "sourceName": "Calif：Research（AI 漏洞研究）",
+      "sourceUrl": "https://calif.io/research/oempocalypse-part-2",
+      "aihotUrl": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "ogucsvlqrdr1rvfh5nvx757cx",
       "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
       "reason": "原文用真实判例构建 EVIL 基准并实测 10 个前沿模型，给出了安全率数字和现有对齐方法失效的证据。",
@@ -658,31 +644,17 @@
       "unselected": false
     },
     {
-      "id": "uz9j9ukn8j60mwkeeaibmmctw",
-      "title": "Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设",
-      "reason": "原文展示了可解释性如何指导多模态生物推理模型的训练改进，并用湿实验验证模型假设，方法对类似多模态系统可迁移。",
-      "summary": "Goodfire 与 NVIDIA、Arc Institute 合作开发 BioReason-Pro 2，以 Qwen3.5-9B 为骨干，用可解释性发现原模型过度依赖文本标注、蛋白质与文本嵌入尺度不匹配，据此移除训练输入中的 InterPro 标注、细化推理轨迹并将 ESM3 嵌入重新缩放。",
-      "sourceName": "Goodfire Research（网页）",
-      "sourceUrl": "https://www.goodfire.com/research/building-stronger-biological-reasoning-models",
-      "aihotUrl": "https://aihot.news/items/uz9j9ukn8j60mwkeeaibmmctw",
-      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "id": "mruv0rx3oxnkjy9ll805qaidc",
+      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+      "reason": "作者基于《人生意义设计课》改编出可直接复用的多轮对话Prompt，并附完整实测流程，读者可拿来即用。",
+      "summary": "公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg",
+      "aihotUrl": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "publishedAt": "2026-11-25T23:56:00.000Z",
       "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "frmncgr2jcrvfm3t6jgabqhfh",
-      "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
-      "reason": "原文给出 ShellBench 的任务设计、12 个模型与 5 个 harness 的结果和成本对比，读者可据此判断模型与 harness 如何影响日常任务完成率。",
-      "summary": "OpenClaw 与 Hugging Face、Red Hat、UC Berkeley 等机构合作推出 ShellBench，基于超过 1000 万条匿名真实智能体交互构建 100 个日常任务，含 90 个 rubric 评分任务（721 项标准，其中 381 项安全标准）和 10 个代码测试任务，共 53,100 次评分运行。",
-      "sourceName": "OpenClaw：Blog（网页）",
-      "sourceUrl": "https://openclaw.ai/blog/shellbench",
-      "aihotUrl": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
-      "publishedAt": "2026-11-24T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
+      "category": "tip",
+      "categoryLabel": "技巧",
       "unselected": false
     },
     {
@@ -782,20 +754,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "jub44k9eeq0vdw8c37lcpbzwp",
-      "title": "OpenRouter 实测用 MCP 连接器让 Claude 生成图像并对比四款模型",
-      "reason": "OpenRouter 实测演示了让 Claude 借 MCP 连接器调用图像模型的完整流程，并给出四款模型的价格与耗时对比。",
-      "summary": "OpenRouter 发布教程演示如何通过 OpenRouter MCP 服务器（https://mcp.openrouter.ai/mcp）作为连接器让 Claude 调用图像模型生成真实图片，覆盖截至 2026 年 11 月 19 日的 74 款图像模型。",
-      "sourceName": "OpenRouter：Announcements（RSS）",
-      "sourceUrl": "https://openrouter.ai/blog/tutorials/can-claude-generate-images/",
-      "aihotUrl": "https://aihot.news/items/jub44k9eeq0vdw8c37lcpbzwp",
-      "publishedAt": "2026-11-23T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -805,6 +763,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "g5yjacklnlbp3v51hkzciksjy",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "reason": "作者亲历复现并披露完整漏洞细节，读者可了解 OEM 驱动漏洞链如何绕过 RKP 等多层防御获取 root。",
+          "summary": "Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。",
+          "sourceName": "Calif：Research（AI 漏洞研究）",
+          "sourceUrl": "https://calif.io/research/oempocalypse-part-2",
+          "aihotUrl": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "publishedAt": "2026-11-26T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
         {
           "id": "dvu6olan4q58k1evvnp8t60t2",
           "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
@@ -821,9 +793,9 @@
         },
         {
           "id": "i5qr52169dlque8rb2sl4i5jo",
-          "title": "Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0",
-          "reason": "官方发布了终端编码智能体 Pax 并给出 Harness-Bench SWE81 分数与成本对比，读者可以据此评估它相对 Codex 和 Claude Code 的性价比。",
-          "summary": "Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。",
+          "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "reason": "官方给出了 Pax 在 Harness-Bench SWE81 上与 OpenCode、Codex、Claude Code 的分数和成本对比，读者可据此评估这款终端编码 agent 的性价比。",
+          "summary": "Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。",
           "sourceName": "Pydantic AI 官方文章",
           "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
           "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
@@ -874,20 +846,6 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
-        },
-        {
-          "id": "uyodjb16jngloilypsm1d3q0d",
-          "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "reason": "Claude Code 团队成员亲自梳理了 PR 后续流程的三个智能体分工和落地步骤，开发者可按需迁移到自己的仓库。",
-          "summary": "Anthropic Claude Code 团队刚推出 Claude Ship，包含三个智能体：Code Review（已全面开放）、PR Steward 和 Claude Approvals（beta），可审查 PR、处理失败 CI、合并冲突和审查意见，并按仓库策略文件批准常规改动。",
-          "sourceName": "X：Addy Osmani (@addyosmani)",
-          "sourceUrl": "https://x.com/addyosmani/status/2125492213903978917",
-          "aihotUrl": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-          "publishedAt": "2026-11-25T07:30:08.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
-          "unselected": false
         }
       ]
     },
@@ -899,9 +857,9 @@
       "items": [
         {
           "id": "i5qr52169dlque8rb2sl4i5jo",
-          "title": "Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0",
-          "reason": "官方发布了终端编码智能体 Pax 并给出 Harness-Bench SWE81 分数与成本对比，读者可以据此评估它相对 Codex 和 Claude Code 的性价比。",
-          "summary": "Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。",
+          "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "reason": "官方给出了 Pax 在 Harness-Bench SWE81 上与 OpenCode、Codex、Claude Code 的分数和成本对比，读者可据此评估这款终端编码 agent 的性价比。",
+          "summary": "Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。",
           "sourceName": "Pydantic AI 官方文章",
           "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
           "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
@@ -990,20 +948,6 @@
       "unselected": false,
       "items": [
         {
-          "id": "i5qr52169dlque8rb2sl4i5jo",
-          "title": "Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0",
-          "reason": "官方发布了终端编码智能体 Pax 并给出 Harness-Bench SWE81 分数与成本对比，读者可以据此评估它相对 Codex 和 Claude Code 的性价比。",
-          "summary": "Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。",
-          "sourceName": "Pydantic AI 官方文章",
-          "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
-          "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
-          "publishedAt": "2026-11-25T09:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
           "id": "br6usy3mxv1q0mzxhgf9y8qam",
           "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
           "reason": "作者用 470 个任务实测区分上下文腐烂与上下文漂移，并给出零成本可复用的冲突上报工具方案。",
@@ -1072,6 +1016,20 @@
           "category": "tip",
           "categoryLabel": "技巧",
           "unselected": false
+        },
+        {
+          "id": "g3vdho0vzm8rzriiz5grruy3m",
+          "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
+          "reason": "用户实测记录了本地跑通 Mirobody 的完整流程，也包括扫描页漏读、LOINC 编码对不上和 2B 模型答错的细节，可作本地部署健康数据工作流的参考。",
+          "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码…",
+          "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "sourceUrl": "https://x.com/OpenBMB/status/2124461770043785636",
+          "aihotUrl": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
+          "publishedAt": "2026-11-22T11:15:31.000Z",
+          "timeBasis": "published",
+          "category": "opinion",
+          "categoryLabel": "动态",
+          "unselected": false
         }
       ]
     },
@@ -1081,6 +1039,34 @@
       "query": "OpenAI",
       "unselected": false,
       "items": [
+        {
+          "id": "gv1y811sp5p9kl7p3ci7xjt5n",
+          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "reason": "原文完整披露了 Tor Browser 15.0.22 的 UAF 利用链与去匿名化过程，并给出已修复的版本号，可据此理解浏览器沙箱边界问题。",
+          "summary": "Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。",
+          "sourceName": "Calif：Research（AI 漏洞研究）",
+          "sourceUrl": "https://calif.io/research/tortilla-with-onion",
+          "aihotUrl": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+          "publishedAt": "2026-11-26T00:00:00.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
+          "id": "mruv0rx3oxnkjy9ll805qaidc",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "reason": "作者基于《人生意义设计课》改编出可直接复用的多轮对话Prompt，并附完整实测流程，读者可拿来即用。",
+          "summary": "公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg",
+          "aihotUrl": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "publishedAt": "2026-11-25T23:56:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "rnanzlnaqxdr2icjqw0qwv9la",
           "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
@@ -1135,34 +1121,6 @@
           "timeBasis": "published",
           "category": "paper",
           "categoryLabel": "论文",
-          "unselected": false
-        },
-        {
-          "id": "lb66i6g7eq01l6hx0rr8f7k9r",
-          "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "reason": "作者从 NVIDIA 董事会恢复黄仁勋 CEO 职位一事切入，梳理了循环融资、Anthropic 上市表现和 OpenAI 亏损等资金链证据，论证行业流动性风险并未消除。",
-          "summary": "Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。",
-          "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-          "sourceUrl": "https://www.wheresyoured.at/defective-accelerationism/",
-          "aihotUrl": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-          "publishedAt": "2026-11-24T18:08:05.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
-          "unselected": false
-        },
-        {
-          "id": "eb9lfibaf8fpouyw0x3vh63st",
-          "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
-          "reason": "研究者实测 GPT-6.2 Astra 在 22 分钟内鉴定出 1808 年素描画作者，并用新发现的日记验证，展示了模型向史学等非确定性领域的探索能力延伸。",
-          "summary": "研究者引述案例称，GPT-6.2 Astra 仅用 22 分钟和公开资料，将耶鲁 Beinecke 图书馆藏的 1808 年蒙特利尔至苏必利尔湖匿名素描画作者鉴定为 vicomte de Chabot，并找到其微缩胶片日记供验证。",
-          "sourceName": "X：Greg Brockman (@gdb)",
-          "sourceUrl": "https://x.com/gdb/status/2125305172721320165",
-          "aihotUrl": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
-          "publishedAt": "2026-11-24T19:06:54.000Z",
-          "timeBasis": "published",
-          "category": "opinion",
-          "categoryLabel": "动态",
           "unselected": false
         }
       ]

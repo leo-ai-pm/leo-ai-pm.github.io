@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-25T22:43:10.397Z",
+  "checkedAt": "2026-11-26T04:29:20.530Z",
   "message": "",
   "report": {
-    "date": "2026-11-25",
-    "dateLabel": "2026年11月25日",
-    "weekday": "周三",
-    "issue": 73,
-    "generatedAt": "2026-11-25T00:00:36.665Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-25",
+    "date": "2026-11-26",
+    "dateLabel": "2026年11月26日",
+    "weekday": "周四",
+    "issue": 74,
+    "generatedAt": "2026-11-26T00:00:42.145Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-26",
     "lead": {
-      "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
-      "summary": "Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-25",
+      "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
+      "summary": "Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-26",
       "visual": {
         "entities": [
           {
@@ -31,11 +31,11 @@
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
-            "summary": "Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。",
-            "sourceName": "Cognition 模型 / Devin 博客（网页）",
-            "sourceUrl": "https://cognition.com/blog/swe-2-1",
-            "aihotUrl": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk"
+            "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
+            "summary": "Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。",
+            "sourceName": "公众号：数字生命卡兹克",
+            "sourceUrl": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
+            "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z"
           }
         ]
       },
@@ -43,32 +43,32 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
-            "summary": "Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。",
-            "sourceName": "Claude：Blog（网页）",
-            "sourceUrl": "https://claude.com/blog/install-as-app",
-            "aihotUrl": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx"
+            "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
+            "summary": "腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。",
+            "sourceName": "Fireworks AI（网页）",
+            "sourceUrl": "https://fireworks.ai/blog/hy4-flash-on-fireworks/",
+            "aihotUrl": "https://aihot.news/items/dvu6olan4q58k1evvnp8t60t2"
           },
           {
-            "title": "Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新",
-            "summary": "Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。",
-            "sourceName": "Claude：Blog（网页）",
-            "sourceUrl": "https://claude.com/blog/skills-over-mcp-tasks-and-more",
-            "aihotUrl": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9"
+            "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+            "summary": "千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。",
+            "sourceName": "公众号：千问APP（阿里）",
+            "sourceUrl": "https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw",
+            "aihotUrl": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si"
           },
           {
-            "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
-            "summary": "OpenAI 宣布与 Cisco 合作推出开源 Linux 运行时 Shirudo，让 Agent 编写动态 eBPF 控制来抵御漏洞利用，同时保持服务不中断，为防御方争取测试和部署补丁的时间。",
-            "sourceName": "X：Tibo (@thsottiaux)",
-            "sourceUrl": "https://x.com/thsottiaux/status/2125141302501417232",
-            "aihotUrl": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h"
+            "title": "Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0",
+            "summary": "Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。",
+            "sourceName": "Pydantic AI 官方文章",
+            "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
+            "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo"
           },
           {
-            "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-            "summary": "MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。",
-            "sourceName": "公众号：MiniMax（稀宇科技）",
-            "sourceUrl": "https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ",
-            "aihotUrl": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8"
+            "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+            "summary": "OpenClaw 发布 2026.11.10 版本，新增聊天内 Deep Research、新的 OpenClaw 记忆系统 Knowledge，以及 Browser handoff 功能。",
+            "sourceName": "X：OpenClaw (@openclaw)",
+            "sourceUrl": "https://x.com/openclaw/status/2125591827600531554",
+            "aihotUrl": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78"
           }
         ]
       },
@@ -76,25 +76,18 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-            "summary": "ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。",
-            "sourceName": "ChinaTalk（RSS）",
-            "sourceUrl": "https://www.chinatalk.media/p/jensen-returns",
-            "aihotUrl": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z"
+            "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+            "summary": "42 州总检察长介入 Character.AI 的破产程序，试图阻止其拍卖用户私密聊天数据。",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+            "aihotUrl": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25"
           },
           {
-            "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
-            "summary": "Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。",
-            "sourceName": "Ars Technica：AI（RSS）",
-            "sourceUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-            "aihotUrl": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x"
-          },
-          {
-            "title": "ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先",
-            "summary": "作者分析美国 BIS 于11月16日发布、11月19日生效的租赁算力临时最终规则，该规则要求向境外数据中心供应芯片需申领许可，门槛约为760块 H100 等效算力，覆盖 Hopper 和 Blackwell 级芯片，并关闭 Foundry Due-Diligence 漏洞。",
-            "sourceName": "ChinaTalk（RSS）",
-            "sourceUrl": "https://www.chinatalk.media/p/the-remote-access-rule-will-slow",
-            "aihotUrl": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2"
+            "title": "黄仁勋回归后 Nvidia 仍面临 Megaspeed 芯片出口合规调查",
+            "summary": "TechCrunch 分析指出，黄仁勋回归 Nvidia CEO 后，公司仍面临多方对其 GPU 出口合规问题的调查。",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "sourceUrl": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+            "aihotUrl": "https://aihot.news/items/kzwj96fvnn3whzvnhqdvsh830"
           }
         ]
       },
@@ -102,25 +95,25 @@
         "label": "论文研究",
         "items": [
           {
-            "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
-            "summary": "OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具备内在蛋白质设计能力。",
-            "sourceName": "X：OpenAI (@OpenAI)",
-            "sourceUrl": "https://x.com/OpenAI/status/2125334383490105601",
-            "aihotUrl": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9"
+            "title": "矩阵乘法指数被证明精确为 9/4",
+            "summary": "Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布给出矩阵乘法指数 9/4 新上界后，模型继续工作于下界并宣布 9/4 是紧的，下界此前毫无已知结果。",
+            "sourceName": "X：Greg Brockman (@gdb)",
+            "sourceUrl": "https://x.com/gdb/status/2125418102049628201",
+            "aihotUrl": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9"
           },
           {
-            "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-            "summary": "Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中执行日常任务，并把有用资源放在沙盒外。",
-            "sourceName": "X：Anthropic (@AnthropicAI)",
-            "sourceUrl": "https://x.com/AnthropicAI/status/2125341904644763678",
-            "aihotUrl": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz"
+            "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
+            "summary": "MIT 和 Microsoft 的新论文《AI-Assisted Programming and Labor Demand》利用 5,414 家跨国公司（覆盖 38% 美国程序员）的 GitHub 合同审查时点构造自然实验，估计 Copilot 采用对劳动力需求的影响。",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2125461932111229203",
+            "aihotUrl": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez"
           },
           {
-            "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
-            "summary": "OpenClaw 与 Hugging Face、Red Hat、UC Berkeley 等机构合作推出 ShellBench，基于超过 1000 万条匿名真实智能体交互构建 100 个日常任务，含 90 个 rubric 评分任务（721 项标准，其中 381 项安全标准）和 10 个代码测试任务，共 53,100 次评分运行。",
-            "sourceName": "OpenClaw：Blog（网页）",
-            "sourceUrl": "https://openclaw.ai/blog/shellbench",
-            "aihotUrl": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh"
+            "title": "Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍",
+            "summary": "Mantic 与 Thinking Machines 在 Tinker 上对 Inkling 2 Small 做后训练，得到一个端到端完成研究与预测的预测智能体，其准确度接近 Fable 5.2 (medium)，单次预测成本降低 15 倍。",
+            "sourceName": "Thinking Machines Lab：News（网页）",
+            "sourceUrl": "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/",
+            "aihotUrl": "https://aihot.news/items/yh9lmlhqwoc77d1ii1mvr5d6x"
           }
         ]
       },
@@ -128,66 +121,62 @@
         "label": "技巧与观点",
         "items": [
           {
-            "title": "Ed Zitron 撰文批评 NVIDIA 董事会在政府施压下恢复黄仁勋 CEO 职务",
-            "summary": "Ed Zitron 撰文批评 NVIDIA 董事会在政府施压下未咨询高管即恢复黄仁勋 CEO 职务，认为此举旨在稳定股市，并指出 AI 行业面临的流动性问题并未因此改变。",
-            "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-            "sourceUrl": "https://www.wheresyoured.at/defective-accelerationism/",
-            "aihotUrl": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r"
+            "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
+            "summary": "Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。",
+            "sourceName": "Anthropic：Research（发表成果 · 网页）",
+            "sourceUrl": "https://www.anthropic.com/research/migrating-api-to-rust",
+            "aihotUrl": "https://aihot.news/items/h1ja45355xx1xf9rqf89cv1if"
+          },
+          {
+            "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+            "summary": "Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS…",
+            "sourceName": "Google AI：DEV 作者专属（RSS）",
+            "sourceUrl": "https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph",
+            "aihotUrl": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam"
           }
         ]
       }
     ],
     "flashes": [
       {
-        "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
+        "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
         "summary": "",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-        "aihotUrl": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
-        "publishedAt": "2026-11-24T18:30:42.000Z"
+        "sourceName": "X：Addy Osmani (@addyosmani)",
+        "sourceUrl": "https://x.com/addyosmani/status/2125492213903978917",
+        "aihotUrl": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
+        "publishedAt": "2026-11-25T07:30:08.000Z"
       },
       {
-        "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
+        "title": "METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍",
         "summary": "",
-        "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "sourceUrl": "https://x.com/_philschmid/status/2125296446459056156",
-        "aihotUrl": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-        "publishedAt": "2026-11-24T18:32:13.000Z"
-      },
-      {
-        "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
-        "summary": "",
-        "sourceName": "X：Greg Brockman (@gdb)",
-        "sourceUrl": "https://x.com/gdb/status/2125305172721320165",
-        "aihotUrl": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
-        "publishedAt": "2026-11-24T19:06:54.000Z"
-      },
-      {
-        "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
-        "summary": "",
-        "sourceName": "X：卡兹克 (@Khazix0918)",
-        "sourceUrl": "https://x.com/Khazix0918/status/2125110224143171669",
-        "aihotUrl": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
-        "publishedAt": "2026-11-24T06:12:14.000Z"
-      },
-      {
-        "title": "蚂蚁 inclusionAI 发布开源权重多模态模型 Ling-3.2-air",
-        "summary": "",
-        "sourceName": "蚂蚁 inclusionAI：HuggingFace 新模型",
-        "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.2-air",
-        "aihotUrl": "https://aihot.news/items/jmwvt06m28bn5v5mek14llnlx",
-        "publishedAt": "2026-11-23T03:55:12.000Z"
-      },
-      {
-        "title": "Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设",
-        "summary": "",
-        "sourceName": "Goodfire Research（网页）",
-        "sourceUrl": "https://www.goodfire.com/research/building-stronger-biological-reasoning-models",
-        "aihotUrl": "https://aihot.news/items/uz9j9ukn8j60mwkeeaibmmctw",
+        "sourceName": "METR：Blog（网页）",
+        "sourceUrl": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/",
+        "aihotUrl": "https://aihot.news/items/youah0x28ti3a58sj8ku26rdy",
         "publishedAt": "2026-11-23T16:00:00.000Z"
+      },
+      {
+        "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+        "summary": "",
+        "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "sourceUrl": "https://x.com/OpenBMB/status/2125575267217531181",
+        "aihotUrl": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+        "publishedAt": "2026-11-25T13:00:09.000Z"
+      },
+      {
+        "title": "Meta 个人智能体 Muse 登陆 Instagram",
+        "summary": "",
+        "sourceName": "X：Muse（Meta 个人智能体官方号） (@Muse)",
+        "sourceUrl": "https://x.com/Muse/status/2125284171417637002",
+        "aihotUrl": "https://aihot.news/items/q84ta5reajnpyhcx362q39cmw",
+        "publishedAt": "2026-11-24T17:43:26.000Z"
       }
     ],
     "archive": [
+      {
+        "date": "2026-11-26",
+        "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
+        "aihotUrl": "https://aihot.news/daily/2026-11-26"
+      },
       {
         "date": "2026-11-25",
         "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
@@ -287,13 +276,8 @@
         "date": "2026-11-06",
         "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
         "aihotUrl": "https://aihot.news/daily/2026-11-06"
-      },
-      {
-        "date": "2026-11-05",
-        "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力",
-        "aihotUrl": "https://aihot.news/daily/2026-11-05"
       }
     ],
-    "shapedAt": "2026-11-25T22:43:10.397Z"
+    "shapedAt": "2026-11-26T04:29:20.530Z"
   }
 }

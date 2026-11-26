@@ -294,9 +294,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-25T22:42:52.351Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.351Z",
-      "nextCheckAt": 1795647472351,
+      "checkedAt": "2026-11-26T04:29:07.365Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.365Z",
+      "nextCheckAt": 1795668247365,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -608,9 +608,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-25T22:42:52.384Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.384Z",
-      "nextCheckAt": 1795647472384,
+      "checkedAt": "2026-11-26T04:29:07.394Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.394Z",
+      "nextCheckAt": 1795668247394,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -923,9 +923,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-25T22:42:52.385Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.385Z",
-      "nextCheckAt": 1795647472385,
+      "checkedAt": "2026-11-26T04:29:07.395Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.395Z",
+      "nextCheckAt": 1795668247395,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1237,9 +1237,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-25T22:42:52.578Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.578Z",
-      "nextCheckAt": 1795647472578,
+      "checkedAt": "2026-11-26T04:29:07.558Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.558Z",
+      "nextCheckAt": 1795668247558,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1259,6 +1259,35 @@
     {
       "id": "khazix",
       "items": [
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688918&idx=1&sn=918287df5f02bc1d7170d934e9db1b92",
+          "creatorId": "khazix",
+          "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
+          "summary": "人生啊",
+          "publishedAt": "2026-11-25T23:56:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688918&idx=1&sn=918287df5f02bc1d7170d934e9db1b92",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "生成结果离可以交付的设计，还差哪些人工修改？",
+            "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "数字生命卡兹克",
+                "asset": "/assets/identities/creator_khazix.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "产品与热点",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688752&idx=1&sn=9206be14f4d0dc96f515c91049063ab9",
           "creatorId": "khazix",
@@ -1529,41 +1558,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688334&idx=1&sn=306d1166b9978ceac39b937cf2c63c97",
-          "creatorId": "khazix",
-          "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
-          "summary": "还有那些无法计算的美",
-          "publishedAt": "2026-11-10T23:56:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688334&idx=1&sn=306d1166b9978ceac39b937cf2c63c97",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-            "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "Anthropic",
-                "asset": "/assets/identities/anthropicai.jpg",
-                "assetSource": "https://x.com/AnthropicAI",
-                "tone": "#eddfd0"
-              }
-            ],
-            "caption": "产品与热点",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-25T22:42:52.609Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.609Z",
-      "nextCheckAt": 1795647472609,
+      "checkedAt": "2026-11-26T04:29:07.673Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.673Z",
+      "nextCheckAt": 1795668247673,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1875,9 +1874,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-25T22:42:52.673Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.673Z",
-      "nextCheckAt": 1795647472673,
+      "checkedAt": "2026-11-26T04:29:07.856Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.856Z",
+      "nextCheckAt": 1795668247856,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1896,6 +1895,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1795647472351,
+  "nextCheckAt": 1795668247365,
   "refreshing": false
 }

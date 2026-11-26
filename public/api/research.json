@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-25T22:42:52.386Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.386Z",
-      "nextCheckAt": 1795650172386,
+      "checkedAt": "2026-11-26T04:29:07.396Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.396Z",
+      "nextCheckAt": 1795670947396,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "woshipm",
-      "checkedAt": "2026-11-25T22:42:52.387Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.387Z",
-      "nextCheckAt": 1795650172387,
+      "checkedAt": "2026-11-26T04:29:07.397Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.397Z",
+      "nextCheckAt": 1795670947397,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-25T22:42:52.388Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.388Z",
-      "nextCheckAt": 1795650172388,
+      "checkedAt": "2026-11-26T04:29:07.397Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.397Z",
+      "nextCheckAt": 1795670947397,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-25T22:42:52.534Z",
-      "lastSuccessAt": "2026-11-25T22:42:52.534Z",
-      "nextCheckAt": 1795650172534,
       "status": "ok",
+      "nextCheckAt": 1795670947562,
+      "checkedAt": "2026-11-26T04:29:07.562Z",
+      "lastSuccessAt": "2026-11-26T04:29:07.562Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,19 +90,59 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795650172386,
+  "nextCheckAt": 1795670947396,
   "refreshing": false,
   "items": [
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6500414.html",
-      "title": "从人工设计到 AI 智能设计全流程",
-      "summary": "当设计规范从资深设计师的脑中变成 AI 可执行的 Skill，设计的执行方式被彻底改写。本文拆解一条从设计资产到 AI 生成 UI 原型、再回流设计稿与工程代码的完整链路，4 天流程压缩至 3 小时，并坦诚划出这套方法的适用边界。 过去的设计工作方式，本质上是设计师依据设计规范手工完成设计稿。规范规定了颜色、字号、间距、圆角、组件结构和交互方式，设计师要逐项理解、判断，再落实到每一个界面。设计质量因此高度依赖个人经验与当天的执行状态；面",
-      "publishedAt": "2026-11-25T11:03:50.000Z",
-      "url": "https://www.woshipm.com/ai/6500414.html",
+      "id": "sspai:https://sspai.com/post/117510",
+      "title": "我用AI做了一张两千年的中国历史地图",
+      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。",
+      "publishedAt": "2026-11-26T03:13:53.000Z",
+      "url": "https://sspai.com/post/117510",
       "linkKind": "original",
       "opportunity": {
-        "question": "这项编程能力在真实需求中，能独立完成到哪一步？",
-        "method": "用一个含验收条件的小需求对比现有工具，记录完成率、人工介入次数和回归错误。",
+        "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
+        "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "少数派",
+            "asset": null,
+            "tone": "#eee3dc"
+          }
+        ],
+        "caption": "工作流与实践",
+        "author": {
+          "name": "少数派",
+          "asset": null,
+          "tone": "#eee3dc"
+        }
+      },
+      "researchId": "sspai",
+      "sourceName": "少数派",
+      "sourceUrl": "https://sspai.com/post/117510",
+      "sourceGroup": "工作流与实践",
+      "category": "工作流与实践",
+      "platform": "中文媒体",
+      "brief": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。",
+      "question": "实践问题：放进你自己的工作流程后，节省了哪一步，增加了什么成本？",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://sspai.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6500646.html",
+      "title": "Computer Use与Browser Use：揭秘Agent如何操作电脑和浏览器",
+      "summary": "Computer Use 操作桌面应用，Browser Use 直接用浏览器的 DOM 与可访问性树，两条执行路径决定了 Agent 能不能恢复、能不能审计。差别在判断权从脚本转到了模型，难点从写规则变成了怎么做验证。 从网站下载报表、打开 Excel 整理、再把结果填回另一个系统，这类工作每一步都不难，却需要人不断找入口、切窗口、复制和粘贴。RPA 早就能把稳定流程编排起来，但只要页面改版、文件缺失或弹窗出现，就需要重新补规则。 Ag",
+      "publishedAt": "2026-11-26T03:05:30.000Z",
+      "url": "https://www.woshipm.com/ai/6500646.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -122,23 +162,23 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6500414.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6500646.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "当设计规范从资深设计师的脑中变成 AI 可执行的 Skill，设计的执行方式被彻底改写。本文拆解一条从设计资产到 AI 生成 UI 原型、再回流设计稿与工程代码的完整链路，4 天流程压缩至 3 小时，并坦诚划出这套方法的适用边界。 过去的设计工作方式，本质上是设计师依据设计规范手工完成设计稿。规范规定了颜色、字号、间距、圆角、组件结构和交互方式，设计师要逐项理解、判断，再落实到每一个界面。设计质量因此高度依赖个人经验与当天的执行状态；面",
+      "brief": "Computer Use 操作桌面应用，Browser Use 直接用浏览器的 DOM 与可访问性树，两条执行路径决定了 Agent 能不能恢复、能不能审计。差别在判断权从脚本转到了模型，难点从写规则变成了怎么做验证。 从网站下载报表、打开 Excel 整理、再把结果填回另一个系统，这类工作每一步都不难，却需要人不断找入口、切窗口、复制和粘贴。RPA 早就能把稳定流程编排起来，但只要页面改版、文件缺失或弹窗出现，就需要重新补规则。 Ag",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "lead"
+      "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/share/6500194.html",
-      "title": "许多技术、设计要失业了。",
-      "summary": "村长下半年大量用 AI 做产品：以前画图、找前后端、做测试，一个简单工具要 3 个月才上线，现在纯文字沟通，不到一天做完小程序、H5、网页和后台。他的判断是普通技术、设计岗的可替代性已经很高，全面拥抱 AI 才是当务之急。 许多普通的技术、设计，真的要失业了。 这不是危言耸听，而是切身感受。 01 一天干一年 我之前文章说过，今年AI应用才算真正的元年。 不管是豆包还是其他的Ai工具，在理解、执行上的能力都得到了大幅的跃迁。 我下半年开",
-      "publishedAt": "2026-11-25T09:11:05.000Z",
-      "url": "https://www.woshipm.com/share/6500194.html",
+      "id": "woshipm:https://www.woshipm.com/ai/6500639.html",
+      "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
+      "summary": "斯坦福《人生设计课》两位作者又出了一本《人生意义设计课》，讲的是另一种困境：日子安排得井井有条，心里仍然空。作者把它拆成一组可照着问的 Prompt，三步走完再谈意义。 人生的意义，一直是一个永恒的命题，特别是在AI时代。 老粉可能还记得，之前我写过一篇文章，把斯坦福最火的一门课《人生设计课》做成了Prompt，帮大家用设计师的思维来设计人生，当时发出来以后，就广受好评。 前阵子，《人生设计课》的两位作者，比尔·博内特和戴夫·伊万斯，又",
+      "publishedAt": "2026-11-26T02:56:32.000Z",
+      "url": "https://www.woshipm.com/ai/6500639.html",
       "linkKind": "original",
       "opportunity": {
         "question": "生成结果离可以交付的设计，还差哪些人工修改？",
@@ -162,11 +202,11 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/share/6500194.html",
+      "sourceUrl": "https://www.woshipm.com/ai/6500639.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "村长下半年大量用 AI 做产品：以前画图、找前后端、做测试，一个简单工具要 3 个月才上线，现在纯文字沟通，不到一天做完小程序、H5、网页和后台。他的判断是普通技术、设计岗的可替代性已经很高，全面拥抱 AI 才是当务之急。 许多普通的技术、设计，真的要失业了。 这不是危言耸听，而是切身感受。 01 一天干一年 我之前文章说过，今年AI应用才算真正的元年。 不管是豆包还是其他的Ai工具，在理解、执行上的能力都得到了大幅的跃迁。 我下半年开",
+      "brief": "斯坦福《人生设计课》两位作者又出了一本《人生意义设计课》，讲的是另一种困境：日子安排得井井有条，心里仍然空。作者把它拆成一组可照着问的 Prompt，三步走完再谈意义。 人生的意义，一直是一个永恒的命题，特别是在AI时代。 老粉可能还记得，之前我写过一篇文章，把斯坦福最火的一门课《人生设计课》做成了Prompt，帮大家用设计师的思维来设计人生，当时发出来以后，就广受好评。 前阵子，《人生设计课》的两位作者，比尔·博内特和戴夫·伊万斯，又",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
@@ -174,15 +214,15 @@
       "priority": "important"
     },
     {
-      "id": "woshipm:https://www.woshipm.com/ai/6500095.html",
-      "title": "国内Personal Agent战火，被突袭上线的小豆点燃",
-      "summary": "豆包突然上线独立 App 小豆，把冷清一阵的 Personal Agent 重新点燃。本文盘点国内原生玩家：蚂蚁灵光、千问 Go、微信小微、字节小豆，还有创业公司 Today，比较四种形态与各自的托管指标。 豆包突然上线「小豆 APP」。 把原本冷清了一阵的Personal Agent 行业，点燃了起来。 小豆，是豆包旗下 AI 个人助理，是懂你还能主动帮你办事的豆包。 是字节版的 Muse。 小豆，和豆包共用账号，共享记忆，共享会员额",
-      "publishedAt": "2026-11-25T07:11:41.000Z",
-      "url": "https://www.woshipm.com/ai/6500095.html",
+      "id": "woshipm:https://www.woshipm.com/share/6500622.html",
+      "title": "从一句需求到可点的原型，我手上这套七步的PM工作流",
+      "summary": "把 PRD 和原型交给 AI，最容易崩在第一步：需求没说清就开写。这套七步工作流要求每个节点都停下来等确认，先问清七件事、再建五个目录、写出十一章节骨架，最后才让模型动手。 昨天那篇讲完提示词的三层台阶，后台问得最多的不是框架，是一句话。 那 PRD 和原型到底怎么交给它。 行，今天把我手上这套拆开，一步一步说。这套东西不是我想出来的发明，是我把自己的工作习惯一条条掰碎，塞进七个必须停下来等确认的步骤里。 先交代一下它跟昨天那套的关系。",
+      "publishedAt": "2026-11-26T02:54:11.000Z",
+      "url": "https://www.woshipm.com/share/6500622.html",
       "linkKind": "original",
       "opportunity": {
-        "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
-        "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+        "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+        "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
         "basis": "基于标题与摘要的选题建议 · 待实测"
       },
       "visual": {
@@ -202,16 +242,16 @@
       },
       "researchId": "woshipm",
       "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6500095.html",
+      "sourceUrl": "https://www.woshipm.com/share/6500622.html",
       "sourceGroup": "产品拆解",
       "category": "产品拆解",
       "platform": "中文产品社区",
-      "brief": "豆包突然上线独立 App 小豆，把冷清一阵的 Personal Agent 重新点燃。本文盘点国内原生玩家：蚂蚁灵光、千问 Go、微信小微、字节小豆，还有创业公司 Today，比较四种形态与各自的托管指标。 豆包突然上线「小豆 APP」。 把原本冷清了一阵的Personal Agent 行业，点燃了起来。 小豆，是豆包旗下 AI 个人助理，是懂你还能主动帮你办事的豆包。 是字节版的 Muse。 小豆，和豆包共用账号，共享记忆，共享会员额",
+      "brief": "把 PRD 和原型交给 AI，最容易崩在第一步：需求没说清就开写。这套七步工作流要求每个节点都停下来等确认，先问清七件事、再建五个目录、写出十一章节骨架，最后才让模型动手。 昨天那篇讲完提示词的三层台阶，后台问得最多的不是框架，是一句话。 那 PRD 和原型到底怎么交给它。 行，今天把我手上这套拆开，一步一步说。这套东西不是我想出来的发明，是我把自己的工作习惯一条条掰碎，塞进七个必须停下来等确认的步骤里。 先交代一下它跟昨天那套的关系。",
       "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/post/119310",
