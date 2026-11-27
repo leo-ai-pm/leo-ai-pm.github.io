@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-27T14:54:09.071Z",
+  "checkedAt": "2026-11-27T23:21:53.456Z",
   "message": "",
   "categories": [
     {
@@ -148,20 +148,6 @@
       "sourceUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
       "aihotUrl": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
       "publishedAt": "2026-11-23T09:42:11.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "y7nk77dxae51qwi826gpmvbho",
-      "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
-      "reason": "原文给出循环架构设计、基准分数和可运行硬件门槛，读者可据此判断它是否适合本地部署和智能体任务。",
-      "summary": "Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。",
-      "sourceName": "Thinking Machines Lab：News（网页）",
-      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "aihotUrl": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
-      "publishedAt": "2026-11-20T07:00:00.000Z",
       "timeBasis": "published",
       "category": "ai-models",
       "categoryLabel": "模型",

@@ -1,7 +1,7 @@
 {
-  "date": "2026年11月27日",
+  "date": "2026年11月28日",
   "demo": false,
-  "updatedAt": "2026-11-27T14:53:46.761Z",
+  "updatedAt": "2026-11-27T23:21:34.957Z",
   "editionLabel": "AIHOT 2.0 · 个人阅读版",
   "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
   "sync": {
@@ -12,8 +12,8 @@
     "rankingUrl": "https://aihot.news/hot",
     "sourcePoolPages": 3,
     "poolHasMore": false,
-    "received": 83,
-    "latestCount": 2,
+    "received": 85,
+    "latestCount": 1,
     "archiveCount": 1,
     "peopleStatus": "ok"
   },
@@ -110,8 +110,8 @@
         "group": "行业与创业",
         "focus": "模型发布与行业方向",
         "url": "https://x.com/sama",
-        "matched": 1,
-        "status": "本次收录"
+        "matched": 0,
+        "status": "本次未检出"
       },
       {
         "handle": "gdb",
@@ -128,7 +128,7 @@
         "group": "行业与创业",
         "focus": "AI 搜索与产品创业",
         "url": "https://x.com/AravSrinivas",
-        "matched": 2,
+        "matched": 1,
         "status": "本次收录"
       },
       {
@@ -144,47 +144,10 @@
   },
   "items": [
     {
-      "id": "aihot-he76x5esif2fi252ey7myxsdx",
-      "title": "Sam Altman 称赞 Ven 的信念与勇气",
-      "brief": "Ven 是最早相信我们可以用当时的模型解决千禧年大奖难题的人之一。",
-      "summary": "Ven 是最早相信我们可以用当时的模型解决千禧年大奖难题的人之一。",
-      "category": "AI 动态",
-      "topic": "AI 产品",
-      "priority": "normal",
-      "platform": "X",
-      "authorHandle": "sama",
-      "sourceGroup": "行业与创业",
-      "sourceName": "Sam Altman · @sama",
-      "feedName": "X：Sam Altman (@sama)",
-      "sourceUrl": "https://x.com/sama/status/2125990371897557278",
-      "aggregateUrl": "https://aihot.news/items/he76x5esif2fi252ey7myxsdx",
-      "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-26T16:29:38.000Z",
-      "timeBasis": "published",
-      "verification": "AIHOT 摘要 · 原文可查",
-      "visual": {
-        "entities": [
-          {
-            "name": "Sam Altman",
-            "asset": "/assets/identities/sama.jpg",
-            "assetSource": "https://x.com/sama",
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "AI 动态",
-        "author": {
-          "name": "Sam Altman",
-          "asset": "/assets/identities/sama.jpg",
-          "assetSource": "https://x.com/sama",
-          "tone": "#e9e4dc"
-        }
-      }
-    },
-    {
-      "id": "aihot-q02b1eo5xoxffzl3n9parrlr0",
-      "title": "Perplexity Computer 可生成交互式3D物理教科书",
-      "brief": "Perplexity Computer 能创建世界级的作品。",
-      "summary": "Perplexity Computer 能创建世界级的作品。",
+      "id": "aihot-jrswul1r3tzlu9j6clv0izug5",
+      "title": "Perplexity 用纯代码生成多米诺艺术动画",
+      "brief": "Perplexity 展示了一个完全用代码生成的多米诺艺术场景，不使用 3D 软件、物理库、参考素材或生成式媒体模型。",
+      "summary": "Perplexity 展示了一个完全用代码生成的多米诺艺术场景，不使用 3D 软件、物理库、参考素材或生成式媒体模型。",
       "category": "实践与观点",
       "topic": "AI 产品",
       "priority": "normal",
@@ -193,10 +156,10 @@
       "sourceGroup": "行业与创业",
       "sourceName": "Aravind Srinivas · @AravSrinivas",
       "feedName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2126059500222493055",
-      "aggregateUrl": "https://aihot.news/items/q02b1eo5xoxffzl3n9parrlr0",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2126358533386190905",
+      "aggregateUrl": "https://aihot.news/items/jrswul1r3tzlu9j6clv0izug5",
       "acquiredVia": "AIHot",
-      "publishedAt": "2026-11-26T21:04:19.000Z",
+      "publishedAt": "2026-11-27T16:52:34.000Z",
       "timeBasis": "published",
       "verification": "AIHOT 摘要 · 原文可查",
       "visual": {
@@ -258,6 +221,49 @@
   "ranking": [
     {
       "rank": 1,
+      "id": "wxkw4txq9hmpj95l0vlpqt7sn",
+      "title": "OpenAI反诉苹果窃取商业机密并胁迫供应商",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2126428722907812197",
+      "aihotUrl": "https://aihot.news/items/wxkw4txq9hmpj95l0vlpqt7sn",
+      "storyUrl": "https://aihot.news/story/840b7bfa-805e-41d3-b87e-0ba20fb08d69",
+      "sourceCount": 2,
+      "participantCount": 14,
+      "latestAt": "2026-11-27T21:31:29.000Z",
+      "expanded": true,
+      "latest": "OpenAI 反诉 Apple，指称前员工将硬件路线图带回 Apple",
+      "reports": [
+        {
+          "title": "OpenAI 反诉 Apple，指称前员工将硬件路线图带回 Apple",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2126428722907812197",
+          "aihotUrl": "https://aihot.news/items/wxkw4txq9hmpj95l0vlpqt7sn",
+          "publishedAt": "2026-11-27T21:31:29.000Z"
+        },
+        {
+          "title": "OpenAI 反诉 Apple 窃取商业机密并胁迫共同供应商",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "sourceUrl": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+          "aihotUrl": "https://aihot.news/items/hqfz3prn9guxc4y3wgbievqsb",
+          "publishedAt": "2026-11-27T19:38:37.000Z"
+        }
+      ],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "OpenAI",
+            "asset": "/assets/identities/openai.jpg",
+            "assetSource": "https://x.com/OpenAI",
+            "tone": "#e6eeea"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 2,
       "id": "rlt60gq96bl1cf5b88o8rbj30",
       "title": "Nvidia 暂停向东南亚四国发运服务器",
       "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -312,7 +318,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "reedvq9m1fb7xktmvk0dnqqpk",
       "title": "OpenAI修复GPT-6.2计费错误并补偿用户",
       "sourceName": "X：Tibo (@thsottiaux)",
@@ -362,34 +368,47 @@
       }
     },
     {
-      "rank": 3,
-      "id": "oysonctc1s0cizth9lunf32y5",
-      "title": "FCC批准SpaceX部署百万颗AI卫星",
-      "sourceName": "The Decoder：AI News（RSS）",
-      "sourceUrl": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-      "aihotUrl": "https://aihot.news/items/oysonctc1s0cizth9lunf32y5",
-      "storyUrl": "https://aihot.news/story/9dbfd26c-982c-409f-9e94-a22a3bde77ed",
+      "rank": 4,
+      "id": "srpo49fnds5wrj0b8csrot4ve",
+      "title": "SAP拟AI重组裁员至少1万人，德国岗位保障至2028年",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2126041605144739986",
+      "aihotUrl": "https://aihot.news/items/srpo49fnds5wrj0b8csrot4ve",
+      "storyUrl": "https://aihot.news/story/03ddd2b0-2237-47fa-a85c-8b3981cde081",
       "sourceCount": 2,
-      "participantCount": 32,
-      "latestAt": "2026-11-26T13:41:07.000Z",
-      "expanded": true,
-      "latest": "FCC 批准 SpaceX 至 2040 年部署最多 100 万颗 Starmind 卫星用于在轨 AI 数据中心",
-      "reports": [
-        {
-          "title": "FCC 批准 SpaceX 至 2040 年部署最多 100 万颗 Starmind 卫星用于在轨 AI 数据中心",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "sourceUrl": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-          "aihotUrl": "https://aihot.news/items/oysonctc1s0cizth9lunf32y5",
-          "publishedAt": "2026-11-26T13:41:07.000Z"
-        },
-        {
-          "title": "FCC 批准 SpaceX Starmind 计划部署至多 100 万颗 AI 卫星",
-          "sourceName": "The Verge：AI（RSS）",
-          "sourceUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-          "aihotUrl": "https://aihot.news/items/jn299ef1fht5fbf4q4h28uoja",
-          "publishedAt": "2026-11-25T17:44:51.000Z"
-        }
-      ],
+      "participantCount": 18,
+      "latestAt": "2026-11-27T14:57:25.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 5,
+      "id": "xm92utwg1pnubws7t5hmdpwqz",
+      "title": "美空军 Cloud One 云平台遭黑客入侵控制面",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "aihotUrl": "https://aihot.news/items/xm92utwg1pnubws7t5hmdpwqz",
+      "storyUrl": "https://aihot.news/story/5c1b6a93-9dc8-488c-ac5b-1e6c7fe626f8",
+      "sourceCount": 2,
+      "participantCount": 11,
+      "latestAt": "2026-11-27T18:48:45.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
       "related": [],
       "visual": {
         "entities": [
@@ -405,7 +424,35 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "id": "oysonctc1s0cizth9lunf32y5",
+      "title": "FCC批准SpaceX部署百万颗AI卫星",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "sourceUrl": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "aihotUrl": "https://aihot.news/items/oysonctc1s0cizth9lunf32y5",
+      "storyUrl": "https://aihot.news/story/9dbfd26c-982c-409f-9e94-a22a3bde77ed",
+      "sourceCount": 1,
+      "participantCount": 24,
+      "latestAt": "2026-11-26T13:41:07.000Z",
+      "expanded": false,
+      "latest": "",
+      "reports": [],
+      "related": [],
+      "visual": {
+        "entities": [
+          {
+            "name": "The Decoder：AI News（RSS）",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
+          }
+        ],
+        "caption": "热点",
+        "author": null
+      }
+    },
+    {
+      "rank": 7,
       "id": "u71y2i8e6zhwauu7gpuyxrp4z",
       "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
       "sourceName": "公众号：数字生命卡兹克",
@@ -413,7 +460,7 @@
       "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
       "storyUrl": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae",
       "sourceCount": 2,
-      "participantCount": 18,
+      "participantCount": 17,
       "latestAt": "2026-11-26T17:11:25.000Z",
       "expanded": false,
       "latest": "",
@@ -433,16 +480,16 @@
       }
     },
     {
-      "rank": 5,
-      "id": "srpo49fnds5wrj0b8csrot4ve",
-      "title": "SAP拟在AI重组中裁员至少1万人",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2126041605144739986",
-      "aihotUrl": "https://aihot.news/items/srpo49fnds5wrj0b8csrot4ve",
-      "storyUrl": "https://aihot.news/story/03ddd2b0-2237-47fa-a85c-8b3981cde081",
-      "sourceCount": 1,
-      "participantCount": 13,
-      "latestAt": "2026-11-26T19:53:13.000Z",
+      "rank": 8,
+      "id": "j0hoj1rlmltoft6okserijp25",
+      "title": "42州总检察长介入阻止Character.AI出售聊天记录",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "aihotUrl": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+      "storyUrl": "https://aihot.news/story/5525eb2a-16ec-491d-bf45-89cf70e7966a",
+      "sourceCount": 2,
+      "participantCount": 11,
+      "latestAt": "2026-11-27T09:51:35.000Z",
       "expanded": false,
       "latest": "",
       "reports": [],
@@ -450,7 +497,7 @@
       "visual": {
         "entities": [
           {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
+            "name": "TechCrunch：AI（RSS）",
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
@@ -461,15 +508,15 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 9,
       "id": "h1ja45355xx1xf9rqf89cv1if",
       "title": "Anthropic 将 Claude Messages API 从 Python 迁至 Rust",
       "sourceName": "Anthropic：Research（发表成果 · 网页）",
       "sourceUrl": "https://www.anthropic.com/research/migrating-api-to-rust",
       "aihotUrl": "https://aihot.news/items/h1ja45355xx1xf9rqf89cv1if",
       "storyUrl": "https://aihot.news/story/c38b8a26-309e-4ed2-841e-c4821cf589fe",
-      "sourceCount": 3,
-      "participantCount": 21,
+      "sourceCount": 1,
+      "participantCount": 14,
       "latestAt": "2026-11-26T17:04:31.000Z",
       "expanded": false,
       "latest": "",
@@ -489,15 +536,15 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 10,
       "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
       "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
       "sourceName": "公众号：数字生命卡兹克",
       "sourceUrl": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
       "aihotUrl": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
       "storyUrl": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51",
-      "sourceCount": 2,
-      "participantCount": 17,
+      "sourceCount": 1,
+      "participantCount": 14,
       "latestAt": "2026-11-26T03:01:11.990Z",
       "expanded": false,
       "latest": "",
@@ -510,90 +557,6 @@
             "asset": null,
             "assetSource": null,
             "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 8,
-      "id": "e6gp31eup40d99unaon9umnpo",
-      "title": "杨立昆指阿莫迪炒作AI危险论，阿莫迪否认",
-      "sourceName": "X：Elon Musk (@elonmusk, xAI)",
-      "sourceUrl": "https://x.com/elonmusk/status/2125669066388209784",
-      "aihotUrl": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-      "storyUrl": "https://aihot.news/story/99a822a0-0b83-4aff-8f65-02c408205578",
-      "sourceCount": 4,
-      "participantCount": 20,
-      "latestAt": "2026-11-25T20:15:50.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Elon Musk (@elonmusk, xAI)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 9,
-      "id": "h384ogtv753wauyc14tvweq5b",
-      "title": "蚂蚁灵波发布 LingBot-Map 2.0 并开源导航模型 LingBot-Navi",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2126019340525056182",
-      "aihotUrl": "https://aihot.news/items/h384ogtv753wauyc14tvweq5b",
-      "storyUrl": "https://aihot.news/story/1f457523-63e7-48f2-9c9c-1871165c4fb0",
-      "sourceCount": 2,
-      "participantCount": 9,
-      "latestAt": "2026-11-26T21:05:18.000Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "X：Rohan Paul (@rohanpaul_ai)",
-            "asset": null,
-            "assetSource": null,
-            "tone": "#e9e4dc"
-          }
-        ],
-        "caption": "热点",
-        "author": null
-      }
-    },
-    {
-      "rank": 10,
-      "id": "xwuysq1sz8l3ufe8bv87w2kf4",
-      "title": "OpenAI 合并 Chat 与 Work，Pro 用户先行试用",
-      "sourceName": "X：Tibo (@thsottiaux)",
-      "sourceUrl": "https://x.com/thsottiaux/status/2125284868414394550",
-      "aihotUrl": "https://aihot.news/items/xwuysq1sz8l3ufe8bv87w2kf4",
-      "storyUrl": "https://aihot.news/story/a3ed4d02-699a-4ae5-9b89-a2d4794da4fc",
-      "sourceCount": 3,
-      "participantCount": 14,
-      "latestAt": "2026-11-26T02:30:00.343Z",
-      "expanded": false,
-      "latest": "",
-      "reports": [],
-      "related": [],
-      "visual": {
-        "entities": [
-          {
-            "name": "OpenAI",
-            "asset": "/assets/identities/openai.jpg",
-            "assetSource": "https://x.com/OpenAI",
-            "tone": "#e6eeea"
           }
         ],
         "caption": "热点",
