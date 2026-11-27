@@ -294,9 +294,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-27T04:55:16.981Z",
-      "lastSuccessAt": "2026-11-27T04:55:16.981Z",
-      "nextCheckAt": 1795756216981,
+      "checkedAt": "2026-11-27T14:53:35.664Z",
+      "lastSuccessAt": "2026-11-27T14:53:35.664Z",
+      "nextCheckAt": 1795792115664,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -608,9 +608,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-27T04:55:17.030Z",
-      "lastSuccessAt": "2026-11-27T04:55:17.030Z",
-      "nextCheckAt": 1795756217030,
+      "checkedAt": "2026-11-27T14:53:35.802Z",
+      "lastSuccessAt": "2026-11-27T14:53:35.802Z",
+      "nextCheckAt": 1795792115802,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -630,6 +630,36 @@
     {
       "id": "huashu",
       "items": [
+        {
+          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492938&idx=1&sn=ef7121651bd79390bef5ffdaf2e83556",
+          "creatorId": "huashu",
+          "title": "Andrej Karpathy用Claude连跑7小时，做出了个真实版本的《文明》游戏",
+          "summary": "Andrej Karpathy最近又做了个很有趣的尝试：他让Claude用美国的真实数据，做一张《文明》风格",
+          "publishedAt": "2026-11-27T00:58:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492938&idx=1&sn=ef7121651bd79390bef5ffdaf2e83556",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "文中提到的能力变化，能否改善你的一项产品经理任务？",
+            "method": "用同一份脱敏需求材料比较新旧工具，检查信息遗漏、约束遵守和修改耗时，不只比较措辞。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "Anthropic",
+                "asset": "/assets/identities/anthropicai.jpg",
+                "assetSource": "https://x.com/AnthropicAI",
+                "tone": "#eddfd0"
+              }
+            ],
+            "caption": "实践与生产力",
+            "author": {
+              "name": "花叔",
+              "asset": "/assets/identities/creator_huashu.jpg",
+              "tone": "#e7e4dd"
+            }
+          }
+        },
         {
           "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492928&idx=1&sn=48a0d25be8d7c66c8c4da8e911a91d6e",
           "creatorId": "huashu",
@@ -892,40 +922,11 @@
               "tone": "#e7e4dd"
             }
           }
-        },
-        {
-          "id": "huashu:https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492835&idx=1&sn=8657cbc6c1729347637eac3e1c0860ed",
-          "creatorId": "huashu",
-          "title": "连改20轮还是同一个人！Seedream5.5稳了（附GIF表情包教程）",
-          "summary": "昨天字节发布了新的图片生成模型Seedream 5.5。老粉们应该都知道，我现在平时做各种文章/视频封面、产",
-          "publishedAt": "2026-11-10T00:02:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA%3D%3D&mid=2247492835&idx=1&sn=8657cbc6c1729347637eac3e1c0860ed",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-            "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "花叔",
-                "asset": "/assets/identities/creator_huashu.jpg",
-                "tone": "#e7e4dd"
-              }
-            ],
-            "caption": "实践与生产力",
-            "author": {
-              "name": "花叔",
-              "asset": "/assets/identities/creator_huashu.jpg",
-              "tone": "#e7e4dd"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-27T04:55:17.031Z",
-      "lastSuccessAt": "2026-11-27T04:55:17.031Z",
-      "nextCheckAt": 1795756217031,
+      "checkedAt": "2026-11-27T14:53:35.803Z",
+      "lastSuccessAt": "2026-11-27T14:53:35.803Z",
+      "nextCheckAt": 1795792115803,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -945,6 +946,35 @@
     {
       "id": "cyber",
       "items": [
+        {
+          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523249&idx=1&sn=fc1ab9fedba7db4e14258a4bc78d8369",
+          "creatorId": "cyber",
+          "title": "如何用 AI 逆向真机视频，生成万套具身环境",
+          "summary": "所有数据和 bench，全部开源",
+          "publishedAt": "2026-11-27T08:02:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523249&idx=1&sn=fc1ab9fedba7db4e14258a4bc78d8369",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+            "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "赛博禅心",
+                "asset": "/assets/identities/creator_cyber.jpg",
+                "tone": "#dcebea"
+              }
+            ],
+            "caption": "技术与行业",
+            "author": {
+              "name": "赛博禅心",
+              "asset": "/assets/identities/creator_cyber.jpg",
+              "tone": "#dcebea"
+            }
+          }
+        },
         {
           "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247523207&idx=1&sn=ad8eb6c39deff1bac03f8c6da4b9a3f3",
           "creatorId": "cyber",
@@ -1206,40 +1236,11 @@
               "tone": "#dcebea"
             }
           }
-        },
-        {
-          "id": "cyber:https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522840&idx=1&sn=706643d8d4b47d7c10b9a45dafcdc726",
-          "creatorId": "cyber",
-          "title": "Personal Agent 的北极星指标",
-          "summary": "灵光提出了一个新PA 指标，由此谈起",
-          "publishedAt": "2026-11-12T08:18:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247522840&idx=1&sn=706643d8d4b47d7c10b9a45dafcdc726",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
-            "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "赛博禅心",
-                "asset": "/assets/identities/creator_cyber.jpg",
-                "tone": "#dcebea"
-              }
-            ],
-            "caption": "技术与行业",
-            "author": {
-              "name": "赛博禅心",
-              "asset": "/assets/identities/creator_cyber.jpg",
-              "tone": "#dcebea"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-27T04:55:17.282Z",
-      "lastSuccessAt": "2026-11-27T04:55:17.282Z",
-      "nextCheckAt": 1795756217282,
+      "checkedAt": "2026-11-27T14:53:36.071Z",
+      "lastSuccessAt": "2026-11-27T14:53:36.071Z",
+      "nextCheckAt": 1795792116071,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1259,6 +1260,35 @@
     {
       "id": "khazix",
       "items": [
+        {
+          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688919&idx=1&sn=878965fdf08567bad0b9956674aacd79",
+          "creatorId": "khazix",
+          "title": "手把手教你把Skill挂上支付宝挣钱，好手艺不该只有免费开源。",
+          "summary": "让好手艺有回报",
+          "publishedAt": "2026-11-26T23:56:00.000Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688919&idx=1&sn=878965fdf08567bad0b9956674aacd79",
+          "linkKind": "original",
+          "opportunity": {
+            "question": "优惠结束后，这项工具仍值得加入你的日常工作流吗？",
+            "method": "选一项固定任务，对比正常价格下的单次成本、可用结果和人工返工时间。",
+            "basis": "基于标题与摘要的选题建议 · 待实测"
+          },
+          "visual": {
+            "entities": [
+              {
+                "name": "数字生命卡兹克",
+                "asset": "/assets/identities/creator_khazix.jpg",
+                "tone": "#e7e6ec"
+              }
+            ],
+            "caption": "产品与热点",
+            "author": {
+              "name": "数字生命卡兹克",
+              "asset": "/assets/identities/creator_khazix.jpg",
+              "tone": "#e7e6ec"
+            }
+          }
+        },
         {
           "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688918&idx=1&sn=918287df5f02bc1d7170d934e9db1b92",
           "creatorId": "khazix",
@@ -1529,40 +1559,11 @@
               "tone": "#e7e6ec"
             }
           }
-        },
-        {
-          "id": "khazix:https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688358&idx=1&sn=0d2737100b591caee3ef3d7c2f2cd459",
-          "creatorId": "khazix",
-          "title": "黄仁勋辞职始末。",
-          "summary": "四天时间的精准收网",
-          "publishedAt": "2026-11-12T23:56:00.000Z",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688358&idx=1&sn=0d2737100b591caee3ef3d7c2f2cd459",
-          "linkKind": "original",
-          "opportunity": {
-            "question": "这篇内容中，哪一条建议能用你手头的真实任务验证？",
-            "method": "先读原文，选出一条明确建议；用同一任务比较尝试前后的耗时、质量和返工量，记录适用边界。",
-            "basis": "基于标题与摘要的选题建议 · 待实测"
-          },
-          "visual": {
-            "entities": [
-              {
-                "name": "数字生命卡兹克",
-                "asset": "/assets/identities/creator_khazix.jpg",
-                "tone": "#e7e6ec"
-              }
-            ],
-            "caption": "产品与热点",
-            "author": {
-              "name": "数字生命卡兹克",
-              "asset": "/assets/identities/creator_khazix.jpg",
-              "tone": "#e7e6ec"
-            }
-          }
         }
       ],
-      "checkedAt": "2026-11-27T04:55:17.627Z",
-      "lastSuccessAt": "2026-11-27T04:55:17.627Z",
-      "nextCheckAt": 1795756217627,
+      "checkedAt": "2026-11-27T14:53:36.116Z",
+      "lastSuccessAt": "2026-11-27T14:53:36.116Z",
+      "nextCheckAt": 1795792116116,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1874,9 +1875,9 @@
           }
         }
       ],
-      "checkedAt": "2026-11-27T04:55:17.826Z",
-      "lastSuccessAt": "2026-11-27T04:55:17.826Z",
-      "nextCheckAt": 1795756217826,
+      "checkedAt": "2026-11-27T14:53:36.375Z",
+      "lastSuccessAt": "2026-11-27T14:53:36.375Z",
+      "nextCheckAt": 1795792116375,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -1895,6 +1896,6 @@
     }
   ],
   "intervalSeconds": 900,
-  "nextCheckAt": 1795756216981,
+  "nextCheckAt": 1795792115664,
   "refreshing": false
 }

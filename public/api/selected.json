@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-27T04:56:35.629Z",
+  "checkedAt": "2026-11-27T14:54:09.071Z",
   "message": "",
   "categories": [
     {
@@ -26,6 +26,48 @@
   ],
   "today": [
     {
+      "id": "tiqf353lek6sib8ktn8uvc6nc",
+      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+      "reason": "原文给出了可直接复用的 GEMINI.md 提示词，让 Antigravity 边干活边汇报进度，改善交互掌控感。",
+      "summary": "卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "sourceUrl": "https://x.com/Khazix0918/status/2126294658431201385",
+      "aihotUrl": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "publishedAt": "2026-11-27T12:38:45.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
+      "id": "v5fxjqr2vapkk9vn1j9a8ke96",
+      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+      "reason": "转述 Dragos 的金丝雀测试细节，读者可以据此评估把敏感数据交给 AI 服务商的风险和供应商的隐私承诺可信度。",
+      "summary": "据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2126214860421914884",
+      "aihotUrl": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+      "publishedAt": "2026-11-27T07:21:40.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "l9md8ugx8e2zlm5g1tuqthmaw",
+      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+      "reason": "OpenBMB 对他人基于 MiniCPM-o 4.5 构建的全双工语音模型给予反馈，侧面说明该底座模型在语音交互场景的外部落地情况。",
+      "summary": "OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。",
+      "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "sourceUrl": "https://x.com/OpenBMB/status/2126308118741323853",
+      "aihotUrl": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "publishedAt": "2026-11-27T13:32:15.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "cdkswjz368inpelrz3f52rekx",
       "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
       "reason": "作者以买家和卖家双视角实测支付宝 SkillPay 的买断与订阅两种模式，给出了从签约、定价到收款的上架流程和费用细节。",
@@ -37,48 +79,6 @@
       "timeBasis": "published",
       "category": "tip",
       "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "jcdfpftbam647yhc210dbace9",
-      "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
-      "reason": "作者基于 Linear、Notion、Atlassian 等真实用量数据解释为何依然看好 MCP，并梳理 Code Mode、Skills、Events、MCP Apps 四个方向。",
-      "summary": "Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。",
-      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "sourceUrl": "https://x.com/_philschmid/status/2125945282072297794",
-      "aihotUrl": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
-      "publishedAt": "2026-11-26T13:30:28.000Z",
-      "timeBasis": "published",
-      "category": "opinion",
-      "categoryLabel": "动态",
-      "unselected": false
-    },
-    {
-      "id": "hdvt6wswzycj78wnr7r43xn6o",
-      "title": "蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型",
-      "reason": "官方发布页给出能力改进、榜单排名和部署参数，读者可以据此判断它在设计出图场景中的实际用法。",
-      "summary": "蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。",
-      "sourceName": "蚂蚁 inclusionAI：HuggingFace 新模型",
-      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
-      "aihotUrl": "https://aihot.news/items/hdvt6wswzycj78wnr7r43xn6o",
-      "publishedAt": "2026-11-25T04:02:44.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
-      "id": "rlt60gq96bl1cf5b88o8rbj30",
-      "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-      "reason": "转述 FT 报道并补充许可规则细节，读者可以了解这次停运与云算力转租渠道之间的关系。",
-      "summary": "据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2125847124600656142",
-      "aihotUrl": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-      "publishedAt": "2026-11-26T07:00:25.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
       "unselected": false
     }
   ],
@@ -280,6 +280,34 @@
       "unselected": false
     },
     {
+      "id": "v5fxjqr2vapkk9vn1j9a8ke96",
+      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+      "reason": "转述 Dragos 的金丝雀测试细节，读者可以据此评估把敏感数据交给 AI 服务商的风险和供应商的隐私承诺可信度。",
+      "summary": "据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2126214860421914884",
+      "aihotUrl": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+      "publishedAt": "2026-11-27T07:21:40.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
+      "id": "l9md8ugx8e2zlm5g1tuqthmaw",
+      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+      "reason": "OpenBMB 对他人基于 MiniCPM-o 4.5 构建的全双工语音模型给予反馈，侧面说明该底座模型在语音交互场景的外部落地情况。",
+      "summary": "OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。",
+      "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "sourceUrl": "https://x.com/OpenBMB/status/2126308118741323853",
+      "aihotUrl": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "publishedAt": "2026-11-27T13:32:15.000Z",
+      "timeBasis": "published",
+      "category": "industry",
+      "categoryLabel": "行业",
+      "unselected": false
+    },
+    {
       "id": "rlt60gq96bl1cf5b88o8rbj30",
       "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
       "reason": "转述 FT 报道并补充许可规则细节，读者可以了解这次停运与云算力转租渠道之间的关系。",
@@ -358,34 +386,6 @@
       "sourceUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
       "aihotUrl": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
       "publishedAt": "2026-11-24T12:30:05.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "yz5va6l60tfkmdampmsiz0jq2",
-      "title": "ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先",
-      "reason": "作者基于自建测算模型给出规则执行率与延迟月数的量化区间，并梳理柔佛数据中心和执法风险等关键变量。",
-      "summary": "作者分析美国 BIS 于11月16日发布、11月19日生效的租赁算力临时最终规则，该规则要求向境外数据中心供应芯片需申领许可，门槛约为760块 H100 等效算力，覆盖 Hopper 和 Blackwell 级芯片，并关闭 Foundry Due-Diligence 漏洞。",
-      "sourceName": "ChinaTalk（RSS）",
-      "sourceUrl": "https://www.chinatalk.media/p/the-remote-access-rule-will-slow",
-      "aihotUrl": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
-      "publishedAt": "2026-11-24T10:58:57.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "zto0pspydy8330r0bvwqb6j5z",
-      "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-      "reason": "嘉宾来自美国外交关系委员会与乔治城大学，逐层拆解董事会复职决定背后的法律承诺、FDPR 缺失和监管漏洞，提供了不少可核验的政策细节。",
-      "summary": "ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。",
-      "sourceName": "ChinaTalk（RSS）",
-      "sourceUrl": "https://www.chinatalk.media/p/jensen-returns",
-      "aihotUrl": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-      "publishedAt": "2026-11-24T01:41:25.000Z",
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
@@ -504,6 +504,20 @@
       "unselected": false
     },
     {
+      "id": "tiqf353lek6sib8ktn8uvc6nc",
+      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+      "reason": "原文给出了可直接复用的 GEMINI.md 提示词，让 Antigravity 边干活边汇报进度，改善交互掌控感。",
+      "summary": "卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "sourceUrl": "https://x.com/Khazix0918/status/2126294658431201385",
+      "aihotUrl": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "publishedAt": "2026-11-27T12:38:45.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "cdkswjz368inpelrz3f52rekx",
       "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
       "reason": "作者以买家和卖家双视角实测支付宝 SkillPay 的买断与订阅两种模式，给出了从签约、定价到收款的上架流程和费用细节。",
@@ -600,20 +614,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "jb7ohptrc5ctyx9maoimz2hn0",
-      "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
-      "reason": "作者把自己做产品时审查用户体验和动效的完整 Prompt 原则直接公开，按状态变化找动效等思路可直接迁移到其他项目。",
-      "summary": "数字生命卡兹克分享自己做产品时用的两个 Prompt，一个按用户体验至上的原则审查项目交互并直接修复，一个把项目动效做到细腻丝滑水准。",
-      "sourceName": "X：卡兹克 (@Khazix0918)",
-      "sourceUrl": "https://x.com/Khazix0918/status/2125110224143171669",
-      "aihotUrl": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
-      "publishedAt": "2026-11-24T06:12:14.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -623,6 +623,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "l9md8ugx8e2zlm5g1tuqthmaw",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+          "reason": "OpenBMB 对他人基于 MiniCPM-o 4.5 构建的全双工语音模型给予反馈，侧面说明该底座模型在语音交互场景的外部落地情况。",
+          "summary": "OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。",
+          "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "sourceUrl": "https://x.com/OpenBMB/status/2126308118741323853",
+          "aihotUrl": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "publishedAt": "2026-11-27T13:32:15.000Z",
+          "timeBasis": "published",
+          "category": "industry",
+          "categoryLabel": "行业",
+          "unselected": false
+        },
         {
           "id": "cdkswjz368inpelrz3f52rekx",
           "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
@@ -688,20 +702,6 @@
           "sourceUrl": "https://fireworks.ai/blog/hy4-flash-on-fireworks/",
           "aihotUrl": "https://aihot.news/items/dvu6olan4q58k1evvnp8t60t2",
           "publishedAt": "2026-11-24T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "i5qr52169dlque8rb2sl4i5jo",
-          "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
-          "reason": "官方给出了 Pax 在 Harness-Bench SWE81 上与 OpenCode、Codex、Claude Code 的分数和成本对比，读者可据此评估这款终端编码 agent 的性价比。",
-          "summary": "Pydantic AI 发布基于 Harness SDK 的终端编码 agent Pax（pydantic-ai-pax），一切皆插件，支持 --agent 接入自定义 Pydantic AI Agent、/sandbox 切换十余种云端或本地沙箱、ComputerUse 计算机使用和默认开启的 code mode。",
-          "sourceName": "Pydantic AI 官方文章",
-          "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
-          "aihotUrl": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
-          "publishedAt": "2026-11-25T09:00:00.000Z",
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
