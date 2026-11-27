@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-26T23:03:41.738Z",
+  "checkedAt": "2026-11-27T04:56:35.629Z",
   "message": "",
   "categories": [
     {
@@ -25,6 +25,20 @@
     }
   ],
   "today": [
+    {
+      "id": "cdkswjz368inpelrz3f52rekx",
+      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+      "reason": "作者以买家和卖家双视角实测支付宝 SkillPay 的买断与订阅两种模式，给出了从签约、定价到收款的上架流程和费用细节。",
+      "summary": "作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw",
+      "aihotUrl": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+      "publishedAt": "2026-11-26T23:56:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
     {
       "id": "jcdfpftbam647yhc210dbace9",
       "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
@@ -65,62 +79,6 @@
       "timeBasis": "published",
       "category": "industry",
       "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "gv1y811sp5p9kl7p3ci7xjt5n",
-      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-      "reason": "原文完整披露了 Tor Browser 15.0.22 的 UAF 利用链与去匿名化过程，并给出已修复的版本号，可据此理解浏览器沙箱边界问题。",
-      "summary": "Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。",
-      "sourceName": "Calif：Research（AI 漏洞研究）",
-      "sourceUrl": "https://calif.io/research/tortilla-with-onion",
-      "aihotUrl": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-      "publishedAt": "2026-11-26T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "g5yjacklnlbp3v51hkzciksjy",
-      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-      "reason": "作者亲历复现并披露完整漏洞细节，读者可了解 OEM 驱动漏洞链如何绕过 RKP 等多层防御获取 root。",
-      "summary": "Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。",
-      "sourceName": "Calif：Research（AI 漏洞研究）",
-      "sourceUrl": "https://calif.io/research/oempocalypse-part-2",
-      "aihotUrl": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-      "publishedAt": "2026-11-26T00:00:00.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "gc4qp85ij5qzhu53qzkg8quqj",
-      "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
-      "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
-      "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。",
-      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-      "sourceUrl": "https://x.com/adocomplete/status/2125994186252161315",
-      "aihotUrl": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
-      "publishedAt": "2026-11-26T16:44:47.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "mruv0rx3oxnkjy9ll805qaidc",
-      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-      "reason": "作者基于《人生意义设计课》改编出可直接复用的多轮对话Prompt，并附完整实测流程，读者可拿来即用。",
-      "summary": "公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。",
-      "sourceName": "公众号：数字生命卡兹克",
-      "sourceUrl": "https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg",
-      "aihotUrl": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-      "publishedAt": "2026-11-25T23:56:00.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
       "unselected": false
     }
   ],
@@ -210,20 +168,6 @@
       "unselected": false
     },
     {
-      "id": "jl6m0eymz9z0kleh54c3guowx",
-      "title": "腾讯混元开放 Hy4 权重",
-      "reason": "官方开源原生多模态旗舰 MoE 模型，规格、权重与安全评估入口齐全，本地部署用户可按需取用。",
-      "summary": "腾讯混元发布 Hy4 开放权重，定位原生多模态旗舰 MoE 模型，总参数 770B、激活 49B，支持 1M 上下文。",
-      "sourceName": "X：腾讯混元 (@TencentHunyuan)",
-      "sourceUrl": "https://x.com/TencentHunyuan/status/2123625549147070538",
-      "aihotUrl": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-      "publishedAt": "2026-11-20T03:52:40.000Z",
-      "timeBasis": "published",
-      "category": "ai-models",
-      "categoryLabel": "模型",
-      "unselected": false
-    },
-    {
       "id": "dvu6olan4q58k1evvnp8t60t2",
       "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
       "reason": "原文给出 Hy4 Flash 在多个专业基准上的得分与成本对比，读者可据此评估它在专业任务中的性价比取舍。",
@@ -267,9 +211,9 @@
     },
     {
       "id": "cebavio3uyjwli5r3imsuq1si",
-      "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-      "reason": "官方宣布千问Go打电话服务免费开放，经用户授权可代拨电话与定时来电，读者可据此评估这一Agent能力对日常沟通场景的适用性。",
-      "summary": "千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。",
+      "title": "千问App免费开放打电话服务，可代用户拨号沟通需求",
+      "reason": "千问App官方介绍免费开放的代打电话服务，说明了授权流程和订包间、催快递等典型使用场景。",
+      "summary": "千问App宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并授权后，AI可代为拨打电话、沟通需求。",
       "sourceName": "公众号：千问APP（阿里）",
       "sourceUrl": "https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw",
       "aihotUrl": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
@@ -560,6 +504,20 @@
       "unselected": false
     },
     {
+      "id": "cdkswjz368inpelrz3f52rekx",
+      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+      "reason": "作者以买家和卖家双视角实测支付宝 SkillPay 的买断与订阅两种模式，给出了从签约、定价到收款的上架流程和费用细节。",
+      "summary": "作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。",
+      "sourceName": "公众号：数字生命卡兹克",
+      "sourceUrl": "https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw",
+      "aihotUrl": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+      "publishedAt": "2026-11-26T23:56:00.000Z",
+      "timeBasis": "published",
+      "category": "tip",
+      "categoryLabel": "技巧",
+      "unselected": false
+    },
+    {
       "id": "gc4qp85ij5qzhu53qzkg8quqj",
       "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
       "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
@@ -656,20 +614,6 @@
       "category": "tip",
       "categoryLabel": "技巧",
       "unselected": false
-    },
-    {
-      "id": "qkxvs90ewfu3k430sdefndv56",
-      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-      "reason": "基于 11,307 次 Agent 购物实测和 YipitData 消费数据，总结出商家被智能体选中的五条可操作规律。",
-      "summary": "a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。",
-      "sourceName": "a16z：News（RSS）",
-      "sourceUrl": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents",
-      "aihotUrl": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "publishedAt": "2026-11-23T15:04:27.000Z",
-      "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
     }
   ],
   "watch": [
@@ -679,6 +623,20 @@
       "query": "Agent",
       "unselected": false,
       "items": [
+        {
+          "id": "cdkswjz368inpelrz3f52rekx",
+          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "reason": "作者以买家和卖家双视角实测支付宝 SkillPay 的买断与订阅两种模式，给出了从签约、定价到收款的上架流程和费用细节。",
+          "summary": "作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。",
+          "sourceName": "公众号：数字生命卡兹克",
+          "sourceUrl": "https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw",
+          "aihotUrl": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "publishedAt": "2026-11-26T23:56:00.000Z",
+          "timeBasis": "published",
+          "category": "tip",
+          "categoryLabel": "技巧",
+          "unselected": false
+        },
         {
           "id": "jcdfpftbam647yhc210dbace9",
           "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
@@ -747,20 +705,6 @@
           "timeBasis": "published",
           "category": "ai-products",
           "categoryLabel": "产品",
-          "unselected": false
-        },
-        {
-          "id": "rnanzlnaqxdr2icjqw0qwv9la",
-          "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "reason": "访谈披露了 Anthropic 用 Claude 处理代码审查和 oncall 的真实流程，读者可以对照调整自己团队的工程实践。",
-          "summary": "Pragmatic Engineer 发布对 Anthropic 平台工程负责人 Katelyn Lesse 的播客访谈，她团队负责 Claude API 及 Claude Code 和 Claude Desktop 的基础设施。",
-          "sourceName": "Pragmatic Engineer（RSS）",
-          "sourceUrl": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
-          "aihotUrl": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-          "publishedAt": "2026-11-25T17:31:32.000Z",
-          "timeBasis": "published",
-          "category": "tip",
-          "categoryLabel": "技巧",
           "unselected": false
         }
       ]

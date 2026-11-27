@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": "ph",
-      "checkedAt": "2026-11-26T23:03:16.747Z",
-      "lastSuccessAt": "2026-11-26T23:03:16.747Z",
-      "nextCheckAt": 1795737796747,
+      "checkedAt": "2026-11-27T04:55:17.033Z",
+      "lastSuccessAt": "2026-11-27T04:55:17.033Z",
+      "nextCheckAt": 1795758917033,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -24,10 +24,10 @@
     },
     {
       "id": "woshipm",
+      "checkedAt": "2026-11-27T04:55:17.034Z",
+      "lastSuccessAt": "2026-11-27T04:55:17.034Z",
+      "nextCheckAt": 1795758917034,
       "status": "ok",
-      "nextCheckAt": 1795737796748,
-      "checkedAt": "2026-11-26T23:03:16.748Z",
-      "lastSuccessAt": "2026-11-26T23:03:16.748Z",
       "failures": 0,
       "avatar": {
         "name": "人人都是产品经理",
@@ -46,9 +46,9 @@
     },
     {
       "id": "sspai",
-      "checkedAt": "2026-11-26T23:03:16.750Z",
-      "lastSuccessAt": "2026-11-26T23:03:16.750Z",
-      "nextCheckAt": 1795737796750,
+      "checkedAt": "2026-11-27T04:55:17.035Z",
+      "lastSuccessAt": "2026-11-27T04:55:17.035Z",
+      "nextCheckAt": 1795758917035,
       "status": "ok",
       "failures": 0,
       "avatar": {
@@ -68,10 +68,10 @@
     },
     {
       "id": "n8n",
-      "checkedAt": "2026-11-26T23:03:16.850Z",
-      "lastSuccessAt": "2026-11-26T23:03:16.850Z",
-      "nextCheckAt": 1795737796850,
       "status": "ok",
+      "nextCheckAt": 1795758917219,
+      "checkedAt": "2026-11-27T04:55:17.219Z",
+      "lastSuccessAt": "2026-11-27T04:55:17.219Z",
       "failures": 0,
       "avatar": {
         "name": "n8n Blog",
@@ -90,9 +90,129 @@
     }
   ],
   "intervalSeconds": 3600,
-  "nextCheckAt": 1795737796747,
+  "nextCheckAt": 1795758917033,
   "refreshing": false,
   "items": [
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6501354.html",
+      "title": "关于国内 Personal Agent 的五大暴论",
+      "summary": "9 月海外 Muse、Grok Bot 开出 Personal Agent 赛道，两个月内国内牌桌坐满：蚂蚁灵光 2.0 全量、字节小豆内测、腾讯微信小微官宣。作者抛出五个暴论，第一条就是这波不会重蹈 OpenClaw 的覆辙。 9 月，海外的 Muse、Grok Bot 突然开辟了 Personal Agent 这个 2.0 新赛道，一下子所有人的目光均转移到了这个新方向。 到了 10 月、11 月，国内 PA 牌桌，瞬间坐满。 一方",
+      "publishedAt": "2026-11-27T03:53:08.000Z",
+      "url": "https://www.woshipm.com/ai/6501354.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6501354.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "9 月海外 Muse、Grok Bot 开出 Personal Agent 赛道，两个月内国内牌桌坐满：蚂蚁灵光 2.0 全量、字节小豆内测、腾讯微信小微官宣。作者抛出五个暴论，第一条就是这波不会重蹈 OpenClaw 的覆辙。 9 月，海外的 Muse、Grok Bot 突然开辟了 Personal Agent 这个 2.0 新赛道，一下子所有人的目光均转移到了这个新方向。 到了 10 月、11 月，国内 PA 牌桌，瞬间坐满。 一方",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "lead"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6501308.html",
+      "title": "阿里内测专业创作AI Agent“行云”，多智能体落地内容流水线",
+      "summary": "阿里正在内测 AI 剧本工作台「行云」，内置名为桌面虾的调度系统，可并行跑多个智能体，覆盖大纲、分场、对白到评估全链路。实测一句「帮我生成一个贺岁短片」，就能产出 12 个镜头、人物设定与 BGM 标注。 阿里正在内测一个专业创作AI Agent“行云”，定位是一个面向编剧与内容创作者的AI剧本工作台。 行云可创作的内容包含长剧、短剧、电影、动漫、少儿、游戏、广告、音乐等品类，通过专业Skill串联灵感、大纲、分场、对白与审稿，功能包括",
+      "publishedAt": "2026-11-27T03:37:18.000Z",
+      "url": "https://www.woshipm.com/ai/6501308.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
+        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6501308.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "阿里正在内测 AI 剧本工作台「行云」，内置名为桌面虾的调度系统，可并行跑多个智能体，覆盖大纲、分场、对白到评估全链路。实测一句「帮我生成一个贺岁短片」，就能产出 12 个镜头、人物设定与 BGM 标注。 阿里正在内测一个专业创作AI Agent“行云”，定位是一个面向编剧与内容创作者的AI剧本工作台。 行云可创作的内容包含长剧、短剧、电影、动漫、少儿、游戏、广告、音乐等品类，通过专业Skill串联灵感、大纲、分场、对白与审稿，功能包括",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
+    {
+      "id": "woshipm:https://www.woshipm.com/ai/6501379.html",
+      "title": "任务要跑半小时，用户第 5 分钟就改需求了，Agent 怎么办？",
+      "summary": "LangChain 发文讨论 Agent 为什么走向异步。传统 Agent Loop 一旦依赖工具返回就必须阻塞，任务跑半小时、用户第 5 分钟改需求就无解。文章拆解 Agent Loop、异步子 Agent 与任务生命周期管理的差别。 最近，LangChain 发布了一篇技术文章，标题叫《Agents Are Going Async》，讨论 Agent 为什么正在走向异步架构，以及这种变化会给 Agent 的执行方式带来哪些影响。 做",
+      "publishedAt": "2026-11-27T02:57:58.000Z",
+      "url": "https://www.woshipm.com/ai/6501379.html",
+      "linkKind": "original",
+      "opportunity": {
+        "question": "把这套方法交给一个真实工作任务，需要你接手几次？",
+        "method": "用一项重复工作连续试 3 次，记录完成率、耗时、人工接手点，并保留一次失败案例。",
+        "basis": "基于标题与摘要的选题建议 · 待实测"
+      },
+      "visual": {
+        "entities": [
+          {
+            "name": "人人都是产品经理",
+            "asset": "/assets/identities/woshipm.png",
+            "tone": "#e1eaf0"
+          }
+        ],
+        "caption": "产品拆解",
+        "author": {
+          "name": "人人都是产品经理",
+          "asset": "/assets/identities/woshipm.png",
+          "tone": "#e1eaf0"
+        }
+      },
+      "researchId": "woshipm",
+      "sourceName": "人人都是产品经理",
+      "sourceUrl": "https://www.woshipm.com/ai/6501379.html",
+      "sourceGroup": "产品拆解",
+      "category": "产品拆解",
+      "platform": "中文产品社区",
+      "brief": "LangChain 发文讨论 Agent 为什么走向异步。传统 Agent Loop 一旦依赖工具返回就必须阻塞，任务跑半小时、用户第 5 分钟改需求就无解。文章拆解 Agent Loop、异步子 Agent 与任务生命周期管理的差别。 最近，LangChain 发布了一篇技术文章，标题叫《Agents Are Going Async》，讨论 Agent 为什么正在走向异步架构，以及这种变化会给 Agent 的执行方式带来哪些影响。 做",
+      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
+      "isArchive": false,
+      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
+      "aggregateUrl": "https://www.woshipm.com/feed",
+      "priority": "important"
+    },
     {
       "id": "n8n:https://blog.n8n.io/ai-test-case-generation/",
       "title": "AI Test Case Generation for Production QA Pipelines",
@@ -131,47 +251,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://blog.n8n.io/rss/",
-      "priority": "lead"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6500813.html",
-      "title": "我用DeepSeek Harness从安装、接模型到装插件市场，把毛坯房Agent改成了自己的专属工作台",
-      "summary": "这个桌面端 Agent 从安装、接模型、装插件市场一路配下来，能换皮肤、接上手机远程派活，最后还手搓了一个提示词增强插件。这篇是完整的操作路径，适合想把毛坯房 Agent 改成自己工作台的人。 DeepSeek Harness发布至今三个多月，虽然还处在预览阶段，但大家都把它玩出花来了，比如最近很火的换皮肤、养大肥鱼、折腾各种插件。 这些玩法，都源于它“一切皆插件”的设计原则，赋予了它强大的灵活性，我们可以根据自己的需求，任意改造它。",
-      "publishedAt": "2026-11-26T11:44:02.000Z",
-      "url": "https://www.woshipm.com/ai/6500813.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "生成结果离可以交付的设计，还差哪些人工修改？",
-        "method": "给新旧工具同一份设计需求，对比约束遵守、风格一致性和最终修改时间。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6500813.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "这个桌面端 Agent 从安装、接模型、装插件市场一路配下来，能换皮肤、接上手机远程派活，最后还手搓了一个提示词增强插件。这篇是完整的操作路径，适合想把毛坯房 Agent 改成自己工作台的人。 DeepSeek Harness发布至今三个多月，虽然还处在预览阶段，但大家都把它玩出花来了，比如最近很火的换皮肤、养大肥鱼、折腾各种插件。 这些玩法，都源于它“一切皆插件”的设计原则，赋予了它强大的灵活性，我们可以根据自己的需求，任意改造它。",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "sspai:https://sspai.com/post/116773",
@@ -211,7 +291,7 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "important"
+      "priority": "normal"
     },
     {
       "id": "ph:https://www.producthunt.com/products/claude-mem",
@@ -292,46 +372,6 @@
       "isArchive": false,
       "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
       "aggregateUrl": "https://sspai.com/feed",
-      "priority": "normal"
-    },
-    {
-      "id": "woshipm:https://www.woshipm.com/ai/6500800.html",
-      "title": "对话 MAGI-2：视频模型，生成出了数独的答案",
-      "summary": "Sand.ai 的 MAGI-2 是 480B 总参、28B 激活的 MoE 模型。给它一张挖掉 45 格的数独当起始帧，它能自己一步步推理填满。联创张拯讲了 Multi-Head Latent MoE 怎么把跨卡通信和 top-k 解耦，也讲了它为什么敢卖 5 分钱一秒。 昨天应该已经被三呆的新视频模型 MAGI-2 刷屏了吧？480B 的 MoE 视频模型，效果出奇的好（sota），出奇的便宜（5 分钱/秒） 在我看来，这个模型最牛",
-      "publishedAt": "2026-11-26T06:39:02.000Z",
-      "url": "https://www.woshipm.com/ai/6500800.html",
-      "linkKind": "original",
-      "opportunity": {
-        "question": "把文中的视频方法用于同一段 30 秒脚本，能减少多少次重做？",
-        "method": "用原有流程和文中方法各做 3 次，记录耗时、生成次数与可用镜头比例。",
-        "basis": "基于标题与摘要的选题建议 · 待实测"
-      },
-      "visual": {
-        "entities": [
-          {
-            "name": "人人都是产品经理",
-            "asset": "/assets/identities/woshipm.png",
-            "tone": "#e1eaf0"
-          }
-        ],
-        "caption": "产品拆解",
-        "author": {
-          "name": "人人都是产品经理",
-          "asset": "/assets/identities/woshipm.png",
-          "tone": "#e1eaf0"
-        }
-      },
-      "researchId": "woshipm",
-      "sourceName": "人人都是产品经理",
-      "sourceUrl": "https://www.woshipm.com/ai/6500800.html",
-      "sourceGroup": "产品拆解",
-      "category": "产品拆解",
-      "platform": "中文产品社区",
-      "brief": "Sand.ai 的 MAGI-2 是 480B 总参、28B 激活的 MoE 模型。给它一张挖掉 45 格的数独当起始帧，它能自己一步步推理填满。联创张拯讲了 Multi-Head Latent MoE 怎么把跨卡通信和 top-k 解耦，也讲了它为什么敢卖 5 分钱一秒。 昨天应该已经被三呆的新视频模型 MAGI-2 刷屏了吧？480B 的 MoE 视频模型，效果出奇的好（sota），出奇的便宜（5 分钱/秒） 在我看来，这个模型最牛",
-      "question": "产品判断：区分作者观点与案例证据，提取需求、交互和衡量成效的方法。",
-      "isArchive": false,
-      "verification": "来源摘要 · 按关键词筛选，未逐条独立核验",
-      "aggregateUrl": "https://www.woshipm.com/feed",
       "priority": "normal"
     },
     {
