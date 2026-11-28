@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-28T04:47:14.998Z",
+  "checkedAt": "2026-11-28T13:41:41.636Z",
   "message": "",
   "categories": [
     {
@@ -26,45 +26,17 @@
   ],
   "today": [
     {
-      "id": "tiqf353lek6sib8ktn8uvc6nc",
-      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
-      "reason": "原文给出了可直接复用的 GEMINI.md 提示词，让 Antigravity 边干活边汇报进度，改善交互掌控感。",
-      "summary": "卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。",
-      "sourceName": "X：卡兹克 (@Khazix0918)",
-      "sourceUrl": "https://x.com/Khazix0918/status/2126294658431201385",
-      "aihotUrl": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
-      "publishedAt": "2026-11-27T12:38:45.000Z",
+      "id": "j903zx9d0v80rsxi3aw7yj12s",
+      "title": "MiniMax 评估内部模型逆向能力：200 万行 Rust 克隆知名二进制分析软件",
+      "reason": "MiniMax 以内部模型实测闭源软件克隆与虚拟化脱壳，给出了具体数字和能力边界，对关注软件保护体系的读者有参考价值。",
+      "summary": "MiniMax 发布对内部最智能模型逆向工程能力的内部评估报告，称模型可自主编排多智能体对闭源软件做端到端功能复刻，并绕过代码混淆与虚拟化保护。",
+      "sourceName": "公众号：MiniMax（稀宇科技）",
+      "sourceUrl": "https://mp.weixin.qq.com/s/qUleB85D-VEQx4RO_Wfjsw",
+      "aihotUrl": "https://aihot.news/items/j903zx9d0v80rsxi3aw7yj12s",
+      "publishedAt": "2026-11-28T12:52:31.000Z",
       "timeBasis": "published",
-      "category": "tip",
-      "categoryLabel": "技巧",
-      "unselected": false
-    },
-    {
-      "id": "v5fxjqr2vapkk9vn1j9a8ke96",
-      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-      "reason": "转述 Dragos 的金丝雀测试细节，读者可以据此评估把敏感数据交给 AI 服务商的风险和供应商的隐私承诺可信度。",
-      "summary": "据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。",
-      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-      "sourceUrl": "https://x.com/rohanpaul_ai/status/2126214860421914884",
-      "aihotUrl": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-      "publishedAt": "2026-11-27T07:21:40.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
-      "unselected": false
-    },
-    {
-      "id": "l9md8ugx8e2zlm5g1tuqthmaw",
-      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
-      "reason": "OpenBMB 对他人基于 MiniCPM-o 4.5 构建的全双工语音模型给予反馈，侧面说明该底座模型在语音交互场景的外部落地情况。",
-      "summary": "OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。",
-      "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "sourceUrl": "https://x.com/OpenBMB/status/2126308118741323853",
-      "aihotUrl": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
-      "publishedAt": "2026-11-27T13:32:15.000Z",
-      "timeBasis": "published",
-      "category": "industry",
-      "categoryLabel": "行业",
+      "category": "paper",
+      "categoryLabel": "论文",
       "unselected": false
     }
   ],
@@ -364,6 +336,20 @@
       "unselected": false
     },
     {
+      "id": "j903zx9d0v80rsxi3aw7yj12s",
+      "title": "MiniMax 评估内部模型逆向能力：200 万行 Rust 克隆知名二进制分析软件",
+      "reason": "MiniMax 以内部模型实测闭源软件克隆与虚拟化脱壳，给出了具体数字和能力边界，对关注软件保护体系的读者有参考价值。",
+      "summary": "MiniMax 发布对内部最智能模型逆向工程能力的内部评估报告，称模型可自主编排多智能体对闭源软件做端到端功能复刻，并绕过代码混淆与虚拟化保护。",
+      "sourceName": "公众号：MiniMax（稀宇科技）",
+      "sourceUrl": "https://mp.weixin.qq.com/s/qUleB85D-VEQx4RO_Wfjsw",
+      "aihotUrl": "https://aihot.news/items/j903zx9d0v80rsxi3aw7yj12s",
+      "publishedAt": "2026-11-28T12:52:31.000Z",
+      "timeBasis": "published",
+      "category": "paper",
+      "categoryLabel": "论文",
+      "unselected": false
+    },
+    {
       "id": "gv1y811sp5p9kl7p3ci7xjt5n",
       "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
       "reason": "原文完整披露了 Tor Browser 15.0.22 的 UAF 利用链与去匿名化过程，并给出已修复的版本号，可据此理解浏览器沙箱边界问题。",
@@ -456,20 +442,6 @@
       "sourceUrl": "https://x.com/AnthropicAI/status/2125341904644763678",
       "aihotUrl": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
       "publishedAt": "2026-11-24T21:32:51.000Z",
-      "timeBasis": "published",
-      "category": "paper",
-      "categoryLabel": "论文",
-      "unselected": false
-    },
-    {
-      "id": "yg04c9d5qnwzitqstg19c6ow2",
-      "title": "OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力",
-      "reason": "原文用计算评测和两组实验室数据说明 GPT-6 可独立设计蛋白结构与序列，并如实列出对专用模型的依赖和局限。",
-      "summary": "OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。",
-      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "aihotUrl": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
-      "publishedAt": "2026-11-24T13:00:00.000Z",
       "timeBasis": "published",
       "category": "paper",
       "categoryLabel": "论文",
@@ -596,6 +568,20 @@
       "unselected": false,
       "items": [
         {
+          "id": "j903zx9d0v80rsxi3aw7yj12s",
+          "title": "MiniMax 评估内部模型逆向能力：200 万行 Rust 克隆知名二进制分析软件",
+          "reason": "MiniMax 以内部模型实测闭源软件克隆与虚拟化脱壳，给出了具体数字和能力边界，对关注软件保护体系的读者有参考价值。",
+          "summary": "MiniMax 发布对内部最智能模型逆向工程能力的内部评估报告，称模型可自主编排多智能体对闭源软件做端到端功能复刻，并绕过代码混淆与虚拟化保护。",
+          "sourceName": "公众号：MiniMax（稀宇科技）",
+          "sourceUrl": "https://mp.weixin.qq.com/s/qUleB85D-VEQx4RO_Wfjsw",
+          "aihotUrl": "https://aihot.news/items/j903zx9d0v80rsxi3aw7yj12s",
+          "publishedAt": "2026-11-28T12:52:31.000Z",
+          "timeBasis": "published",
+          "category": "paper",
+          "categoryLabel": "论文",
+          "unselected": false
+        },
+        {
           "id": "l9md8ugx8e2zlm5g1tuqthmaw",
           "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
           "reason": "OpenBMB 对他人基于 MiniCPM-o 4.5 构建的全双工语音模型给予反馈，侧面说明该底座模型在语音交互场景的外部落地情况。",
@@ -663,20 +649,6 @@
           "timeBasis": "published",
           "category": "tip",
           "categoryLabel": "技巧",
-          "unselected": false
-        },
-        {
-          "id": "dvu6olan4q58k1evvnp8t60t2",
-          "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
-          "reason": "原文给出 Hy4 Flash 在多个专业基准上的得分与成本对比，读者可据此评估它在专业任务中的性价比取舍。",
-          "summary": "腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。",
-          "sourceName": "Fireworks AI（网页）",
-          "sourceUrl": "https://fireworks.ai/blog/hy4-flash-on-fireworks/",
-          "aihotUrl": "https://aihot.news/items/dvu6olan4q58k1evvnp8t60t2",
-          "publishedAt": "2026-11-24T16:00:00.000Z",
-          "timeBasis": "published",
-          "category": "ai-products",
-          "categoryLabel": "产品",
           "unselected": false
         }
       ]

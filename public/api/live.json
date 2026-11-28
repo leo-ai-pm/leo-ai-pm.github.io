@@ -2,7 +2,7 @@
   "data": {
     "date": "2026年11月28日",
     "demo": false,
-    "updatedAt": "2026-11-28T04:46:50.970Z",
+    "updatedAt": "2026-11-28T13:41:16.390Z",
     "editionLabel": "AIHOT 2.0 · 个人阅读版",
     "notice": "热点只标名次、来源数和参与者数。页面只保留标题、一句话和回链，全文在 AIHOT 与原文。",
     "sync": {
@@ -13,7 +13,7 @@
       "rankingUrl": "https://aihot.news/hot",
       "sourcePoolPages": 3,
       "poolHasMore": false,
-      "received": 77,
+      "received": 62,
       "latestCount": 1,
       "archiveCount": 1,
       "peopleStatus": "ok"
@@ -229,7 +229,7 @@
         "aihotUrl": "https://aihot.news/items/wxkw4txq9hmpj95l0vlpqt7sn",
         "storyUrl": "https://aihot.news/story/840b7bfa-805e-41d3-b87e-0ba20fb08d69",
         "sourceCount": 2,
-        "participantCount": 16,
+        "participantCount": 21,
         "latestAt": "2026-11-27T21:31:29.000Z",
         "expanded": true,
         "latest": "OpenAI 反诉 Apple，指称前员工将硬件路线图带回 Apple",
@@ -265,111 +265,6 @@
       },
       {
         "rank": 2,
-        "id": "rlt60gq96bl1cf5b88o8rbj30",
-        "title": "Nvidia 暂停向东南亚四国发运服务器",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2125847124600656142",
-        "aihotUrl": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-        "storyUrl": "https://aihot.news/story/86e2fa50-91df-43e8-ab8a-6948255ec46f",
-        "sourceCount": 3,
-        "participantCount": 29,
-        "latestAt": "2026-11-27T07:07:27.000Z",
-        "expanded": true,
-        "latest": "FT：美国新规令数百个亚洲数据中心项目面临许可审查与融资延迟",
-        "reports": [
-          {
-            "title": "美国限制中国远程使用 Nvidia B300 后，Blackwell 算力租金两地分化",
-            "sourceName": "Azeem Azhar：Exponential View（RSS）",
-            "sourceUrl": "https://www.exponentialview.co/p/blackwell-friday",
-            "aihotUrl": "https://aihot.news/items/xb6j3mt84w59qpzi6674sr6d9",
-            "publishedAt": "2026-11-27T12:59:08.000Z"
-          },
-          {
-            "title": "FT：美国新规令数百个亚洲数据中心项目面临许可审查与融资延迟",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2126211284400234714",
-            "aihotUrl": "https://aihot.news/items/z9bmgtfwzknwpbs76e8xgu6ij",
-            "publishedAt": "2026-11-27T07:07:27.000Z"
-          },
-          {
-            "title": "Nvidia 暂停向东南亚四国出货服务器芯片",
-            "sourceName": "TechCrunch：AI（RSS）",
-            "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-            "aihotUrl": "https://aihot.news/items/kpbzsokdtdq9bdw5qx2hbsyqd",
-            "publishedAt": "2026-11-26T20:03:54.000Z"
-          }
-        ],
-        "related": [
-          {
-            "title": "美商务部新规管制远程算力，Nvidia曾游说反对",
-            "storyUrl": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe"
-          }
-        ],
-        "visual": {
-          "entities": [
-            {
-              "name": "NVIDIA",
-              "asset": "/assets/identities/nvidia.jpg",
-              "assetSource": "https://x.com/nvidia",
-              "tone": "#e7edda"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 3,
-        "id": "reedvq9m1fb7xktmvk0dnqqpk",
-        "title": "OpenAI修复GPT-6.2计费错误并补偿用户",
-        "sourceName": "X：Tibo (@thsottiaux)",
-        "sourceUrl": "https://x.com/thsottiaux/status/2125784147889393806",
-        "aihotUrl": "https://aihot.news/items/reedvq9m1fb7xktmvk0dnqqpk",
-        "storyUrl": "https://aihot.news/story/cc2d9727-4547-44f7-b2fe-f16bdbf84b42",
-        "sourceCount": 2,
-        "participantCount": 24,
-        "latestAt": "2026-11-26T17:28:56.000Z",
-        "expanded": true,
-        "latest": "OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快",
-        "reports": [
-          {
-            "title": "OpenAI 承认 GPT-6.2 计费出错并修复，Astra 额度消耗加快 40%、Sol 加快 25%",
-            "sourceName": "IT之家·人工智能",
-            "sourceUrl": "https://www.ithome.com/1/033/138.htm",
-            "aihotUrl": "https://aihot.news/items/lj1rskqimfkpe2i2cmlvv76lj",
-            "publishedAt": "2026-11-26T22:59:06.053Z"
-          },
-          {
-            "title": "OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "sourceUrl": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-            "aihotUrl": "https://aihot.news/items/lk9a23znjvexu4h331w0cvnkq",
-            "publishedAt": "2026-11-26T17:28:56.000Z"
-          },
-          {
-            "title": "OpenAI 已上线 Banked reset",
-            "sourceName": "X：Tibo (@thsottiaux)",
-            "sourceUrl": "https://x.com/thsottiaux/status/2125853628250599730",
-            "aihotUrl": "https://aihot.news/items/x48b5go7h619tf9n4k7948qeh",
-            "publishedAt": "2026-11-26T07:26:16.000Z"
-          }
-        ],
-        "related": [],
-        "visual": {
-          "entities": [
-            {
-              "name": "OpenAI",
-              "asset": "/assets/identities/openai.jpg",
-              "assetSource": "https://x.com/OpenAI",
-              "tone": "#e6eeea"
-            }
-          ],
-          "caption": "热点",
-          "author": null
-        }
-      },
-      {
-        "rank": 4,
         "id": "xm92utwg1pnubws7t5hmdpwqz",
         "title": "美空军 Cloud One 云平台遭黑客入侵控制面",
         "sourceName": "The Decoder：AI News（RSS）",
@@ -379,9 +274,24 @@
         "sourceCount": 2,
         "participantCount": 12,
         "latestAt": "2026-11-27T18:48:45.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
+        "expanded": true,
+        "latest": "黑客入侵美国空军旗舰云平台 Cloud One 并触及控制平面",
+        "reports": [
+          {
+            "title": "黑客入侵美国空军旗舰云平台 Cloud One 并触及控制平面",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2126387768960127189",
+            "aihotUrl": "https://aihot.news/items/i3802323ltexhuy543f9wdc5k",
+            "publishedAt": "2026-11-27T18:48:45.000Z"
+          },
+          {
+            "title": "美国空军 Cloud One 云平台遭黑客入侵",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+            "aihotUrl": "https://aihot.news/items/xm92utwg1pnubws7t5hmdpwqz",
+            "publishedAt": "2026-11-27T16:06:43.000Z"
+          }
+        ],
         "related": [],
         "visual": {
           "entities": [
@@ -397,7 +307,7 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 3,
         "id": "srpo49fnds5wrj0b8csrot4ve",
         "title": "SAP拟AI重组裁员至少1万人，德国岗位保障至2028年",
         "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
@@ -407,9 +317,24 @@
         "sourceCount": 2,
         "participantCount": 18,
         "latestAt": "2026-11-27T14:57:25.000Z",
-        "expanded": false,
-        "latest": "",
-        "reports": [],
+        "expanded": true,
+        "latest": "SAP 拟裁员至少 1 万人以转向 AI",
+        "reports": [
+          {
+            "title": "SAP 拟裁员至少 1 万人以转向 AI",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "sourceUrl": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+            "aihotUrl": "https://aihot.news/items/w6u8ut3hxm4qa2qtcoqv4qfsj",
+            "publishedAt": "2026-11-27T14:57:25.000Z"
+          },
+          {
+            "title": "FT：SAP 拟在 AI 驱动重组中裁员至少 1 万人，约占一成岗位",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2126041605144739986",
+            "aihotUrl": "https://aihot.news/items/srpo49fnds5wrj0b8csrot4ve",
+            "publishedAt": "2026-11-26T19:53:13.000Z"
+          }
+        ],
         "related": [],
         "visual": {
           "entities": [
@@ -425,16 +350,16 @@
         }
       },
       {
-        "rank": 6,
-        "id": "j0hoj1rlmltoft6okserijp25",
-        "title": "42州总检察长介入阻止Character.AI出售聊天记录",
-        "sourceName": "TechCrunch：AI（RSS）",
-        "sourceUrl": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-        "aihotUrl": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-        "storyUrl": "https://aihot.news/story/5525eb2a-16ec-491d-bf45-89cf70e7966a",
+        "rank": 4,
+        "id": "rlt60gq96bl1cf5b88o8rbj30",
+        "title": "Nvidia 暂停向东南亚四国发运服务器",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2125847124600656142",
+        "aihotUrl": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
+        "storyUrl": "https://aihot.news/story/86e2fa50-91df-43e8-ab8a-6948255ec46f",
         "sourceCount": 2,
-        "participantCount": 10,
-        "latestAt": "2026-11-27T09:51:35.000Z",
+        "participantCount": 14,
+        "latestAt": "2026-11-27T07:07:27.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -442,10 +367,66 @@
         "visual": {
           "entities": [
             {
-              "name": "TechCrunch：AI（RSS）",
-              "asset": null,
-              "assetSource": null,
-              "tone": "#e9e4dc"
+              "name": "NVIDIA",
+              "asset": "/assets/identities/nvidia.jpg",
+              "assetSource": "https://x.com/nvidia",
+              "tone": "#e7edda"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 5,
+        "id": "xs32z3627rim5d3h59kj74qu6",
+        "title": "用户实测称 Claude 在 ML 研究任务中阳奉阴违",
+        "sourceName": "Hacker News：AI 热帖",
+        "sourceUrl": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "aihotUrl": "https://aihot.news/items/xs32z3627rim5d3h59kj74qu6",
+        "storyUrl": "https://aihot.news/story/66215103-2038-4342-8972-8e07c6c043aa",
+        "sourceCount": 1,
+        "participantCount": 9,
+        "latestAt": "2026-11-27T01:02:23.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "Anthropic",
+              "asset": "/assets/identities/anthropicai.jpg",
+              "assetSource": "https://x.com/AnthropicAI",
+              "tone": "#eddfd0"
+            }
+          ],
+          "caption": "热点",
+          "author": null
+        }
+      },
+      {
+        "rank": 6,
+        "id": "reedvq9m1fb7xktmvk0dnqqpk",
+        "title": "OpenAI修复GPT-6.2计费错误并补偿用户",
+        "sourceName": "X：Tibo (@thsottiaux)",
+        "sourceUrl": "https://x.com/thsottiaux/status/2125784147889393806",
+        "aihotUrl": "https://aihot.news/items/reedvq9m1fb7xktmvk0dnqqpk",
+        "storyUrl": "https://aihot.news/story/cc2d9727-4547-44f7-b2fe-f16bdbf84b42",
+        "sourceCount": 1,
+        "participantCount": 12,
+        "latestAt": "2026-11-26T17:28:56.000Z",
+        "expanded": false,
+        "latest": "",
+        "reports": [],
+        "related": [],
+        "visual": {
+          "entities": [
+            {
+              "name": "OpenAI",
+              "asset": "/assets/identities/openai.jpg",
+              "assetSource": "https://x.com/OpenAI",
+              "tone": "#e6eeea"
             }
           ],
           "caption": "热点",
@@ -454,15 +435,15 @@
       },
       {
         "rank": 7,
-        "id": "oysonctc1s0cizth9lunf32y5",
-        "title": "FCC批准SpaceX部署百万颗AI卫星",
-        "sourceName": "The Decoder：AI News（RSS）",
-        "sourceUrl": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-        "aihotUrl": "https://aihot.news/items/oysonctc1s0cizth9lunf32y5",
-        "storyUrl": "https://aihot.news/story/9dbfd26c-982c-409f-9e94-a22a3bde77ed",
+        "id": "srd2q271agszemkfczg1961p7",
+        "title": "王兴：美团与微信小微合作推进，明年AI资本开支将降",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/033/748.htm",
+        "aihotUrl": "https://aihot.news/items/srd2q271agszemkfczg1961p7",
+        "storyUrl": "https://aihot.news/story/c5507302-b63d-46ea-bc32-2acd28bd39a7",
         "sourceCount": 1,
-        "participantCount": 17,
-        "latestAt": "2026-11-26T13:41:07.000Z",
+        "participantCount": 8,
+        "latestAt": "2026-11-27T13:06:05.543Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -470,7 +451,7 @@
         "visual": {
           "entities": [
             {
-              "name": "The Decoder：AI News（RSS）",
+              "name": "IT之家·人工智能",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -489,7 +470,7 @@
         "aihotUrl": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
         "storyUrl": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae",
         "sourceCount": 1,
-        "participantCount": 13,
+        "participantCount": 9,
         "latestAt": "2026-11-26T17:11:25.000Z",
         "expanded": false,
         "latest": "",
@@ -510,15 +491,15 @@
       },
       {
         "rank": 9,
-        "id": "h384ogtv753wauyc14tvweq5b",
-        "title": "蚂蚁灵波发布 LingBot-Map 2.0 并开源导航模型 LingBot-Navi",
-        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-        "sourceUrl": "https://x.com/rohanpaul_ai/status/2126019340525056182",
-        "aihotUrl": "https://aihot.news/items/h384ogtv753wauyc14tvweq5b",
-        "storyUrl": "https://aihot.news/story/1f457523-63e7-48f2-9c9c-1871165c4fb0",
-        "sourceCount": 2,
-        "participantCount": 10,
-        "latestAt": "2026-11-26T21:05:18.000Z",
+        "id": "yczcnu5oe66l99kfpejfbwrgu",
+        "title": "马斯克称谷歌有意租用SpaceX更多算力",
+        "sourceName": "IT之家·人工智能",
+        "sourceUrl": "https://www.ithome.com/1/033/898.htm",
+        "aihotUrl": "https://aihot.news/items/yczcnu5oe66l99kfpejfbwrgu",
+        "storyUrl": "https://aihot.news/story/ee73cd5a-f9fb-4e58-8835-c9b40881edfe",
+        "sourceCount": 1,
+        "participantCount": 5,
+        "latestAt": "2026-11-28T07:31:08.040Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -526,7 +507,7 @@
         "visual": {
           "entities": [
             {
-              "name": "X：Rohan Paul (@rohanpaul_ai)",
+              "name": "IT之家·人工智能",
               "asset": null,
               "assetSource": null,
               "tone": "#e9e4dc"
@@ -538,15 +519,15 @@
       },
       {
         "rank": 10,
-        "id": "xs32z3627rim5d3h59kj74qu6",
-        "title": "用户实测称 Claude 在 ML 研究任务中阳奉阴违",
-        "sourceName": "Hacker News：AI 热帖",
-        "sourceUrl": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "aihotUrl": "https://aihot.news/items/xs32z3627rim5d3h59kj74qu6",
-        "storyUrl": "https://aihot.news/story/66215103-2038-4342-8972-8e07c6c043aa",
+        "id": "j0hoj1rlmltoft6okserijp25",
+        "title": "42州总检察长介入阻止Character.AI出售聊天记录",
+        "sourceName": "TechCrunch：AI（RSS）",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+        "aihotUrl": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+        "storyUrl": "https://aihot.news/story/5525eb2a-16ec-491d-bf45-89cf70e7966a",
         "sourceCount": 1,
-        "participantCount": 7,
-        "latestAt": "2026-11-27T01:02:23.000Z",
+        "participantCount": 9,
+        "latestAt": "2026-11-27T09:51:35.000Z",
         "expanded": false,
         "latest": "",
         "reports": [],
@@ -554,10 +535,10 @@
         "visual": {
           "entities": [
             {
-              "name": "Anthropic",
-              "asset": "/assets/identities/anthropicai.jpg",
-              "assetSource": "https://x.com/AnthropicAI",
-              "tone": "#eddfd0"
+              "name": "TechCrunch：AI（RSS）",
+              "asset": null,
+              "assetSource": null,
+              "tone": "#e9e4dc"
             }
           ],
           "caption": "热点",
@@ -568,8 +549,8 @@
   },
   "live": {
     "status": "ok",
-    "checkedAt": "2026-11-28T04:46:50.970Z",
-    "nextCheckAt": 1795841510970,
+    "checkedAt": "2026-11-28T13:41:16.390Z",
+    "nextCheckAt": 1795873576390,
     "intervalSeconds": 300,
     "message": ""
   }
