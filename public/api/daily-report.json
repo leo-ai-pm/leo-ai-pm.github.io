@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checkedAt": "2026-11-27T23:21:37.728Z",
+  "checkedAt": "2026-11-28T04:46:54.860Z",
   "message": "",
   "report": {
-    "date": "2026-11-27",
-    "dateLabel": "2026年11月27日",
-    "weekday": "周五",
-    "issue": 75,
-    "generatedAt": "2026-11-27T00:00:09.018Z",
-    "aihotUrl": "https://aihot.news/daily/2026-11-27",
+    "date": "2026-11-28",
+    "dateLabel": "2026年11月28日",
+    "weekday": "周六",
+    "issue": 76,
+    "generatedAt": "2026-11-28T00:00:08.898Z",
+    "aihotUrl": "https://aihot.news/daily/2026-11-28",
     "lead": {
-      "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-      "summary": "据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。",
-      "aihotUrl": "https://aihot.news/daily/2026-11-27",
+      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+      "summary": "作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。",
+      "aihotUrl": "https://aihot.news/daily/2026-11-28",
       "visual": {
         "entities": [
           {
-            "name": "NVIDIA",
-            "asset": "/assets/identities/nvidia.jpg",
-            "assetSource": "https://x.com/nvidia",
-            "tone": "#e7edda"
+            "name": "AIHOT",
+            "asset": null,
+            "assetSource": null,
+            "tone": "#e9e4dc"
           }
         ],
         "caption": "今日导读",
@@ -28,57 +28,14 @@
     },
     "sections": [
       {
-        "label": "模型发布/更新",
-        "items": [
-          {
-            "title": "蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型",
-            "summary": "蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。",
-            "sourceName": "蚂蚁 inclusionAI：HuggingFace 新模型",
-            "sourceUrl": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
-            "aihotUrl": "https://aihot.news/items/hdvt6wswzycj78wnr7r43xn6o"
-          }
-        ]
-      },
-      {
-        "label": "产品发布/更新",
-        "items": [
-          {
-            "title": "OpenAI 测试私有推理功能",
-            "summary": "私有推理——机密计算，在模型处理提示词和响应时对其进行严格控制，现已进入测试阶段：",
-            "sourceName": "X：Greg Brockman (@gdb)",
-            "sourceUrl": "https://x.com/gdb/status/2125824585027272727",
-            "aihotUrl": "https://aihot.news/items/lewbr91m3z1dyea1n7pbm3bnl"
-          }
-        ]
-      },
-      {
         "label": "行业动态",
         "items": [
           {
-            "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-            "summary": "据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。",
-            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-            "sourceUrl": "https://x.com/rohanpaul_ai/status/2125847124600656142",
-            "aihotUrl": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30"
-          }
-        ]
-      },
-      {
-        "label": "论文研究",
-        "items": [
-          {
-            "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-            "summary": "Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。",
-            "sourceName": "Calif：Research（AI 漏洞研究）",
-            "sourceUrl": "https://calif.io/research/oempocalypse-part-2",
-            "aihotUrl": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy"
-          },
-          {
-            "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-            "summary": "Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。",
-            "sourceName": "Calif：Research（AI 漏洞研究）",
-            "sourceUrl": "https://calif.io/research/tortilla-with-onion",
-            "aihotUrl": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n"
+            "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+            "summary": "OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。",
+            "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+            "sourceUrl": "https://x.com/OpenBMB/status/2126308118741323853",
+            "aihotUrl": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw"
           }
         ]
       },
@@ -86,38 +43,38 @@
         "label": "技巧与观点",
         "items": [
           {
-            "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-            "summary": "Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。",
-            "sourceName": "X：Elon Musk (@elonmusk, xAI)",
-            "sourceUrl": "https://x.com/elonmusk/status/2125669066388209784",
-            "aihotUrl": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo"
-          },
-          {
-            "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
-            "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。",
-            "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-            "sourceUrl": "https://x.com/adocomplete/status/2125994186252161315",
-            "aihotUrl": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj"
-          },
-          {
-            "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-            "summary": "公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。",
+            "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+            "summary": "作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。",
             "sourceName": "公众号：数字生命卡兹克",
-            "sourceUrl": "https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg",
-            "aihotUrl": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc"
+            "sourceUrl": "https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw",
+            "aihotUrl": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx"
           },
           {
-            "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
-            "summary": "Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。",
-            "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-            "sourceUrl": "https://x.com/_philschmid/status/2125945282072297794",
-            "aihotUrl": "https://aihot.news/items/jcdfpftbam647yhc210dbace9"
+            "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+            "summary": "卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。",
+            "sourceName": "X：卡兹克 (@Khazix0918)",
+            "sourceUrl": "https://x.com/Khazix0918/status/2126294658431201385",
+            "aihotUrl": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc"
           }
         ]
       }
     ],
-    "flashes": [],
+    "flashes": [
+      {
+        "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+        "summary": "",
+        "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+        "sourceUrl": "https://x.com/rohanpaul_ai/status/2126214860421914884",
+        "aihotUrl": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+        "publishedAt": "2026-11-27T07:21:40.000Z"
+      }
+    ],
     "archive": [
+      {
+        "date": "2026-11-28",
+        "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "aihotUrl": "https://aihot.news/daily/2026-11-28"
+      },
       {
         "date": "2026-11-27",
         "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
@@ -217,13 +174,8 @@
         "date": "2026-11-08",
         "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
         "aihotUrl": "https://aihot.news/daily/2026-11-08"
-      },
-      {
-        "date": "2026-11-07",
-        "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
-        "aihotUrl": "https://aihot.news/daily/2026-11-07"
       }
     ],
-    "shapedAt": "2026-11-27T23:21:37.728Z"
+    "shapedAt": "2026-11-28T04:46:54.860Z"
   }
 }
